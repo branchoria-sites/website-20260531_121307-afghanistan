@@ -245,7 +245,7 @@ next_link:
   permalink: /records-7bb423/
   short_title: Records
   heading_title: Where Singapore UFO Evidence Actually Comes From
-date: '2026-06-09 01:40:02 '
+date: '2026-06-10 02:07:07 '
 header:
   og_image: /assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-
 
 ## Introduction
 
-Recent [Singapore]({{ 'what-singapore-ufo-sightings-really-show/' | relative_url }}) sky mysteries tend to follow a different pattern from the classic UFO stories of the twentieth century. Instead of newspaper reports filtered through editors and officials, modern sightings usually begin with a photograph, short video clip or social media post. Within minutes, unusual lights can be circulating across Facebook groups, Telegram chats, TikTok feeds and local news sites. What looks at first like a portal, UFO, explosion or unidentified object often turns out to be a meteor, refinery flare reflection, atmospheric optical effect or distant industrial fire.
+Recent Singapore sky mysteries tend to follow a different pattern from the classic UFO stories of the twentieth century. Instead of newspaper reports filtered through editors and officials, modern sightings usually begin with a photograph, short video clip or social media post. Within minutes, unusual lights can be circulating across Facebook groups, Telegram chats, TikTok feeds and local news sites. What looks at first like a portal, UFO, explosion or unidentified object often turns out to be a meteor, refinery flare reflection, atmospheric optical effect or distant industrial fire.
 
 
 <img src="{{ "/assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1-dark.svg" | relative_url }}" alt="Modern Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ That does not make these sightings uninteresting. In fact, Singapore's modern ca
 
 ## The 2023 Orange Vertical Light
 
-On the night of 10 December 2023, residents in areas including Yishun, Lower Delta Road and Serangoon Gardens photographed a striking orange vertical streak suspended in the sky. The images spread rapidly online, prompting jokes about science-fiction portals, supernatural signs and UFOs. Several observers noted that the phenomenon appeared suddenly and then faded away after a short period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stomp.sg">[STOMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stomp.sg</span><span class="citation-popover-title">Strange orange vertical light in night sky spotted at Lower</span><span class="citation-popover-snippet">STOMPStrange orange vertical light in night sky spotted at Lower...December 12, 2023 — 11 Dec 2023 — A mysterious orange vertical sliver...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
+On the night of 10 December 2023, residents in areas including Yishun, Lower Delta Road and Serangoon Gardens photographed a striking orange vertical streak suspended in the sky. The images spread rapidly online, prompting jokes about science-fiction portals, supernatural signs and UFOs. Several observers noted that the phenomenon appeared suddenly and then faded away after a short period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stomp.sg">[STOMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stomp.sg</span><span class="citation-popover-title">Strange orange vertical light in night sky spotted at Lower</span><span class="citation-popover-snippet">Strange orange vertical light in night sky spotted at Lower...December 12, 2023 — 11 Dec 2023 — A mysterious orange vertical sliver...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
 
 What made the sighting unusual was its shape. Instead of appearing as a glowing orb or moving light, it resembled a narrow luminous pillar. This led some observers to compare it with rare atmospheric events such as sprites, which are electrical discharges that occur high above thunderstorms. However, atmospheric specialists quickly pointed toward a more terrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stomp.sg/singapore-seen/bright-orange-glow-spotted-yishun-toa-payoh-heres-what-it-really-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stomp.sg">[STOMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stomp.sg</span><span class="citation-popover-title">bright orange glow spotted yishun toa payoh heres what it really was</span><span class="citation-popover-snippet">Bright orange glow spotted from Yishun to Toa Payoh16 Oct 2025 — The orange glow actually came from flaring activities at refineries and...</span></span></span>
 
@@ -326,7 +326,7 @@ This does not mean every detail was resolved. Scientists could not determine the
 
 Singapore's digital environment helps transform brief sky events into national talking points.
 
-A generation ago, a person might have seen a strange light and told a few friends. Today, a photograph can be uploaded immediately and viewed by thousands of people before experts have had time to evaluate it. Online communities dedicated to weather, astronomy and skywatching frequently become the first places where sightings are collected and compared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stomp.sg">[STOMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stomp.sg</span><span class="citation-popover-title">Strange orange vertical light in night sky spotted at Lower</span><span class="citation-popover-snippet">STOMPStrange orange vertical light in night sky spotted at Lower...December 12, 2023 — 11 Dec 2023 — A mysterious orange vertical sliver...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
+A generation ago, a person might have seen a strange light and told a few friends. Today, a photograph can be uploaded immediately and viewed by thousands of people before experts have had time to evaluate it. Online communities dedicated to weather, astronomy and skywatching frequently become the first places where sightings are collected and compared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stomp.sg">[STOMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stomp.sg</span><span class="citation-popover-title">Strange orange vertical light in night sky spotted at Lower</span><span class="citation-popover-snippet">Strange orange vertical light in night sky spotted at Lower...December 12, 2023 — 11 Dec 2023 — A mysterious orange vertical sliver...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
 
 This rapid circulation creates two competing effects.
 
@@ -375,86 +375,44 @@ Singapore's geography contributes to this outcome. The island sits near major sh
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Recent Singapore Sky Lights Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Recent Singapore Sky Lights Go Viral, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful for comparing viral sightings with stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Connects modern media-driven sightings with investigation and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides methods for evaluating photos, videos and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Explains why online sharing rapidly amplifies sky mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -488,75 +446,71 @@ Singapore's geography contributes to this outcome. The island sits near major sh
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-sightings-0d9fb8-why-recent-singapore-sky-lights-go-viral-singapore-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -771,127 +725,127 @@ Singapore's geography contributes to this outcome. The island sits near major sh
 1. <a id="endnote-1"></a>
    Source: ntu.edu.sg  
    Title: Corporate NTUIt's not Dr Strange: No need to be alarmed by  
-   Link: [https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert](https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert)  
+   Link: <a href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 13, 2023 — 13 Dec 2023 — Prof Wang, who holds a PhD in atmospheric sciences, said such lights are usually a reflection of sunlig...</p></details>
    Published: December 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: channelnewsasia.com  
    Title: singapore fireball meteor may 24 experts share what know 4366441  
-   Link: [https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441](https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441)  
+   Link: <a href="https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNASaw the fireball over Singapore? Here&#x27;s what to know...27 May 2024 — The experts that CNA spoke to said that the fireball was likely...</p></details>
    Published: May 2024  
 
 3. <a id="endnote-3"></a>
    Source: stomp.sg  
    Title: Strange orange vertical light in night sky spotted at Lower  
-   Link: [https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely](https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>STOMPStrange orange vertical light in night sky spotted at Lower...December 12, 2023 — 11 Dec 2023 — A mysterious orange vertical sliver...</p></details>
+   Link: <a href="https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely" target="_blank" rel="noopener noreferrer nofollow">https://www.stomp.sg/singapore-seen/strange-orange-vertical-light-in-night-sky-spotted-at-lower-delta-and-yishun-likely</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange orange vertical light in night sky spotted at Lower...December 12, 2023 — 11 Dec 2023 — A mysterious orange vertical sliver...</p></details>
    Published: December 12, 2023  
 
 4. <a id="endnote-4"></a>
    Source: mothership.sg  
    Title: Vertical light seen in S'pore sky on Dec  
-   Link: [https://mothership.sg/2023/12/vertical-light-sky-johor-refinery/](https://mothership.sg/2023/12/vertical-light-sky-johor-refinery/)  
+   Link: <a href="https://mothership.sg/2023/12/vertical-light-sky-johor-refinery/" target="_blank" rel="noopener noreferrer nofollow">https://mothership.sg/2023/12/vertical-light-sky-johor-refinery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10, 2023, likely...11 Dec 2023 — The bar of light is likely due to flares originating from oil refineries in Johor, Malaysia. Flaring is...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/266900051167619/posts/1178936213297327/](https://www.facebook.com/groups/266900051167619/posts/1178936213297327/)  
+   Link: <a href="https://www.facebook.com/groups/266900051167619/posts/1178936213297327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266900051167619/posts/1178936213297327/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Sighting in South Eastern Singapore Skies on May...Between 11:47:40pm to 11:47:45pm, 24 May 2024. Amazing fireball flew past ou...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ChannelNewsAsia/posts/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/853132380176483/](https://www.facebook.com/ChannelNewsAsia/posts/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/853132380176483/)  
+   Link: <a href="https://www.facebook.com/ChannelNewsAsia/posts/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/853132380176483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChannelNewsAsia/posts/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/853132380176483/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts say it could have been a comet or asteroid fragment burning up in...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/266900051167619/posts/943776940146590/](https://www.facebook.com/groups/266900051167619/posts/943776940146590/)  
+   Link: <a href="https://www.facebook.com/groups/266900051167619/posts/943776940146590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266900051167619/posts/943776940146590/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange light brightening night sky in Singapore&#x27;s south-westThe flame was likely from a refinery in Pengerang, Johor that was carrying ou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ChannelNewsAsia/videos/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/479810007714740/](https://www.facebook.com/ChannelNewsAsia/videos/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/479810007714740/)  
+   Link: <a href="https://www.facebook.com/ChannelNewsAsia/videos/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/479810007714740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChannelNewsAsia/videos/%EF%B8%8F-did-you-see-the-fireball-over-singapore-last-friday-may-24-experts-say-it-coul/479810007714740/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts say it could have been a comet or asteroid fragment burning up in Earth&#x27;s atmosphere...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: What's that orange glow in the night sky?  
-   Link: [https://www.facebook.com/SGBreakingNews/posts/whats-that-orange-glow-in-the-night-sky-if-you-spotted-a-fiery-orange-light-over/1420663263401560/](https://www.facebook.com/SGBreakingNews/posts/whats-that-orange-glow-in-the-night-sky-if-you-spotted-a-fiery-orange-light-over/1420663263401560/)  
+   Link: <a href="https://www.facebook.com/SGBreakingNews/posts/whats-that-orange-glow-in-the-night-sky-if-you-spotted-a-fiery-orange-light-over/1420663263401560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SGBreakingNews/posts/whats-that-orange-glow-in-the-night-sky-if-you-spotted-a-fiery-orange-light-over/1420663263401560/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>👀 If you spotted a...Vertical light seen in S&#x27;pore sky on Dec. 10, 2023, likely due to Johor refinery flaring. Joseph Guan and 2 others...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ChannelNewsAsia/posts/did-you-see-the-fireball-over-singapore-last-friday-cna-spoke-to-two-experts-to-/852609880228733/](https://www.facebook.com/ChannelNewsAsia/posts/did-you-see-the-fireball-over-singapore-last-friday-cna-spoke-to-two-experts-to-/852609880228733/)  
+   Link: <a href="https://www.facebook.com/ChannelNewsAsia/posts/did-you-see-the-fireball-over-singapore-last-friday-cna-spoke-to-two-experts-to-/852609880228733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChannelNewsAsia/posts/did-you-see-the-fireball-over-singapore-last-friday-cna-spoke-to-two-experts-to-/852609880228733/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to find out more about it. ☄️; Tim Liu ▻ CloudSpotting &amp;...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: stomp.sg  
    Title: bright orange glow spotted yishun toa payoh heres what it really was  
-   Link: [https://www.stomp.sg/singapore-seen/bright-orange-glow-spotted-yishun-toa-payoh-heres-what-it-really-was](https://www.stomp.sg/singapore-seen/bright-orange-glow-spotted-yishun-toa-payoh-heres-what-it-really-was)  
+   Link: <a href="https://www.stomp.sg/singapore-seen/bright-orange-glow-spotted-yishun-toa-payoh-heres-what-it-really-was" target="_blank" rel="noopener noreferrer nofollow">https://www.stomp.sg/singapore-seen/bright-orange-glow-spotted-yishun-toa-payoh-heres-what-it-really-was</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright orange glow spotted from Yishun to Toa Payoh16 Oct 2025 — The orange glow actually came from flaring activities at refineries and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: straitstimes.com  
-   Link: [https://www.straitstimes.com/singapore/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert](https://www.straitstimes.com/singapore/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert)  
+   Link: <a href="https://www.straitstimes.com/singapore/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/singapore/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/OcPQVu0jktg](https://www.youtube.com/shorts/OcPQVu0jktg)  
+   Link: <a href="https://www.youtube.com/shorts/OcPQVu0jktg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OcPQVu0jktg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ Fireball seen over SingaporeDid you see the fireball over Singapore last Friday (May 24)? Experts say it could have been a comet or as...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: asiaone.com  
    Title: fiery orange glow lights singapore skyline leaves residents puzzled  
-   Link: [https://www.asiaone.com/singapore/fiery-orange-glow-lights-singapore-skyline-leaves-residents-puzzled](https://www.asiaone.com/singapore/fiery-orange-glow-lights-singapore-skyline-leaves-residents-puzzled)  
+   Link: <a href="https://www.asiaone.com/singapore/fiery-orange-glow-lights-singapore-skyline-leaves-residents-puzzled" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaone.com/singapore/fiery-orange-glow-lights-singapore-skyline-leaves-residents-puzzled</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiery orange glow lights up Singapore skyline, leaves...15 Oct 2025 — A fiery orange glow lit up the skyline on Wednesday (Oct 15) night...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C8boWfQIH-A/](https://www.instagram.com/reel/C8boWfQIH-A/)  
+   Link: <a href="https://www.instagram.com/reel/C8boWfQIH-A/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8boWfQIH-A/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sciencecentresg on June 20, 2024: &quot;Saw the news about the fireball over Singapore last month?...</p></details>
    Published: June 20, 2024  
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/C0ym7LZMr3Z/](https://www.instagram.com/p/C0ym7LZMr3Z/)  
+   Link: <a href="https://www.instagram.com/p/C0ym7LZMr3Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C0ym7LZMr3Z/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No, it&#x27;s not Dr Strange opening a portal or a sign of the end of...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Mysterious Orange Glow Lights Up Singapore Sky Overnight  
-   Link: [https://www.youtube.com/watch?v=XIHNwNooz2w](https://www.youtube.com/watch?v=XIHNwNooz2w)  
+   Link: <a href="https://www.youtube.com/watch?v=XIHNwNooz2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XIHNwNooz2w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johor&#x27;s Pasir Gudang industrial area, believed to be caused by refinery flaring.... #singaporenews #singapore #johor #refinery #pasirgud...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C7gwQS-pKZk/](https://www.instagram.com/reel/C7gwQS-pKZk/)  
+   Link: <a href="https://www.instagram.com/reel/C7gwQS-pKZk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C7gwQS-pKZk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a comet or asteroid fragment that burned up in the earth&#x27;s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5Wl5c4n46RI](https://www.youtube.com/watch?v=5Wl5c4n46RI)  
+   Link: <a href="https://www.youtube.com/watch?v=5Wl5c4n46RI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Wl5c4n46RI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explosion from manhole at multi-storey carpark in Bukit Batok West | THE BIG STORY...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mustsharenews.com  
    Title: fiery glow 15 oct  
-   Link: [https://mustsharenews.com/fiery-glow-15-oct/](https://mustsharenews.com/fiery-glow-15-oct/)  
+   Link: <a href="https://mustsharenews.com/fiery-glow-15-oct/" target="_blank" rel="noopener noreferrer nofollow">https://mustsharenews.com/fiery-glow-15-oct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange glow lights up Singapore night sky on 15 Oct16 Oct 2025 — Residents across Singapore spotted a bright orange glow from Johor&#x27;s Pas...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Fireball from Pasir Gudang factory fire, as seen in Singapore  
-   Link: [https://www.youtube.com/watch?v=45S9f5w-SGs](https://www.youtube.com/watch?v=45S9f5w-SGs)  
+   Link: <a href="https://www.youtube.com/watch?v=45S9f5w-SGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=45S9f5w-SGs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious light in the sky in Singapore 21 November 2023...</p></details>
    Published: November 2023  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nmyyi0IIolo](https://www.youtube.com/watch?v=nmyyi0IIolo)  
+   Link: <a href="https://www.youtube.com/watch?v=nmyyi0IIolo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nmyyi0IIolo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 meteor showers and 5 supermoons over Singapore in 2024...</p></details>
    Published: November 2023  

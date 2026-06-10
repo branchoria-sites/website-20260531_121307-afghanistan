@@ -245,7 +245,7 @@ next_link:
   permalink: /natural-lights/
   short_title: Natural Lights
   heading_title: When Tonga's Sky Looks Like a UFO
-date: '2026-06-09 01:42:48 '
+date: '2026-06-10 02:10:20 '
 header:
   og_image: /assets/images/Tonga_e8a123_island_geography_con_3bb188-Illustration-1-social.jpg
   preview_image: /assets/images/Tonga_e8a123_island_geography_con_3bb188-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Tonga_e8a123_island_geography_con_3bb188-Illustration-1-so
 
 ## Introduction
 
-[Tonga]({{ 'what-really-exists-in-tongas-ufo-record/' | relative_url }})’s UFO reports are often discussed as mysteries in the sky, but many of the most confusing sightings begin with the geography below. The kingdom is spread across more than 170 islands over roughly 800 kilometres of ocean, with long horizons, scattered settlements, limited artificial lighting and large stretches of open water. In those conditions, judging the distance, height and speed of a light becomes unusually difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Geography_of_Tonga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Geography of Tonga</span><span class="citation-popover-snippet">Geography of Tonga</span></span></span>
+Tonga’s UFO reports are often discussed as mysteries in the sky, but many of the most confusing sightings begin with the geography below. The kingdom is spread across more than 170 islands over roughly 800 kilometres of ocean, with long horizons, scattered settlements, limited artificial lighting and large stretches of open water. In those conditions, judging the distance, height and speed of a light becomes unusually difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Geography_of_Tonga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Geography of Tonga</span><span class="citation-popover-snippet">Geography of Tonga</span></span></span>
 
 
 <img src="{{ "/assets/images/Tonga_e8a123_island_geography_con_3bb188-Illustration-1-dark.svg" | relative_url }}" alt="Island Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123_island_geography_con_3bb188-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123_island_geography_con_3bb188-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -268,7 +268,7 @@ At sea, a bright object can appear much closer than it actually is. A fishing ve
 
 Island geography adds another layer of confusion. Tonga’s islands frequently create partial visual obstruction. A vessel moving behind an island may disappear and reappear in unexpected ways. To a witness, this can look like an object making sudden manoeuvres, stopping abruptly or changing direction. In reality, the movement may be ordinary navigation viewed through a fragmented line of sight.
 
-This possibility is especially relevant to maritime UFO reports. The well-known 1992 Vavaʻu sighting involved lights observed over water at night before they disappeared behind an island. Regardless of whether the witnesses correctly ruled out nearby vessels, the report illustrates how island silhouettes can complicate interpretation because observers never have a continuous view of the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCAll NUFORC ReportsAll NUFORC Reports.; Open, 05/03/2026 04:00, Grand Forks; Open, 05/02/2026 22:01, Menifee; Open, 05/02/2026 20...</span></span></span>
+This possibility is especially relevant to maritime UFO reports. The well-known 1992 Vavaʻu sighting involved lights observed over water at night before they disappeared behind an island. Regardless of whether the witnesses correctly ruled out nearby vessels, the report illustrates how island silhouettes can complicate interpretation because observers never have a continuous view of the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsAll NUFORC Reports.; Open, 05/03/2026 04:00, Grand Forks; Open, 05/02/2026 22:01, Menifee; Open, 05/02/2026 20...</span></span></span>
 
 ## Why Water Changes the Appearance of Lights
 
@@ -384,86 +384,44 @@ For that reason, geography is not a side issue in Tonga's UFO history. It is one
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Tonga Makes Lights Hard to Judge. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Tonga Makes Lights Hard to Judge, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Focuses on how lights, planets, aircraft and observational errors create UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers identify celestial objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Explains what observers actually see in dark skies and over open horizons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
-        
-        <p class="fr-book-desc">Covers environmental and observational factors affecting UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -497,75 +455,71 @@ For that reason, geography is not a side issue in Tonga's UFO history. It is one
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-effects-5ac504-why-tonga-makes-lights-hard-to-judge-tonga-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -780,149 +734,149 @@ For that reason, geography is not a side issue in Tonga's UFO history. It is one
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Geography of Tonga  
-   Link: [https://en.wikipedia.org/wiki/Geography_of_Tonga](https://en.wikipedia.org/wiki/Geography_of_Tonga)  
+   Link: <a href="https://en.wikipedia.org/wiki/Geography_of_Tonga" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Tonga</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Tonga](https://en.wikipedia.org/wiki/Tonga)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tonga" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonga</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TongaTonga, officially the Kingdom of Tonga, is an island country in Polynesia, part of Oceania. The country has 171 islands, of which...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCAll NUFORC ReportsAll NUFORC Reports.; Open, 05/03/2026 04:00, Grand Forks; Open, 05/02/2026 22:01, Menifee; Open, 05/02/2026 20...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 05/03/2026 04:00, Grand Forks; Open, 05/02/2026 22:01, Menifee; Open, 05/02/2026 20...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: tonga volcano eruption damage satellite images  
-   Link: [https://www.space.com/tonga-volcano-eruption-damage-satellite-images](https://www.space.com/tonga-volcano-eruption-damage-satellite-images)  
+   Link: <a href="https://www.space.com/tonga-volcano-eruption-damage-satellite-images" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/tonga-volcano-eruption-damage-satellite-images</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Saturday (Jan. 15), the volcano erupted...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183458](https://nuforc.org/sighting/?id=183458)  
+   Link: <a href="https://nuforc.org/sighting/?id=183458" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183458</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18345815 Oct 2024 — NUFORC UFO Sighting 183458. Occurred: 2024-10-10 20:45 Local Reported: 2024-10-14 08:28 Pacific D...</p></details>
    Published: October 10, 2024  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=129259](https://nuforc.org/sighting/?id=129259)  
+   Link: <a href="https://nuforc.org/sighting/?id=129259" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=129259</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 129259NUFORC UFO Sighting 129259. Occurred: 2016-08-13 23:33 Local (8/13/216) Reported: 2016-08-13 22:25 Pacific Dura...</p></details>
    Published: August 13, 2016  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationMysterious Lights in Northern Michigan – A NUFORC Investigation · 68 New UFO Images Added to Gallery · NUFORC P...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=47486](https://nuforc.org/sighting/?id=47486)  
+   Link: <a href="https://nuforc.org/sighting/?id=47486" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=47486</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 47486NUFORC UFO Sighting 47486. Occurred: 1967-08-01 19:00 Local - Approximate Reported: 2005-11-06 01:42 Pacific Dur...</p></details>
    Published: November 6, 2005  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
+   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCNational UFO Reporting Center – Sighting Report Form · SIGHTING DATE AND TIME · SIGHTING LOCATION · DESC...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: timeanddate.com  
    Title: Time and Date Visible Planets in Tonga Islands  
-   Link: [https://www.timeanddate.com/astronomy/night/%404032282](https://www.timeanddate.com/astronomy/night/%404032282)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/%404032282" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/%404032282</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moon and planets have been enlarged slightly for clarity. On mobile devices, tap to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/night/%404032277](https://www.timeanddate.com/astronomy/night/%404032277)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/%404032277" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/%404032277</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Tonight: Visible Planets in TongatapuOur Interactive Night Sky Map simulates the sky above Tongatapu. The Moon and planets have...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/earth/earth-observatory/nice-and-dark-in-niue-146573/](https://science.nasa.gov/earth/earth-observatory/nice-and-dark-in-niue-146573/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/nice-and-dark-in-niue-146573/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/nice-and-dark-in-niue-146573/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNice and Dark in NiueThe small, isolated island in the South Pacific Ocean has been named the first “dark-sky nation.” NASA E...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: businessinsider.com  
    Title: nasa satellite images show tonga volcano eruption reached mesosphere 2022 2  
-   Link: [https://www.businessinsider.com/nasa-satellite-images-show-tonga-volcano-eruption-reached-mesosphere-2022-2](https://www.businessinsider.com/nasa-satellite-images-show-tonga-volcano-eruption-reached-mesosphere-2022-2)  
+   Link: <a href="https://www.businessinsider.com/nasa-satellite-images-show-tonga-volcano-eruption-reached-mesosphere-2022-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/nasa-satellite-images-show-tonga-volcano-eruption-reached-mesosphere-2022-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderNASA: Satellite Images Show Tonga Volcano Eruption...18 Feb 2022 — NASA scientists say the Tonga volcano eruption shot o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Tonga](https://www.britannica.com/place/Tonga)  
+   Link: <a href="https://www.britannica.com/place/Tonga" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Tonga</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It consists of some 170 islands divided into three main island groups: Tongatapu in the south, Ha&#x27;apai in the...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/geography-and-cartography/tonga](https://www.ebsco.com/research-starters/geography-and-cartography/tonga)  
+   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/tonga" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/tonga</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geography and Cartography | Research Starters4 Jun 2025 — Tonga is an archipelago located in the South Pacific Ocean, comprised of over 1...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: lonelyplanet.com  
-   Link: [https://www.lonelyplanet.com/articles/best-places-for-dark-skies](https://www.lonelyplanet.com/articles/best-places-for-dark-skies)  
+   Link: <a href="https://www.lonelyplanet.com/articles/best-places-for-dark-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.lonelyplanet.com/articles/best-places-for-dark-skies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 of the world&#x27;s best places for stargazingHere is a selection of my favorite stargazing destinations around the world, but remember, the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theskylive.com  
-   Link: [https://theskylive.com/planetarium?geoid=4032369](https://theskylive.com/planetarium?geoid=4032369)  
+   Link: <a href="https://theskylive.com/planetarium?geoid=4032369" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planetarium?geoid=4032369</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Maps: Night Sky from Pangai, TongaThe night sky visible from Pangai, Tonga. Find constellations, planets, asteroids and other celest...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: indexmundi.com  
-   Link: [https://www.indexmundi.com/tonga/geography_profile.html](https://www.indexmundi.com/tonga/geography_profile.html)  
+   Link: <a href="https://www.indexmundi.com/tonga/geography_profile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.indexmundi.com/tonga/geography_profile.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga Geography ProfileTonga Geography Profile; Terrain, mostly flat islands with limestone bedrock formed from uplifted coral formation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: q-files.com  
-   Link: [https://www.q-files.com/geography/oceania/tonga/print](https://www.q-files.com/geography/oceania/tonga/print)  
+   Link: <a href="https://www.q-files.com/geography/oceania/tonga/print" target="_blank" rel="noopener noreferrer nofollow">https://www.q-files.com/geography/oceania/tonga/print</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga: Facts and InformationThe islands are mostly covered with tropical rainforest, and are home to flying foxes, which, according to To...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tony.brunt.173094/posts/the-te-lapa-mystery-and-tonga-2two-more-witness-accounts-from-tonga-of-the-myste/1715951568794341/](https://www.facebook.com/tony.brunt.173094/posts/the-te-lapa-mystery-and-tonga-2two-more-witness-accounts-from-tonga-of-the-myste/1715951568794341/)  
+   Link: <a href="https://www.facebook.com/tony.brunt.173094/posts/the-te-lapa-mystery-and-tonga-2two-more-witness-accounts-from-tonga-of-the-myste/1715951568794341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tony.brunt.173094/posts/the-te-lapa-mystery-and-tonga-2two-more-witness-accounts-from-tonga-of-the-myste/1715951568794341/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>terious underwater lightning effect, Te Lapa, which has been...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseOrbs, lights and fireballs are used interchagebly by witnesses though. But definit...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064850641571/posts/tonga-is-a-polynesian-archipelago-comprising-some-177-islands-with-a-total-surfa/880435504128130/](https://www.facebook.com/100064850641571/posts/tonga-is-a-polynesian-archipelago-comprising-some-177-islands-with-a-total-surfa/880435504128130/)  
+   Link: <a href="https://www.facebook.com/100064850641571/posts/tonga-is-a-polynesian-archipelago-comprising-some-177-islands-with-a-total-surfa/880435504128130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064850641571/posts/tonga-is-a-polynesian-archipelago-comprising-some-177-islands-with-a-total-surfa/880435504128130/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga is a Polynesian archipelago comprising some 177-...Tonga is located in Oceania in the South Pacific Ocean, south of Western Samoa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: radhikaranjanmarxist.blogspot.com  
    Title: located in oceania tonga is archipelago  
-   Link: [https://radhikaranjanmarxist.blogspot.com/2013/06/located-in-oceania-tonga-is-archipelago.html](https://radhikaranjanmarxist.blogspot.com/2013/06/located-in-oceania-tonga-is-archipelago.html)  
+   Link: <a href="https://radhikaranjanmarxist.blogspot.com/2013/06/located-in-oceania-tonga-is-archipelago.html" target="_blank" rel="noopener noreferrer nofollow">https://radhikaranjanmarxist.blogspot.com/2013/06/located-in-oceania-tonga-is-archipelago.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geography of Tonga4 Jun 2013 — Its 176 islands, 36 of them inhabited, are divided into three main groups – Vava&#x27;u, Ha&#x27;apai, and Tongatapu...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/411633242305728/posts/1950089415126762/?comment_id=1950760628392974&locale=sv_SE](https://www.facebook.com/groups/411633242305728/posts/1950089415126762/?comment_id=1950760628392974&locale=sv_SE)  
+   Link: <a href="https://www.facebook.com/groups/411633242305728/posts/1950089415126762/?comment_id=1950760628392974&amp;locale=sv_SE" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/411633242305728/posts/1950089415126762/?comment_id=1950760628392974&amp;locale=sv_SE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 15, 1972 Location: Australia...Read more...</p></details>
    Published: September 15, 1972  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThisIsTonga/posts/tonight-in-the-kingdom-of-tongamesmerized-by-the-celestial-beauty-over-tonga-ton/741418001353741/](https://www.facebook.com/ThisIsTonga/posts/tonight-in-the-kingdom-of-tongamesmerized-by-the-celestial-beauty-over-tonga-ton/741418001353741/)  
+   Link: <a href="https://www.facebook.com/ThisIsTonga/posts/tonight-in-the-kingdom-of-tongamesmerized-by-the-celestial-beauty-over-tonga-ton/741418001353741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThisIsTonga/posts/tonight-in-the-kingdom-of-tongamesmerized-by-the-celestial-beauty-over-tonga-ton/741418001353741/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s are putting on a dazzling show, painting...</p></details>

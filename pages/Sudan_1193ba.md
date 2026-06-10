@@ -1156,9 +1156,9 @@ sibling_links:
   short_title: San Marino UFOs
 child_links:
 - basename: Sudan_1193ba_asteroid_2008_tc3_726a35
-  title: 2008 TC3 | What Really Appeared Over Sudan?
-  permalink: /2008-tc3/
-  short_title: 2008 TC3
+  title: 2008 TC 3 | What Really Appeared Over Sudan?
+  permalink: /2008-tc-3/
+  short_title: 2008 TC 3
   heading_title: The Sudan Fireball Scientists Saw Coming
 - basename: Sudan_1193ba_khartoum_2018_zuma_3c8e39
   title: Khartoum 2018 | What Really Appeared Over Sudan?
@@ -1185,7 +1185,7 @@ next_link:
   title: Congo UFOs
   permalink: /what-really-counts-as-a-congo-ufo/
   short_title: Congo UFOs
-date: '2026-06-09 01:41:35 '
+date: '2026-06-10 02:08:52 '
 header:
   og_image: /assets/images/Sudan_1193ba-overview-social.jpg
   preview_image: /assets/images/Sudan_1193ba-overview.webp
@@ -1216,7 +1216,7 @@ On the evidence scale, the [Khartoum 2018]({{ 'khartoum-2018/' | relative_url }}
 <img src="{{ "/assets/images/Sudan_1193ba-Illustration-1-dark.svg" | relative_url }}" alt="What Really Appeared Over Sudan? illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed sky events in Sudan show what strong evidence looks like
 
-Sudan also has one of the world’s best-confirmed examples of a spectacular aerial event: asteroid [2008 TC3]({{ '2008-tc3/' | relative_url }}), which entered Earth’s atmosphere over northern Sudan on 7 October 2008. NASA’s Center for Near Earth Object Studies described it as a small near-Earth asteroid that produced a spectacular pre-dawn fireball above northern Sudan and likely scattered meteorite fragments across the Nubian Desert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sudan also has one of the world’s best-confirmed examples of a spectacular aerial event: asteroid 2008 TC3, which entered Earth’s atmosphere over northern Sudan on 7 October 2008. NASA’s Center for Near Earth Object Studies described it as a small near-Earth asteroid that produced a spectacular pre-dawn fireball above northern Sudan and likely scattered meteorite fragments across the Nubian Desert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This event matters for a Sudan UFO page because it sets a clear standard for evidence. Unlike most UFO reports, 2008 TC3 was detected before impact, tracked by astronomers, observed as a fireball, detected by satellites and infrasound systems, and later linked to recovered meteorites. NASA later reported that scientists and University of Khartoum participants recovered fragments from the Nubian Desert, turning a dramatic sky event into a studied physical sample. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1297,86 +1297,44 @@ That makes Sudan a natural sibling page to country-level UFO studies where a sin
 The balanced conclusion is narrow but useful: Sudan currently has no strong public evidence of extraterrestrial UFO activity, no visible national UFO archive, and one major modern sighting that is best explained by a rocket-stage event. Its most robust “mysterious sky” evidence is actually conventional science: a tracked asteroid over the Nubian Desert and a rocket plume over Khartoum, both showing that the strange can be real without being alien.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Appeared Over Sudan?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Appeared Over Sudan?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Connects unusual aerial observations with aviation and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides tools for assessing sightings with conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Examines how unexplained sightings are investigated and often resolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Provides broader context for government handling of unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1410,75 +1368,71 @@ The balanced conclusion is narrow but useful: Sudan currently has no strong publ
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacex Falcon 9 Crew Dragon Rocket Model - scale 1/48 1400mm 55inch - Assembled"><img src="{{ '/assets/images/marketplace-covers/862160443f7f7ef986cb.jpg' | relative_url }}" alt="Listing image for Spacex Falcon 9 Crew Dragon Rocket Model - scale 1/48 1400mm 55inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">Spacex Falcon 9 Crew Dragon Rocket Model - scale 1/48 1400mm 55inch - Assembled</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-appeared-over-sudan-sudan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-appeared-over-sudan-sudan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled"><img src="{{ '/assets/images/marketplace-covers/522b6aa2632b5e3ebdda.jpg' | relative_url }}" alt="Listing image for Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-appeared-over-sudan-sudan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-appeared-over-sudan-sudan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled"><img src="{{ '/assets/images/marketplace-covers/e183ace38a3cf64663f3.jpg' | relative_url }}" alt="Listing image for Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-appeared-over-sudan-sudan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-appeared-over-sudan-sudan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX Falcon 9 crew dragon capsule Comic with Legs Display Model Spacecraft Exp"><img src="{{ '/assets/images/marketplace-covers/db7e2de38632399fcea2.jpg' | relative_url }}" alt="Listing image for SpaceX Falcon 9 crew dragon capsule Comic with Legs Display Model Spacecraft Exp" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">SpaceX Falcon 9 crew dragon capsule Comic with Legs Display Model Spacecraft Exp</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-appeared-over-sudan-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-appeared-over-sudan-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-progra" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="falcon 9 model" data-ebay-reference="what-really-appeared-over-sudan-sudan-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-appeared-over-sudan-sudan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1692,253 +1646,253 @@ The balanced conclusion is narrow but useful: Sudan currently has no strong publ
 
 1. <a id="endnote-1"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/news/2008tc3.html](https://cneos.jpl.nasa.gov/news/2008tc3.html)  
+   Link: <a href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/news/2008tc3.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: 39338 spacex zuma rocket sky spiral photos  
-   Link: [https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html](https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html)  
+   Link: <a href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: Is Space X's Covert Zuma Payload Missing in Action?  
-   Link: [https://www.wired.com/story/is-spacexs-covert-zuma-payload-missing-in-action/](https://www.wired.com/story/is-spacexs-covert-zuma-payload-missing-in-action/)  
+   Link: <a href="https://www.wired.com/story/is-spacexs-covert-zuma-payload-missing-in-action/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/is-spacexs-covert-zuma-payload-missing-in-action/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cneos.jpl.nasa.gov  
    Title: CNEOSNASA Team Finds Riches in Meteorite Treasure Hunt  
-   Link: [https://cneos.jpl.nasa.gov/news/news163.html](https://cneos.jpl.nasa.gov/news/news163.html)  
+   Link: <a href="https://cneos.jpl.nasa.gov/news/news163.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/news/news163.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/metbull.php?code=48915](https://www.lpi.usra.edu/meteor/metbull.php?code=48915)  
+   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=48915" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=48915</a>  
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
    Title: Sudan's RSF conducts first drone attack on Port  
-   Link: [https://www.reuters.com/world/africa/sudanese-rsf-conducts-first-drone-attack-port-sudan-says-army-spokesperson-2025-05-04/](https://www.reuters.com/world/africa/sudanese-rsf-conducts-first-drone-attack-port-sudan-says-army-spokesperson-2025-05-04/)  
+   Link: <a href="https://www.reuters.com/world/africa/sudanese-rsf-conducts-first-drone-attack-port-sudan-says-army-spokesperson-2025-05-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/sudanese-rsf-conducts-first-drone-attack-port-sudan-says-army-spokesperson-2025-05-04/</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/africa/explosions-heard-sudanese-city-port-sudan-reuters-witness-reports-2025-05-06/](https://www.reuters.com/world/africa/explosions-heard-sudanese-city-port-sudan-reuters-witness-reports-2025-05-06/)  
+   Link: <a href="https://www.reuters.com/world/africa/explosions-heard-sudanese-city-port-sudan-reuters-witness-reports-2025-05-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/explosions-heard-sudanese-city-port-sudan-reuters-witness-reports-2025-05-06/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RSF-led assault marks a significant escalation in the two-year-old conflict and a shift in control dynamics, with the paramilitary gr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/africa/drones-shatter-months-relative-calm-khartoum-hit-airport-2026-05-04/](https://www.reuters.com/world/africa/drones-shatter-months-relative-calm-khartoum-hit-airport-2026-05-04/)  
+   Link: <a href="https://www.reuters.com/world/africa/drones-shatter-months-relative-calm-khartoum-hit-airport-2026-05-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/drones-shatter-months-relative-calm-khartoum-hit-airport-2026-05-04/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The conflict between Sudan’s army and the paramilitary Rapid Support Forces (RSF), ongoing since 2023, has turned heavily reliant on dron...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A global picture of unidentified anomalous phenomena  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: Sudan's RSF launches second drone attack in Port  
-   Link: [https://www.reuters.com/world/africa/sudans-rsf-launches-second-drone-attack-port-sudan-security-sources-say-2025-05-05/](https://www.reuters.com/world/africa/sudans-rsf-launches-second-drone-attack-port-sudan-security-sources-say-2025-05-05/)  
+   Link: <a href="https://www.reuters.com/world/africa/sudans-rsf-launches-second-drone-attack-port-sudan-security-sources-say-2025-05-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/sudans-rsf-launches-second-drone-attack-port-sudan-security-sources-say-2025-05-05/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/africa/explosions-heard-port-sudan-army-launched-anti-aircraft-missiles-reuters-witness-2025-05-07/](https://www.reuters.com/world/africa/explosions-heard-port-sudan-army-launched-anti-aircraft-missiles-reuters-witness-2025-05-07/)  
+   Link: <a href="https://www.reuters.com/world/africa/explosions-heard-port-sudan-army-launched-anti-aircraft-missiles-reuters-witness-2025-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/explosions-heard-port-sudan-army-launched-anti-aircraft-missiles-reuters-witness-2025-05-07/</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: nubian desert meteorite  
-   Link: [https://science.nasa.gov/resource/nubian-desert-meteorite/](https://science.nasa.gov/resource/nubian-desert-meteorite/)  
+   Link: <a href="https://science.nasa.gov/resource/nubian-desert-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/nubian-desert-meteorite/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/aerospace-defense/long-range-kamikaze-drones-seen-near-rsf-base-could-worsen-conflict-sudan-2025-09-12/](https://www.reuters.com/business/aerospace-defense/long-range-kamikaze-drones-seen-near-rsf-base-could-worsen-conflict-sudan-2025-09-12/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/long-range-kamikaze-drones-seen-near-rsf-base-could-worsen-conflict-sudan-2025-09-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/long-range-kamikaze-drones-seen-near-rsf-base-could-worsen-conflict-sudan-2025-09-12/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/video/watch/idRW786905052026RP1/](https://www.reuters.com/video/watch/idRW786905052026RP1/)  
+   Link: <a href="https://www.reuters.com/video/watch/idRW786905052026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW786905052026RP1/</a>  
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
    Title: uae denies involvement sudan airport attack 2026 05 06  
-   Link: [https://www.reuters.com/business/media-telecom/uae-denies-involvement-sudan-airport-attack-2026-05-06/](https://www.reuters.com/business/media-telecom/uae-denies-involvement-sudan-airport-attack-2026-05-06/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/uae-denies-involvement-sudan-airport-attack-2026-05-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/uae-denies-involvement-sudan-airport-attack-2026-05-06/</a>  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260](https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260)  
+   Link: <a href="https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 24238225 The impact and recovery of asteroid 2008 TC3  
-   Link: [https://www.researchgate.net/publication/24238225_The_impact_and_recovery_of_asteroid_2008_TC3](https://www.researchgate.net/publication/24238225_The_impact_and_recovery_of_asteroid_2008_TC3)  
+   Link: <a href="https://www.researchgate.net/publication/24238225_The_impact_and_recovery_of_asteroid_2008_TC3" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24238225_The_impact_and_recovery_of_asteroid_2008_TC3</a>  
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: sudan clashes satellite photos maxar  
-   Link: [https://www.space.com/sudan-clashes-satellite-photos-maxar](https://www.space.com/sudan-clashes-satellite-photos-maxar)  
+   Link: <a href="https://www.space.com/sudan-clashes-satellite-photos-maxar" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/sudan-clashes-satellite-photos-maxar</a>  
 
 27. <a id="endnote-27"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 28. <a id="endnote-28"></a>
    Source: space.com  
    Title: 13215 triple asteroid collision sudan meteorites  
-   Link: [https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html](https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html)  
+   Link: <a href="https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=A9cLL3NkT54](https://www.youtube.com/watch?v=A9cLL3NkT54)  
+   Link: <a href="https://www.youtube.com/watch?v=A9cLL3NkT54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A9cLL3NkT54</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ADm4g3bLWTE](https://www.youtube.com/watch?v=ADm4g3bLWTE)  
+   Link: <a href="https://www.youtube.com/watch?v=ADm4g3bLWTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADm4g3bLWTE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 launches Zuma &amp; Falcon 9 first stage landing, 8 January 2018...</p></details>
    Published: January 2018  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JxTYk4qdlpw](https://www.youtube.com/watch?v=JxTYk4qdlpw)  
+   Link: <a href="https://www.youtube.com/watch?v=JxTYk4qdlpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JxTYk4qdlpw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
    Published: January 2018  
 
 32. <a id="endnote-32"></a>
    Source: english.alarabiya.net  
    Title: Mysterious UFO seen over Khartoum on Monday night and stifles military  
-   Link: [https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military](https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military)  
+   Link: <a href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military</a>  
 
 33. <a id="endnote-33"></a>
    Source: sattrackcam.blogspot.com  
    Title: fuel dump of zumas falcon 9 upper stage  
-   Link: [https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html](https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html)  
+   Link: <a href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html</a>  
 
 34. <a id="endnote-34"></a>
    Source: cbsnews.com  
    Title: CBS News Fate of secret satellite a mystery amid reports of failure  
-   Link: [https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/](https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/)  
+   Link: <a href="https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/</a>  
 
 35. <a id="endnote-35"></a>
    Source: spaceflightnow.com  
    Title: after zuma spacex keeps pace in preps for next falcon 9 launch  
-   Link: [https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/](https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/)  
+   Link: <a href="https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/</a>  
 
 36. <a id="endnote-36"></a>
    Source: paranormalarabia.com  
    Title: ما وراء الطبيعة  
-   Link: [https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters](https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters)  
+   Link: <a href="https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters</a>  
 
 37. <a id="endnote-37"></a>
    Source: alarabiya.net  
    Title: عالم هولندي يفك لغز الجسم الغامض في سماء الخرطوم  
-   Link: [https://www.alarabiya.net/last-page/2018/01/10/%D8%B9%D8%A7%D9%84%D9%85-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A-%D9%8A%D9%81%D9%83-%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85](https://www.alarabiya.net/last-page/2018/01/10/%D8%B9%D8%A7%D9%84%D9%85-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A-%D9%8A%D9%81%D9%83-%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85)  
+   Link: <a href="https://www.alarabiya.net/last-page/2018/01/10/%D8%B9%D8%A7%D9%84%D9%85-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A-%D9%8A%D9%81%D9%83-%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85" target="_blank" rel="noopener noreferrer nofollow">https://www.alarabiya.net/last-page/2018/01/10/%D8%B9%D8%A7%D9%84%D9%85-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A-%D9%8A%D9%81%D9%83-%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: 2008 TC3  
-   Link: [https://en.wikipedia.org/wiki/2008_TC3](https://en.wikipedia.org/wiki/2008_TC3)  
+   Link: <a href="https://en.wikipedia.org/wiki/2008_TC3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2008_TC3</a>  
 
 39. <a id="endnote-39"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
 
 40. <a id="endnote-40"></a>
    Source: asima.seti.org  
-   Link: [https://asima.seti.org/2008TC3/recovery.html](https://asima.seti.org/2008TC3/recovery.html)  
+   Link: <a href="https://asima.seti.org/2008TC3/recovery.html" target="_blank" rel="noopener noreferrer nofollow">https://asima.seti.org/2008TC3/recovery.html</a>  
 
 41. <a id="endnote-41"></a>
    Source: teslarati.com  
    Title: space president breaks silence zuma mission failure rumor  
-   Link: [https://www.teslarati.com/space-president-breaks-silence-zuma-mission-failure-rumor/](https://www.teslarati.com/space-president-breaks-silence-zuma-mission-failure-rumor/)  
+   Link: <a href="https://www.teslarati.com/space-president-breaks-silence-zuma-mission-failure-rumor/" target="_blank" rel="noopener noreferrer nofollow">https://www.teslarati.com/space-president-breaks-silence-zuma-mission-failure-rumor/</a>  
 
 42. <a id="endnote-42"></a>
    Source: reutersconnect.com  
    Title: d GFn On Jld XRlcn Mu Y29t LDIw Mj U6bm V3c21s X01UMUFOQURMMDAw Nl JXMTVV  
-   Link: [https://www.reutersconnect.com/item/explosions-and-fires-in-sudanese-city-of-port-sudan/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwNlJXMTVV?position=2&previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwUldUSzdB](https://www.reutersconnect.com/item/explosions-and-fires-in-sudanese-city-of-port-sudan/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwNlJXMTVV?position=2&previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwUldUSzdB)  
+   Link: <a href="https://www.reutersconnect.com/item/explosions-and-fires-in-sudanese-city-of-port-sudan/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwNlJXMTVV?position=2&amp;previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwUldUSzdB" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/explosions-and-fires-in-sudanese-city-of-port-sudan/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwNlJXMTVV?position=2&amp;previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwUldUSzdB</a>  
 
 43. <a id="endnote-43"></a>
    Source: spacewar.com  
    Title: NASA Team Finds Riches In Meteorite Treasure Hunt 999  
-   Link: [https://www.spacewar.com/reports/NASA_Team_Finds_Riches_In_Meteorite_Treasure_Hunt_999.html](https://www.spacewar.com/reports/NASA_Team_Finds_Riches_In_Meteorite_Treasure_Hunt_999.html)  
+   Link: <a href="https://www.spacewar.com/reports/NASA_Team_Finds_Riches_In_Meteorite_Treasure_Hunt_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/NASA_Team_Finds_Riches_In_Meteorite_Treasure_Hunt_999.html</a>  
 
 44. <a id="endnote-44"></a>
    Source: psrd.hawaii.edu  
    Title: Almahata Sitta  
-   Link: [https://www.psrd.hawaii.edu/April10/AlmahataSitta.html](https://www.psrd.hawaii.edu/April10/AlmahataSitta.html)  
+   Link: <a href="https://www.psrd.hawaii.edu/April10/AlmahataSitta.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psrd.hawaii.edu/April10/AlmahataSitta.html</a>  
 
 ### Additional References
 
 45. <a id="endnote-45"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma](https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma)  
+   Link: <a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
 
 46. <a id="endnote-46"></a>
    Source: middleeastmonitor.com  
-   Link: [https://www.middleeastmonitor.com/20260506-sudan-accuses-uae-and-ethiopia-of-involvement-in-drone-attack-on-khartoum-airport/](https://www.middleeastmonitor.com/20260506-sudan-accuses-uae-and-ethiopia-of-involvement-in-drone-attack-on-khartoum-airport/)  
+   Link: <a href="https://www.middleeastmonitor.com/20260506-sudan-accuses-uae-and-ethiopia-of-involvement-in-drone-attack-on-khartoum-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.middleeastmonitor.com/20260506-sudan-accuses-uae-and-ethiopia-of-involvement-in-drone-attack-on-khartoum-airport/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ForcesTV/posts/a-former-royal-marine-has-become-the-first-person-to-successfully-fly-using-a-wi/4559345610757073/](https://www.facebook.com/ForcesTV/posts/a-former-royal-marine-has-become-the-first-person-to-successfully-fly-using-a-wi/4559345610757073/)  
+   Link: <a href="https://www.facebook.com/ForcesTV/posts/a-former-royal-marine-has-become-the-first-person-to-successfully-fly-using-a-wi/4559345610757073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/a-former-royal-marine-has-become-the-first-person-to-successfully-fly-using-a-wi/4559345610757073/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/](https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/)  
+   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
 49. <a id="endnote-49"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/396f67d3fada66707094858086b2ee53](https://apnews.com/article/396f67d3fada66707094858086b2ee53)  
+   Link: <a href="https://apnews.com/article/396f67d3fada66707094858086b2ee53" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/396f67d3fada66707094858086b2ee53</a>  
 
 50. <a id="endnote-50"></a>
    Source: vliz.be  
-   Link: [https://www.vliz.be/imisdocs/publications/ocrd/269041.pdf](https://www.vliz.be/imisdocs/publications/ocrd/269041.pdf)  
+   Link: <a href="https://www.vliz.be/imisdocs/publications/ocrd/269041.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vliz.be/imisdocs/publications/ocrd/269041.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/](https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/](https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/)  
+   Link: <a href="https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/</a>  
 
 53. <a id="endnote-53"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/resources/government-documents/](https://cufos.org/resources/government-documents/)  
+   Link: <a href="https://cufos.org/resources/government-documents/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/government-documents/</a>  
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYqr7e0j65x/](https://www.instagram.com/p/DYqr7e0j65x/)  
+   Link: <a href="https://www.instagram.com/p/DYqr7e0j65x/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqr7e0j65x/</a>  

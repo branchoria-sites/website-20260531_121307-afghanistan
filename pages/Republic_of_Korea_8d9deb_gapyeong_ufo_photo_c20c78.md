@@ -245,7 +245,7 @@ next_link:
   permalink: /investigators-e18dbd/
   short_title: Investigators
   heading_title: Who Shaped Korea's UFO Evidence Trail?
-date: '2026-06-09 01:37:50 '
+date: '2026-06-10 02:04:31 '
 header:
   og_image: /assets/images/Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78-Illustration-1-social.jpg
   preview_image: /assets/images/Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78-Illustration-1.webp
@@ -287,7 +287,7 @@ For these reasons, the Gapyeong image was often treated as one of South Korea's 
 
 The most important lesson from the Gapyeong case is that photographic authenticity and object identification are separate questions.
 
-A film negative can be genuine while the object remains completely unknown. Investigators may conclude that an image was not altered after exposure yet still be unable to determine whether it shows a bird, an insect, a reflection, a distant aircraft, a camera artefact or something genuinely unusual. Professional photo analysis has repeatedly confronted this distinction in UFO investigations worldwide. Authentic media often preserves uncertainty rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAPHOTO ANALYSIS OF UFO PHOTOGRAPHYThe photographic package included three photo enlarge- ments of the UFO (attachments 1, 2 and 3) and...</span></span></span>
+A film negative can be genuine while the object remains completely unknown. Investigators may conclude that an image was not altered after exposure yet still be unable to determine whether it shows a bird, an insect, a reflection, a distant aircraft, a camera artefact or something genuinely unusual. Professional photo analysis has repeatedly confronted this distinction in UFO investigations worldwide. Authentic media often preserves uncertainty rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe photographic package included three photo enlarge- ments of the UFO (attachments 1, 2 and 3) and...</span></span></span>
 
 The Gapyeong photograph illustrates this problem particularly well because discussions frequently concentrated on whether the image was manipulated. Even if manipulation is ruled out, several critical questions remain:
 
@@ -341,7 +341,7 @@ In practical terms, scale uncertainty means that a photograph may look extraordi
 
 The strongest evidence cases are not always those with the most dramatic images. They are often the cases with the best documentation.
 
-Researchers evaluating photographs frequently ask about chain of custody: who possessed the image, who handled the original material, when copies were made and whether the original source remains available for examination. The more complete the record, the easier it is to test competing explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAPHOTO ANALYSIS OF UFO PHOTOGRAPHYThe photographic package included three photo enlarge- ments of the UFO (attachments 1, 2 and 3) and...</span></span></span>
+Researchers evaluating photographs frequently ask about chain of custody: who possessed the image, who handled the original material, when copies were made and whether the original source remains available for examination. The more complete the record, the easier it is to test competing explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe photographic package included three photo enlarge- ments of the UFO (attachments 1, 2 and 3) and...</span></span></span>
 
 The Gapyeong photograph benefited from being associated with a newspaper photographer, but it still suffered from a broader problem common to many South Korean UFO cases of the 1990s. Publicly available information about the original materials, investigative procedures and preservation of evidence remained limited. Later discussions often relied on reproduced versions of the image rather than on direct access to the original photographic source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://laseoulite.substack.com/p/ufo-incidents-in-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laseoulite.substack.com">[laseoulite.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laseoulite.substack.com</span><span class="citation-popover-title">UF O Incidents in Korea</span><span class="citation-popover-snippet">UFO Incidents in Korea - by LA SeouliteNovember 30, 2025 — But the most famous UFO-related case was the situation surrounding this photo...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span>
 
@@ -396,86 +396,44 @@ Within the broader South Korean record, many sightings rely entirely on testimon
 For that reason, the Gapyeong case continues to function as a useful reference point when evaluating later Korean UFO photographs and videos. It reminds investigators that image authenticity, object identity and extraordinary claims are three different questions. The photograph may satisfy the first question more successfully than many internet-era UFO images, but the second and third questions remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://laseoulite.substack.com/p/ufo-incidents-in-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laseoulite.substack.com">[laseoulite.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laseoulite.substack.com</span><span class="citation-popover-title">UF O Incidents in Korea</span><span class="citation-popover-snippet">UFO Incidents in Korea - by LA SeouliteNovember 30, 2025 — But the most famous UFO-related case was the situation surrounding this photo...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can the Gapyeong UFO Photo Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can the Gapyeong UFO Photo Prove Anything?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides investigative standards relevant to photographic claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Places photographic UFO claims within wider folklore and media history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses documentation, witnesses and evidential limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines evidence quality and corroboration issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,75 +467,71 @@ For that reason, the Gapyeong case continues to function as a useful reference p
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gapyeong-photo-can-the-gapyeong-ufo-photo-prove-anything-republic-of-korea-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -792,25 +746,25 @@ For that reason, the Gapyeong case continues to function as a useful reference p
 1. <a id="endnote-1"></a>
    Source: laseoulite.substack.com  
    Title: UF O Incidents in Korea  
-   Link: [https://laseoulite.substack.com/p/ufo-incidents-in-korea](https://laseoulite.substack.com/p/ufo-incidents-in-korea)  
+   Link: <a href="https://laseoulite.substack.com/p/ufo-incidents-in-korea" target="_blank" rel="noopener noreferrer nofollow">https://laseoulite.substack.com/p/ufo-incidents-in-korea</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incidents in Korea - by LA SeouliteNovember 30, 2025 — But the most famous UFO-related case was the situation surrounding this photo...</p></details>
    Published: November 30, 2025  
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf](https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAPHOTO ANALYSIS OF UFO PHOTOGRAPHYThe photographic package included three photo enlarge- ments of the UFO (attachments 1, 2 and 3) and...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe photographic package included three photo enlarge- ments of the UFO (attachments 1, 2 and 3) and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the 1940s, media has covered purported photographs of Unidentified Flying Objects (UFOs). Numerous examples have been determined to...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: My Love from the Star  
-   Link: [https://en.wikipedia.org/wiki/My_Love_from_the_Star](https://en.wikipedia.org/wiki/My_Love_from_the_Star)  
+   Link: <a href="https://en.wikipedia.org/wiki/My_Love_from_the_Star" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/My_Love_from_the_Star</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>My Love from the StarIt tells the story of an extraterrestrial alien who landed on Earth in 1609 during the Joseon period and 400 year...</p></details>
 
 ### Additional References
@@ -818,56 +772,56 @@ For that reason, the Gapyeong case continues to function as a useful reference p
 5. <a id="endnote-5"></a>
    Source: newyorker.com  
    Title: the enticing mysteries of ufo photography  
-   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. Photography3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate surrounding their...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: koreatimes.co.kr  
    Title: ufos allegedly spotted in daejeon  
-   Link: [https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon](https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon)  
+   Link: <a href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2011 — “Given the brightness of the objects, taken by a mobile phone, they are highly likely to be the sightings of UFOs,” said UF...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
    Title: What really happened in Calvine?  
-   Link: [https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen](https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen)  
+   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind...11 Feb 2025 — By 2009, he was using his encyclopedic knowledge of UFOs to curate the release of thousands of UFO do...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYJGin4RNmK/](https://www.instagram.com/reel/DYJGin4RNmK/)  
+   Link: <a href="https://www.instagram.com/reel/DYJGin4RNmK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYJGin4RNmK/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FO or related material and we&#x27;re going to be...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: UFO Photo CANNOT be Debunked! (Season 3) | History  
-   Link: [https://www.youtube.com/watch?v=nXFSgB4Qa6I](https://www.youtube.com/watch?v=nXFSgB4Qa6I)  
+   Link: <a href="https://www.youtube.com/watch?v=nXFSgB4Qa6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nXFSgB4Qa6I</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unseen UFO Encounters &amp; Bizarre Paranormal Evidence | The Proof Is Out There | History...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pIUveDEwKH8](https://www.youtube.com/watch?v=pIUveDEwKH8)  
+   Link: <a href="https://www.youtube.com/watch?v=pIUveDEwKH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pIUveDEwKH8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are These UFO Sightings Real Evidence? | The Proof Is Out There...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: latest-ufo-sightings.net  
    Title: daytime ufo activity over south korea  
-   Link: [https://www.latest-ufo-sightings.net/2010/09/daytime-ufo-activity-over-south-korea.html](https://www.latest-ufo-sightings.net/2010/09/daytime-ufo-activity-over-south-korea.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2010/09/daytime-ufo-activity-over-south-korea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2010/09/daytime-ufo-activity-over-south-korea.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25-Sep-2010Daytime UFO activity over South Korea 25-Sep-2010 · Real (3) · Fake (2) · Not Alien (0)...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Are These UFO Sightings Real Evidence? | The Proof Is Out There  
-   Link: [https://www.youtube.com/watch?v=lvn_RoJN_Q0](https://www.youtube.com/watch?v=lvn_RoJN_Q0)  
+   Link: <a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astounding Flying Saucer Caught on Camera! | The Proof Is Out There (Season 4) | History...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: [https://www.youtube.com/watch?v=0mQ1kGk2A88](https://www.youtube.com/watch?v=0mQ1kGk2A88)  
+   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: UFO Photo CANNOT be Debunked! (Season 3) | History...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true](https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true)  
+   Link: <a href="https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sts analysys analytic...Read more...</p></details>

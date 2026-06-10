@@ -1185,7 +1185,7 @@ next_link:
   title: Solomon UFOs
   permalink: /what-really-happened-in-solomon/
   short_title: Solomon UFOs
-date: '2026-06-09 01:37:26 '
+date: '2026-06-10 02:04:05 '
 header:
   og_image: /assets/images/Poland_5ff03b-overview-social.jpg
   preview_image: /assets/images/Poland_5ff03b-overview.webp
@@ -1303,86 +1303,44 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
 <img src="{{ "/assets/images/Poland_5ff03b-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Poland&#x27;s UFO Files? illustration 3" data-theme-src-dark="{{ "/assets/images/Poland_5ff03b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Poland_5ff03b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Poland&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Poland&#x27;s UFO Files?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for evaluating cases such as Emilcin.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers modern unidentified-object debates relevant to European airspace incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides wider context for serious international UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Fits Poland&#x27;s blend of folklore, rural encounters and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1416,75 +1374,71 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-polands-ufo-what-really-happened-in-poland-s-ufo-files-poland-ufo-poster-book-books-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1699,188 +1653,188 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
 1. <a id="endnote-1"></a>
    Source: culture.pl  
    Title: the emilcin incident a polish encounter of the fourth kind  
-   Link: [https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind](https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind)  
+   Link: <a href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind</a>  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/](https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/)  
+   Link: <a href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/</a>  
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Title: unidentified object entered poland direction ukraine says polish army 2023 12 29  
-   Link: [https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/](https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/)  
+   Link: <a href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/</a>  
 
 4. <a id="endnote-4"></a>
    Source: oko.press  
    Title: nikt nie mowi ze wierzy w ufo wracamy do emilcina  
-   Link: [https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina](https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina)  
+   Link: <a href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow">https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: [Emilcin Abduction](&#123;&#123; 'emilcin/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Emilcin_Abduction](https://en.wikipedia.org/wiki/Emilcin_Abduction)  
+   Title: Emilcin Abduction  
+   Link: <a href="https://en.wikipedia.org/wiki/Emilcin_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emilcin_Abduction</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in Poland  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Poland](https://en.wikipedia.org/wiki/UFO_sightings_in_Poland)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Poland</a>  
 
 7. <a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
    Title: 1959 01 21 poland gdynia  
-   Link: [https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm](https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: arekmiazga.blogspot.com  
    Title: zdany nieudolna mistyfikacja  
-   Link: [https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html](https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html)  
+   Link: <a href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow">https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/](https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/)  
+   Link: <a href="https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/](https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/)  
+   Link: <a href="https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/](https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/)  
+   Link: <a href="https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: UFO w Emilcinie  
-   Link: [https://pl.wikipedia.org/wiki/UFO_w_Emilcinie](https://pl.wikipedia.org/wiki/UFO_w_Emilcinie)  
+   Link: <a href="https://pl.wikipedia.org/wiki/UFO_w_Emilcinie" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/UFO_w_Emilcinie</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29](https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: 2025 Russian drone incursion into Poland  
-   Link: [https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland](https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland)  
+   Link: <a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/](https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/)  
+   Link: <a href="https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/</a>  
 
 22. <a id="endnote-22"></a>
    Source: arekmiazga.blogspot.com  
    Title: polskie bliskie spotkania iii stopnia  
-   Link: [https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html](https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html)  
+   Link: <a href="https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html" target="_blank" rel="noopener noreferrer nofollow">https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 24. <a id="endnote-24"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
 25. <a id="endnote-25"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: culture.pl  
    Title: from the archives of polish horror  
-   Link: [https://culture.pl/en/article/from-the-archives-of-polish-horror](https://culture.pl/en/article/from-the-archives-of-polish-horror)  
+   Link: <a href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/from-the-archives-of-polish-horror</a>  
 
 27. <a id="endnote-27"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/a1edac1401e5f8be4d72488518287281](https://apnews.com/article/a1edac1401e5f8be4d72488518287281)  
+   Link: <a href="https://apnews.com/article/a1edac1401e5f8be4d72488518287281" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a1edac1401e5f8be4d72488518287281</a>  
 
 28. <a id="endnote-28"></a>
    Source: zpe.gov.pl  
    Title: Zintegrowana Platforma Edukacyjna Chmury  
-   Link: [https://zpe.gov.pl/a/chmury/DRGMOwkUm](https://zpe.gov.pl/a/chmury/DRGMOwkUm)  
+   Link: <a href="https://zpe.gov.pl/a/chmury/DRGMOwkUm" target="_blank" rel="noopener noreferrer nofollow">https://zpe.gov.pl/a/chmury/DRGMOwkUm</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/436449473535787/posts/540837443096989/](https://www.facebook.com/groups/436449473535787/posts/540837443096989/)  
+   Link: <a href="https://www.facebook.com/groups/436449473535787/posts/540837443096989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436449473535787/posts/540837443096989/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reutersconnect.com  
-   Link: [https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA](https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA)  
+   Link: <a href="https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA</a>  
 
 31. <a id="endnote-31"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b](https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b)  
+   Link: <a href="https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sT1_9jEryg0](https://www.youtube.com/watch?v=sT1_9jEryg0)  
+   Link: <a href="https://www.youtube.com/watch?v=sT1_9jEryg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sT1_9jEryg0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot pink &#x27;UFO&#x27; whizzes past Poland-bound airplane, flight attendant video shows...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pV03TEUoo-M](https://www.youtube.com/watch?v=pV03TEUoo-M)  
+   Link: <a href="https://www.youtube.com/watch?v=pV03TEUoo-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pV03TEUoo-M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLANATION of the Emilcin UFO incident part 1/2 (uncritical)...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Wylatowo – the failed Polish Roswell  
-   Link: [https://www.youtube.com/watch?v=KlYNnIPtyrE](https://www.youtube.com/watch?v=KlYNnIPtyrE)  
+   Link: <a href="https://www.youtube.com/watch?v=KlYNnIPtyrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KlYNnIPtyrE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Reveals the Truth About UFOs First Time on Polish YouTube! Chris Lehto...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/](https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/)  
+   Link: <a href="https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/](https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/)  
+   Link: <a href="https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/](https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/](https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/)  
+   Link: <a href="https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/](https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/</a>  
 
 41. <a id="endnote-41"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTyCPv6jMNj/](https://www.instagram.com/p/DTyCPv6jMNj/)  
+   Link: <a href="https://www.instagram.com/p/DTyCPv6jMNj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTyCPv6jMNj/</a>  

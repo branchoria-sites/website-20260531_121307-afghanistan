@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-reports/
   short_title: Regional Reports
   heading_title: How Geography and Skywatching Culture Drive UFO Sightings
-date: '2026-06-09 01:24:07 '
+date: '2026-06-10 01:48:39 '
 header:
   og_image: /assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-1-social.jpg
   preview_image: /assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-1-so
 
 ## Introduction
 
-[Chile]({{ 'how-chile-investigates-ufos-and-aerial/' | relative_url }})’s official approach to unidentified aerial phenomena (UAP), often colloquially termed “UFOs”, is anchored in formal aviation safety and scientific method rather than speculative investigation. The Chilean government has maintained a dedicated body since 1997—originally the *Comité de Estudios de Fenómenos Aéreos Anómalos* (CEFAA) and since 2021 reorganised as the *Sección de Estudios de Fenómenos Aéreos Anómalos* (SEFAA). This unit, embedded within the **Dirección General de Aeronáutica Civil (DGAC)**, receives, analyses and classifies reports of anomalous aerial phenomena occurring in Chilean airspace, with the principal goal of assessing whether they pose any risk to aviation safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sefaa.dgac.gob.cl/historia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sefaa.dgac.gob.cl">[SEFAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sefaa.dgac.gob.cl</span><span class="citation-popover-title">SEFAAHistoria – SEFAA</span><span class="citation-popover-snippet">– SEFAAHISTORIA ORIGEN DE LA SEFAA Image Los Fenómenos Aéreos Anómalos se reportan oficialmente en Chile desde el año 1968 en dependencia...</span></span></span>
+[Chile]({{ 'how-chile-investigates-ufos-and-aerial/' | relative_url }})’s official approach to unidentified aerial phenomena (UAP), often colloquially termed “UFOs”, is anchored in formal aviation safety and scientific method rather than speculative investigation. The Chilean government has maintained a dedicated body since 1997—originally the *Comité de Estudios de Fenómenos Aéreos Anómalos* (CEFAA) and since 2021 reorganised as the *Sección de Estudios de Fenómenos Aéreos Anómalos* (SEFAA). This unit, embedded within the **Dirección General de Aeronáutica Civil (DGAC)**, receives, analyses and classifies reports of anomalous aerial phenomena occurring in Chilean airspace, with the principal goal of assessing whether they pose any risk to aviation safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sefaa.dgac.gob.cl/historia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sefaa.dgac.gob.cl">[SEFAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sefaa.dgac.gob.cl</span><span class="citation-popover-title">SEFAAHistoria – SEFAA</span><span class="citation-popover-snippet">SEFAAHISTORIA ORIGEN DE LA SEFAA Image Los Fenómenos Aéreos Anómalos se reportan oficialmente en Chile desde el año 1968 en dependencia...</span></span></span>
 
 
 <img src="{{ "/assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-1-dark.svg" | relative_url }}" alt="Official Investigations illustration 1" data-theme-src-dark="{{ "/assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -271,7 +271,7 @@ In **October 2021**, an administrative restructuring saw CEFAA renamed as **SEFA
 
 ## Reporting and Evidence Collection
 
-SEFAA’s procedures centre on **systematic intake and documentation** of reported phenomena. Anyone who observes an aerial event perceived as unusual—pilots in flight, crews on the ground, or civilians on the ground—can submit a report through an official web form hosted on the SEFAA portal. These reports are the starting point for investigation; the quality and detail of information provided directly affects how conclusively a case can be analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sefaa.dgac.gob.cl/historia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sefaa.dgac.gob.cl">[SEFAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sefaa.dgac.gob.cl</span><span class="citation-popover-title">SEFAAHistoria – SEFAA</span><span class="citation-popover-snippet">– SEFAAHISTORIA ORIGEN DE LA SEFAA Image Los Fenómenos Aéreos Anómalos se reportan oficialmente en Chile desde el año 1968 en dependencia...</span></span></span>
+SEFAA’s procedures centre on **systematic intake and documentation** of reported phenomena. Anyone who observes an aerial event perceived as unusual—pilots in flight, crews on the ground, or civilians on the ground—can submit a report through an official web form hosted on the SEFAA portal. These reports are the starting point for investigation; the quality and detail of information provided directly affects how conclusively a case can be analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sefaa.dgac.gob.cl/historia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sefaa.dgac.gob.cl">[SEFAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sefaa.dgac.gob.cl</span><span class="citation-popover-title">SEFAAHistoria – SEFAA</span><span class="citation-popover-snippet">SEFAAHISTORIA ORIGEN DE LA SEFAA Image Los Fenómenos Aéreos Anómalos se reportan oficialmente en Chile desde el año 1968 en dependencia...</span></span></span>
 
 Key aspects of SEFAA’s reporting structure include:
 
@@ -292,7 +292,7 @@ Once a case is submitted, SEFAA staff catalogue it and initiate an inquiry that 
 
 The core function of both CEFAA and its successor SEFAA is **evaluation and classification** of aerial reports through a layered scientific process framed by aviation safety standards. Although Chile’s programme often attracts attention from UFO enthusiasts, its official structure and outputs are focused on rigorous assessment of reported phenomena. Key elements of this process include:
 
-* **Multidisciplinary review**: Analysts may draw on expertise from meteorology, astronomy, air traffic control, engineering, and image processing to contextualise and, where possible, explain reported observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dgac.gob.cl/cefaa-dicto-charlas-en-retenes-fronterizos-del-norte-del-pais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dgac.gob.cl">[DGAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dgac.gob.cl</span><span class="citation-popover-snippet">CEFAA DICTÓ CHARLAS EN RETENES FRONTERIZOS DEL NORTE DEL PAÍS – DGAC | Dirección General de Aeronáutica CivilJuly 21, 2023 — * ## CEFAA D...</span><span class="citation-popover-meta">Published: July 21, 2023</span></span></span>
+* **Multidisciplinary review**: Analysts may draw on expertise from meteorology, astronomy, air traffic control, engineering, and image processing to contextualise and, where possible, explain reported observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dgac.gob.cl/cefaa-dicto-charlas-en-retenes-fronterizos-del-norte-del-pais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dgac.gob.cl">[DGAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dgac.gob.cl</span><span class="citation-popover-snippet">CEFAA DICTÓ CHARLAS EN RETENES FRONTERIZOS DEL NORTE DEL PAÍS – DGAC &#124; Dirección General de Aeronáutica CivilJuly 21, 2023 — * ## CEFAA D...</span><span class="citation-popover-meta">Published: July 21, 2023</span></span></span>
 * **Risk assessment for flight safety**: Each case is assessed for its potential to affect aircraft operations. If an event is identified as an aircraft, astronomical body, weather balloon, satellite, atmospheric phenomenon or other known cause, the case is closed with that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sefaa.dgac.gob.cl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sefaa.dgac.gob.cl">[SEFAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sefaa.dgac.gob.cl</span><span class="citation-popover-title">SEFAASEFAA – Sección de Estudios de Fenómenos Aéreos Anómalos</span><span class="citation-popover-snippet">SEFAASEFAA – Sección de Estudios de Fenómenos Aéreos Anómalos</span></span></span>
 * **Unidentified outcomes**: Where available data are insufficient for a conventional explanation, SEFAA may designate a case as unidentified. This does not imply endorsement of extraordinary interpretations; rather, it reflects unresolved classification within established analytical parameters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sefaa.dgac.gob.cl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sefaa.dgac.gob.cl">[SEFAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sefaa.dgac.gob.cl</span><span class="citation-popover-title">SEFAASEFAA – Sección de Estudios de Fenómenos Aéreos Anómalos</span><span class="citation-popover-snippet">SEFAASEFAA – Sección de Estudios de Fenómenos Aéreos Anómalos</span></span></span>
 
@@ -306,7 +306,7 @@ Importantly, SEFAA makes **reports and summaries available to the public**, incl
 
 ## Organisational Structure and External Collaboration
 
-Though relatively small and specialised, CEFAA/SEFAA historically has integrated a broader **advisory network of experts** beyond its core staff. In earlier CEFAA iterations, this included advisory roles for astronomers, meteorologists, psychologists, engineers and representatives of Chilean armed forces and civil aviation authorities, collaborating on cases as required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dgac.gob.cl/universitarios-visitaron-instalaciones-del-cefaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dgac.gob.cl">[DGAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dgac.gob.cl</span><span class="citation-popover-snippet">UNIVERSITARIOS VISITARON INSTALACIONES DEL CEFAA – DGAC | Dirección General de Aeronáutica CivilSeptember 24, 2019 — * ## UNIVERSITARIOS...</span><span class="citation-popover-meta">Published: September 24, 2019</span></span></span>
+Though relatively small and specialised, CEFAA/SEFAA historically has integrated a broader **advisory network of experts** beyond its core staff. In earlier CEFAA iterations, this included advisory roles for astronomers, meteorologists, psychologists, engineers and representatives of Chilean armed forces and civil aviation authorities, collaborating on cases as required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dgac.gob.cl/universitarios-visitaron-instalaciones-del-cefaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dgac.gob.cl">[DGAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dgac.gob.cl</span><span class="citation-popover-snippet">UNIVERSITARIOS VISITARON INSTALACIONES DEL CEFAA – DGAC &#124; Dirección General de Aeronáutica CivilSeptember 24, 2019 — * ## UNIVERSITARIOS...</span><span class="citation-popover-meta">Published: September 24, 2019</span></span></span>
 
 SEFAA maintains this **multidisciplinary ethos** within its investigative framework, drawing on external technical expertise when necessary to enrich [case analysis]({{ 'case-analysis/' | relative_url }}). While not a research institution in the academic sense, its collaborations help ensure that case evaluations engage with the best available scientific knowledge.
 
@@ -316,86 +316,44 @@ By structuring the investigation of anomalous aerial phenomena around aviation s
 <img src="{{ "/assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-3-dark.svg" | relative_url }}" alt="Official Investigations illustration 3" data-theme-src-dark="{{ "/assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_official_ufo_investi_485edc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How CEFAA and SEFAA Monitor UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How CEFAA and SEFAA Monitor UFO Reports, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains systematic UFO case review and classification approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses scientific handling of sightings and investigative methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong match for CEFAA and SEFAA because it emphasizes formal investigative bodies and aviation evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Offers historical perspective on how official and public interpretations diverge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -429,75 +387,71 @@ By structuring the investigation of anomalous aerial phenomena around aviation s
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-investigations-how-cefaa-and-sefaa-monitor-ufo-reports-chile-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -712,89 +666,89 @@ By structuring the investigation of anomalous aerial phenomena around aviation s
 1. <a id="endnote-1"></a>
    Source: sefaa.dgac.gob.cl  
    Title: SEFAAHistoria – SEFAA  
-   Link: [https://sefaa.dgac.gob.cl/historia/](https://sefaa.dgac.gob.cl/historia/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>– SEFAAHISTORIA ORIGEN DE LA SEFAA Image Los Fenómenos Aéreos Anómalos se reportan oficialmente en Chile desde el año 1968 en dependencia...</p></details>
+   Link: <a href="https://sefaa.dgac.gob.cl/historia/" target="_blank" rel="noopener noreferrer nofollow">https://sefaa.dgac.gob.cl/historia/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SEFAAHISTORIA ORIGEN DE LA SEFAA Image Los Fenómenos Aéreos Anómalos se reportan oficialmente en Chile desde el año 1968 en dependencia...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sefaa.dgac.gob.cl  
    Title: SEFAAPreguntas frecuentes – SEFAA  
-   Link: [https://sefaa.dgac.gob.cl/preguntas-frecuentes/](https://sefaa.dgac.gob.cl/preguntas-frecuentes/)  
+   Link: <a href="https://sefaa.dgac.gob.cl/preguntas-frecuentes/" target="_blank" rel="noopener noreferrer nofollow">https://sefaa.dgac.gob.cl/preguntas-frecuentes/</a>  
 
 3. <a id="endnote-3"></a>
    Source: sefaa.dgac.gob.cl  
    Title: SEFAAQuiénes somos – SEFAA  
-   Link: [https://sefaa.dgac.gob.cl/quienes-somos/](https://sefaa.dgac.gob.cl/quienes-somos/)  
+   Link: <a href="https://sefaa.dgac.gob.cl/quienes-somos/" target="_blank" rel="noopener noreferrer nofollow">https://sefaa.dgac.gob.cl/quienes-somos/</a>  
 
 4. <a id="endnote-4"></a>
    Source: sefaa.dgac.gob.cl  
    Title: SEFAASEFAA – Sección de Estudios de Fenómenos Aéreos Anómalos  
-   Link: [https://sefaa.dgac.gob.cl/](https://sefaa.dgac.gob.cl/)  
+   Link: <a href="https://sefaa.dgac.gob.cl/" target="_blank" rel="noopener noreferrer nofollow">https://sefaa.dgac.gob.cl/</a>  
 
 5. <a id="endnote-5"></a>
    Source: silverland.info  
    Title: Il mondo degli UFOSEFAA  
-   Link: [https://www.silverland.info/documenti/cefaa-centro-studi-sui-fenomeni-aerei-anomali/](https://www.silverland.info/documenti/cefaa-centro-studi-sui-fenomeni-aerei-anomali/)  
+   Link: <a href="https://www.silverland.info/documenti/cefaa-centro-studi-sui-fenomeni-aerei-anomali/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/cefaa-centro-studi-sui-fenomeni-aerei-anomali/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Studi sui Fenomeni Aerei Anomali - Il mondo degli UFO...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: dgac.gob.cl  
-   Link: [https://www.dgac.gob.cl/cefaa-dicto-charlas-en-retenes-fronterizos-del-norte-del-pais/](https://www.dgac.gob.cl/cefaa-dicto-charlas-en-retenes-fronterizos-del-norte-del-pais/)  
+   Link: <a href="https://www.dgac.gob.cl/cefaa-dicto-charlas-en-retenes-fronterizos-del-norte-del-pais/" target="_blank" rel="noopener noreferrer nofollow">https://www.dgac.gob.cl/cefaa-dicto-charlas-en-retenes-fronterizos-del-norte-del-pais/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAA DICTÓ CHARLAS EN RETENES FRONTERIZOS DEL NORTE DEL PAÍS – DGAC | Dirección General de Aeronáutica CivilJuly 21, 2023 — * ## CEFAA D...</p></details>
    Published: July 21, 2023  
 
 7. <a id="endnote-7"></a>
    Source: theufodatabase.com  
-   Link: [https://theufodatabase.com/organizations/cefaa](https://theufodatabase.com/organizations/cefaa)  
+   Link: <a href="https://theufodatabase.com/organizations/cefaa" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/cefaa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Commission for Studies of Unidentified Space Phenomena | The UFO DatabaseCHILEAN COMMISSION FOR STUDIES OF UNIDENTIFIED SPACE PHE...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: daemvillarrica.cl  
-   Link: [https://daemvillarrica.cl/blog/post/47336/la-ufologia-oficial-en-chile-historia-estructura-y-el-legado-del-cefaa/](https://daemvillarrica.cl/blog/post/47336/la-ufologia-oficial-en-chile-historia-estructura-y-el-legado-del-cefaa/)  
+   Link: <a href="https://daemvillarrica.cl/blog/post/47336/la-ufologia-oficial-en-chile-historia-estructura-y-el-legado-del-cefaa/" target="_blank" rel="noopener noreferrer nofollow">https://daemvillarrica.cl/blog/post/47336/la-ufologia-oficial-en-chile-historia-estructura-y-el-legado-del-cefaa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — LA UFOLOGÍA OFICIAL EN CHILE: HISTORIA, ESTRUCTURA Y EL LEGADO DEL CEFAA Publicado por Felipe Pino Conejeros el maart 18...</p></details>
    Published: March 18, 2026  
 
 9. <a id="endnote-9"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial Phenomena in CanadaChile The SEFAA (Sección de Estudios de Fenómenos Aéreos Anómalo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dgac.gob.cl  
-   Link: [https://www.dgac.gob.cl/universitarios-visitaron-instalaciones-del-cefaa/](https://www.dgac.gob.cl/universitarios-visitaron-instalaciones-del-cefaa/)  
+   Link: <a href="https://www.dgac.gob.cl/universitarios-visitaron-instalaciones-del-cefaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.dgac.gob.cl/universitarios-visitaron-instalaciones-del-cefaa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIVERSITARIOS VISITARON INSTALACIONES DEL CEFAA – DGAC | Dirección General de Aeronáutica CivilSeptember 24, 2019 — * ## UNIVERSITARIOS...</p></details>
    Published: September 24, 2019  
 
 11. <a id="endnote-11"></a>
    Source: museoaeronautico.dgac.gob.cl  
    Title: dgac.gob.cl9.- DGAC activa Comité de Estudios de Fenómenos Aéreos Anómalos  
-   Link: [https://museoaeronautico.dgac.gob.cl/2009/02/20/9-dgac-activa-comite-de-estudios-de-fenomenos-aereos-anomalos/](https://museoaeronautico.dgac.gob.cl/2009/02/20/9-dgac-activa-comite-de-estudios-de-fenomenos-aereos-anomalos/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– MNAEFebruary 20, 2009 — 9.- DGAC ACTIVA COMITÉ DE ESTUDIOS DE FENÓMENOS AÉREOS ANÓMALOS. Febrero 20, 2009Septiembre 21, 2022 Image La r...</p></details>
+   Link: <a href="https://museoaeronautico.dgac.gob.cl/2009/02/20/9-dgac-activa-comite-de-estudios-de-fenomenos-aereos-anomalos/" target="_blank" rel="noopener noreferrer nofollow">https://museoaeronautico.dgac.gob.cl/2009/02/20/9-dgac-activa-comite-de-estudios-de-fenomenos-aereos-anomalos/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MNAEFebruary 20, 2009 — 9.- DGAC ACTIVA COMITÉ DE ESTUDIOS DE FENÓMENOS AÉREOS ANÓMALOS. Febrero 20, 2009Septiembre 21, 2022 Image La r...</p></details>
    Published: February 20, 2009  
 
 12. <a id="endnote-12"></a>
    Source: infouno.cl  
    Title: La investigación oficial de OVNIs en Chile – Infouno.cl  
-   Link: [https://infouno.cl/la-investigacion-oficial-de-ovnis-en-chile/](https://infouno.cl/la-investigacion-oficial-de-ovnis-en-chile/)  
+   Link: <a href="https://infouno.cl/la-investigacion-oficial-de-ovnis-en-chile/" target="_blank" rel="noopener noreferrer nofollow">https://infouno.cl/la-investigacion-oficial-de-ovnis-en-chile/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2023 — LA INVESTIGACIÓN OFICIAL DE OVNIS EN CHILE Abril 20, 2023Abril 20, 2023 Rodrigo Bravo Por Rodrigo Bravo Garrido Hace vei...</p></details>
    Published: April 20, 2023  
 
 13. <a id="endnote-13"></a>
    Source: tallyho.cl  
    Title: centro de estudios de fenomenos aereos anomalos  
-   Link: [https://tallyho.cl/cefaa-comite-de-estudios-de-fenomenos-aereos-anomalos/](https://tallyho.cl/cefaa-comite-de-estudios-de-fenomenos-aereos-anomalos/)  
+   Link: <a href="https://tallyho.cl/cefaa-comite-de-estudios-de-fenomenos-aereos-anomalos/" target="_blank" rel="noopener noreferrer nofollow">https://tallyho.cl/cefaa-comite-de-estudios-de-fenomenos-aereos-anomalos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 20, 2015 — CEFAA COMITÉ DE ESTUDIOS DE FENÓMENOS AÉREOS ANÓMALOS Posted by TallyHo Date: enero 20, 2015 in: Fenómenos Aéreos Anóm...</p></details>
    Published: January 20, 2015  
 
 14. <a id="endnote-14"></a>
    Source: dgac.gob.cl  
-   Link: [https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/](https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/)  
+   Link: <a href="https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/" target="_blank" rel="noopener noreferrer nofollow">https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2021...</p></details>
    Published: October 1, 2021  
 
 15. <a id="endnote-15"></a>
    Source: dgac.gob.cl  
-   Link: [https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/](https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/)  
+   Link: <a href="https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/" target="_blank" rel="noopener noreferrer nofollow">https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 4, 2018...</p></details>
    Published: October 4, 2018  

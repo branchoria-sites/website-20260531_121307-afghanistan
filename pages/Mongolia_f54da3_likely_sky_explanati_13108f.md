@@ -239,7 +239,7 @@ next_link:
   permalink: /official-records-700735/
   short_title: Official Records
   heading_title: Where Are Mongolia's Official UFO Records?
-date: '2026-06-09 01:34:26 '
+date: '2026-06-10 02:00:11 '
 header:
   og_image: /assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-1-social.jpg
   preview_image: /assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-1
 
 ## Introduction
 
-Across [Mongolia]({{ 'what-do-mongolias-ufo-reports-really/' | relative_url }})’s vast, dark skies, many dramatic “unidentified” aerial sightings reported over the years have plausible natural or human‑made origins. In this sub‑topic we focus on how bright meteors (especially fireballs), satellites and space debris can be mistaken for anomalous objects in the Mongolian sky, why such misidentifications occur, and what documented examples exist of these astronomical and satellite phenomena near Mongolia.
+Across Mongolia’s vast, dark skies, many dramatic “unidentified” aerial sightings reported over the years have plausible natural or human‑made origins. In this sub‑topic we focus on how bright meteors (especially fireballs), satellites and space debris can be mistaken for anomalous objects in the Mongolian sky, why such misidentifications occur, and what documented examples exist of these astronomical and satellite phenomena near Mongolia.
 
 
 <img src="{{ "/assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-1-dark.svg" | relative_url }}" alt="Likely Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,7 +273,7 @@ Documented history shows that **rocket debris has fallen in Mongolia**. For exam
 
 Re‑entries like this can be mistaken for unexplained lights or objects, particularly when seen at night and moving rapidly or breaking into fragments. Although not frequent, such space debris events show that human‑made objects occasionally return to Earth over or near Mongolia.
 
-Beyond debris, satellites and spacecraft have scheduled atmospheric entries nearby. For instance, the Chinese **Shenzhou‑20 capsule** re‑entered and landed in China’s Inner Mongolia region in January 2026, an example of a planned return of spacecraft that could be visible at high altitude during descent if observed from neighbouring areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/spacecom/posts/the-shenzhou-20-capsule-re-entered-earths-atmosphere-and-safely-landed-in-chinas/1244182640905751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere...The Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere and safely landed...</span></span></span>
+Beyond debris, satellites and spacecraft have scheduled atmospheric entries nearby. For instance, the Chinese **Shenzhou‑20 capsule** re‑entered and landed in China’s Inner Mongolia region in January 2026, an example of a planned return of spacecraft that could be visible at high altitude during descent if observed from neighbouring areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/spacecom/posts/the-shenzhou-20-capsule-re-entered-earths-atmosphere-and-safely-landed-in-chinas/1244182640905751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere...The Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere and safely landed...</span></span></span>
 
 Mongolia’s own **Mazaalai satellite**, launched in 2017 as the country’s first nanosatellite, orbited Earth for nearly two years before deorbiting in 2019. Although its decay from orbit was unremarkable and not tied to public reports of bright re‑entries over Mongolia, such missions remind us that satellites operate continuously in low Earth orbit and can occasionally appear to casual observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mazaalai_%28satellite%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mazaalai (satellite</span><span class="citation-popover-snippet">Mazaalai (satellite</span></span></span>
 
@@ -295,7 +295,7 @@ Several factors make meteors and satellite phenomena prone to misidentification 
 Scientific studies of UFO identification show that astronomical causes—planets, stars, meteors and re‑entries—account for a large share of identifiable UFO reports once analysed. Meteors and re‑entering space debris in particular are difficult to identify retrospectively absent precise timing and multi‑angle observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q0V30oYRcJY" title="Dozens Call to Report UFO Sighting After Spotting THIS Above Florida" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q0V30oYRcJY" target="_blank" rel="noopener noreferrer">Dozens Call to Report UFO Sighting After Spotting THIS Above Florida</a></p><p class="youtube-embed-meta">Channel: Onlooker &middot; Views: 284.3K &middot; Uploaded: July 2019 &middot; Length: 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q0V30oYRcJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q0V30oYRcJY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdSkGrjcZIs" title="Strange Lights In The Sky Saturday Likely Satellite Debris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdSkGrjcZIs" target="_blank" rel="noopener noreferrer">Strange Lights In The Sky Saturday Likely Satellite Debris</a></p><p class="youtube-embed-meta">Channel: News 9 YouTube &middot; Views: 9.2K &middot; Uploaded: November 2024 &middot; Length: 1 minute 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdSkGrjcZIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdSkGrjcZIs">Open on YouTube</a></p></div></div></div>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5bYAjCMcwM" title="How To Recognize Space Rocks vs Satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5bYAjCMcwM" target="_blank" rel="noopener noreferrer">How To Recognize Space Rocks vs Satellites</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 96.0K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5bYAjCMcwM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5bYAjCMcwM">Open on YouTube</a></p></div></div></div>
@@ -322,86 +322,44 @@ By focusing on documented cases and known sky phenomena, this page illustrates t
 <img src="{{ "/assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-3-dark.svg" | relative_url }}" alt="Likely Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_likely_sky_explanati_13108f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could Mongolia&#x27;s UFOs Be Fireballs or Satellites?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could Mongolia&#x27;s UFOs Be Fireballs or Satellites?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between unexplained reports and conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Provides practical sky-observation knowledge relevant to UFO misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers identify meteors, planets, satellites, and sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -435,75 +393,71 @@ By focusing on documented cases and known sky phenomena, this page illustrates t
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-explanations-could-mongolia-s-ufos-be-fireballs-or-satellites-mongolia-ufo-poster-book-books-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -717,154 +671,154 @@ By focusing on documented cases and known sky phenomena, this page illustrates t
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Meteor](https://en.wikipedia.org/wiki/Meteor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-2025-thrills-skywatchers-with-an-end-of-year-celestial-firework-show-photos](https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-2025-thrills-skywatchers-with-an-end-of-year-celestial-firework-show-photos)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-2025-thrills-skywatchers-with-an-end-of-year-celestial-firework-show-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-2025-thrills-skywatchers-with-an-end-of-year-celestial-firework-show-photos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These meteors appeared to emanate from the constellation Gemini, which was accompanied by Jupiter during December. Astrophotographers acr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/posts/the-shenzhou-20-capsule-re-entered-earths-atmosphere-and-safely-landed-in-chinas/1244182640905751/](https://www.facebook.com/spacecom/posts/the-shenzhou-20-capsule-re-entered-earths-atmosphere-and-safely-landed-in-chinas/1244182640905751/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere...The Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere and safely landed...</p></details>
+   Link: <a href="https://www.facebook.com/spacecom/posts/the-shenzhou-20-capsule-re-entered-earths-atmosphere-and-safely-landed-in-chinas/1244182640905751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/the-shenzhou-20-capsule-re-entered-earths-atmosphere-and-safely-landed-in-chinas/1244182640905751/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere...The Shenzhou-20 capsule re-entered Earth&#x27;s atmosphere and safely landed...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mazaalai (satellite)  
-   Link: [https://en.wikipedia.org/wiki/Mazaalai_%28satellite%29](https://en.wikipedia.org/wiki/Mazaalai_%28satellite%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mazaalai_%28satellite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mazaalai_%28satellite%29</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Khurel Togoot Astronomical Observatory  
-   Link: [https://en.wikipedia.org/wiki/Khurel_Togoot_Astronomical_Observatory](https://en.wikipedia.org/wiki/Khurel_Togoot_Astronomical_Observatory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Khurel_Togoot_Astronomical_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Khurel_Togoot_Astronomical_Observatory</a>  
 
 7. <a id="endnote-7"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/chinas-1st-reusable-rocket-explodes-in-dramatic-fireball-during-landing-after-reaching-orbit-on-debut-flight](https://www.space.com/space-exploration/launches-spacecraft/chinas-1st-reusable-rocket-explodes-in-dramatic-fireball-during-landing-after-reaching-orbit-on-debut-flight)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/chinas-1st-reusable-rocket-explodes-in-dramatic-fireball-during-landing-after-reaching-orbit-on-debut-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/chinas-1st-reusable-rocket-explodes-in-dramatic-fireball-during-landing-after-reaching-orbit-on-debut-flight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s 1st reusable rocket explodes in dramatic fireball...3 Dec 2025 — After making a successful reentry, the rocket&#x27;s first stage boo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1534360996972590/posts/2216727448735938/](https://www.facebook.com/groups/1534360996972590/posts/2216727448735938/)  
+   Link: <a href="https://www.facebook.com/groups/1534360996972590/posts/2216727448735938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1534360996972590/posts/2216727448735938/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>g, marking the successful conclusion of an emergency mission...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FriendsOfNASA/posts/perseid-meteors-over-chinas-inner-mongolia-autonomous-regionfriendsofnasaorg-the/833247665582346/](https://www.facebook.com/FriendsOfNASA/posts/perseid-meteors-over-chinas-inner-mongolia-autonomous-regionfriendsofnasaorg-the/833247665582346/)  
+   Link: <a href="https://www.facebook.com/FriendsOfNASA/posts/perseid-meteors-over-chinas-inner-mongolia-autonomous-regionfriendsofnasaorg-the/833247665582346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FriendsOfNASA/posts/perseid-meteors-over-chinas-inner-mongolia-autonomous-regionfriendsofnasaorg-the/833247665582346/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perseids are also known for their fireballs.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/](https://www.imo.net/)  
+   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You saw something bright and fast? Like a huge shooting star? Report it: it may be a fireball. Report a Fireball.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thephenomenon.app  
-   Link: [https://thephenomenon.app/mongolia/](https://thephenomenon.app/mongolia/)  
+   Link: <a href="https://thephenomenon.app/mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/mongolia/</a>  
 
 12. <a id="endnote-12"></a>
    Source: satobs.org  
    Title: Satellites Overhead Satellite Re-entries  
-   Link: [https://www.satobs.org/decay.html](https://www.satobs.org/decay.html)  
+   Link: <a href="https://www.satobs.org/decay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/decay.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193799](https://nuforc.org/sighting/?id=193799)  
+   Link: <a href="https://nuforc.org/sighting/?id=193799" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193799</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 193799November 4, 2025 — NUFORC UFO SIGHTING 193799 Occurred: 2007-04-30 08:30 Local Reported: 2025-11-03 22:13 Pacif...</p></details>
    Published: April 30, 2007  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=46662](https://nuforc.org/sighting/?id=46662)  
+   Link: <a href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46662</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46662October 11, 2005 — NUFORC UFO SIGHTING 46662 Occurred: 2005-09-30 19:35 Local Reported: 2005-10-01 06:05 Pacific...</p></details>
    Published: September 30, 2005  
 
 15. <a id="endnote-15"></a>
    Source: imo.net  
    Title: Fireballs | IMOFIREBALLS Fireballs are meteors that appear brighter than normal  
-   Link: [https://www.imo.net/observations/fireballs/fireballs/](https://www.imo.net/observations/fireballs/fireballs/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A great majority of the material orbiting in outer space are tiny sub-millimeter sized bits of stone, ice, or metal, or a combinatio...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/bg/](https://www.imo.net/bg/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMO | International Meteor OrganizationImage: International Meteor Organization Image: Join Us International Meteor Organization Service...</p></details>
+   Link: <a href="https://www.imo.net/bg/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/bg/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationImage: International Meteor Organization Image: Join Us International Meteor Organization Service...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction Map/Data Lightcurves Operational Notes FIREBALL AND BOLIDE DATA The following chart shows reported fireball events for which...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: popastro.com  
-   Link: [https://www.popastro.com/meteor/1998/11/](https://www.popastro.com/meteor/1998/11/)  
+   Link: <a href="https://www.popastro.com/meteor/1998/11/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/1998/11/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November, 1998 - Meteor Section11 Jun 2024 — SPAMS figures suggest around 15-20% of Leonids on November 16-17 were fireballs, ranging up...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
    Title: The International Meteor Organization  
-   Link: [https://www.academia.edu/62344252/The_International_Meteor_Organization](https://www.academia.edu/62344252/The_International_Meteor_Organization)  
+   Link: <a href="https://www.academia.edu/62344252/The_International_Meteor_Organization" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/62344252/The_International_Meteor_Organization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The International Meteor OrganizationFounded in 1988, the International Meteor Organization (IMO) is an international scientific no...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: iaumeteordatacenter.org  
-   Link: [https://iaumeteordatacenter.org/](https://iaumeteordatacenter.org/)  
+   Link: <a href="https://iaumeteordatacenter.org/" target="_blank" rel="noopener noreferrer nofollow">https://iaumeteordatacenter.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IAU Meteor Data CenterThe Meteor Data Center (MDC) of the International Astronomical Union (IAU) provides * a database of all meteor show...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: strewnify.com  
-   Link: [https://www.strewnify.com/](https://www.strewnify.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strewnify - Meteorite Strewn Field Maps, News, and ReportsSTREWNIFY Meteorite Strewn Field Maps, News, and Reports * Meteor Events * Mete...</p></details>
+   Link: <a href="https://www.strewnify.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.strewnify.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite Strewn Field Maps, News, and ReportsSTREWNIFY Meteorite Strewn Field Maps, News, and Reports * Meteor Events * Mete...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: planet-terre.ens-lyon.fr  
-   Link: [https://planet-terre.ens-lyon.fr/ressource/cratere-meteorite-Mongolie.xml](https://planet-terre.ens-lyon.fr/ressource/cratere-meteorite-Mongolie.xml)  
+   Link: <a href="https://planet-terre.ens-lyon.fr/ressource/cratere-meteorite-Mongolie.xml" target="_blank" rel="noopener noreferrer nofollow">https://planet-terre.ens-lyon.fr/ressource/cratere-meteorite-Mongolie.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d&#x27;impacts et météorites de Mongolie: état des lieux et découvertes récentes — Planet-TerreDecember 14, 2023 — MÉTÉORITES TROUVÉES EN MON...</p></details>
    Published: December 14, 2023  
 
 23. <a id="endnote-23"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
 24. <a id="endnote-24"></a>
    Source: sciencemediacentre.org  
    Title: expert reaction to reports that debris from a chinese rocket is coming to earth  
-   Link: [https://www.sciencemediacentre.org/expert-reaction-to-reports-that-debris-from-a-chinese-rocket-is-coming-to-earth/](https://www.sciencemediacentre.org/expert-reaction-to-reports-that-debris-from-a-chinese-rocket-is-coming-to-earth/)  
+   Link: <a href="https://www.sciencemediacentre.org/expert-reaction-to-reports-that-debris-from-a-chinese-rocket-is-coming-to-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencemediacentre.org/expert-reaction-to-reports-that-debris-from-a-chinese-rocket-is-coming-to-earth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>expert reaction to reports that debris from a Chinese rocket...30 Jan 2026 — Scientists comment on reports that debris from a Chinese ro...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WprVmNYt4vg](https://www.youtube.com/watch?v=WprVmNYt4vg)  
+   Link: <a href="https://www.youtube.com/watch?v=WprVmNYt4vg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WprVmNYt4vg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Perseid Meteor Shower and Milky Way from MongoliaThese are views of the Milky Way and of the proceed meteor shower live from Mongol...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/zpRp8XHYwAk](https://www.youtube.com/shorts/zpRp8XHYwAk)  
+   Link: <a href="https://www.youtube.com/shorts/zpRp8XHYwAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/zpRp8XHYwAk</a>  
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
    Title: In the upper left corner, you can see Sirius, the brightest star  
-   Link: [https://www.instagram.com/reel/DSh56CLj74q/?hl=en-gb](https://www.instagram.com/reel/DSh56CLj74q/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DSh56CLj74q/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSh56CLj74q/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CGTN on Instagram: &quot;Recently, a stunning celestial spectacle...This beautiful picture was taken during the Geminids meteor shower in Dec...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: infobae.com  
    Title: TAMBIÉN SE PODRÍA TRATAR DE BASURA ESPACIAL, QUE CADA VEZ  
-   Link: [https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/](https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/)  
+   Link: <a href="https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caen dos objetos extraños en Mongolia - InfobaeFebruary 25, 2010 — CAEN DOS OBJETOS EXTRAÑOS EN MONGOLIA ESTIMAN QUE SE TRATEN DE RESTOS...</p></details>
    Published: February 25, 2010  
 
 29. <a id="endnote-29"></a>
    Source: weather.com  
    Title: Incredibly Rare Celestial Phenomenon Spotted | The Weather Channel  
-   Link: [https://weather.com/science/news/incredibly-rare-celestial-phenomenon-spotted](https://weather.com/science/news/incredibly-rare-celestial-phenomenon-spotted)  
+   Link: <a href="https://weather.com/science/news/incredibly-rare-celestial-phenomenon-spotted" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/news/incredibly-rare-celestial-phenomenon-spotted</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By ITN•January 22, 2015 A rare celestial phenomenon has appeared in Mongolia where it looks like there are thre...</p></details>
    Published: January 22, 2015  

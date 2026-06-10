@@ -239,7 +239,7 @@ prev_link:
   permalink: /landmark-cases/
   short_title: Landmark Cases
   heading_title: Which Italian UFO Cases Define the Evidence Spectrum?
-date: '2026-06-09 01:33:45 '
+date: '2026-06-10 01:59:23 '
 header:
   og_image: /assets/images/Italy_ad79ef_italy_official_recor_50e173-Illustration-1-social.jpg
   preview_image: /assets/images/Italy_ad79ef_italy_official_recor_50e173-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Italy_ad79ef_italy_official_recor_50e173-Illustration-1-so
 
 ## Introduction
 
-[Italy]({{ 'what-makes-italys-ufo-record-unique-and/' | relative_url }})’s official UFO files are often cited as evidence that the state has documented hundreds of unexplained aerial events. That is true in a limited sense, but the records tell a more nuanced story than popular UFO narratives suggest. The Italian Air Force maintains one of the few publicly accessible national archives of UFO reports in Europe, publishing annual summaries and historical case listings. Its mission, however, is not to determine whether sightings are extraterrestrial. The system exists primarily to protect flight safety and assess possible security concerns. A report remains classified as an unidentified flying object only when available information does not allow a confident conventional explanation after technical checks have been completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeronautica.difesa.it/en/2023/01/12/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica MilitareJan 12, 2023 — Questa azione consente all&#x27;Aeronautica Militare di avviare un&#x27;indagine tecn...</span></span></span>
+Italy’s official UFO files are often cited as evidence that the state has documented hundreds of unexplained aerial events. That is true in a limited sense, but the records tell a more nuanced story than popular UFO narratives suggest. The Italian Air Force maintains one of the few publicly accessible national archives of UFO reports in Europe, publishing annual summaries and historical case listings. Its mission, however, is not to determine whether sightings are extraterrestrial. The system exists primarily to protect flight safety and assess possible security concerns. A report remains classified as an unidentified flying object only when available information does not allow a confident conventional explanation after technical checks have been completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeronautica.difesa.it/en/2023/01/12/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica MilitareJan 12, 2023 — Questa azione consente all&#x27;Aeronautica Militare di avviare un&#x27;indagine tecn...</span></span></span>
 
 
 <img src="{{ "/assets/images/Italy_ad79ef_italy_official_recor_50e173-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Italy_ad79ef_italy_official_recor_50e173-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Italy_ad79ef_italy_official_recor_50e173-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -395,86 +395,44 @@ The greatest value of Italy’s Air Force UFO records lies not in any single spe
 At the same time, the records show how many apparent mysteries are eventually linked to ordinary causes, how technological changes create new forms of misidentification, and how the category “unidentified” should be interpreted carefully. Viewed as evidence rather than mythology, Italy’s official UFO files are best understood as a record of unresolved observations—not a catalogue of proven extraordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl it am annual 2024 ovni avvistamenti 2024</span><span class="citation-popover-snippet">UFO TransparencyThe Italian Air Force&#x27;s 2024 OVNI annual report catalogues four sightings across northern and central Italy — three from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeronautica.difesa.it/en/2023/01/12/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica MilitareJan 12, 2023 — Questa azione consente all&#x27;Aeronautica Militare di avviare un&#x27;indagine tecn...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Italyâ€™s Official UFO Files Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Italy’s Official UFO Files Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
-        
-        <p class="fr-book-desc">Useful for evaluating official unexplained cases critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Provides comparison with national UFO archives and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Examines official reporting and investigative systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Closest match to a page about government UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -508,75 +466,71 @@ At the same time, the records show how many apparent mysteries are eventually li
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-01b272-what-do-italy-s-official-ufo-files-really-show-italy-ufo-poster-book-books-series-television-ger&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -790,127 +744,127 @@ At the same time, the records show how many apparent mysteries are eventually li
 
 1. <a id="endnote-1"></a>
    Source: corriere.it  
-   Link: [https://www.corriere.it/cronache/14_marzo_29/ufo-italia-445-avvistamenti-ufficiali-40-anni-a4323106-b75a-11e3-ba7c-41adf96a3a3a.shtml](https://www.corriere.it/cronache/14_marzo_29/ufo-italia-445-avvistamenti-ufficiali-40-anni-a4323106-b75a-11e3-ba7c-41adf96a3a3a.shtml)  
+   Link: <a href="https://www.corriere.it/cronache/14_marzo_29/ufo-italia-445-avvistamenti-ufficiali-40-anni-a4323106-b75a-11e3-ba7c-41adf96a3a3a.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.corriere.it/cronache/14_marzo_29/ufo-italia-445-avvistamenti-ufficiali-40-anni-a4323106-b75a-11e3-ba7c-41adf96a3a3a.shtml</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Corriere della SeraUfo in Italia: 445 avvistamenti «ufficiali» in 40 anni29 Mar 2014 — Negli ultimi quattro anni gli avvistamenti sono st...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare OVNI  
-   Link: [https://www.aeronautica.difesa.it/en/2023/01/12/ovni/](https://www.aeronautica.difesa.it/en/2023/01/12/ovni/)  
+   Link: <a href="https://www.aeronautica.difesa.it/en/2023/01/12/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/2023/01/12/ovni/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI - Aeronautica MilitareJan 12, 2023 — Questa azione consente all&#x27;Aeronautica Militare di avviare un&#x27;indagine tecn...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aeronautica.difesa.it  
-   Link: [https://www.aeronautica.difesa.it/en/category/ovni/](https://www.aeronautica.difesa.it/en/category/ovni/)  
+   Link: <a href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/category/ovni/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica MilitareOVNI ArchivesUFO. Oggetti Volanti Non Identificati A seguito dell&#x27;ondata di avvistamenti di Oggetti Volanti Non Ident...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2024 ovni avvistamenti 2024  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024](https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyThe Italian Air Force&#x27;s 2024 OVNI annual report catalogues four sightings across northern and central Italy — three from...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Italy files · 02 International Disclosure  
-   Link: [https://ufotransparency.com/international/files/it](https://ufotransparency.com/international/files/it)  
+   Link: <a href="https://ufotransparency.com/international/files/it" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AKHRA NX-KGX. DI02... reports filed through the Carabinieri and investigated by Air Force personnel...</p></details>
    Published: May 9, 2026  
 
 7. <a id="endnote-7"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2025 ovni avvistamenti 2025  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025](https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyThe Italian Air Force&#x27;s 2025 annual OVNI report logs four sightings across Italy, attributing three to probable Starlink...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2022 ovni avvistamenti 2022  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2022-ovni-avvistamenti-2022](https://ufotransparency.com/files/intl-it-am-annual-2022-ovni-avvistamenti-2022)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2022-ovni-avvistamenti-2022" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2022-ovni-avvistamenti-2022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>log: 14 sightings across Italy cross-checked against Armed Forces records and formally classified as O.V.N.I. after no...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2021 ovni avvistamenti 2021  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2021-ovni-avvistamenti-2021](https://ufotransparency.com/files/intl-it-am-annual-2021-ovni-avvistamenti-2021)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2021-ovni-avvistamenti-2021" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2021-ovni-avvistamenti-2021</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAeronautica Militare OVNI Annual Report 2021, Aeronautica...Italian Air Force 2021 annual OVNI report cataloguing eleven...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2004 ovni avvistamenti 2004  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2004-ovni-avvistamenti-2004](https://ufotransparency.com/files/intl-it-am-annual-2004-ovni-avvistamenti-2004)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2004-ovni-avvistamenti-2004" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2004-ovni-avvistamenti-2004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautica Militare OVNI Annual Report 2004 - UFO TransparencyItalian Air Force annual summary of citizen-reported UAP sightings for 200...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ufotransparency.com  
    Title: Italian Air Force annual OVNI  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2016-ovni-avvistamenti-2016](https://ufotransparency.com/files/intl-it-am-annual-2016-ovni-avvistamenti-2016)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2016-ovni-avvistamenti-2016" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2016-ovni-avvistamenti-2016</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summary for 20169 May 2026 — The Aeronautica Militare&#x27;s Stato Maggiore recorded four OVNI events across 2016 — in February, August, Septe...</p></details>
    Published: May 2026  
 
 12. <a id="endnote-12"></a>
    Source: ufotransparency.com  
    Title: intl it am dossier 1991 2000 archivio ovni 1991 2000  
-   Link: [https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000](https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AKHRA NX-KGX. DI01 · US... PDFAeronautica Militare OVNI Annual Report 2023Aeronautica Militare (Italian Air Force)...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Releases Annual Report on Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence (ODNI) today published th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fanpage.it  
    Title: ufo tutti gli avvistamenti registrati dallaeronautica militare in italia  
-   Link: [https://www.fanpage.it/attualita/ufo-tutti-gli-avvistamenti-registrati-dallaeronautica-militare-in-italia/](https://www.fanpage.it/attualita/ufo-tutti-gli-avvistamenti-registrati-dallaeronautica-militare-in-italia/)  
+   Link: <a href="https://www.fanpage.it/attualita/ufo-tutti-gli-avvistamenti-registrati-dallaeronautica-militare-in-italia/" target="_blank" rel="noopener noreferrer nofollow">https://www.fanpage.it/attualita/ufo-tutti-gli-avvistamenti-registrati-dallaeronautica-militare-in-italia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo, tutti gli avvistamenti registrati dall&#x27;Aeronautica militare...12 Jul 2021 — Sono undici in tutto gli avvistamenti di Ufo nei cieli...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: balkanweb.com  
    Title: ekzistenca e ufo ve cfare zbuloi aviacioni ushtarak italian ne 2016 n  
-   Link: [https://www.balkanweb.com/en/ekzistenca-e-ufo-ve-cfare-zbuloi-aviacioni-ushtarak-italian-ne-2016-n/](https://www.balkanweb.com/en/ekzistenca-e-ufo-ve-cfare-zbuloi-aviacioni-ushtarak-italian-ne-2016-n/)  
+   Link: <a href="https://www.balkanweb.com/en/ekzistenca-e-ufo-ve-cfare-zbuloi-aviacioni-ushtarak-italian-ne-2016-n/" target="_blank" rel="noopener noreferrer nofollow">https://www.balkanweb.com/en/ekzistenca-e-ufo-ve-cfare-zbuloi-aviacioni-ushtarak-italian-ne-2016-n/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The existence of UFOs, what the Italian military aviation...The Italian military aviation has reported four UFO cases in 2016, three in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNationalNews/posts/footage-released-by-the-pentagon-purports-to-show-an-accelerating-ufo-in-syriait/1428165942673159/](https://www.facebook.com/TheNationalNews/posts/footage-released-by-the-pentagon-purports-to-show-an-accelerating-ufo-in-syriait/1428165942673159/)  
+   Link: <a href="https://www.facebook.com/TheNationalNews/posts/footage-released-by-the-pentagon-purports-to-show-an-accelerating-ufo-in-syriait/1428165942673159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalNews/posts/footage-released-by-the-pentagon-purports-to-show-an-accelerating-ufo-in-syriait/1428165942673159/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It comes as part of a second batch of previously classified...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/463483731505527/posts/1412177063302851/](https://www.facebook.com/groups/463483731505527/posts/1412177063302851/)  
+   Link: <a href="https://www.facebook.com/groups/463483731505527/posts/1412177063302851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/463483731505527/posts/1412177063302851/</a>  
 
 18. <a id="endnote-18"></a>
    Source: jhmovie.fandom.com  
    Title: Unidentified flying object  
-   Link: [https://jhmovie.fandom.com/wiki/Unidentified_flying_object](https://jhmovie.fandom.com/wiki/Unidentified_flying_object)  
+   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force began to record and investigated UFO reports with Project Sign looking into &quot;more than 250 cases&quot; from 1947 to 1949. It...Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: en.italiani.it  
    Title: ufo nei cieli italiani verita bugie  
-   Link: [https://en.italiani.it/ufo-nei-cieli-italiani-verita-bugie/](https://en.italiani.it/ufo-nei-cieli-italiani-verita-bugie/)  
+   Link: <a href="https://en.italiani.it/ufo-nei-cieli-italiani-verita-bugie/" target="_blank" rel="noopener noreferrer nofollow">https://en.italiani.it/ufo-nei-cieli-italiani-verita-bugie/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Italian skies, truths and lies21 Dec 2016 — From 1900 until today, 12.432 UFOs have been reported in Italy alone, but how many of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/n2oegr/is_the_italian_ufo_data_dump_available_online/](https://www.reddit.com/r/UFOs/comments/n2oegr/is_the_italian_ufo_data_dump_available_online/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/n2oegr/is_the_italian_ufo_data_dump_available_online/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/n2oegr/is_the_italian_ufo_data_dump_available_online/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>entified is available online?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theaviationist.com  
-   Link: [https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/](https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/)  
+   Link: <a href="https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blurred Photo Of &quot;Weird Objects&quot; Flying Over Italy Fuels...26 Mar 2021 — A low quality, blurred image said to depict UFO or “weird objec...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: uapcheck.com  
    Title: italian air force releases ufo annual report 2023  
-   Link: [https://www.uapcheck.com/news/id/2391/italian-air-force-releases-ufo-annual-report-2023/](https://www.uapcheck.com/news/id/2391/italian-air-force-releases-ufo-annual-report-2023/)  
+   Link: <a href="https://www.uapcheck.com/news/id/2391/italian-air-force-releases-ufo-annual-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2391/italian-air-force-releases-ufo-annual-report-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Mar 2024 — Since 1978, the Italian Air Force has been investigating sightings of unidentified flying objects (UFOs) and has been publis...</p></details>

@@ -245,7 +245,7 @@ next_link:
   permalink: /claims-debunks/
   short_title: Claims & Debunks
   heading_title: Separating Fact, Rumour, and Misinterpretation in Local UFO Claims
-date: '2026-06-09 01:26:32 '
+date: '2026-06-10 01:51:13 '
 header:
   og_image: /assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1-social.jpg
   preview_image: /assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1.webp
@@ -287,7 +287,7 @@ Malabo International Airport is the country’s primary aviation gateway and the
 
 The airport’s location on Bioko Island increases the chance of visually confusing approaches. Aircraft commonly approach over the sea, especially at night or in poor weather. To observers along the coast, a descending aircraft with landing lights activated can appear stationary or hovering before abruptly changing direction during final approach. This is one of the most common global sources of UFO-style reports near coastal airports.
 
-Malabo also receives international traffic from Central and West Africa. Public route listings show links to destinations including Douala, Libreville, Addis Ababa and Casablanca, meaning aircraft types and lighting configurations vary considerably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-snippet">GoogleFind Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</span></span></span>
+Malabo also receives international traffic from Central and West Africa. Public route listings show links to destinations including Douala, Libreville, Addis Ababa and Casablanca, meaning aircraft types and lighting configurations vary considerably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-snippet">Find Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</span></span></span>
 
 ### The Malabo–Bata Corridor
 
@@ -377,7 +377,7 @@ This effect becomes stronger when:
 Witnesses unfamiliar with aviation can interpret the apparent hovering as anomalous behaviour.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tNiJz-U0mcs" title="FAA-Archived: Multiple Pilots Report Mysterious UFO Lights at FL370 | Real ATC Audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tNiJz-U0mcs" target="_blank" rel="noopener noreferrer">FAA-Archived: Multiple Pilots Report Mysterious UFO Lights at FL370 | Real ATC Audio</a></p><p class="youtube-embed-meta">Channel: Flight Follower &middot; Views: 5.2K &middot; Uploaded: April 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tNiJz-U0mcs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tNiJz-U0mcs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_YIS16GfzfQ" title="My UFO Mistake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer">My UFO Mistake</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 330.6K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_YIS16GfzfQ">Open on YouTube</a></p></div></div></div>
 
 ### Navigation and Anti-Collision Lights
 
@@ -430,90 +430,48 @@ As a result, many potential sightings remain anecdotal. In practical terms, this
 The overall pattern is not one of a country overflowing with unexplained aerial encounters. Instead, Equatorial Guinea presents a case where geography, weather, fragmented communications and concentrated aviation routes create a small but persistent possibility of misidentifying routine aircraft activity as something anomalous.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_YIS16GfzfQ" title="My UFO Mistake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer">My UFO Mistake</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 330.6K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_YIS16GfzfQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.3K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Local Aviation Shapes Potential UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Local Aviation Shapes Potential UFO Sightings, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Examines how sightings are interpreted and amplified in different information environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong on sighting classification and distinguishing unexplained reports from aircraft and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Focuses on misidentifications, evidence evaluation, and ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Includes aviation-related witness testimony and discussion of aerial identification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -547,75 +505,71 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-how-local-aviation-shapes-potential-ufo-sightings-equatorial-guinea-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -830,136 +784,136 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malabo International Airport  
-   Link: [https://en.wikipedia.org/wiki/Malabo_International_Airport](https://en.wikipedia.org/wiki/Malabo_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malabo_International_Airport</a>  
 
 2. <a id="endnote-2"></a>
    Source: flightconnections.com  
    Title: flights from malabo ssg  
-   Link: [https://www.flightconnections.com/flights-from-malabo-ssg](https://www.flightconnections.com/flights-from-malabo-ssg)  
+   Link: <a href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-malabo-ssg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: google.com  
-   Link: [https://www.google.com/travel/flights/flights-to-malabo.html](https://www.google.com/travel/flights/flights-to-malabo.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleFind Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</p></details>
+   Link: <a href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/travel/flights/flights-to-malabo.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: flightconnections.com  
-   Link: [https://www.flightconnections.com/flights-from-ssg-to-bsg](https://www.flightconnections.com/flights-from-ssg-to-bsg)  
+   Link: <a href="https://www.flightconnections.com/flights-from-ssg-to-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-ssg-to-bsg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from SSG to BSG are operated 13 times a week, with an average of 2 flights per day. Departure times vary between 08:00 - 16:00.Re...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skyscanner.net  
-   Link: [https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html](https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html)  
+   Link: <a href="https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>o added fees...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: kupi.com  
-   Link: [https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon](https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annobon airport guide – flights, transport and tipsNavigate Annobon Airport (NBN) with our guide. Find terminal details, transport to San...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/country/equatorial-guinea](https://www.baaa-acro.com/country/equatorial-guinea)  
+   Link: <a href="https://www.baaa-acro.com/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/country/equatorial-guinea</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial GuineaThe aircraft departed Bata on a special flight to Annobón Island carrying six politicians completing an election tour an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/415299](https://aviation-safety.net/wikibase/415299)  
+   Link: <a href="https://aviation-safety.net/wikibase/415299" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/415299</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkRunway excursion Accident Boeing 737-8FB (WL) ET-...29 Aug 2024 — Ceiba International flight CEL205, a Boeing 737...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: flightconnections.com  
    Title: flights to bata bsg  
-   Link: [https://www.flightconnections.com/flights-to-bata-bsg](https://www.flightconnections.com/flights-to-bata-bsg)  
+   Link: <a href="https://www.flightconnections.com/flights-to-bata-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-to-bata-bsg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights to Bata (BSG)Apr 2, 2026 — There is just one domestic flight to Bata, which is between Bata and Malabo. From Malabo, direct fligh...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: flightconnections.com  
-   Link: [https://www.flightconnections.com/flights-from-equatorial-guinea-gq](https://www.flightconnections.com/flights-from-equatorial-guinea-gq)  
+   Link: <a href="https://www.flightconnections.com/flights-from-equatorial-guinea-gq" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-equatorial-guinea-gq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Equatorial GuineaInternational flights are available from every airport, while intercontinental flights are solely served by...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: flightconnections.com  
    Title: flights from bata bsg  
-   Link: [https://www.flightconnections.com/flights-from-bata-bsg](https://www.flightconnections.com/flights-from-bata-bsg)  
+   Link: <a href="https://www.flightconnections.com/flights-from-bata-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-bata-bsg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Bata (BSG)2 Apr 2026 — All direct (non-stop) flights from Bata (BSG) on an interactive route map. Explore planned flights to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: google.com  
-   Link: [https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&hl=en-US](https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&hl=en-US)  
+   Link: <a href="https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&amp;hl=en-US" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&amp;hl=en-US</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Cheap Flights to Equatorial GuineaThe most popular flight destinations in Equatorial Guinea are Malabo and Bata.... Malabo Internat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skyscanner.com  
-   Link: [https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures](https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures)  
+   Link: <a href="https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bata (BSG) Arrivals and Departures | Live Flight StatusGet the latest information on Bata (BSG) arrivals and departures. Includes real-ti...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skyscanner.com  
    Title: Cheap flights from Bata to Equatorial Guinea  
-   Link: [https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html](https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyscannerLooking for tickets to Equatorial Guinea from Bata? Compare hundreds of flights from all major airlines and travel agents to fi...</p></details>
+   Link: <a href="https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for tickets to Equatorial Guinea from Bata? Compare hundreds of flights from all major airlines and travel agents to fi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: avherald.com  
-   Link: [https://avherald.com/h?article=51d088ca](https://avherald.com/h?article=51d088ca)  
+   Link: <a href="https://avherald.com/h?article=51d088ca" target="_blank" rel="noopener noreferrer nofollow">https://avherald.com/h?article=51d088ca</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation HeraldCeiba B738 at Malabo on Aug 29th 2024, overran runway...29 Aug 2024 — Equatorial Guinea&#x27;s Ministry reported this occurren...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: metar-taf.com  
-   Link: [https://metar-taf.com/airport/FGSL-malabo-airport](https://metar-taf.com/airport/FGSL-malabo-airport)  
+   Link: <a href="https://metar-taf.com/airport/FGSL-malabo-airport" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/airport/FGSL-malabo-airport</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Malabo International Airport | FGSL | Pilot infoMalabo International Airport is a large airport in Bioko Norte, Equatorial Guinea. The ai...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&f%5B1%5D=event_type%3A1711&f%5B2%5D=flight_conditions%3A12&items_per_page=500](https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&f%5B1%5D=event_type%3A1711&f%5B2%5D=flight_conditions%3A12&items_per_page=500)  
+   Link: <a href="https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&amp;f%5B1%5D=event_type%3A1711&amp;f%5B2%5D=flight_conditions%3A12&amp;items_per_page=500" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&amp;f%5B1%5D=event_type%3A1711&amp;f%5B2%5D=flight_conditions%3A12&amp;items_per_page=500</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accidents and Incidents | SKYbrary Aviation SafetyThis directory contains articles about particular Accidents and Incidents that are cons...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/data/airports/equatorial-guinea](https://www.flightradar24.com/data/airports/equatorial-guinea)  
+   Link: <a href="https://www.flightradar24.com/data/airports/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/equatorial-guinea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airports in Equatorial GuineaAirports in Equatorial Guinea 4 airports; Bata Airport (BSG/FGBT) Rating: 43%; M; Malabo International Ai...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne](https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne)  
+   Link: <a href="https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 737 Overruns Runway in Equatorial GuineaA CEIBA Intercontinental Boeing 737-800 overran the runway upon landing at Malabo Internat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ch-aviation.com  
-   Link: [https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops](https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops)  
+   Link: <a href="https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops" target="_blank" rel="noopener noreferrer nofollow">https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CEIBA suspends Annobón, Equatorial Guinea opsCEIBA suspends Annobón, Equatorial Guinea ops. Commercial Aviation. Support Contact Newsroom...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: expedia.com  
-   Link: [https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights](https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights)  
+   Link: <a href="https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Flights to BataPopular airlines to Bata · American Airlines · United · Southwest Airlines · Delta · Frontier Airlines · JetBlue Air...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/](https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/)  
+   Link: <a href="https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ceiba Intercontinental Boeing 737 Overran Runway30 Aug 2024 — INCIDENT On 29th August, a Ceiba Intercontinental Airlines Boeing 737 overr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aerotime.aero  
    Title: ceiba intercontinental boeing 737 800 overruns runway in equatorial guinea  
-   Link: [https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea](https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea)  
+   Link: <a href="https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CEIBA Intercontinental Boeing 737-800 overruns runway in...30 Aug 2024 — A CEIBA Intercontinental Boeing 737-800 with registration ET-AW...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: newsaero.info  
    Title: On Monday, February 17, the airline's Chief Financial Officer, Miguel Micha  
-   Link: [https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358](https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358)  
+   Link: <a href="https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358" target="_blank" rel="noopener noreferrer nofollow">https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea&#x27;s Senate Audits Ceiba Int&#x27;l Over Poor...Ceiba Intercontinental, Equatorial Guinea&#x27;s national airline, is under scrutiny...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mapy.com  
-   Link: [https://mapy.com/en/?q=Airports+in+Equatorial+Guinea](https://mapy.com/en/?q=Airports+in+Equatorial+Guinea)  
+   Link: <a href="https://mapy.com/en/?q=Airports+in+Equatorial+Guinea" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?q=Airports+in+Equatorial+Guinea</a>  
 
 26. <a id="endnote-26"></a>
    Source: ch-aviation.com  
-   Link: [https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up](https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up)  
+   Link: <a href="https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up" target="_blank" rel="noopener noreferrer nofollow">https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea&#x27;s CEIBA Inc&#x27;l in major shake-upWant to learn more about CEIBA Intercontinental? Subscribe now and never miss a critical...</p></details>

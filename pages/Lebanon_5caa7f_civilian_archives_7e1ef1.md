@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-96141d/
   short_title: Timeline
   heading_title: Where Have UFOs Been Reported in Lebanon?
-date: '2026-06-09 01:31:43 '
+date: '2026-06-10 01:57:19 '
 header:
   og_image: /assets/images/Lebanon_5caa7f_civilian_archives_7e1ef1-Illustration-1-social.jpg
   preview_image: /assets/images/Lebanon_5caa7f_civilian_archives_7e1ef1-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Lebanon_5caa7f_civilian_archives_7e1ef1-Illustration-1-soc
 
 ## Introduction
 
-[Lebanon]({{ 'what-do-lebanons-ufo-reports-really-show/' | relative_url }})’s UFO record is unusually difficult to verify because most of it exists outside any known public government archive. Unlike countries that have released military files, aviation reports, or declassified investigations, Lebanon has no widely documented national programme for collecting or publishing unidentified aerial phenomenon (UAP) reports. As a result, researchers, journalists, and enthusiasts depend heavily on civilian databases, witness submissions, media reports, and scattered online archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Lebanon’s UFO record is unusually difficult to verify because most of it exists outside any known public government archive. Unlike countries that have released military files, aviation reports, or declassified investigations, Lebanon has no widely documented national programme for collecting or publishing unidentified aerial phenomenon (UAP) reports. As a result, researchers, journalists, and enthusiasts depend heavily on civilian databases, witness submissions, media reports, and scattered online archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Lebanon_5caa7f_civilian_archives_7e1ef1-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Lebanon_5caa7f_civilian_archives_7e1ef1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lebanon_5caa7f_civilian_archives_7e1ef1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ This creates a situation where a report from a village in northern Lebanon may b
 
 </div>
 
-Several of the most discussed Lebanese sightings from recent years became known largely because witnesses uploaded reports to civilian databases rather than because any authority released information. Reports describing recurring luminous orbs in northern Lebanon between 2024 and 2025, for example, entered public discussion through witness submissions and online documentation rather than through official investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeiruter.com">[TheBeiruter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeiruter.com</span><span class="citation-popover-title">ufos in lebanon</span><span class="citation-popover-snippet">TheBeiruterUFOs in Lebanon16 May 2026 — From glowing orbs over Beirut to decades-old eyewitness accounts, Lebanon has become the setting...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Several of the most discussed Lebanese sightings from recent years became known largely because witnesses uploaded reports to civilian databases rather than because any authority released information. Reports describing recurring luminous orbs in northern Lebanon between 2024 and 2025, for example, entered public discussion through witness submissions and online documentation rather than through official investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeiruter.com">[TheBeiruter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeiruter.com</span><span class="citation-popover-title">ufos in lebanon</span><span class="citation-popover-snippet">UFOs in Lebanon16 May 2026 — From glowing orbs over Beirut to decades-old eyewitness accounts, Lebanon has become the setting...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The strength of these databases is preservation. Without them, many Lebanese reports would disappear entirely. Their weakness is verification. Most entries represent witness testimony rather than independently confirmed events. Even detailed reports may lack supporting data such as flight logs, weather records, astronomical analysis, radar information, or calibrated imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOoqDl0AJYmwDXzErrvM1W59mniYGy_I3P72IKeacmcv_nU5oEzKM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Understanding the National UFO Reporting Center</span><span class="citation-popover-snippet">Hangar1publishingUnderstanding the National UFO Reporting Center...May 5, 2025 — Explore NUFORC, the world&#x27;s largest UFO/UAP database. D...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span>
+The strength of these databases is preservation. Without them, many Lebanese reports would disappear entirely. Their weakness is verification. Most entries represent witness testimony rather than independently confirmed events. Even detailed reports may lack supporting data such as flight logs, weather records, astronomical analysis, radar information, or calibrated imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOoqDl0AJYmwDXzErrvM1W59mniYGy_I3P72IKeacmcv_nU5oEzKM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Understanding the National UFO Reporting Center</span><span class="citation-popover-snippet">Understanding the National UFO Reporting Center...May 5, 2025 — Explore NUFORC, the world&#x27;s largest UFO/UAP database. D...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span>
 
 ### What Survives in the Record
 
@@ -417,91 +417,49 @@ That distinction becomes especially important in a country where the public arch
 
 ## Why Lebanon Remains a Difficult Case for Researchers
 
-Lebanon presents a paradox for UFO researchers. There are enough reports to demonstrate a continuing pattern of sightings across decades, yet there is very little publicly accessible institutional documentation with which to evaluate them. The country's UFO history is therefore preserved primarily through civilian memory, international databases, local media coverage, and informal digital archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Lebanon presents a paradox for UFO researchers. There are enough reports to demonstrate a continuing pattern of sightings across decades, yet there is very little publicly accessible institutional documentation with which to evaluate them. The country's UFO history is therefore preserved primarily through civilian memory, international databases, local media coverage, and informal digital archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 For readers trying to understand Lebanese UFO reports, the central question is often not whether a particular object was extraordinary. It is whether enough reliable evidence survived to allow meaningful investigation at all. In many cases, the biggest mystery is not the sighting itself but the missing record around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Lebanon&#x27;s UFO Record Is So Hard to Verify. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Lebanon&#x27;s UFO Record Is So Hard to Verify, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses case evaluation, reporting standards, and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
-        
-        <p class="fr-book-desc">Relevant to discussions of official archives, investigations, and record-keeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights documented cases and contrasts them with weakly sourced claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Helps readers assess reliability, evidence, and weak claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -535,75 +493,71 @@ For readers trying to understand Lebanese UFO reports, the central question is o
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a21934-why-lebanon-s-ufo-record-is-so-hard-to-verify-lebanon-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -817,131 +771,131 @@ For readers trying to understand Lebanese UFO reports, the central question is o
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: thebeiruter.com  
    Title: ufos in lebanon  
-   Link: [https://www.thebeiruter.com/article/ufos-in-lebanon/1668](https://www.thebeiruter.com/article/ufos-in-lebanon/1668)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TheBeiruterUFOs in Lebanon16 May 2026 — From glowing orbs over Beirut to decades-old eyewitness accounts, Lebanon has become the setting...</p></details>
+   Link: <a href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeiruter.com/article/ufos-in-lebanon/1668</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Lebanon16 May 2026 — From glowing orbs over Beirut to decades-old eyewitness accounts, Lebanon has become the setting...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: hangar1publishing.com  
    Title: Understanding the National UFO Reporting Center  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOoqDl0AJYmwDXzErrvM1W59mniYGy_I3P72IKeacmcv_nU5oEzKM](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOoqDl0AJYmwDXzErrvM1W59mniYGy_I3P72IKeacmcv_nU5oEzKM)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar1publishingUnderstanding the National UFO Reporting Center...May 5, 2025 — Explore NUFORC, the world&#x27;s largest UFO/UAP database. D...</p></details>
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOoqDl0AJYmwDXzErrvM1W59mniYGy_I3P72IKeacmcv_nU5oEzKM" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOoqDl0AJYmwDXzErrvM1W59mniYGy_I3P72IKeacmcv_nU5oEzKM</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the National UFO Reporting Center...May 5, 2025 — Explore NUFORC, the world&#x27;s largest UFO/UAP database. D...</p></details>
    Published: May 5, 2025  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationLebanon... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellana on...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: [https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29](https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black triangle (UFO)Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, descri...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Date, City, State, Main article, Description. September 1865, Cadotte Pass · Montana, Sighting...Read more...</p></details>
    Published: September 1865  
 
 10. <a id="endnote-10"></a>
    Source: thebeiruter.com  
-   Link: [https://www.thebeiruter.com/culture/keyword/nuforc/6913](https://www.thebeiruter.com/culture/keyword/nuforc/6913)  
+   Link: <a href="https://www.thebeiruter.com/culture/keyword/nuforc/6913" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeiruter.com/culture/keyword/nuforc/6913</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nuforcUFOs in Lebanon. From glowing orbs over Beirut to decades-old eyewitness accounts, Lebanon has become the setting for some of the r...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOorbBnIqKvyiTUvtddtMmM0l42-GIHz9LvfrZflsfpfzZqt8xJN6](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOorbBnIqKvyiTUvtddtMmM0l42-GIHz9LvfrZflsfpfzZqt8xJN6)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOorbBnIqKvyiTUvtddtMmM0l42-GIHz9LvfrZflsfpfzZqt8xJN6" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc?srsltid=AfmBOorbBnIqKvyiTUvtddtMmM0l42-GIHz9LvfrZflsfpfzZqt8xJN6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how citizen reports shape the mystery of our skies...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ynetnews.com  
-   Link: [https://www.ynetnews.com/article/4239796](https://www.ynetnews.com/article/4239796)  
+   Link: <a href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/article/4239796</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ynetglobalIsraelis nationwide report seeing UFOJune 7, 2012 — 7 Jun 2012 — Hundreds flood police with reports of UFO in nation&#x27;s skies; A...</p></details>
    Published: June 7, 2012  
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
    Title: DYZ2Bqu E3hh  
-   Link: [https://www.instagram.com/reel/DYZ2BquE3hh/](https://www.instagram.com/reel/DYZ2BquE3hh/)  
+   Link: <a href="https://www.instagram.com/reel/DYZ2BquE3hh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYZ2BquE3hh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Beiruter on Instagram: &quot;From glowing orbs over Beirut to...Lebanon has been linked to reported UFO sightings dating back to the 1970s...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/julesjoel.bakhos/photos/ufo-in-lebanonrecorded-ufo-sightings-in-lebanon-date-back-to-the-times-of-alexan/10153301101550531/](https://www.facebook.com/julesjoel.bakhos/photos/ufo-in-lebanonrecorded-ufo-sightings-in-lebanon-date-back-to-the-times-of-alexan/10153301101550531/)  
+   Link: <a href="https://www.facebook.com/julesjoel.bakhos/photos/ufo-in-lebanonrecorded-ufo-sightings-in-lebanon-date-back-to-the-times-of-alexan/10153301101550531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/julesjoel.bakhos/photos/ufo-in-lebanonrecorded-ufo-sightings-in-lebanon-date-back-to-the-times-of-alexan/10153301101550531/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in LebanonUFO in Lebanon Recorded UFO sightings in Lebanon date back to the times of Alexander the Great towards the year 329 BCE. Th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: fbi documents released through the national archives detail a reported ufo sight  
-   Link: [https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/](https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/)  
+   Link: <a href="https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI documents released through the National Archives...Over 60 UFO sightings reported whizzing across state in first half of 2025, natio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: first documented ufo sighting in lebanon beirut 1952  
-   Link: [https://www.facebook.com/mixfmlebanon1044/posts/first-documented-ufo-sighting-in-lebanon-beirut-1952/10155942082762353/](https://www.facebook.com/mixfmlebanon1044/posts/first-documented-ufo-sighting-in-lebanon-beirut-1952/10155942082762353/)  
+   Link: <a href="https://www.facebook.com/mixfmlebanon1044/posts/first-documented-ufo-sighting-in-lebanon-beirut-1952/10155942082762353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mixfmlebanon1044/posts/first-documented-ufo-sighting-in-lebanon-beirut-1952/10155942082762353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First documented UFO sighting in Lebanon. Beirut, 1952.On June 7, 2012, an unidentified flying object was seen nationwide over Lebanon. T...</p></details>
    Published: June 7, 2012  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseA clear linear trend of sightings increased from 1995 - 2005. Then it peaks and st...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: stateofmind13.com  
    Title: a meteor shower in lebanon  
-   Link: [https://stateofmind13.com/2012/06/07/a-meteor-shower-in-lebanon/](https://stateofmind13.com/2012/06/07/a-meteor-shower-in-lebanon/)  
+   Link: <a href="https://stateofmind13.com/2012/06/07/a-meteor-shower-in-lebanon/" target="_blank" rel="noopener noreferrer nofollow">https://stateofmind13.com/2012/06/07/a-meteor-shower-in-lebanon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Separate State of MindA Meteor Shower in Lebanon7 Jun 2012 — It&#x27;s a bird? A plane? a UFO?... Ah, nevermind. Lebanon was hit by a meteo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/GroupPageLTLO/posts/7857252124375168/](https://www.facebook.com/groups/GroupPageLTLO/posts/7857252124375168/)  
+   Link: <a href="https://www.facebook.com/groups/GroupPageLTLO/posts/7857252124375168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GroupPageLTLO/posts/7857252124375168/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r view. #AliensOverLebanon #SpookySeason...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseSerious US Department of War releases UFO and potential alien life files. r/aliens. • 16d ago...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bqsYroxu0_U](https://www.youtube.com/watch?v=bqsYroxu0_U)  
+   Link: <a href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bqsYroxu0_U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1fKhqnAtnx8](https://www.youtube.com/watch?v=1fKhqnAtnx8)  
+   Link: <a href="https://www.youtube.com/watch?v=1fKhqnAtnx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1fKhqnAtnx8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa releases footage of unidentifiable &#x27;spherical orb&#x27; UFO flying through Middle East...</p></details>

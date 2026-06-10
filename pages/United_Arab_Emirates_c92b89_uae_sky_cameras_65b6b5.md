@@ -245,7 +245,7 @@ next_link:
   permalink: /space-debris-fe3650/
   short_title: Space Debris
   heading_title: When UAE UFOs Are Space Debris
-date: '2026-06-09 01:44:06 '
+date: '2026-06-10 02:11:49 '
 header:
   og_image: /assets/images/United_Arab_Emirates_c92b89_uae_sky_cameras_65b6b5-Illustration-1-social.jpg
   preview_image: /assets/images/United_Arab_Emirates_c92b89_uae_sky_cameras_65b6b5-Illustration-1.webp
@@ -368,7 +368,7 @@ Meteor cameras only record events within their viewing area. If an object appear
 
 The systems are also designed primarily for bright atmospheric events. They are not comprehensive surveillance platforms capable of identifying every aircraft, drone, balloon, or distant light source visible over the Emirates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-snippet">United Arab Emirates UniversityThe UAE Meteor Monitoring Networkby I Fernini · 2020 · Cited by 8 — In this paper, we present the UAE Mete...</span></span></span>
 
-Researchers have even noted that the cameras routinely capture non-meteor objects such as aircraft, insects, birds, and other sources of motion. Later studies explored machine-learning techniques partly because human analysts needed ways to separate genuine meteors from false detections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateThe UAE Meteor Monitoring Network | Request PDFTo detect meteors in the United Arab Emirates (U.A.E.) sky, the Sharjah Academ...</span></span></span>
+Researchers have even noted that the cameras routinely capture non-meteor objects such as aircraft, insects, birds, and other sources of motion. Later studies explored machine-learning techniques partly because human analysts needed ways to separate genuine meteors from false detections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The UAE Meteor Monitoring Network &#124; Request PDFTo detect meteors in the United Arab Emirates (U.A.E.) sky, the Sharjah Academ...</span></span></span>
 
 Most importantly, the absence of a confirmed explanation does not automatically support an extraordinary one. A sighting may remain unresolved simply because there is not enough data. This mirrors a broader pattern in UFO investigations worldwide: insufficient information often produces uncertainty, not evidence of something exotic.
 
@@ -397,86 +397,44 @@ That shift has made meteors, fireballs, and many space-debris events among the b
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How UAE Sky Cameras Check the Rumors. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How UAE Sky Cameras Check the Rumors, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for evidence collection, observation quality, and identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports critical evaluation of unusual sky reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Directly relevant to meteor-monitoring networks and sky-camera observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between instrumented cases and anecdotal sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -510,59 +468,71 @@ That shift has made meteors, fireballs, and many space-debris events among the b
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BETAFPV C03 FPV Micro Camera for Tiny Whoops Meteor65 Meteor78 Air65 Air75"><img src="https://i.ebayimg.com/images/g/LM4AAeSwsj1qAwju/s-l225.jpg" alt="Listing image for BETAFPV C03 FPV Micro Camera for Tiny Whoops Meteor65 Meteor78 Air65 Air75" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer">BETAFPV C03 FPV Micro Camera for Tiny Whoops Meteor65 Meteor78 Air65 Air75</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Kbapu 1x8c-2 Soviet 8mm Movie Film Camera meteor 8w"><img src="https://i.ebayimg.com/images/g/p30AAeSwgsVqEYy-/s-l225.jpg" alt="Listing image for Vintage Kbapu 1x8c-2 Soviet 8mm Movie Film Camera meteor 8w" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer">Vintage Kbapu 1x8c-2 Soviet 8mm Movie Film Camera meteor 8w</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Quarz 1x8S-2 Cine Camera Meteor-8M-1 Lens Soviet Movie Camera"><img src="https://i.ebayimg.com/images/g/3-EAAeSwkXBqDH1X/s-l225.jpg" alt="Listing image for Vintage USSR Quarz 1x8S-2 Cine Camera Meteor-8M-1 Lens Soviet Movie Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Quarz 1x8S-2 Cine Camera Meteor-8M-1 Lens Soviet Movie Camera</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uae-sky-cameras-check-the-rumors-meteor-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor camera" data-ebay-reference="how-uae-sky-cameras-check-the-rumors-meteor-camera" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-cameras-how-uae-sky-cameras-check-the-rumors-united-arab-emirates-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -776,118 +746,118 @@ That shift has made meteors, fireballs, and many space-debris events among the b
 
 1. <a id="endnote-1"></a>
    Source: astronomycenter.net  
-   Link: [https://astronomycenter.net/uacn/index.html?l=en](https://astronomycenter.net/uacn/index.html?l=en)  
+   Link: <a href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/uacn/index.html?l=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That meteor might just be part of a meteor shower, or it could be a meteorite fall or...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unoosa.org  
    Title: The UAE Meteor Monitoring Network  
-   Link: [https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf](https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf)  
+   Link: <a href="https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Center of. Meteorology and. Seismology... • Sharjah – Liwa: 300km. • Sharjah – Alyahar: 116 km. • Alyahar – Liwa...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network](https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateThe UAE Meteor Monitoring Network | Request PDFTo detect meteors in the United Arab Emirates (U.A.E.) sky, the Sharjah Academ...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAE Meteor Monitoring Network | Request PDFTo detect meteors in the United Arab Emirates (U.A.E.) sky, the Sharjah Academ...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.gov.ae  
    Title: the uae meteor monitoring network  
-   Link: [https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network](https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network)  
+   Link: <a href="https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A special...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: research.uaeu.ac.ae  
-   Link: [https://research.uaeu.ac.ae/en/publications/the-uae-meteor-monitoring-network/](https://research.uaeu.ac.ae/en/publications/the-uae-meteor-monitoring-network/)  
+   Link: <a href="https://research.uaeu.ac.ae/en/publications/the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/the-uae-meteor-monitoring-network/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Arab Emirates UniversityThe UAE Meteor Monitoring Networkby I Fernini · 2020 · Cited by 8 — In this paper, we present the UAE Mete...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: research.uaeu.ac.ae  
    Title: observations of fireballs with the uae meteor monitoring network  
-   Link: [https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/](https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/)  
+   Link: <a href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sharjah.ac.ae  
-   Link: [https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN](https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN)  
+   Link: <a href="https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN" target="_blank" rel="noopener noreferrer nofollow">https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SharjahUAEMMNThe network consists of three towers, strategically located in Sharjah, Al-Yahar, and Liwa, each equipped with...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: satelliteprome.com  
    Title: uae space agency partners with scass to launch meteor monitoring network  
-   Link: [https://satelliteprome.com/news/uae-space-agency-partners-with-scass-to-launch-meteor-monitoring-network/](https://satelliteprome.com/news/uae-space-agency-partners-with-scass-to-launch-meteor-monitoring-network/)  
+   Link: <a href="https://satelliteprome.com/news/uae-space-agency-partners-with-scass-to-launch-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://satelliteprome.com/news/uae-space-agency-partners-with-scass-to-launch-meteor-monitoring-network/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SatellitePro MEUAE Space Agency launches UAE Meteor Monitoring...2 Jun 2019 — The network&#x27;s three towers will be at the Sharjah Academy...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: research.uaeu.ac.ae  
    Title: fireballs captured by the uae meteor monitoring network  
-   Link: [https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/](https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/)  
+   Link: <a href="https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Arab Emirates UniversityFireballs Captured by the UAE Meteor Monitoring Networkby ME Sharif · 2021 — Our UAE fireballs observation...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: emeteornews.net  
-   Link: [https://www.emeteornews.net/2019/09/27/the-uaemmn-a-prominent-meteor-monitoring-system-in-the-gulf-region/](https://www.emeteornews.net/2019/09/27/the-uaemmn-a-prominent-meteor-monitoring-system-in-the-gulf-region/)  
+   Link: <a href="https://www.emeteornews.net/2019/09/27/the-uaemmn-a-prominent-meteor-monitoring-system-in-the-gulf-region/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2019/09/27/the-uaemmn-a-prominent-meteor-monitoring-system-in-the-gulf-region/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eMetN Meteor JournalThe UAEMMN: A prominent meteor monitoring system in...27 Sept 2019 — From September 2018 until September 2019, the U...</p></details>
    Published: September 2018  
 
 11. <a id="endnote-11"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2021cosp...43E.321A/abstract](https://ui.adsabs.harvard.edu/abs/2021cosp...43E.321A/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2021cosp...43E.321A/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2021cosp...43E.321A/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAE Meteor Monitoring Network - ADSby A Alowais · 2021 · Cited by 1 — It is made up of three towers, along with 17 cameras mounted on eac...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: room.eu.com  
-   Link: [https://room.eu.com/article/uae-meteor-and-debris-monitoring-network](https://room.eu.com/article/uae-meteor-and-debris-monitoring-network)  
+   Link: <a href="https://room.eu.com/article/uae-meteor-and-debris-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://room.eu.com/article/uae-meteor-and-debris-monitoring-network</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Room The Space Journal of AsgardiaUAE meteor and debris monitoring networkThe UAE Meteor Monitoring Network (UAEMMN) with a mission to mo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research.uaeu.ac.ae  
-   Link: [https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/fingerprints/](https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/fingerprints/)  
+   Link: <a href="https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/fingerprints/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/fingerprints/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured by the UAE Meteor Monitoring NetworkMonitoring Network 100% · Fireball 100% · Meteors 100% · Space Debris 25% · Sharjah 12% · Ri...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thenationalnews.com  
    Title: detection stations fully operational after meteorite hits abu dhabi 1.209782  
-   Link: [https://www.thenationalnews.com/uae/detection-stations-fully-operational-after-meteorite-hits-abu-dhabi-1.209782](https://www.thenationalnews.com/uae/detection-stations-fully-operational-after-meteorite-hits-abu-dhabi-1.209782)  
+   Link: <a href="https://www.thenationalnews.com/uae/detection-stations-fully-operational-after-meteorite-hits-abu-dhabi-1.209782" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/detection-stations-fully-operational-after-meteorite-hits-abu-dhabi-1.209782</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection stations fully operational after meteorite hits Abu...12 Nov 2016 — Three meteor detection stations have been set up across th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: spectroscopyonline.com  
-   Link: [https://www.spectroscopyonline.com/view/inside-the-laboratory-the-meteorite-center-at-the-sharjah-academy-of-astronomy-space-sciences-and-technology](https://www.spectroscopyonline.com/view/inside-the-laboratory-the-meteorite-center-at-the-sharjah-academy-of-astronomy-space-sciences-and-technology)  
+   Link: <a href="https://www.spectroscopyonline.com/view/inside-the-laboratory-the-meteorite-center-at-the-sharjah-academy-of-astronomy-space-sciences-and-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.spectroscopyonline.com/view/inside-the-laboratory-the-meteorite-center-at-the-sharjah-academy-of-astronomy-space-sciences-and-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The first is to analyze meteors and meteorites using the UAE Meteor Monitoring Network. The...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/](https://www.imo.net/)  
+   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eport a Fireball · Fireballs · Observations · Fireballs and...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: khaleejtimes.com  
    Title: look mysterious fireball spotted in uae skies  
-   Link: [https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies](https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies)  
+   Link: <a href="https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Look: Mysterious fireball spotted in UAE skies9 Jan 2021 — “The fireball was filmed by a special network of sophisticated astronomical ca...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: UAE Space Agency: HE Dr. Mohammed Al Ahbabi (Director General)  
-   Link: [https://www.youtube.com/watch?v=wy6k91LWKv8](https://www.youtube.com/watch?v=wy6k91LWKv8)  
+   Link: <a href="https://www.youtube.com/watch?v=wy6k91LWKv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wy6k91LWKv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sharjah Academy for Astronomy Space Sciences and Technology meteor Meteorite Center interview Ilias Fernini...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=H26bLY4f82Y](https://www.youtube.com/watch?v=H26bLY4f82Y)  
+   Link: <a href="https://www.youtube.com/watch?v=H26bLY4f82Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H26bLY4f82Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAE Space Agency: HE Dr. Mohammed Al Ahbabi (Director General)...</p></details>
    Published: December 2022  
 
 20. <a id="endnote-20"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2022eMetN...7..250S/abstract](https://ui.adsabs.harvard.edu/abs/2022eMetN...7..250S/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2022eMetN...7..250S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2022eMetN...7..250S/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAE Meteor Monitoring Network observations: 2018by ME Sharif · 2022 — This report describes the UAEMMN observations in light of the singl...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: azurx.com  
    Title: ax gen  
-   Link: [https://www.azurx.com/ax-gen](https://www.azurx.com/ax-gen)  
+   Link: <a href="https://www.azurx.com/ax-gen" target="_blank" rel="noopener noreferrer nofollow">https://www.azurx.com/ax-gen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Published 13 Nov 202513 Nov 2025 —... UAE Meteor Monitoring Network (UAEMMN). Its primary purpose is to monitor natural meteors and fire...</p></details>

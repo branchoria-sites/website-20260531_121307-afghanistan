@@ -1185,7 +1185,7 @@ next_link:
   title: Belize UAP
   permalink: /what-do-belize-ufo-reports-really-show/
   short_title: Belize UAP
-date: '2026-06-09 01:14:29 '
+date: '2026-06-10 01:39:56 '
 header:
   og_image: /assets/images/Austria_593905-overview-social.jpg
   preview_image: /assets/images/Austria_593905-overview.webp
@@ -1194,7 +1194,7 @@ image: /assets/images/Austria_593905-overview-social.jpg
 
 ## The Austrian UFO record is fragmented, not empty
 
-Austria’s UFO history is best understood through several overlapping evidence streams rather than one central official archive. There are Cold War-era references, civilian sighting databases, Austrian public-broadcasting coverage, German-speaking research groups that accept Austrian reports, and newer app-based databases that aggregate modern submissions. Enigma Labs, for example, lists Austria as a country page and reports 56 direct Austrian submissions and 250 total Austria-related published sightings when third-party sources are included, although such databases are report collections rather than proof that the observed objects were anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Austria | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Austria | Enigma Labs</span></span></span> | Report a UFO sighting
+Austria’s UFO history is best understood through several overlapping evidence streams rather than one central official archive. There are Cold War-era references, civilian sighting databases, Austrian public-broadcasting coverage, German-speaking research groups that accept Austrian reports, and newer app-based databases that aggregate modern submissions. Enigma Labs, for example, lists Austria as a country page and reports 56 direct Austrian submissions and 250 total Austria-related published sightings when third-party sources are included, although such databases are report collections rather than proof that the observed objects were anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Austria &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Austria &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 
 <img src="{{ "/assets/images/Austria_593905-overview.webp" | relative_url }}" alt="Overview image for What Do Austria&#x27;s UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
@@ -1246,7 +1246,7 @@ Austria does not appear, from the public record, to have a prominent dedicated s
 
 CENAP plays a different but equally important role in the Austrian evidence environment. It is often cited in German-language media as a reporting office for people seeking scientific explanations of unusual sky observations. Its recent record totals cover Germany, Austria, and Switzerland together, so they cannot be read as Austrian-only statistics; however, they are highly relevant because Austrian witnesses share the same satellite passes, planets, meteor events, and media cycles as neighbouring German-speaking countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oe3.orf.at/stories/3045790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oe3.orf.at">[oe3.ORF.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oe3.orf.at</span><span class="citation-popover-title">So viele UFO-Sichtungen wie noch nie!</span><span class="citation-popover-snippet">So viele UFO-Sichtungen wie noch nie!</span></span></span>
 
-A newer layer comes from commercial and app-based platforms such as Enigma Labs. These platforms are useful for mapping and comparison, but their figures should be read as reporting activity, not validation. A country page can show where and when people submit sightings; it cannot by itself determine whether a light was a drone, satellite, aircraft, meteor, balloon, optical reflection, or genuinely unresolved object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Austria | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Austria | Enigma Labs</span></span></span> | Report a UFO sighting
+A newer layer comes from commercial and app-based platforms such as Enigma Labs. These platforms are useful for mapping and comparison, but their figures should be read as reporting activity, not validation. A country page can show where and when people submit sightings; it cannot by itself determine whether a light was a drone, satellite, aircraft, meteor, balloon, optical reflection, or genuinely unresolved object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Austria &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Austria &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n7FS9BXBa8E" title="UFO Encounters In Europe | Never-Seen-Before Evidence!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer">UFO Encounters In Europe | Never-Seen-Before Evidence!</a></p><p class="youtube-embed-meta">Channel: Show Me the World &middot; Views: 70.1K &middot; Uploaded: May 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n7FS9BXBa8E">Open on YouTube</a></p></div></div></div>
@@ -1274,86 +1274,44 @@ The most credible Austrian cases are therefore not the strangest stories, but th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Austria&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Austria&#x27;s UFO Reports Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding fragmented national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a broad national overview of UFO reports and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides context for astronomical explanations behind many sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Relevant to evaluating evidence and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1387,75 +1345,71 @@ The most credible Austrian cases are therefore not the strangest stories, but th
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-austrias-ufo-reports-really-show-what-do-austria-s-ufo-reports-really-show-austria-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1670,344 +1624,344 @@ The most credible Austrian cases are therefore not the strangest stories, but th
 1. <a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1954 08 8716406 Austria  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book_report_-_1954-08-8716406-Austria.pdf](https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book_report_-_1954-08-8716406-Austria.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book_report_-_1954-08-8716406-Austria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book_report_-_1954-08-8716406-Austria.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: orf.at  
-   Link: [https://orf.at/stories/3381375/](https://orf.at/stories/3381375/)  
+   Link: <a href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow">https://orf.at/stories/3381375/</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gesellschaft zur Erforschung des UFO-Phänomens  
-   Link: [https://de.wikipedia.org/wiki/Gesellschaft_zur_Erforschung_des_UFO-Ph%C3%A4nomens](https://de.wikipedia.org/wiki/Gesellschaft_zur_Erforschung_des_UFO-Ph%C3%A4nomens)  
+   Link: <a href="https://de.wikipedia.org/wiki/Gesellschaft_zur_Erforschung_des_UFO-Ph%C3%A4nomens" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gesellschaft_zur_Erforschung_des_UFO-Ph%C3%A4nomens</a>  
 
 4. <a id="endnote-4"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting UFO Sightings in Austria | Enigma Labs  
-   Link: [https://enigmalabs.io/explore/at](https://enigmalabs.io/explore/at)  
+   Link: <a href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/at</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8716406-Austria.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8716406-Austria.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8716406-Austria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8716406-Austria.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
    Title: 1951 salzburg austria alien abduction incident ad015a063855  
-   Link: [https://medium.com/%40/1951-salzburg-austria-alien-abduction-incident-ad015a063855](https://medium.com/%40/1951-salzburg-austria-alien-abduction-incident-ad015a063855)  
+   Link: <a href="https://medium.com/%40/1951-salzburg-austria-alien-abduction-incident-ad015a063855" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/1951-salzburg-austria-alien-abduction-incident-ad015a063855</a>  
 
 8. <a id="endnote-8"></a>
    Source: ufo-forschung.de  
-   Link: [https://www.ufo-forschung.de/ufo-meldungen/kein-good-ufo-ueber-linz-fotofall-wird-doch-noch-aufgeklaert](https://www.ufo-forschung.de/ufo-meldungen/kein-good-ufo-ueber-linz-fotofall-wird-doch-noch-aufgeklaert)  
+   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/kein-good-ufo-ueber-linz-fotofall-wird-doch-noch-aufgeklaert" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/kein-good-ufo-ueber-linz-fotofall-wird-doch-noch-aufgeklaert</a>  
 
 9. <a id="endnote-9"></a>
    Source: ots.at  
    Title: „Am Schauplatz“-Reportage „UFOs über Österreich“ am 5  
-   Link: [https://www.ots.at/presseaussendung/OTS_20220504_OTS0116/am-schauplatz-reportage-ufos-ueber-oesterreich-am-5-mai-um-2105-uhr-in-orf-2](https://www.ots.at/presseaussendung/OTS_20220504_OTS0116/am-schauplatz-reportage-ufos-ueber-oesterreich-am-5-mai-um-2105-uhr-in-orf-2)  
+   Link: <a href="https://www.ots.at/presseaussendung/OTS_20220504_OTS0116/am-schauplatz-reportage-ufos-ueber-oesterreich-am-5-mai-um-2105-uhr-in-orf-2" target="_blank" rel="noopener noreferrer nofollow">https://www.ots.at/presseaussendung/OTS_20220504_OTS0116/am-schauplatz-reportage-ufos-ueber-oesterreich-am-5-mai-um-2105-uhr-in-orf-2</a>  
 
 10. <a id="endnote-10"></a>
    Source: tv.orf.at  
    Title: Am Schauplatz: UFOs über Österreich  
-   Link: [https://tv.orf.at/program/orf2/amschaupla208.html](https://tv.orf.at/program/orf2/amschaupla208.html)  
+   Link: <a href="https://tv.orf.at/program/orf2/amschaupla208.html" target="_blank" rel="noopener noreferrer nofollow">https://tv.orf.at/program/orf2/amschaupla208.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: meteoros.de  
-   Link: [https://www.meteoros.de/themen/atmos/sonstige-erscheinungen/ufos](https://www.meteoros.de/themen/atmos/sonstige-erscheinungen/ufos)  
+   Link: <a href="https://www.meteoros.de/themen/atmos/sonstige-erscheinungen/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoros.de/themen/atmos/sonstige-erscheinungen/ufos</a>  
 
 12. <a id="endnote-12"></a>
    Source: ingenieur.de  
    Title: rekordzahl an ufo sichtungen so klaert cenap haeufige meldungen auf  
-   Link: [https://www.ingenieur.de/technik/fachbereiche/raumfahrt/rekordzahl-an-ufo-sichtungen-so-klaert-cenap-haeufige-meldungen-auf/](https://www.ingenieur.de/technik/fachbereiche/raumfahrt/rekordzahl-an-ufo-sichtungen-so-klaert-cenap-haeufige-meldungen-auf/)  
+   Link: <a href="https://www.ingenieur.de/technik/fachbereiche/raumfahrt/rekordzahl-an-ufo-sichtungen-so-klaert-cenap-haeufige-meldungen-auf/" target="_blank" rel="noopener noreferrer nofollow">https://www.ingenieur.de/technik/fachbereiche/raumfahrt/rekordzahl-an-ufo-sichtungen-so-klaert-cenap-haeufige-meldungen-auf/</a>  
 
 13. <a id="endnote-13"></a>
    Source: welt.de  
-   Link: [https://www.welt.de/255086178](https://www.welt.de/255086178)  
+   Link: <a href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/255086178</a>  
 
 14. <a id="endnote-14"></a>
    Source: allsky7.net  
-   Link: [https://www.allsky7.net/](https://www.allsky7.net/)  
+   Link: <a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
 
 15. <a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: Rudolf Henke – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link: [https://www.ufo-forschung.de/tag/rudolf-henke](https://www.ufo-forschung.de/tag/rudolf-henke)  
+   Link: <a href="https://www.ufo-forschung.de/tag/rudolf-henke" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/rudolf-henke</a>  
 
 16. <a id="endnote-16"></a>
    Source: oe3.orf.at  
    Title: So viele UFO-Sichtungen wie noch nie!  
-   Link: [https://oe3.orf.at/stories/3045790/](https://oe3.orf.at/stories/3045790/)  
+   Link: <a href="https://oe3.orf.at/stories/3045790/" target="_blank" rel="noopener noreferrer nofollow">https://oe3.orf.at/stories/3045790/</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Desert Fireball Network  
-   Link: [https://en.wikipedia.org/wiki/Desert_Fireball_Network](https://en.wikipedia.org/wiki/Desert_Fireball_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/Desert_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Desert_Fireball_Network</a>  
 
 22. <a id="endnote-22"></a>
    Source: citizen-science.at  
-   Link: [https://www.citizen-science.at/en/projects/project-archive](https://www.citizen-science.at/en/projects/project-archive)  
+   Link: <a href="https://www.citizen-science.at/en/projects/project-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.citizen-science.at/en/projects/project-archive</a>  
 
 23. <a id="endnote-23"></a>
    Source: ufo-forschung.de  
-   Link: [https://www.ufo-forschung.de/category/verein](https://www.ufo-forschung.de/category/verein)  
+   Link: <a href="https://www.ufo-forschung.de/category/verein" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/verein</a>  
 
 24. <a id="endnote-24"></a>
    Source: ufo-forschung.de  
-   Link: [https://www.ufo-forschung.de/aktuelles](https://www.ufo-forschung.de/aktuelles)  
+   Link: <a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
 
 25. <a id="endnote-25"></a>
    Source: ufo-forschung.de  
    Title: 36 neue ufo meldungen im august 2022  
-   Link: [https://www.ufo-forschung.de/ufo-meldungen/36-neue-ufo-meldungen-im-august-2022](https://www.ufo-forschung.de/ufo-meldungen/36-neue-ufo-meldungen-im-august-2022)  
+   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/36-neue-ufo-meldungen-im-august-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/36-neue-ufo-meldungen-im-august-2022</a>  
    Published: august 2022  
 
 26. <a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link: [https://www.ufo-forschung.de/author/gepweb](https://www.ufo-forschung.de/author/gepweb)  
+   Link: <a href="https://www.ufo-forschung.de/author/gepweb" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/gepweb</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufo-forschung.de  
    Title: 15 neue ufo meldungen im august 2023  
-   Link: [https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-august-2023](https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-august-2023)  
+   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-august-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-august-2023</a>  
    Published: august 2023  
 
 28. <a id="endnote-28"></a>
    Source: ufo-forschung.de  
    Title: 17 neue ufo meldungen im oktober 2018  
-   Link: [https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018](https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018)  
+   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018</a>  
 
 29. <a id="endnote-29"></a>
    Source: ufo-forschung.de  
-   Link: [https://www.ufo-forschung.de/tag/good-ufo](https://www.ufo-forschung.de/tag/good-ufo)  
+   Link: <a href="https://www.ufo-forschung.de/tag/good-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/good-ufo</a>  
 
 30. <a id="endnote-30"></a>
    Source: ufo-forschung.de  
    Title: 13 neue ufo meldungen im dezember 2023  
-   Link: [https://www.ufo-forschung.de/ufo-meldungen/13-neue-ufo-meldungen-im-dezember-2023](https://www.ufo-forschung.de/ufo-meldungen/13-neue-ufo-meldungen-im-dezember-2023)  
+   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/13-neue-ufo-meldungen-im-dezember-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/13-neue-ufo-meldungen-im-dezember-2023</a>  
 
 31. <a id="endnote-31"></a>
    Source: ufo-forschung.de  
-   Link: [https://www.ufo-forschung.de/downloads](https://www.ufo-forschung.de/downloads)  
+   Link: <a href="https://www.ufo-forschung.de/downloads" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/downloads</a>  
 
 32. <a id="endnote-32"></a>
    Source: ufo-forschung.de  
    Title: 15 neue ufo meldungen im april 2023  
-   Link: [https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023](https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023)  
+   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023</a>  
    Published: april 2023  
 
 33. <a id="endnote-33"></a>
    Source: on.orf.at  
-   Link: [https://on.orf.at/video/14323912/am-schauplatz-bunkerstimmung](https://on.orf.at/video/14323912/am-schauplatz-bunkerstimmung)  
+   Link: <a href="https://on.orf.at/video/14323912/am-schauplatz-bunkerstimmung" target="_blank" rel="noopener noreferrer nofollow">https://on.orf.at/video/14323912/am-schauplatz-bunkerstimmung</a>  
 
 34. <a id="endnote-34"></a>
    Source: on.orf.at  
    Title: at Am Schauplatz: Österreich  
-   Link: [https://on.orf.at/video/14173292/am-schauplatz-oesterreich-nein-danke](https://on.orf.at/video/14173292/am-schauplatz-oesterreich-nein-danke)  
+   Link: <a href="https://on.orf.at/video/14173292/am-schauplatz-oesterreich-nein-danke" target="_blank" rel="noopener noreferrer nofollow">https://on.orf.at/video/14173292/am-schauplatz-oesterreich-nein-danke</a>  
 
 35. <a id="endnote-35"></a>
    Source: on.orf.at  
-   Link: [https://on.orf.at/video/14300215/am-schauplatz-in-der-verbotszone](https://on.orf.at/video/14300215/am-schauplatz-in-der-verbotszone)  
+   Link: <a href="https://on.orf.at/video/14300215/am-schauplatz-in-der-verbotszone" target="_blank" rel="noopener noreferrer nofollow">https://on.orf.at/video/14300215/am-schauplatz-in-der-verbotszone</a>  
 
 36. <a id="endnote-36"></a>
    Source: tv.orf.at  
    Title: at Am Schauplatz  
-   Link: [https://tv.orf.at/schauplatz/index.html](https://tv.orf.at/schauplatz/index.html)  
+   Link: <a href="https://tv.orf.at/schauplatz/index.html" target="_blank" rel="noopener noreferrer nofollow">https://tv.orf.at/schauplatz/index.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: on.orf.at  
-   Link: [https://on.orf.at/video/14205288/am-schauplatz-illegal-zwischen-ost-und-west](https://on.orf.at/video/14205288/am-schauplatz-illegal-zwischen-ost-und-west)  
+   Link: <a href="https://on.orf.at/video/14205288/am-schauplatz-illegal-zwischen-ost-und-west" target="_blank" rel="noopener noreferrer nofollow">https://on.orf.at/video/14205288/am-schauplatz-illegal-zwischen-ost-und-west</a>  
 
 38. <a id="endnote-38"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Austria  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Austria](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Austria)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Austria" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Austria</a>  
 
 39. <a id="endnote-39"></a>
    Source: upload.wikimedia.org  
    Title: UFOs and Related Subjects, An Annotated Bibliography, AD0688332, edit  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf](https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m7LXXVD2cBY](https://www.youtube.com/watch?v=m7LXXVD2cBY)  
+   Link: <a href="https://www.youtube.com/watch?v=m7LXXVD2cBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7LXXVD2cBY</a>  
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mtBq28tQKnQ](https://www.youtube.com/watch?v=mtBq28tQKnQ)  
+   Link: <a href="https://www.youtube.com/watch?v=mtBq28tQKnQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mtBq28tQKnQ</a>  
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=puAmE3HhTww](https://www.youtube.com/watch?v=puAmE3HhTww)  
+   Link: <a href="https://www.youtube.com/watch?v=puAmE3HhTww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=puAmE3HhTww</a>  
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GqpAsmQnoZY](https://www.youtube.com/watch?v=GqpAsmQnoZY)  
+   Link: <a href="https://www.youtube.com/watch?v=GqpAsmQnoZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GqpAsmQnoZY</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bIfA2dhIXTg](https://www.youtube.com/watch?v=bIfA2dhIXTg)  
+   Link: <a href="https://www.youtube.com/watch?v=bIfA2dhIXTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bIfA2dhIXTg</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=n7FS9BXBa8E](https://www.youtube.com/watch?v=n7FS9BXBa8E)  
+   Link: <a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n7FS9BXBa8E</a>  
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Kre4YIyVDyM](https://www.youtube.com/watch?v=Kre4YIyVDyM)  
+   Link: <a href="https://www.youtube.com/watch?v=Kre4YIyVDyM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kre4YIyVDyM</a>  
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kzzhZnCkKLE](https://www.youtube.com/watch?v=kzzhZnCkKLE)  
+   Link: <a href="https://www.youtube.com/watch?v=kzzhZnCkKLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kzzhZnCkKLE</a>  
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E5AUs1hzhc8](https://www.youtube.com/watch?v=E5AUs1hzhc8)  
+   Link: <a href="https://www.youtube.com/watch?v=E5AUs1hzhc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E5AUs1hzhc8</a>  
 
 49. <a id="endnote-49"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: UFOs: What the Science Says (Skeptical Analysis)  
-   Link: [https://www.youtube.com/watch?v=R9K_4vJt2wM](https://www.youtube.com/watch?v=R9K_4vJt2wM)  
+   Link: <a href="https://www.youtube.com/watch?v=R9K_4vJt2wM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9K_4vJt2wM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify a UFO (Scientific Methodology)...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: How to identify a UFO (Scientific Methodology)  
-   Link: [https://www.youtube.com/watch?v=S0T00-jYqI4](https://www.youtube.com/watch?v=S0T00-jYqI4)  
+   Link: <a href="https://www.youtube.com/watch?v=S0T00-jYqI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T00-jYqI4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do people believe in UFOs? (Psychosocial Explanations)...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
    Title: Why do people believe in UFOs? (Psychosocial Explanations)  
-   Link: [https://www.youtube.com/watch?v=r3Xrmo1147s](https://www.youtube.com/watch?v=r3Xrmo1147s)  
+   Link: <a href="https://www.youtube.com/watch?v=r3Xrmo1147s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3Xrmo1147s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFO sightings just secret aircraft? (Cold War Context)...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
    Title: Are UFO sightings just secret aircraft? (Cold War Context)  
-   Link: [https://www.youtube.com/watch?v=v3l-9_4aG6k](https://www.youtube.com/watch?v=v3l-9_4aG6k)  
+   Link: <a href="https://www.youtube.com/watch?v=v3l-9_4aG6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v3l-9_4aG6k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 things commonly mistaken for UFOs (Astronomical and Atmospheric)...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: youtube.com  
    Title: 17 things commonly mistaken for UFOs (Astronomical and Atmospheric)  
-   Link: [https://www.youtube.com/watch?v=oV0i12fX56s](https://www.youtube.com/watch?v=oV0i12fX56s)  
+   Link: <a href="https://www.youtube.com/watch?v=oV0i12fX56s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oV0i12fX56s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Sky at Night Magazine...</p></details>
 
 55. <a id="endnote-55"></a>
    Source: ufoencountersworldwide.wordpress.com  
    Title: the 1951 salzburg abduction  
-   Link: [https://ufoencountersworldwide.wordpress.com/2022/01/08/the-1951-salzburg-abduction/](https://ufoencountersworldwide.wordpress.com/2022/01/08/the-1951-salzburg-abduction/)  
+   Link: <a href="https://ufoencountersworldwide.wordpress.com/2022/01/08/the-1951-salzburg-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://ufoencountersworldwide.wordpress.com/2022/01/08/the-1951-salzburg-abduction/</a>  
 
 56. <a id="endnote-56"></a>
    Source: independent.co.uk  
    Title: The Independent Video of 'UFO' getting struck by lightning in Austria goes viral  
-   Link: [https://www.independent.co.uk/news/science/austria-ufo-video-struck-by-lightning-mostviertel-real-a6801201.html](https://www.independent.co.uk/news/science/austria-ufo-video-struck-by-lightning-mostviertel-real-a6801201.html)  
+   Link: <a href="https://www.independent.co.uk/news/science/austria-ufo-video-struck-by-lightning-mostviertel-real-a6801201.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/austria-ufo-video-struck-by-lightning-mostviertel-real-a6801201.html</a>  
 
 57. <a id="endnote-57"></a>
    Source: nhm.ac.uk  
    Title: when stargazing and science collide  
-   Link: [https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html](https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html)  
+   Link: <a href="https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/when-stargazing-and-science-collide.html</a>  
 
 58. <a id="endnote-58"></a>
    Source: europarl.europa.eu  
-   Link: [https://www.europarl.europa.eu/doceo/document/B-9-2024-0194_EN.html](https://www.europarl.europa.eu/doceo/document/B-9-2024-0194_EN.html)  
+   Link: <a href="https://www.europarl.europa.eu/doceo/document/B-9-2024-0194_EN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/doceo/document/B-9-2024-0194_EN.html</a>  
 
 59. <a id="endnote-59"></a>
    Source: europarl.europa.eu  
-   Link: [https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html](https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html)  
+   Link: <a href="https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/617328327480084/posts/840784241801157/](https://www.facebook.com/groups/617328327480084/posts/840784241801157/)  
+   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/840784241801157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/840784241801157/</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
    Title: am schauplatz  
-   Link: [https://www.facebook.com/ORF2/videos/am-schauplatz/733360838020511/](https://www.facebook.com/ORF2/videos/am-schauplatz/733360838020511/)  
+   Link: <a href="https://www.facebook.com/ORF2/videos/am-schauplatz/733360838020511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ORF2/videos/am-schauplatz/733360838020511/</a>  
 
 62. <a id="endnote-62"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
 
 63. <a id="endnote-63"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/anime_titties/comments/1az2cl7/european_parliament_member_advocates_for_unified/](https://www.reddit.com/r/anime_titties/comments/1az2cl7/european_parliament_member_advocates_for_unified/)  
+   Link: <a href="https://www.reddit.com/r/anime_titties/comments/1az2cl7/european_parliament_member_advocates_for_unified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/anime_titties/comments/1az2cl7/european_parliament_member_advocates_for_unified/</a>  
 
 64. <a id="endnote-64"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10547073](https://zenodo.org/records/10547073)  
+   Link: <a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
 
 65. <a id="endnote-65"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
 ### Additional References
 
 66. <a id="endnote-66"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents)  
+   Link: <a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
 
 67. <a id="endnote-67"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1pvpp0d/30x_zoom_in_austria_2_days_ago_i_have_no_clue/](https://www.reddit.com/r/UFOs/comments/1pvpp0d/30x_zoom_in_austria_2_days_ago_i_have_no_clue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pvpp0d/30x_zoom_in_austria_2_days_ago_i_have_no_clue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pvpp0d/30x_zoom_in_austria_2_days_ago_i_have_no_clue/</a>  
 
 68. <a id="endnote-68"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness](https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness)  
+   Link: <a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
 
 69. <a id="endnote-69"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/](https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/)  
+   Link: <a href="https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/</a>  
 
 70. <a id="endnote-70"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spaceintel101/posts/2361915657524574/](https://www.facebook.com/groups/spaceintel101/posts/2361915657524574/)  
+   Link: <a href="https://www.facebook.com/groups/spaceintel101/posts/2361915657524574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/2361915657524574/</a>  
 
 71. <a id="endnote-71"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/172438633343696/posts/1910868439500698/](https://www.facebook.com/groups/172438633343696/posts/1910868439500698/)  
+   Link: <a href="https://www.facebook.com/groups/172438633343696/posts/1910868439500698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1910868439500698/</a>  
 
 72. <a id="endnote-72"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
 73. <a id="endnote-73"></a>
    Source: esa.int  
-   Link: [https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain](https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain)  
+   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain</a>  
 
 74. <a id="endnote-74"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/icao_recently-developed-by-the-european-union-activity-7433638401775550464-X7dq](https://www.linkedin.com/posts/icao_recently-developed-by-the-european-union-activity-7433638401775550464-X7dq)  
+   Link: <a href="https://www.linkedin.com/posts/icao_recently-developed-by-the-european-union-activity-7433638401775550464-X7dq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/icao_recently-developed-by-the-european-union-activity-7433638401775550464-X7dq</a>  
 
 75. <a id="endnote-75"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ilovetheuniverseFB/posts/esa-investigating-fireball-over-europe-after-meteorites-strike-german-homea-bril/1378043424337404/](https://www.facebook.com/ilovetheuniverseFB/posts/esa-investigating-fireball-over-europe-after-meteorites-strike-german-homea-bril/1378043424337404/)  
+   Link: <a href="https://www.facebook.com/ilovetheuniverseFB/posts/esa-investigating-fireball-over-europe-after-meteorites-strike-german-homea-bril/1378043424337404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ilovetheuniverseFB/posts/esa-investigating-fireball-over-europe-after-meteorites-strike-german-homea-bril/1378043424337404/</a>  

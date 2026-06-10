@@ -245,7 +245,7 @@ next_link:
   permalink: /matanzas-reports/
   short_title: Matanzas Reports
   heading_title: Why Matanzas Became Cuba's UFO Hotspot
-date: '2026-06-09 01:25:01 '
+date: '2026-06-10 01:49:35 '
 header:
   og_image: /assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-1-social.jpg
   preview_image: /assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-1.webp
@@ -260,18 +260,18 @@ Cuba’s record of unidentified aerial phenomena in urban settings—especially 
 <img src="{{ "/assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-1-dark.svg" | relative_url }}" alt="Havana Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## 1999 and Later Havana Visual Claims: Footage and Context
 
-In the absence of a comprehensive national archive of UFO cases, Cuba’s modern UFO sightings are often circulated informally rather than through official channels. For example, in Havana and its neighbourhoods residents and tourists have occasionally posted clips to social media showing light anomalies or fast‑moving bright objects against the sky. One such widely circulated 2019 video from the Cerro district of Havana shows a bright aerial object moving across the skyline, generating discussion online about its nature. Some enthusiasts have treated these clips as evidence of unexplained aerial phenomena, but the available visual material lacks independent verification, precise timing, or any supporting instrumentation that would allow rigorous analysis. Similarly, various Instagram reels and local posts depict glowing spheres or fireball‑like flashes in Havana’s sky, yet these have not been documented in peer‑reviewed analyses or established ufology case catalogues that would support an extraordinary interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/photos/in-2019-a-local-resident-in-the-cerro-borough-of-havana-cuba-captured-unusual-fo/837870969232326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in 2019 a local resident in the cerro borough of havana cuba captured unusual fo</span><span class="citation-popover-snippet">FacebookIn 2019, a local resident in the Cerro borough of Havana...In 2019, a local resident in the Cerro borough of Havana, Cuba, capt...</span></span></span>
+In the absence of a comprehensive national archive of UFO cases, Cuba’s modern UFO sightings are often circulated informally rather than through official channels. For example, in Havana and its neighbourhoods residents and tourists have occasionally posted clips to social media showing light anomalies or fast‑moving bright objects against the sky. One such widely circulated 2019 video from the Cerro district of Havana shows a bright aerial object moving across the skyline, generating discussion online about its nature. Some enthusiasts have treated these clips as evidence of unexplained aerial phenomena, but the available visual material lacks independent verification, precise timing, or any supporting instrumentation that would allow rigorous analysis. Similarly, various Instagram reels and local posts depict glowing spheres or fireball‑like flashes in Havana’s sky, yet these have not been documented in peer‑reviewed analyses or established ufology case catalogues that would support an extraordinary interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/photos/in-2019-a-local-resident-in-the-cerro-borough-of-havana-cuba-captured-unusual-fo/837870969232326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in 2019 a local resident in the cerro borough of havana cuba captured unusual fo</span><span class="citation-popover-snippet">In 2019, a local resident in the Cerro borough of Havana...In 2019, a local resident in the Cerro borough of Havana, Cuba, capt...</span></span></span>
 
-Some of the more dramatic clips that circulate on platforms such as YouTube or Reddit show unusual lighting or motion, but these lack contextual data such as control footage, calibration frames, or independent witness accounts from trained observers. The absence of corroborative evidence makes tightly focused sceptical analysis difficult in these cases. Experts in photographic evidence and forensic image analysis caution against treating isolated videos as definitive: camera artefacts, over‑compression effects, and motion blur can produce shapes and movements that appear unfamiliar or anomalous even when they have mundane sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+Some of the more dramatic clips that circulate on platforms such as YouTube or Reddit show unusual lighting or motion, but these lack contextual data such as control footage, calibration frames, or independent witness accounts from trained observers. The absence of corroborative evidence makes tightly focused sceptical analysis difficult in these cases. Experts in photographic evidence and forensic image analysis caution against treating isolated videos as definitive: camera artefacts, over‑compression effects, and motion blur can produce shapes and movements that appear unfamiliar or anomalous even when they have mundane sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qlSX7p3Bjy0" title="UFO Skeptic Mick West: Alien Explanation Extraordinarily Unlikely | Breaking Points" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qlSX7p3Bjy0" target="_blank" rel="noopener noreferrer">UFO Skeptic Mick West: Alien Explanation Extraordinarily Unlikely | Breaking Points</a></p><p class="youtube-embed-meta">Channel: Breaking Points &middot; Views: 96.9K &middot; Uploaded: June 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qlSX7p3Bjy0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qlSX7p3Bjy0">Open on YouTube</a></p></div></div></div>
 
 ## Photography and Media‑Adjacent Sightings: Misinterpretation and Skepticism
 
-Urban settings like Havana concentrate spectators, cameras, and background clutter, which together make misinterpretations especially common. Critics of UFO interpretations emphasise that without clear reference points, scales, or independent verification, aerial lights and streaks in footage are easily mistaken for unknown craft. Analysis frameworks used by sceptical investigators point out that many such sightings worldwide—night lights, bright reflections, kites with LED lights, drones, or aircraft—can produce visual signatures superficially similar to “UFOs”. The British UFO Research Association and other analysis practitioners note that the vast majority of submitted photographs and clips result in conventional explanations once factors like camera settings, weather conditions, and human perception are accounted for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+Urban settings like Havana concentrate spectators, cameras, and background clutter, which together make misinterpretations especially common. Critics of UFO interpretations emphasise that without clear reference points, scales, or independent verification, aerial lights and streaks in footage are easily mistaken for unknown craft. Analysis frameworks used by sceptical investigators point out that many such sightings worldwide—night lights, bright reflections, kites with LED lights, drones, or aircraft—can produce visual signatures superficially similar to “UFOs”. The British UFO Research Association and other analysis practitioners note that the vast majority of submitted photographs and clips result in conventional explanations once factors like camera settings, weather conditions, and human perception are accounted for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
-Online discussions around Havana sightings often illustrate this sceptical approach in practice. In one widely referenced 2019 reel, what initially appears to be an unidentified object has been explained by some commentators as a LED‑equipped kite or similar low‑altitude object, with advocates of this interpretation pointing to patterns of light rotation and slow, controlled movement inconsistent with advanced aerial technology. These crowd‑sourced sceptical readings reflect a broader pattern in urban UFO discourse: in the absence of technical data, lay observers seek familiar explanatory templates, and critical voices draw on known misidentification categories to temper extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditCubans record fireball flying in Havana&#x27;s sky that turns into...October 28, 2023 — This video (see below) was filmed by an unident...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
+Online discussions around Havana sightings often illustrate this sceptical approach in practice. In one widely referenced 2019 reel, what initially appears to be an unidentified object has been explained by some commentators as a LED‑equipped kite or similar low‑altitude object, with advocates of this interpretation pointing to patterns of light rotation and slow, controlled movement inconsistent with advanced aerial technology. These crowd‑sourced sceptical readings reflect a broader pattern in urban UFO discourse: in the absence of technical data, lay observers seek familiar explanatory templates, and critical voices draw on known misidentification categories to temper extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Cubans record fireball flying in Havana&#x27;s sky that turns into...October 28, 2023 — This video (see below) was filmed by an unident...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NYqV3nV6FNs" title="UFO caught on video over Cuba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NYqV3nV6FNs" target="_blank" rel="noopener noreferrer">UFO caught on video over Cuba</a></p><p class="youtube-embed-meta">Channel: Joel H &middot; Views: 32.1K &middot; Uploaded: July 2019 &middot; Length: 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NYqV3nV6FNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NYqV3nV6FNs">Open on YouTube</a></p></div></div></div>
@@ -282,95 +282,53 @@ Online discussions around Havana sightings often illustrate this sceptical appro
 <img src="{{ "/assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-2-dark.svg" | relative_url }}" alt="Havana Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cuba_c484b1_havana_ufo_skeptic_a9c8a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lessons from Local Sceptical Ufology
 
-Two broad lessons emerge from the Cuban urban context. First, as with many urban UFO sightings globally, the burden of proof lies with those who claim something genuinely unexplained or non‑terrestrial. Without corroborative instrumentation—radar returns, multispectral imaging, or simultaneous reports from independent observers—the isolated visual accounts circulating from Havana remain ambiguous at best. Second, sceptical analysis rooted in photographic science helps ground public expectations about what these clips can reliably show. Experts emphasise that photographic artefacts, lens flare, digital compression effects, and terrestrial light sources are common causes of visual anomalies attributed to UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+Two broad lessons emerge from the Cuban urban context. First, as with many urban UFO sightings globally, the burden of proof lies with those who claim something genuinely unexplained or non‑terrestrial. Without corroborative instrumentation—radar returns, multispectral imaging, or simultaneous reports from independent observers—the isolated visual accounts circulating from Havana remain ambiguous at best. Second, sceptical analysis rooted in photographic science helps ground public expectations about what these clips can reliably show. Experts emphasise that photographic artefacts, lens flare, digital compression effects, and terrestrial light sources are common causes of visual anomalies attributed to UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
-In conclusion, the evidence for anomalous craft in urban Cuban sightings remains weak and highly contested. While residents’ curiosity and occasional viral clips contribute to a lively cultural folklore around UFOs in Havana and other cities, rigorous sceptical scrutiny consistently reveals natural or human‑made explanations for most observations. For readers exploring Cuba’s broader UFO dossier, the urban evidence underscores the importance of distinguishing between visually striking recordings and well‑substantiated unexplained phenomena—a distinction that is central to responsible discussion in the field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+In conclusion, the evidence for anomalous craft in urban Cuban sightings remains weak and highly contested. While residents’ curiosity and occasional viral clips contribute to a lively cultural folklore around UFOs in Havana and other cities, rigorous sceptical scrutiny consistently reveals natural or human‑made explanations for most observations. For readers exploring Cuba’s broader UFO dossier, the urban evidence underscores the importance of distinguishing between visually striking recordings and well‑substantiated unexplained phenomena—a distinction that is central to responsible discussion in the field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhLrYFewo2Q" title="UFO Seen By Kids At School In Cuba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhLrYFewo2Q" target="_blank" rel="noopener noreferrer">UFO Seen By Kids At School In Cuba</a></p><p class="youtube-embed-meta">Channel: VETTED &middot; Views: 19.1K &middot; Uploaded: October 2024 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhLrYFewo2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhLrYFewo2Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Urban UFO Observations and Skeptical Analyses in Havana. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Urban UFO Observations and Skeptical Analyses in Havana, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Encourages evidence-based discussion of sightings and reporting quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for a page focused on analysis, evidence and skeptical evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides cultural context for how sightings become stories and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Excellent match for skeptical examination of extraordinary claims and visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -404,75 +362,71 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-sightings-urban-ufo-observations-and-skeptical-analyses-in-havana-cuba-ufo-poster-book-books-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -687,105 +641,105 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
 1. <a id="endnote-1"></a>
    Source: facebook.com  
    Title: in 2019 a local resident in the cerro borough of havana cuba captured unusual fo  
-   Link: [https://www.facebook.com/ancientwhispers/photos/in-2019-a-local-resident-in-the-cerro-borough-of-havana-cuba-captured-unusual-fo/837870969232326/](https://www.facebook.com/ancientwhispers/photos/in-2019-a-local-resident-in-the-cerro-borough-of-havana-cuba-captured-unusual-fo/837870969232326/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookIn 2019, a local resident in the Cerro borough of Havana...In 2019, a local resident in the Cerro borough of Havana, Cuba, capt...</p></details>
+   Link: <a href="https://www.facebook.com/ancientwhispers/photos/in-2019-a-local-resident-in-the-cerro-borough-of-havana-cuba-captured-unusual-fo/837870969232326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/in-2019-a-local-resident-in-the-cerro-borough-of-havana-cuba-captured-unusual-fo/837870969232326/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2019, a local resident in the Cerro borough of Havana...In 2019, a local resident in the Cerro borough of Havana, Cuba, capt...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: instagram.com  
    Title: DY0Pp Fmi Fr4  
-   Link: [https://www.instagram.com/reel/DY0PpFmiFr4/](https://www.instagram.com/reel/DY0PpFmiFr4/)  
+   Link: <a href="https://www.instagram.com/reel/DY0PpFmiFr4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY0PpFmiFr4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2019 over Cuba, a glowing metallic sphere was...It&#x27;s 2019 in Havana, Cuba. A local resident is going about his day when he suddenly s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bufora.org.uk  
    Title: BUFORAAnalysis of UFO Photographs | BUFORA  
-   Link: [https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs](https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs)  
+   Link: <a href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/](https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCubans record fireball flying in Havana&#x27;s sky that turns into...October 28, 2023 — This video (see below) was filmed by an unident...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cubans record fireball flying in Havana&#x27;s sky that turns into...October 28, 2023 — This video (see below) was filmed by an unident...</p></details>
    Published: October 28, 2023  
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/](https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“I STARTED...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWNQ0_hETJS/](https://www.instagram.com/reel/DWNQ0_hETJS/)  
+   Link: <a href="https://www.instagram.com/reel/DWNQ0_hETJS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWNQ0_hETJS/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Descripción Un impactante y perturbador registro...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Controversy In America... UFO organizations, and actual cases of UFO sight ings, contactee reports, and trace evidence found. Here is...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFObelievers/comments/15c5n47/cuban_ufo_crazy_flow_over_havana_cellphone_video/](https://www.reddit.com/r/UFObelievers/comments/15c5n47/cuban_ufo_crazy_flow_over_havana_cellphone_video/)  
+   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/15c5n47/cuban_ufo_crazy_flow_over_havana_cellphone_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/15c5n47/cuban_ufo_crazy_flow_over_havana_cellphone_video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt know when it was recorded: r/UFObelievers.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=99Lm2-rr6-E](https://www.youtube.com/watch?v=99Lm2-rr6-E)  
+   Link: <a href="https://www.youtube.com/watch?v=99Lm2-rr6-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=99Lm2-rr6-E</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vujANFDdgVQ](https://www.youtube.com/watch?v=vujANFDdgVQ)  
+   Link: <a href="https://www.youtube.com/watch?v=vujANFDdgVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vujANFDdgVQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t UFO specialist in Cuba speaks... Auto-dubbed. 14K views · 2 weeks ago...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: 21Jwg AHZqew  
-   Link: [https://www.youtube.com/shorts/21JwgAHZqew](https://www.youtube.com/shorts/21JwgAHZqew)  
+   Link: <a href="https://www.youtube.com/shorts/21JwgAHZqew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/21JwgAHZqew</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Havana? A strange light with unusual movement...UFO in Havana? A strange light with unusual movement surprised residents of the c...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: m.youtube.com  
-   Link: [https://m.youtube.com/watch?v=NYqV3nV6FNs](https://m.youtube.com/watch?v=NYqV3nV6FNs)  
+   Link: <a href="https://m.youtube.com/watch?v=NYqV3nV6FNs" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=NYqV3nV6FNs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>caught on video over CubaUFO caught on video over Cuba. 32K views · 6 years ago...more... Disappearances of scientists &amp; debate over po...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO Seen By Kids At School In Cuba  
-   Link: [http://www.youtube.com/watch?v=rhLrYFewo2Q](http://www.youtube.com/watch?v=rhLrYFewo2Q)  
+   Link: <a href="http://www.youtube.com/watch?v=rhLrYFewo2Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rhLrYFewo2Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Filmed over Cuba - July 2019...</p></details>
    Published: July 2019  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Mysterious UFO Filmed over Cuba  
-   Link: [http://www.youtube.com/watch?v=yKMqIQa7dkU](http://www.youtube.com/watch?v=yKMqIQa7dkU)  
+   Link: <a href="http://www.youtube.com/watch?v=yKMqIQa7dkU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yKMqIQa7dkU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting: Havana, Cuba 2026...</p></details>
    Published: July 2019  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=ZO1KrVzsZ2M](http://www.youtube.com/watch?v=ZO1KrVzsZ2M)  
+   Link: <a href="http://www.youtube.com/watch?v=ZO1KrVzsZ2M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZO1KrVzsZ2M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible UFO Footage from Cuba...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Incredible UFO Footage from Cuba  
-   Link: [http://www.youtube.com/watch?v=2Viaw7RZiYY](http://www.youtube.com/watch?v=2Viaw7RZiYY)  
+   Link: <a href="http://www.youtube.com/watch?v=2Viaw7RZiYY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2Viaw7RZiYY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Skeptic Mick West: Alien Explanation Extraordinarily Unlikely | Breaking Points...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=qlSX7p3Bjy0](http://www.youtube.com/watch?v=qlSX7p3Bjy0)  
+   Link: <a href="http://www.youtube.com/watch?v=qlSX7p3Bjy0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qlSX7p3Bjy0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting Cuba UFO Seen By Kids At School In Cuba VETTED...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bufora.org.uk  
    Title: BUFORAGUIDE TO UFOS | BUFORA  
-   Link: [https://www.bufora.org.uk/guide-to-ufos](https://www.bufora.org.uk/guide-to-ufos)  
+   Link: <a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
 
 19. <a id="endnote-19"></a>
    Source: ufo.com.br  
-   Link: [https://ufo.com.br/cuba/](https://ufo.com.br/cuba/)  
+   Link: <a href="https://ufo.com.br/cuba/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/cuba/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOAugust 1, 2003 — CUBA Uma nação onde a Ufologia é um assunto proibido * Thiago Luiz Ticchetti * agosto 1, 2003 * 4:12 pm Image...</p></details>
    Published: August 1, 2003  
 
@@ -793,59 +747,59 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2018/aug/14/cuban-acoustic-attack-report-on-us-diplomats-flawed-say-neurologists](https://www.theguardian.com/world/2018/aug/14/cuban-acoustic-attack-report-on-us-diplomats-flawed-say-neurologists)  
+   Link: <a href="https://www.theguardian.com/world/2018/aug/14/cuban-acoustic-attack-report-on-us-diplomats-flawed-say-neurologists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2018/aug/14/cuban-acoustic-attack-report-on-us-diplomats-flawed-say-neurologists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Input] The US embassy in Havana, Cuba. Washington withdrew more than half its Havana diplomats in 2017 and is advising Americans to reco...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ufoac.com  
-   Link: [https://ufoac.com/nonsense-and-fakes-about-ufos.html](https://ufoac.com/nonsense-and-fakes-about-ufos.html)  
+   Link: <a href="https://ufoac.com/nonsense-and-fakes-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/nonsense-and-fakes-about-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nonsense and fakes about UFOsNONSENSE AND FAKES ABOUT UFOS Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrestrials * UF...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: skeptic.org.uk  
-   Link: [https://www.skeptic.org.uk/2022/09/the-calvine-ufo-photo-skeptics-and-believers-seek-to-explain-the-30-year-old-images/](https://www.skeptic.org.uk/2022/09/the-calvine-ufo-photo-skeptics-and-believers-seek-to-explain-the-30-year-old-images/)  
+   Link: <a href="https://www.skeptic.org.uk/2022/09/the-calvine-ufo-photo-skeptics-and-believers-seek-to-explain-the-30-year-old-images/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2022/09/the-calvine-ufo-photo-skeptics-and-believers-seek-to-explain-the-30-year-old-images/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticSeptember 30, 2022 — THE CALVINE UFO PHOTO: SKEPTICS AND BELIEVERS SEEK TO EXPLAIN THE 30 YEAR OLD IMAGES By Nigel Watson 30th...</p></details>
    Published: September 30, 2022  
 
 23. <a id="endnote-23"></a>
    Source: muckrock.com  
-   Link: [https://www.muckrock.com/news/archives/2018/feb/14/ufo-photo-analysis/](https://www.muckrock.com/news/archives/2018/feb/14/ufo-photo-analysis/)  
+   Link: <a href="https://www.muckrock.com/news/archives/2018/feb/14/ufo-photo-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/news/archives/2018/feb/14/ufo-photo-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formerly SECRET memo shows how the Air Force investigated UFO sightings • MuckRockFebruary 14, 2018 — February 14, 2018 FORMERLY SECRET M...</p></details>
    Published: February 14, 2018  
 
 24. <a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 November / December 2018 The important things to remember about UFOs are, first, that they are just alleged sightings th...</p></details>
    Published: December 2018  
 
 25. <a id="endnote-25"></a>
    Source: periodicocubano.com  
    Title: OVNI S en Cuba: la historia del caza Mi G-21 que perseguía una esfera metálica  
-   Link: [https://www.periodicocubano.com/caza-mig21-ovni-cuba-encuentro/](https://www.periodicocubano.com/caza-mig21-ovni-cuba-encuentro/)  
+   Link: <a href="https://www.periodicocubano.com/caza-mig21-ovni-cuba-encuentro/" target="_blank" rel="noopener noreferrer nofollow">https://www.periodicocubano.com/caza-mig21-ovni-cuba-encuentro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS en Cuba: la historia del caza MiG-21 que perseguía una esfera metálicaMay 9, 2026 — OVNIS EN CUBA: LA HISTORIA DEL CAZA MIG-21 QUE...</p></details>
    Published: May 9, 2026  
 
 26. <a id="endnote-26"></a>
    Source: rense.com  
-   Link: [https://rense.com/general13/z.htm](https://rense.com/general13/z.htm)  
+   Link: <a href="https://rense.com/general13/z.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general13/z.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Virgilio Sanchez-Ocejo ufomiami@prodigy.net 9-1-1 By Carlos Rafael Sanchez Almenares From the pre-released book &#x27;UFOs Forever&#x27; Context ob...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Other UAP skeptics say that some combination of government disinformation an...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
    Title: i study ufos and i dont believe the alien hype heres why  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I study UFOs – and I don&#x27;t believe the alien hype. Here&#x27;s why11 Jun 2021 — I study UFOs – and I don&#x27;t believe the alien hype. Here&#x27;s why...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: newstatesman.com  
    Title: Does mass hysteria explain the â?osonic attacksâ??  
-   Link: [https://www.newstatesman.com/science-tech/2021/02/does-mass-hysteria-explain-sonic-attacks-us-diplomats-cuba](https://www.newstatesman.com/science-tech/2021/02/does-mass-hysteria-explain-sonic-attacks-us-diplomats-cuba)  
+   Link: <a href="https://www.newstatesman.com/science-tech/2021/02/does-mass-hysteria-explain-sonic-attacks-us-diplomats-cuba" target="_blank" rel="noopener noreferrer nofollow">https://www.newstatesman.com/science-tech/2021/02/does-mass-hysteria-explain-sonic-attacks-us-diplomats-cuba</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on US diplomats in Cuba?February 24, 2021 — 24 February 2021 updated 04 Apr 2022 7:37pm DOES MASS HYSTERIA EXPLAIN THE “SONIC ATTACKS” ON...</p></details>
    Published: February 24, 2021  

@@ -245,7 +245,7 @@ next_link:
   permalink: /sighting-map/
   short_title: Sighting Map
   heading_title: Where Do Hungary's UFO Reports Cluster?
-date: '2026-06-09 01:29:33 '
+date: '2026-06-10 01:54:54 '
 header:
   og_image: /assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1-social.jpg
   preview_image: /assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1-
 
 ## Introduction
 
-[Hungary]({{ 'what-do-hungarys-ufo-stories-really-show/' | relative_url }})’s UFO culture has been shaped less by official investigation than by television, tabloid storytelling, amateur photography and recurring waves of public fascination. Reports of strange lights over Budapest, unusual shapes near military areas, or mysterious objects captured on mobile phones have circulated for decades, especially since the political changes of the late 1980s opened the media space to paranormal themes. Yet the strongest evidence behind most Hungarian UFO stories remains uncertain, fragmentary or weakly documented.
+Hungary’s UFO culture has been shaped less by official investigation than by television, tabloid storytelling, amateur photography and recurring waves of public fascination. Reports of strange lights over Budapest, unusual shapes near military areas, or mysterious objects captured on mobile phones have circulated for decades, especially since the political changes of the late 1980s opened the media space to paranormal themes. Yet the strongest evidence behind most Hungarian UFO stories remains uncertain, fragmentary or weakly documented.
 
 
 <img src="{{ "/assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1-dark.svg" | relative_url }}" alt="Myths illustration 1" data-theme-src-dark="{{ "/assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -321,7 +321,7 @@ This is particularly visible in social media discussions surrounding videos alle
 
 </div>
 
-The technical limitations of smartphone cameras intensify the uncertainty. Distant lights become distorted through digital zoom, atmospheric haze and automatic image processing. Discussions on large UFO forums repeatedly note that modern phones are surprisingly poor at capturing distant night-sky objects clearly, despite their excellent performance for ordinary photography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1jl1fo7/where_are_the_good_ufo_images_and_videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Where Are the Good UFO Images and Videos?</span><span class="citation-popover-snippet">RedditWhere Are the Good UFO Images and Videos?March 27, 2025 — Hi everyone, please dont feel attacked by this discussion, its more of a...</span><span class="citation-popover-meta">Published: March 27, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/135revf/amazing_footage_of_cylindrical_ufo_filmed_by/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">os you can actually see how these things move. 6/29/20: r/UFOs...</span></span></span>
+The technical limitations of smartphone cameras intensify the uncertainty. Distant lights become distorted through digital zoom, atmospheric haze and automatic image processing. Discussions on large UFO forums repeatedly note that modern phones are surprisingly poor at capturing distant night-sky objects clearly, despite their excellent performance for ordinary photography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1jl1fo7/where_are_the_good_ufo_images_and_videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Where Are the Good UFO Images and Videos?</span><span class="citation-popover-snippet">Where Are the Good UFO Images and Videos?March 27, 2025 — Hi everyone, please dont feel attacked by this discussion, its more of a...</span><span class="citation-popover-meta">Published: March 27, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/135revf/amazing_footage_of_cylindrical_ufo_filmed_by/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">os you can actually see how these things move. 6/29/20: r/UFOs...</span></span></span>
 
 ## Social Media Accelerates Modern UFO Waves
 
@@ -329,7 +329,7 @@ Earlier Hungarian UFO stories spread through television and print magazines. Tod
 
 This creates faster and more emotional amplification. A striking sky image from western Hungary can circulate nationally within hours before any technical explanation appears. By the time astronomers or aviation observers identify the object, the original “mystery” framing may already dominate public memory.
 
-A clear example occurred in March 2025, when many Hungarians observed a luminous spiral-like formation in the night sky. Social media users rapidly described it as a possible UFO or alien phenomenon. Later reporting linked the event to the atmospheric effects of a SpaceX Falcon 9 rocket stage associated with a Starlink launch. Hungarian astronomy sources reportedly confirmed that the event was man-made rather than extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://xpatloop.com/channels/2025/03/ufo-heads-up-mysterious-celestial-phenomenon-seen-in-sky-over-hungary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xpatloop.com">[XpatLoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xpatloop.com</span><span class="citation-popover-snippet">XpatLoopUFO Heads-Up: Mysterious Celestial Phenomenon Seen...26 Mar 2025 — UFO Heads-Up: Mysterious Celestial Phenomenon Seen in Sky Ove...</span></span></span> Facebook The episode illustrates several mechanisms common in Hungary’s modern UFO culture: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/howtohungary/videos/aliens-over-hungary-explained/1393415399245789/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">e sky wasn&#x27;t a UFO. It just looked like one...</span></span></span>
+A clear example occurred in March 2025, when many Hungarians observed a luminous spiral-like formation in the night sky. Social media users rapidly described it as a possible UFO or alien phenomenon. Later reporting linked the event to the atmospheric effects of a SpaceX Falcon 9 rocket stage associated with a Starlink launch. Hungarian astronomy sources reportedly confirmed that the event was man-made rather than extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://xpatloop.com/channels/2025/03/ufo-heads-up-mysterious-celestial-phenomenon-seen-in-sky-over-hungary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xpatloop.com">[XpatLoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xpatloop.com</span><span class="citation-popover-snippet">UFO Heads-Up: Mysterious Celestial Phenomenon Seen...26 Mar 2025 — UFO Heads-Up: Mysterious Celestial Phenomenon Seen in Sky Ove...</span></span></span> Facebook The episode illustrates several mechanisms common in Hungary’s modern UFO culture: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/howtohungary/videos/aliens-over-hungary-explained/1393415399245789/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">e sky wasn&#x27;t a UFO. It just looked like one...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -341,7 +341,7 @@ A clear example occurred in March 2025, when many Hungarians observed a luminous
 
 </div>
 
-Rocket exhaust spirals, satellite trains and re-entry effects are especially important because they can appear highly unusual when viewed under rare lighting conditions. Increasing satellite traffic means that such incidents may become more common rather than less common in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Rocket exhaust spirals, satellite trains and re-entry effects are especially important because they can appear highly unusual when viewed under rare lighting conditions. Increasing satellite traffic means that such incidents may become more common rather than less common in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 ## Common Explanations That Fit Many Hungarian Reports
 
@@ -351,7 +351,7 @@ Although some Hungarian sightings remain unresolved because evidence is incomple
 <img src="{{ "/assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-2-dark.svg" | relative_url }}" alt="Myths illustration 2" data-theme-src-dark="{{ "/assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Satellites and Rocket Effects
 
-Satellite constellations, especially Starlink deployments, have become a major source of modern UFO confusion worldwide and in Hungary. Long chains of moving lights or unexpectedly bright reflections can appear extraordinary to observers unfamiliar with orbital activity. Controlled rocket-stage re-entries can also create glowing spirals or expanding luminous clouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Satellite constellations, especially Starlink deployments, have become a major source of modern UFO confusion worldwide and in Hungary. Long chains of moving lights or unexpectedly bright reflections can appear extraordinary to observers unfamiliar with orbital activity. Controlled rocket-stage re-entries can also create glowing spirals or expanding luminous clouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 ### Atmospheric and Astronomical Effects
 
@@ -369,7 +369,7 @@ Some reports align with known optical or atmospheric phenomena:
 
 </div>
 
-Hungary’s active amateur astronomy community frequently identifies such cases after review. Meteor activity is especially relevant because bright fireballs can appear sudden, silent and difficult to interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1561 celestial phenomenon over Nuremberg</span><span class="citation-popover-snippet">1561 celestial phenomenon over Nuremberg</span></span></span>
+Hungary’s active amateur astronomy community frequently identifies such cases after review. Meteor activity is especially relevant because bright fireballs can appear sudden, silent and difficult to interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1561 celestial phenomenon over Nuremberg</span><span class="citation-popover-snippet">1561 celestial phenomenon over Nuremberg</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3daytYIUb_A" title="UFO-akták: Megnyílik az ismeretlen [TELJES FILM]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3daytYIUb_A" target="_blank" rel="noopener noreferrer">UFO-akták: Megnyílik az ismeretlen [TELJES FILM]</a></p><p class="youtube-embed-meta">Channel: National Geographic Magyarország &middot; Views: 208.8K &middot; Uploaded: October 2025 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3daytYIUb_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3daytYIUb_A">Open on YouTube</a></p></div></div></div>
@@ -438,86 +438,44 @@ Importantly, scepticism does not automatically mean ridicule. Many witnesses pro
 Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial visitation than about how modern societies process uncertainty. Television programmes, viral photographs and local legends can sustain belief for decades even when evidence remains inconclusive. In that sense, the Hungarian UFO phenomenon is as much a media and cultural story as an aerospace mystery.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Hungary&#x27;s UFO Stories Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Hungary&#x27;s UFO Stories Spread?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Explains how UFO stories spread through media and culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
-        
-        <p class="fr-book-desc">Examines common UFO claims and their explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly addresses skepticism, evidence, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Looks at why societies sustain mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -551,75 +509,71 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PROG ROCK METAL T-SHIRT unisex S-3XL"><img src="{{ '/assets/images/marketplace-covers/006b3c1e1415c091c9f2.jpg' | relative_url }}" alt="Listing image for UFO PROG ROCK METAL T-SHIRT unisex S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO PROG ROCK METAL T-SHIRT unisex S-3XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-why-do-hungary-s-ufo-stories-spread-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -834,116 +788,116 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
 1. <a id="endnote-1"></a>
    Source: dailynewshungary.com  
    Title: stranger things ufo detected over hungary  
-   Link: [https://dailynewshungary.com/stranger-things-ufo-detected-over-hungary/](https://dailynewshungary.com/stranger-things-ufo-detected-over-hungary/)  
+   Link: <a href="https://dailynewshungary.com/stranger-things-ufo-detected-over-hungary/" target="_blank" rel="noopener noreferrer nofollow">https://dailynewshungary.com/stranger-things-ufo-detected-over-hungary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hungarian media remains silent about the UFOs that have been seen over Pápa before.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: xpatloop.com  
-   Link: [https://xpatloop.com/channels/2025/03/ufo-heads-up-mysterious-celestial-phenomenon-seen-in-sky-over-hungary.html](https://xpatloop.com/channels/2025/03/ufo-heads-up-mysterious-celestial-phenomenon-seen-in-sky-over-hungary.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>XpatLoopUFO Heads-Up: Mysterious Celestial Phenomenon Seen...26 Mar 2025 — UFO Heads-Up: Mysterious Celestial Phenomenon Seen in Sky Ove...</p></details>
+   Link: <a href="https://xpatloop.com/channels/2025/03/ufo-heads-up-mysterious-celestial-phenomenon-seen-in-sky-over-hungary.html" target="_blank" rel="noopener noreferrer nofollow">https://xpatloop.com/channels/2025/03/ufo-heads-up-mysterious-celestial-phenomenon-seen-in-sky-over-hungary.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Heads-Up: Mysterious Celestial Phenomenon Seen...26 Mar 2025 — UFO Heads-Up: Mysterious Celestial Phenomenon Seen in Sky Ove...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nomadit.co.uk  
-   Link: [https://nomadit.co.uk/conference/sief2019/paper/47298](https://nomadit.co.uk/conference/sief2019/paper/47298)  
+   Link: <a href="https://nomadit.co.uk/conference/sief2019/paper/47298" target="_blank" rel="noopener noreferrer nofollow">https://nomadit.co.uk/conference/sief2019/paper/47298</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paleoastronautic myths in Hungary17 Apr 2019 — In the countries of the socialist bloc the initial phase of UFO-culture followed a somewha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Where Are the Good UFO Images and Videos?  
-   Link: [https://www.reddit.com/r/UFOs/comments/1jl1fo7/where_are_the_good_ufo_images_and_videos/](https://www.reddit.com/r/UFOs/comments/1jl1fo7/where_are_the_good_ufo_images_and_videos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhere Are the Good UFO Images and Videos?March 27, 2025 — Hi everyone, please dont feel attacked by this discussion, its more of a...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jl1fo7/where_are_the_good_ufo_images_and_videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jl1fo7/where_are_the_good_ufo_images_and_videos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where Are the Good UFO Images and Videos?March 27, 2025 — Hi everyone, please dont feel attacked by this discussion, its more of a...</p></details>
    Published: March 27, 2025  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/135revf/amazing_footage_of_cylindrical_ufo_filmed_by/](https://www.reddit.com/r/UFOs/comments/135revf/amazing_footage_of_cylindrical_ufo_filmed_by/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/135revf/amazing_footage_of_cylindrical_ufo_filmed_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/135revf/amazing_footage_of_cylindrical_ufo_filmed_by/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>os you can actually see how these things move. 6/29/20: r/UFOs...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/13cv0ih/incredible_video_of_cigar_ufo_over_hungary/](https://www.reddit.com/r/aliens/comments/13cv0ih/incredible_video_of_cigar_ufo_over_hungary/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/13cv0ih/incredible_video_of_cigar_ufo_over_hungary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13cv0ih/incredible_video_of_cigar_ufo_over_hungary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>th&#x27;s metrics. There&#x27;s no reason “aliens” would be flying around...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/howtohungary/videos/aliens-over-hungary-explained/1393415399245789/](https://www.facebook.com/howtohungary/videos/aliens-over-hungary-explained/1393415399245789/)  
+   Link: <a href="https://www.facebook.com/howtohungary/videos/aliens-over-hungary-explained/1393415399245789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/howtohungary/videos/aliens-over-hungary-explained/1393415399245789/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e sky wasn&#x27;t a UFO. It just looked like one...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.00183](https://arxiv.org/abs/2411.00183)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Perseid and Geminid meteor shower activity over Hungary in 2019-2023October 31, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2411.00183" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.00183</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Perseid and Geminid meteor shower activity over Hungary in 2019-2023October 31, 2024...</p></details>
    Published: October 31, 2024  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: 1561 celestial phenomenon over Nuremberg  
-   Link: [https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)  
+   Link: <a href="https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 12. <a id="endnote-12"></a>
    Source: dailynewshungary.com  
-   Link: [https://dailynewshungary.com/hungarian-incidents-found-in-cia-secret-ufo-files/](https://dailynewshungary.com/hungarian-incidents-found-in-cia-secret-ufo-files/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DailyNewsHungaryHungarian incidents found in CIA secret UFO files!January 14, 2021 — 14 Jan 2021 — The files contain material collecting...</p></details>
+   Link: <a href="https://dailynewshungary.com/hungarian-incidents-found-in-cia-secret-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://dailynewshungary.com/hungarian-incidents-found-in-cia-secret-ufo-files/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hungarian incidents found in CIA secret UFO files!January 14, 2021 — 14 Jan 2021 — The files contain material collecting...</p></details>
    Published: January 14, 2021  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/heraldscotland/posts/a-foreign-object-was-detected-during-a-routine-check-/1386829230131064/](https://www.facebook.com/heraldscotland/posts/a-foreign-object-was-detected-during-a-routine-check-/1386829230131064/)  
+   Link: <a href="https://www.facebook.com/heraldscotland/posts/a-foreign-object-was-detected-during-a-routine-check-/1386829230131064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heraldscotland/posts/a-foreign-object-was-detected-during-a-routine-check-/1386829230131064/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The red circle highlights this UFO, which does not resemble any natural...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: Mysterious monolith appears in Hungary  
-   Link: [https://www.facebook.com/painharold/posts/mysterious-monolith-appears-in-hungary-according-to-a-label-its-a-gift-of-the-in/218384896318666/](https://www.facebook.com/painharold/posts/mysterious-monolith-appears-in-hungary-according-to-a-label-its-a-gift-of-the-in/218384896318666/)  
+   Link: <a href="https://www.facebook.com/painharold/posts/mysterious-monolith-appears-in-hungary-according-to-a-label-its-a-gift-of-the-in/218384896318666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/painharold/posts/mysterious-monolith-appears-in-hungary-according-to-a-label-its-a-gift-of-the-in/218384896318666/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a...So… about the “aliens” over Hungary last night That strange spiral in the sky wasn&#x27;t a UFO. It just looked like one. Di...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/smartphoneastro/posts/904816355444421/](https://www.facebook.com/groups/smartphoneastro/posts/904816355444421/)  
+   Link: <a href="https://www.facebook.com/groups/smartphoneastro/posts/904816355444421/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/smartphoneastro/posts/904816355444421/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rn 😄 Two AI chats couldn’t handle me, and an astronomy/space news...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IndiaToday/posts/watch-mysterious-object-seen-flying-and-exploding-over-europe/1518358913660985/](https://www.facebook.com/IndiaToday/posts/watch-mysterious-object-seen-flying-and-exploding-over-europe/1518358913660985/)  
+   Link: <a href="https://www.facebook.com/IndiaToday/posts/watch-mysterious-object-seen-flying-and-exploding-over-europe/1518358913660985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/watch-mysterious-object-seen-flying-and-exploding-over-europe/1518358913660985/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Mysterious object seen flying, and exploding over...Strange cloud after mysterious light explodes in the sky over Russian Far Eas...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: Many people believe in the "Hungarian Roswell" incident  
-   Link: [https://www.facebook.com/dailynewshungary/posts/many-people-believe-in-the-hungarian-roswell-incident-what-do-you-think-is-it-fi/1413478573313936/](https://www.facebook.com/dailynewshungary/posts/many-people-believe-in-the-hungarian-roswell-incident-what-do-you-think-is-it-fi/1413478573313936/)  
+   Link: <a href="https://www.facebook.com/dailynewshungary/posts/many-people-believe-in-the-hungarian-roswell-incident-what-do-you-think-is-it-fi/1413478573313936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailynewshungary/posts/many-people-believe-in-the-hungarian-roswell-incident-what-do-you-think-is-it-fi/1413478573313936/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#UFO #UAP #Ufodisclosure #aliens #UFOsightings #Paranormal #Supernatural #alien #Extraterrestrial #Ufology #Disclosure #Extraterreatrials...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: Ancient Whispers's post  
-   Link: [https://www.facebook.com/ancientwhispers/posts/in-september-2024-an-eyewitness-captured-footage-of-a-ufo-like-light-in-the-even/864822583203831/](https://www.facebook.com/ancientwhispers/posts/in-september-2024-an-eyewitness-captured-footage-of-a-ufo-like-light-in-the-even/864822583203831/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookA new video recently emerged online capturing what many observers are calling one of the clearest UFO sightings of the year...</p></details>
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/in-september-2024-an-eyewitness-captured-footage-of-a-ufo-like-light-in-the-even/864822583203831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-september-2024-an-eyewitness-captured-footage-of-a-ufo-like-light-in-the-even/864822583203831/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new video recently emerged online capturing what many observers are calling one of the clearest UFO sightings of the year...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/136sjc3/a_photo_comparison_of_the_hungary_ufo_and_the/](https://www.reddit.com/r/UFOs/comments/136sjc3/a_photo_comparison_of_the_hungary_ufo_and_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/136sjc3/a_photo_comparison_of_the_hungary_ufo_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/136sjc3/a_photo_comparison_of_the_hungary_ufo_and_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was this UFO reported by local Boston news last year ever debunked... What are, in your opinion, the most credible UFO stories?Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: [https://en.wikipedia.org/wiki/Crop_circle](https://en.wikipedia.org/wiki/Crop_circle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop circleDuring the 1960s, there were many reports of UFO sightings and circular formations in swamp reeds and sugarcane fields in T...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: toretro.hu  
    Title: Tó-retróNulladik típusú találkozások – Déri János para világa  
-   Link: [https://toretro.hu/site/nulladik-tipusu-talalkozasok-deri-janos-para-vilaga/](https://toretro.hu/site/nulladik-tipusu-talalkozasok-deri-janos-para-vilaga/)  
+   Link: <a href="https://toretro.hu/site/nulladik-tipusu-talalkozasok-deri-janos-para-vilaga/" target="_blank" rel="noopener noreferrer nofollow">https://toretro.hu/site/nulladik-tipusu-talalkozasok-deri-janos-para-vilaga/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2025 — 6 Mar 2025 — Pedig Déri János soha nem hitt az UFO-kban, hiába alakultak országszerte az UFO-klubok és adtak ki a kiadók...</p></details>
    Published: March 6, 2025  
 
@@ -952,45 +906,45 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
 22. <a id="endnote-22"></a>
    Source: sciencenews.org  
    Title: scientists serious ufo uap security  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists are getting serious about UFOs. Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Pr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
    Title: Floating orb in stormy skies?  
-   Link: [https://www.instagram.com/p/DYBYtB7Ep-o/](https://www.instagram.com/p/DYBYtB7Ep-o/)  
+   Link: <a href="https://www.instagram.com/p/DYBYtB7Ep-o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYBYtB7Ep-o/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Or a curious visitor at the...Are UFOs really watching us from above? In this eye-opening video, we dive deep into the most credible and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: insights.globalspec.com  
    Title: what to make of uaps and ufos  
-   Link: [https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos](https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos)  
+   Link: <a href="https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to make of UAPs and UFOs6 Aug 2023 — Be it a UAP, UFO or other acronym, the noun refers to the same thing - unexplainable craft, atmosphe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: TÉNYEK vagy TÉVHITEK? Mit tudnak az emberek az ufókról? | UFO-akták  
-   Link: [https://www.youtube.com/watch?v=zHeHvz8za0A](https://www.youtube.com/watch?v=zHeHvz8za0A)  
+   Link: <a href="https://www.youtube.com/watch?v=zHeHvz8za0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHeHvz8za0A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO VESZPRÉMBEN 2013 JANUÁR 3. - HUNGARY...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: UFO-akták: Megnyílik az ismeretlen [TELJES FILM]  
-   Link: [https://www.youtube.com/watch?v=3daytYIUb_A](https://www.youtube.com/watch?v=3daytYIUb_A)  
+   Link: <a href="https://www.youtube.com/watch?v=3daytYIUb_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3daytYIUb_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TÉNYEK vagy TÉVHITEK? Mit tudnak az emberek az ufókról? | UFO-akták...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Retró tv műsorok  
-   Link: [https://www.youtube.com/watch?v=HnPOkU8yG1k](https://www.youtube.com/watch?v=HnPOkU8yG1k)  
+   Link: <a href="https://www.youtube.com/watch?v=HnPOkU8yG1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnPOkU8yG1k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-akták: Megnyílik az ismeretlen [TELJES FILM]...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Nulladik Típusú Találkozások ¤ főcím  
-   Link: [https://www.youtube.com/watch?v=z8PAY-hn8h8](https://www.youtube.com/watch?v=z8PAY-hn8h8)  
+   Link: <a href="https://www.youtube.com/watch?v=z8PAY-hn8h8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8PAY-hn8h8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retró tv műsorok - Nulladik típusú találkozások...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qC5Fm-sU1JY](https://www.youtube.com/watch?v=qC5Fm-sU1JY)  
+   Link: <a href="https://www.youtube.com/watch?v=qC5Fm-sU1JY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qC5Fm-sU1JY</a>  

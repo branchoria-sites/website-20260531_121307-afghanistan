@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-patterns-00386e/
   short_title: Regional Patterns
   heading_title: How Geography Shapes UFO Sightings in Guyana
-date: '2026-06-09 01:28:43 '
+date: '2026-06-10 01:53:41 '
 header:
   og_image: /assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-1-social.jpg
   preview_image: /assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-1-s
 
 ## Introduction
 
-[Guyana]({{ 'what-we-know-about-ufo-sightings-in/' | relative_url }}) does not maintain a known public UFO or UAP archive comparable to the declassified military collections released in some larger countries. Instead, the documentary trail for unidentified aerial sightings in Guyana is fragmented across ordinary aviation reporting systems, newspaper archives, witness-submission databases, and general government record repositories. That absence is itself the most important finding.
+Guyana does not maintain a known public UFO or UAP archive comparable to the declassified military collections released in some larger countries. Instead, the documentary trail for unidentified aerial sightings in Guyana is fragmented across ordinary aviation reporting systems, newspaper archives, witness-submission databases, and general government record repositories. That absence is itself the most important finding.
 
 
 <img src="{{ "/assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -407,7 +407,7 @@ The absence may reflect several realities simultaneously:
 <img src="{{ "/assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_official_ufo_records_56a07f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why this matters for credibility assessment
 
-For UFO research, official records serve an important filtering function. They can: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Research Our Records | National ArchivesResearch your ancestry, learn about our records and how to use them to research and discover your...</span></span></span>
+For UFO research, official records serve an important filtering function. They can: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Research Our Records &#124; National ArchivesResearch your ancestry, learn about our records and how to use them to research and discover your...</span></span></span>
 
 * confirm dates and locations,
 * identify radar or flight data,
@@ -427,7 +427,7 @@ That does not prove the sightings false. It does mean, however, that evidential 
 
 ## Independent databases and the public record gap
 
-Because official archives are thin, the most commonly cited catalogue of Guyana-related UFO claims is maintained outside the country by the National UFO Reporting Center (NUFORC). The organisation lists a small number of Guyana-associated reports from 1971 onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... Guyana...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Because official archives are thin, the most commonly cited catalogue of Guyana-related UFO claims is maintained outside the country by the National UFO Reporting Center (NUFORC). The organisation lists a small number of Guyana-associated reports from 1971 onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... Guyana...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 These records are useful as a chronology of claims, but they are not government investigations. Most include:
 
@@ -458,86 +458,44 @@ The National Archives of Guyana preserves broad historical state records that ma
 At present, the strongest conclusion is not that Guyana possesses hidden UFO files, but that it never developed a dedicated institutional framework for collecting and preserving them in the first place.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Guyana UFO Reports and Official Records. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Guyana UFO Reports and Official Records, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Connects reported sightings to official review processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Details early military handling of UFO reports and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Examines official UFO records, investigations and archival documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses heavily on official testimony and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -571,75 +529,71 @@ At present, the strongest conclusion is not that Guyana possesses hidden UFO fil
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-b5d75e-guyana-ufo-reports-and-official-records-guyana-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -853,192 +807,192 @@ At present, the strongest conclusion is not that Guyana possesses hidden UFO fil
 
 1. <a id="endnote-1"></a>
    Source: nationalarchives.gov.gy  
-   Link: [https://nationalarchives.gov.gy/](https://nationalarchives.gov.gy/)  
+   Link: <a href="https://nationalarchives.gov.gy/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives of Guyana -National Archives of Guyana: HomeThe current collection consists of Court of Policy Records, the Official Ga...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf](https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Civil Aviation Authority identifies critical operational safety risks, reasonable measures will be taken to mitigate them as soon as...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.state.gov  
    Title: Office of the Historian Guyana  
-   Link: [https://history.state.gov/countries/archives/guyana](https://history.state.gov/countries/archives/guyana)  
+   Link: <a href="https://history.state.gov/countries/archives/guyana" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/guyana</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With certain exceptions, diplomatic archives are available to...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: gcaa-gy.org  
-   Link: [https://www.gcaa-gy.org/pdf/AC023.pdf](https://www.gcaa-gy.org/pdf/AC023.pdf)  
+   Link: <a href="https://www.gcaa-gy.org/pdf/AC023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/pdf/AC023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GCAA ADVISORY CIRCULARNovember 15, 2016 — 15 Nov 2016 — REPORTING PROCEDURE a. Immediate reports may be made via the GCAA Occurrence and...</p></details>
    Published: November 15, 2016  
 
 5. <a id="endnote-5"></a>
    Source: dutchculture.nl  
    Title: national archives guyana  
-   Link: [https://dutchculture.nl/en/location/national-archives-guyana](https://dutchculture.nl/en/location/national-archives-guyana)  
+   Link: <a href="https://dutchculture.nl/en/location/national-archives-guyana" target="_blank" rel="noopener noreferrer nofollow">https://dutchculture.nl/en/location/national-archives-guyana</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives of GuyanaJan 1, 2018 — Under the National Archives Act, records include any manuscript, newspaper, picture,painting, do...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: internationalheritage.dutchculture.nl  
    Title: The series is listed on UNESCO's Memory of the World Register.Read more  
-   Link: [https://internationalheritage.dutchculture.nl/en/news/guyana-dutch-series-restored-digitised-and-published-online](https://internationalheritage.dutchculture.nl/en/news/guyana-dutch-series-restored-digitised-and-published-online)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DutchCultureGuyana: Dutch Series restored, digitised and published onlineDec 5, 2018 — The &#x27;Dutch Series&#x27; is the oldest archival collecti...</p></details>
+   Link: <a href="https://internationalheritage.dutchculture.nl/en/news/guyana-dutch-series-restored-digitised-and-published-online" target="_blank" rel="noopener noreferrer nofollow">https://internationalheritage.dutchculture.nl/en/news/guyana-dutch-series-restored-digitised-and-published-online</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guyana: Dutch Series restored, digitised and published onlineDec 5, 2018 — The &#x27;Dutch Series&#x27; is the oldest archival collecti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</p></details>
    Published: December 4, 2007  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... Guyana...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... Guyana...</p></details>
    Published: August 20, 2023  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.gy  
-   Link: [https://nationalarchives.gov.gy/other-collections/](https://nationalarchives.gov.gy/other-collections/)  
+   Link: <a href="https://nationalarchives.gov.gy/other-collections/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/other-collections/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Other CollectionsOFFICIAL GAZETTE. The governing authorities of British Guyana, later Guyana, published these Gazettes, which contain off...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalarchives.gov.gy  
    Title: Indian Immigration These registers provide  
-   Link: [https://nationalarchives.gov.gy/indian-immigration/](https://nationalarchives.gov.gy/indian-immigration/)  
+   Link: <a href="https://nationalarchives.gov.gy/indian-immigration/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/indian-immigration/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian ImmigrationThese registers provide summary details for certain years of immigrants to British Guiana and of births registered amon...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.gy  
-   Link: [https://nationalarchives.gov.gy/how-to-do-research/](https://nationalarchives.gov.gy/how-to-do-research/)  
+   Link: <a href="https://nationalarchives.gov.gy/how-to-do-research/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/how-to-do-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to do ResearchSearch Birth Registers for Ancestors. With birth dates in hand, consult the National Archives for birth records from th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dpi.gov.gy  
    Title: guyanas independence a legacy of fortitude  
-   Link: [https://dpi.gov.gy/guyanas-independence-a-legacy-of-fortitude/](https://dpi.gov.gy/guyanas-independence-a-legacy-of-fortitude/)  
+   Link: <a href="https://dpi.gov.gy/guyanas-independence-a-legacy-of-fortitude/" target="_blank" rel="noopener noreferrer nofollow">https://dpi.gov.gy/guyanas-independence-a-legacy-of-fortitude/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guyana&#x27;s Independence: A legacy of fortitude25 May 2024 —... date of May 26, 1966, when Guyana declared its independence. The symbolic l...</p></details>
    Published: May 26, 1966  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e197508](https://nuforc.org/subndx/?id=e197508)  
+   Link: <a href="https://nuforc.org/subndx/?id=e197508" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197508</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197508NUFORC Reports for Month 197508; Open, 08/12/1975 20:00, Anthony; Open, 08/10/1975 21:00, Guyana; Open...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/caribbean-social-and-cultural-history/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/caribbean-social-and-cultural-history/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/caribbean-social-and-cultural-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/caribbean-social-and-cultural-history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean social and cultural historyWhy use this guide? This guide is designed to help you locate records relating to Caribbean social a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: [https://discovery.nationalarchives.gov.uk/details/r/C4302](https://discovery.nationalarchives.gov.uk/details/r/C4302)  
+   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C4302" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C4302</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guiana, formerly Berbice, Demerara, and Essequibo...This series contains original correspondence relating to Berbice, Demerara, and Esse...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hcaa.gov.gr  
-   Link: [https://hcaa.gov.gr/en/faqs/categories/anafora-peristatikon-asfaleias](https://hcaa.gov.gr/en/faqs/categories/anafora-peristatikon-asfaleias)  
+   Link: <a href="https://hcaa.gov.gr/en/faqs/categories/anafora-peristatikon-asfaleias" target="_blank" rel="noopener noreferrer nofollow">https://hcaa.gov.gr/en/faqs/categories/anafora-peristatikon-asfaleias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CCAIRS2 (European Aviation Safety Reporting Portal)Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: officialgazette.gov.gy  
-   Link: [https://officialgazette.gov.gy/index.php/publications](https://officialgazette.gov.gy/index.php/publications)  
+   Link: <a href="https://officialgazette.gov.gy/index.php/publications" target="_blank" rel="noopener noreferrer nofollow">https://officialgazette.gov.gy/index.php/publications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PublicationsThe Official Gazette of Guyana · Home · Publications · Legal Affairs · eGazette · Contact Us. Publications. Extraordinary Gaz...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/084.html](https://www.archives.gov/research/guide-fed-records/groups/084.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/084.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/084.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records of the...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research](https://www.archives.gov/research)  
+   Link: <a href="https://www.archives.gov/research" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Our Records | National ArchivesResearch your ancestry, learn about our records and how to use them to research and discover your...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: caa.gov.mv  
    Title: Aviation Safety Reporting  
-   Link: [https://www.caa.gov.mv/reporting](https://www.caa.gov.mv/reporting)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAAThe purpose of this reporting system is to improve aviation safety by ensuring that relevant safety information relating to civil avia...</p></details>
+   Link: <a href="https://www.caa.gov.mv/reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.mv/reporting</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The purpose of this reporting system is to improve aviation safety by ensuring that relevant safety information relating to civil avia...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: National Archives of Guyana  
-   Link: [https://en.wikipedia.org/wiki/National_Archives_of_Guyana](https://en.wikipedia.org/wiki/National_Archives_of_Guyana)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Guyana</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives of GuyanaThe National Archives of Guyana is the legal depository for official records and local newspaper publicatio...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: suanchinyeo.github.io  
-   Link: [https://suanchinyeo.github.io/2018-07-02/ufo2](https://suanchinyeo.github.io/2018-07-02/ufo2)  
+   Link: <a href="https://suanchinyeo.github.io/2018-07-02/ufo2" target="_blank" rel="noopener noreferrer nofollow">https://suanchinyeo.github.io/2018-07-02/ufo2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO sighting reports, Part II: Exploratory Data...2 Jul 2018 — The reports in this dataset were collected up till August of 2017...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: familysearch.org  
-   Link: [https://www.familysearch.org/en/wiki/Guyana_Archives_and_Libraries](https://www.familysearch.org/en/wiki/Guyana_Archives_and_Libraries)  
+   Link: <a href="https://www.familysearch.org/en/wiki/Guyana_Archives_and_Libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Guyana_Archives_and_Libraries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guyana Archives and LibrariesNational Archives of Guyana, D&#x27;Urban Park Homestretch Avenue Georgetown, Demerara Guyana, Telephone: 592-227...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/mandatory-occurrence-reporting](https://skybrary.aero/articles/mandatory-occurrence-reporting)  
+   Link: <a href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/mandatory-occurrence-reporting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mandatory Occurrence Reporting | SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/mor](https://www.caa.co.uk/mor)  
+   Link: <a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Occurrence reporting | UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety inf...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: worldhistoryarchives.wordpress.com  
    Title: walter rodney national archives of guyana georgetown guyana  
-   Link: [https://worldhistoryarchives.wordpress.com/2016/10/18/walter-rodney-national-archives-of-guyana-georgetown-guyana/](https://worldhistoryarchives.wordpress.com/2016/10/18/walter-rodney-national-archives-of-guyana-georgetown-guyana/)  
+   Link: <a href="https://worldhistoryarchives.wordpress.com/2016/10/18/walter-rodney-national-archives-of-guyana-georgetown-guyana/" target="_blank" rel="noopener noreferrer nofollow">https://worldhistoryarchives.wordpress.com/2016/10/18/walter-rodney-national-archives-of-guyana-georgetown-guyana/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rodney National Archives of Guyana, Georgetown...Oct 18, 2016 — The National Archives of Guyana principally contain archival material fr...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/910750310/MOR-Operational-Cases](https://www.scribd.com/document/910750310/MOR-Operational-Cases)  
+   Link: <a href="https://www.scribd.com/document/910750310/MOR-Operational-Cases" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/910750310/MOR-Operational-Cases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mandatory Civil Aviation Safety Reporting | PDFThe detailed classification of the occurrences to be referred to when reporting, through...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>100,000 UFO sightings including city, shape, and a text description.Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
    Title: what happened to guyanas national digitized  
-   Link: [https://www.reddit.com/r/Guyana/comments/1po4s0o/what_happened_to_guyanas_national_digitized/](https://www.reddit.com/r/Guyana/comments/1po4s0o/what_happened_to_guyanas_national_digitized/)  
+   Link: <a href="https://www.reddit.com/r/Guyana/comments/1po4s0o/what_happened_to_guyanas_national_digitized/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Guyana/comments/1po4s0o/what_happened_to_guyanas_national_digitized/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened to Guyana&#x27;s National (Digitized) Archives?Its shameful that in 2025, when they already have a bunch of the records digitize...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/dpiguyana/posts/press-release-gcaa-reaffirms-safety-driven-regulatory-oversight-approachthe-guya/1265228202453229/](https://www.facebook.com/dpiguyana/posts/press-release-gcaa-reaffirms-safety-driven-regulatory-oversight-approachthe-guya/1265228202453229/)  
+   Link: <a href="https://www.facebook.com/dpiguyana/posts/press-release-gcaa-reaffirms-safety-driven-regulatory-oversight-approachthe-guya/1265228202453229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dpiguyana/posts/press-release-gcaa-reaffirms-safety-driven-regulatory-oversight-approachthe-guya/1265228202453229/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>yana&#x27;s civil aviation system, in accordance with the...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: caa.co.uk  
    Title: caa9396 safetysense occurrence reporting  
-   Link: [https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf](https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf)  
+   Link: <a href="https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA Safety Sense Occurrence Reporting1 Dec 2023 — This leaflet is intended as a guide for the reporting of safety occurrences in General...</p></details>

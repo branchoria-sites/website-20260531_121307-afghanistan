@@ -243,7 +243,7 @@ next_link:
   permalink: /reporting-limitations/
   short_title: Reporting Limitations
   heading_title: Why UFO Reports in Laos Are Rare and Hard to Verify
-date: '2026-06-09 01:31:23 '
+date: '2026-06-10 01:57:02 '
 header:
   og_image: /assets/images/Lao_People_s_Democra_44f2bd_geography_sightings_3ab7cf-Illustration-1-social.jpg
   preview_image: /assets/images/Lao_People_s_Democra_44f2bd_geography_sightings_3ab7cf-Illustration-1.webp
@@ -280,7 +280,7 @@ These factors are especially relevant to northern provinces around Luang Prabang
 
 ## Border Regions and Air Corridors Increase Misidentification Risk
 
-Laos sits between China, Vietnam, Thailand, Cambodia, and Myanmar. Because it is landlocked and centrally positioned within mainland Southeast Asia, international aviation routes pass near or over parts of the country. Major airports at Vientiane, Luang Prabang, and Pakse connect Laos with regional destinations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.expedia.co.uk/Laos.dx96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expedia.co.uk">[expedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expedia.co.uk</span><span class="citation-popover-snippet">expediaVisit Laos: Best of Laos Travel 2026Reach Laos by flying to the international airports in Luang Prabang, Pakse and Vientiane. Expe...</span></span></span>
+Laos sits between China, Vietnam, Thailand, Cambodia, and Myanmar. Because it is landlocked and centrally positioned within mainland Southeast Asia, international aviation routes pass near or over parts of the country. Major airports at Vientiane, Luang Prabang, and Pakse connect Laos with regional destinations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.expedia.co.uk/Laos.dx96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expedia.co.uk">[expedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expedia.co.uk</span><span class="citation-popover-snippet">Visit Laos: Best of Laos Travel 2026Reach Laos by flying to the international airports in Luang Prabang, Pakse and Vientiane. Expe...</span></span></span>
 
 Cross-border air traffic creates conditions in which distant aircraft can be mistaken for anomalous objects. This becomes more likely when:
 
@@ -364,9 +364,9 @@ As a result, any recent sighting involving hovering lights, low-altitude movemen
 
 ## Seasonal Weather Produces Its Own Sky Mysteries
 
-Laos experiences a tropical monsoon climate with a pronounced rainy season generally extending from May through October. Thunderstorms, heavy cloud development, lightning activity, and rapid weather changes are common during this period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.expedia.co.uk/Laos.dx96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expedia.co.uk">[expedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expedia.co.uk</span><span class="citation-popover-snippet">expediaVisit Laos: Best of Laos Travel 2026Reach Laos by flying to the international airports in Luang Prabang, Pakse and Vientiane. Expe...</span></span></span>
+Laos experiences a tropical monsoon climate with a pronounced rainy season generally extending from May through October. Thunderstorms, heavy cloud development, lightning activity, and rapid weather changes are common during this period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.expedia.co.uk/Laos.dx96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expedia.co.uk">[expedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expedia.co.uk</span><span class="citation-popover-snippet">Visit Laos: Best of Laos Travel 2026Reach Laos by flying to the international airports in Luang Prabang, Pakse and Vientiane. Expe...</span></span></span>
 
-Several weather-related phenomena can contribute to UFO reports: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">types of weather phenomena</span><span class="citation-popover-snippet">NOAATypes of Weather Phenomena20 Sept 2023 — Weather around the world falls into three basic categories: precipitation, obscurations, and...</span></span></span>
+Several weather-related phenomena can contribute to UFO reports: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">types of weather phenomena</span><span class="citation-popover-snippet">Types of Weather Phenomena20 Sept 2023 — Weather around the world falls into three basic categories: precipitation, obscurations, and...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -379,7 +379,7 @@ Several weather-related phenomena can contribute to UFO reports: <span class="ci
 
 </div>
 
-Meteorological literature has long documented unusual atmospheric lights and visual effects that can appear unfamiliar to non-specialists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">types of weather phenomena</span><span class="citation-popover-snippet">NOAATypes of Weather Phenomena20 Sept 2023 — Weather around the world falls into three basic categories: precipitation, obscurations, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://glossary.ametsoc.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glossary.ametsoc.org">[Glossary of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glossary.ametsoc.org</span><span class="citation-popover-title">Glossary of Meteorology Wikis</span><span class="citation-popover-snippet">Glossary of Meteorologyaviation weather observation · aviation weather forecast · aviation observation... ball lightning · Bali wind · b...</span></span></span>
+Meteorological literature has long documented unusual atmospheric lights and visual effects that can appear unfamiliar to non-specialists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">types of weather phenomena</span><span class="citation-popover-snippet">Types of Weather Phenomena20 Sept 2023 — Weather around the world falls into three basic categories: precipitation, obscurations, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://glossary.ametsoc.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glossary.ametsoc.org">[Glossary of Meteorology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glossary.ametsoc.org</span><span class="citation-popover-title">Glossary of Meteorology Wikis</span><span class="citation-popover-snippet">Glossary of Meteorologyaviation weather observation · aviation weather forecast · aviation observation... ball lightning · Bali wind · b...</span></span></span>
 
 In mountainous regions of Laos, storms may remain hidden behind ridges while their light effects remain visible. Witnesses can therefore see flashes, glowing clouds, or apparently moving lights without observing the storm itself. Such conditions are particularly likely during the monsoon season and transitional weather periods.
 
@@ -408,86 +408,44 @@ That approach aligns with the pattern seen in the limited official and public re
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Geography and Human Activity Shape UFO Observations in Laos. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Geography and Human Activity Shape UFO Observations in Laos, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines credible sightings while stressing identification challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Covers observational errors, classifications and environmental influences on sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
-        <p class="fr-book-desc">Encourages readers to think about interpretation and observational assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how local conditions and cultural context shape interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -521,59 +479,71 @@ That approach aligns with the pattern seen in the limited official and public re
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids"><img src="https://i.ebayimg.com/images/g/eXkAAeSwRihpja5M/s-l225.jpg" alt="Listing image for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer">Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-geography-and-human-activity-shape-ufo-observations-in-laos-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-sightings-how-geography-and-human-activity-shape-ufo-observations-in-laos-lao-people-s-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -788,120 +758,120 @@ That approach aligns with the pattern seen in the limited official and public re
 1. <a id="endnote-1"></a>
    Source: droneandslr.com  
    Title: Drone & DSLRLaos  
-   Link: [https://droneandslr.com/travel-destination/laos/](https://droneandslr.com/travel-destination/laos/)  
+   Link: <a href="https://droneandslr.com/travel-destination/laos/" target="_blank" rel="noopener noreferrer nofollow">https://droneandslr.com/travel-destination/laos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check out travel photos from Luang Prabang and Vang Vieng and discover what to do in these amazing cities...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: globalgaz.com  
    Title: Global Gaz Luang Prabang From Above  
-   Link: [https://globalgaz.com/luang-prabang-from-above/](https://globalgaz.com/luang-prabang-from-above/)  
+   Link: <a href="https://globalgaz.com/luang-prabang-from-above/" target="_blank" rel="noopener noreferrer nofollow">https://globalgaz.com/luang-prabang-from-above/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luang Prabang From Above - A Special Experience In LaosLuang Prabang From Above. Come check out this amazing UNESCO town set on the Mekon...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vietnaminfocus.com  
-   Link: [https://www.vietnaminfocus.com/popular-destinations/laos/](https://www.vietnaminfocus.com/popular-destinations/laos/)  
+   Link: <a href="https://www.vietnaminfocus.com/popular-destinations/laos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnaminfocus.com/popular-destinations/laos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laos the jewel of Southeast Asia, #1 Photo tour destinationUnravel the secrets of Laos, Its culture, people, temples and markets...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wandering.world  
    Title: the World Where to Fly Your Drone in Laos  
-   Link: [https://wandering.world/where-to-fly-your-drone-in-laos/](https://wandering.world/where-to-fly-your-drone-in-laos/)  
+   Link: <a href="https://wandering.world/where-to-fly-your-drone-in-laos/" target="_blank" rel="noopener noreferrer nofollow">https://wandering.world/where-to-fly-your-drone-in-laos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wandering the WorldWhere to Fly Your Drone in Laos - Wandering the World25 Dec 2017 — Flying a drone in Luang Prabang is a bit tricky as...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: noaa.gov  
    Title: types of weather phenomena  
-   Link: [https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena](https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAATypes of Weather Phenomena20 Sept 2023 — Weather around the world falls into three basic categories: precipitation, obscurations, and...</p></details>
+   Link: <a href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Weather Phenomena20 Sept 2023 — Weather around the world falls into three basic categories: precipitation, obscurations, and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/glossary.php?word=A](https://forecast.weather.gov/glossary.php?word=A)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=A" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA: Cold Air Advection; CAD: Cold Air Damming. The phenomenon in which a low-level cold air mass is trapped topographically. Often...Re...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kids.nationalgeographic.com  
    Title: National Geographic Laos Country Profile  
-   Link: [https://kids.nationalgeographic.com/geography/countries/article/laos](https://kids.nationalgeographic.com/geography/countries/article/laos)  
+   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/laos" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/laos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly three-quarters of Laos is covered in mountains and forested hills that are too steep to live on.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: expedia.co.uk  
-   Link: [https://www.expedia.co.uk/Laos.dx96](https://www.expedia.co.uk/Laos.dx96)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>expediaVisit Laos: Best of Laos Travel 2026Reach Laos by flying to the international airports in Luang Prabang, Pakse and Vientiane. Expe...</p></details>
+   Link: <a href="https://www.expedia.co.uk/Laos.dx96" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.co.uk/Laos.dx96</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Laos: Best of Laos Travel 2026Reach Laos by flying to the international airports in Luang Prabang, Pakse and Vientiane. Expe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hko.gov.hk  
    Title: Hong Kong Observatory Inversion Layer  
-   Link: [https://www.hko.gov.hk/en/education/meteorological-instruments/automatic-weather-stations/00521-inversion-layer-impose-its-own-bounds.html](https://www.hko.gov.hk/en/education/meteorological-instruments/automatic-weather-stations/00521-inversion-layer-impose-its-own-bounds.html)  
+   Link: <a href="https://www.hko.gov.hk/en/education/meteorological-instruments/automatic-weather-stations/00521-inversion-layer-impose-its-own-bounds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/meteorological-instruments/automatic-weather-stations/00521-inversion-layer-impose-its-own-bounds.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hong Kong ObservatoryInversion Layer - Impose its own boundsWhen there is an inversion layer, cooler air below is denser, heavier and wil...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: southeastasiabackpacker.com  
    Title: South East Asia Backpacker Drone Laws In Laos – What You Need To Know  
-   Link: [https://southeastasiabackpacker.com/destinations/laos-2/drones/](https://southeastasiabackpacker.com/destinations/laos-2/drones/)  
+   Link: <a href="https://southeastasiabackpacker.com/destinations/laos-2/drones/" target="_blank" rel="noopener noreferrer nofollow">https://southeastasiabackpacker.com/destinations/laos-2/drones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If your drone weighs more than 200g, you&#x27;ll need to register it before flying. Recreational drones weighing less than 200g do...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: glossary.ametsoc.org  
    Title: Glossary of Meteorology Wikis  
-   Link: [https://glossary.ametsoc.org/wiki/](https://glossary.ametsoc.org/wiki/)  
+   Link: <a href="https://glossary.ametsoc.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://glossary.ametsoc.org/wiki/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of Meteorologyaviation weather observation · aviation weather forecast · aviation observation... ball lightning · Bali wind · b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MLZQ2DWqniI](https://www.youtube.com/watch?v=MLZQ2DWqniI)  
+   Link: <a href="https://www.youtube.com/watch?v=MLZQ2DWqniI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLZQ2DWqniI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LAOS - Traveling Video[https://kit.com/adambr](https://kit.com/adambr)... Here&#x27;s a video from our 12 day trip backpacking around Laos. We visited Vang Vieng, Luang...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/divisions/xo/home/Pilot_Training_Documentation/meteorology](https://wiki.ivao.aero/en/home/divisions/xo/home/Pilot_Training_Documentation/meteorology)  
+   Link: <a href="https://wiki.ivao.aero/en/home/divisions/xo/home/Pilot_Training_Documentation/meteorology" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/divisions/xo/home/Pilot_Training_Documentation/meteorology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Weather TheoryIn aviation, most operations occur in the troposphere, where dynamic systems create varying weather phenomena. ¶ Temper...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
    Title: Temperature and moisture measurements on planetary and synoptic scales,  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/07055900.2022.2082369](https://www.tandfonline.com/doi/full/10.1080/07055900.2022.2082369)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/07055900.2022.2082369" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/07055900.2022.2082369</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Observations of Weather and Climateby HB Bluestein · 2022 · Cited by 43 — The basic principles of satellite, radar, lidar, an...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: propelrc.com  
-   Link: [https://www.propelrc.com/drone-laws-in-laos/](https://www.propelrc.com/drone-laws-in-laos/)  
+   Link: <a href="https://www.propelrc.com/drone-laws-in-laos/" target="_blank" rel="noopener noreferrer nofollow">https://www.propelrc.com/drone-laws-in-laos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws In Laos You Must Know in 202615 Feb 2026 — Yes, flying a drone in Laos is legal if you follow the regulations...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/flyingthenest/posts/everything-you-need-to-do-in-laos-completely-fallen-in-love-with-this-underrated/1438914717582071/](https://www.facebook.com/flyingthenest/posts/everything-you-need-to-do-in-laos-completely-fallen-in-love-with-this-underrated/1438914717582071/)  
+   Link: <a href="https://www.facebook.com/flyingthenest/posts/everything-you-need-to-do-in-laos-completely-fallen-in-love-with-this-underrated/1438914717582071/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flyingthenest/posts/everything-you-need-to-do-in-laos-completely-fallen-in-love-with-this-underrated/1438914717582071/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gh in the rocks, mandatory cruise on the Mekong river and...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DiscoverLaosToday/videos/paramotor-experience-in-luang-prabang/1980285149124110/](https://www.facebook.com/DiscoverLaosToday/videos/paramotor-experience-in-luang-prabang/1980285149124110/)  
+   Link: <a href="https://www.facebook.com/DiscoverLaosToday/videos/paramotor-experience-in-luang-prabang/1980285149124110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoverLaosToday/videos/paramotor-experience-in-luang-prabang/1980285149124110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ettable moments with a paramotor experience. Reserve your spot here...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Travelinsp0/posts/12-amazing-facts-about-laos-1%EF%B8%8F%E2%83%A3-the-only-landlocked-country-in-southeast-asia-la/1056480789859148/](https://www.facebook.com/Travelinsp0/posts/12-amazing-facts-about-laos-1%EF%B8%8F%E2%83%A3-the-only-landlocked-country-in-southeast-asia-la/1056480789859148/)  
+   Link: <a href="https://www.facebook.com/Travelinsp0/posts/12-amazing-facts-about-laos-1%EF%B8%8F%E2%83%A3-the-only-landlocked-country-in-southeast-asia-la/1056480789859148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Travelinsp0/posts/12-amazing-facts-about-laos-1%EF%B8%8F%E2%83%A3-the-only-landlocked-country-in-southeast-asia-la/1056480789859148/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er, one of Asia&#x27;s longest rivers, flows through the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/laos/comments/1f9hjox/drone_permission_for_flying_in_luang_prabang_and/](https://www.reddit.com/r/laos/comments/1f9hjox/drone_permission_for_flying_in_luang_prabang_and/)  
+   Link: <a href="https://www.reddit.com/r/laos/comments/1f9hjox/drone_permission_for_flying_in_luang_prabang_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/laos/comments/1f9hjox/drone_permission_for_flying_in_luang_prabang_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I am having a hard time understanding this.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/tourismprofessionalsinlaos/posts/4449205252030940/](https://www.facebook.com/groups/tourismprofessionalsinlaos/posts/4449205252030940/)  
+   Link: <a href="https://www.facebook.com/groups/tourismprofessionalsinlaos/posts/4449205252030940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tourismprofessionalsinlaos/posts/4449205252030940/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rone at major sightseeing spots in Vientiane, Vang...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kKMpJqOoHdM](https://www.youtube.com/watch?v=kKMpJqOoHdM)  
+   Link: <a href="https://www.youtube.com/watch?v=kKMpJqOoHdM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kKMpJqOoHdM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, lies in a valley at the confluence of the Mekong and Nam Khan...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: odyssey-world.co.uk  
-   Link: [https://www.odyssey-world.co.uk/destinations/asia/laos/](https://www.odyssey-world.co.uk/destinations/asia/laos/)  
+   Link: <a href="https://www.odyssey-world.co.uk/destinations/asia/laos/" target="_blank" rel="noopener noreferrer nofollow">https://www.odyssey-world.co.uk/destinations/asia/laos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Odyssey WorldLuxury holiday to Laos, Asia, Luang Prabang, Mekong...This beautiful, landlocked country is famed for its mountainous lands...</p></details>

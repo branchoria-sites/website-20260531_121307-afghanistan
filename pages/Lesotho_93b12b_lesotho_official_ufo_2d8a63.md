@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-folklore/
   short_title: Regional Folklore
   heading_title: How Regional UFO Folklore Shaped Lesotho Claims
-date: '2026-06-09 01:31:50 '
+date: '2026-06-10 01:57:27 '
 header:
   og_image: /assets/images/Lesotho_93b12b_lesotho_official_ufo_2d8a63-Illustration-1-social.jpg
   preview_image: /assets/images/Lesotho_93b12b_lesotho_official_ufo_2d8a63-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Lesotho_93b12b_lesotho_official_ufo_2d8a63-Illustration-1-
 
 ## Introduction
 
-[Lesotho]({{ 'what-is-really-known-about-lesotho-ufos/' | relative_url }}) occupies an unusual place in UFO and UAP research because the central mystery is not a cache of hidden files or a famous government investigation. It is the opposite: there is no known public UFO reporting system, no recognised national archive dedicated to unidentified aerial sightings, and no publicly documented government programme that collected such reports. That absence shapes almost every discussion of UFO claims in the country.
+Lesotho occupies an unusual place in UFO and UAP research because the central mystery is not a cache of hidden files or a famous government investigation. It is the opposite: there is no known public UFO reporting system, no recognised national archive dedicated to unidentified aerial sightings, and no publicly documented government programme that collected such reports. That absence shapes almost every discussion of UFO claims in the country.
 
 
 <img src="{{ "/assets/images/Lesotho_93b12b_lesotho_official_ufo_2d8a63-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Lesotho_93b12b_lesotho_official_ufo_2d8a63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lesotho_93b12b_lesotho_official_ufo_2d8a63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers, the problem is not that Lesotho's records are heavily classified. It is that there is little evidence that a formal record system ever existed in the first place. As a result, alleged incidents are difficult to verify, official responses are hard to trace, and later stories often circulate without documentary foundations. The few references that do exist usually appear in regional [southern African]({{ 'regional-folklore/' | relative_url }}) UFO literature, private research newsletters, or online databases rather than in identifiable Basotho government archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+For researchers, the problem is not that Lesotho's records are heavily classified. It is that there is little evidence that a formal record system ever existed in the first place. As a result, alleged incidents are difficult to verify, official responses are hard to trace, and later stories often circulate without documentary foundations. The few references that do exist usually appear in regional southern African UFO literature, private research newsletters, or online databases rather than in identifiable Basotho government archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 ## Where Are Lesotho's Official UFO Records?
 
@@ -387,7 +387,7 @@ If a major recovery operation had occurred, investigators would normally expect 
 
 * Police reports.
 * Border-control records.
-* Military logistics records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mykss.com">[mykss.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mykss.com</span><span class="citation-popover-snippet">MYKSS — Global UFO &amp; UAP Reference Archive | MYKSSMYKSS — Metas Yonder Krypt Star Syndicate — tracks and curates the public UFO/UAP recor...</span></span></span>
+* Military logistics records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mykss.com">[mykss.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mykss.com</span><span class="citation-popover-snippet">Global UFO &amp; UAP Reference Archive &#124; MYKSSMYKSS — Metas Yonder Krypt Star Syndicate — tracks and curates the public UFO/UAP recor...</span></span></span>
 * Aviation notices.
 * Medical records.
 * Government correspondence.
@@ -487,86 +487,44 @@ A handful of alleged sightings and crash narratives circulate in regional UFO li
 For anyone attempting to understand UFO reports in Lesotho, the central question is therefore not what secret files reveal. It is whether a meaningful body of official records was ever created, preserved, and archived at all. Until evidence of such records appears, the country's UFO history remains a story of fragmented reports, uncertain documentation, and large archival gaps rather than a documented state investigation programme.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Are Lesotho&#x27;s Official UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Are Lesotho&#x27;s Official UFO Records?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses investigation procedures and evidence collection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines contemporary government and military reporting controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on documented records and institutional sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
-        
-        <p class="fr-book-desc">Provides a comparison point for what formal UFO archives look like.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -600,75 +558,71 @@ For anyone attempting to understand UFO reports in Lesotho, the central question
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffbb82-where-are-lesotho-s-official-ufo-records-lesotho-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -883,110 +837,110 @@ For anyone attempting to understand UFO reports in Lesotho, the central question
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
 2. <a id="endnote-2"></a>
    Source: ufoafrinews.com  
    Title: UF O Afrinews To me, UFOs are still the greatest mystery of our time. LESOTHO  
-   Link: [https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf](https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf)  
+   Link: <a href="https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO AfrinewsTo me, UFOs are still the greatest mystery of our time. LESOTHO - ANOTHER UFO HOAX? I have my American correspondent Albert B...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: catalog.archives.gov  
-   Link: [https://catalog.archives.gov/id/493468575](https://catalog.archives.gov/id/493468575)  
+   Link: <a href="https://catalog.archives.gov/id/493468575" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/493468575</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.gov[https://catalog.archives.gov/id/493468575No](https://catalog.archives.gov/id/493468575No) information is available for this page...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaThis is a list of alleged sightings of unidentified flying objects (UFO) in Africa. Contents. 1 Algeria; 2 Bots...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: 2009-2017.state.gov  
-   Link: [https://2009-2017.state.gov/documents/organization/142979.pdf](https://2009-2017.state.gov/documents/organization/142979.pdf)  
+   Link: <a href="https://2009-2017.state.gov/documents/organization/142979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/142979.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>state.gov2010 Trafficking in Persons ReportThis last year saw more victims identified, more services provided, and more traffickers convi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: usufocenter.com  
    Title: lesotho ufo sightings  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/lesotho-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/lesotho-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/lesotho-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/lesotho-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Info CenterLesotho UFO Sightings and Experience ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to dissemin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: warufo.com  
-   Link: [https://warufo.com/archive](https://warufo.com/archive)  
+   Link: <a href="https://warufo.com/archive" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/archive</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All 158 Documents — WARUFO1 Flying Discs 1949, This file primarily contains incident reports on Unidentified Flying Objects (UFOs) writte...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ore.exeter.ac.uk  
-   Link: [https://ore.exeter.ac.uk/ndownloader/files/56696156](https://ore.exeter.ac.uk/ndownloader/files/56696156)  
+   Link: <a href="https://ore.exeter.ac.uk/ndownloader/files/56696156" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/ndownloader/files/56696156</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exeter.ac.ukOrientalism, Total War and the Production of Settler...by AI Mansour · 2011 — Picking up on current research about settler c...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/](https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...Victor claimed the being was recovered from a craft after it was shot do...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/](https://mykss.com/en/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYKSS — Global UFO &amp; UAP Reference Archive | MYKSSMYKSS — Metas Yonder Krypt Star Syndicate — tracks and curates the public UFO/UAP recor...</p></details>
+   Link: <a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFO &amp; UAP Reference Archive | MYKSSMYKSS — Metas Yonder Krypt Star Syndicate — tracks and curates the public UFO/UAP recor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 14. <a id="endnote-14"></a>
    Source: handwiki.org  
    Title: Hand Wiki Unsolved:UFO sightings in South Africa"Lesotho UFO crash documents  
-   Link: [https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa](https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa)  
+   Link: <a href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:UFO sightings in South Africa&quot;Lesotho UFO crash documents - hoax suspected&quot;. CNI News. ↑ Hind, Cynthia... UFO Afrinews 14: 3–7...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thainewsroom.com  
-   Link: [https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/](https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/)  
+   Link: <a href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings stir excitement in Chiang Mai · NASA launches study of UFOs despite &#x27;reputational risk&#x27; · They&#x27;re not...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lestimes/posts/%F0%9D%90%8E%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9A-%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A5former-us-presid/1575065907537977/](https://www.facebook.com/lestimes/posts/%F0%9D%90%8E%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9A-%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A5former-us-presid/1575065907537977/)  
+   Link: <a href="https://www.facebook.com/lestimes/posts/%F0%9D%90%8E%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9A-%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A5former-us-presid/1575065907537977/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lestimes/posts/%F0%9D%90%8E%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9A-%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A5former-us-presid/1575065907537977/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government recently confirmed reports by military pilots of unidentified aerial...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: spyscape.com  
    Title: alaska object isnt the only mysterious ufo top 10 sightings  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesThe unexplained UFOs shot down over North America in February 2023 aren&#x27;t the o...</p></details>
    Published: February 2023  
 
 18. <a id="endnote-18"></a>
    Source: migflug.com  
-   Link: [https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/](https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/)  
+   Link: <a href="https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Opens the UFO Vault: 162 Files, Zero AnswersOn May 8, 2026, the Pentagon did something it has spent decades trying very hard not...</p></details>
    Published: May 8, 2026  
 
 19. <a id="endnote-19"></a>
    Source: the-european.eu  
    Title: pentagon reopens moon mystery in huge ufo files release  
-   Link: [https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html](https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html)  
+   Link: <a href="https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html" target="_blank" rel="noopener noreferrer nofollow">https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 May 2026 — New Pentagon UFO files have reopened investigation into an Apollo 17 Moon photograph and unexplained astronaut sightings in...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: documents1.worldbank.org  
    Title: Environmental Assessment and Management Framework.txt  
-   Link: [https://documents1.worldbank.org/curated/en/135291593168689920/txt/Environmental-Assessment-and-Management-Framework.txt](https://documents1.worldbank.org/curated/en/135291593168689920/txt/Environmental-Assessment-and-Management-Framework.txt)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/135291593168689920/txt/Environmental-Assessment-and-Management-Framework.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/135291593168689920/txt/Environmental-Assessment-and-Management-Framework.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>purpose of this form is to ensure farmers are provided with guidance in order to manage any potential environmental impacts associated wi...</p></details>

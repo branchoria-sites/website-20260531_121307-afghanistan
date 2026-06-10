@@ -214,9 +214,9 @@ breadcrumb_links:
   short_title: El Salvador UFOs
 sibling_links:
 - basename: El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b
-  title: 1960s Cases | What Really Flies Over El Salvador?
-  permalink: /1960s-cases/
-  short_title: 1960s Cases
+  title: 1960 s Cases | What Really Flies Over El Salvador?
+  permalink: /1960-s-cases/
+  short_title: 1960 s Cases
   heading_title: San Salvador's Oldest UFO Trail
 - basename: El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1
   title: Evidence Test | What Really Flies Over El Salvador?
@@ -245,7 +245,7 @@ next_link:
   permalink: /san-jacinto/
   short_title: San Jacinto
   heading_title: Why Cerro San Jacinto Keeps Drawing UFO Claims
-date: '2026-06-09 01:26:26 '
+date: '2026-06-10 01:51:06 '
 header:
   og_image: /assets/images/El_Salvador_9b83b7_volcano_cloud_lookal_3384b5-Illustration-1-social.jpg
   preview_image: /assets/images/El_Salvador_9b83b7_volcano_cloud_lookal_3384b5-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/El_Salvador_9b83b7_volcano_cloud_lookal_3384b5-Illustratio
 
 ## Introduction
 
-[El Salvador]({{ 'what-really-flies-over-el-salvador/' | relative_url }})’s volcanoes and steep upland terrain create some of the most dramatic skies in Central America. They also create ideal conditions for UFO misidentifications. Smooth lens-shaped clouds above volcanoes, stacked cloud layers over ridges, ash plumes illuminated by sunset light, and strange atmospheric reflections around eruptions can all resemble classic “flying saucer” imagery from the ground. In a country where volcanoes dominate the landscape and many sightings occur near mountains, these natural effects matter as much as witness testimony when assessing UFO reports.
+El Salvador’s volcanoes and steep upland terrain create some of the most dramatic skies in Central America. They also create ideal conditions for UFO misidentifications. Smooth lens-shaped clouds above volcanoes, stacked cloud layers over ridges, ash plumes illuminated by sunset light, and strange atmospheric reflections around eruptions can all resemble classic “flying saucer” imagery from the ground. In a country where volcanoes dominate the landscape and many sightings occur near mountains, these natural effects matter as much as witness testimony when assessing UFO reports.
 
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_volcano_cloud_lookal_3384b5-Illustration-1-dark.svg" | relative_url }}" alt="Lookalikes illustration 1" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_volcano_cloud_lookal_3384b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_volcano_cloud_lookal_3384b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,9 +262,9 @@ This does not mean every unusual aerial report in El Salvador has a simple expla
 
 ## When volcanoes generate “flying saucer” clouds
 
-The most important natural UFO lookalike in El Salvador is the lenticular cloud. These clouds form when stable, moist air flows across mountains or volcanic slopes and creates standing atmospheric waves. Moisture condenses at the crest of those waves into smooth, stationary, lens-shaped formations. Because they often hover motionless over peaks and can appear metallic or layered in certain light, they have long been mistaken for structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mountain-waves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryMountain Waves | SKYbrary Aviation SafetyCloud Formation. Lenticular Clouds (lens shaped clouds) can form in the crest of the mou...</span></span></span> [3Weather.gov 3Wikipedia]
+The most important natural UFO lookalike in El Salvador is the lenticular cloud. These clouds form when stable, moist air flows across mountains or volcanic slopes and creates standing atmospheric waves. Moisture condenses at the crest of those waves into smooth, stationary, lens-shaped formations. Because they often hover motionless over peaks and can appear metallic or layered in certain light, they have long been mistaken for structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mountain-waves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mountain Waves &#124; SKYbrary Aviation SafetyCloud Formation. Lenticular Clouds (lens shaped clouds) can form in the crest of the mou...</span></span></span> [3Weather.gov 3Wikipedia]
 
-El Salvador’s volcanic geography is well suited to this effect. Mountains such as Chaparrastique near San Miguel, the Santa Ana volcanic complex, and the elevated terrain around San Salvador interrupt prevailing air flow and can produce mountain-wave cloud systems during humid conditions. Weather agencies and atmospheric science references consistently describe mountain terrain as a major trigger for lenticular cloud formation. Weather.gov 3NOAA NESDIS <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
+El Salvador’s volcanic geography is well suited to this effect. Mountains such as Chaparrastique near San Miguel, the Santa Ana volcanic complex, and the elevated terrain around San Salvador interrupt prevailing air flow and can produce mountain-wave cloud systems during humid conditions. Weather agencies and atmospheric science references consistently describe mountain terrain as a major trigger for lenticular cloud formation. Weather.gov 3NOAA NESDIS <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains &#124; Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
 
 Several characteristics make these clouds especially persuasive as UFO lookalikes:
 
@@ -283,7 +283,7 @@ In a country where many observers see volcanoes from long distances rather than 
 
 ## Lenticular clouds over volcanic terrain
 
-Although El Salvador does not have a large archive of formally investigated cloud-related UFO cases, the pattern fits a broader global association between mountain-wave clouds and UFO reports. Meteorological organisations repeatedly note that lenticular clouds are among the most common natural explanations for “flying saucer” sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">AccuWeatherLenticular clouds, sometimes mistaken for UFOs, are in a...September 25, 2024 — 25 Sept 2024 — Potentially responsible for so...</span><span class="citation-popover-meta">Published: September 25, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[NOAA NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA NESDISWave Clouds | NESDISThese form when stable air moves over a raised land feature, such as hills or mountains, and is forced upw...</span></span></span>
+Although El Salvador does not have a large archive of formally investigated cloud-related UFO cases, the pattern fits a broader global association between mountain-wave clouds and UFO reports. Meteorological organisations repeatedly note that lenticular clouds are among the most common natural explanations for “flying saucer” sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">Lenticular clouds, sometimes mistaken for UFOs, are in a...September 25, 2024 — 25 Sept 2024 — Potentially responsible for so...</span><span class="citation-popover-meta">Published: September 25, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[NOAA NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA NESDISWave Clouds &#124; NESDISThese form when stable air moves over a raised land feature, such as hills or mountains, and is forced upw...</span></span></span>
 
 In the Salvadoran setting, several conditions amplify this tendency:
 
@@ -370,7 +370,7 @@ To witnesses, flashes inside a dark ash cloud may resemble:
 
 </div>
 
-Online UFO culture frequently interprets volcanic lightning as evidence of anomalous aerial activity around volcanoes. Skeptical analysis instead treats it as a known atmospheric process linked to charged ash particles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/claims-linking-ufo-sightings-with-volcanic-regions-exist-largely-within-anecdota/869194292766660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookClaims linking UFO sightings with volcanic regions exist...Skeptics argue that the objects might be drones, birds illuminated by...</span></span></span>
+Online UFO culture frequently interprets volcanic lightning as evidence of anomalous aerial activity around volcanoes. Skeptical analysis instead treats it as a known atmospheric process linked to charged ash particles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/claims-linking-ufo-sightings-with-volcanic-regions-exist-largely-within-anecdota/869194292766660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Claims linking UFO sightings with volcanic regions exist...Skeptics argue that the objects might be drones, birds illuminated by...</span></span></span>
 
 ### Ash plumes can appear solid
 
@@ -413,7 +413,7 @@ Volcanic skies are particularly vulnerable to this because:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * haze reduces image clarity,
-* clouds shift shape continuously, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[nesdis.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-title">NESDISTypes of Clouds | NESDIS</span><span class="citation-popover-snippet">NOAA NESDISTypes of Clouds | NESDIS - NOAA31 Aug 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may...</span></span></span>
+* clouds shift shape continuously, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[nesdis.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-title">NESDISTypes of Clouds &#124; NESDIS</span><span class="citation-popover-snippet">NOAA NESDISTypes of Clouds &#124; NESDIS - NOAA31 Aug 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may...</span></span></span>
 * and sunset colours exaggerate contrast.
 
 </div>
@@ -433,93 +433,51 @@ In practice, many Salvadoran cases occur under conditions where:
 
 That does not prove every sighting is solved. It does mean that volcanic terrain and atmospheric optics provide a powerful baseline explanation that must be ruled out before extraordinary conclusions become persuasive.
 
-The strongest skeptical interpretations in El Salvador therefore focus less on ridicule and more on environmental context: a country filled with steep volcanoes, rapidly changing tropical skies and visually dramatic atmospheric conditions is naturally going to produce sightings that resemble classic UFO imagery. Lenticular clouds, ash plumes and volcanic light effects are not fringe explanations in that environment. They are among the most plausible mechanisms behind many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">AccuWeatherLenticular clouds, sometimes mistaken for UFOs, are in a...September 25, 2024 — 25 Sept 2024 — Potentially responsible for so...</span><span class="citation-popover-meta">Published: September 25, 2024</span></span></span> [3Weather.gov 3Wikipedia]
+The strongest skeptical interpretations in El Salvador therefore focus less on ridicule and more on environmental context: a country filled with steep volcanoes, rapidly changing tropical skies and visually dramatic atmospheric conditions is naturally going to produce sightings that resemble classic UFO imagery. Lenticular clouds, ash plumes and volcanic light effects are not fringe explanations in that environment. They are among the most plausible mechanisms behind many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">Lenticular clouds, sometimes mistaken for UFOs, are in a...September 25, 2024 — 25 Sept 2024 — Potentially responsible for so...</span><span class="citation-popover-meta">Published: September 25, 2024</span></span></span> [3Weather.gov 3Wikipedia]
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgO7Kyq3q-U" title="Lenticular Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer">Lenticular Clouds</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 11.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgO7Kyq3q-U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Volcano Skies Look Like Flying Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Volcano Skies Look Like Flying Saucers, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
-        <p class="fr-book-desc">Explains unusual cloud formations including UFO-like shapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
-        
-        <p class="fr-book-desc">Helps readers understand atmospheric effects behind sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for distinguishing genuine unknowns from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Addresses why people interpret natural phenomena as extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -553,75 +511,71 @@ The strongest skeptical interpretations in El Salvador therefore focus less on r
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookalikes-when-volcano-skies-look-like-flying-saucers-el-salvador-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -835,216 +789,216 @@ The strongest skeptical interpretations in El Salvador therefore focus less on r
 
 1. <a id="endnote-1"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/abq/features_acsl](https://www.weather.gov/abq/features_acsl)  
+   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Altocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds develop within the crest...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: [https://en.wikipedia.org/wiki/Lenticular_cloud](https://en.wikipedia.org/wiki/Lenticular_cloud)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
 
 3. <a id="endnote-3"></a>
    Source: nesdis.noaa.gov  
-   Link: [https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds](https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds)  
+   Link: <a href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA NESDISWave Clouds | NESDISThese form when stable air moves over a raised land feature, such as hills or mountains, and is forced upw...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/mountain-waves](https://skybrary.aero/articles/mountain-waves)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryMountain Waves | SKYbrary Aviation SafetyCloud Formation. Lenticular Clouds (lens shaped clouds) can form in the crest of the mou...</p></details>
+   Link: <a href="https://skybrary.aero/articles/mountain-waves" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/mountain-waves</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain Waves | SKYbrary Aviation SafetyCloud Formation. Lenticular Clouds (lens shaped clouds) can form in the crest of the mou...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hfo/lenticular](https://www.weather.gov/hfo/lenticular)  
+   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Nov 25, 2003 — Here is a simple little &quot;cartoon&quot; schematic of how a lenticular cloud forms. Note the wavelike...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: accuweather.com  
-   Link: [https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242](https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeatherLenticular clouds, sometimes mistaken for UFOs, are in a...September 25, 2024 — 25 Sept 2024 — Potentially responsible for so...</p></details>
+   Link: <a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...September 25, 2024 — 25 Sept 2024 — Potentially responsible for so...</p></details>
    Published: September 25, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nesdis.noaa.gov  
    Title: NESDISTypes of Clouds | NESDIS  
-   Link: [https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds](https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds)  
+   Link: <a href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA NESDISTypes of Clouds | NESDIS - NOAA31 Aug 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Blast from San Miguel Volcano  
-   Link: [https://science.nasa.gov/earth/earth-observatory/blast-from-san-miguel-volcano-82734/](https://science.nasa.gov/earth/earth-observatory/blast-from-san-miguel-volcano-82734/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/blast-from-san-miguel-volcano-82734/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/blast-from-san-miguel-volcano-82734/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceBlast from San Miguel VolcanoDecember 31, 2013 — An explosion at El Salvador&#x27;s San Miguel (also known as Chaparrastique) Volc...</p></details>
    Published: December 31, 2013  
 
 9. <a id="endnote-9"></a>
    Source: news.sky.com  
    Title: chaparrastique volcano spills smoke and ash 10423117  
-   Link: [https://news.sky.com/story/chaparrastique-volcano-spills-smoke-and-ash-10423117](https://news.sky.com/story/chaparrastique-volcano-spills-smoke-and-ash-10423117)  
+   Link: <a href="https://news.sky.com/story/chaparrastique-volcano-spills-smoke-and-ash-10423117" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/chaparrastique-volcano-spills-smoke-and-ash-10423117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsChaparrastique Volcano Spills Smoke And Ash | World News30 Dec 2013 — Authorities in El Salvador have evacuated an area near the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/363192544_Reconstruction_of_the_29th_December_2013_eruption_of_San_Miguel_volcano_El_Salvador_using_video_photographs_and_pyroclastic_deposits](https://www.researchgate.net/publication/363192544_Reconstruction_of_the_29th_December_2013_eruption_of_San_Miguel_volcano_El_Salvador_using_video_photographs_and_pyroclastic_deposits)  
+   Link: <a href="https://www.researchgate.net/publication/363192544_Reconstruction_of_the_29th_December_2013_eruption_of_San_Miguel_volcano_El_Salvador_using_video_photographs_and_pyroclastic_deposits" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363192544_Reconstruction_of_the_29th_December_2013_eruption_of_San_Miguel_volcano_El_Salvador_using_video_photographs_and_pyroclastic_deposits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Reconstruction of the 29th December 2013 eruption...September 1, 2022 — 30 Apr 2026 — San Miguel (or Chaparrastique) v...</p></details>
    Published: December 2013  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/claims-linking-ufo-sightings-with-volcanic-regions-exist-largely-within-anecdota/869194292766660/](https://www.facebook.com/ancientwhispers/posts/claims-linking-ufo-sightings-with-volcanic-regions-exist-largely-within-anecdota/869194292766660/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookClaims linking UFO sightings with volcanic regions exist...Skeptics argue that the objects might be drones, birds illuminated by...</p></details>
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/claims-linking-ufo-sightings-with-volcanic-regions-exist-largely-within-anecdota/869194292766660/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/claims-linking-ufo-sightings-with-volcanic-regions-exist-largely-within-anecdota/869194292766660/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims linking UFO sightings with volcanic regions exist...Skeptics argue that the objects might be drones, birds illuminated by...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Lenticular printing  
-   Link: [https://en.wikipedia.org/wiki/Lenticular_printing](https://en.wikipedia.org/wiki/Lenticular_printing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_printing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_printing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular printingLenticular printing is a technology in which lenticular lenses are used to produce printed images with an illusion...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lenticular](https://en.wikipedia.org/wiki/Lenticular)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lenticular" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LenticularLenticular is an adjective often relating to lenses. It may refer to: Lenticular lens, a technology for making moving or 3D...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DailyCaller/posts/ufo-caught-on-video-hovering-over-active-volcano-before-disappearinghttpdlvrittp/1197725138878726/](https://www.facebook.com/DailyCaller/posts/ufo-caught-on-video-hovering-over-active-volcano-before-disappearinghttpdlvrittp/1197725138878726/)  
+   Link: <a href="https://www.facebook.com/DailyCaller/posts/ufo-caught-on-video-hovering-over-active-volcano-before-disappearinghttpdlvrittp/1197725138878726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyCaller/posts/ufo-caught-on-video-hovering-over-active-volcano-before-disappearinghttpdlvrittp/1197725138878726/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Caught On Video Hovering Over Active Volcano...UFO Caught On Video Hovering Over Active Volcano Before Disappearing [http://dlvr.it/T...&quot;](http://dlvr.it/T...&quot;)...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/](https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/)  
+   Link: <a href="https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e, so it creates waves in the wind- flow, the rising air...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/](https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/)  
+   Link: <a href="https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>essentially, they are stationary clouds that form over mountains due to wind rising as it hits the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Astronature1/posts/the-volcano-grew-a-giant-mushroom-cloud-in-minutes-%EF%B8%8Fthis-is-the-kind-of-eruption/122142796460966798/](https://www.facebook.com/Astronature1/posts/the-volcano-grew-a-giant-mushroom-cloud-in-minutes-%EF%B8%8Fthis-is-the-kind-of-eruption/122142796460966798/)  
+   Link: <a href="https://www.facebook.com/Astronature1/posts/the-volcano-grew-a-giant-mushroom-cloud-in-minutes-%EF%B8%8Fthis-is-the-kind-of-eruption/122142796460966798/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Astronature1/posts/the-volcano-grew-a-giant-mushroom-cloud-in-minutes-%EF%B8%8Fthis-is-the-kind-of-eruption/122142796460966798/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/10NewsWeatherWatchers/posts/2541721519308984/](https://www.facebook.com/groups/10NewsWeatherWatchers/posts/2541721519308984/)  
+   Link: <a href="https://www.facebook.com/groups/10NewsWeatherWatchers/posts/2541721519308984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/10NewsWeatherWatchers/posts/2541721519308984/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mt San Miguel took on a nice volcanic like appearance this...Storm clouds hid the moon, but the sun put on a quite a show over Mount San...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qKqu37x85AU](https://www.youtube.com/watch?v=qKqu37x85AU)  
+   Link: <a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qKqu37x85AU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mountains, chances are you were actually seeing lenticular clouds...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xz-57-3FPPE](https://www.youtube.com/watch?v=xz-57-3FPPE)  
+   Link: <a href="https://www.youtube.com/watch?v=xz-57-3FPPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xz-57-3FPPE</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KgO7Kyq3q-U](https://www.youtube.com/watch?v=KgO7Kyq3q-U)  
+   Link: <a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: What Are Lenticular Clouds? (They Look Like UFOs!)  
-   Link: [https://www.youtube.com/watch?v=f_vyqjHRrcY](https://www.youtube.com/watch?v=f_vyqjHRrcY)  
+   Link: <a href="https://www.youtube.com/watch?v=f_vyqjHRrcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_vyqjHRrcY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lenticular Clouds Form to Look Like UFOs...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Lenticular Clouds Form to Look Like UFOs  
-   Link: [https://www.youtube.com/watch?v=0s8n03Xlqyw](https://www.youtube.com/watch?v=0s8n03Xlqyw)  
+   Link: <a href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0s8n03Xlqyw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre UFO-like cloud hovers over Turkey...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Bizarre UFO-like cloud hovers over Turkey  
-   Link: [https://www.youtube.com/watch?v=C3QiwAuTnCg](https://www.youtube.com/watch?v=C3QiwAuTnCg)  
+   Link: <a href="https://www.youtube.com/watch?v=C3QiwAuTnCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3QiwAuTnCg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Shasta&#x27;s neighboring lenticular clouds: explained...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Mount Shasta's neighboring lenticular clouds: explained  
-   Link: [https://www.youtube.com/watch?v=oyX2o2nF9UA](https://www.youtube.com/watch?v=oyX2o2nF9UA)  
+   Link: <a href="https://www.youtube.com/watch?v=oyX2o2nF9UA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oyX2o2nF9UA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it a UFO? A look at lenticular clouds and how they form...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Is it a UFO? A look at lenticular clouds and how they form  
-   Link: [https://www.youtube.com/watch?v=AtrqKlFNT58](https://www.youtube.com/watch?v=AtrqKlFNT58)  
+   Link: <a href="https://www.youtube.com/watch?v=AtrqKlFNT58" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AtrqKlFNT58</a>  
 
 27. <a id="endnote-27"></a>
    Source: scied.ucar.edu  
-   Link: [https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains](https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains)  
+   Link: <a href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mountwashington.org  
-   Link: [https://mountwashington.org/a-closer-look-at-lenticular-clouds/](https://mountwashington.org/a-closer-look-at-lenticular-clouds/)  
+   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Washington ObservatoryA Closer Look at Lenticular CloudsThese wave trains can extend for long distances downwind of the barrier, wi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: globalnews.ca  
    Title: Global News Ash from El Salvador volcano seen from space  
-   Link: [https://globalnews.ca/news/1058493/el-salvador-eruption-seen-from-space/](https://globalnews.ca/news/1058493/el-salvador-eruption-seen-from-space/)  
+   Link: <a href="https://globalnews.ca/news/1058493/el-salvador-eruption-seen-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/1058493/el-salvador-eruption-seen-from-space/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29, 2013, El Salvador&#x27;s Chaparrastique Volcano (also known as San Miguel) shot ash more than 71 km downwind and 5 km into the air. READ...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: volcano.si.edu  
-   Link: [https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201508-343100](https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201508-343100)  
+   Link: <a href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201508-343100" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201508-343100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Global VolcanismVolcanic Activity Report on San Miguel (El Salvador)Locals observed gas plumes with occasional minor amounts...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/lenticular](https://www.merriam-webster.com/dictionary/lenticular)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/lenticular</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LENTICULAR Definition &amp; Meaning1. having the shape of a double-convex lens 2. of or relating to a lens 3. provided with or utilizing lent...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/](https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The stable air is forced up and over the mountains, causing it to condense into a...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: mexiconewsdaily.com  
-   Link: [https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/](https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/)  
+   Link: <a href="https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/" target="_blank" rel="noopener noreferrer nofollow">https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico attracts people not only of this world, but from outer...5 Sept 2020 — A UFO enters the crater of El Popo, the volcano in central...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: eoas.ubc.ca  
    Title: Earth, Ocean and Atmospheric Sciences UBC ATSC 113  
-   Link: [https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/lenticular.html](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/lenticular.html)  
+   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/lenticular.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/lenticular.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ATSC 113 - Lenticular cloudsThese clouds form in the crests of mountain waves (lee waves) if the air is relatively humid. If there are se...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DX_8bnPKz3h/](https://www.instagram.com/reel/DX_8bnPKz3h/)  
+   Link: <a href="https://www.instagram.com/reel/DX_8bnPKz3h/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX_8bnPKz3h/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uego as lightning flashed through clouds of volcanic ash during an...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: blog.metservice.com  
-   Link: [https://blog.metservice.com/CloudEnvy](https://blog.metservice.com/CloudEnvy)  
+   Link: <a href="https://blog.metservice.com/CloudEnvy" target="_blank" rel="noopener noreferrer nofollow">https://blog.metservice.com/CloudEnvy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lds or flying saucers. The word lenticular comes...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
    Title: “Crater in El Salvador” Oil on canvas  
-   Link: [https://www.instagram.com/p/DRxoABukSGs/](https://www.instagram.com/p/DRxoABukSGs/)  
+   Link: <a href="https://www.instagram.com/p/DRxoABukSGs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRxoABukSGs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 x 18 in Amongst...Both sights suggested that this world was not made for us, but rather that we are powerless dots caught within a we...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: lenticularplanet.com  
    Title: Visual experience beyond compare. Happiness guaranteed.Read more  
-   Link: [https://lenticularplanet.com/](https://lenticularplanet.com/)  
+   Link: <a href="https://lenticularplanet.com/" target="_blank" rel="noopener noreferrer nofollow">https://lenticularplanet.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular Planet Home - lenticularplanet.comFeb 16, 2026 — Turn boring walls into captivating visual experiences with custom lenticular...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: turbli.com  
    Title: a turbulent world mountain waves  
-   Link: [https://turbli.com/blog/a-turbulent-world-mountain-waves/](https://turbli.com/blog/a-turbulent-world-mountain-waves/)  
+   Link: <a href="https://turbli.com/blog/a-turbulent-world-mountain-waves/" target="_blank" rel="noopener noreferrer nofollow">https://turbli.com/blog/a-turbulent-world-mountain-waves/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Turbulence: Mountain Waves1 Mar 2021 — These lenticular clouds are a result of hot and moist air which cannot hold its water...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/incredible-rare-lenticular-cloud-over-volcano-shortlisted-for-photography-award-70520](https://www.iflscience.com/incredible-rare-lenticular-cloud-over-volcano-shortlisted-for-photography-award-70520)  
+   Link: <a href="https://www.iflscience.com/incredible-rare-lenticular-cloud-over-volcano-shortlisted-for-photography-award-70520" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/incredible-rare-lenticular-cloud-over-volcano-shortlisted-for-photography-award-70520</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible Rare Lenticular Cloud Over Volcano Shortlisted...1 Sept 2023 — In fact, it&#x27;s often said that lenticular clouds are behind man...</p></details>

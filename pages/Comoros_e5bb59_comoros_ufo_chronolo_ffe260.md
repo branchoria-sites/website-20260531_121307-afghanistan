@@ -245,7 +245,7 @@ next_link:
   permalink: /natural-explanations/
   short_title: Natural Explanations
   heading_title: Could Comoros UFOs Be Meteors or Satellites?
-date: '2026-06-09 01:29:02 '
+date: '2026-06-10 01:54:20 '
 header:
   og_image: /assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-social.jpg
   preview_image: /assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-
 
 ## Introduction
 
-There is no strong, well-documented UFO case history for the Union of the [Comoros]({{ 'have-ufos-really-been-seen-over-comoros/' | relative_url }}) comparable to the heavily investigated incidents associated with the United States, France, Brazil, or southern Africa. The available record is instead defined by absence, fragmentary claims, and later internet-era aggregation sites that imply sightings without supplying verifiable evidence. That makes the chronology of alleged UFO incidents in Comoros less a story of famous encounters than a case study in weak documentation, disputed reporting standards, and the difficulty of reconstructing local oral accounts from a small island state with limited archival visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</span></span></span>
+There is no strong, well-documented UFO case history for the Union of the Comoros comparable to the heavily investigated incidents associated with the United States, France, Brazil, or southern Africa. The available record is instead defined by absence, fragmentary claims, and later internet-era aggregation sites that imply sightings without supplying verifiable evidence. That makes the chronology of alleged UFO incidents in Comoros less a story of famous encounters than a case study in weak documentation, disputed reporting standards, and the difficulty of reconstructing local oral accounts from a small island state with limited archival visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</span></span></span>
 
 
 <img src="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-dark.svg" | relative_url }}" alt="Incident Chronology illustration 1" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ The most important fact in any chronology of Comorian UFO claims is therefore me
 
 ### Pre-internet era: no verified national case archive
 
-Searchable public UFO chronologies contain almost no clearly documented Comorian entries before the internet era. Large catalogue projects such as the National UFO Reporting Center (NUFORC) and international UFO summary lists either omit Comoros entirely or provide no detailed incident record linked to the islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Cal...</span></span></span>
+Searchable public UFO chronologies contain almost no clearly documented Comorian entries before the internet era. Large catalogue projects such as the National UFO Reporting Center (NUFORC) and international UFO summary lists either omit Comoros entirely or provide no detailed incident record linked to the islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Cal...</span></span></span>
 
 This absence is notable because nearby regions of Africa and the western Indian Ocean do appear in broader UFO literature. Southern Africa, especially Zimbabwe and South Africa, generated periods of UFO publicity during the twentieth century, sometimes linked to meteor events or mass media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span> By contrast, Comoros remained largely absent from internationally circulated UFO case files.
 
@@ -315,7 +315,7 @@ The geography of Comoros makes such confusion understandable:
 
 </div>
 
-International astronomy reporting has repeatedly shown that dramatic fireballs over Africa can generate local speculation before scientific identification catches up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">41106 meteorites from botswana fireball found asteroid 2018 la</span><span class="citation-popover-snippet">SpacePieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smackin...</span></span></span>
+International astronomy reporting has repeatedly shown that dramatic fireballs over Africa can generate local speculation before scientific identification catches up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">41106 meteorites from botswana fireball found asteroid 2018 la</span><span class="citation-popover-snippet">Pieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smackin...</span></span></span>
 
 Because no detailed Comorian UFO case file includes calibrated measurements, instrument data, or recovered physical evidence, ordinary atmospheric explanations remain more strongly supported than extraordinary ones.
 
@@ -487,86 +487,44 @@ Three conclusions stand out:
 For researchers, Comoros is therefore best understood not as a hotspot of unexplained aerial phenomena, but as a thin-record environment where folklore, isolated observation, internet amplification, and missing archival context overlap.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Which UFO Reports in Comoros Are Contested or Unverified?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Which UFO Reports in Comoros Are Contested or Unverified?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses how reports are collected, assessed, and categorised.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights the importance of evidence quality and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding recurring patterns in weakly documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Strong fit for pages discussing case chronologies and disputed reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -600,75 +558,71 @@ For researchers, Comoros is therefore best understood not as a hotspot of unexpl
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Sci-Fi Alien Abduction Poster, UAP Cryptid Decor"><img src="{{ '/assets/images/marketplace-covers/fe001d0e6e6864408a6a.jpg' | relative_url }}" alt="Listing image for Vintage UFO SIGHTING Wall Art, Sci-Fi Alien Abduction Poster, UAP Cryptid Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Sci-Fi Alien Abduction Poster, UAP Cryptid Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Sighting Retro Sci-Fi Alien Poster"><img src="{{ '/assets/images/marketplace-covers/f57f47c8b7356c2cb098.jpg' | relative_url }}" alt="Listing image for Desert UFO Sighting Retro Sci-Fi Alien Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Sighting Retro Sci-Fi Alien Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster"><img src="{{ '/assets/images/marketplace-covers/6af97eef9a3921628330.jpg' | relative_url }}" alt="Listing image for Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books" data-ebay-reference="incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-chronology-which-ufo-reports-in-comoros-are-contested-or-unverified-comoros-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -883,81 +837,81 @@ For researchers, Comoros is therefore best understood not as a hotspot of unexpl
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Cal...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Cal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 29, 2025 — Marcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12 April 2019 · G, N...</p></details>
    Published: September 29, 2025  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO incidentAlthough some witnesses interpreted the fireball as a comet or meteor, it resulted in a wave of UFO mania in Zim...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: 41106 meteorites from botswana fireball found asteroid 2018 la  
-   Link: [https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html](https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smackin...</p></details>
+   Link: <a href="https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smackin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: intelligence.gov  
-   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+   Link: <a href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Maury Island incident  
-   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island incidentThe incident is widely regarded as a hoax, even by believers of flying saucers and UFOs. Artist impression of the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report (U.S. Intelligence)The report was supposed to give &quot;detailed analysis of unidentified aerial phenomena data and intelligenc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the recent...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provi...</p></details>
    Published: June 25, 2021  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: this is a map of all reported ufo sightings  
-   Link: [https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/](https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Free tool to explore 614,505 UFO sighting records from 5 major databases. 0:39. 304. 39. Finding Patterns in 152,000 UFO/UAP Sight...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: corgis-edu.github.io  
    Title: ufo sightings  
-   Link: [https://corgis-edu.github.io/corgis/csv/ufo_sightings/](https://corgis-edu.github.io/corgis/csv/ufo_sightings/)  
+   Link: <a href="https://corgis-edu.github.io/corgis/csv/ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://corgis-edu.github.io/corgis/csv/ufo_sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CSV File28 Oct 2022 — This data includes &gt;80,000 recorded UFO “sightings” around the world, including the UFO shape, lat/long and state/c...</p></details>
 
 ### Additional References
@@ -965,50 +919,50 @@ For researchers, Comoros is therefore best understood not as a hotspot of unexpl
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 — You can find the unclassified version of the annual...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: portugalresident.com  
-   Link: [https://www.portugalresident.com/sv/air-force-alert-for-ufo/](https://www.portugalresident.com/sv/air-force-alert-for-ufo/)  
+   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force alert for &#x27;UFO&#x27; – Portugal ResidentA strange object passed over the Portuguese night skies last week, causing many who saw it t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru UFO Sightings and Experience ReportsBrowse or report Nauru UFO UAP or USO sightings and other strange paranormal experiences to the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAPE. 5 min...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dkiapcss.edu  
-   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — The number of Unidentified Aerial Phenomena (UAP)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/C7ISTDruB4j/?hl=en-gb](https://www.instagram.com/p/C7ISTDruB4j/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/p/C7ISTDruB4j/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C7ISTDruB4j/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor/fireball flashes across night sky over portugal just nowA meteor entered Earth&#x27;s atmosphere above Portugal, creating a bright blue...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: phenomena.org.uk  
-   Link: [https://www.phenomena.org.uk/features/UFO%20Natural%20History/ufo.html](https://www.phenomena.org.uk/features/UFO%20Natural%20History/ufo.html)  
+   Link: <a href="https://www.phenomena.org.uk/features/UFO%20Natural%20History/ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.phenomena.org.uk/features/UFO%20Natural%20History/ufo.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A Natural HistoryAny fireball seen under a cloud, or in front of a cloud, is not a meteor. The flight speed of meteors varies, but...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wfmu.org  
-   Link: [https://wfmu.org/artistkeywords.php/JJ](https://wfmu.org/artistkeywords.php/JJ)  
+   Link: <a href="https://wfmu.org/artistkeywords.php/JJ" target="_blank" rel="noopener noreferrer nofollow">https://wfmu.org/artistkeywords.php/JJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WFMU&#x27;s The Frow Show: Artists playedAcid Mothers Temple &amp; The Melting Paradiso U.F.O.. Acid Mothers Temple &amp; The... Os Ovni Os Rebeldes...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/the-many-march-fireballs-appear-more-numerous-than-usual-coming-from-the-same-vast-place-heres-what-to-know-83011](https://www.iflscience.com/the-many-march-fireballs-appear-more-numerous-than-usual-coming-from-the-same-vast-place-heres-what-to-know-83011)  
+   Link: <a href="https://www.iflscience.com/the-many-march-fireballs-appear-more-numerous-than-usual-coming-from-the-same-vast-place-heres-what-to-know-83011" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-many-march-fireballs-appear-more-numerous-than-usual-coming-from-the-same-vast-place-heres-what-to-know-83011</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Many March Fireballs Appear More Numerous Than...27 Mar 2026 — This is a famous time for an increase in fireball activity, but some...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: openaccessgovernment.org  
-   Link: [https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/](https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/)  
+   Link: <a href="https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/" target="_blank" rel="noopener noreferrer nofollow">https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining a meteor fireball: Research challenges claims...8 Mar 2024 — Researchers have found evidence to question the 2014 meteor fireb...</p></details>

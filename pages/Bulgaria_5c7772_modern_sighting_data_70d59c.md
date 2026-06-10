@@ -245,7 +245,7 @@ next_link:
   permalink: /pilot-claims/
   short_title: Pilot Claims
   heading_title: How Strong Are Bulgaria's Pilot UFO Claims?
-date: '2026-06-09 01:22:22 '
+date: '2026-06-10 01:46:52 '
 header:
   og_image: /assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-1-social.jpg
   preview_image: /assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-1
 
 ## Introduction
 
-In the contemporary era of skywatching and anomalous aerial phenomena, **[Bulgaria]({{ 'what-really-explains-bulgarias-ufo/' | relative_url }})’s UFO (unidentified aerial phenomenon, UAP) reports survive not in any central government archives but in public databases and local media narratives**. Modern reporting platforms such as the **National UFO Reporting Center (NUFORC)** collect voluntary witness submissions from Bulgaria and beyond, while regional Bulgarian news outlets occasionally publish local sightings. Yet the **reliability of these sources is uneven**, hinging on eyewitness testimony with minimal verification. This page examines the ways modern sightings databases record Bulgarian reports and what the limits are for assessing their credibility.
+In the contemporary era of skywatching and anomalous aerial phenomena, **Bulgaria’s UFO (unidentified aerial phenomenon, UAP) reports survive not in any central government archives but in public databases and local media narratives**. Modern reporting platforms such as the **National UFO Reporting Center (NUFORC)** collect voluntary witness submissions from Bulgaria and beyond, while regional Bulgarian news outlets occasionally publish local sightings. Yet the **reliability of these sources is uneven**, hinging on eyewitness testimony with minimal verification. This page examines the ways modern sightings databases record Bulgarian reports and what the limits are for assessing their credibility.
 
 
 <img src="{{ "/assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,17 +262,17 @@ In the contemporary era of skywatching and anomalous aerial phenomena, **[Bulgar
 
 International and online sighting repositories provide the most accessible public record of recent Bulgarian UFO reports, but their structure and oversight vary significantly.
 
-**NUFORC (National UFO Reporting Center)** operates one of the largest open databases of voluntary sighting reports internationally. Reports are categorised by date, location, object shape, and narrative description, and are graded internally from Tier 1 (high‑strangeness claims) to Tier 4 (likely explainable). The database makes no assertion about the objective truth of any report and deliberately invites eyewitnesses to submit firsthand accounts, including from Bulgaria. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+**NUFORC (National UFO Reporting Center)** operates one of the largest open databases of voluntary sighting reports internationally. Reports are categorised by date, location, object shape, and narrative description, and are graded internally from Tier 1 (high‑strangeness claims) to Tier 4 (likely explainable). The database makes no assertion about the objective truth of any report and deliberately invites eyewitnesses to submit firsthand accounts, including from Bulgaria. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 Within NUFORC’s public index, multiple cases from Bulgarian locations illustrate this grassroots archival role:
 
-* A **report from Malki Varshets, Gabrovo** describes multiple luminous objects and an unusual fog encounter; the report includes details such as manoeuvring lights and apparent missing time, typical of high‑strangeness narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 189995June 9, 2025...</span><span class="citation-popover-meta">Published: June 9, 2025</span></span></span>
+* A **report from Malki Varshets, Gabrovo** describes multiple luminous objects and an unusual fog encounter; the report includes details such as manoeuvring lights and apparent missing time, typical of high‑strangeness narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 189995June 9, 2025...</span><span class="citation-popover-meta">Published: June 9, 2025</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A **2024 sighting in Бяла (Ruse)** recounts a stationary triangular object observed for an hour by a lone witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 185242December 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
-* A **2016 report from Plazovets, Burgas** describes a glowing spherical object making rapid directional changes above a meadow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 189993June 9, 2025...</span><span class="citation-popover-meta">Published: June 9, 2025</span></span></span>
-* A **2021 sighting near Varna** notes an orange and white object that a witness speculated may have been a balloon, a common misattribution in such databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 190353June 20, 2025...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
+* A **2024 sighting in Бяла (Ruse)** recounts a stationary triangular object observed for an hour by a lone witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185242December 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
+* A **2016 report from Plazovets, Burgas** describes a glowing spherical object making rapid directional changes above a meadow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 189993June 9, 2025...</span><span class="citation-popover-meta">Published: June 9, 2025</span></span></span>
+* A **2021 sighting near Varna** notes an orange and white object that a witness speculated may have been a balloon, a common misattribution in such databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 190353June 20, 2025...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
 
 </div>
 
@@ -281,7 +281,7 @@ These entries show how **voluntary reports enter international repositories**, i
 Beyond NUFORC, **global aggregators** like *UAP Monitor* and *UAP Nexus* compile sightings from multiple sources to create larger maps and scoring systems, often including NUFORC entries. These platforms apply basic credibility indicators and classification schemes, but **they still depend on unverified witness data**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmonitor.org">[UAP Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmonitor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## Local Media Reports and Regional Testimony
 
@@ -308,10 +308,10 @@ The core value of sightings databases and local reports lies in their volume and
 Because of these issues, sightings from databases should be understood as **cultural and social records of what people report**, not definitive evidence of unexplained physics or non‑human technology. They are valuable for tracking patterns of public interest and clustering of reports, but they cannot by themselves confirm extraordinary aerial phenomena.
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8VPc07G7HHE" title="Something Impossible Happened to Me — and It Changed Everything | Answers in the Anomalies Ep. 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8VPc07G7HHE" target="_blank" rel="noopener noreferrer">Something Impossible Happened to Me — and It Changed Everything | Answers in the Anomalies Ep. 01</a></p><p class="youtube-embed-meta">Channel: The answer lies in the anomalies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8VPc07G7HHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8VPc07G7HHE">Open on YouTube</a></p></div></div></div>
+
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ROMlCQonNXg" title="How An Interrogation Expert Spots A LIAR - Chase Hughes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ROMlCQonNXg" target="_blank" rel="noopener noreferrer">How An Interrogation Expert Spots A LIAR - Chase Hughes</a></p><p class="youtube-embed-meta">Channel: Morgan Nelson</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ROMlCQonNXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ROMlCQonNXg">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## Reading Bulgarian Sightings in Context
 
@@ -323,86 +323,44 @@ However, the absence of formal verification, expert follow‑up, independent sen
 <img src="{{ "/assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-3-dark.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772_modern_sighting_data_70d59c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can Bulgaria&#x27;s Recent UFO Reports Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can Bulgaria&#x27;s Recent UFO Reports Be Trusted?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Closely matches a page about sighting databases and credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains strengths and weaknesses of witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on higher-quality evidence and documented testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Examines modern UFO culture and information ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -436,75 +394,71 @@ However, the absence of formal verification, expert follow‑up, independent sen
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-114d9e-can-bulgaria-s-recent-ufo-reports-be-trusted-bulgaria-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -719,126 +673,126 @@ However, the absence of formal verification, expert follow‑up, independent sen
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=189995](https://nuforc.org/sighting/?id=189995)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 189995June 9, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189995</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189995June 9, 2025...</p></details>
    Published: June 9, 2025  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185242](https://nuforc.org/sighting/?id=185242)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 185242December 16, 2024...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=185242" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185242</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185242December 16, 2024...</p></details>
    Published: December 16, 2024  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=189993](https://nuforc.org/sighting/?id=189993)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 189993June 9, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189993</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189993June 9, 2025...</p></details>
    Published: June 9, 2025  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190353](https://nuforc.org/sighting/?id=190353)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 190353June 20, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=190353" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190353</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190353June 20, 2025...</p></details>
    Published: June 20, 2025  
 
 6. <a id="endnote-6"></a>
    Source: uap.nexus  
    Title: NEXUSUAP NEXUS | Global Sighting Aggregator  
-   Link: [https://uap.nexus/](https://uap.nexus/)  
+   Link: <a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting Aggregator...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nlo.start.bg  
    Title: НЛО Start.bg  
-   Link: [https://nlo.start.bg/](https://nlo.start.bg/)  
+   Link: <a href="https://nlo.start.bg/" target="_blank" rel="noopener noreferrer nofollow">https://nlo.start.bg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>портал за НЛО: конспирации, снимки, видео клипове, наблюдения, срещи и отвличания от извънземни. UFO и уфология...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190864](https://nuforc.org/sighting/?id=190864)  
+   Link: <a href="https://nuforc.org/sighting/?id=190864" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190864</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190864July 13, 2025 — NUFORC UFO SIGHTING 190864 Occurred: 2010-08-10 22:30 Local Reported: 2025-07-09 19:55 Pacific...</p></details>
    Published: August 10, 2010  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: No of observers: 2 Location: Bulgaria,, Bulgaria Shape: Circle Character  
-   Link: [https://nuforc.org/sighting/?id=76424](https://nuforc.org/sighting/?id=76424)  
+   Link: <a href="https://nuforc.org/sighting/?id=76424" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=76424</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 76424July 19, 2010 — NUFORC UFO SIGHTING 76424 Occurred: 2010-06-11 02:05 Local - Approximate Reported: 2010-07-11 07...</p></details>
    Published: June 11, 2010  
 
 10. <a id="endnote-10"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
 
 11. <a id="endnote-11"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/research](https://uapmonitor.org/research)  
+   Link: <a href="https://uapmonitor.org/research" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: fakti.bg  
-   Link: [https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions](https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions)  
+   Link: <a href="https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions" target="_blank" rel="noopener noreferrer nofollow">https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objects disturb Bulgarians from Sofia, Vratsa and Pleven regions ᐉ News from Fakti.bg - Bulgaria | ФАКТИ.БГDecember 3...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufosint.com  
-   Link: [https://ufosint.com/](https://ufosint.com/)  
+   Link: <a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: worksheets.codalab.org  
-   Link: [https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt](https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt)  
+   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... news long five called 1 wednesday military way used much next monday... local economic countri...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bta.bg  
    Title: 1035595 unidentified aerial phenomena disturb bulgarians at the end of 1978  
-   Link: [https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978](https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025 — UNIDENTIFIED AERIAL PHENOMENA REPORTED ACRO...</p></details>
+   Link: <a href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025 — UNIDENTIFIED AERIAL PHENOMENA REPORTED ACRO...</p></details>
    Published: December 30, 2025  
 
 16. <a id="endnote-16"></a>
    Source: snopes.com  
    Title: Was an Alien Spotted Boarding a UFO in Romania?  
-   Link: [https://www.snopes.com/fact-check/alien-spotted-boarding-ufo-in-romania/](https://www.snopes.com/fact-check/alien-spotted-boarding-ufo-in-romania/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Snopes.comJanuary 8, 2018 — Fact Check WAS AN ALIEN SPOTTED BOARDING A UFO IN ROMANIA? THIS ISN&#x27;T A REAL UFO AND A REAL ALIEN, WHEREVER...</p></details>
+   Link: <a href="https://www.snopes.com/fact-check/alien-spotted-boarding-ufo-in-romania/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/alien-spotted-boarding-ufo-in-romania/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>8, 2018 — Fact Check WAS AN ALIEN SPOTTED BOARDING A UFO IN ROMANIA? THIS ISN&#x27;T A REAL UFO AND A REAL ALIEN, WHEREVER...</p></details>
    Published: January 8, 2018  
 
 17. <a id="endnote-17"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Bulgaria UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/bulgaria-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/bulgaria-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bulgaria-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/bulgaria-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — BULGARIA UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT BULGARIA UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date: Loca...</p></details>
    Published: March 22, 2025  
 
 18. <a id="endnote-18"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>local april held party show november line century best football based december service major took like although could include another mem...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Scientific Methods for Investigating Aerial Anomalies  
-   Link: [https://www.youtube.com/watch?v=1F_7-eO4Y04](https://www.youtube.com/watch?v=1F_7-eO4Y04)  
+   Link: <a href="https://www.youtube.com/watch?v=1F_7-eO4Y04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1F_7-eO4Y04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Patterns and Bias in Sighting Archives...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Why Modern UAP Databases Struggle with Credibility  
-   Link: [https://www.youtube.com/watch?v=84vS3H4v63w](https://www.youtube.com/watch?v=84vS3H4v63w)  
+   Link: <a href="https://www.youtube.com/watch?v=84vS3H4v63w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=84vS3H4v63w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Methods for Investigating Aerial Anomalies...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Challenges of Analyzing Eyewitness UFO Reports  
-   Link: [https://www.youtube.com/watch?v=5Vb6Y711w6I](https://www.youtube.com/watch?v=5Vb6Y711w6I)  
+   Link: <a href="https://www.youtube.com/watch?v=5Vb6Y711w6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Vb6Y711w6I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Modern UAP Databases Struggle with Credibility...</p></details>

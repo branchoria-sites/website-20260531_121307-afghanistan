@@ -245,7 +245,7 @@ next_link:
   permalink: /regions/
   short_title: Regions
   heading_title: Why Nigerian UFO Reports Depend on Place
-date: '2026-06-09 01:36:06 '
+date: '2026-06-10 02:02:37 '
 header:
   og_image: /assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-social.jpg
   preview_image: /assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-social
 
 ## Introduction
 
-[Nigeria]({{ 'what-do-nigerias-ufo-reports-really-show/' | relative_url }})’s UFO timeline is notable less for the number of reports than for the uneven quality of the evidence behind them. Publicly accessible UFO databases contain only a small collection of Nigeria-linked cases spanning more than three decades, and most lack the photographs, radar data, official investigations or multiple independent witnesses that would allow strong conclusions. The result is a chronology that is useful as a record of reported experiences but much less useful as proof of extraordinary events. The central question is therefore not whether unusual sightings occurred, but how much confidence can be placed in each report. Available evidence suggests that Nigeria’s strongest pattern is one of isolated observations, delayed reporting and limited corroboration rather than a sustained sequence of high-quality UFO incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Nigeria’s UFO timeline is notable less for the number of reports than for the uneven quality of the evidence behind them. Publicly accessible UFO databases contain only a small collection of Nigeria-linked cases spanning more than three decades, and most lack the photographs, radar data, official investigations or multiple independent witnesses that would allow strong conclusions. The result is a chronology that is useful as a record of reported experiences but much less useful as proof of extraordinary events. The central question is therefore not whether unusual sightings occurred, but how much confidence can be placed in each report. Available evidence suggests that Nigeria’s strongest pattern is one of isolated observations, delayed reporting and limited corroboration rather than a sustained sequence of high-quality UFO incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-dark.svg" | relative_url }}" alt="Chronology illustration 1" data-theme-src-dark="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ image: /assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-social
 
 The earliest Nigeria-linked reports in public UFO archives originate from the early 1990s and early 2000s. One frequently cited case is a Maiduguri sighting dated July 1991. According to the archived account, the witness reported observing a light whose apparent motion seemed inconsistent with a conventional aircraft. However, the report was submitted roughly a decade after the alleged event. Such a delay significantly reduces evidential strength because aircraft records, weather data and astronomical conditions become difficult to reconstruct accurately, while witness memory can change over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-A Lagos report from August 2004 is among the more dramatic entries because it involves a claim that a strange craft crashed near a beach. Yet the public record provides no independently verified wreckage, official recovery documentation, contemporary news coverage or forensic evidence supporting a crash. In evidence terms, this places the case firmly in the category of an unverified anecdote rather than a documented incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
+A Lagos report from August 2004 is among the more dramatic entries because it involves a claim that a strange craft crashed near a beach. Yet the public record provides no independently verified wreckage, official recovery documentation, contemporary news coverage or forensic evidence supporting a crash. In evidence terms, this places the case firmly in the category of an unverified anecdote rather than a documented incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 
 Reports associated with Akure and south-western Nigeria appear sporadically in later databases and online compilations. Most consist of descriptions of lights, unusual aerial movement or geometric shapes seen briefly in the sky. Their value lies mainly in showing geographic distribution rather than establishing a strong UFO case history. Without multiple witnesses, photographs, sensor records or contemporaneous documentation, these reports remain low-confidence observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e202408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 202408NUFORC Reports for Month 202408.; Open, 08/29/2024 23:50, Surat, Gujarat, India; Open, 08/29/2024 21:47...</span></span></span>
 
@@ -338,7 +338,7 @@ A useful evidence hierarchy emerges when examining the available chronology:
 
 </div>
 
-Most Nigerian UFO cases currently fall into the low-to-medium category because they rely on individual testimony. Very few are accompanied by the kinds of records that elevate a case into the high-confidence range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Most Nigerian UFO cases currently fall into the low-to-medium category because they rely on individual testimony. Very few are accompanied by the kinds of records that elevate a case into the high-confidence range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-2-dark.svg" | relative_url }}" alt="Chronology illustration 2" data-theme-src-dark="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,18 +364,14 @@ When reports emerge years later, many of these checks become impossible. This is
 Nigeria's UFO chronology is best understood by dividing reports into three categories.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xznBc7FGqvg" title="Ariel Phenomenon [Alien Contact in Africa]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xznBc7FGqvg" target="_blank" rel="noopener noreferrer">Ariel Phenomenon [Alien Contact in Africa]</a></p><p class="youtube-embed-meta">Channel: Victor Stiff &middot; Views: 3.6K &middot; Uploaded: June 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xznBc7FGqvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xznBc7FGqvg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-3-dark.svg" | relative_url }}" alt="Chronology illustration 3" data-theme-src-dark="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Confirmed observations
 
 A confirmed observation means that something was genuinely observed, not that it was extraterrestrial. Many Nigerian reports clearly indicate that witnesses saw an unusual light or object. The observation itself may be genuine even when the cause remains uncertain.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q8pymWSKAPQ" title="Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer">Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q8pymWSKAPQ">Open on YouTube</a></p></div></div></div>
-
 ### Contested cases
 
-Most entries in the Nigerian timeline belong here. Witnesses describe something unusual, but the available information is insufficient to determine what was seen. The Lagos beach crash story and several light-orb reports fall into this category because the supporting evidence is incomplete or absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
+Most entries in the Nigerian timeline belong here. Witnesses describe something unusual, but the available information is insufficient to determine what was seen. The Lagos beach crash story and several light-orb reports fall into this category because the supporting evidence is incomplete or absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 
 ### Debunked or plausibly explained cases
 
@@ -388,89 +384,48 @@ Taken as a whole, Nigeria's UFO chronology does not reveal a clear pattern of es
 For researchers examining the Nigeria branch of a wider UFO project, the key lesson is methodological rather than sensational. The chronology demonstrates how evidence quality can vary dramatically from one report to another. A sighting's value depends less on how extraordinary the story sounds and more on whether it can be independently checked, corroborated and documented. By that standard, Nigeria's record contains a handful of interesting cases, many contested claims and very few reports that rise to the level of robust, multi-source evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsAll NUFORC Reports.; Open, 05/27/2026 06:27, Mudgee; Open, 05/26/2026 22:30, Caerleon; Open. 05/26/2026 22:26, Cerr...</span></span></span>
 
 
-<img src="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-3-dark.svg" | relative_url }}" alt="Chronology illustration 3" data-theme-src-dark="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xznBc7FGqvg" title="Ariel Phenomenon [Alien Contact in Africa]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xznBc7FGqvg" target="_blank" rel="noopener noreferrer">Ariel Phenomenon [Alien Contact in Africa]</a></p><p class="youtube-embed-meta">Channel: Victor Stiff &middot; Views: 3.6K &middot; Uploaded: June 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xznBc7FGqvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xznBc7FGqvg">Open on YouTube</a></p></div></div></div>
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is Nigeria&#x27;s UFO Timeline?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Strong Is Nigeria&#x27;s UFO Timeline?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Ideal for assessing the strength of a national UFO timeline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains classification and evidential evaluation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers examples of stronger and weaker documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides context for interpreting unresolved reports over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -504,75 +459,71 @@ For researchers examining the Nigeria branch of a wider UFO project, the key les
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-5ce5ee-how-strong-is-nigeria-s-ufo-timeline-nigeria-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -787,91 +738,91 @@ For researchers examining the Nigeria branch of a wider UFO project, the key les
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e202408](https://nuforc.org/subndx/?id=e202408)  
+   Link: <a href="https://nuforc.org/subndx/?id=e202408" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202408</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 202408NUFORC Reports for Month 202408.; Open, 08/29/2024 23:50, Surat, Gujarat, India; Open, 08/29/2024 21:47...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 05/27/2026 06:27, Mudgee; Open, 05/26/2026 22:30, Caerleon; Open. 05/26/2026 22:26, Cerr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=cEcuador](https://nuforc.org/subndx/?id=cEcuador)  
+   Link: <a href="https://nuforc.org/subndx/?id=cEcuador" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cEcuador</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country EcuadorNUFORC Reports for Country &#x27;Ecuador&#x27;; Open, 03/27/2026 23:58, Manta; Open, 03/07/2025 12:40, Quito...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: nipngr.org  
-   Link: [https://nipngr.org/wp-content/uploads/2024/08/Book-of-Abstract-NIP-45th-Conference-2024.pdf](https://nipngr.org/wp-content/uploads/2024/08/Book-of-Abstract-NIP-45th-Conference-2024.pdf)  
+   Link: <a href="https://nipngr.org/wp-content/uploads/2024/08/Book-of-Abstract-NIP-45th-Conference-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nipngr.org/wp-content/uploads/2024/08/Book-of-Abstract-NIP-45th-Conference-2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOC &amp; Members of CouncilProf. J. O. Coker, FNIP. President. Prof. F. S. Koki, FNIP. Vice-President. Dr. N. N. Abdulsalam, FNIP. Secretary...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nigerdeltabudget.org  
-   Link: [https://www.nigerdeltabudget.org/wp-content/uploads/2021/05/pub10-master-factsheet.pdf](https://www.nigerdeltabudget.org/wp-content/uploads/2021/05/pub10-master-factsheet.pdf)  
+   Link: <a href="https://www.nigerdeltabudget.org/wp-content/uploads/2021/05/pub10-master-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nigerdeltabudget.org/wp-content/uploads/2021/05/pub10-master-factsheet.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>master factsheetNDEBUMOG seeks improve business practices and principles for combating corruption in public-private activities. Small, me...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/434019892/Nigeria-Current-Affairs-Latest-Questions-and-Answers-PDF-Free-Download-1960-Till-Date-PROJECTS-ng](https://www.scribd.com/document/434019892/Nigeria-Current-Affairs-Latest-Questions-and-Answers-PDF-Free-Download-1960-Till-Date-PROJECTS-ng)  
+   Link: <a href="https://www.scribd.com/document/434019892/Nigeria-Current-Affairs-Latest-Questions-and-Answers-PDF-Free-Download-1960-Till-Date-PROJECTS-ng" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/434019892/Nigeria-Current-Affairs-Latest-Questions-and-Answers-PDF-Free-Download-1960-Till-Date-PROJECTS-ng</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria Current Affairs 1960-2024 PDFNigeria Current Affairs Latest Questions and Answers PDF Free Download 1960 Till Date PROJECTS.ng...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: National UFO Reporting Center (NUFORC) or the UAP Reporting Initiative.Read more  
-   Link: [https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/](https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/)  
+   Link: <a href="https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identified Object UFO 👽 seen flying over Akwanga, middle...Identified Object UFO seen flying over Akwanga, middle belt Nigeria...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dokumen.pub  
    Title: modern nigeria 9798765112052 s 3019470  
-   Link: [https://dokumen.pub/modern-nigeria-9798765112052-s-3019470.html](https://dokumen.pub/modern-nigeria-9798765112052-s-3019470.html)  
+   Link: <a href="https://dokumen.pub/modern-nigeria-9798765112052-s-3019470.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/modern-nigeria-9798765112052-s-3019470.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Nigeria 9798765112052Abuja is Nigeria&#x27;s political and administrative capital, which took over from Lagos on December 12, 1991, aft...</p></details>
    Published: December 12, 1991  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: Seedorf news service – Friday  
-   Link: [https://www.facebook.com/bta.1952/posts/seedorf-news-service-friday-november-18-2016n22b-fraud-ex-icc-man-to-try-supreme/1229862420414299/](https://www.facebook.com/bta.1952/posts/seedorf-news-service-friday-november-18-2016n22b-fraud-ex-icc-man-to-try-supreme/1229862420414299/)  
+   Link: <a href="https://www.facebook.com/bta.1952/posts/seedorf-news-service-friday-november-18-2016n22b-fraud-ex-icc-man-to-try-supreme/1229862420414299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bta.1952/posts/seedorf-news-service-friday-november-18-2016n22b-fraud-ex-icc-man-to-try-supreme/1229862420414299/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 18, 2016.....9bn fraud: Court admits first exhibit in Orji Kalu&#x27;s trial ☆ One million women, girls infected with HIV annually...</p></details>
    Published: November 18, 2016  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=op_wCAep23o](https://www.youtube.com/watch?v=op_wCAep23o)  
+   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: UAP FILES  
-   Link: [https://www.youtube.com/watch?v=rhP8VdCIz9A](https://www.youtube.com/watch?v=rhP8VdCIz9A)  
+   Link: <a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ojokoandojoko.com  
    Title: Daily Trust 17th Nov 2021  
-   Link: [https://ojokoandojoko.com/wp-content/uploads/2021/11/Daily_Trust_17th_Nov_2021.pdf](https://ojokoandojoko.com/wp-content/uploads/2021/11/Daily_Trust_17th_Nov_2021.pdf)  
+   Link: <a href="https://ojokoandojoko.com/wp-content/uploads/2021/11/Daily_Trust_17th_Nov_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ojokoandojoko.com/wp-content/uploads/2021/11/Daily_Trust_17th_Nov_2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporation (NNPC) and the. Shell Petroleum Development. Company of Nigeria Ltd for their support to the...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: acleddata.com  
    Title: V5 Nigeria.xlsx  
-   Link: [https://www.acleddata.com/wp-content/uploads/2015/01/V5_Nigeria.xlsx](https://www.acleddata.com/wp-content/uploads/2015/01/V5_Nigeria.xlsx)  
+   Link: <a href="https://www.acleddata.com/wp-content/uploads/2015/01/V5_Nigeria.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.acleddata.com/wp-content/uploads/2015/01/V5_Nigeria.xlsx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sheet1... (Nigeria), 7, 37, Nigeria, Lagos, LagosIsland, Lagos, 6.453056, 3.395833, 1, Reuters News, A Nigerian journalist was killed by...</p></details>

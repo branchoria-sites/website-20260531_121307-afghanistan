@@ -239,7 +239,7 @@ prev_link:
   permalink: /gandaki-fireball/
   short_title: Gandaki Fireball
   heading_title: When a Nepal UFO Becomes a Fireball
-date: '2026-06-09 01:35:23 '
+date: '2026-06-10 02:01:53 '
 header:
   og_image: /assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1-social.jpg
   preview_image: /assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1.webp
@@ -248,21 +248,21 @@ image: /assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1-so
 
 ## Introduction
 
-Kathmandu’s modern UFO record is notable less for dramatic encounters than for a recurring pattern of difficult-to-verify light sightings. Public databases, witness submissions and occasional social media reports contain descriptions of blinking objects, glowing spheres, silent lights and distant flashes over the Kathmandu Valley. Yet almost all of these reports share the same limitation: they depend on a single observer, lack independent documentation and provide too little information to rule out ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 85883August 20, 2023 — There were about a dozen of very bright objects seen on the western side of Kathmandu&#x27;s...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 63576Location: Kathmandu (Nepal),, Nepal Shape: Sphere Characteristics: Lights on object, Aura or haze around...</span></span></span>
+Kathmandu’s modern UFO record is notable less for dramatic encounters than for a recurring pattern of difficult-to-verify light sightings. Public databases, witness submissions and occasional social media reports contain descriptions of blinking objects, glowing spheres, silent lights and distant flashes over the Kathmandu Valley. Yet almost all of these reports share the same limitation: they depend on a single observer, lack independent documentation and provide too little information to rule out ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 85883August 20, 2023 — There were about a dozen of very bright objects seen on the western side of Kathmandu&#x27;s...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 63576Location: Kathmandu (Nepal),, Nepal Shape: Sphere Characteristics: Lights on object, Aura or haze around...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1-dark.svg" | relative_url }}" alt="Kathmandu Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That makes Kathmandu an important case study within [Nepal]({{ 'what-really-happened-in-nepals-ufo/' | relative_url }})’s wider UFO history. While the better-known 1968 Himalayan incidents involved alleged physical debris and attracted intelligence interest, Kathmandu’s contemporary reports mostly illustrate how easily unidentified lights can remain unresolved without becoming persuasive evidence of an extraordinary phenomenon. The question is not whether witnesses saw something unusual. The challenge is determining what they actually saw.
+That makes Kathmandu an important case study within Nepal’s wider UFO history. While the better-known 1968 Himalayan incidents involved alleged physical debris and attracted intelligence interest, Kathmandu’s contemporary reports mostly illustrate how easily unidentified lights can remain unresolved without becoming persuasive evidence of an extraordinary phenomenon. The question is not whether witnesses saw something unusual. The challenge is determining what they actually saw.
 
 ## What modern public reports claim
 
-The publicly available Kathmandu cases are few in number. Several come from the National UFO Reporting Center (NUFORC), a voluntary reporting database that accepts witness submissions from around the world. These reports are useful as records of what people believed they observed, but they are not independent investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 85883August 20, 2023 — There were about a dozen of very bright objects seen on the western side of Kathmandu&#x27;s...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The publicly available Kathmandu cases are few in number. Several come from the National UFO Reporting Center (NUFORC), a voluntary reporting database that accepts witness submissions from around the world. These reports are useful as records of what people believed they observed, but they are not independent investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 85883August 20, 2023 — There were about a dozen of very bright objects seen on the western side of Kathmandu&#x27;s...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-One Kathmandu report from May 2008 described a bright sphere or star-like object moving horizontally for only a few seconds. The witness reported unusual light effects but provided no photographs, radar information or corroborating observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 63576Location: Kathmandu (Nepal),, Nepal Shape: Sphere Characteristics: Lights on object, Aura or haze around...</span></span></span>
+One Kathmandu report from May 2008 described a bright sphere or star-like object moving horizontally for only a few seconds. The witness reported unusual light effects but provided no photographs, radar information or corroborating observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 63576Location: Kathmandu (Nepal),, Nepal Shape: Sphere Characteristics: Lights on object, Aura or haze around...</span></span></span>
 
-Another report from November 2011 claimed that roughly a dozen bright objects appeared over western Kathmandu, rising above hills, emitting multiple colours and moving slowly northward over several minutes. The account emphasised silence and unusual lighting patterns, but again there was no supporting imagery, official observation or confirmed second witness statement attached to the public record. Even the report itself included uncertainty about the event's authenticity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
+Another report from November 2011 claimed that roughly a dozen bright objects appeared over western Kathmandu, rising above hills, emitting multiple colours and moving slowly northward over several minutes. The account emphasised silence and unusual lighting patterns, but again there was no supporting imagery, official observation or confirmed second witness statement attached to the public record. Even the report itself included uncertainty about the event's authenticity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
 
-A third frequently cited Kathmandu entry came from September 2016. The observer described a blinking object in the northern sky that appeared to change colours over an extended period. The database note attached to the report suggested a possible stellar explanation, reflecting how such observations often resemble atmospheric distortion of bright stars or planets viewed at low elevation angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
+A third frequently cited Kathmandu entry came from September 2016. The observer described a blinking object in the northern sky that appeared to change colours over an extended period. The database note attached to the report suggested a possible stellar explanation, reflecting how such observations often resemble atmospheric distortion of bright stars or planets viewed at low elevation angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
 
 Taken individually, these reports are intriguing to the witnesses involved. As evidence, however, they remain weak because almost none contain the information needed for later verification. Exact directions, weather conditions, astronomical checks, flight-path comparisons and multiple observer accounts are usually absent.
 
@@ -299,7 +299,7 @@ The strongest challenge facing Kathmandu UFO claims is that several ordinary exp
 
 ### Bright stars and planets
 
-The 2016 Kathmandu report describing a stationary blinking object with changing colours is a classic example of a sighting that resembles a bright astronomical source. When planets such as Venus or bright stars sit low above the horizon, atmospheric distortion can make them appear to pulse, flash and shift colours dramatically. Investigators worldwide routinely identify such objects as the source of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
+The 2016 Kathmandu report describing a stationary blinking object with changing colours is a classic example of a sighting that resembles a bright astronomical source. When planets such as Venus or bright stars sit low above the horizon, atmospheric distortion can make them appear to pulse, flash and shift colours dramatically. Investigators worldwide routinely identify such objects as the source of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
 
 This explanation does not imply the witness imagined the light. It suggests the observed object was real but misidentified.
 
@@ -313,7 +313,7 @@ The absence of engine noise is not necessarily significant. Atmospheric conditio
 <img src="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-2-dark.svg" | relative_url }}" alt="Kathmandu Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Satellites and satellite trains
 
-In recent years, satellite visibility has become a more important factor in UFO reports throughout South Asia. Starlink satellite trains, in particular, have repeatedly generated reports of unusual lights moving in formation. Social media discussions in Nepal and neighbouring regions have often labelled such sightings as possible UFOs before satellite explanations emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/nebresultandnews0/posts/a-starlink-satellite-like-object-was-spotted-from-jhapas-sky-%EF%B8%8Fvideo-abhishek-kha/1241217226772349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookA Starlink satellite like object was spotted from Jhapa&#x27;s Sky....STARLINK I thought it was a UFO sighting...</span></span></span>
+In recent years, satellite visibility has become a more important factor in UFO reports throughout South Asia. Starlink satellite trains, in particular, have repeatedly generated reports of unusual lights moving in formation. Social media discussions in Nepal and neighbouring regions have often labelled such sightings as possible UFOs before satellite explanations emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/nebresultandnews0/posts/a-starlink-satellite-like-object-was-spotted-from-jhapas-sky-%EF%B8%8Fvideo-abhishek-kha/1241217226772349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A Starlink satellite like object was spotted from Jhapa&#x27;s Sky....STARLINK I thought it was a UFO sighting...</span></span></span>
 
 A witness unfamiliar with satellite trains can reasonably interpret a line of moving lights as something extraordinary, especially when multiple objects appear together.
 
@@ -335,7 +335,7 @@ Kathmandu reports commonly suffer from several evidence gaps:
 * Weather conditions are unknown.
 * Astronomical cross-checks were never performed.
 * Air traffic information is absent.
-* Follow-up investigation is minimal or nonexistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
+* Follow-up investigation is minimal or nonexistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
 
 As a result, many reports remain permanently suspended between identification and mystery. They are unresolved, but not strongly evidential.
 
@@ -362,92 +362,50 @@ For Kathmandu specifically, stronger evidence would involve:
 
 </div>
 
-These standards are demanding, but they explain why Kathmandu's modern light reports remain a separate category from Nepal's more historically discussed cases. Most of the valley's sightings are genuine reports of something seen in the sky. What they have not yet provided is the level of evidence needed to establish that the observed objects were anything beyond ordinary astronomical, atmospheric or human-made phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
+These standards are demanding, but they explain why Kathmandu's modern light reports remain a separate category from Nepal's more historically discussed cases. Most of the valley's sightings are genuine reports of something seen in the sky. What they have not yet provided is the level of evidence needed to establish that the observed objects were anything beyond ordinary astronomical, atmospheric or human-made phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</span><span class="citation-popover-meta">Published: September 18, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-3-dark.svg" | relative_url }}" alt="Kathmandu Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Kathmandu UFO Lights Are So Hard to Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Kathmandu UFO Lights Are So Hard to Prove, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses witness sightings, light phenomena, and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides context for how recurring light sightings become part of UFO folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contrasts stronger evidence cases with ordinary unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains planets, satellites, and celestial objects often mistaken for UFO lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -481,75 +439,71 @@ These standards are demanding, but they explain why Kathmandu's modern light rep
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kathmandu-lights-why-kathmandu-ufo-lights-are-so-hard-to-prove-nepal-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -763,130 +717,130 @@ These standards are demanding, but they explain why Kathmandu's modern light rep
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=85883](https://nuforc.org/sighting/?id=85883)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 85883August 20, 2023 — There were about a dozen of very bright objects seen on the western side of Kathmandu&#x27;s...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85883</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85883August 20, 2023 — There were about a dozen of very bright objects seen on the western side of Kathmandu&#x27;s...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=63576](https://nuforc.org/sighting/?id=63576)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 63576Location: Kathmandu (Nepal),, Nepal Shape: Sphere Characteristics: Lights on object, Aura or haze around...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63576</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 63576Location: Kathmandu (Nepal),, Nepal Shape: Sphere Characteristics: Lights on object, Aura or haze around...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=130025](https://nuforc.org/sighting/?id=130025)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=130025</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 130025NUFORC UFO Sighting 130025. Occurred: 2016-09-18 22:00 Local Reported: 2016-09-18 09:42 Pacific Duration...</p></details>
    Published: September 18, 2016  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nebresultandnews0/posts/a-starlink-satellite-like-object-was-spotted-from-jhapas-sky-%EF%B8%8Fvideo-abhishek-kha/1241217226772349/](https://www.facebook.com/nebresultandnews0/posts/a-starlink-satellite-like-object-was-spotted-from-jhapas-sky-%EF%B8%8Fvideo-abhishek-kha/1241217226772349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookA Starlink satellite like object was spotted from Jhapa&#x27;s Sky....STARLINK I thought it was a UFO sighting...</p></details>
+   Link: <a href="https://www.facebook.com/nebresultandnews0/posts/a-starlink-satellite-like-object-was-spotted-from-jhapas-sky-%EF%B8%8Fvideo-abhishek-kha/1241217226772349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nebresultandnews0/posts/a-starlink-satellite-like-object-was-spotted-from-jhapas-sky-%EF%B8%8Fvideo-abhishek-kha/1241217226772349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Starlink satellite like object was spotted from Jhapa&#x27;s Sky....STARLINK I thought it was a UFO sighting...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/](https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/)  
+   Link: <a href="https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>O #Rockets #SpaceX #space #aircraft #area51 #UAP #aliens...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/](https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/)  
+   Link: <a href="https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing that it doesn&#x27;t fit the profile of known natural or man-made...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thevoiceofsikkim/posts/two-mysterious-jellyfish-like-streaks-of-light-appeared-in-the-evening-sky-over-/1361632319340161/](https://www.facebook.com/thevoiceofsikkim/posts/two-mysterious-jellyfish-like-streaks-of-light-appeared-in-the-evening-sky-over-/1361632319340161/)  
+   Link: <a href="https://www.facebook.com/thevoiceofsikkim/posts/two-mysterious-jellyfish-like-streaks-of-light-appeared-in-the-evening-sky-over-/1361632319340161/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/two-mysterious-jellyfish-like-streaks-of-light-appeared-in-the-evening-sky-over-/1361632319340161/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oss several parts of Nepal around 7 PM. Photos and videos of the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheDarjChron/posts/ufo-in-darjeeling-definitely-worth-a-probeone-of-our-readers-tashi-gyatso-writes/1226130339550044/](https://www.facebook.com/TheDarjChron/posts/ufo-in-darjeeling-definitely-worth-a-probeone-of-our-readers-tashi-gyatso-writes/1226130339550044/)  
+   Link: <a href="https://www.facebook.com/TheDarjChron/posts/ufo-in-darjeeling-definitely-worth-a-probeone-of-our-readers-tashi-gyatso-writes/1226130339550044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDarjChron/posts/ufo-in-darjeeling-definitely-worth-a-probeone-of-our-readers-tashi-gyatso-writes/1226130339550044/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IN DARJEELING?? Definitely Worth A Probe One of our...Guys yesterday at 10 AM Nepal time I caught a UFO on camera. It is reported th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in Nepal  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal](https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal.... ↑ &quot;Astronomical society...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: multimedia.scmp.com  
-   Link: [https://multimedia.scmp.com/culture/article/ufo/index.html](https://multimedia.scmp.com/culture/article/ufo/index.html)  
+   Link: <a href="https://multimedia.scmp.com/culture/article/ufo/index.html" target="_blank" rel="noopener noreferrer nofollow">https://multimedia.scmp.com/culture/article/ufo/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings - Infographics24 Dec 2017 — UFO sightings · Increasing reports · Reported UFO shapes · Movements and maneuvers · Objects and na...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399910591_A_Astronomical_Case_Study_of_Stationary_Light_Phenomena_Near_the_Eastern_Horizon_in_Central_Nepal](https://www.researchgate.net/publication/399910591_A_Astronomical_Case_Study_of_Stationary_Light_Phenomena_Near_the_Eastern_Horizon_in_Central_Nepal)  
+   Link: <a href="https://www.researchgate.net/publication/399910591_A_Astronomical_Case_Study_of_Stationary_Light_Phenomena_Near_the_Eastern_Horizon_in_Central_Nepal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399910591_A_Astronomical_Case_Study_of_Stationary_Light_Phenomena_Near_the_Eastern_Horizon_in_Central_Nepal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-like” luminous phenomena can be traced to ordinary astronomical. or terrestrial origins when examined with careful positional and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=zcJN5GB9Hro](http://www.youtube.com/watch?v=zcJN5GB9Hro)  
+   Link: <a href="http://www.youtube.com/watch?v=zcJN5GB9Hro" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zcJN5GB9Hro</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why ufo sightings lack evidence lights in the sky explained Why This UFO Sighting Was Different | Monstrum Storied...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: english.nepalnews.com  
    Title: enduring mysteries trail us report on ufos there is stuff  
-   Link: [https://english.nepalnews.com/s/global/enduring-mysteries-trail-us-report-on-ufos-there-is-stuff/](https://english.nepalnews.com/s/global/enduring-mysteries-trail-us-report-on-ufos-there-is-stuff/)  
+   Link: <a href="https://english.nepalnews.com/s/global/enduring-mysteries-trail-us-report-on-ufos-there-is-stuff/" target="_blank" rel="noopener noreferrer nofollow">https://english.nepalnews.com/s/global/enduring-mysteries-trail-us-report-on-ufos-there-is-stuff/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government has been taking a hard look at unidentified flying objects like this one. A report summarizing what the U.S. knows about “...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-Edited12 Jan 2009 — Red and orange lights high in the sky moving slowly, numerous sightings over several weeks...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/](https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/)  
+   Link: <a href="https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>P)s/UFOs? Discussion/बहस. The whole reason for me to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=XcDDofS5Huw](http://www.youtube.com/watch?v=XcDDofS5Huw)  
+   Link: <a href="http://www.youtube.com/watch?v=XcDDofS5Huw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XcDDofS5Huw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Pentagon releases declassified UFO files detailing more than 400 incidents  
-   Link: [http://www.youtube.com/watch?v=bGYEQlBvJIc](http://www.youtube.com/watch?v=bGYEQlBvJIc)  
+   Link: <a href="http://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGYEQlBvJIc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigators Get STAGGERING VIDEO EVIDENCE Of An Unidentified Light In The Sky | Alien Highway...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: artangel.org.uk  
-   Link: [https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/](https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/)  
+   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldWitnesses described an object with a mushroom-shaped dome on top and a flat bottom, covered with brigh...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mapuap.com  
    Title: kathmandu nepal 2008 046d6448  
-   Link: [https://mapuap.com/sighting/kathmandu-nepal-2008-046d6448](https://mapuap.com/sighting/kathmandu-nepal-2008-046d6448)  
+   Link: <a href="https://mapuap.com/sighting/kathmandu-nepal-2008-046d6448" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/kathmandu-nepal-2008-046d6448</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Data. Date2008-11-19. Durationaround 1 minute. ShapeSphere. Witnesses1.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Debunking Earth's Most Infamous UFO Sightings  
-   Link: [http://www.youtube.com/watch?v=MHcKriIdbp8](http://www.youtube.com/watch?v=MHcKriIdbp8)  
+   Link: <a href="http://www.youtube.com/watch?v=MHcKriIdbp8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MHcKriIdbp8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History...</p></details>

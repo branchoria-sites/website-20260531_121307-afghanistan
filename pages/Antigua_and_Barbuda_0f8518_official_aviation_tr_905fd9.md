@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-lights/
   short_title: Sky Lights
   heading_title: Why Do Antigua's Night Lights Look Strange?
-date: '2026-06-09 01:12:44 '
+date: '2026-06-10 01:37:30 '
 header:
   og_image: /assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-1-social.jpg
   preview_image: /assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-1.webp
@@ -273,7 +273,7 @@ Official aviation records almost always document **safety‑related events that 
 
 * **Accidents** — collisions, major system failures, or events causing significant injury or aircraft damage.
 * **Serious incidents** — occurrences that *almost* resulted in an accident or substantially compromised safety.
-* **Mandatory occurrence reports** — safety events defined by ICAO, often collected via formal reporting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAOccurrence reporting | UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAOccurrence reporting | UK Civil Aviation Authority</span></span></span>
+* **Mandatory occurrence reports** — safety events defined by ICAO, often collected via formal reporting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAOccurrence reporting &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAOccurrence reporting &#124; UK Civil Aviation Authority</span></span></span>
 
 </div>
 
@@ -288,11 +288,11 @@ This does *not* usually include every visual sighting of an unknown light in the
 
 If a pilot, crew, or air traffic control (ATC) unit reported an *unexplained object* during flight operations — especially one that was detected on radar, interfered with navigation, or caused evasive action — that would likely be treated as an **incident requiring reporting** under ICAO Annex 13 rules (Accident and Incident Investigation). Aviation authorities globally use such rules to classify events that might degrade safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/147.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[SKYbrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">OPS OPS 7</span><span class="citation-popover-snippet">ICAO2 and must be reported. The only difference between an accident and a serious incident is in its result: a...Read more...</span></span></span>
 
-In ECCAA’s jurisdiction, a report would be filed with the **AIG Unit** and could enter regional air safety databases. Where relevant, it could also feed into the **ICAO’s ECCAIRS (European Coordination Centre for Accident and Incident Reporting Systems)** reporting infrastructure, which is used to aggregate and analyse aviation safety data internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAOccurrence reporting | UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAOccurrence reporting | UK Civil Aviation Authority</span></span></span>
+In ECCAA’s jurisdiction, a report would be filed with the **AIG Unit** and could enter regional air safety databases. Where relevant, it could also feed into the **ICAO’s ECCAIRS (European Coordination Centre for Accident and Incident Reporting Systems)** reporting infrastructure, which is used to aggregate and analyse aviation safety data internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAOccurrence reporting &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAOccurrence reporting &#124; UK Civil Aviation Authority</span></span></span>
 
 ### 2. Radar and Surveillance Data
 
-Civil aviation authorities maintain **surveillance infrastructure** (e.g. radar, ADS‑B, multilateration) to track aircraft and monitor airspace. If a UAP event involved unexplained radar returns or unidentified targets in controlled airspace, this technical data would be a critical part of any formal aviation report. ICAO guidance and regional working groups in the Eastern Caribbean are actively discussing **surveillance coverage improvements**, underscoring the importance of this data in air safety reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/NACC/MeetingDocs/2025/ECARCATG9/English/00-Report/ECARCATG9-SoDFinal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Ms. Shenneth Phillips (Antigua and Barbuda).Read more</span><span class="citation-popover-snippet">ICAONinth Eastern Caribbean Civil Aviation Technical Group (E/...September 29, 2025 — 18 Jul 2025 — The E/CAR/CATG/9 Meeting was held wi...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
+Civil aviation authorities maintain **surveillance infrastructure** (e.g. radar, ADS‑B, multilateration) to track aircraft and monitor airspace. If a UAP event involved unexplained radar returns or unidentified targets in controlled airspace, this technical data would be a critical part of any formal aviation report. ICAO guidance and regional working groups in the Eastern Caribbean are actively discussing **surveillance coverage improvements**, underscoring the importance of this data in air safety reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/NACC/MeetingDocs/2025/ECARCATG9/English/00-Report/ECARCATG9-SoDFinal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Ms. Shenneth Phillips (Antigua and Barbuda).Read more</span><span class="citation-popover-snippet">Ninth Eastern Caribbean Civil Aviation Technical Group (E/...September 29, 2025 — 18 Jul 2025 — The E/CAR/CATG/9 Meeting was held wi...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-2-dark.svg" | relative_url }}" alt="Official Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -324,7 +324,7 @@ In contrast, most public “UFO sightings” are visual or anecdotal and lack th
 
 ### Civil versus Dedicated UAP Archives
 
-Specialised organisations like the **National Aviation Reporting Center on Anomalous Phenomena (NARCAP)** exist to document UAP reports *from pilots and controllers*, but their databases are separate from official aviation safety authorities and are used mainly for academic and stakeholder awareness rather than regulatory action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[narcap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">NARCA P</span><span class="citation-popover-snippet">NARCAP - National Aviation Reporting Center on Anomalous Phenomena...</span></span></span>
+Specialised organisations like the **National Aviation Reporting Center on Anomalous Phenomena (NARCAP)** exist to document UAP reports *from pilots and controllers*, but their databases are separate from official aviation safety authorities and are used mainly for academic and stakeholder awareness rather than regulatory action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[narcap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">NARCA P</span><span class="citation-popover-snippet">National Aviation Reporting Center on Anomalous Phenomena...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/htITM8x2u6A" title="Using the NASA Aviation Safety Reporting System to Track UAP Events with Todd Curtis - CITD 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=htITM8x2u6A" target="_blank" rel="noopener noreferrer">Using the NASA Aviation Safety Reporting System to Track UAP Events with Todd Curtis - CITD 2024</a></p><p class="youtube-embed-meta">Channel: CONTACT in the DESERT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=htITM8x2u6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=htITM8x2u6A">Open on YouTube</a></p></div></div></div>
@@ -337,7 +337,7 @@ In Antigua and Barbuda’s national and regional civil aviation ecosystem, a UAP
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * **ECCAA AIG Unit** records of **accidents and serious incidents** involving unidentified aerial observations with safety consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[eccaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-snippet">Explore New Regional Job Opportunities Click Here ECCAA HEADQUARTERS ECCAA Heaquarters is located in Antigua, with outstations serving th...</span></span></span>
-* **ICAO/Regional ECCAIRS reporting systems**, if the event met the criteria for mandatory reporting to international safety databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAOccurrence reporting | UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAOccurrence reporting | UK Civil Aviation Authority</span></span></span>
+* **ICAO/Regional ECCAIRS reporting systems**, if the event met the criteria for mandatory reporting to international safety databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">CAAOccurrence reporting &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">CAAOccurrence reporting &#124; UK Civil Aviation Authority</span></span></span>
 * **Radar and ATC technical logs**, when unexplained contacts affect controlled airspace operations.
 
 </div>
@@ -348,86 +348,44 @@ Anything falling short of clear safety impact — for example, a brief visual li
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-3-dark.svg" | relative_url }}" alt="Official Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_official_aviation_tr_905fd9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Would A Serious Antigua UAP Be Recorded?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Would A Serious Antigua UAP Be Recorded?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Documents how sightings are categorized and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains investigative frameworks for evaluating reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses military, aviation, and government handling of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong focus on pilot testimony, aviation safety, and official reporting channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -461,75 +419,71 @@ Anything falling short of clear safety impact — for example, a brief visual li
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-trail-where-would-a-serious-antigua-uap-be-recorded-antigua-and-barbuda-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -744,131 +698,131 @@ Anything falling short of clear safety impact — for example, a brief visual li
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Eastern Caribbean Civil Aviation Authority  
-   Link: [https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority](https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority</a>  
 
 2. <a id="endnote-2"></a>
    Source: eccaa.aero  
    Title: AI G Contact Information  
-   Link: [https://www.eccaa.aero/index.php?Itemid=90&id=175&option=com_content&view=article](https://www.eccaa.aero/index.php?Itemid=90&id=175&option=com_content&view=article)  
+   Link: <a href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article</a>  
 
 3. <a id="endnote-3"></a>
    Source: skybrary.aero  
    Title: OPS OPS 7  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/147.pdf](https://skybrary.aero/sites/default/files/bookshelf/147.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/147.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/147.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO2 and must be reported. The only difference between an accident and a serious incident is in its result: a...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: caa.co.uk  
    Title: CAAOccurrence reporting | UK Civil Aviation Authority  
-   Link: [https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1](https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1)  
+   Link: <a href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/our-work/make-a-report-or-complaint/report-something/mor/occurrence-reporting/?jsn_mobilize_preview=1</a>  
 
 5. <a id="endnote-5"></a>
    Source: icao.int  
    Title: Ms. Shenneth Phillips (Antigua and Barbuda).Read more  
-   Link: [https://www.icao.int/sites/default/files/NACC/MeetingDocs/2025/ECARCATG9/English/00-Report/ECARCATG9-SoDFinal.pdf](https://www.icao.int/sites/default/files/NACC/MeetingDocs/2025/ECARCATG9/English/00-Report/ECARCATG9-SoDFinal.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAONinth Eastern Caribbean Civil Aviation Technical Group (E/...September 29, 2025 — 18 Jul 2025 — The E/CAR/CATG/9 Meeting was held wi...</p></details>
+   Link: <a href="https://www.icao.int/sites/default/files/NACC/MeetingDocs/2025/ECARCATG9/English/00-Report/ECARCATG9-SoDFinal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/NACC/MeetingDocs/2025/ECARCATG9/English/00-Report/ECARCATG9-SoDFinal.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ninth Eastern Caribbean Civil Aviation Technical Group (E/...September 29, 2025 — 18 Jul 2025 — The E/CAR/CATG/9 Meeting was held wi...</p></details>
    Published: September 29, 2025  
 
 6. <a id="endnote-6"></a>
    Source: narcap.org  
    Title: NARCA P  
-   Link: [https://www.narcap.org/](https://www.narcap.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP - National Aviation Reporting Center on Anomalous Phenomena...</p></details>
+   Link: <a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aviation Reporting Center on Anomalous Phenomena...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eccaa.aero  
-   Link: [https://www.eccaa.aero/](https://www.eccaa.aero/)  
+   Link: <a href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore New Regional Job Opportunities Click Here ECCAA HEADQUARTERS ECCAA Heaquarters is located in Antigua, with outstations serving th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports](https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports)  
+   Link: <a href="https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 10, 2015 — UNIDENTIFIED AERIAL PHENOMENA, UAP, AND INTERNATIONAL AIR SAFETY REPORTS Posted April 10, 2015 by Ted Roe Executive Dire...</p></details>
    Published: April 10, 2015  
 
 10. <a id="endnote-10"></a>
    Source: eccaa.aero  
    Title: AIG Contact Information | | | AIRCRAFT ACCIDENT AND SERIOUS INCIDENTS I  
-   Link: [https://www.eccaa.aero/index.php?Itemid=95&id=175&option=com_content&view=article](https://www.eccaa.aero/index.php?Itemid=95&id=175&option=com_content&view=article)  
+   Link: <a href="https://www.eccaa.aero/index.php?Itemid=95&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?Itemid=95&amp;id=175&amp;option=com_content&amp;view=article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIG Contact InformationECCAA HEADQUARTERS ECCAA Heaquarters is located in Antigua, with outstations serving the 8 remaining states of the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: eccaa.aero  
-   Link: [https://eccaa.aero/index.php?Itemid=112&id=211&option=com_content&view=article](https://eccaa.aero/index.php?Itemid=112&id=211&option=com_content&view=article)  
+   Link: <a href="https://eccaa.aero/index.php?Itemid=112&amp;id=211&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://eccaa.aero/index.php?Itemid=112&amp;id=211&amp;option=com_content&amp;view=article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AVSECAVSEC | | | AVSEC (AVIATION SECURITY) WELCOME TO THE AVIATION SECURITY (AVSEC) PAGE OF THE EASTERN CARIBBEAN CIVIL AVIATION AUTHORIT...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: eccaa.aero  
-   Link: [https://www.eccaa.aero/index.php?id=70&option=com_content&view=article](https://www.eccaa.aero/index.php?id=70&option=com_content&view=article)  
+   Link: <a href="https://www.eccaa.aero/index.php?id=70&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?id=70&amp;option=com_content&amp;view=article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ECCAA Achieves Category ONE StatusThe civil aviation authority agreement act required a minimum of four Member States to enact the new le...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/database/countries/V2](https://aviation-safety.net/database/countries/V2)  
+   Link: <a href="https://aviation-safety.net/database/countries/V2" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/database/countries/V2</a>  
 
 15. <a id="endnote-15"></a>
    Source: atc-network.com  
-   Link: [https://www.atc-network.com/atc-organisations/eccaa-east-caribbean-civil-aviation-authority](https://www.atc-network.com/atc-organisations/eccaa-east-caribbean-civil-aviation-authority)  
+   Link: <a href="https://www.atc-network.com/atc-organisations/eccaa-east-caribbean-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/eccaa-east-caribbean-civil-aviation-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns POSTAL ADDRESS PO Box: 1130 Antigua and Barbuda CONTACT Tel + 268 462-0000 / 268 462-0907 Fax + 268 462-0082 www.ec...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: suntci.com  
-   Link: [https://suntci.com/faa-downgrades-caribbean-safety-rating-p5083-135.htm](https://suntci.com/faa-downgrades-caribbean-safety-rating-p5083-135.htm)  
+   Link: <a href="https://suntci.com/faa-downgrades-caribbean-safety-rating-p5083-135.htm" target="_blank" rel="noopener noreferrer nofollow">https://suntci.com/faa-downgrades-caribbean-safety-rating-p5083-135.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA downgrades Caribbean safety ratingThe FAA has assigned a Category 2 rating for the ECCAA because it “does not comply with Internation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/space/what-happens-next/occurrence-reporting/](https://www.caa.co.uk/space/what-happens-next/occurrence-reporting/)  
+   Link: <a href="https://www.caa.co.uk/space/what-happens-next/occurrence-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/space/what-happens-next/occurrence-reporting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Occurrence reporting | UK Civil Aviation AuthorityOccurrence reports are a mandatory requirement under the Space Industry Regulations and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/our-work/make-a-report-or-complaint/accident-and-serious-incident-reporting/](https://www.caa.co.uk/our-work/make-a-report-or-complaint/accident-and-serious-incident-reporting/)  
+   Link: <a href="https://www.caa.co.uk/our-work/make-a-report-or-complaint/accident-and-serious-incident-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/our-work/make-a-report-or-complaint/accident-and-serious-incident-reporting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report an accident or serious incident | UK Civil Aviation AuthorityAIRCRAFT ACCIDENTS AND SERIOUS INCIDENTS In the UK, aircraft accident...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: faa.gov  
    Title: announces safety rating eastern caribbean aviation system  
-   Link: [https://www.faa.gov/newsroom/faa-announces-safety-rating-eastern-caribbean-aviation-system](https://www.faa.gov/newsroom/faa-announces-safety-rating-eastern-caribbean-aviation-system)  
+   Link: <a href="https://www.faa.gov/newsroom/faa-announces-safety-rating-eastern-caribbean-aviation-system" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-announces-safety-rating-eastern-caribbean-aviation-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Announces Safety Rating for Eastern Caribbean...8 May 2020 — The Eastern Caribbean Civil Aviation Authority (ECCAA) provides aviatio...</p></details>
    Published: May 2020  
 
 20. <a id="endnote-20"></a>
    Source: caa.co.uk  
    Title: LATEST INFORMATION UAS occurrence reporting i  
-   Link: [https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/](https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/)  
+   Link: <a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/uas-occurrence-reporting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS occurrence reporting | UK Civil Aviation AuthorityThis section describes the actions to take if there has been an occurrence involvin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: GOV.UK  
    Title: www.gov.uk Britten-Norman BN2A-26 at V.C  
-   Link: [https://www.gov.uk/government/news/britten-norman-bn2a-26-at-vc-bird-int-airport-antigua-7-oct-12](https://www.gov.uk/government/news/britten-norman-bn2a-26-at-vc-bird-int-airport-antigua-7-oct-12)  
+   Link: <a href="https://www.gov.uk/government/news/britten-norman-bn2a-26-at-vc-bird-int-airport-antigua-7-oct-12" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/britten-norman-bn2a-26-at-vc-bird-int-airport-antigua-7-oct-12</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bird Int Airport, Antigua 7 Oct 12 - GOV.UKOctober 15, 2015 — News story BRITTEN-NORMAN BN2A-26 AT V.C. BIRD INT AIRPORT, ANTIGUA 7 OCT 1...</p></details>
    Published: October 15, 2015  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/abstvradio/videos/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/677218121910680/](https://www.facebook.com/abstvradio/videos/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/677218121910680/)  
+   Link: <a href="https://www.facebook.com/abstvradio/videos/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/677218121910680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abstvradio/videos/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/677218121910680/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pleted all major regulatory reforms required to regain its U.S...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: caa.co.uk  
    Title: Reporting is an important element of.Read more  
-   Link: [https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf](https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAACAA Safety Sense Occurrence ReportingFebruary 26, 2025 — 1 Dec 2023 — This leaflet is intended as a guide for the reporting of safety...</p></details>
+   Link: <a href="https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/yzlh3pcm/caa9396_safetysense_occurrence_reporting.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA Safety Sense Occurrence ReportingFebruary 26, 2025 — 1 Dec 2023 — This leaflet is intended as a guide for the reporting of safety...</p></details>
    Published: February 26, 2025  
 
 24. <a id="endnote-24"></a>
    Source: GOV.UK  
    Title: How to r  
-   Link: [https://www.gov.uk/report-an-aircraft-accident-or-serious-incident/](https://www.gov.uk/report-an-aircraft-accident-or-serious-incident/)  
+   Link: <a href="https://www.gov.uk/report-an-aircraft-accident-or-serious-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/report-an-aircraft-accident-or-serious-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an air accident or serious incident - GOV.UKDecember 4, 2004 — REPORT AN AIR ACCIDENT OR SERIOUS INCIDENT Information on how to report an...</p></details>
    Published: December 4, 2004  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena and Aviation Safety  
-   Link: [https://www.youtube.com/watch?v=F1l79rM3TqE](https://www.youtube.com/watch?v=F1l79rM3TqE)  
+   Link: <a href="https://www.youtube.com/watch?v=F1l79rM3TqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F1l79rM3TqE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Role in UAP Data and Aviation Safety Reporting...</p></details>

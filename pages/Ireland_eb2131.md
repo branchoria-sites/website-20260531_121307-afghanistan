@@ -1185,7 +1185,7 @@ next_link:
   title: Kazakhstan UFOs
   permalink: /what-is-really-seen-over-kazakhstan/
   short_title: Kazakhstan UFOs
-date: '2026-06-09 01:30:11 '
+date: '2026-06-10 01:55:35 '
 header:
   og_image: /assets/images/Ireland_eb2131-overview-social.jpg
   preview_image: /assets/images/Ireland_eb2131-overview.webp
@@ -1198,8 +1198,8 @@ In **2025 and early 2026**, a variety of unexplained aerial sightings were repor
 
 
 <img src="{{ "/assets/images/Ireland_eb2131-overview.webp" | relative_url }}" alt="Overview image for What Is Really Seen Over Ireland?" loading="eager" decoding="sync" fetchpriority="high">
-* Reports compiled by local phenomenon trackers across 2025 noted numerous lights, silent objects, and unusual motion patterns seen over counties including Dublin, Cork, Tipperary, Meath, and in rural Northern Ireland. These ranged from **bright orbs moving erratically** to a reported **large triangular object** with multiple lights over Dublin, all remaining unverified by independent instrumentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained.ie/article/1408-an-end-of-year-review-of-uap-and-ufo-sightings-in-ireland-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.ie">[Unexplained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.ie</span><span class="citation-popover-title">1408 an end of year review of uap and ufo sightings in ireland in 2025</span><span class="citation-popover-snippet">UnexplainedAn End of Year Review of UAP and UFO Sightings in Ireland in 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; Disapp...</span></span></span>
-* In **November 2025**, multiple accounts described small bright circular objects, fast lights, and dark orb‑like objects moving at high speed before disappearing. Witness accounts often emphasised silent observation and rapid changes in direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained.ie/article/1405-irelands-ufo-uap-sightings-november-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.ie">[Unexplained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.ie</span><span class="citation-popover-title">Ireland’s UFO/UAP Sightings</span><span class="citation-popover-snippet">UnexplainedIreland’s UFO/UAP Sightings - November 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; DisappearancesDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+* Reports compiled by local phenomenon trackers across 2025 noted numerous lights, silent objects, and unusual motion patterns seen over counties including Dublin, Cork, Tipperary, Meath, and in rural Northern Ireland. These ranged from **bright orbs moving erratically** to a reported **large triangular object** with multiple lights over Dublin, all remaining unverified by independent instrumentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained.ie/article/1408-an-end-of-year-review-of-uap-and-ufo-sightings-in-ireland-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.ie">[Unexplained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.ie</span><span class="citation-popover-title">1408 an end of year review of uap and ufo sightings in ireland in 2025</span><span class="citation-popover-snippet">An End of Year Review of UAP and UFO Sightings in Ireland in 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; Disapp...</span></span></span>
+* In **November 2025**, multiple accounts described small bright circular objects, fast lights, and dark orb‑like objects moving at high speed before disappearing. Witness accounts often emphasised silent observation and rapid changes in direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained.ie/article/1405-irelands-ufo-uap-sightings-november-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.ie">[Unexplained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.ie</span><span class="citation-popover-title">Ireland’s UFO/UAP Sightings</span><span class="citation-popover-snippet">Ireland’s UFO/UAP Sightings - November 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; DisappearancesDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 * [Official records]({{ 'official-records-febb58/' | relative_url }}) from the **Police Service of Northern Ireland (PSNI)** show **three separate UFO‑related reports in 2025**, including sightings of orange lights in a triangular formation and unidentified aerial objects near airports and in Coleraine; none were formally attributed to extraterrestrial sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterford-news.ie/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher_arid-82601.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterford-news.ie">[waterford-news.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterford-news.ie</span><span class="citation-popover-snippet">Three UFO reports to PSNI in 2025 but true number of sightings ‘may be higher’ - Homepage - Waterford News &amp; Star...</span></span></span>
 * Similar patterns appeared in 2024, with PSNI records noting three reports involving silent airborne objects with unusual lights around greater Belfast, though all were “noted for information” rather than treated as confirmed phenomena outside conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.echolive.ie/nationalnews/arid-41543017.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: echolive.ie">[echo live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">echolive.ie</span><span class="citation-popover-title">arid 41543017</span><span class="citation-popover-snippet">echo liveThree reported UFO sightings across greater Belfast in 2024December 25, 2024...</span><span class="citation-popover-meta">Published: December 25, 2024</span></span></span>
 
@@ -1220,7 +1220,7 @@ Historical local anecdotes also include older claims — for example, a revisite
 
 Ireland does not maintain a dedicated national UFO or UAP investigation body comparable to some other countries’ programmes. Instead:
 
-* **The Irish Aviation Authority** is the competent authority under occurrence reporting laws in Ireland; if an aerial sighting intersects with airspace safety concerns, it can be investigated under normal aviation reporting protocols. However, there is no publicly known dedicated UAP desk within Irish government bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oireachtas.ie/en/debates/question/2026-02-19/229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oireachtas.ie">[Oireachtas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oireachtas.ie</span><span class="citation-popover-snippet">OireachtasAir Services – Thursday, 19 Feb 202619 Feb 2026 — In Ireland, the competent authority under the occurrence reporting legislatio...</span></span></span>
+* **The Irish Aviation Authority** is the competent authority under occurrence reporting laws in Ireland; if an aerial sighting intersects with airspace safety concerns, it can be investigated under normal aviation reporting protocols. However, there is no publicly known dedicated UAP desk within Irish government bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oireachtas.ie/en/debates/question/2026-02-19/229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oireachtas.ie">[Oireachtas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oireachtas.ie</span><span class="citation-popover-snippet">Air Services – Thursday, 19 Feb 202619 Feb 2026 — In Ireland, the competent authority under the occurrence reporting legislatio...</span></span></span>
 * Freedom of Information records and government release logs indicate that when the public requests detailed UAP/UFO documentation, authorities may reply that relevant records are limited or nonexistent, reflecting the absence of a systematic archival programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.ie/media/g2qdahlo/freedom-of-information-log-non-personal-information-q4-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.ie">[Defence Forces]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.ie</span><span class="citation-popover-title">freedom of information log non personal information q4 2024</span><span class="citation-popover-snippet">h. Incident Responses and Investigations: Page 9. o Any... UAP/UFO activity held by Irish government entities.Read more...</span></span></span>
 
 Official investigations tend to frame such sightings as **aviation safety or public reports** rather than signals of extraterrestrial visitation. They also explicitly note the challenge of interpreting sporadic sightings without corroborating data.
@@ -1247,7 +1247,7 @@ Official investigations tend to frame such sightings as **aviation safety or pub
 * There are **no publicly verified artifacts, radar tracking matched to unknown craft with documented engineering capabilities**, or other physical evidence confirming that any sighting in Ireland represents non‑terrestrial technology. Public documentation shared by authorities is sparse, and detailed scientific investigation reports are rare.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5JXWh5bF5eg" title="Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer">Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME</a></p><p class="youtube-embed-meta">Channel: TIME &middot; Views: 151.3K &middot; Uploaded: November 2018 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5JXWh5bF5eg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HyK0RkUtUO8" title="Bizarre Night Of UFOs, Ireland 1993" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HyK0RkUtUO8" target="_blank" rel="noopener noreferrer">Bizarre Night Of UFOs, Ireland 1993</a></p><p class="youtube-embed-meta">Channel: CR&#x27;s Video Vaults &middot; Views: 7.3K &middot; Uploaded: July 2022 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HyK0RkUtUO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HyK0RkUtUO8">Open on YouTube</a></p></div></div></div>
 
 ## Cultural and Public Engagement
 
@@ -1282,86 +1282,44 @@ The lack of a centralised, publicly accessible UAP database in Ireland limits sy
 In conclusion, Ireland’s UFO/UAP records reflect a **rich tapestry of eyewitness accounts** and occasional aviation reports, but **do not contain verified evidence of extraterrestrial visitation**. Most incidents are compatible with known aerospace and natural phenomena, cultural storytelling, and observational misidentification, underscoring the need for careful contextual examination of each report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained.ie/article/1402-irelands-ufo-uap-sightings-october-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.ie">[Unexplained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.ie</span><span class="citation-popover-title">Ireland’s UFO/UAP Sightings</span><span class="citation-popover-snippet">October 2025 Alien Life &amp; UFO/UAPs Saturday 1st, November 2025 3 minute read. Irish Article/News In October 2025, unexplained aerial phen...</span><span class="citation-popover-meta">Published: October 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen Over Ireland?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really Seen Over Ireland?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong fit for a general Ireland UFO overview page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating varied sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Connects local sightings to wider global UAP interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Adds perspective on official handling of unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1395,75 +1353,71 @@ In conclusion, Ireland’s UFO/UAP records reflect a **rich tapestry of eyewitne
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-seen-over-ireland-ireland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-seen-over-ireland-ireland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-ireland-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ireland-ireland-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1678,178 +1632,178 @@ In conclusion, Ireland’s UFO/UAP records reflect a **rich tapestry of eyewitne
 1. <a id="endnote-1"></a>
    Source: unexplained.ie  
    Title: 1408 an end of year review of uap and ufo sightings in ireland in 2025  
-   Link: [https://www.unexplained.ie/article/1408-an-end-of-year-review-of-uap-and-ufo-sightings-in-ireland-in-2025/](https://www.unexplained.ie/article/1408-an-end-of-year-review-of-uap-and-ufo-sightings-in-ireland-in-2025/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UnexplainedAn End of Year Review of UAP and UFO Sightings in Ireland in 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; Disapp...</p></details>
+   Link: <a href="https://www.unexplained.ie/article/1408-an-end-of-year-review-of-uap-and-ufo-sightings-in-ireland-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1408-an-end-of-year-review-of-uap-and-ufo-sightings-in-ireland-in-2025/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An End of Year Review of UAP and UFO Sightings in Ireland in 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; Disapp...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: waterford-news.ie  
-   Link: [https://www.waterford-news.ie/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher_arid-82601.html](https://www.waterford-news.ie/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher_arid-82601.html)  
+   Link: <a href="https://www.waterford-news.ie/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher_arid-82601.html" target="_blank" rel="noopener noreferrer nofollow">https://www.waterford-news.ie/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher_arid-82601.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFO reports to PSNI in 2025 but true number of sightings ‘may be higher’ - Homepage - Waterford News &amp; Star...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unexplained.ie  
    Title: Ireland’s UFO/UAP Sightings  
-   Link: [https://www.unexplained.ie/article/1405-irelands-ufo-uap-sightings-november-2025/](https://www.unexplained.ie/article/1405-irelands-ufo-uap-sightings-november-2025/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UnexplainedIreland’s UFO/UAP Sightings - November 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; DisappearancesDecember 16, 2025...</p></details>
+   Link: <a href="https://www.unexplained.ie/article/1405-irelands-ufo-uap-sightings-november-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1405-irelands-ufo-uap-sightings-november-2025/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland’s UFO/UAP Sightings - November 2025 - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; DisappearancesDecember 16, 2025...</p></details>
    Published: December 16, 2025  
 
 4. <a id="endnote-4"></a>
    Source: independent.ie  
-   Link: [https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/a/129723730.html](https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/a/129723730.html)  
+   Link: <a href="https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/a/129723730.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/a/129723730.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Irish IndependentReports into UFO sightings over Co Kerry by pilots in 2018 &#x27;...May 19, 2022 — 19 May 2022 — Reports that the Irish Avia...</p></details>
    Published: May 19, 2022  
 
 5. <a id="endnote-5"></a>
    Source: ireland-live.ie  
    Title: aliens looking back on an alleged ufo sighting in tipperary in 1969  
-   Link: [https://www.ireland-live.ie/news/tipperary-live/2025728/aliens-looking-back-on-an-alleged-ufo-sighting-in-tipperary-in-1969.html](https://www.ireland-live.ie/news/tipperary-live/2025728/aliens-looking-back-on-an-alleged-ufo-sighting-in-tipperary-in-1969.html)  
+   Link: <a href="https://www.ireland-live.ie/news/tipperary-live/2025728/aliens-looking-back-on-an-alleged-ufo-sighting-in-tipperary-in-1969.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ireland-live.ie/news/tipperary-live/2025728/aliens-looking-back-on-an-alleged-ufo-sighting-in-tipperary-in-1969.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland LiveALIENS! Looking back on an alleged UFO sighting in Tipperary in 1969 - Ireland LiveFebruary 26, 2026...</p></details>
    Published: February 26, 2026  
 
 6. <a id="endnote-6"></a>
    Source: oireachtas.ie  
-   Link: [https://www.oireachtas.ie/en/debates/question/2026-02-19/229/](https://www.oireachtas.ie/en/debates/question/2026-02-19/229/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OireachtasAir Services – Thursday, 19 Feb 202619 Feb 2026 — In Ireland, the competent authority under the occurrence reporting legislatio...</p></details>
+   Link: <a href="https://www.oireachtas.ie/en/debates/question/2026-02-19/229/" target="_blank" rel="noopener noreferrer nofollow">https://www.oireachtas.ie/en/debates/question/2026-02-19/229/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Services – Thursday, 19 Feb 202619 Feb 2026 — In Ireland, the competent authority under the occurrence reporting legislatio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: independent.ie  
    Title: Irish Independent100 reports of UFO sightings | Irish Independent  
-   Link: [https://www.independent.ie/regionals/dublin/fingal/100-reports-of-ufo-sightings/27771649.html](https://www.independent.ie/regionals/dublin/fingal/100-reports-of-ufo-sightings/27771649.html)  
+   Link: <a href="https://www.independent.ie/regionals/dublin/fingal/100-reports-of-ufo-sightings/27771649.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/regionals/dublin/fingal/100-reports-of-ufo-sightings/27771649.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2004...</p></details>
    Published: January 30, 2004  
 
 8. <a id="endnote-8"></a>
    Source: unexplained.ie  
    Title: Ireland’s UFO/UAP Sightings  
-   Link: [https://www.unexplained.ie/article/1402-irelands-ufo-uap-sightings-october-2025/](https://www.unexplained.ie/article/1402-irelands-ufo-uap-sightings-october-2025/)  
+   Link: <a href="https://www.unexplained.ie/article/1402-irelands-ufo-uap-sightings-october-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1402-irelands-ufo-uap-sightings-october-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 2025 Alien Life &amp; UFO/UAPs Saturday 1st, November 2025 3 minute read. Irish Article/News In October 2025, unexplained aerial phen...</p></details>
    Published: October 2025  
 
 9. <a id="endnote-9"></a>
    Source: unexplained.ie  
    Title: Ireland’s UFO/UAP Sightings  
-   Link: [https://www.unexplained.ie/article/1321-irelands-ufo-uap-sightings-july-2025/](https://www.unexplained.ie/article/1321-irelands-ufo-uap-sightings-july-2025/)  
+   Link: <a href="https://www.unexplained.ie/article/1321-irelands-ufo-uap-sightings-july-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1321-irelands-ufo-uap-sightings-july-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2025 Alien Life &amp; UFO/UAPs Friday 1st, August 2025 2 minute read. Irish Article/News July 2025 has seen relatively few reported sigh...</p></details>
    Published: July 2025  
 
 10. <a id="endnote-10"></a>
    Source: unexplained.ie  
    Title: Ireland’s UFO/UAP Sightings  
-   Link: [https://www.unexplained.ie/article/1253-irelands-ufo-uap-sightings-may-2025/](https://www.unexplained.ie/article/1253-irelands-ufo-uap-sightings-may-2025/)  
+   Link: <a href="https://www.unexplained.ie/article/1253-irelands-ufo-uap-sightings-may-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1253-irelands-ufo-uap-sightings-may-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In May 2025, unexplained aerial phenomena were reported in different parts of Ireland. Witness...</p></details>
    Published: May 2025  
 
 11. <a id="endnote-11"></a>
    Source: unexplained.ie  
    Title: Ireland’s UFO/UAP Sightings  
-   Link: [https://www.unexplained.ie/article/1187-irelands-ufo-uap-sightings-march-2025/](https://www.unexplained.ie/article/1187-irelands-ufo-uap-sightings-march-2025/)  
+   Link: <a href="https://www.unexplained.ie/article/1187-irelands-ufo-uap-sightings-march-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1187-irelands-ufo-uap-sightings-march-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 2025 Alien Life &amp; UFO/UAPs Monday 31st, March 2025 3 minute read. Irish Article/News In March 2025, several reported unexplained ae...</p></details>
    Published: March 2025  
 
 12. <a id="endnote-12"></a>
    Source: unexplained.ie  
    Title: Ireland’s UFO/UAP Sightings  
-   Link: [https://www.unexplained.ie/article/1182-irelands-ufo-uap-sightings-january-2025/](https://www.unexplained.ie/article/1182-irelands-ufo-uap-sightings-january-2025/)  
+   Link: <a href="https://www.unexplained.ie/article/1182-irelands-ufo-uap-sightings-january-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1182-irelands-ufo-uap-sightings-january-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 2025 Alien Life &amp; UFO/UAPs Thursday 27th, March 2025 4 minute read. In January 2025, several reported unexplained aerial phenomena...</p></details>
    Published: January 2025  
 
 13. <a id="endnote-13"></a>
    Source: independent.ie  
-   Link: [https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html](https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html)  
+   Link: <a href="https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports into UFO sightings over Co Kerry by pilots in 2018 ‘inconclusive’ - IAA report | Irish IndependentMay 19, 2022 — REPORTS INTO UFO...</p></details>
    Published: May 19, 2022  
 
 14. <a id="endnote-14"></a>
    Source: independent.ie  
-   Link: [https://www.independent.ie/irish-news/forget-the-skies-look-to-the-files-for-alien-activity/28952247.html](https://www.independent.ie/irish-news/forget-the-skies-look-to-the-files-for-alien-activity/28952247.html)  
+   Link: <a href="https://www.independent.ie/irish-news/forget-the-skies-look-to-the-files-for-alien-activity/28952247.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/irish-news/forget-the-skies-look-to-the-files-for-alien-activity/28952247.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forget the skies – look to the files for alien activity | Irish IndependentDecember 29, 2012 — FORGET THE SKIES – LOOK TO THE FILES FOR A...</p></details>
    Published: December 29, 2012  
 
 15. <a id="endnote-15"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — The Ministry of Defence closed its UFO desk and &quot;hotline&quot; in a year when sigh...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskIreland/comments/1rqq8zg/ufos_in_ireland/](https://www.reddit.com/r/AskIreland/comments/1rqq8zg/ufos_in_ireland/)  
+   Link: <a href="https://www.reddit.com/r/AskIreland/comments/1rqq8zg/ufos_in_ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskIreland/comments/1rqq8zg/ufos_in_ireland/</a>  
 
 17. <a id="endnote-17"></a>
    Source: echolive.ie  
    Title: arid 41543017  
-   Link: [https://www.echolive.ie/nationalnews/arid-41543017.html](https://www.echolive.ie/nationalnews/arid-41543017.html)  
+   Link: <a href="https://www.echolive.ie/nationalnews/arid-41543017.html" target="_blank" rel="noopener noreferrer nofollow">https://www.echolive.ie/nationalnews/arid-41543017.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>echo liveThree reported UFO sightings across greater Belfast in 2024December 25, 2024...</p></details>
    Published: December 25, 2024  
 
 18. <a id="endnote-18"></a>
    Source: military.ie  
    Title: freedom of information log non personal information q4 2024  
-   Link: [https://www.military.ie/media/g2qdahlo/freedom-of-information-log-non-personal-information-q4-2024.pdf](https://www.military.ie/media/g2qdahlo/freedom-of-information-log-non-personal-information-q4-2024.pdf)  
+   Link: <a href="https://www.military.ie/media/g2qdahlo/freedom-of-information-log-non-personal-information-q4-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.military.ie/media/g2qdahlo/freedom-of-information-log-non-personal-information-q4-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h. Incident Responses and Investigations: Page 9. o Any... UAP/UFO activity held by Irish government entities.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thesun.ie  
-   Link: [https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/](https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/)  
+   Link: <a href="https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual light, described as a slow-moving object with no noise and distinctive illumination, was reported in multiple counties includ...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: irishnews.com  
-   Link: [https://www.irishnews.com/news/northern-ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-LI5JERQGTBBJDFJE7RYDOBGDEY/](https://www.irishnews.com/news/northern-ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-LI5JERQGTBBJDFJE7RYDOBGDEY/)  
+   Link: <a href="https://www.irishnews.com/news/northern-ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-LI5JERQGTBBJDFJE7RYDOBGDEY/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishnews.com/news/northern-ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-LI5JERQGTBBJDFJE7RYDOBGDEY/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFO reports to PSNI in 2025 but true number of sightings ‘may be higher’ – The Irish NewsJanuary 1, 2026 — THREE UFO REPORTS TO PSN...</p></details>
    Published: January 1, 2026  
 
 21. <a id="endnote-21"></a>
    Source: breakingnews.ie  
-   Link: [https://www.breakingnews.ie/ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-1847337.html](https://www.breakingnews.ie/ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-1847337.html)  
+   Link: <a href="https://www.breakingnews.ie/ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-1847337.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/three-ufo-reports-to-psni-in-2025-but-true-number-of-sightings-may-be-higher-1847337.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFO reports to PSNI in 2025 but true number of sightings ‘may be higher’January 1, 2026 — Northern Ireland THREE UFO REPORTS TO PSN...</p></details>
    Published: January 1, 2026  
 
 22. <a id="endnote-22"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain&#x27;s Ministry of Defense shed f...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: irishcentral.com  
    Title: british declassify top secret irish ufo files 53575592 237655371  
-   Link: [https://www.irishcentral.com/news/british-declassify-top-secret-irish-ufo-files-53575592-237655371](https://www.irishcentral.com/news/british-declassify-top-secret-irish-ufo-files-53575592-237655371)  
+   Link: <a href="https://www.irishcentral.com/news/british-declassify-top-secret-irish-ufo-files-53575592-237655371" target="_blank" rel="noopener noreferrer nofollow">https://www.irishcentral.com/news/british-declassify-top-secret-irish-ufo-files-53575592-237655371</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British declassify top secret Irish UFO files | IrishCentral.comApril 8, 2014 — BRITISH DECLASSIFY TOP SECRET IRISH UFO FILES THE FIRST S...</p></details>
    Published: April 8, 2014  
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots](https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots)  
+   Link: <a href="https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph: Matt Anderson Photography/Getty Images View image in fullscreen At least three pilots ar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: euronews.com  
    Title: UF O sightings reported by pilots over Ireland | Euronews  
-   Link: [https://www.euronews.com/2018/11/13/ufo-sightings-reported-by-pilots-over-ireland](https://www.euronews.com/2018/11/13/ufo-sightings-reported-by-pilots-over-ireland)  
+   Link: <a href="https://www.euronews.com/2018/11/13/ufo-sightings-reported-by-pilots-over-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2018/11/13/ufo-sightings-reported-by-pilots-over-ireland</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings reported by pilots over Ireland | EuronewsNovember 13, 2018 — UFO SIGHTINGS REPORTED BY PILOTS OVER IRELAND Image: Reuters...</p></details>
    Published: November 13, 2018  
 
 26. <a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2009. The UFO files - The inside story of real-life sightings by Dr Clarke...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VirginMediaNews/posts/investigation-launched-after-ufo-spotted-over-ireland/2435771873104056/](https://www.facebook.com/VirginMediaNews/posts/investigation-launched-after-ufo-spotted-over-ireland/2435771873104056/)  
+   Link: <a href="https://www.facebook.com/VirginMediaNews/posts/investigation-launched-after-ufo-spotted-over-ireland/2435771873104056/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VirginMediaNews/posts/investigation-launched-after-ufo-spotted-over-ireland/2435771873104056/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identified flying object (UFO) by a number of aircraft off the...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/irishtimes/posts/nick-pope-who-used-to-investigate-reports-of-ufo-sightings-for-the-ministry-of-d/767707972054123/](https://www.facebook.com/irishtimes/posts/nick-pope-who-used-to-investigate-reports-of-ufo-sightings-for-the-ministry-of-d/767707972054123/)  
+   Link: <a href="https://www.facebook.com/irishtimes/posts/nick-pope-who-used-to-investigate-reports-of-ufo-sightings-for-the-ministry-of-d/767707972054123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishtimes/posts/nick-pope-who-used-to-investigate-reports-of-ufo-sightings-for-the-ministry-of-d/767707972054123/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nce (MoD), described the figures as “staggeringly low” and...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: clarepeople.ie  
    Title: OCR mistakes are to be expected so download t  
-   Link: [https://www.clarepeople.ie/2013/01/08/keep-an-eye-out-for-ufo-sightings/](https://www.clarepeople.ie/2013/01/08/keep-an-eye-out-for-ufo-sightings/)  
+   Link: <a href="https://www.clarepeople.ie/2013/01/08/keep-an-eye-out-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.clarepeople.ie/2013/01/08/keep-an-eye-out-for-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep an eye out for UFO sightings - The Clare People ArchiveJanuary 8, 2013 — KEEP AN EYE OUT FOR UFO SIGHTINGS * By admin * January 8, 2...</p></details>
    Published: January 8, 2013  

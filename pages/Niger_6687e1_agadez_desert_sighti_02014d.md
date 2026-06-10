@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-8b941f/
   short_title: Explanations
   heading_title: What Else Could Niger Witnesses Be Seeing?
-date: '2026-06-09 01:35:58 '
+date: '2026-06-10 02:02:32 '
 header:
   og_image: /assets/images/Niger_6687e1_agadez_desert_sighti_02014d-Illustration-1-social.jpg
   preview_image: /assets/images/Niger_6687e1_agadez_desert_sighti_02014d-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Niger_6687e1_agadez_desert_sighti_02014d-Illustration-1-so
 
 ## Introduction
 
-Agadez is the region most frequently associated with UFO stories in [Niger]({{ 'what-is-really-known-about-niger-ufos/' | relative_url }}), yet it is also the place where ordinary [explanations]({{ 'explanations-8b941f/' | relative_url }}) are especially difficult to separate from extraordinary claims. Vast desert horizons, exceptionally dark skies, uranium-mining infrastructure, military aviation, and long-distance visibility all create conditions in which unusual lights can be observed without easy identification. At the same time, northern Niger has generated persistent speculation that uranium deposits, mining operations, or foreign security activity might somehow be linked to unexplained aerial phenomena.
+Agadez is the region most frequently associated with UFO stories in Niger, yet it is also the place where ordinary [explanations]({{ 'explanations-8b941f/' | relative_url }}) are especially difficult to separate from extraordinary claims. Vast desert horizons, exceptionally dark skies, uranium-mining infrastructure, military aviation, and long-distance visibility all create conditions in which unusual lights can be observed without easy identification. At the same time, northern Niger has generated persistent speculation that uranium deposits, mining operations, or foreign security activity might somehow be linked to unexplained aerial phenomena.
 
 
 <img src="{{ "/assets/images/Niger_6687e1_agadez_desert_sighti_02014d-Illustration-1-dark.svg" | relative_url }}" alt="Agadez illustration 1" data-theme-src-dark="{{ "/assets/images/Niger_6687e1_agadez_desert_sighti_02014d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Niger_6687e1_agadez_desert_sighti_02014d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ First, uranium mining carries an aura of secrecy and strategic value. For decade
 
 Second, global UFO literature has repeatedly focused on nuclear sites. Readers familiar with stories from the United States, Russia, or the United Kingdom often project the same assumptions onto Niger's uranium regions, even when local evidence is sparse.
 
-Third, environmental and health controversies surrounding uranium extraction have encouraged broader suspicions about what might be occurring in remote mining areas. Independent researchers and advocacy groups have documented disputes over contamination, radiation exposure, water use, and long-term environmental effects around Arlit and Akokan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclear-risks.org/en/hibakusha-worldwide/arlit-akokan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclear-risks.org">[nuclear-risks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclear-risks.org</span><span class="citation-popover-title">Arlit &amp; Akokan (Niger</span><span class="citation-popover-snippet">NUCLEAR-RISKSIn mining cities like Arlit and Akokan, independent researchers have found increased cancer rates as a result of radioactive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ejatlas.org/print/areva-uranium-mines-in-agadez-niger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejatlas.org">[Ej Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejatlas.org</span><span class="citation-popover-title">areva uranium mines in agadez niger</span><span class="citation-popover-snippet">Areva Uranium Mines in Agadez, Niger25 Apr 2022 — The French nuclear giant Areva started mining activities in the Agadez Region of Niger...</span></span></span>
+Third, environmental and health controversies surrounding uranium extraction have encouraged broader suspicions about what might be occurring in remote mining areas. Independent researchers and advocacy groups have documented disputes over contamination, radiation exposure, water use, and long-term environmental effects around Arlit and Akokan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclear-risks.org/en/hibakusha-worldwide/arlit-akokan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclear-risks.org">[nuclear-risks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclear-risks.org</span><span class="citation-popover-title">Arlit &amp; Akokan (Niger</span><span class="citation-popover-snippet">In mining cities like Arlit and Akokan, independent researchers have found increased cancer rates as a result of radioactive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ejatlas.org/print/areva-uranium-mines-in-agadez-niger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejatlas.org">[Ej Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejatlas.org</span><span class="citation-popover-title">areva uranium mines in agadez niger</span><span class="citation-popover-snippet">Areva Uranium Mines in Agadez, Niger25 Apr 2022 — The French nuclear giant Areva started mining activities in the Agadez Region of Niger...</span></span></span>
 
 These concerns are real and documented, but they should not be confused with evidence for UFO activity. In practice, the uranium-UFO connection remains a cultural and speculative narrative rather than an established finding.
 
@@ -385,86 +385,44 @@ Second, uranium-mining areas around Arlit and Akokan have become central to UFO 
 Third, the strongest documented factors behind many Agadez claims are likely to be conventional: military aircraft, drone operations, industrial activity, astronomical objects, and the unique observational conditions of the Sahara. The public record contains speculation and recurring narratives, but it does not contain a robust catalogue of investigated cases demonstrating unexplained technology or extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voanews.com/a/africa_us-constructed-air-base-niger-begins-operations/6178666.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voanews.com">[Voice of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voanews.com</span><span class="citation-popover-title">Voice of America US-Constructed Air Base in Niger Begins Operations</span><span class="citation-popover-snippet">Voice of AmericaUS-Constructed Air Base in Niger Begins OperationsNovember 1, 2019 — 1 Nov 2019 — The new US-constructed air base in Agad...</span><span class="citation-popover-meta">Published: November 1, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us military completes withdrawal key drone base niger 2024 08 05</span><span class="citation-popover-snippet">military completes withdrawal from key drone base in NigerThe United States military has completed its withdrawal from air base 201 in Ni...</span></span></span> Within the broader study of UFO reports in Niger, Agadez remains important not because it offers the country's strongest evidence, but because it illustrates how geography, mining, security infrastructure, and local interpretation can combine to generate persistent stories in the absence of definitive proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Agadez UFO Claims Keep Appearing?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Agadez UFO Claims Keep Appearing?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines large numbers of reports and competing explanations for unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how witnesses misinterpret unusual aerial observations and how investigators assess reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on evaluating evidence quality, useful for separating claims from documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Discusses patterns behind recurring UFO narratives and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -498,75 +456,71 @@ Third, the strongest documented factors behind many Agadez claims are likely to 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=agadez-why-do-agadez-ufo-claims-keep-appearing-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -780,128 +734,128 @@ Third, the strongest documented factors behind many Agadez claims are likely to 
 
 1. <a id="endnote-1"></a>
    Source: world-nuclear.org  
-   Link: [https://world-nuclear.org/information-library/country-profiles/countries-g-n/niger](https://world-nuclear.org/information-library/country-profiles/countries-g-n/niger)  
+   Link: <a href="https://world-nuclear.org/information-library/country-profiles/countries-g-n/niger" target="_blank" rel="noopener noreferrer nofollow">https://world-nuclear.org/information-library/country-profiles/countries-g-n/niger</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Nuclear AssociationUranium in NigerNiger has a cumulative uranium production of 158,889 tU from 1945-2024, ranking it 9th globally...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuclear-risks.org  
    Title: Arlit & Akokan (Niger)  
-   Link: [https://www.nuclear-risks.org/en/hibakusha-worldwide/arlit-akokan.html](https://www.nuclear-risks.org/en/hibakusha-worldwide/arlit-akokan.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUCLEAR-RISKSIn mining cities like Arlit and Akokan, independent researchers have found increased cancer rates as a result of radioactive...</p></details>
+   Link: <a href="https://www.nuclear-risks.org/en/hibakusha-worldwide/arlit-akokan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuclear-risks.org/en/hibakusha-worldwide/arlit-akokan.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In mining cities like Arlit and Akokan, independent researchers have found increased cancer rates as a result of radioactive...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: vcsaf visits nigerien air base 201  
-   Link: [https://www.af.mil/News/Article-Display/Article/2024180/vcsaf-visits-nigerien-air-base-201/](https://www.af.mil/News/Article-Display/Article/2024180/vcsaf-visits-nigerien-air-base-201/)  
+   Link: <a href="https://www.af.mil/News/Article-Display/Article/2024180/vcsaf-visits-nigerien-air-base-201/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2024180/vcsaf-visits-nigerien-air-base-201/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Nov 2019 — Nigerien AB 201 is also the first-ever U.S. Air Force category one airfield to use all solar-powered airfield lighting and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
    Title: us military completes withdrawal key drone base niger 2024 08 05  
-   Link: [https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/](https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/)  
+   Link: <a href="https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>military completes withdrawal from key drone base in NigerThe United States military has completed its withdrawal from air base 201 in Ni...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dodig.mil  
-   Link: [https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/](https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/)  
+   Link: <a href="https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Niger Air Base 201 Military Construction...31 Mar 2020 — Air Base 201 is a military installation in the desert in Agadez...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The hidden Impact of Uranium Mining in Niger | Seed Documentary  
-   Link: [https://www.youtube.com/watch?v=KS2bAuQrjU0](https://www.youtube.com/watch?v=KS2bAuQrjU0)  
+   Link: <a href="https://www.youtube.com/watch?v=KS2bAuQrjU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KS2bAuQrjU0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Base 201...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Air Base 201  
-   Link: [https://www.youtube.com/watch?v=TdGW7mvGBIg](https://www.youtube.com/watch?v=TdGW7mvGBIg)  
+   Link: <a href="https://www.youtube.com/watch?v=TdGW7mvGBIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TdGW7mvGBIg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ftm.eu  
-   Link: [https://www.ftm.eu/articles/uranium-mine-in-niger](https://www.ftm.eu/articles/uranium-mine-in-niger)  
+   Link: <a href="https://www.ftm.eu/articles/uranium-mine-in-niger" target="_blank" rel="noopener noreferrer nofollow">https://www.ftm.eu/articles/uranium-mine-in-niger</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>France sources this from places like Arlit in northern Niger, one of the poorest countries in the world.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ejatlas.org  
    Title: areva uranium mines in agadez niger  
-   Link: [https://ejatlas.org/print/areva-uranium-mines-in-agadez-niger](https://ejatlas.org/print/areva-uranium-mines-in-agadez-niger)  
+   Link: <a href="https://ejatlas.org/print/areva-uranium-mines-in-agadez-niger" target="_blank" rel="noopener noreferrer nofollow">https://ejatlas.org/print/areva-uranium-mines-in-agadez-niger</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Areva Uranium Mines in Agadez, Niger25 Apr 2022 — The French nuclear giant Areva started mining activities in the Agadez Region of Niger...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: voanews.com  
    Title: Voice of America US-Constructed Air Base in Niger Begins Operations  
-   Link: [https://www.voanews.com/a/africa_us-constructed-air-base-niger-begins-operations/6178666.html](https://www.voanews.com/a/africa_us-constructed-air-base-niger-begins-operations/6178666.html)  
+   Link: <a href="https://www.voanews.com/a/africa_us-constructed-air-base-niger-begins-operations/6178666.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voanews.com/a/africa_us-constructed-air-base-niger-begins-operations/6178666.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of AmericaUS-Constructed Air Base in Niger Begins OperationsNovember 1, 2019 — 1 Nov 2019 — The new US-constructed air base in Agad...</p></details>
    Published: November 1, 2019  
 
 11. <a id="endnote-11"></a>
    Source: airandspaceforces.com  
    Title: Air & Space Forces Magazine US Closes Last Drone Base in Niger  
-   Link: [https://www.airandspaceforces.com/us-closes-last-drone-base-niger/](https://www.airandspaceforces.com/us-closes-last-drone-base-niger/)  
+   Link: <a href="https://www.airandspaceforces.com/us-closes-last-drone-base-niger/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/us-closes-last-drone-base-niger/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>closed its last base in Niger, Air Base 201, which conducted ISR operations with MQ-9s on American counter-terrorism missions...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Niger Air Base 201  
-   Link: [https://en.wikipedia.org/wiki/Niger_Air_Base_201](https://en.wikipedia.org/wiki/Niger_Air_Base_201)  
+   Link: <a href="https://en.wikipedia.org/wiki/Niger_Air_Base_201" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Niger_Air_Base_201</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Niger Air Base 201The base is about 5 km southeast of Agadez. The Nigerien military controls the base, but was built and paid for by t...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: orano.group  
-   Link: [https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites](https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites)  
+   Link: <a href="https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Niger Mining SitesUranium mines · Uranium transformation · Used fuel · Service and engineering activities · Orano Meds&#x27; sites · Laborator...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: media.corporate-ir.net  
-   Link: [https://media.corporate-ir.net/media_files/IROL/17/176316/Agadez%20Exploration%20%28Niger%29.pdf](https://media.corporate-ir.net/media_files/IROL/17/176316/Agadez%20Exploration%20%28Niger%29.pdf)  
+   Link: <a href="https://media.corporate-ir.net/media_files/IROL/17/176316/Agadez%20Exploration%20%28Niger%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.corporate-ir.net/media_files/IROL/17/176316/Agadez%20Exploration%20%28Niger%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExplorationUranium mineralisation has been known to occur in the. Palaeo/Mesozoic Tim Mersoï Basin in Central Niger (West. Africa) since...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: lemonde.fr  
    Title: how a uranium supply coveted by russia ended up in limbo in niger 6749504 124  
-   Link: [https://www.lemonde.fr/en/le-monde-africa/article/2026/01/16/how-a-uranium-supply-coveted-by-russia-ended-up-in-limbo-in-niger_6749504_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2026/01/16/how-a-uranium-supply-coveted-by-russia-ended-up-in-limbo-in-niger_6749504_124.html)  
+   Link: <a href="https://www.lemonde.fr/en/le-monde-africa/article/2026/01/16/how-a-uranium-supply-coveted-by-russia-ended-up-in-limbo-in-niger_6749504_124.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/le-monde-africa/article/2026/01/16/how-a-uranium-supply-coveted-by-russia-ended-up-in-limbo-in-niger_6749504_124.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How a uranium supply coveted by Russia ended up in...16 Jan 2026 — A convoy of trucks loaded with 1000 metric tons of uranium concentrat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aljazeera.com  
    Title: niger nationalises uranium mine as spat with french nuclear giant worsens  
-   Link: [https://www.aljazeera.com/news/2025/6/20/niger-nationalises-uranium-mine-as-spat-with-french-nuclear-giant-worsens](https://www.aljazeera.com/news/2025/6/20/niger-nationalises-uranium-mine-as-spat-with-french-nuclear-giant-worsens)  
+   Link: <a href="https://www.aljazeera.com/news/2025/6/20/niger-nationalises-uranium-mine-as-spat-with-french-nuclear-giant-worsens" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/6/20/niger-nationalises-uranium-mine-as-spat-with-french-nuclear-giant-worsens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Niger to nationalise uranium mine operated by French...20 Jun 2025 — Niger plans to nationalise a uranium mine operated by French nuclea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: businessinsider.com  
    Title: a visit to the saharas uranium capital arlit 2016 2  
-   Link: [https://www.businessinsider.com/a-visit-to-the-saharas-uranium-capital-arlit-2016-2](https://www.businessinsider.com/a-visit-to-the-saharas-uranium-capital-arlit-2016-2)  
+   Link: <a href="https://www.businessinsider.com/a-visit-to-the-saharas-uranium-capital-arlit-2016-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/a-visit-to-the-saharas-uranium-capital-arlit-2016-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit to the Sahara&#x27;s Uranium Capital, Arlit22 Feb 2016 — If many in northern Niger have given up on seeing their region transformed thro...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: valdaiclub.com  
    Title: niger s uranium mines and prospects for russia  
-   Link: [https://valdaiclub.com/a/highlights/niger-s-uranium-mines-and-prospects-for-russia/](https://valdaiclub.com/a/highlights/niger-s-uranium-mines-and-prospects-for-russia/)  
+   Link: <a href="https://valdaiclub.com/a/highlights/niger-s-uranium-mines-and-prospects-for-russia/" target="_blank" rel="noopener noreferrer nofollow">https://valdaiclub.com/a/highlights/niger-s-uranium-mines-and-prospects-for-russia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Niger&#x27;s Uranium Mines and Prospects for Russia31 Oct 2025 — On September 25, 2025, Niger&#x27;s Minister of Mines proposed that Russia assist...</p></details>
    Published: September 25, 2025  
 
 19. <a id="endnote-19"></a>
    Source: wellsbringhope.org  
-   Link: [https://wellsbringhope.org/uranium-mines-in-niger-blessing-or-silent-killer/](https://wellsbringhope.org/uranium-mines-in-niger-blessing-or-silent-killer/)  
+   Link: <a href="https://wellsbringhope.org/uranium-mines-in-niger-blessing-or-silent-killer/" target="_blank" rel="noopener noreferrer nofollow">https://wellsbringhope.org/uranium-mines-in-niger-blessing-or-silent-killer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wells Bring HopeUranium Mines in Niger: Blessing or Silent Killer?2 Jun 2020 — AREVA has used over 270 billion liters of water in the min...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: modernghana.com  
    Title: report investigation context uranium mining  
-   Link: [https://www.modernghana.com/news/1475283/report-investigation-context-uranium-mining.html](https://www.modernghana.com/news/1475283/report-investigation-context-uranium-mining.html)  
+   Link: <a href="https://www.modernghana.com/news/1475283/report-investigation-context-uranium-mining.html" target="_blank" rel="noopener noreferrer nofollow">https://www.modernghana.com/news/1475283/report-investigation-context-uranium-mining.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report &amp; Investigation Context: Uranium Mining in Arlit, Niger2 Mar 2026 — Previous NGO studies (e.g., CRIIRAD) have shown elevated level...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Blacksregion/posts/united-states-of-america-had-built-a-110-million-military-drone-base-in-agadez-n/679379147540460/](https://www.facebook.com/Blacksregion/posts/united-states-of-america-had-built-a-110-million-military-drone-base-in-agadez-n/679379147540460/)  
+   Link: <a href="https://www.facebook.com/Blacksregion/posts/united-states-of-america-had-built-a-110-million-military-drone-base-in-agadez-n/679379147540460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Blacksregion/posts/united-states-of-america-had-built-a-110-million-military-drone-base-in-agadez-n/679379147540460/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States of America had built a $110 million military...United States of America had built a $110 million military drone base in Ag...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DepartmentofWar/posts/united-states-air-force-air-advisors-deployed-to-nigerien-air-base-201-agadez-ni/10157060047215719/](https://www.facebook.com/DepartmentofWar/posts/united-states-air-force-air-advisors-deployed-to-nigerien-air-base-201-agadez-ni/10157060047215719/)  
+   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/united-states-air-force-air-advisors-deployed-to-nigerien-air-base-201-agadez-ni/10157060047215719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/united-states-air-force-air-advisors-deployed-to-nigerien-air-base-201-agadez-ni/10157060047215719/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Air Force air advisors deployed to Nigerien...United States of America had built a $110 million military drone base in Aga...</p></details>

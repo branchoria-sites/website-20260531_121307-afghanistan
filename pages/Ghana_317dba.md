@@ -1185,7 +1185,7 @@ next_link:
   title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
   short_title: Comoros UFOs
-date: '2026-06-09 01:27:48 '
+date: '2026-06-10 01:52:35 '
 header:
   og_image: /assets/images/Ghana_317dba-overview-social.jpg
   preview_image: /assets/images/Ghana_317dba-overview.webp
@@ -1232,7 +1232,7 @@ Modern Ghana also has more ordinary reasons for unidentified aerial reports than
 
 ## Why the geography of the 1987 sighting matters
 
-The reported [1987 sighting]({{ '1987-sighting/' | relative_url }}) was not randomly distributed across Ghana. It clustered in the south-east: Accra, the Volta Region and the Gulf of Guinea. That matters because an object moving across the sky over the coastal south could be visible to observers across a broad line of sight, while the ocean horizon would make the final disappearance especially striking. Ghana sits on the Gulf of Guinea, with the Atlantic Ocean to the south and Togo to the east, so a south-eastern sky track naturally connects Accra, Volta-area observations and the sea horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Ghana | Religion, Capital, Maps, Language, Currency,</span><span class="citation-popover-snippet">Encyclopedia Britannica Ghana | Religion, Capital, Maps, Language, Currency,</span></span></span>
+The reported [1987 sighting]({{ '1987-sighting/' | relative_url }}) was not randomly distributed across Ghana. It clustered in the south-east: Accra, the Volta Region and the Gulf of Guinea. That matters because an object moving across the sky over the coastal south could be visible to observers across a broad line of sight, while the ocean horizon would make the final disappearance especially striking. Ghana sits on the Gulf of Guinea, with the Atlantic Ocean to the south and Togo to the east, so a south-eastern sky track naturally connects Accra, Volta-area observations and the sea horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Ghana &#124; Religion, Capital, Maps, Language, Currency,</span><span class="citation-popover-snippet">Encyclopedia Britannica Ghana &#124; Religion, Capital, Maps, Language, Currency,</span></span></span>
 
 The witness descriptions also show why region-level variation can be misleading. People in different locations may have been seeing the same high-altitude event from different angles, under different local noise and visibility conditions. Some reports included explosion-like sounds, others did not. The pilot near Accra described a silent object, while second-hand reports referred to possible sonic booms. That is not necessarily a contradiction; sound from high-altitude fragmentation can be delayed, directional, or noticed by some observers and missed by others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
@@ -1267,86 +1267,44 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
 <img src="{{ "/assets/images/Ghana_317dba-Illustration-3-dark.svg" | relative_url }}" alt="Ghana illustration 3" data-theme-src-dark="{{ "/assets/images/Ghana_317dba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ghana_317dba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over South Eastern Ghana in 1987?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened Over South Eastern Ghana in 1987?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Features aviation and official-witness cases similar to the Ghana incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for evaluating multi-witness sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful context for official analysis of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores how governments and witnesses document unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1380,75 +1338,71 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster"><img src="{{ '/assets/images/marketplace-covers/6af97eef9a3921628330.jpg' | relative_url }}" alt="Listing image for Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Sighting Retro Sci-Fi Alien Poster"><img src="{{ '/assets/images/marketplace-covers/f57f47c8b7356c2cb098.jpg' | relative_url }}" alt="Listing image for Desert UFO Sighting Retro Sci-Fi Alien Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Sighting Retro Sci-Fi Alien Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Sci-Fi Alien Abduction Poster, UAP Cryptid Decor"><img src="{{ '/assets/images/marketplace-covers/fe001d0e6e6864408a6a.jpg' | relative_url }}" alt="Listing image for Vintage UFO SIGHTING Wall Art, Sci-Fi Alien Abduction Poster, UAP Cryptid Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Sci-Fi Alien Abduction Poster, UAP Cryptid Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghana-what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1663,266 +1617,266 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
 1. <a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: ghana ufos dia 1987  
-   Link: [https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf](https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/node/44081/printable/print](https://aerospace.org/node/44081/printable/print)  
+   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
 3. <a id="endnote-3"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: [https://orbitaldebris.jsc.nasa.gov/reentry/](https://orbitaldebris.jsc.nasa.gov/reentry/)  
+   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
 4. <a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/dia/](https://documents2.theblackvault.com/documents/dia/)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 7. <a id="endnote-7"></a>
    Source: gcaa.com.gh  
    Title: GHAN A CIVIL AVIATION AUTHORITY REMOTELY PILOTED  
-   Link: [https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf](https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf)  
+   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: meteo.gov.gh  
-   Link: [https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/](https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/)  
+   Link: <a href="https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/</a>  
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Ghana | Religion, Capital, Maps, Language, Currency,  
-   Link: [https://www.britannica.com/place/Ghana](https://www.britannica.com/place/Ghana)  
+   Link: <a href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ghana</a>  
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Gulf-of-Guinea](https://www.britannica.com/place/Gulf-of-Guinea)  
+   Link: <a href="https://www.britannica.com/place/Gulf-of-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gulf-of-Guinea</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 13. <a id="endnote-13"></a>
    Source: gcaa.com.gh  
    Title: AVSEC PART 1  
-   Link: [https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf](https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf)  
+   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: gcaa.com.gh  
-   Link: [https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf](https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf)  
+   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: gcaa.com.gh  
-   Link: [https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf](https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf)  
+   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: census2021.statsghana.gov.gh  
    Title: Volume 3 Highlights  
-   Link: [https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf](https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf)  
+   Link: <a href="https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: statsbank.statsghana.gov.gh  
    Title: statsghana.gov.gh Population Projections  
-   Link: [https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/](https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/)  
+   Link: <a href="https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/" target="_blank" rel="noopener noreferrer nofollow">https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/</a>  
 
 18. <a id="endnote-18"></a>
    Source: www2.statsghana.gov.gh  
    Title: statsghana.gov.gh Ghana Statical Service  
-   Link: [https://www2.statsghana.gov.gh/ContactUs_Others.html](https://www2.statsghana.gov.gh/ContactUs_Others.html)  
+   Link: <a href="https://www2.statsghana.gov.gh/ContactUs_Others.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.statsghana.gov.gh/ContactUs_Others.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200206](https://nuforc.org/subndx/?id=e200206)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200206" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200206</a>  
 
 22. <a id="endnote-22"></a>
    Source: kids.britannica.com  
-   Link: [https://kids.britannica.com/students/article/Ghana/274545](https://kids.britannica.com/students/article/Ghana/274545)  
+   Link: <a href="https://kids.britannica.com/students/article/Ghana/274545" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Ghana/274545</a>  
 
 23. <a id="endnote-23"></a>
    Source: britannica.com  
    Title: Gulf of Guinea  
-   Link: [https://www.britannica.com/summary/Gulf-of-Guinea](https://www.britannica.com/summary/Gulf-of-Guinea)  
+   Link: <a href="https://www.britannica.com/summary/Gulf-of-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Gulf-of-Guinea</a>  
 
 24. <a id="endnote-24"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/facts/Ghana](https://www.britannica.com/facts/Ghana)  
+   Link: <a href="https://www.britannica.com/facts/Ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/facts/Ghana</a>  
 
 25. <a id="endnote-25"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries](https://aerospace.org/reentries)  
+   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: declassified ufo sightings  
-   Link: [https://www.space.com/declassified-ufo-sightings](https://www.space.com/declassified-ufo-sightings)  
+   Link: <a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
 
 27. <a id="endnote-27"></a>
    Source: meteo.gov.gh  
-   Link: [https://www.meteo.gov.gh/alerts/harmattan-intensification/](https://www.meteo.gov.gh/alerts/harmattan-intensification/)  
+   Link: <a href="https://www.meteo.gov.gh/alerts/harmattan-intensification/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.gh/alerts/harmattan-intensification/</a>  
 
 28. <a id="endnote-28"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: HOOSF 16e  
-   Link: [https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf](https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf)  
+   Link: <a href="https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: quarterly news  
-   Link: [https://orbitaldebris.jsc.nasa.gov/quarterly-news/](https://orbitaldebris.jsc.nasa.gov/quarterly-news/)  
+   Link: <a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/</a>  
 
 30. <a id="endnote-30"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 31. <a id="endnote-31"></a>
    Source: war.gov  
    Title: exercise obangame express 2018 starts  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/](https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 33. <a id="endnote-33"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 34. <a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 35. <a id="endnote-35"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/](https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
 
 36. <a id="endnote-36"></a>
    Source: aibghana.gov.gh  
-   Link: [https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf](https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf)  
+   Link: <a href="https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: mofep.gov.gh  
-   Link: [https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf](https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf)  
+   Link: <a href="https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: time.com  
    Title: ghana africa fast fashion waste pollution  
-   Link: [https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/](https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/)  
+   Link: <a href="https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/</a>  
 
 39. <a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf](https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 41. <a id="endnote-41"></a>
    Source: af.mil.gh  
    Title: Ghana Air Force Branches  
-   Link: [https://af.mil.gh/branches/operations](https://af.mil.gh/branches/operations)  
+   Link: <a href="https://af.mil.gh/branches/operations" target="_blank" rel="noopener noreferrer nofollow">https://af.mil.gh/branches/operations</a>  
 
 42. <a id="endnote-42"></a>
    Source: af.mil.gh  
    Title: gcaa and ghana air force forge strong ties for airspace safety  
-   Link: [https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety](https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety)  
+   Link: <a href="https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety" target="_blank" rel="noopener noreferrer nofollow">https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/122711294146571/posts/835720589512301/](https://www.facebook.com/groups/122711294146571/posts/835720589512301/)  
+   Link: <a href="https://www.facebook.com/groups/122711294146571/posts/835720589512301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/122711294146571/posts/835720589512301/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/119871491050023/posts/326849303685573/](https://www.facebook.com/groups/119871491050023/posts/326849303685573/)  
+   Link: <a href="https://www.facebook.com/groups/119871491050023/posts/326849303685573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119871491050023/posts/326849303685573/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/](https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/)  
+   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/](https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/)  
+   Link: <a href="https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/</a>  
 
 47. <a id="endnote-47"></a>
    Source: Wikipedia  
    Title: Ghana Air Force  
-   Link: [https://en.wikipedia.org/wiki/Ghana_Air_Force](https://en.wikipedia.org/wiki/Ghana_Air_Force)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghana_Air_Force</a>  
 
 48. <a id="endnote-48"></a>
    Source: openlab.citytech.cuny.edu  
-   Link: [https://openlab.citytech.cuny.edu/ghanalive/geography/](https://openlab.citytech.cuny.edu/ghanalive/geography/)  
+   Link: <a href="https://openlab.citytech.cuny.edu/ghanalive/geography/" target="_blank" rel="noopener noreferrer nofollow">https://openlab.citytech.cuny.edu/ghanalive/geography/</a>  
 
 49. <a id="endnote-49"></a>
    Source: x.com  
-   Link: [https://x.com/GhanaMet/status/2006754550691365029](https://x.com/GhanaMet/status/2006754550691365029)  
+   Link: <a href="https://x.com/GhanaMet/status/2006754550691365029" target="_blank" rel="noopener noreferrer nofollow">https://x.com/GhanaMet/status/2006754550691365029</a>  
 
 ### Additional References
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: [https://www.youtube.com/watch?v=WpRWkuYu9V8](https://www.youtube.com/watch?v=WpRWkuYu9V8)  
+   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Incident That Shocked Ariel School: Telepathic Extraterrestrials (Re-Edit)...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: [https://www.youtube.com/watch?v=StHCSSjbn44](https://www.youtube.com/watch?v=StHCSSjbn44)  
+   Link: <a href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=StHCSSjbn44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
    Title: WILD UFO CRASHES | Ancient Aliens | History  
-   Link: [https://www.youtube.com/watch?v=W6NpZsvzkDY](https://www.youtube.com/watch?v=W6NpZsvzkDY)  
+   Link: <a href="https://www.youtube.com/watch?v=W6NpZsvzkDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6NpZsvzkDY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=74hPI8OyWCw](https://www.youtube.com/watch?v=74hPI8OyWCw)  
+   Link: <a href="https://www.youtube.com/watch?v=74hPI8OyWCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=74hPI8OyWCw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WILD UFO CRASHES | Ancient Aliens | History...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/](https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/)  
+   Link: <a href="https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/</a>  
 
 55. <a id="endnote-55"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 56. <a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin](https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin)  
+   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
 57. <a id="endnote-57"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/](https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/</a>  
 
 58. <a id="endnote-58"></a>
    Source: newsflare.com  
-   Link: [https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams](https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams)  
+   Link: <a href="https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY](https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY)  
+   Link: <a href="https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY</a>  

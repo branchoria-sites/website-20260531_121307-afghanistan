@@ -239,7 +239,7 @@ prev_link:
   permalink: /regions-6327af/
   short_title: Regions
   heading_title: Where Yemen UFO Reports Mean Different Things
-date: '2026-06-09 01:45:28 '
+date: '2026-06-10 02:13:32 '
 header:
   og_image: /assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1-so
 
 ## Introduction
 
-Many [Yemen]({{ 'what-is-really-in-yemens-ufo-record/' | relative_url }}) UFO reports begin with a simple problem: observers are looking into one of the most militarised and technologically crowded stretches of airspace in the world. Since late 2023, the Red Sea, Bab al-Mandab Strait and Gulf of Aden have seen sustained drone launches, missile interceptions, surveillance flights, naval radar tracking, electronic warfare activity and emergency defensive responses. In that environment, an object can be genuinely unidentified at the moment it is observed without being genuinely anomalous. The central question is not whether witnesses saw something unusual. It is whether the war-zone setting created enough ambiguity to make ordinary military or maritime activity look extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acleddata.com/update/yemen-situation-update-april-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acleddata.com">[ACLED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acleddata.com</span><span class="citation-popover-title">yemen situation update april 2024</span><span class="citation-popover-snippet">ACLEDYemen Situation Update: April 2024Since the start of the Houthis&#x27; Red Sea attacks on 19 October, the group has targeted nearly 80 sh...</span><span class="citation-popover-meta">Published: april 2024</span></span></span> Reuters This matters because Yemen's modern UFO record is increasingly tied to military sensors rather than traditional civilian sightings. Reports o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/SHIPPING-ARMS/lgvdnngeyvo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Red Sea attacks2 Feb 2024 — The analysis shows how Houthi drone and missile activity has escalated since the Gaza war began, and has cont...</span></span></span> ften emerge from the same operational space where Houthi drones, anti-ship missiles, coalition aircraft and naval defence systems are already active. Understanding the war zone is therefore the starting point for understanding the UFO claims.
+Many Yemen UFO reports begin with a simple problem: observers are looking into one of the most militarised and technologically crowded stretches of airspace in the world. Since late 2023, the Red Sea, Bab al-Mandab Strait and Gulf of Aden have seen sustained drone launches, missile interceptions, surveillance flights, naval radar tracking, electronic warfare activity and emergency defensive responses. In that environment, an object can be genuinely unidentified at the moment it is observed without being genuinely anomalous. The central question is not whether witnesses saw something unusual. It is whether the war-zone setting created enough ambiguity to make ordinary military or maritime activity look extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acleddata.com/update/yemen-situation-update-april-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acleddata.com">[ACLED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acleddata.com</span><span class="citation-popover-title">yemen situation update april 2024</span><span class="citation-popover-snippet">ACLEDYemen Situation Update: April 2024Since the start of the Houthis&#x27; Red Sea attacks on 19 October, the group has targeted nearly 80 sh...</span><span class="citation-popover-meta">Published: april 2024</span></span></span> Reuters This matters because Yemen's modern UFO record is increasingly tied to military sensors rather than traditional civilian sightings. Reports o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/SHIPPING-ARMS/lgvdnngeyvo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Red Sea attacks2 Feb 2024 — The analysis shows how Houthi drone and missile activity has escalated since the Gaza war began, and has cont...</span></span></span> ften emerge from the same operational space where Houthi drones, anti-ship missiles, coalition aircraft and naval defence systems are already active. Understanding the war zone is therefore the starting point for understanding the UFO claims.
 
 
 <img src="{{ "/assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1-dark.svg" | relative_url }}" alt="War Zone illustration 1" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -433,86 +433,44 @@ The Red Sea crisis has produced a constant flow of drones, missiles, radar track
 In Yemen, the key lesson is that many UFO reports start not with an alien mystery but with a battlefield identification problem.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Yemen&#x27;s UFOs Start With the War Zone. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Yemen&#x27;s UFOs Start With the War Zone, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Helps explain defense systems behind many war-zone sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Addresses military encounters in contested airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Useful for understanding military reporting chains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Excellent context for military aircraft, surveillance and advanced technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -546,59 +504,71 @@ In Yemen, the key lesson is that many UFO reports start not with an alien myster
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids"><img src="https://i.ebayimg.com/images/g/eXkAAeSwRihpja5M/s-l225.jpg" alt="Listing image for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-yemen-s-ufos-start-with-the-war-zone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-yemen-s-ufos-start-with-the-war-zone-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=war-zone-why-yemen-s-ufos-start-with-the-war-zone-yemen-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -813,106 +783,106 @@ In Yemen, the key lesson is that many UFO reports start not with an alien myster
 1. <a id="endnote-1"></a>
    Source: acleddata.com  
    Title: yemen situation update april 2024  
-   Link: [https://acleddata.com/update/yemen-situation-update-april-2024](https://acleddata.com/update/yemen-situation-update-april-2024)  
+   Link: <a href="https://acleddata.com/update/yemen-situation-update-april-2024" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/update/yemen-situation-update-april-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACLEDYemen Situation Update: April 2024Since the start of the Houthis&#x27; Red Sea attacks on 19 October, the group has targeted nearly 80 sh...</p></details>
    Published: april 2024  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/SHIPPING-ARMS/lgvdnngeyvo/](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/SHIPPING-ARMS/lgvdnngeyvo/)  
+   Link: <a href="https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/SHIPPING-ARMS/lgvdnngeyvo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/SHIPPING-ARMS/lgvdnngeyvo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sea attacks2 Feb 2024 — The analysis shows how Houthi drone and missile activity has escalated since the Gaza war began, and has cont...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/middle-east/yemens-houthis-target-two-vessels-red-sea-2024-06-07/](https://www.reuters.com/world/middle-east/yemens-houthis-target-two-vessels-red-sea-2024-06-07/)  
+   Link: <a href="https://www.reuters.com/world/middle-east/yemens-houthis-target-two-vessels-red-sea-2024-06-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/yemens-houthis-target-two-vessels-red-sea-2024-06-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, there was no independent confirmation of these attacks. The incidents, reportedly involving drones and ballistic and naval missi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: crisisgroup.org  
-   Link: [https://www.crisisgroup.org/visual-explainers/red-sea/](https://www.crisisgroup.org/visual-explainers/red-sea/)  
+   Link: <a href="https://www.crisisgroup.org/visual-explainers/red-sea/" target="_blank" rel="noopener noreferrer nofollow">https://www.crisisgroup.org/visual-explainers/red-sea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis GroupThe Houthis&#x27; Red Sea Attacks Explained3 Apr 2025 — The Yemeni group known as the Houthis, began firing missiles and armed dro...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mei.edu  
    Title: houthis red sea missile and drone attack drivers and implications  
-   Link: [https://mei.edu/publication/houthis-red-sea-missile-and-drone-attack-drivers-and-implications/](https://mei.edu/publication/houthis-red-sea-missile-and-drone-attack-drivers-and-implications/)  
+   Link: <a href="https://mei.edu/publication/houthis-red-sea-missile-and-drone-attack-drivers-and-implications/" target="_blank" rel="noopener noreferrer nofollow">https://mei.edu/publication/houthis-red-sea-missile-and-drone-attack-drivers-and-implications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East InstituteThe Houthis&#x27; Red Sea missile and drone attack20 Oct 2023 — Although the Houthis have yet to claim responsibility for...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/](https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/)  
+   Link: <a href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing](https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing)  
+   Link: <a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone tracking an orb o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks](https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks)  
+   Link: <a href="https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The attacks have led major shipping firms Maersk and Hapag-Lloyd to suspend their operations through the strategic Red Sea strait. The Ho...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Red Sea crisis  
-   Link: [https://en.wikipedia.org/wiki/Red_Sea_crisis](https://en.wikipedia.org/wiki/Red_Sea_crisis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Red_Sea_crisis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_Sea_crisis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sea crisisThe Red Sea crisis is an ongoing armed conflict and maritime crisis instigated by the Houthis, an armed group in Yemen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/](https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/)  
+   Link: <a href="https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/</a>  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/newly-revealed-classified-footage-appears-to-show-a-strange-spherical-object-dar/1346836747555496/](https://www.facebook.com/WIONews/posts/newly-revealed-classified-footage-appears-to-show-a-strange-spherical-object-dar/1346836747555496/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/newly-revealed-classified-footage-appears-to-show-a-strange-spherical-object-dar/1346836747555496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/newly-revealed-classified-footage-appears-to-show-a-strange-spherical-object-dar/1346836747555496/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>com/us/news/discshaped-ufo-spotted-by-us-military -in-leaked-footage-sparks-debate-about-alien- technology-watch-...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vB4Gh5NAkWI](https://www.youtube.com/watch?v=vB4Gh5NAkWI)  
+   Link: <a href="https://www.youtube.com/watch?v=vB4Gh5NAkWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vB4Gh5NAkWI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest Houthi threat facing Red Sea shippingYemen&#x27;s Houthis say they have struck four more ships in the Red, Arabian and Mediterranea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Physical Analysis of a Reported Missile  
-   Link: [https://arxiv.org/abs/2512.04126](https://arxiv.org/abs/2512.04126)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPhysical Analysis of a Reported Missile - &quot;Orb&quot; Interaction in 2024: Momentum Constraints, Atmospheric Drag, Sensor Artifacts, and T...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.04126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.04126</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Analysis of a Reported Missile - &quot;Orb&quot; Interaction in 2024: Momentum Constraints, Atmospheric Drag, Sensor Artifacts, and T...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSNews/posts/a-newly-released-video-captured-by-a-us-reaper-drone-shows-a-glowing-orb-off-the/1185479960110513/](https://www.facebook.com/CBSNews/posts/a-newly-released-video-captured-by-a-us-reaper-drone-shows-a-glowing-orb-off-the/1185479960110513/)  
+   Link: <a href="https://www.facebook.com/CBSNews/posts/a-newly-released-video-captured-by-a-us-reaper-drone-shows-a-glowing-orb-off-the/1185479960110513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/a-newly-released-video-captured-by-a-us-reaper-drone-shows-a-glowing-orb-off-the/1185479960110513/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ngress Witnesses testify no known technology could survive...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AirForce/comments/1ncmuuv/this_video_of_a_mq9_drone_firing_a_hellfire/](https://www.reddit.com/r/AirForce/comments/1ncmuuv/this_video_of_a_mq9_drone_firing_a_hellfire/)  
+   Link: <a href="https://www.reddit.com/r/AirForce/comments/1ncmuuv/this_video_of_a_mq9_drone_firing_a_hellfire/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AirForce/comments/1ncmuuv/this_video_of_a_mq9_drone_firing_a_hellfire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t posted on the UAP hearing, what do you think of it? Is it fake?...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DOpBp-vEuoA/?hl=en](https://www.instagram.com/reel/DOpBp-vEuoA/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DOpBp-vEuoA/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOpBp-vEuoA/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Yemen last October until a second Reaper fires a precision...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DObD1BdkR6R/](https://www.instagram.com/reel/DObD1BdkR6R/)  
+   Link: <a href="https://www.instagram.com/reel/DObD1BdkR6R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DObD1BdkR6R/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eaper drone tracking a glowing orb as it flies over the water...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: lloydslist.com  
-   Link: [https://www.lloydslist.com/hot-topics/red-sea-risk/map-and-list-of-attacks](https://www.lloydslist.com/hot-topics/red-sea-risk/map-and-list-of-attacks)  
+   Link: <a href="https://www.lloydslist.com/hot-topics/red-sea-risk/map-and-list-of-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.lloydslist.com/hot-topics/red-sea-risk/map-and-list-of-attacks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ship was not hit and crew reported safe (JMIC)...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSNews/posts/video-released-at-a-ufo-hearing-in-congress-on-tuesday-showed-a-hellfire-missile/1184902153501627/](https://www.facebook.com/CBSNews/posts/video-released-at-a-ufo-hearing-in-congress-on-tuesday-showed-a-hellfire-missile/1184902153501627/)  
+   Link: <a href="https://www.facebook.com/CBSNews/posts/video-released-at-a-ufo-hearing-in-congress-on-tuesday-showed-a-hellfire-missile/1184902153501627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/video-released-at-a-ufo-hearing-in-congress-on-tuesday-showed-a-hellfire-missile/1184902153501627/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hellfire missile at it. The missile struck the orb, but...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: warquants.com  
    Title: striking back analyzing the us led  
-   Link: [https://www.warquants.com/p/striking-back-analyzing-the-us-led](https://www.warquants.com/p/striking-back-analyzing-the-us-led)  
+   Link: <a href="https://www.warquants.com/p/striking-back-analyzing-the-us-led" target="_blank" rel="noopener noreferrer nofollow">https://www.warquants.com/p/striking-back-analyzing-the-us-led</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the US-led Response to Houthi Red Sea Attacks23 Mar 2025 — US-led strikes against Houthi rebels aim to restore security in the...</p></details>

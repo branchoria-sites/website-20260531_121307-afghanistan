@@ -245,7 +245,7 @@ next_link:
   permalink: /official-records-297dc9/
   short_title: Official Records
   heading_title: Where Would a Serious Jamaica UFO Report Go?
-date: '2026-06-09 01:30:31 '
+date: '2026-06-10 01:55:59 '
 header:
   og_image: /assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-1-social.jpg
   preview_image: /assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-1-
 
 ## Introduction
 
-The publicly accessible **National UFO Reporting Center (NUFORC)** archive provides a useful window into how unidentified aerial phenomena (UAP) reports from [Jamaica]({{ 'what-is-really-in-jamaicas-ufo-record/' | relative_url }}) are recorded and categorised, but it also highlights substantial limits in the evidence when it comes to verification and scientific quality. NUFORC collects voluntary witness submissions from around the world, including Jamaica, and makes them available as raw accounts with minimal independent corroboration. For Jamaica specifically, the dataset contains a small number of entries — only about 31 reports listed by country — spread over decades and diverse in character, location and witness detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Unspecified, 120; USA - Alaska, 676; USA - Alabama...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The publicly accessible **National UFO Reporting Center (NUFORC)** archive provides a useful window into how unidentified aerial phenomena (UAP) reports from Jamaica are recorded and categorised, but it also highlights substantial limits in the evidence when it comes to verification and scientific quality. NUFORC collects voluntary witness submissions from around the world, including Jamaica, and makes them available as raw accounts with minimal independent corroboration. For Jamaica specifically, the dataset contains a small number of entries — only about 31 reports listed by country — spread over decades and diverse in character, location and witness detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Unspecified, 120; USA - Alaska, 676; USA - Alabama...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-1-dark.svg" | relative_url }}" alt="NUFORC Record illustration 1" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -265,16 +265,16 @@ This page assesses what those reports really represent, how NUFORC grades and pr
 
 ## What NUFORC Lists for Jamaica
 
-NUFORC’s online database is a crowdsourced, open‑access archive of UFO/UAP sighting reports submitted by members of the public. Reports are categorised by date, location, object description, duration and witness account, and NUFORC applies an internal tiering to indicate how anomalous or dramatic a report appears (from Tier 1, most suggestive, to Tier 4, likely conventional), though many entries date from before this formal grading was applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+NUFORC’s online database is a crowdsourced, open‑access archive of UFO/UAP sighting reports submitted by members of the public. Reports are categorised by date, location, object description, duration and witness account, and NUFORC applies an internal tiering to indicate how anomalous or dramatic a report appears (from Tier 1, most suggestive, to Tier 4, likely conventional), though many entries date from before this formal grading was applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 For Jamaica, isolated entries illustrate the variety of witness narratives over time:
 
-* A **1972 [Montego Bay]({{ 'montego-bay/' | relative_url }}) sphere sighting** recorded decades later describes a bright yellow ball of light hovering near the airport before disappearing. It was submitted long after the event and involves a single witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 24825August 20, 2023 — NUFORC UFO Sighting 24825. Occurred: 1972-09-15 17:00 Local (Fall, 1972) - Approximate R...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
-* A **1995 Sandals Royal Resort report** recounts two observers seeing a silent black, stingray‑like object against the night sky, though distance and scale remained unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 1918August 20, 2023 — Honeymooners see huge black object in sky illuminated by moon off the shore of Montego Ba...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
-* A **2012 Negril disk sighting** involves three observers outside at night describing a round object with a central red light moving silently before vanishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 86357August 20, 2023 — Negril (Jamaica),, Jamaica Shape: Disk Characteristics: Lights on object. Round object...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
-* A **2014 May Pen account** describes a large orange light moving slowly and growing larger before disappearing, seen by multiple family members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=112265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 112265August 20, 2023 — May Pen (Jamaica),, Jamaica Shape: Light Characteristics: Lights on object. Unusually...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
-* A **2023 Negril “changing” orb** report by three relatives describes erratic motion and high‑speed manoeuvres, with a video that reportedly reveals it only after post‑processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=176051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 176051August 20, 2023 — NUFORC UFO Sighting 176051; Occurred: 2023-05-28 21:52 Local; Reported: 2023-06-03 19...</span><span class="citation-popover-meta">Published: May 28, 2023</span></span></span>
-* An in‑flight report from **2012 on a Jamaica‑to‑Canada flight** notes three circular glowing objects with possible video footage and an accompanying jet. NUFORC notes this might be a reflection off the window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 86759August 20, 2023 — While traveling from Jamaica to Canada - we witnessed 3 UFOS and then a scrambler jet fl...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+* A **1972 [Montego Bay]({{ 'montego-bay/' | relative_url }}) sphere sighting** recorded decades later describes a bright yellow ball of light hovering near the airport before disappearing. It was submitted long after the event and involves a single witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 24825August 20, 2023 — NUFORC UFO Sighting 24825. Occurred: 1972-09-15 17:00 Local (Fall, 1972) - Approximate R...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+* A **1995 Sandals Royal Resort report** recounts two observers seeing a silent black, stingray‑like object against the night sky, though distance and scale remained unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1918August 20, 2023 — Honeymooners see huge black object in sky illuminated by moon off the shore of Montego Ba...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+* A **2012 Negril disk sighting** involves three observers outside at night describing a round object with a central red light moving silently before vanishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 86357August 20, 2023 — Negril (Jamaica),, Jamaica Shape: Disk Characteristics: Lights on object. Round object...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+* A **2014 May Pen account** describes a large orange light moving slowly and growing larger before disappearing, seen by multiple family members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=112265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 112265August 20, 2023 — May Pen (Jamaica),, Jamaica Shape: Light Characteristics: Lights on object. Unusually...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+* A **2023 Negril “changing” orb** report by three relatives describes erratic motion and high‑speed manoeuvres, with a video that reportedly reveals it only after post‑processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=176051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 176051August 20, 2023 — NUFORC UFO Sighting 176051; Occurred: 2023-05-28 21:52 Local; Reported: 2023-06-03 19...</span><span class="citation-popover-meta">Published: May 28, 2023</span></span></span>
+* An in‑flight report from **2012 on a Jamaica‑to‑Canada flight** notes three circular glowing objects with possible video footage and an accompanying jet. NUFORC notes this might be a reflection off the window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 86759August 20, 2023 — While traveling from Jamaica to Canada - we witnessed 3 UFOS and then a scrambler jet fl...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 These entries typify the Jamaica subset: diverse in description but limited in corroborating data, often brief in duration and predominantly single or few‑witness accounts.
 
@@ -283,7 +283,7 @@ These entries typify the Jamaica subset: diverse in description but limited in c
 
 ## Single‑Witness Accounts, Delay and Reporting Patterns
 
-A major characteristic of Nigeria’s entries — and of many NUFORC records worldwide — is that they often stem from **single witnesses or small groups**, without standardised scientific measurements or corroboration from radar, multiple sensors or trained observers. For example, the 1972 [Montego Bay sighting]({{ 'montego-bay/' | relative_url }}) was reported **30 years after the event**, with the witness choosing anonymity and only approximate timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A major characteristic of Nigeria’s entries — and of many NUFORC records worldwide — is that they often stem from **single witnesses or small groups**, without standardised scientific measurements or corroboration from radar, multiple sensors or trained observers. For example, the 1972 Montego Bay sighting was reported **30 years after the event**, with the witness choosing anonymity and only approximate timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Delayed reporting complicates quality assessment: memories can fade, details become less precise, and opportunities for contemporaneous verification are lost. While NUFORC publishes the account as received, **it does not independently verify claims or provide contextual scientific data** such as astronomical data to rule out satellites, aircraft schedules, or atmospheric conditions. NUFORC states the purpose of its archive is to collect reports, not to prove the existence of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
@@ -330,86 +330,44 @@ For researchers or readers interested in UAP phenomena in Jamaica, NUFORC provid
 <img src="{{ "/assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-3-dark.svg" | relative_url }}" alt="NUFORC Record illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_nuforc_jamaica_recor_04b9c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Strong Are Jamaica&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Strong Are Jamaica&#x27;s UFO Reports?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses how reports should be graded and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows strengths and weaknesses of UFO case reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights standards of evidence and corroborated reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Useful comparison for evaluating crowdsourced and official UFO databases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -443,75 +401,71 @@ For researchers or readers interested in UAP phenomena in Jamaica, NUFORC provid
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-record-how-strong-are-jamaica-s-ufo-reports-jamaica-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -726,196 +680,196 @@ For researchers or readers interested in UAP phenomena in Jamaica, NUFORC provid
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Unspecified, 120; USA - Alaska, 676; USA - Alabama...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Unspecified, 120; USA - Alaska, 676; USA - Alabama...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=24825](https://nuforc.org/sighting/?id=24825)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 24825August 20, 2023 — NUFORC UFO Sighting 24825. Occurred: 1972-09-15 17:00 Local (Fall, 1972) - Approximate R...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24825</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 24825August 20, 2023 — NUFORC UFO Sighting 24825. Occurred: 1972-09-15 17:00 Local (Fall, 1972) - Approximate R...</p></details>
    Published: August 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=1918](https://nuforc.org/sighting/?id=1918)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 1918August 20, 2023 — Honeymooners see huge black object in sky illuminated by moon off the shore of Montego Ba...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1918</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1918August 20, 2023 — Honeymooners see huge black object in sky illuminated by moon off the shore of Montego Ba...</p></details>
    Published: August 20, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=86357](https://nuforc.org/sighting/?id=86357)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 86357August 20, 2023 — Negril (Jamaica),, Jamaica Shape: Disk Characteristics: Lights on object. Round object...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=86357" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86357</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 86357August 20, 2023 — Negril (Jamaica),, Jamaica Shape: Disk Characteristics: Lights on object. Round object...</p></details>
    Published: August 20, 2023  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=112265](https://nuforc.org/sighting/?id=112265)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 112265August 20, 2023 — May Pen (Jamaica),, Jamaica Shape: Light Characteristics: Lights on object. Unusually...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=112265" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=112265</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 112265August 20, 2023 — May Pen (Jamaica),, Jamaica Shape: Light Characteristics: Lights on object. Unusually...</p></details>
    Published: August 20, 2023  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=176051](https://nuforc.org/sighting/?id=176051)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 176051August 20, 2023 — NUFORC UFO Sighting 176051; Occurred: 2023-05-28 21:52 Local; Reported: 2023-06-03 19...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=176051" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176051</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 176051August 20, 2023 — NUFORC UFO Sighting 176051; Occurred: 2023-05-28 21:52 Local; Reported: 2023-06-03 19...</p></details>
    Published: May 28, 2023  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=86759](https://nuforc.org/sighting/?id=86759)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 86759August 20, 2023 — While traveling from Jamaica to Canada - we witnessed 3 UFOS and then a scrambler jet fl...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86759</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 86759August 20, 2023 — While traveling from Jamaica to Canada - we witnessed 3 UFOS and then a scrambler jet fl...</p></details>
    Published: August 20, 2023  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/?wordfence_syncAttackData=1774187432.1091](https://nuforc.org/?wordfence_syncAttackData=1774187432.1091)  
+   Link: <a href="https://nuforc.org/?wordfence_syncAttackData=1774187432.1091" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/?wordfence_syncAttackData=1774187432.1091</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=66858](https://nuforc.org/sighting/?id=66858)  
+   Link: <a href="https://nuforc.org/sighting/?id=66858" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=66858</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 66858Location: Montego Bay (Jamaica),, Jamaica Shape: Circle Characteristics: Lights on object, Emitted beams. Possi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=28298](https://nuforc.org/sighting/?id=28298)  
+   Link: <a href="https://nuforc.org/sighting/?id=28298" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28298</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 28298Occurred: 1989-11-11 05:30 Local - Approximate · Reported: 2003-04-02 17:57 Pacific · Duration: a few minutes ·...</p></details>
    Published: April 2, 2003  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ight sky, to a strange looking swirling aura...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=55537](https://nuforc.org/sighting/?id=55537)  
+   Link: <a href="https://nuforc.org/sighting/?id=55537" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=55537</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 55537Montego Bay (Jamaica),, Jamaica Shape: Unknown Characteristics: Lights on object. At 19:30 28/2/2007 while at a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e199210](https://nuforc.org/subndx/?id=e199210)  
+   Link: <a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/20/1992 02:00, Kaunas (Lithuania); Open, 10/19/1992 14:00, New...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wikidisc.org  
    Title: National UFO Reporting Center (NUFORC) | Wiki Disc  
-   Link: [https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29](https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29)  
+   Link: <a href="https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center (NUFORC) | WikiDiscJanuary 10, 2026 — MISSION AND ACTIVITIES[EDIT | EDIT SOURCE] REPORT COLLECTION AND DOCU...</p></details>
    Published: January 10, 2026  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potential - PMCDecember 14, 2023 — MATERIALS AND METHODS PUBLIC UAP SIGHTING...</p></details>
    Published: December 14, 2023  
 
 20. <a id="endnote-20"></a>
    Source: theufodatabase.com  
-   Link: [https://theufodatabase.com/organizations/national-ufo-reporting-center](https://theufodatabase.com/organizations/national-ufo-reporting-center)  
+   Link: <a href="https://theufodatabase.com/organizations/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | The UFO DatabaseNATIONAL UFO REPORTING CENTER IMAGE: SHARE NUFORC Image: National UFO Reporting Center Th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nomanzone.com  
    Title: Founded by Rob  
-   Link: [https://nomanzone.com/organizations/national-ufo-reporting-center-nuforc/](https://nomanzone.com/organizations/national-ufo-reporting-center-nuforc/)  
+   Link: <a href="https://nomanzone.com/organizations/national-ufo-reporting-center-nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/organizations/national-ufo-reporting-center-nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center (NUFORC) - NoManZone.comNATIONAL UFO REPORTING CENTER (NUFORC) The National UFO Reporting Center (NUFORC) w...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ufoscans.com  
    Title: nuforc sightnings 07 xx 2025  
-   Link: [https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/](https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/)  
+   Link: <a href="https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Sightings Report: 07/2025 | UFOScans.comNUFORC SIGHTINGS REPORT: 07/2025 🏛 NUFORC 📄 sighting_report UAPUFOsighting reportNUFORC202...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: links.giveawayoftheday.com  
-   Link: [https://links.giveawayoftheday.com/nuforc.org](https://links.giveawayoftheday.com/nuforc.org)  
+   Link: <a href="https://links.giveawayoftheday.com/nuforc.org" target="_blank" rel="noopener noreferrer nofollow">https://links.giveawayoftheday.com/nuforc.org</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAP.Image: nuforc.org NUFORC.ORG: NATIONAL UFO REPORTING CENTER | REPORT A UFO |...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisNUFORC REPORT ANALYSIS ADA 2018 FULL NOTEBOOK Image: an ufo INTRODUCTION The National UFO Reporting Center (NUFORC)...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nuforc/ufo-sightings/data](https://www.kaggle.com/datasets/nuforc/ufo-sightings/data)  
+   Link: <a href="https://www.kaggle.com/datasets/nuforc/ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nuforc/ufo-sightings/data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsNational UFO Reporting Center (NUFORC) and 1 collaborator · Updated 6 years ago arrow_drop_up[Button: 693] code Code file_do...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: aliensthetruth.com  
-   Link: [https://www.aliensthetruth.com/government-records/national-ufo-reporting-center/](https://www.aliensthetruth.com/government-records/national-ufo-reporting-center/)  
+   Link: <a href="https://www.aliensthetruth.com/government-records/national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensthetruth.com/government-records/national-ufo-reporting-center/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Documents on UFO Sightings are Public Records * FBI UFO Vault FOIA Library * International Public UFO Infor...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ufotimelineproject.com  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
    Title: Reports from the National UFO Reporting Center show that  
-   Link: [https://www.instagram.com/p/DYchkV7ji93/](https://www.instagram.com/p/DYchkV7ji93/)  
+   Link: <a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Caribbean has reportedly emerged among notable areas on...May 17, 2026 — Jamaica is among the Caribbean countries with a significant...</p></details>
    Published: May 17, 2026  
 
 29. <a id="endnote-29"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Jamaica UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — JAMAICA UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT JAMAICA UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date: Locati...</p></details>
    Published: March 22, 2025  
 
 30. <a id="endnote-30"></a>
    Source: otherworlders.com  
    Title: ufo uap sightings report first half of 2025  
-   Link: [https://otherworlders.com/ufo-uap-sightings-report-first-half-of-2025/](https://otherworlders.com/ufo-uap-sightings-report-first-half-of-2025/)  
+   Link: <a href="https://otherworlders.com/ufo-uap-sightings-report-first-half-of-2025/" target="_blank" rel="noopener noreferrer nofollow">https://otherworlders.com/ufo-uap-sightings-report-first-half-of-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Sightings Report, First Half of 2025 - Other WorldersJuly 23, 2025 — UFO/UAP SIGHTINGS REPORT, FIRST HALF OF 2025 * byB48 * 23 Ju...</p></details>
    Published: July 23, 2025  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
    Title: What makes this event stand out from  
-   Link: [https://www.reddit.com/r/abovethenormnews/comments/1oaravv/the_1994_westmoreland_ufo_encounter_a_forgotten/](https://www.reddit.com/r/abovethenormnews/comments/1oaravv/the_1994_westmoreland_ufo_encounter_a_forgotten/)  
+   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1oaravv/the_1994_westmoreland_ufo_encounter_a_forgotten/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1oaravv/the_1994_westmoreland_ufo_encounter_a_forgotten/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1994 Westmoreland UFO Encounter – A Forgotten Case from...October 19, 2025 — The case was officially logged with the National UFO Re...</p></details>
    Published: October 19, 2025  
 
 32. <a id="endnote-32"></a>
    Source: ufofeed.com  
-   Link: [https://www.ufofeed.com/125985/best-reports-of-2025-list-posted-at-nuforc/](https://www.ufofeed.com/125985/best-reports-of-2025-list-posted-at-nuforc/)  
+   Link: <a href="https://www.ufofeed.com/125985/best-reports-of-2025-list-posted-at-nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/125985/best-reports-of-2025-list-posted-at-nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Reports of 2025 List Posted at NUFORC - UFO FEEDMay 12, 2025 — BEST REPORTS OF 2025 LIST POSTED AT NUFORC May 12, 2025 Image The Nat...</p></details>
    Published: May 12, 2025  
 
 33. <a id="endnote-33"></a>
    Source: enigmalabs.io  
    Title: Submit here Share Article Image  
-   Link: [https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf](https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf)  
+   Link: <a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National UFO Reporting Center (NUFORC) | Enigma LabsMay 2, 2023 — The National UFO Reporting Center (NUFORC) Updated May 2, 2023 Imag...</p></details>
    Published: May 2, 2023  
 
 34. <a id="endnote-34"></a>
    Source: uapcheck.com  
    Title: UAP Check  
-   Link: [https://www.uapcheck.com/news/id/3239/european-uap-sightings-in-2019-2024-towards-a-broader-and-more-inclusive-euroufo-barometer/](https://www.uapcheck.com/news/id/3239/european-uap-sightings-in-2019-2024-towards-a-broader-and-more-inclusive-euroufo-barometer/)  
+   Link: <a href="https://www.uapcheck.com/news/id/3239/european-uap-sightings-in-2019-2024-towards-a-broader-and-more-inclusive-euroufo-barometer/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/3239/european-uap-sightings-in-2019-2024-towards-a-broader-and-more-inclusive-euroufo-barometer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP REPORTS SUBMITTED TO THE NATIONAL UFO REPORTING CENTER (NUFORC), 2019-2024 This updated edition of the European UFO Barometer incorpo...</p></details>

@@ -239,7 +239,7 @@ prev_link:
   permalink: /report-data/
   short_title: Report Data
   heading_title: Why Most Dutch UFO Reports Become Familiar Objects
-date: '2026-06-09 01:35:30 '
+date: '2026-06-10 02:02:01 '
 header:
   og_image: /assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-1-social.jpg
   preview_image: /assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-1.webp
@@ -264,9 +264,9 @@ According to accounts that later emerged through investigators, journalists, and
 * Bright lights arranged in a distinctive pattern.
 * Apparently silent or unusually quiet movement.
 * Slow passage over the area followed by rapid departure.
-* Observation by multiple military personnel rather than a lone witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">IMDbDe UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+* Observation by multiple military personnel rather than a lone witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
-Later reconstructions generally place the number of military witnesses at around twelve. Witnesses interviewed decades afterward described confusion rather than immediate certainty. Some recalled initially assuming they were observing a military aircraft before concluding that the object's behaviour did not fit anything familiar to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">IMDbDe UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span>
+Later reconstructions generally place the number of military witnesses at around twelve. Witnesses interviewed decades afterward described confusion rather than immediate certainty. Some recalled initially assuming they were observing a military aircraft before concluding that the object's behaviour did not fit anything familiar to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span>
 
 The incident did not become internationally famous at the time. Unlike some better-known European UFO cases, there was no dramatic fighter scramble, no widely circulated radar data, and no immediate public controversy. Instead, the story survived largely through oral accounts, UFO investigators, and the local culture surrounding the base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
 
@@ -303,7 +303,7 @@ One reason Soesterberg remained prominent is that it developed into a broader cl
 
 Researchers and filmmakers investigating the area collected accounts from both military personnel and civilians who reported unusual aerial phenomena near the base during roughly the same period. These additional narratives encouraged the belief that the region around Soesterberg represented a local hotspot rather than the site of a one-night anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">02 ufos</span><span class="citation-popover-snippet">Bereid gevonden. Uiteindelijk vindt de...Read more...</span></span></span>
 
-The case gained renewed visibility through the documentary *The UFO's of Soesterberg*, directed by Bram Roza. The film revisited witness testimony decades after the event and presented interviews with former military personnel and local residents. Rather than claiming a definitive extraterrestrial explanation, the documentary focused on the persistence of the witnesses' memories and on the unusual concentration of reports associated with the base. soesterbergufo.nl ScreenAnarchy This revival matters because many UFO incidents disappear once immediate media attention fades. Soesterberg instead evolved into a historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: screenanarchy.com">[screenanarchy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">screenanarchy.com</span><span class="citation-popover-snippet">ScreenAnarchyTHE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</span></span></span> case study, connecting Dutch UFO folklore with military history and Cold War memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lantarenvenster.nl">[LantarenVenster Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lantarenvenster.nl</span><span class="citation-popover-title">Lantaren Venster Rotterdam De Ufo&#x27;s van Soesterberg</span><span class="citation-popover-snippet">LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</span></span></span>
+The case gained renewed visibility through the documentary *The UFO's of Soesterberg*, directed by Bram Roza. The film revisited witness testimony decades after the event and presented interviews with former military personnel and local residents. Rather than claiming a definitive extraterrestrial explanation, the documentary focused on the persistence of the witnesses' memories and on the unusual concentration of reports associated with the base. soesterbergufo.nl ScreenAnarchy This revival matters because many UFO incidents disappear once immediate media attention fades. Soesterberg instead evolved into a historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: screenanarchy.com">[screenanarchy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">screenanarchy.com</span><span class="citation-popover-snippet">THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</span></span></span> case study, connecting Dutch UFO folklore with military history and Cold War memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lantarenvenster.nl">[LantarenVenster Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lantarenvenster.nl</span><span class="citation-popover-title">Lantaren Venster Rotterdam De Ufo&#x27;s van Soesterberg</span><span class="citation-popover-snippet">LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</span></span></span>
 
 ## The problem with the evidence
 
@@ -361,86 +361,44 @@ More than four decades after the reported sighting, that tension is exactly why 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The Dutch Air Base Case That Would Not Fade. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The Dutch Air Base Case That Would Not Fade, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly relevant to cases involving trained personnel and official observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores military sightings and unresolved defense-related incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
-        
-        <p class="fr-book-desc">Adds military and aviation context relevant to air-base UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides tools for evaluating witness reliability and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -474,75 +432,71 @@ More than four decades after the reported sighting, that tension is exactly why 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soesterberg-the-dutch-air-base-case-that-would-not-fade-netherlands-kingdom-of-the-ufo-poster-book-books-series-televisi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -757,125 +711,125 @@ More than four decades after the reported sighting, that tension is exactly why 
 1. <a id="endnote-1"></a>
    Source: magazines.defensie.nl  
    Title: 02 ufos  
-   Link: [https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos](https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos)  
+   Link: <a href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bereid gevonden. Uiteindelijk vindt de...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Soesterberg Air Base  
-   Link: [https://en.wikipedia.org/wiki/Soesterberg_Air_Base](https://en.wikipedia.org/wiki/Soesterberg_Air_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soesterberg_Air_Base</a>  
 
 3. <a id="endnote-3"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt27205596/](https://www.imdb.com/title/tt27205596/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMDbDe UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</p></details>
+   Link: <a href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27205596/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</p></details>
    Published: February 3, 1979  
 
 4. <a id="endnote-4"></a>
    Source: soesterbergufo.nl  
-   Link: [https://www.soesterbergufo.nl/](https://www.soesterbergufo.nl/)  
+   Link: <a href="https://www.soesterbergufo.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.soesterbergufo.nl/</a>  
 
 5. <a id="endnote-5"></a>
    Source: soesterbergufo.nl  
-   Link: [https://www.soesterbergufo.nl/Synopsis](https://www.soesterbergufo.nl/Synopsis)  
+   Link: <a href="https://www.soesterbergufo.nl/Synopsis" target="_blank" rel="noopener noreferrer nofollow">https://www.soesterbergufo.nl/Synopsis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SynopsisAnd during my search I came across three other fantastic UFO sightings. All on military soil and all within 2 miles of the Soeste...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: screenanarchy.com  
-   Link: [https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html](https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScreenAnarchyTHE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</p></details>
+   Link: <a href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lantarenvenster.nl  
    Title: Lantaren Venster Rotterdam De Ufo's van Soesterberg  
-   Link: [https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/](https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/)  
+   Link: <a href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skepsis.nl  
    Title: ufo soesterberg  
-   Link: [https://skepsis.nl/ufo-soesterberg/](https://skepsis.nl/ufo-soesterberg/)  
+   Link: <a href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-soesterberg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: vera-groningen.nl  
    Title: the ufos of soesterberg  
-   Link: [https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/](https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/)  
+   Link: <a href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufozaken.nl  
    Title: de ufo van soesterberg 1979  
-   Link: [https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979](https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979)  
+   Link: <a href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow">https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencefictionfestival.org  
    Title: the ufos of soesterberg  
-   Link: [https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/](https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/)  
+   Link: <a href="https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trieste Science+Fiction FestivalThe UFO&#x27;s of Soesterberg15 Oct 2023 — In the early morning of February 3, 1979, a mysterious object flew...</p></details>
    Published: February 3, 1979  
 
 12. <a id="endnote-12"></a>
    Source: bloody-flicks.co.uk  
    Title: the ufos of soesterberg review  
-   Link: [https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/](https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/)  
+   Link: <a href="https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/" target="_blank" rel="noopener noreferrer nofollow">https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/](https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangle at Soesterberg Military Base, Netherlands...CNN Covers the hellfire missile bouncing off UFO video. &quot;Military witnesses w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/](https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2024, at 5:34 a.m. CEST, a UAP sighting occurred in...Read more...</p></details>
    Published: September 20, 2024  
 
 15. <a id="endnote-15"></a>
    Source: sharingful.com  
    Title: At least twelve soldiers witnessed this bizarre  
-   Link: [https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg](https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg)  
+   Link: <a href="https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg" target="_blank" rel="noopener noreferrer nofollow">https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where to watch The UFO&#x27;s of Soesterberg and share...In the early morning of February 3, 1979, a giant black triangular object flew over...</p></details>
    Published: February 3, 1979  
 
 16. <a id="endnote-16"></a>
    Source: nmm.nl  
    Title: de ufos landen nog een keer op soesterberg  
-   Link: [https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/](https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/)  
+   Link: <a href="https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nationaal Militair MuseumDe UFO&#x27;s landen nog één keer op SoesterbergIn de vroege ochtend van 3 februari 1979, midden in de Koude Oorlog...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j](https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j)  
+   Link: <a href="https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs of SoesterbergTrailers · The UFO&#x27;s of Soesterberg. Documentary · Related... The Alien Perspective: Part II. Secret Space UFOs: Rise...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ufoinsight.com  
    Title: UFO Insight Lights Over The Base!  
-   Link: [https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident](https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1979 Soesterberg UFO Incident27 Dec 2023 — Ultimately, the UFO incident over Soesterberg Air Force Base... UFO And Alien Encounters...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: historiek.net  
    Title: ufo soesterberg documentaire nmm  
-   Link: [https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/](https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/)  
+   Link: <a href="https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/" target="_blank" rel="noopener noreferrer nofollow">https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s landen nog één keer op Soesterberg21 Oct 2025 — Het incident, dat zich afspeelde midden in de Koude Oorlog, groeide uit tot een van...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Luis Elizondo on Soesterberg Airbase UFO incident  
-   Link: [http://www.youtube.com/watch?v=lwzALcbTRdc](http://www.youtube.com/watch?v=lwzALcbTRdc)  
+   Link: <a href="http://www.youtube.com/watch?v=lwzALcbTRdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lwzALcbTRdc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soesterberg UFO military witness claims Netherlands Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies THE STREAM - Mo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: primevideo.com  
-   Link: [https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC](https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC)  
+   Link: <a href="https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO&#x27;s of SoesterbergLe 3 février 1979, un objet mystérieux a survolé la base aérienne de Soesterberg, observé par au moins douze sold...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WWos6l-X9T0](https://www.youtube.com/watch?v=WWos6l-X9T0)  
+   Link: <a href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WWos6l-X9T0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness S1 E1, E3, E5, E7 | Discovery Channel...</p></details>

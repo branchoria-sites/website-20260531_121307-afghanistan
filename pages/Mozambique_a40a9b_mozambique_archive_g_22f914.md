@@ -239,7 +239,7 @@ next_link:
   permalink: /beira-cases/
   short_title: Beira Cases
   heading_title: Why Do Mozambique UFO Reports Cluster Around Beira?
-date: '2026-06-09 01:35:01 '
+date: '2026-06-10 02:01:29 '
 header:
   og_image: /assets/images/Mozambique_a40a9b_mozambique_archive_g_22f914-Illustration-1-social.jpg
   preview_image: /assets/images/Mozambique_a40a9b_mozambique_archive_g_22f914-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Mozambique_a40a9b_mozambique_archive_g_22f914-Illustration
 
 ## Introduction
 
-The short answer is that [Mozambique]({{ 'what-really-survives-in-mozambiques-ufo/' | relative_url }})’s UFO record is difficult to verify because the country never developed a widely accessible public UFO archive, and many of its most frequently cited cases survive only through foreign catalogues, translated summaries, magazine articles, or later database compilations. Unlike countries where military, police, or civilian research groups preserved substantial case files, Mozambique’s UFO history is largely reconstructed from fragments that passed through international ufology networks. As a result, the key question is often not whether a sighting occurred, but whether the surviving source chain can be traced back to a contemporary local document. The archive problem is therefore central to understanding Mozambique’s UFO history: missing records, inaccessible newspapers, lost colonial-era documentation, and repeated secondary citations all shape how these cases are interpreted today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/UFOs... Official UFO Sightings by the Brazilian Government in 2024, Available in Our...Read more...</span></span></span>
+The short answer is that Mozambique’s UFO record is difficult to verify because the country never developed a widely accessible public UFO archive, and many of its most frequently cited cases survive only through foreign catalogues, translated summaries, magazine articles, or later database compilations. Unlike countries where military, police, or civilian research groups preserved substantial case files, Mozambique’s UFO history is largely reconstructed from fragments that passed through international ufology networks. As a result, the key question is often not whether a sighting occurred, but whether the surviving source chain can be traced back to a contemporary local document. The archive problem is therefore central to understanding Mozambique’s UFO history: missing records, inaccessible newspapers, lost colonial-era documentation, and repeated secondary citations all shape how these cases are interpreted today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/UFOs... Official UFO Sightings by the Brazilian Government in 2024, Available in Our...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Mozambique_a40a9b_mozambique_archive_g_22f914-Illustration-1-dark.svg" | relative_url }}" alt="Archive Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Mozambique_a40a9b_mozambique_archive_g_22f914-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mozambique_a40a9b_mozambique_archive_g_22f914-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -383,93 +383,51 @@ The most revealing fact about Mozambique's UFO history may not be any individual
 
 Mozambique presents a case study in how UFO narratives survive when local records are sparse. Stories migrate into international catalogues, are translated and retranslated, and gradually become detached from their original documentary context. Researchers are then left trying to reconstruct events from fragments rather than from complete case files.
 
-For this reason, the central challenge in Mozambique UFO research is not simply identifying unusual sightings. It is recovering, locating and verifying the local records that would allow those sightings to be evaluated properly. Until more contemporary newspapers, administrative files, aviation records and witness materials become accessible, many of Mozambique's best-known UFO incidents will remain unresolved primarily because the archive is unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/UFOs... Official UFO Sightings by the Brazilian Government in 2024, Available in Our...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.familysearch.org/en/wiki/Mozambique_Colonial_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: familysearch.org">[FamilySearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">familysearch.org</span><span class="citation-popover-title">Mozambique Colonial Records</span><span class="citation-popover-snippet">FamilySearchMozambique Colonial Records19 Nov 2025 — Portuguese Colonization (1498-1975). Portuguese explorers arrived in the Mozambique...</span></span></span>
+For this reason, the central challenge in Mozambique UFO research is not simply identifying unusual sightings. It is recovering, locating and verifying the local records that would allow those sightings to be evaluated properly. Until more contemporary newspapers, administrative files, aviation records and witness materials become accessible, many of Mozambique's best-known UFO incidents will remain unresolved primarily because the archive is unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/UFOs... Official UFO Sightings by the Brazilian Government in 2024, Available in Our...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.familysearch.org/en/wiki/Mozambique_Colonial_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: familysearch.org">[FamilySearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">familysearch.org</span><span class="citation-popover-title">Mozambique Colonial Records</span><span class="citation-popover-snippet">Mozambique Colonial Records19 Nov 2025 — Portuguese Colonization (1498-1975). Portuguese explorers arrived in the Mozambique...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sIEzrFPgLe0" title="UFO Detected in Asia (Season 5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sIEzrFPgLe0" target="_blank" rel="noopener noreferrer">UFO Detected in Asia (Season 5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 15.1K &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sIEzrFPgLe0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sIEzrFPgLe0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Are Mozambique UFO Records So Hard to Check?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Are Mozambique UFO Records So Hard to Check?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful comparison for countries with stronger surviving archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on evaluating evidence quality, missing data, and case reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Examines documentary records and how UFO cases are preserved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Relevant to discussions of catalogue transmission and historical source chains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -503,75 +461,71 @@ For this reason, the central challenge in Mozambique UFO research is not simply 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gaps-why-are-mozambique-ufo-records-so-hard-to-check-mozambique-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -785,115 +739,115 @@ For this reason, the central challenge in Mozambique UFO research is not simply 
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/](https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dcs5mq/looking_for_portuguese_speakers_for_information/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs... Official UFO Sightings by the Brazilian Government in 2024, Available in Our...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: familysearch.org  
    Title: Mozambique Archives and Libraries  
-   Link: [https://www.familysearch.org/en/wiki/Mozambique_Archives_and_Libraries](https://www.familysearch.org/en/wiki/Mozambique_Archives_and_Libraries)  
+   Link: <a href="https://www.familysearch.org/en/wiki/Mozambique_Archives_and_Libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Mozambique_Archives_and_Libraries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — Historical Archive of Mozambique (Arquivo Histórico de Moçambique) Eduardo Mondlane University Av. Julius Nyerere, nr. 3453...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: familysearch.org  
    Title: Mozambique Colonial Records  
-   Link: [https://www.familysearch.org/en/wiki/Mozambique_Colonial_Records](https://www.familysearch.org/en/wiki/Mozambique_Colonial_Records)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FamilySearchMozambique Colonial Records19 Nov 2025 — Portuguese Colonization (1498-1975). Portuguese explorers arrived in the Mozambique...</p></details>
+   Link: <a href="https://www.familysearch.org/en/wiki/Mozambique_Colonial_Records" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Mozambique_Colonial_Records</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mozambique Colonial Records19 Nov 2025 — Portuguese Colonization (1498-1975). Portuguese explorers arrived in the Mozambique...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Unsilencing Colonial Archives via Automated Entity Recognition  
-   Link: [https://arxiv.org/abs/2210.02194](https://arxiv.org/abs/2210.02194)  
+   Link: <a href="https://arxiv.org/abs/2210.02194" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02194</a>  
 
 5. <a id="endnote-5"></a>
    Source: ia802902.us.archive.org  
-   Link: [https://ia802902.us.archive.org/0/items/cu31924074488234/cu31924074488234.pdf](https://ia802902.us.archive.org/0/items/cu31924074488234/cu31924074488234.pdf)  
+   Link: <a href="https://ia802902.us.archive.org/0/items/cu31924074488234/cu31924074488234.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802902.us.archive.org/0/items/cu31924074488234/cu31924074488234.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 9. A HISTORY. OF THE. COLONIZATION OF AFRICA. BY ALIEN RACES. BY... State—its subsequent history—Long struggle with the Arabs. Lieu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ia801404.us.archive.org  
    Title: The UFO Report  
-   Link: [https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf](https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf)  
+   Link: <a href="https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801404.us.archive.org/8/items/TheUFOReport/The%20UFO%20Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report13 Jan 1981 — paced by a UFO for several hours prior to the &#x27;&#x27;Alien. Space Craft&quot; communication. A number of other radio hams h...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf](https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf)  
+   Link: <a href="https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO COMMENTARYThirty five minutes later they had originally been sighted:. the UFOs disappeared in the direction of Pee. Many Ivangrad r...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dn790001.ca.archive.org  
-   Link: [https://dn790001.ca.archive.org/0/items/historyofcoloniz00johnuoft/historyofcoloniz00johnuoft.pdf](https://dn790001.ca.archive.org/0/items/historyofcoloniz00johnuoft/historyofcoloniz00johnuoft.pdf)  
+   Link: <a href="https://dn790001.ca.archive.org/0/items/historyofcoloniz00johnuoft/historyofcoloniz00johnuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790001.ca.archive.org/0/items/historyofcoloniz00johnuoft/historyofcoloniz00johnuoft.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 9. A HISTORY. OF THE. COLONIZATION OF AFRICA. BY ALIEN RACES. BY... Beira—Mouzinho de Albuquerque—Mocambique Com- pany. 27. Page 14...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/uninvitedguestsd0000hall](https://archive.org/details/uninvitedguestsd0000hall)  
+   Link: <a href="https://archive.org/details/uninvitedguestsd0000hall" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/uninvitedguestsd0000hall</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a documented history of UFO sightings, alien encounters &amp;...16 Nov 2023 — A documented history of UFO sightings, alien encounters &amp; cove...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: clubofmozambique.com  
    Title: trump releases government ufo files more expected watch  
-   Link: [https://clubofmozambique.com/news/trump-releases-government-ufo-files-more-expected-watch/](https://clubofmozambique.com/news/trump-releases-government-ufo-files-more-expected-watch/)  
+   Link: <a href="https://clubofmozambique.com/news/trump-releases-government-ufo-files-more-expected-watch/" target="_blank" rel="noopener noreferrer nofollow">https://clubofmozambique.com/news/trump-releases-government-ufo-files-more-expected-watch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>​President Donald Trump, the Defense Department on Friday released dozens of previously classified files on alleged UFO...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/mozambique-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/mozambique-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mozambique-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mozambique-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mozambique UFO Sightings and Experience ReportsBrowse or report Mozambique UFO UAP or USO sightings and other strange paranormal experien...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MDRhQ2doBR4](https://www.youtube.com/watch?v=MDRhQ2doBR4)  
+   Link: <a href="https://www.youtube.com/watch?v=MDRhQ2doBR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MDRhQ2doBR4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Mysteries of UFOs in Zimbabwe | Full DocumentaryZimbabwe has been a hot spot for this strange phenomena for many years in fact...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: 360mozambique.com  
-   Link: [https://360mozambique.com/world/trump-administration-releases-classified-files-on-extraterrestrial-phenomena/](https://360mozambique.com/world/trump-administration-releases-classified-files-on-extraterrestrial-phenomena/)  
+   Link: <a href="https://360mozambique.com/world/trump-administration-releases-classified-files-on-extraterrestrial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://360mozambique.com/world/trump-administration-releases-classified-files-on-extraterrestrial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government reports on UFOs, as part of a declassification process that began in the late 1970s.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: the-european.eu  
    Title: pentagon reopens moon mystery in huge ufo files release  
-   Link: [https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html](https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html)  
+   Link: <a href="https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html" target="_blank" rel="noopener noreferrer nofollow">https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 May 2026 — New Pentagon UFO files have reopened investigation into an Apollo 17 Moon photograph and unexplained astronaut sightings in...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXXLhN9iT_u/](https://www.instagram.com/p/DXXLhN9iT_u/)  
+   Link: <a href="https://www.instagram.com/p/DXXLhN9iT_u/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXXLhN9iT_u/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nt that changed everything #ufo #aliens...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO incident&quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sightin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Rhodesians.Worldwide/posts/8512752538743332/](https://www.facebook.com/groups/Rhodesians.Worldwide/posts/8512752538743332/)  
+   Link: <a href="https://www.facebook.com/groups/Rhodesians.Worldwide/posts/8512752538743332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Rhodesians.Worldwide/posts/8512752538743332/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1994 Ruwa, Zimbabwe UFO Incident DiscussionI&#x27;ve taken an interest in the 1994 UFO Alien sightings at Ariel School in Ruwa. My mom tol...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7i62GIG3tvU](https://www.youtube.com/watch?v=7i62GIG3tvU)  
+   Link: <a href="https://www.youtube.com/watch?v=7i62GIG3tvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7i62GIG3tvU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Could Pope Leo release secret UFO archives? | Banfield Full Episode 5/8...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: forum.hackliberty.org  
-   Link: [https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-3-1960-up-to-and-including-1969/136](https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-3-1960-up-to-and-including-1969/136)  
+   Link: <a href="https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-3-1960-up-to-and-including-1969/136" target="_blank" rel="noopener noreferrer nofollow">https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-3-1960-up-to-and-including-1969/136</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hackliberty.orgUFO/UAP Event Chronology, Part 3: 1960 up to and...26 May 2024 — Description: Air Force Major: At Wright-Patterson AFB sa...</p></details>
    Published: May 2024  

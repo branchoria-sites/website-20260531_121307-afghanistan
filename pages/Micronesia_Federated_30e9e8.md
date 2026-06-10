@@ -1185,7 +1185,7 @@ next_link:
   title: Morocco UFOs
   permalink: /moroccos-ufo-mystery-and-its-best/
   short_title: Morocco UFOs
-date: '2026-06-09 01:34:06 '
+date: '2026-06-10 01:59:41 '
 header:
   og_image: /assets/images/Micronesia_Federated_30e9e8-overview-social.jpg
   preview_image: /assets/images/Micronesia_Federated_30e9e8-overview.webp
@@ -1301,86 +1301,44 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-3-dark.svg" | relative_url }}" alt="Micronesia Federated States of illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Micronesia Has So Few UFO Cases. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Micronesia Has So Few UFO Cases, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding why some regions produce more reports than others.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Introduces evidence standards and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how cultural environments shape anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Relevant to assessing sparse evidence and unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1414,59 +1372,71 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=micronesia-federated-states-of-why-micronesia-has-so-few-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1681,245 +1651,245 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
 1. <a id="endnote-1"></a>
    Source: tci.gov.fm  
    Title: DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation  
-   Link: [https://tci.gov.fm/civilaviation/index.html](https://tci.gov.fm/civilaviation/index.html)  
+   Link: <a href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://tci.gov.fm/civilaviation/index.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 3. <a id="endnote-3"></a>
    Source: gov.fm  
-   Link: [https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/](https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/)  
+   Link: <a href="https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 5. <a id="endnote-5"></a>
    Source: whc.unesco.org  
-   Link: [https://whc.unesco.org/en/list/1503/](https://whc.unesco.org/en/list/1503/)  
+   Link: <a href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1503/</a>  
 
 6. <a id="endnote-6"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/gum/WSOChuuk](https://www.weather.gov/gum/WSOChuuk)  
+   Link: <a href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gum/WSOChuuk</a>  
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/gum/pohnpei](https://www.weather.gov/gum/pohnpei)  
+   Link: <a href="https://www.weather.gov/gum/pohnpei" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gum/pohnpei</a>  
 
 8. <a id="endnote-8"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/article/what-does-reentry-look-like](https://aerospace.org/article/what-does-reentry-look-like)  
+   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
 9. <a id="endnote-9"></a>
    Source: hawaii.edu  
    Title: ufo spotted over hawaii  
-   Link: [https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/](https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/)  
+   Link: <a href="https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436](https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436</a>  
 
 12. <a id="endnote-12"></a>
    Source: pacificarchaeology.org  
-   Link: [https://pacificarchaeology.org/index.php/journal/article/view/68](https://pacificarchaeology.org/index.php/journal/article/view/68)  
+   Link: <a href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow">https://pacificarchaeology.org/index.php/journal/article/view/68</a>  
 
 13. <a id="endnote-13"></a>
    Source: human.libretexts.org  
-   Link: [https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things](https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things)  
+   Link: <a href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: gov.fm  
-   Link: [https://gov.fm/](https://gov.fm/)  
+   Link: <a href="https://gov.fm/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/</a>  
 
 16. <a id="endnote-16"></a>
    Source: tci.gov.fm  
-   Link: [https://tci.gov.fm/civilaviation/sitemap.html](https://tci.gov.fm/civilaviation/sitemap.html)  
+   Link: <a href="https://tci.gov.fm/civilaviation/sitemap.html" target="_blank" rel="noopener noreferrer nofollow">https://tci.gov.fm/civilaviation/sitemap.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: gov.fm  
    Title: president simina completes working visit to yap state and its outer islands  
-   Link: [https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/](https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/)  
+   Link: <a href="https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nach.gov.fm  
-   Link: [https://nach.gov.fm/nan-madol/](https://nach.gov.fm/nan-madol/)  
+   Link: <a href="https://nach.gov.fm/nan-madol/" target="_blank" rel="noopener noreferrer nofollow">https://nach.gov.fm/nan-madol/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nach.gov.fm  
-   Link: [https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf](https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf)  
+   Link: <a href="https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 22. <a id="endnote-22"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508](https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508)  
+   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
 23. <a id="endnote-23"></a>
    Source: news.sky.com  
    Title: pentagon releases never before seen files on ufos 13541565  
-   Link: [https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565](https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565)  
+   Link: <a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 26. <a id="endnote-26"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 27. <a id="endnote-27"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 28. <a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 29. <a id="endnote-29"></a>
    Source: state.gov  
    Title: federated states of micronesia  
-   Link: [https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia](https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia)  
+   Link: <a href="https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia</a>  
 
 30. <a id="endnote-30"></a>
    Source: 2017-2021.state.gov  
-   Link: [https://2017-2021.state.gov/countries-areas/micronesia/](https://2017-2021.state.gov/countries-areas/micronesia/)  
+   Link: <a href="https://2017-2021.state.gov/countries-areas/micronesia/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/micronesia/</a>  
 
 31. <a id="endnote-31"></a>
    Source: travel.state.gov  
    Title: Federated States Of Micronesia  
-   Link: [https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html)  
+   Link: <a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 33. <a id="endnote-33"></a>
    Source: theguardian.com  
    Title: micronesia president wesley simina military capabilities us airport upgrade yap  
-   Link: [https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap](https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap)  
+   Link: <a href="https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap</a>  
 
 34. <a id="endnote-34"></a>
    Source: sfchronicle.com  
    Title: spacex falcon 9 starlink launch 20053824  
-   Link: [https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php](https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php)  
+   Link: <a href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php</a>  
 
 35. <a id="endnote-35"></a>
    Source: jasoncolavito.com  
-   Link: [https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol](https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol)  
+   Link: <a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Federated States of Micronesia  
-   Link: [https://en.wikipedia.org/wiki/Federated_States_of_Micronesia](https://en.wikipedia.org/wiki/Federated_States_of_Micronesia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federated_States_of_Micronesia</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Compact of Free Association  
-   Link: [https://en.wikipedia.org/wiki/Compact_of_Free_Association](https://en.wikipedia.org/wiki/Compact_of_Free_Association)  
+   Link: <a href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compact_of_Free_Association</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Nan Madol  
-   Link: [https://en.wikipedia.org/wiki/Nan_Madol](https://en.wikipedia.org/wiki/Nan_Madol)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nan_Madol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nan_Madol</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/](https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/</a>  
 
 40. <a id="endnote-40"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.abm6536](https://www.science.org/doi/10.1126/science.abm6536)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.abm6536" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.abm6536</a>  
 
 41. <a id="endnote-41"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.adu0447](https://www.science.org/doi/10.1126/science.adu0447)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.adu0447" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu0447</a>  
 
 42. <a id="endnote-42"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.1400060](https://www.science.org/doi/10.1126/sciadv.1400060)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.1400060" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.1400060</a>  
 
 43. <a id="endnote-43"></a>
    Source: pacific-studies.net  
-   Link: [https://www.pacific-studies.net/datadetails.php?place=9&source=3&type=Data](https://www.pacific-studies.net/datadetails.php?place=9&source=3&type=Data)  
+   Link: <a href="https://www.pacific-studies.net/datadetails.php?place=9&amp;source=3&amp;type=Data" target="_blank" rel="noopener noreferrer nofollow">https://www.pacific-studies.net/datadetails.php?place=9&amp;source=3&amp;type=Data</a>  
 
 44. <a id="endnote-44"></a>
    Source: jasoncolavito.com  
    Title: review of ancient aliens s06e09 aliens and forbidden islands  
-   Link: [https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands](https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands)  
+   Link: <a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands</a>  
 
 45. <a id="endnote-45"></a>
    Source: openfactbook.org  
    Title: Federated States of Micronesia  
-   Link: [https://openfactbook.org/countries/federated-states-of-micronesia/](https://openfactbook.org/countries/federated-states-of-micronesia/)  
+   Link: <a href="https://openfactbook.org/countries/federated-states-of-micronesia/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/federated-states-of-micronesia/</a>  
 
 46. <a id="endnote-46"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia](https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia</a>  
 
 ### Additional References
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=X8rZz93wtjs](https://www.youtube.com/watch?v=X8rZz93wtjs)  
+   Link: <a href="https://www.youtube.com/watch?v=X8rZz93wtjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8rZz93wtjs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Releases UFO Files... Trying to Divert Attention from &#x27;Iran War&#x27;? / YonhapnewsTV...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-jw8VREWpnk](https://www.youtube.com/watch?v=-jw8VREWpnk)  
+   Link: <a href="https://www.youtube.com/watch?v=-jw8VREWpnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-jw8VREWpnk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Decoding the Strange ALIEN Secrets of Nan Madol | History  
-   Link: [https://www.youtube.com/watch?v=80a2_dslsbs](https://www.youtube.com/watch?v=80a2_dslsbs)  
+   Link: <a href="https://www.youtube.com/watch?v=80a2_dslsbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=80a2_dslsbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nan Madol: The Megalithic Island City of the Pacific...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Nan Madol: The Megalithic Island City of the Pacific  
-   Link: [https://www.youtube.com/watch?v=Vh7Re5DdQH8](https://www.youtube.com/watch?v=Vh7Re5DdQH8)  
+   Link: <a href="https://www.youtube.com/watch?v=Vh7Re5DdQH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vh7Re5DdQH8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Over the Pacific! Gulfstream Pilot Reports UAP at 47,000 ft...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: doi.gov  
-   Link: [https://www.doi.gov/oia/compacts-of-free-association](https://www.doi.gov/oia/compacts-of-free-association)  
+   Link: <a href="https://www.doi.gov/oia/compacts-of-free-association" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/oia/compacts-of-free-association</a>  
 
 52. <a id="endnote-52"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf](https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt11601804/](https://www.imdb.com/title/tt11601804/)  
+   Link: <a href="https://www.imdb.com/title/tt11601804/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt11601804/</a>  
 
 54. <a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei](https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei)  
+   Link: <a href="https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/](https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/)  
+   Link: <a href="https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/</a>  
 
 56. <a id="endnote-56"></a>
    Source: flights-idealo.co.uk  
-   Link: [https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/](https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/)  
+   Link: <a href="https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/" target="_blank" rel="noopener noreferrer nofollow">https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/</a>  

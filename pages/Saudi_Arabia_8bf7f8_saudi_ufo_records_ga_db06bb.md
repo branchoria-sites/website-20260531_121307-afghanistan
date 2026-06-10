@@ -239,7 +239,7 @@ prev_link:
   permalink: /medina-lights/
   short_title: Medina Lights
   heading_title: Was The Medina UFO Really Space Debris?
-date: '2026-06-09 01:39:26 '
+date: '2026-06-10 02:06:25 '
 header:
   og_image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1-social.jpg
   preview_image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustrati
 
 ## Introduction
 
-Anyone looking for a Saudi equivalent of the United States' declassified UFO archives quickly encounters a different reality. [Saudi Arabia]({{ 'what-really-explains-saudi-arabias-ufo/' | relative_url }}) does not maintain a publicly accessible national UFO case database, and there is no known official programme that routinely releases unidentified aerial phenomenon (UAP) investigation files to the public. Instead, the country's visible record is scattered across aviation regulations, drone-control systems, geological documentation, occasional news reports and general airspace management records. [الهيئة العامة للطيران المدني]
+Anyone looking for a Saudi equivalent of the United States' declassified UFO archives quickly encounters a different reality. Saudi Arabia does not maintain a publicly accessible national UFO case database, and there is no known official programme that routinely releases unidentified aerial phenomenon (UAP) investigation files to the public. Instead, the country's visible record is scattered across aviation regulations, drone-control systems, geological documentation, occasional news reports and general airspace management records. [الهيئة العامة للطيران المدني]
 
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,9 +262,9 @@ Civil aviation records are the most visible. The General Authority of Civil Avia
 
 Researchers examining unusual aerial reports often discover that Saudi documentation becomes much more detailed when an object can be classified as a drone, aircraft or regulated flight activity. The existence of dedicated registration portals, pilot certification systems and permit procedures demonstrates that many modern aerial mysteries are filtered through aviation governance before they ever become "UFO" stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">Register your unmanned aircraft, obtain Remote Pilot Certificate (RPC)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">Register your unmanned aircraft, obtain Remote Pilot Certificate (RPC)...</span></span></span>
 
-The second major record category is geological. The Wabar impact site in the Empty Quarter is one of the clearest examples. Rather than appearing in a UFO archive, the event is documented through geological and meteorite records. Saudi and international scientific sources describe measurable impact craters, recovered meteorite material and ongoing geological study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">SaudipediaWabar Meteorite - Saudipedia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=35327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Observed fall: No Age: poss. fell 1863. Country: Saudi Arabia. Classification history: Recommended...Read more...</span></span></span>
+The second major record category is geological. The Wabar impact site in the Empty Quarter is one of the clearest examples. Rather than appearing in a UFO archive, the event is documented through geological and meteorite records. Saudi and international scientific sources describe measurable impact craters, recovered meteorite material and ongoing geological study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite - Saudipedia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=35327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Observed fall: No Age: poss. fell 1863. Country: Saudi Arabia. Classification history: Recommended...Read more...</span></span></span>
 
-This distinction is important. When a dramatic sky event leaves recoverable physical evidence, Saudi documentation generally appears through scientific or governmental institutions concerned with geology and natural history rather than through a separate anomalous-phenomena bureaucracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">SaudipediaWabar Meteorite - Saudipedia...</span></span></span>
+This distinction is important. When a dramatic sky event leaves recoverable physical evidence, Saudi documentation generally appears through scientific or governmental institutions concerned with geology and natural history rather than through a separate anomalous-phenomena bureaucracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite - Saudipedia...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ep43asme79I" title="Green ORBS, Discs And FIREBALLS. What Do New UFO Files Tell Us? | GNT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ep43asme79I" target="_blank" rel="noopener noreferrer">Green ORBS, Discs And FIREBALLS. What Do New UFO Files Tell Us? | GNT</a></p><p class="youtube-embed-meta">Channel: Al Arabiya English &middot; Views: 10.4K &middot; Uploaded: May 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ep43asme79I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ep43asme79I">Open on YouTube</a></p></div></div></div>
@@ -353,7 +353,7 @@ The public Saudi UFO record repeatedly demonstrates a documentation challenge ra
 
 Some incidents receive brief media attention and then disappear from the public record. Others are reported through newspapers but lack follow-up technical analysis. A few involve objects later identified as meteorites, atmospheric events or ordinary objects. The result is a fragmented archive made up of isolated reports rather than an organised investigative history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/291417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-snippet">Arab News&#x27;UFO&#x27; Sighting Leads Police to Trash Bin21 Nov 2006 — The UFO was first spotted by a number of construction workers at a site ne...</span></span></span>
 
-The contrast with the Wabar meteorite is especially revealing. The impact produced physical traces, measurable crater dimensions, recoverable fragments and scientific study extending across decades. Because evidence existed beyond eyewitness testimony, researchers could build a lasting record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">SaudipediaWabar Meteorite - Saudipedia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=35327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Observed fall: No Age: poss. fell 1863. Country: Saudi Arabia. Classification history: Recommended...Read more...</span></span></span>
+The contrast with the Wabar meteorite is especially revealing. The impact produced physical traces, measurable crater dimensions, recoverable fragments and scientific study extending across decades. Because evidence existed beyond eyewitness testimony, researchers could build a lasting record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite - Saudipedia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=35327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Observed fall: No Age: poss. fell 1863. Country: Saudi Arabia. Classification history: Recommended...Read more...</span></span></span>
 
 Many Saudi UFO reports lack those features. Without recovered material, sensor data, radar records or sustained investigation, the cases remain difficult to evaluate years later.
 
@@ -391,86 +391,44 @@ What is missing is not simply a folder labelled "UFOs". What is missing is a pub
 That gap leaves genuine uncertainty. Some reports may have been recorded internally. Others may never have been investigated in depth. Still others may have straightforward explanations that were never publicly communicated. The absence of a national public UFO archive therefore reveals a documentation problem, not proof of a hidden extraterrestrial record. In the Saudi context, the strongest available evidence still comes from identifiable aviation systems, documented natural phenomena and verifiable physical events rather than from leaked or declassified UFO files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.gov">[Intelligence.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.gov</span><span class="citation-popover-snippet">Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</span></span></span> 3الهيئة العامة للطيران المدني <span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">Register your unmanned aircraft, obtain Remote Pilot Certificate (RPC)...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Are Saudi Arabia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Are Saudi Arabia&#x27;s UFO Records?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how official case files and reporting systems operate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Strong fit for readers interested in archives, records and government handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights documented official cases and record trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
-        
-        <p class="fr-book-desc">Relevant to readers comparing public archives across countries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -504,75 +462,71 @@ That gap leaves genuine uncertainty. Some reports may have been recorded interna
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-d1601a-where-are-saudi-arabia-s-ufo-records-saudi-arabia-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -787,111 +741,111 @@ That gap leaves genuine uncertainty. Some reports may have been recorded interna
 1. <a id="endnote-1"></a>
    Source: gaca.gov.sa  
    Title: الهيئة العامة للطيران المدنيGACA | Saudi Arabia  
-   Link: [https://gaca.gov.sa/en/](https://gaca.gov.sa/en/)  
+   Link: <a href="https://gaca.gov.sa/en/" target="_blank" rel="noopener noreferrer nofollow">https://gaca.gov.sa/en/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official SiteWelcome to GACA&#x27;s official site.24 Find Saudi Arabia&#x27;s aviation regulations, licensing, updates, news, and services for airl...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: uas.gaca.gov.sa  
    Title: GACA UAS Portal Unmanned Aircraft Registration  
-   Link: [https://uas.gaca.gov.sa/?locale=en](https://uas.gaca.gov.sa/?locale=en)  
+   Link: <a href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow">https://uas.gaca.gov.sa/?locale=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Register your unmanned aircraft, obtain Remote Pilot Certificate (RPC)...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: myeservices.gaca.gov.sa  
-   Link: [https://myeservices.gaca.gov.sa/eservices](https://myeservices.gaca.gov.sa/eservices)  
+   Link: <a href="https://myeservices.gaca.gov.sa/eservices" target="_blank" rel="noopener noreferrer nofollow">https://myeservices.gaca.gov.sa/eservices</a>  
 
 4. <a id="endnote-4"></a>
    Source: saudipedia.com  
    Title: Wabar Meteorite  
-   Link: [https://saudipedia.com/en/wabar-meteorite](https://saudipedia.com/en/wabar-meteorite)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaudipediaWabar Meteorite - Saudipedia...</p></details>
+   Link: <a href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://saudipedia.com/en/wabar-meteorite</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wabar Meteorite - Saudipedia...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: myeservices.gaca.gov.sa  
    Title: GACA UAS Portal Aircraft Registration  
-   Link: [https://myeservices.gaca.gov.sa/eservices/eservice/details?detailsId=2291](https://myeservices.gaca.gov.sa/eservices/eservice/details?detailsId=2291)  
+   Link: <a href="https://myeservices.gaca.gov.sa/eservices/eservice/details?detailsId=2291" target="_blank" rel="noopener noreferrer nofollow">https://myeservices.gaca.gov.sa/eservices/eservice/details?detailsId=2291</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GACA UAS PortalAircraft Registration - GACA E-ServicesOfficial GACA eServices platform in Saudi Arabia, providing digital access to aviat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: uas.gaca.gov.sa  
-   Link: [https://uas.gaca.gov.sa/uas/faq](https://uas.gaca.gov.sa/uas/faq)  
+   Link: <a href="https://uas.gaca.gov.sa/uas/faq" target="_blank" rel="noopener noreferrer nofollow">https://uas.gaca.gov.sa/uas/faq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GACA UAS PortalSaudi Arabia Official PortalFirst, you need to create an account on the drone platform: Visit the login page: [https://uas...&quot;](https://uas...&quot;)...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/metbull.php?code=35327](https://www.lpi.usra.edu/meteor/metbull.php?code=35327)  
+   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=35327" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=35327</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed fall: No Age: poss. fell 1863. Country: Saudi Arabia. Classification history: Recommended...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: intelligence.gov  
-   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+   Link: <a href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ndtv.com  
-   Link: [https://www.ndtv.com/feature/ufos-dancing-boeing-pilot-captures-breathtaking-footage-of-mysterious-objects-in-sky-6334450](https://www.ndtv.com/feature/ufos-dancing-boeing-pilot-captures-breathtaking-footage-of-mysterious-objects-in-sky-6334450)  
+   Link: <a href="https://www.ndtv.com/feature/ufos-dancing-boeing-pilot-captures-breathtaking-footage-of-mysterious-objects-in-sky-6334450" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ufos-dancing-boeing-pilot-captures-breathtaking-footage-of-mysterious-objects-in-sky-6334450</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.com&quot;UFOs Dancing&quot;: Boeing Pilot Captures Breathtaking...14 Aug 2024 — Pilots on a Boeing 747 flight from Jeddah, Saudi Arabia t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=cSaudi_Arabia](https://nuforc.org/subndx/?id=cSaudi_Arabia)  
+   Link: <a href="https://nuforc.org/subndx/?id=cSaudi_Arabia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSaudi_Arabia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country Saudi ArabiaNUFORC Reports for Country &#x27;Saudi Arabia&#x27;... Copyright 2026 National UFO Reporting Center, Davenp...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: myeservices.gaca.gov.sa  
    Title: gaca.gov.sa GAC A EServices Portal  
-   Link: [https://myeservices.gaca.gov.sa/eservices?locale=en](https://myeservices.gaca.gov.sa/eservices?locale=en)  
+   Link: <a href="https://myeservices.gaca.gov.sa/eservices?locale=en" target="_blank" rel="noopener noreferrer nofollow">https://myeservices.gaca.gov.sa/eservices?locale=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EServices Portal - Saudi ArabiaUAS Registration portal allows individuals and companies to register their drones for recreational and com...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uas.gaca.gov.sa  
    Title: gaca.gov.sa Unmanned Aircraft Registration  
-   Link: [https://uas.gaca.gov.sa/uas/login](https://uas.gaca.gov.sa/uas/login)  
+   Link: <a href="https://uas.gaca.gov.sa/uas/login" target="_blank" rel="noopener noreferrer nofollow">https://uas.gaca.gov.sa/uas/login</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Register your unmanned aircraft, obtain Remote Pilot Certificate (RPC)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: myeservices.gaca.gov.sa  
-   Link: [https://myeservices.gaca.gov.sa/eservices/eservices](https://myeservices.gaca.gov.sa/eservices/eservices)  
+   Link: <a href="https://myeservices.gaca.gov.sa/eservices/eservices" target="_blank" rel="noopener noreferrer nofollow">https://myeservices.gaca.gov.sa/eservices/eservices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>E-ServicesOfficial GACA eServices platform in Saudi Arabia, providing digital access to aviation-related services such as licensing, airc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: myeservices.gaca.gov.sa  
    Title: gaca.gov.sa Login  
-   Link: [https://myeservices.gaca.gov.sa/eservices/login](https://myeservices.gaca.gov.sa/eservices/login)  
+   Link: <a href="https://myeservices.gaca.gov.sa/eservices/login" target="_blank" rel="noopener noreferrer nofollow">https://myeservices.gaca.gov.sa/eservices/login</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General Authority of Civil AviationOfficial GACA eServices platform in Saudi Arabia, providing digital access to aviation-related service...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uas.gaca.gov.sa  
    Title: gaca.gov.sa Unmanned Aircraft Registration  
-   Link: [https://uas.gaca.gov.sa/uas/contact](https://uas.gaca.gov.sa/uas/contact)  
+   Link: <a href="https://uas.gaca.gov.sa/uas/contact" target="_blank" rel="noopener noreferrer nofollow">https://uas.gaca.gov.sa/uas/contact</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Register your unmanned aircraft, obtain Remote Pilot Certificate (RPC)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: safeairspace.net  
-   Link: [https://safeairspace.net/](https://safeairspace.net/)  
+   Link: <a href="https://safeairspace.net/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceSafe Airspace – Conflict Zone and Risk DatabaseEASA CZIB extended, change to warning: Operators should avoid Iran, Iraq and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: terra-drone.com.sa  
    Title: gaca drone regulations the 2026 permit guide  
-   Link: [https://terra-drone.com.sa/gaca-drone-regulations-the-2026-permit-guide/](https://terra-drone.com.sa/gaca-drone-regulations-the-2026-permit-guide/)  
+   Link: <a href="https://terra-drone.com.sa/gaca-drone-regulations-the-2026-permit-guide/" target="_blank" rel="noopener noreferrer nofollow">https://terra-drone.com.sa/gaca-drone-regulations-the-2026-permit-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terra Drone ArabiaGACA Drone Regulations: The 2026 Permit GuideMay 5, 2026 — Learn about GACA drone rules in 2026 and how every drone pil...</p></details>
    Published: May 5, 2026  
 
 18. <a id="endnote-18"></a>
    Source: arabnews.com  
-   Link: [https://www.arabnews.com/node/291417](https://www.arabnews.com/node/291417)  
+   Link: <a href="https://www.arabnews.com/node/291417" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/291417</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arab News&#x27;UFO&#x27; Sighting Leads Police to Trash Bin21 Nov 2006 — The UFO was first spotted by a number of construction workers at a site ne...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ArabNews/posts/residents-in-saudi-arabias-northwest-have-been-puzzled-by-the-appearance-of-what/1141584571339889/](https://www.facebook.com/ArabNews/posts/residents-in-saudi-arabias-northwest-have-been-puzzled-by-the-appearance-of-what/1141584571339889/)  
+   Link: <a href="https://www.facebook.com/ArabNews/posts/residents-in-saudi-arabias-northwest-have-been-puzzled-by-the-appearance-of-what/1141584571339889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/residents-in-saudi-arabias-northwest-have-been-puzzled-by-the-appearance-of-what/1141584571339889/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kazzy Stevens ▻ UFO Abductee&#x27;s, Implants, Time Losses &amp; Sightings...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arabnews.com  
    Title: Files on UFOs, released Friday,  
-   Link: [https://www.arabnews.com/node/2642966/world](https://www.arabnews.com/node/2642966/world)  
+   Link: <a href="https://www.arabnews.com/node/2642966/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642966/world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...May 9, 2026 — Bright lights and hot orbs: UFO files shed light on sighti...</p></details>
    Published: May 9, 2026  
 
@@ -899,54 +853,54 @@ That gap leaves genuine uncertainty. Some reports may have been recorded interna
 
 21. <a id="endnote-21"></a>
    Source: uavcoach.com  
-   Link: [https://uavcoach.com/drone-laws-in-saudi-arabia/](https://uavcoach.com/drone-laws-in-saudi-arabia/)  
+   Link: <a href="https://uavcoach.com/drone-laws-in-saudi-arabia/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-saudi-arabia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in Saudi ArabiaThe drone has been issued an airworthiness certificate, is registered and marked correctly according to GACA re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: iatc.edu.sa  
-   Link: [https://www.iatc.edu.sa/gaca/](https://www.iatc.edu.sa/gaca/)  
+   Link: <a href="https://www.iatc.edu.sa/gaca/" target="_blank" rel="noopener noreferrer nofollow">https://www.iatc.edu.sa/gaca/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GACA LicenseThe student will sign the official GACA license application form only after the first test. Request an invoice for the Genera...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/sa](https://enigmalabs.io/explore/sa)  
+   Link: <a href="https://enigmalabs.io/explore/sa" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/sa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Saudi ArabiaExplore UFO &amp; UAP sightings in Saudi Arabia. Discover sighting maps, historical and recent trends, and video...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: artangel.org.uk  
-   Link: [https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/](https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/)  
+   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As an eyewitness, shepherd Trantos Karatranjos told me, suddenly the troubled UFO lost altitude...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: english.aawsat.com  
    Title: 5271072 there anybody out there pentagon releases secret ufo files  
-   Link: [https://english.aawsat.com/varieties/5271072-there-anybody-out-there-pentagon-releases-secret-ufo-files](https://english.aawsat.com/varieties/5271072-there-anybody-out-there-pentagon-releases-secret-ufo-files)  
+   Link: <a href="https://english.aawsat.com/varieties/5271072-there-anybody-out-there-pentagon-releases-secret-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://english.aawsat.com/varieties/5271072-there-anybody-out-there-pentagon-releases-secret-ufo-files</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Secret...3 days ago — Trump directed US federal agencies in February to begin identifying and releasing government fil...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: terra-drone.com.sa  
    Title: major update on gaca regulation part 107 operation of uas v5  
-   Link: [https://terra-drone.com.sa/major-update-on-gaca-regulation-part-107-operation-of-uas-v5/](https://terra-drone.com.sa/major-update-on-gaca-regulation-part-107-operation-of-uas-v5/)  
+   Link: <a href="https://terra-drone.com.sa/major-update-on-gaca-regulation-part-107-operation-of-uas-v5/" target="_blank" rel="noopener noreferrer nofollow">https://terra-drone.com.sa/major-update-on-gaca-regulation-part-107-operation-of-uas-v5/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Update on GACA Regulation Part 107 Operation of...Jan 20, 2026 — Digital Registration: Each aircraft must be registered via the GA...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: 9tenthsco.com  
    Title: how to register drones with gaca in saudi arabia 2025 guide  
-   Link: [https://www.9tenthsco.com/post/how-to-register-drones-with-gaca-in-saudi-arabia-2025-guide](https://www.9tenthsco.com/post/how-to-register-drones-with-gaca-in-saudi-arabia-2025-guide)  
+   Link: <a href="https://www.9tenthsco.com/post/how-to-register-drones-with-gaca-in-saudi-arabia-2025-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.9tenthsco.com/post/how-to-register-drones-with-gaca-in-saudi-arabia-2025-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NineTenthsDrone Registration in Saudi Arabia – Complete GACA GuideOct 13, 2025 — Access the Official GACA Portal. Start by visiting the G...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: allarab.news  
    Title: us drone operating in middle east spots mysterious orb  
-   Link: [https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/](https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/)  
+   Link: <a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Apr 2023 — Highlighting the lack of data, Kirkpatrick encouraged UFO enthusiasts to submit data on observed incidents to credible, pee...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lifeinsaudiarabia.net  
-   Link: [https://lifeinsaudiarabia.net/can-we-fly-drone-in-saudi-arabia/](https://lifeinsaudiarabia.net/can-we-fly-drone-in-saudi-arabia/)  
+   Link: <a href="https://lifeinsaudiarabia.net/can-we-fly-drone-in-saudi-arabia/" target="_blank" rel="noopener noreferrer nofollow">https://lifeinsaudiarabia.net/can-we-fly-drone-in-saudi-arabia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to register a drone license in Saudi Arabia?In the case of heavier drones, a commercial registration is required for SR 500...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k57o7b/lake_erie_saudi_arabia_and_dugway_army_records/](https://www.reddit.com/r/UFOs/comments/1k57o7b/lake_erie_saudi_arabia_and_dugway_army_records/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k57o7b/lake_erie_saudi_arabia_and_dugway_army_records/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k57o7b/lake_erie_saudi_arabia_and_dugway_army_records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufo - Lake Erie, Saudi Arabia, and Dugway: Army Records Trace.Read more...</p></details>

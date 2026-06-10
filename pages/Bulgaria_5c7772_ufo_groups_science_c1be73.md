@@ -239,7 +239,7 @@ prev_link:
   permalink: /pilot-claims/
   short_title: Pilot Claims
   heading_title: How Strong Are Bulgaria's Pilot UFO Claims?
-date: '2026-06-09 01:22:10 '
+date: '2026-06-10 01:46:35 '
 header:
   og_image: /assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-1-social.jpg
   preview_image: /assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-1-s
 
 ## Introduction
 
-In the context of [Bulgaria]({{ 'what-really-explains-bulgarias-ufo/' | relative_url }})’s ongoing public fascination with sightings and unexplained aerial phenomena, a distinct landscape of local enthusiasts, clubs, community networks, and occasional scientific engagement has developed around UFO (Unidentified Flying Object) reports. Unlike countries with formal government programmes or extensive academic research on the topic, Bulgaria’s UFO investigation activity has mainly thrived at the grassroots level: hobbyist groups, individual researchers, and occasional interactions with scientific institutions. At the same time, attempts to bring scientific scrutiny to these phenomena have met with mixed responses, limited formal study, and scepticism from mainstream science. This page examines who investigates UFO claims in Bulgaria, how these efforts are structured, and where scientific scrutiny intersects (or fails to) with popular UFO interest in the country.
+In the context of Bulgaria’s ongoing public fascination with sightings and unexplained aerial phenomena, a distinct landscape of local enthusiasts, clubs, community networks, and occasional scientific engagement has developed around UFO (Unidentified Flying Object) reports. Unlike countries with formal government programmes or extensive academic research on the topic, Bulgaria’s UFO investigation activity has mainly thrived at the grassroots level: hobbyist groups, individual researchers, and occasional interactions with scientific institutions. At the same time, attempts to bring scientific scrutiny to these phenomena have met with mixed responses, limited formal study, and scepticism from mainstream science. This page examines who investigates UFO claims in Bulgaria, how these efforts are structured, and where scientific scrutiny intersects (or fails to) with popular UFO interest in the country.
 
 
 <img src="{{ "/assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-1-dark.svg" | relative_url }}" alt="UFO Groups illustration 1" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -298,86 +298,44 @@ In Bulgaria, the landscape of UFO investigation comprises active grassroots comm
 <img src="{{ "/assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-3-dark.svg" | relative_url }}" alt="UFO Groups illustration 3" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772_ufo_groups_science_c1be73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Who Investigates UFO Claims in Bulgaria?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Who Investigates UFO Claims in Bulgaria?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Influential among independent UFO researchers and enthusiasts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows how organized inquiry into UFO claims develops.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Explores communities, researchers, and belief networks around UFO phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Relevant to the scientific scrutiny and skepticism discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -411,75 +369,71 @@ In Bulgaria, the landscape of UFO investigation comprises active grassroots comm
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/c58df42446e705e84105.jpg' | relative_url }}" alt="Listing image for UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo club patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo club patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Area 51 Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/473970bfe352caea2ca7.jpg' | relative_url }}" alt="Listing image for UFO Alien Area 51 Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Area 51 Badge Patches Badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo club patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo club patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Embroidered Patch Badge Iron on or Sew on."><img src="{{ '/assets/images/marketplace-covers/60606d038f57c22b1ed4.jpg' | relative_url }}" alt="Listing image for UFO Embroidered Patch Badge Iron on or Sew on." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Embroidered Patch Badge Iron on or Sew on.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo club patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo club patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Believers Club Iron on Patch alien UFO space ship spaceship stars moon outer kid"><img src="{{ '/assets/images/marketplace-covers/8c58e008670ce6420855.jpg' | relative_url }}" alt="Listing image for Believers Club Iron on Patch alien UFO space ship spaceship stars moon outer kid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer">Believers Club Iron on Patch alien UFO space ship spaceship stars moon outer kid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo club patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo club patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+club+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo club patch" data-ebay-reference="ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-club-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-groups-who-investigates-ufo-claims-in-bulgaria-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -693,54 +647,54 @@ In Bulgaria, the landscape of UFO investigation comprises active grassroots comm
 
 1. <a id="endnote-1"></a>
    Source: bgdnes.bg  
-   Link: [https://www.bgdnes.bg/bulgaria/article/4604431](https://www.bgdnes.bg/bulgaria/article/4604431)  
+   Link: <a href="https://www.bgdnes.bg/bulgaria/article/4604431" target="_blank" rel="noopener noreferrer nofollow">https://www.bgdnes.bg/bulgaria/article/4604431</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Иван Лазаров, първият БГ уфолог: Паисий е описал среща с НЛОFebruary 17, 2015...</p></details>
    Published: February 17, 2015  
 
 2. <a id="endnote-2"></a>
    Source: novinite.com  
-   Link: [https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims](https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NoviniteBAS To Investigate UFO Claims21 Nov 2014 —... official conference on the existence of UFOs and... (BAS), UFO, Institute for Spa...</p></details>
+   Link: <a href="https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims" target="_blank" rel="noopener noreferrer nofollow">https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BAS To Investigate UFO Claims21 Nov 2014 —... official conference on the existence of UFOs and... (BAS), UFO, Institute for Spa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ufology](https://en.wikipedia.org/wiki/Ufology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
 
 4. <a id="endnote-4"></a>
    Source: bgdnes.bg  
-   Link: [https://www.bgdnes.bg/bulgaria/article/7681084](https://www.bgdnes.bg/bulgaria/article/7681084)  
+   Link: <a href="https://www.bgdnes.bg/bulgaria/article/7681084" target="_blank" rel="noopener noreferrer nofollow">https://www.bgdnes.bg/bulgaria/article/7681084</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Извънземни взимат Динко на кораба сиSeptember 30, 2019 — ИЗВЪНЗЕМНИ ВЗИМАТ ДИНКО НА КОРАБА СИ Публикувана: 30.09.2019, 12:20 5543 Автор...</p></details>
    Published: September 30, 2019  
 
 5. <a id="endnote-5"></a>
    Source: novinite.com  
    Title: Bulgaria UFO Video under Scrutiny By Ex-FBI Agent Ben Hansen  
-   Link: [https://www.novinite.com/articles/152794/Bulgaria%2BUFO%2BVideo%2Bunder%2BScrutiny%2BBy%2BEx-FBI%2BAgent%2BBen%2BHansen](https://www.novinite.com/articles/152794/Bulgaria%2BUFO%2BVideo%2Bunder%2BScrutiny%2BBy%2BEx-FBI%2BAgent%2BBen%2BHansen)  
+   Link: <a href="https://www.novinite.com/articles/152794/Bulgaria%2BUFO%2BVideo%2Bunder%2BScrutiny%2BBy%2BEx-FBI%2BAgent%2BBen%2BHansen" target="_blank" rel="noopener noreferrer nofollow">https://www.novinite.com/articles/152794/Bulgaria%2BUFO%2BVideo%2Bunder%2BScrutiny%2BBy%2BEx-FBI%2BAgent%2BBen%2BHansen</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sofia News AgencyAugust 13, 2013 — BULGARIA UFO VIDEO UNDER SCRUTINY BY EX-FBI AGENT BEN HANSEN Views on BG | August 13, 2013, Tuesday //...</p></details>
    Published: August 13, 2013  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: UFO Disclosure Bulgaria  
-   Link: [https://www.youtube.com/watch?v=QZ91jz4MSkY](https://www.youtube.com/watch?v=QZ91jz4MSkY)  
+   Link: <a href="https://www.youtube.com/watch?v=QZ91jz4MSkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QZ91jz4MSkY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clifford Stone with UFO Disclosure Bulgaria...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pronewsdobrich.bg  
-   Link: [https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644](https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644)  
+   Link: <a href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow">https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Про Нюз ДобричMarch 12, 2026...</p></details>
    Published: March 12, 2026  
 
 8. <a id="endnote-8"></a>
    Source: telegraph.co.uk  
    Title: Aliens already exist on earth Bulgarian scientists claim  
-   Link: [https://www.telegraph.co.uk/news/worldnews/europe/bulgaria/6650677/Aliens-already-exist-on-earth-Bulgarian-scientists-claim.html](https://www.telegraph.co.uk/news/worldnews/europe/bulgaria/6650677/Aliens-already-exist-on-earth-Bulgarian-scientists-claim.html)  
+   Link: <a href="https://www.telegraph.co.uk/news/worldnews/europe/bulgaria/6650677/Aliens-already-exist-on-earth-Bulgarian-scientists-claim.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/europe/bulgaria/6650677/Aliens-already-exist-on-earth-Bulgarian-scientists-claim.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The TelegraphAliens &#x27;already exist on earth&#x27;, Bulgarian scientists claim26 Nov 2009 — Aliens from outer space are already among us on ear...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pronewsdobrich.bg  
    Title: UF O експерт от САЩ идва със специален доклад за Националната среща в Добрич  
-   Link: [https://pronewsdobrich.bg/2019/07/21/ufo-ekspert-ot-sasht-idva-sas-spetsialen-doklad-za-natsionalnata-sreshta-v-dobrich/](https://pronewsdobrich.bg/2019/07/21/ufo-ekspert-ot-sasht-idva-sas-spetsialen-doklad-za-natsionalnata-sreshta-v-dobrich/)  
+   Link: <a href="https://pronewsdobrich.bg/2019/07/21/ufo-ekspert-ot-sasht-idva-sas-spetsialen-doklad-za-natsionalnata-sreshta-v-dobrich/" target="_blank" rel="noopener noreferrer nofollow">https://pronewsdobrich.bg/2019/07/21/ufo-ekspert-ot-sasht-idva-sas-spetsialen-doklad-za-natsionalnata-sreshta-v-dobrich/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO експерт от САЩ идва със специален доклад за Националната среща в Добрич - Про Нюз ДобричJuly 21, 2019 — UFO ЕКСПЕРТ ОТ САЩ ИДВА СЪС С...</p></details>
    Published: July 21, 2019  
 
@@ -748,60 +702,60 @@ In Bulgaria, the landscape of UFO investigation comprises active grassroots comm
 
 10. <a id="endnote-10"></a>
    Source: faktor.bg  
-   Link: [https://faktor.bg/mneniya/intervyu/-ufologat-ivan-ivanov-dokazatelstvata-za-nlo-v-balgariya-veroyatno-se-kriyat-ot-ds-i-sluzhbite-84067](https://faktor.bg/mneniya/intervyu/-ufologat-ivan-ivanov-dokazatelstvata-za-nlo-v-balgariya-veroyatno-se-kriyat-ot-ds-i-sluzhbite-84067)  
+   Link: <a href="https://faktor.bg/mneniya/intervyu/-ufologat-ivan-ivanov-dokazatelstvata-za-nlo-v-balgariya-veroyatno-se-kriyat-ot-ds-i-sluzhbite-84067" target="_blank" rel="noopener noreferrer nofollow">https://faktor.bg/mneniya/intervyu/-ufologat-ivan-ivanov-dokazatelstvata-za-nlo-v-balgariya-veroyatno-se-kriyat-ot-ds-i-sluzhbite-84067</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ФакторOctober 15, 2016 — ​УФОЛОГЪТ ИВАН ИВАНОВ: ДОКАЗАТЕЛСТВАТА ЗА НЛО В БЪЛГАРИЯ ВЕРОЯТНО СЕ КРИЯТ ОТ ДС И СЛУЖБИТЕ * 08:26, 15 Октомври...</p></details>
    Published: October 15, 2016  
 
 11. <a id="endnote-11"></a>
    Source: utroruse.com  
-   Link: [https://utroruse.com/article/3469/](https://utroruse.com/article/3469/)  
+   Link: <a href="https://utroruse.com/article/3469/" target="_blank" rel="noopener noreferrer nofollow">https://utroruse.com/article/3469/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Най-голямата световна НЛО-мрежа избра за БГ директор основателя на „Мъдромер“ - УтроJanuary 19, 2013 — НАЙ-ГОЛЯМАТА СВЕТОВНА НЛО-МРЕЖА ИЗ...</p></details>
    Published: January 19, 2013  
 
 12. <a id="endnote-12"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/](https://www.euroufo.net/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EuroUFO | The Virtual Community of Scientifically Oriented European UFO ResearchersMarch 20, 2026 — EUROUFO THE VIRTUAL COMMUNITY OF SCIE...</p></details>
+   Link: <a href="https://www.euroufo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Virtual Community of Scientifically Oriented European UFO ResearchersMarch 20, 2026 — EUROUFO THE VIRTUAL COMMUNITY OF SCIE...</p></details>
    Published: March 20, 2026  
 
 13. <a id="endnote-13"></a>
    Source: darik.bg  
    Title: Уфолози от цяла България се събират в Добрич на семинар за НЛО | Darik.bg  
-   Link: [https://darik.bg/ufolozi-ot-cala-balgaria-se-sabirat-v-dobrich-na-seminar-za-nlo](https://darik.bg/ufolozi-ot-cala-balgaria-se-sabirat-v-dobrich-na-seminar-za-nlo)  
+   Link: <a href="https://darik.bg/ufolozi-ot-cala-balgaria-se-sabirat-v-dobrich-na-seminar-za-nlo" target="_blank" rel="noopener noreferrer nofollow">https://darik.bg/ufolozi-ot-cala-balgaria-se-sabirat-v-dobrich-na-seminar-za-nlo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2019 — УФОЛОЗИ ОТ ЦЯЛА БЪЛГАРИЯ СЕ СЪБИРАТ В ДОБРИЧ НА СЕМИНАР ЗА НЛО Клуб „Търсачи на алтернативни форми на живот“ – Добри...</p></details>
    Published: September 28, 2019  
 
 14. <a id="endnote-14"></a>
    Source: pure.roehampton.ac.uk  
    Title: roehampton.ac.uk The Photographic Practise and Imagery of Dark Tourism  
-   Link: [https://pure.roehampton.ac.uk/ws/portalfiles/portal/8381514/Bathory_Rebecca_Final_Thesis.pdf](https://pure.roehampton.ac.uk/ws/portalfiles/portal/8381514/Bathory_Rebecca_Final_Thesis.pdf)  
+   Link: <a href="https://pure.roehampton.ac.uk/ws/portalfiles/portal/8381514/Bathory_Rebecca_Final_Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.roehampton.ac.uk/ws/portalfiles/portal/8381514/Bathory_Rebecca_Final_Thesis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. It was a place full of Bulgarian communist history left to... In the photograph, there is a juxtaposition between the cold alien-lo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: retro.bg  
    Title: Уфологът Иван Лазаров: Паисий Хилендарски пръв е видял НЛО в България!  
-   Link: [https://retro.bg/lyubopitno/strongufologt-ivan-lazarovnbspstrongstrongpaisiy-khilendarski-prv-e-vidyal-nlo-v-blgariyastrong_23475.html](https://retro.bg/lyubopitno/strongufologt-ivan-lazarovnbspstrongstrongpaisiy-khilendarski-prv-e-vidyal-nlo-v-blgariyastrong_23475.html)  
+   Link: <a href="https://retro.bg/lyubopitno/strongufologt-ivan-lazarovnbspstrongstrongpaisiy-khilendarski-prv-e-vidyal-nlo-v-blgariyastrong_23475.html" target="_blank" rel="noopener noreferrer nofollow">https://retro.bg/lyubopitno/strongufologt-ivan-lazarovnbspstrongstrongpaisiy-khilendarski-prv-e-vidyal-nlo-v-blgariyastrong_23475.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 15, 2019 — УФОЛОГЪТ ИВАН ЛАЗАРОВ: ПАИСИЙ ХИЛЕНДАРСКИ ПРЪВ Е ВИДЯЛ НЛО В БЪЛГАРИЯ! Любопитно 15 юли 2019, 15:25 Image Image автор Рет...</p></details>
    Published: July 15, 2019  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
    Title: No of observers: 4 Location: Malki Varshets, Gabrovo, Bul  
-   Link: [https://nuforc.org/sighting/?id=189995](https://nuforc.org/sighting/?id=189995)  
+   Link: <a href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189995</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189995June 9, 2025 — NUFORC UFO SIGHTING 189995 Occurred: 2014-08-17 21:00 Local - Approximate Reported: 2025-06-01 0...</p></details>
    Published: August 17, 2014  
 
 17. <a id="endnote-17"></a>
    Source: churchstate.eu  
-   Link: [https://www.churchstate.eu/pdf/NEW/tripa_status.pdf](https://www.churchstate.eu/pdf/NEW/tripa_status.pdf)  
+   Link: <a href="https://www.churchstate.eu/pdf/NEW/tripa_status.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.churchstate.eu/pdf/NEW/tripa_status.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>claiming that minarets are alien to the culture and tradition of a country... shelter for abandoned pets), a community of UFO-believers...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: irep.ntu.ac.uk  
-   Link: [https://irep.ntu.ac.uk/id/eprint/47350/1/phd%20thesis%20submission%20%28corrected%29%20-%20Google%20Docs.pdf](https://irep.ntu.ac.uk/id/eprint/47350/1/phd%20thesis%20submission%20%28corrected%29%20-%20Google%20Docs.pdf)  
+   Link: <a href="https://irep.ntu.ac.uk/id/eprint/47350/1/phd%20thesis%20submission%20%28corrected%29%20-%20Google%20Docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://irep.ntu.ac.uk/id/eprint/47350/1/phd%20thesis%20submission%20%28corrected%29%20-%20Google%20Docs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children&#x27;s Film Foundation: an Investigation Into the...by AS Peppiatt · 2021 — were to look as alien to those of the 1950s as the kitch...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: science.gov  
-   Link: [https://www.science.gov/topicpages/a/amateur%2Bastronomical%2Bsocieties](https://www.science.gov/topicpages/a/amateur%2Bastronomical%2Bsocieties)  
+   Link: <a href="https://www.science.gov/topicpages/a/amateur%2Bastronomical%2Bsocieties" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/a/amateur%2Bastronomical%2Bsocieties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amateur astronomical societies: Topics by...The UAP Observations Reporting Scheme as a tool for demystifying UFOs and stimulating intere...</p></details>

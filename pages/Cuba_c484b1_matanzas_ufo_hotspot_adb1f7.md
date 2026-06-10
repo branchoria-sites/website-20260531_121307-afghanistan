@@ -239,7 +239,7 @@ prev_link:
   permalink: /havana-sightings/
   short_title: Havana Sightings
   heading_title: Urban UFO Observations and Skeptical Analyses in Havana
-date: '2026-06-09 01:25:03 '
+date: '2026-06-10 01:49:37 '
 header:
   og_image: /assets/images/Cuba_c484b1_matanzas_ufo_hotspot_adb1f7-Illustration-1-social.jpg
   preview_image: /assets/images/Cuba_c484b1_matanzas_ufo_hotspot_adb1f7-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Cuba_c484b1_matanzas_ufo_hotspot_adb1f7-Illustration-1-soc
 
 ## Introduction
 
-Matanzas occupies a special place in Cuban UFO culture because an unusually high number of the country’s best-known reports, witness clusters and amateur investigations became associated with the province from the late 1950s onward. The concentration is not simply a matter of geography. Matanzas developed a local investigative network, repeated press attention and a folklore of coastal and sky-based anomalies that gave the province an identity as Cuba’s “UFO hotspot”. Some incidents remain locally famous, especially the 1959 Matanzas Bay case and later reports during the 1990s. Yet the evidence is uneven. Most accounts rely on witness testimony, retrospective interviews and local ufology publications rather than official scientific inquiry or recoverable physical evidence. The importance of Matanzas therefore lies less in proving extraordinary craft and more in showing how a regional UFO culture formed inside Cuba and why certain locations became magnets for repeated interpretation and reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extremamente.it">[extremamente.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extremamente.it</span><span class="citation-popover-title">C&#x27;è una baia molto ampia e profonda un chilometro.Read more</span><span class="citation-popover-snippet">Orestes Girbau Collado: “Vi racconto gli Ufo di Cuba”30 Aug 2013 — “Fu un fenomeno decisamente molto strano, avvenuto a un chilometro dal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">GeocitiesUn OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span>
+Matanzas occupies a special place in Cuban UFO culture because an unusually high number of the country’s best-known reports, witness clusters and amateur investigations became associated with the province from the late 1950s onward. The concentration is not simply a matter of geography. Matanzas developed a local investigative network, repeated press attention and a folklore of coastal and sky-based anomalies that gave the province an identity as Cuba’s “UFO hotspot”. Some incidents remain locally famous, especially the 1959 Matanzas Bay case and later reports during the 1990s. Yet the evidence is uneven. Most accounts rely on witness testimony, retrospective interviews and local ufology publications rather than official scientific inquiry or recoverable physical evidence. The importance of Matanzas therefore lies less in proving extraordinary craft and more in showing how a regional UFO culture formed inside Cuba and why certain locations became magnets for repeated interpretation and reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extremamente.it">[extremamente.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extremamente.it</span><span class="citation-popover-title">C&#x27;è una baia molto ampia e profonda un chilometro.Read more</span><span class="citation-popover-snippet">Orestes Girbau Collado: “Vi racconto gli Ufo di Cuba”30 Aug 2013 — “Fu un fenomeno decisamente molto strano, avvenuto a un chilometro dal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Un OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span>
 
 
 <img src="{{ "/assets/images/Cuba_c484b1_matanzas_ufo_hotspot_adb1f7-Illustration-1-dark.svg" | relative_url }}" alt="Matanzas Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Cuba_c484b1_matanzas_ufo_hotspot_adb1f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cuba_c484b1_matanzas_ufo_hotspot_adb1f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ Matanzas occupies a special place in Cuban UFO culture because an unusually high
 
 Matanzas province combines several conditions that help explain why it generated a dense concentration of UFO stories compared with much of Cuba.
 
-First, the region has a long coastline, active fishing communities and open visibility across bays and sea approaches. Witnesses repeatedly described lights emerging from or moving above the water, especially around Matanzas Bay. Maritime environments are historically common settings for misidentified lights, atmospheric effects and distant aircraft, but they also encourage dramatic interpretations because there are fewer obvious visual reference points at night. In Cuban UFO literature, Matanzas became closely associated with the idea of unidentified objects entering or leaving the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">GeocitiesUn OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span>
+First, the region has a long coastline, active fishing communities and open visibility across bays and sea approaches. Witnesses repeatedly described lights emerging from or moving above the water, especially around Matanzas Bay. Maritime environments are historically common settings for misidentified lights, atmospheric effects and distant aircraft, but they also encourage dramatic interpretations because there are fewer obvious visual reference points at night. In Cuban UFO literature, Matanzas became closely associated with the idea of unidentified objects entering or leaving the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Un OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span>
 
 Second, the province sat near important transportation and military corridors during the Cold War. Aircraft movements, naval activity and unusual lighting conditions could all contribute to reports. Cuba’s political isolation after 1959 also encouraged speculative interpretations of unexplained aerial phenomena, particularly when reliable public information about military operations was scarce.
 
@@ -266,7 +266,7 @@ The result was a feedback loop. Reports attracted investigators, investigators a
 
 ## The 1959 Matanzas Bay Incident
 
-The case most responsible for Matanzas’ reputation occurred in July 1959 near Matanzas Bay, only months after the Cuban Revolution. According to later retellings circulated through Cuban ufology networks, a group of young people and adults near the waterfront observed a metallic object emerge from the sea before ascending rapidly into the sky. Witness descriptions varied, but many accounts characterised the object as silvery, disc-like or ovoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">GeocitiesUn OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extremamente.it">[2extremamente.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extremamente.it</span><span class="citation-popover-title">C&#x27;è una baia molto ampia e profonda un chilometro.Read more</span><span class="citation-popover-snippet">Orestes Girbau Collado: “Vi racconto gli Ufo di Cuba”30 Aug 2013 — “Fu un fenomeno decisamente molto strano, avvenuto a un chilometro dal...</span></span></span>
+The case most responsible for Matanzas’ reputation occurred in July 1959 near Matanzas Bay, only months after the Cuban Revolution. According to later retellings circulated through Cuban ufology networks, a group of young people and adults near the waterfront observed a metallic object emerge from the sea before ascending rapidly into the sky. Witness descriptions varied, but many accounts characterised the object as silvery, disc-like or ovoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Un OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extremamente.it">[2extremamente.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extremamente.it</span><span class="citation-popover-title">C&#x27;è una baia molto ampia e profonda un chilometro.Read more</span><span class="citation-popover-snippet">Orestes Girbau Collado: “Vi racconto gli Ufo di Cuba”30 Aug 2013 — “Fu un fenomeno decisamente molto strano, avvenuto a un chilometro dal...</span></span></span>
 
 What made the story influential was not the physical evidence, which was absent, but the claimed number of observers. Some versions described more than thirty witnesses, including scouts and local residents. The setting also gave the incident symbolic force. A bright object supposedly rising from the water in broad daylight fit perfectly into wider international UFO narratives about “submersible” craft operating beneath oceans and bays. Matanzas Bay thus became embedded in Cuban UFO memory as a location where something spectacular had allegedly happened.
 
@@ -331,7 +331,7 @@ His work mattered for several reasons:
 
 </div>
 
-Archived Cuban UFO websites also reinforced the province’s identity by repeatedly foregrounding Matanzas cases. The surviving “Ovnis Cubanos” material devoted considerable attention to the province and helped circulate the 1959 bay narrative internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">GeocitiesUn OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span>
+Archived Cuban UFO websites also reinforced the province’s identity by repeatedly foregrounding Matanzas cases. The surviving “Ovnis Cubanos” material devoted considerable attention to the province and helped circulate the 1959 bay narrative internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Un OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</span></span></span>
 
 Yet there is an important tension here. The same investigators who preserved the stories also helped amplify them. In a country without a strong official archive of anomalous phenomena, local researchers became both collectors and interpreters. That dual role makes independent verification difficult.
 
@@ -396,86 +396,44 @@ Other Cuban areas, including Havana and Guantánamo Bay, also generated notable 
 That status persists today in Cuban paranormal culture. Discussions of UFOs in Cuba almost inevitably return to Matanzas Bay, the 1959 coastal witnesses and the later waves of luminous sky reports during the 1990s. Whether interpreted as unexplained aerial phenomena, misidentifications or evolving folklore, Matanzas remains the province most strongly associated with Cuba’s modern UFO tradition.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Matanzas Became Cuba&#x27;s UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Matanzas Became Cuba&#x27;s UFO Hotspot, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Connects local sightings to broader patterns of documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Matches the page&#x27;s focus on recurring sightings and investigative records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses how reports are evaluated and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how regional UFO cultures and folklore develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,75 +467,71 @@ That status persists today in Cuban paranormal culture. Discussions of UFOs in C
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=matanzas-reports-why-matanzas-became-cuba-s-ufo-hotspot-cuba-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -791,102 +745,102 @@ That status persists today in Cuban paranormal culture. Discussions of UFOs in C
 
 1. <a id="endnote-1"></a>
    Source: geocities.ws  
-   Link: [https://www.geocities.ws/ovniscubanos/pages/casocub3.html](https://www.geocities.ws/ovniscubanos/pages/casocub3.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeocitiesUn OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</p></details>
+   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/casocub3.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Un OVNI en la bahía de MatanzasLos OVNI han sido observados entrando y saliendo del mar. Se han visto realizando maniobras en la...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: inexplicata.blogspot.com  
    Title: The Cuba Files  
-   Link: [https://inexplicata.blogspot.com/2013/01/the-cuba-files-interview-with-orestes_12.html](https://inexplicata.blogspot.com/2013/01/the-cuba-files-interview-with-orestes_12.html)  
+   Link: <a href="https://inexplicata.blogspot.com/2013/01/the-cuba-files-interview-with-orestes_12.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2013/01/the-cuba-files-interview-with-orestes_12.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Interview with Orestes Girbau12 Jan 2013 — I&#x27;m currently finalizing details to complete a monograph on UFOs in the province of Matanza...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: luisvazquezbonome.blogspot.com  
-   Link: [https://luisvazquezbonome.blogspot.com/2011/12/ovni-en-matanzas-cuba.html](https://luisvazquezbonome.blogspot.com/2011/12/ovni-en-matanzas-cuba.html)  
+   Link: <a href="https://luisvazquezbonome.blogspot.com/2011/12/ovni-en-matanzas-cuba.html" target="_blank" rel="noopener noreferrer nofollow">https://luisvazquezbonome.blogspot.com/2011/12/ovni-en-matanzas-cuba.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI EN MATANZAS..CUBA.UNA NUEVA EXPERIENCIA OVNI ¿EN MATANZAS? Por: Orestes Girbau. La provincia de Matanzas (Cuba)... Ovnis en Matanz...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: extremamente.it  
    Title: C'è una baia molto ampia e profonda un chilometro.Read more  
-   Link: [https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/](https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/)  
+   Link: <a href="https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/" target="_blank" rel="noopener noreferrer nofollow">https://extremamente.it/2013/08/30/orestes-girbau-collado-vi-racconto-gli-ufo-di-cuba/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orestes Girbau Collado: “Vi racconto gli Ufo di Cuba”30 Aug 2013 — “Fu un fenomeno decisamente molto strano, avvenuto a un chilometro dal...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: inexplicata.blogspot.com  
    Title: ufos in 1950s caribbean crisis by scott  
-   Link: [https://inexplicata.blogspot.com/2010/08/ufos-in-1950s-caribbean-crisis-by-scott.html](https://inexplicata.blogspot.com/2010/08/ufos-in-1950s-caribbean-crisis-by-scott.html)  
+   Link: <a href="https://inexplicata.blogspot.com/2010/08/ufos-in-1950s-caribbean-crisis-by-scott.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2010/08/ufos-in-1950s-caribbean-crisis-by-scott.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the 1950s: The Caribbean Crisis22 Aug 2010 — UFOs in the 1950s: The Caribbean Crisis By Scott Corrales- INEXPLICATA A great deal...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vetted.show  
    Title: Cuban School UFO Sighting: Mass Encounter Shocks  
-   Link: [https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba](https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba)  
+   Link: <a href="https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba" target="_blank" rel="noopener noreferrer nofollow">https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses described seeing a white ball with a lighted tail, followed by multiple...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tvyumuri.cu  
    Title: nos visitaran extraterrestres  
-   Link: [https://www.tvyumuri.cu/mundo-curioso/nos-visitaran-extraterrestres/](https://www.tvyumuri.cu/mundo-curioso/nos-visitaran-extraterrestres/)  
+   Link: <a href="https://www.tvyumuri.cu/mundo-curioso/nos-visitaran-extraterrestres/" target="_blank" rel="noopener noreferrer nofollow">https://www.tvyumuri.cu/mundo-curioso/nos-visitaran-extraterrestres/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>¿Nos visitarán los extraterrestres?29 Jan 2024 — Pero, en ese mundo, estoy mucho más cerca de nuestro ufólogo del patio, el también cient...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2030822207183428/posts/2703206209945021/](https://www.facebook.com/groups/2030822207183428/posts/2703206209945021/)  
+   Link: <a href="https://www.facebook.com/groups/2030822207183428/posts/2703206209945021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2030822207183428/posts/2703206209945021/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eriksmoen) In the 1870s, Lt. Josiah Chance and his sister...In 1942, Japanese men, referred to as &quot;&quot;enemy aliens,&#x27;&#x27; were held at Fort L...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005517759](https://www.cia.gov/readingroom/document/0005517759)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005517759" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517759</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED FLYING OBJECTS SIGHTED IN...... MATANZAS RESIDENTS, *YOURS TRULY INCLUDED, HAD THE OPPORTUNITY TO OBSERVE UNIDENTIFIED *FLY...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain](https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain)  
+   Link: <a href="https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 INEXPLICATA – UFOs IN HISTORY: LATIN AMERICA AND SPAIN The document discusses several accounts of unidentified flying...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: juan manuel manzanedo investigador y especialista en efectos audiovisuales anali  
-   Link: [https://www.facebook.com/rppnoticias/posts/juan-manuel-manzanedo-investigador-y-especialista-en-efectos-audiovisuales-anali/996067152749345/](https://www.facebook.com/rppnoticias/posts/juan-manuel-manzanedo-investigador-y-especialista-en-efectos-audiovisuales-anali/996067152749345/)  
+   Link: <a href="https://www.facebook.com/rppnoticias/posts/juan-manuel-manzanedo-investigador-y-especialista-en-efectos-audiovisuales-anali/996067152749345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rppnoticias/posts/juan-manuel-manzanedo-investigador-y-especialista-en-efectos-audiovisuales-anali/996067152749345/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Juan Manuel Manzanedo, investigador y especialista en...EL CASO MANISES En 1979, un avión comercial se vio obligado a interrumpir su vue...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: the 1993 report claimed ufo sightings and interactions increased greatly after 1  
-   Link: [https://www.facebook.com/NYPost/posts/the-1993-report-claimed-ufo-sightings-and-interactions-increased-greatly-after-1/1323120456346614/](https://www.facebook.com/NYPost/posts/the-1993-report-claimed-ufo-sightings-and-interactions-increased-greatly-after-1/1323120456346614/)  
+   Link: <a href="https://www.facebook.com/NYPost/posts/the-1993-report-claimed-ufo-sightings-and-interactions-increased-greatly-after-1/1323120456346614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NYPost/posts/the-1993-report-claimed-ufo-sightings-and-interactions-increased-greatly-after-1/1323120456346614/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1993 report claimed UFO sightings and interactions “...The 1993 report claimed UFO sightings and interactions “increased greatly” af...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/](https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17i729n/cubans_record_fireball_flying_in_havanas_sky_that/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained phenomena... r/UFOs - Schoolyard UFO mass sighting in Matanzas, Cuba in 1996. 4...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thehistoryreader.com  
-   Link: [https://www.thehistoryreader.com/military-history/ufo-events/](https://www.thehistoryreader.com/military-history/ufo-events/)  
+   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A short synopsis of the event is that a saucer of about 100 feet in diameter was discovered by oil workers...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: [https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf](https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf)  
+   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — UFO sighting reports from vicinity of Lisboa airport by TAP 241 crew and air traffic... Florid...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-Edited12 Jan 2009 — Eight, orange UFOs, shone brightly, travelling at speed, low in the sky...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1996 school ufo sightings matanzas cuba  
-   Link: [https://www.reddit.com/r/aliens/comments/vsozh8/1996_school_ufo_sightings_matanzas_cuba/?tl=es-es](https://www.reddit.com/r/aliens/comments/vsozh8/1996_school_ufo_sightings_matanzas_cuba/?tl=es-es)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/vsozh8/1996_school_ufo_sightings_matanzas_cuba/?tl=es-es" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/vsozh8/1996_school_ufo_sightings_matanzas_cuba/?tl=es-es</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Avistamientos OVNI en Matanzas, Cuba, en 1996: r/aliensEl avistamiento en la escuela Ariel fue justo a las afueras de Ruwa, fue el mismo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: ovnis en cuba la historia nunca contada  
-   Link: [https://www.facebook.com/cubacutenoticias/posts/ovnis-en-cuba-la-historia-nunca-contada/3211726972382903/](https://www.facebook.com/cubacutenoticias/posts/ovnis-en-cuba-la-historia-nunca-contada/3211726972382903/)  
+   Link: <a href="https://www.facebook.com/cubacutenoticias/posts/ovnis-en-cuba-la-historia-nunca-contada/3211726972382903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cubacutenoticias/posts/ovnis-en-cuba-la-historia-nunca-contada/3211726972382903/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>¿OVNIS en CUBA? La historia nunca contada...Avión de combate cubano en 1967 ataco un ovni y este lo desintegro. Moises Marquez Solorzano...</p></details>

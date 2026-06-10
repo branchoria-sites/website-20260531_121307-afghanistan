@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /libya-55949d-index/
 description: Focused pages that expand on What Do Libya's UFO Reports Really Show?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Libya_55949d
 parent_title: What Do Libya's UFO Reports Really Show?

@@ -239,7 +239,7 @@ next_link:
   permalink: /orb-video/
   short_title: Orb Video
   heading_title: Did a Missile Really Hit Yemen's Orb?
-date: '2026-06-09 01:45:26 '
+date: '2026-06-10 02:13:30 '
 header:
   og_image: /assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-1-so
 
 ## Introduction
 
-[Yemen]({{ 'what-is-really-in-yemens-ufo-record/' | relative_url }}) presents one of the hardest environments in the world for evaluating unidentified aerial sightings. Reports can be sincere, detailed and even emotionally compelling while still remaining impossible to verify. The problem is not necessarily dishonesty. It is the combination of war, limited public records, fragmented communications, poor imaging conditions and a crowded sky filled with drones, missiles, military aircraft and surveillance systems. In many cases, the most important evidence is missing before investigators even begin.
+Yemen presents one of the hardest environments in the world for evaluating unidentified aerial sightings. Reports can be sincere, detailed and even emotionally compelling while still remaining impossible to verify. The problem is not necessarily dishonesty. It is the combination of war, limited public records, fragmented communications, poor imaging conditions and a crowded sky filled with drones, missiles, military aircraft and surveillance systems. In many cases, the most important evidence is missing before investigators even begin.
 
 
 <img src="{{ "/assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-1-dark.svg" | relative_url }}" alt="Local Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -315,9 +315,9 @@ Several recurring issues appear in Yemen-linked footage:
 
 </div>
 
-The widely discussed Yemen "orb" footage presented during a US congressional hearing demonstrates this problem. Public viewers received only a short segment rather than the complete sensor record. Debate immediately focused on whether a Hellfire missile struck an unknown object and appeared to bounce off it. However, analysts noted that the available footage lacked broader contextual data such as complete targeting information, radar tracks, engagement records and full sensor sequences. Without those materials, interpretations remain provisional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">uap transparency hearing yemen orb witness claims</span><span class="citation-popover-snippet">FliegerfaustUAP transparency hearing: Yemen orb and evidence8 Oct 2025 — UAP transparency hearing with Yemen orb video, first‑hand witnes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+The widely discussed Yemen "orb" footage presented during a US congressional hearing demonstrates this problem. Public viewers received only a short segment rather than the complete sensor record. Debate immediately focused on whether a Hellfire missile struck an unknown object and appeared to bounce off it. However, analysts noted that the available footage lacked broader contextual data such as complete targeting information, radar tracks, engagement records and full sensor sequences. Without those materials, interpretations remain provisional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">uap transparency hearing yemen orb witness claims</span><span class="citation-popover-snippet">UAP transparency hearing: Yemen orb and evidence8 Oct 2025 — UAP transparency hearing with Yemen orb video, first‑hand witnes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
 
-Some analysts have argued that camera geometry, parallax effects or the characteristics of the weapon involved could produce misleading visual impressions. Others maintain that the publicly released clip is too limited to support any confident conclusion. The common point is that the video alone does not resolve the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">uap transparency hearing yemen orb witness claims</span><span class="citation-popover-snippet">FliegerfaustUAP transparency hearing: Yemen orb and evidence8 Oct 2025 — UAP transparency hearing with Yemen orb video, first‑hand witnes...</span></span></span>
+Some analysts have argued that camera geometry, parallax effects or the characteristics of the weapon involved could produce misleading visual impressions. Others maintain that the publicly released clip is too limited to support any confident conclusion. The common point is that the video alone does not resolve the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">uap transparency hearing yemen orb witness claims</span><span class="citation-popover-snippet">UAP transparency hearing: Yemen orb and evidence8 Oct 2025 — UAP transparency hearing with Yemen orb video, first‑hand witnes...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-2-dark.svg" | relative_url }}" alt="Local Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_local_witness_reliab_b61a6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -380,86 +380,44 @@ The Yemen record contains relatively few public cases with the level of document
 That tension defines much of Yemen's UFO record. The reports may be authentic, but authenticity of testimony is not the same thing as proof of what was actually seen. The War Zone <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Yemen Sightings Are So Hard to Verify. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Yemen Sightings Are So Hard to Verify, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for assessing sightings and report quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Discusses sensor data and witness interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Addresses reliability of testimony and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong focus on witness credibility and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -493,75 +451,71 @@ That tension defines much of Yemen's UFO record. The reports may be authentic, b
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-c32c83-why-yemen-sightings-are-so-hard-to-verify-yemen-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -775,92 +729,92 @@ That tension defines much of Yemen's UFO record. The reports may be authentic, b
 
 1. <a id="endnote-1"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing](https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing)  
+   Link: <a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cbsnews.com  
    Title: video house ufo hearing us missile strikes unidentified object  
-   Link: [https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/](https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/)  
+   Link: <a href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: theguardian.com  
    Title: The Guardian UK and US navy vessels shoot down suspected attack  
-   Link: [https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks](https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks)  
+   Link: <a href="https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/dec/16/shipping-companies-suspend-red-sea-traffic-after-yemen-rebel-attacks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUK and US navy vessels shoot down suspected attack...December 16, 2023 — 16 Dec 2023 — US and UK navy vessels have shot down...</p></details>
    Published: December 16, 2023  
 
 4. <a id="endnote-4"></a>
    Source: lloydslist.com  
-   Link: [https://www.lloydslist.com/LL1148302/Houthis-using-underwater-drones-in-Red-Sea-says-US-military](https://www.lloydslist.com/LL1148302/Houthis-using-underwater-drones-in-Red-Sea-says-US-military)  
+   Link: <a href="https://www.lloydslist.com/LL1148302/Houthis-using-underwater-drones-in-Red-Sea-says-US-military" target="_blank" rel="noopener noreferrer nofollow">https://www.lloydslist.com/LL1148302/Houthis-using-underwater-drones-in-Red-Sea-says-US-military</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Central Command strikes unmanned underwater vessel along with drone ship and anti-ship...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: english.aawsat.com  
-   Link: [https://english.aawsat.com/arab-world/5079447-yemens-houthis-shoot-down-what-witnesses-say-was-us-drone-american-military](https://english.aawsat.com/arab-world/5079447-yemens-houthis-shoot-down-what-witnesses-say-was-us-drone-american-military)  
+   Link: <a href="https://english.aawsat.com/arab-world/5079447-yemens-houthis-shoot-down-what-witnesses-say-was-us-drone-american-military" target="_blank" rel="noopener noreferrer nofollow">https://english.aawsat.com/arab-world/5079447-yemens-houthis-shoot-down-what-witnesses-say-was-us-drone-american-military</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asharq Al-AwsatYemen&#x27;s Houthis Shoot Down What Witnesses Say Was a...8 Nov 2024 — Yemen&#x27;s Houthi militants shot down what bystanders des...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fliegerfaust.com  
    Title: uap transparency hearing yemen orb witness claims  
-   Link: [https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/](https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FliegerfaustUAP transparency hearing: Yemen orb and evidence8 Oct 2025 — UAP transparency hearing with Yemen [orb video](&amp;#123;&amp;#123; &#x27;orb-video/&#x27; | relative_url &amp;#125;&amp;#125;), first‑hand witnes...</p></details>
+   Link: <a href="https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-transparency-hearing-yemen-orb-witness-claims/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP transparency hearing: Yemen orb and evidence8 Oct 2025 — UAP transparency hearing with Yemen [orb video](&amp;#123;&amp;#123; &#x27;orb-video/&#x27; | relative_url &amp;#125;&amp;#125;), first‑hand witnes...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sG1OHOPKA5A](https://www.youtube.com/watch?v=sG1OHOPKA5A)  
+   Link: <a href="https://www.youtube.com/watch?v=sG1OHOPKA5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sG1OHOPKA5A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Hellfire Missile &#x27;Bounces Off&#x27; UFO? Shocking Radar...This video is of an MQ9 drone tracking an orb or this object off the coast o...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475](https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475)  
+   Link: <a href="https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman shows never-before-seen video at military...The overhead video showed a fast-moving object moving in a straight line above t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DOblHqyDbCY/?hl=en-gb](https://www.instagram.com/reel/DOblHqyDbCY/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DOblHqyDbCY/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOblHqyDbCY/?hl=en-gb</a>  
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DOaofzQDBi1/?hl=en](https://www.instagram.com/reel/DOaofzQDBi1/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DOaofzQDBi1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOaofzQDBi1/?hl=en</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/](https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Yemen MQ-1 Reaper footage of UAP Hellfire strike: r/skepticIt captures an incident on October 30, 2024, off the coast of Yemen in a Hout...</p></details>
    Published: October 30, 2024  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: could it be a ufo a flying orb appears to survive a missile strike off the coast  
-   Link: [https://www.facebook.com/KARE11/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1318969486939488/](https://www.facebook.com/KARE11/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1318969486939488/)  
+   Link: <a href="https://www.facebook.com/KARE11/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1318969486939488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1318969486939488/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COULD IT BE A UFO? A flying “orb&quot; appears to survive...COULD IT BE A UFO? A flying “orb&quot; appears to survive a missile strike off the coa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: pentagon officials are investigating a wave of unusual sightings nearly 8000 mys  
-   Link: [https://www.facebook.com/MechanicalEngineersRocks/posts/pentagon-officials-are-investigating-a-wave-of-unusual-sightings-nearly-8000-mys/1321498786680927/](https://www.facebook.com/MechanicalEngineersRocks/posts/pentagon-officials-are-investigating-a-wave-of-unusual-sightings-nearly-8000-mys/1321498786680927/)  
+   Link: <a href="https://www.facebook.com/MechanicalEngineersRocks/posts/pentagon-officials-are-investigating-a-wave-of-unusual-sightings-nearly-8000-mys/1321498786680927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MechanicalEngineersRocks/posts/pentagon-officials-are-investigating-a-wave-of-unusual-sightings-nearly-8000-mys/1321498786680927/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nearly 8000 mysterious orbs reported hovering above US...-Most sightings occurred late at night, often corroborated by both civilian and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XoiZYAgd2GE](https://www.youtube.com/watch?v=XoiZYAgd2GE)  
+   Link: <a href="https://www.youtube.com/watch?v=XoiZYAgd2GE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XoiZYAgd2GE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unbelievable! Hellfire Missile Hits UFO Off YemenA groundbreaking video released at the House Government Oversight subcommittee hearing a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: newsflare.com  
-   Link: [https://www.newsflare.com/video/870701/yemen-infrared-uap-footage-tracked-in-middle-east-military-report?a=on](https://www.newsflare.com/video/870701/yemen-infrared-uap-footage-tracked-in-middle-east-military-report?a=on)  
+   Link: <a href="https://www.newsflare.com/video/870701/yemen-infrared-uap-footage-tracked-in-middle-east-military-report?a=on" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/870701/yemen-infrared-uap-footage-tracked-in-middle-east-military-report?a=on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military platform. No spoken or written explanation was provided by the...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Newsweek/posts/footage-showing-a-missile-striking-a-mysterious-orb-off-yemen-has-revived-congre/1146015927398850/](https://www.facebook.com/Newsweek/posts/footage-showing-a-missile-striking-a-mysterious-orb-off-yemen-has-revived-congre/1146015927398850/)  
+   Link: <a href="https://www.facebook.com/Newsweek/posts/footage-showing-a-missile-striking-a-mysterious-orb-off-yemen-has-revived-congre/1146015927398850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsweek/posts/footage-showing-a-missile-striking-a-mysterious-orb-off-yemen-has-revived-congre/1146015927398850/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n 2022, this is considered an &quot;unresolved case&quot;, Kirkpatrick...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TimesofIndia/posts/on-cam-us-militarys-hellfire-missile-smacks-into-ufo-off-yemen-bombshell-video-s/1191472123026973/](https://www.facebook.com/TimesofIndia/posts/on-cam-us-militarys-hellfire-missile-smacks-into-ufo-off-yemen-bombshell-video-s/1191472123026973/)  
+   Link: <a href="https://www.facebook.com/TimesofIndia/posts/on-cam-us-militarys-hellfire-missile-smacks-into-ufo-off-yemen-bombshell-video-s/1191472123026973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/on-cam-us-militarys-hellfire-missile-smacks-into-ufo-off-yemen-bombshell-video-s/1191472123026973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ll video shocks congress US lawmakers held a high-profile hearing...</p></details>

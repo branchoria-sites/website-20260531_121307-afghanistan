@@ -245,7 +245,7 @@ next_link:
   permalink: /viral-videos/
   short_title: Viral Videos
   heading_title: When Malaysian UFO Videos Go Viral
-date: '2026-06-09 01:32:58 '
+date: '2026-06-10 01:58:31 '
 header:
   og_image: /assets/images/Malaysia_ff3ea3_tanjung_sepat_1995_e4e3c8-Illustration-1-social.jpg
   preview_image: /assets/images/Malaysia_ff3ea3_tanjung_sepat_1995_e4e3c8-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Malaysia_ff3ea3_tanjung_sepat_1995_e4e3c8-Illustration-1-s
 
 ## Introduction
 
-The 1995 Tanjung Sepat sighting remains the single most famous UFO case in [Malaysia]({{ 'what-do-malaysias-ufo-stories-really/' | relative_url }}) because it combined three ingredients rarely found together in the country's UFO history: repeated reports, multiple witnesses, and sustained national media attention. Between September and October 1995, residents around Tanjung Sepat Laut in Selangor claimed to have seen a huge illuminated object hovering near forested land close to the coast. Some witnesses went further, alleging encounters with small humanoid figures associated with the object. The story spread beyond local gossip and became national news, later turning into the reference point for almost every discussion of Malaysian UFO sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-snippet">The 1995 UFO Incident in Tanjung Sepat, Malaysia29 Nov 2012 — The last major UFO sighting in Malaysia was the Tanjung Sepat UFO Incident...</span></span></span> 2CILISOS - Current Issues Tambah Pedas! <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[cilisos.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — 1. The UFO over Tanjung Sepat Laut, 1995... Let&#x27;s kick things off with what was apparently a major incident...</span></span></span>
+The 1995 Tanjung Sepat sighting remains the single most famous UFO case in Malaysia because it combined three ingredients rarely found together in the country's UFO history: repeated reports, multiple witnesses, and sustained national media attention. Between September and October 1995, residents around Tanjung Sepat Laut in Selangor claimed to have seen a huge illuminated object hovering near forested land close to the coast. Some witnesses went further, alleging encounters with small humanoid figures associated with the object. The story spread beyond local gossip and became national news, later turning into the reference point for almost every discussion of Malaysian UFO sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-snippet">The 1995 UFO Incident in Tanjung Sepat, Malaysia29 Nov 2012 — The last major UFO sighting in Malaysia was the Tanjung Sepat UFO Incident...</span></span></span> 2CILISOS - Current Issues Tambah Pedas! <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[cilisos.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — 1. The UFO over Tanjung Sepat Laut, 1995... Let&#x27;s kick things off with what was apparently a major incident...</span></span></span>
 
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_tanjung_sepat_1995_e4e3c8-Illustration-1-dark.svg" | relative_url }}" alt="Tanjung Sepat illustration 1" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_tanjung_sepat_1995_e4e3c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_tanjung_sepat_1995_e4e3c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -348,86 +348,44 @@ Sceptical assessments generally focus on three weaknesses:
 2. The absence of physical or radar evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Tanjung Sepat Became Malaysia&#x27;s Big UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Tanjung Sepat Became Malaysia&#x27;s Big UFO Case, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Explains how culturally important sightings become embedded in public memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Ideal background for evaluating major national sighting cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
-        
-        <p class="fr-book-desc">Useful comparison for famous witness-driven cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Donald Edward Keyhoe</p>
-        
-        <p class="fr-book-desc">Reflects the growth of major sighting legends and controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -461,75 +419,71 @@ Sceptical assessments generally focus on three weaknesses:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tanjung-sepat-why-tanjung-sepat-became-malaysia-s-big-ufo-case-malaysia-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -778,94 +732,94 @@ Without those materials, Tanjung Sepat remains an important cultural case rather
 
 1. <a id="endnote-1"></a>
    Source: ufosightingsmalaysia.blogspot.com  
-   Link: [https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html](https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html)  
+   Link: <a href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow">https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1995 UFO Incident in Tanjung Sepat, Malaysia29 Nov 2012 — The last major UFO sighting in Malaysia was the Tanjung Sepat UFO Incident...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cilisos.my  
    Title: Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…  
-   Link: [https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/](https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/)  
+   Link: <a href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS FROM...30 Oct 2015 — 1. The UFO over Tanjung Sepat Laut, 1995... Let&#x27;s kick things off with what was apparently a major incident...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: zulheimymaamor.blogspot.com  
    Title: ufo di malaysia  
-   Link: [https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html](https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html)  
+   Link: <a href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow">https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IN MALAYSIA10 Jan 2024 — September 1995 sightings at Tg.Sepat,Selangor. The 1995 UFO sighting at Tanjung Sepat Laut (near Sepang, Sel...</p></details>
    Published: September 1995  
 
 4. <a id="endnote-4"></a>
    Source: bm.cari.com.my  
-   Link: [https://bm.cari.com.my/archiver/?tid-527051.html=](https://bm.cari.com.my/archiver/?tid-527051.html=)  
+   Link: <a href="https://bm.cari.com.my/archiver/?tid-527051.html=" target="_blank" rel="noopener noreferrer nofollow">https://bm.cari.com.my/archiver/?tid-527051.html=</a>  
 
 5. <a id="endnote-5"></a>
    Source: freemalaysiatoday.com  
    Title: 3 jaw dropping ufo sightings in malaysia  
-   Link: [https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia](https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia)  
+   Link: <a href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow">https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Malaysia Today3 jaw-dropping UFO sightings in Malaysia2 Jul 2019 — Sightings of a UFO as wide as a football field and as tall as a b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tatlerasia.com  
    Title: ufos are they real or fiction  
-   Link: [https://www.tatlerasia.com/lifestyle/entertainment/ufos-are-they-real-or-fiction](https://www.tatlerasia.com/lifestyle/entertainment/ufos-are-they-real-or-fiction)  
+   Link: <a href="https://www.tatlerasia.com/lifestyle/entertainment/ufos-are-they-real-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.tatlerasia.com/lifestyle/entertainment/ufos-are-they-real-or-fiction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Fact Or Fiction?14 Jul 2021 —... Malaysia has recorded three notable UFO incidents dating from 1995 to 2016. The first was stated t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: forum.lowyat.net  
-   Link: [https://forum.lowyat.net/topic/1145532](https://forum.lowyat.net/topic/1145532)  
+   Link: <a href="https://forum.lowyat.net/topic/1145532" target="_blank" rel="noopener noreferrer nofollow">https://forum.lowyat.net/topic/1145532</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting - Lowyat forum28 Aug 2009 — this sepang event in 1995 was label as a hoax by the international ufo network. This is based on...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DSNB2ePgv1i/](https://www.instagram.com/reel/DSNB2ePgv1i/)  
+   Link: <a href="https://www.instagram.com/reel/DSNB2ePgv1i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSNB2ePgv1i/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO #ufo #midnight #viral #indianocean #srilankaA UFO the size of a football field landed in Malaysia. The government said it was mass ha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: worksheets.codalab.org  
-   Link: [https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt](https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt)  
+   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... international week officials still both even high part told those end former... local economic...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: pada tahun 1995 sebuah pekan kecil di tanjung sepat selangor tiba tiba menjadi t  
-   Link: [https://www.facebook.com/100083379485572/posts/pada-tahun-1995-sebuah-pekan-kecil-di-tanjung-sepat-selangor-tiba-tiba-menjadi-t/748371061285537/](https://www.facebook.com/100083379485572/posts/pada-tahun-1995-sebuah-pekan-kecil-di-tanjung-sepat-selangor-tiba-tiba-menjadi-t/748371061285537/)  
+   Link: <a href="https://www.facebook.com/100083379485572/posts/pada-tahun-1995-sebuah-pekan-kecil-di-tanjung-sepat-selangor-tiba-tiba-menjadi-t/748371061285537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083379485572/posts/pada-tahun-1995-sebuah-pekan-kecil-di-tanjung-sepat-selangor-tiba-tiba-menjadi-t/748371061285537/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pada tahun 1995, sebuah pekan kecil di Tanjung Sepat...Lebih mengejutkan, ada juga yang mendakwa ternampak makhluk kecil, setinggi kira...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: ep 127 mawas in malaysian folklore the orang mawas or mawas also known as the or  
-   Link: [https://www.facebook.com/100057685800237/posts/ep-127-mawas-in-malaysian-folklore-the-orang-mawas-or-mawas-also-known-as-the-or/196570538659594/](https://www.facebook.com/100057685800237/posts/ep-127-mawas-in-malaysian-folklore-the-orang-mawas-or-mawas-also-known-as-the-or/196570538659594/)  
+   Link: <a href="https://www.facebook.com/100057685800237/posts/ep-127-mawas-in-malaysian-folklore-the-orang-mawas-or-mawas-also-known-as-the-or/196570538659594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057685800237/posts/ep-127-mawas-in-malaysian-folklore-the-orang-mawas-or-mawas-also-known-as-the-or/196570538659594/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 127 Mawas In Malaysian folklore, the Orang...In November 2005, a widely publicized sighting occurred when three workers preparing a...</p></details>
    Published: November 2005  
 
 12. <a id="endnote-12"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma](https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma)  
+   Link: <a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Large earthquakes, however, contributed very few UFO sighting reports in Malaysia.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: academypublication.com  
-   Link: [https://www.academypublication.com/issues3/tpls/vol13/tpls1312.pdf](https://www.academypublication.com/issues3/tpls/vol13/tpls1312.pdf)  
+   Link: <a href="https://www.academypublication.com/issues3/tpls/vol13/tpls1312.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues3/tpls/vol13/tpls1312.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Practice in Language Studies ContentsTeaching-Related Use of Social Media Among Saudi EFL Teachers: Revisiting the Innovative...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DY4HJS7PJzL/](https://www.instagram.com/reel/DY4HJS7PJzL/)  
+   Link: <a href="https://www.instagram.com/reel/DY4HJS7PJzL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY4HJS7PJzL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s hallucination. 👁️ Tanjung Sepat, Selangor — September...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DY2NVAjvkSY/](https://www.instagram.com/p/DY2NVAjvkSY/)  
+   Link: <a href="https://www.instagram.com/p/DY2NVAjvkSY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY2NVAjvkSY/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ucination. 👁️ Tanjung Sepat, Selangor — September...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYtkIFtt4KJ/](https://www.instagram.com/reel/DYtkIFtt4KJ/)  
+   Link: <a href="https://www.instagram.com/reel/DYtkIFtt4KJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYtkIFtt4KJ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mass hallucination. 👁️ Tanjung Sepat, Selangor — September...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NrVoqsV8r7A](https://www.youtube.com/watch?v=NrVoqsV8r7A)  
+   Link: <a href="https://www.youtube.com/watch?v=NrVoqsV8r7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NrVoqsV8r7A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenapa Pentagon Rahsiakan Area 51? Misteri UFO, Teknologi Rahsia &amp; Konspirasi Amerika...</p></details>

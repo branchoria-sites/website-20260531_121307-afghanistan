@@ -222,7 +222,7 @@ sibling_links:
   title: Sightings Timeline | What Has Latvia Really Seen in the Sky?
   permalink: /sightings-timeline-cd0e16/
   short_title: Sightings Timeline
-  heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
+  heading_title: 'Latvia''s UFO Sightings: From 19 th Century to Today'
 - basename: Latvia_c5f5bb_latvia_ufology_group_bd8a6d
   title: Ufology Groups | What Has Latvia Really Seen in the Sky?
   permalink: /ufology-groups/
@@ -239,7 +239,7 @@ next_link:
   permalink: /regional-patterns-eb1843/
   short_title: Regional Patterns
   heading_title: Where and Why UFOs Appear in Latvia
-date: '2026-06-09 01:31:29 '
+date: '2026-06-10 01:57:09 '
 header:
   og_image: /assets/images/Latvia_c5f5bb_latvia_airspace_moni_a07e2e-Illustration-1-social.jpg
   preview_image: /assets/images/Latvia_c5f5bb_latvia_airspace_moni_a07e2e-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Latvia_c5f5bb_latvia_airspace_moni_a07e2e-Illustration-1-s
 
 ## Introduction
 
-[Latvia]({{ 'what-has-latvia-really-seen-in-the-sky/' | relative_url }})’s official handling of unidentified aerial objects is far more practical than the popular image of UFO investigation. The country’s Ministry of Defence, Air Force, Civil Aviation Agency and NATO partners treat unknown objects primarily as airspace-security problems. In official records, most alerts concern drones, aircraft, balloons, weather effects or bird movements rather than unexplained craft. The key question is not whether an object appears mysterious at first detection, but whether it can be identified quickly enough to protect civilian aviation and national security.
+Latvia’s official handling of unidentified aerial objects is far more practical than the popular image of UFO investigation. The country’s Ministry of Defence, Air Force, Civil Aviation Agency and NATO partners treat unknown objects primarily as airspace-security problems. In official records, most alerts concern drones, aircraft, balloons, weather effects or bird movements rather than unexplained craft. The key question is not whether an object appears mysterious at first detection, but whether it can be identified quickly enough to protect civilian aviation and national security.
 
 
 <img src="{{ "/assets/images/Latvia_c5f5bb_latvia_airspace_moni_a07e2e-Illustration-1-dark.svg" | relative_url }}" alt="Airspace Records illustration 1" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_latvia_airspace_moni_a07e2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_latvia_airspace_moni_a07e2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -258,7 +258,7 @@ That approach has become increasingly important since Russia’s invasion of Ukr
 
 Latvia’s airspace monitoring system combines national military surveillance with NATO’s Baltic Air Policing mission and civil aviation tracking networks. Since joining NATO in 2004, Latvia has relied on the alliance’s rotating fighter deployments to provide rapid interception capability across the Baltic states. When unidentified aircraft or drones appear near Latvian airspace, NATO aircraft can be scrambled while ground-based sensors attempt to determine the object’s identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defencematters.eu/drones-enter-latvian-airspace-from-russia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencematters.eu">[Defence Matters - European Defence News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencematters.eu</span><span class="citation-popover-title">Defence Matters</span><span class="citation-popover-snippet">The mission has protected the airspace of Latvia, Lithuania and Estonia since the...Read more...</span></span></span>
 
-The civilian side is managed through institutions including the Civil Aviation Agency (CAA) and Latvijas gaisa satiksme, Latvia’s air navigation service provider. These organisations oversee aircraft tracking, drone regulations and incident reporting. Drone operators are required to register and comply with geographic restrictions, while authorities maintain systems for reporting dangerous or unauthorised flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lgs.lv/en/home/drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lgs.lv">[lgs.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lgs.lv</span><span class="citation-popover-snippet">DronesEvery operator of unmanned aircraft or drones in Latvia can get acquainted with the locations of objects over which drone flights a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.lv">[caa.gov.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.lv</span><span class="citation-popover-snippet">Sākumlapa en | Civilās aviācijas aģentūraAbout us The Civil Aviation Agency has been established to implement national civil aviation and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lgs.lv/en/2020/10/drone-flight-coordination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lgs.lv">[lgs.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lgs.lv</span><span class="citation-popover-snippet">Coordination of unmanned aircraft flightsThe remote pilot and/or UAS operator must submit an incident report (mandatory reporting) if an...</span></span></span>
+The civilian side is managed through institutions including the Civil Aviation Agency (CAA) and Latvijas gaisa satiksme, Latvia’s air navigation service provider. These organisations oversee aircraft tracking, drone regulations and incident reporting. Drone operators are required to register and comply with geographic restrictions, while authorities maintain systems for reporting dangerous or unauthorised flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lgs.lv/en/home/drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lgs.lv">[lgs.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lgs.lv</span><span class="citation-popover-snippet">DronesEvery operator of unmanned aircraft or drones in Latvia can get acquainted with the locations of objects over which drone flights a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.lv">[caa.gov.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.lv</span><span class="citation-popover-snippet">Sākumlapa en &#124; Civilās aviācijas aģentūraAbout us The Civil Aviation Agency has been established to implement national civil aviation and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lgs.lv/en/2020/10/drone-flight-coordination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lgs.lv">[lgs.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lgs.lv</span><span class="citation-popover-snippet">Coordination of unmanned aircraft flightsThe remote pilot and/or UAS operator must submit an incident report (mandatory reporting) if an...</span></span></span>
 
 A notable feature of Latvia’s modern surveillance environment is the increasing use of drone-detection technology around critical infrastructure. Rīga Airport has invested in systems capable of detecting, identifying and tracking drones near the airport perimeter. Officials have stated that violations are regularly recorded and that operators can be identified through these systems. By 2025, airport and aviation officials were reporting multiple drone-related incidents near airport territory every day, although most were attributed to rule violations rather than hostile activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esfondi.lv/en/about-eu-funds/news/a-campaign-for-the-safe-use-of-drones-has-been-launched" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esfondi.lv">[ES fondi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esfondi.lv</span><span class="citation-popover-title">a campaign for the safe use of drones has been launched</span><span class="citation-popover-snippet">2 Dec 2025 — Drone users must be aware that Riga Airport operates a system for monitoring, identifying, and tracking drones and recording...</span></span></span>
 
@@ -293,7 +293,7 @@ The most important recent chapter in Latvia’s official airspace record emerged
 
 In March 2026, Latvia’s Ministry of Defence reported that the Air Force had detected a foreign unmanned aircraft entering national airspace from Russia. Early warning systems registered sounds consistent with an explosion in the Krāslava region, prompting investigation. Authorities treated the event as a genuine security incident rather than a civilian aviation matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/drone-enters-latvian-airspace-and-crashes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-title">drone enters latvian airspace and crashes</span><span class="citation-popover-snippet">Aizsardzības ministrijaDrone enters Latvian airspace and crashes25 Mar 2026 — Drone enters Latvian airspace and crashes · The Air Force h...</span></span></span>
 
-Additional alerts followed in May 2026. Latvia’s National Armed Forces issued warnings about potential airspace threats in eastern regions and monitored unidentified drones that crossed into Latvian territory. NATO aircraft were reportedly placed on alert or scrambled as part of the Baltic Air Policing framework while officials attempted to determine the drones’ origin and intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pravda.com.ua/eng/news/2026/05/17/8035031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pravda.com.ua">[Pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pravda.com.ua</span><span class="citation-popover-snippet">PravdaLatvia warns of threat from the air after unidentified drone...17 May 2026 — Latvia&#x27;s National Armed Forces warned on the morning...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kyivpost.com/post/76312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kyivpost.com">[Kyiv Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kyivpost.com</span><span class="citation-popover-snippet">NATO Jets Scrambled After Unidentified Drone Breaches...17 May 2026 — Fighter jets from NATO&#x27;s Baltic Air Policing mission were scramble...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Additional alerts followed in May 2026. Latvia’s National Armed Forces issued warnings about potential airspace threats in eastern regions and monitored unidentified drones that crossed into Latvian territory. NATO aircraft were reportedly placed on alert or scrambled as part of the Baltic Air Policing framework while officials attempted to determine the drones’ origin and intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pravda.com.ua/eng/news/2026/05/17/8035031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pravda.com.ua">[Pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pravda.com.ua</span><span class="citation-popover-snippet">Latvia warns of threat from the air after unidentified drone...17 May 2026 — Latvia&#x27;s National Armed Forces warned on the morning...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kyivpost.com/post/76312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kyivpost.com">[Kyiv Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kyivpost.com</span><span class="citation-popover-snippet">NATO Jets Scrambled After Unidentified Drone Breaches...17 May 2026 — Fighter jets from NATO&#x27;s Baltic Air Policing mission were scramble...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 What makes these cases unusual is that some remained only partially identified. Authorities often concluded that the objects were drones but could not immediately determine who launched them or whether electronic interference had altered their course. Several Baltic governments argued that Russian electronic warfare systems may have disrupted Ukrainian drones and caused them to drift into NATO airspace. Definitive public proof for every incident has not always been released, leaving some details unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">drone incursions sow fear chaos along natos baltic finnish borders 2026 05 27</span><span class="citation-popover-snippet">Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</span></span></span>
 
@@ -359,86 +359,44 @@ The result is a record that contains genuine unknowns at the moment of detection
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Latvia Monitors and Confirms Unidentified Objects. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Latvia Monitors and Confirms Unidentified Objects, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on military, aviation and official witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Examines state responses to unidentified aerial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains identification methods and airspace observation issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses official investigations and classification of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -472,75 +430,71 @@ The result is a record that contains genuine unknowns at the moment of detection
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-records-how-latvia-monitors-and-confirms-unidentified-objects-latvia-ufo-poster-book-books-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -754,188 +708,188 @@ The result is a record that contains genuine unknowns at the moment of detection
 
 1. <a id="endnote-1"></a>
    Source: eng.lsm.lv  
-   Link: [https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/](https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/)  
+   Link: <a href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near Latvian border turns out to be...September 17, 2024 — The LETA news agency reported that airspace monitoring devices...</p></details>
    Published: September 17, 2024  
 
 2. <a id="endnote-2"></a>
    Source: mod.gov.lv  
    Title: drone enters latvian airspace and crashes  
-   Link: [https://www.mod.gov.lv/en/news/drone-enters-latvian-airspace-and-crashes](https://www.mod.gov.lv/en/news/drone-enters-latvian-airspace-and-crashes)  
+   Link: <a href="https://www.mod.gov.lv/en/news/drone-enters-latvian-airspace-and-crashes" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/drone-enters-latvian-airspace-and-crashes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aizsardzības ministrijaDrone enters Latvian airspace and crashes25 Mar 2026 — Drone enters Latvian airspace and crashes · The Air Force h...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: eng.lsm.lv  
    Title: 16.10.2025 riga airport continues equipping itself against drones.a618698  
-   Link: [https://eng.lsm.lv/article/economy/transport/16.10.2025-riga-airport-continues-equipping-itself-against-drones.a618698/](https://eng.lsm.lv/article/economy/transport/16.10.2025-riga-airport-continues-equipping-itself-against-drones.a618698/)  
+   Link: <a href="https://eng.lsm.lv/article/economy/transport/16.10.2025-riga-airport-continues-equipping-itself-against-drones.a618698/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/economy/transport/16.10.2025-riga-airport-continues-equipping-itself-against-drones.a618698/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LSM.lvRīga Airport continues equipping itself against drones16 Oct 2025 — The Rīga Airport continues installing sensors and radars to det...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: defencematters.eu  
    Title: Defence Matters  
-   Link: [https://defencematters.eu/drones-enter-latvian-airspace-from-russia/](https://defencematters.eu/drones-enter-latvian-airspace-from-russia/)  
+   Link: <a href="https://defencematters.eu/drones-enter-latvian-airspace-from-russia/" target="_blank" rel="noopener noreferrer nofollow">https://defencematters.eu/drones-enter-latvian-airspace-from-russia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mission has protected the airspace of Latvia, Lithuania and Estonia since the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: caa.gov.lv  
-   Link: [https://www.caa.gov.lv/en](https://www.caa.gov.lv/en)  
+   Link: <a href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.lv/en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sākumlapa en | Civilās aviācijas aģentūraAbout us The Civil Aviation Agency has been established to implement national civil aviation and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lgs.lv  
-   Link: [https://www.lgs.lv/en/home/drones/](https://www.lgs.lv/en/home/drones/)  
+   Link: <a href="https://www.lgs.lv/en/home/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.lgs.lv/en/home/drones/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DronesEvery operator of unmanned aircraft or drones in Latvia can get acquainted with the locations of objects over which drone flights a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: droni.caa.gov.lv  
    Title: flight application in uas geographical zones  
-   Link: [https://droni.caa.gov.lv/en/uasis/uas-geographical-zones/flight-application-in-uas-geographical-zones/](https://droni.caa.gov.lv/en/uasis/uas-geographical-zones/flight-application-in-uas-geographical-zones/)  
+   Link: <a href="https://droni.caa.gov.lv/en/uasis/uas-geographical-zones/flight-application-in-uas-geographical-zones/" target="_blank" rel="noopener noreferrer nofollow">https://droni.caa.gov.lv/en/uasis/uas-geographical-zones/flight-application-in-uas-geographical-zones/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to verify if a...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lgs.lv  
-   Link: [https://www.lgs.lv/en/2020/10/drone-flight-coordination/](https://www.lgs.lv/en/2020/10/drone-flight-coordination/)  
+   Link: <a href="https://www.lgs.lv/en/2020/10/drone-flight-coordination/" target="_blank" rel="noopener noreferrer nofollow">https://www.lgs.lv/en/2020/10/drone-flight-coordination/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordination of unmanned aircraft flightsThe remote pilot and/or UAS operator must submit an incident report (mandatory reporting) if an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: caa.gov.lv  
    Title: ministry transport launches campaign safe drone use  
-   Link: [https://www.caa.gov.lv/en/article/ministry-transport-launches-campaign-safe-drone-use](https://www.caa.gov.lv/en/article/ministry-transport-launches-campaign-safe-drone-use)  
+   Link: <a href="https://www.caa.gov.lv/en/article/ministry-transport-launches-campaign-safe-drone-use" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.lv/en/article/ministry-transport-launches-campaign-safe-drone-use</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Transport launches campaign on safe drone use3 Dec 2025 — Drone operators must be aware that Riga Airport operates a system f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: eng.lsm.lv  
-   Link: [https://eng.lsm.lv/article/economy/transport/latvias-runaway-drone-was-flying-unlicensed.a361222/](https://eng.lsm.lv/article/economy/transport/latvias-runaway-drone-was-flying-unlicensed.a361222/)  
+   Link: <a href="https://eng.lsm.lv/article/economy/transport/latvias-runaway-drone-was-flying-unlicensed.a361222/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/economy/transport/latvias-runaway-drone-was-flying-unlicensed.a361222/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LSM.lvLatvia&#x27;s runaway drone was flying unlicensedThe flight of the drone lost in early May and missing for over two weeks had not been a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: eng.lsm.lv  
-   Link: [https://eng.lsm.lv/article/economy/transport/more-navigation-errors-in-latvias-civil-aviation-in-2020-says-agency.a416526/](https://eng.lsm.lv/article/economy/transport/more-navigation-errors-in-latvias-civil-aviation-in-2020-says-agency.a416526/)  
+   Link: <a href="https://eng.lsm.lv/article/economy/transport/more-navigation-errors-in-latvias-civil-aviation-in-2020-says-agency.a416526/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/economy/transport/more-navigation-errors-in-latvias-civil-aviation-in-2020-says-agency.a416526/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>navigation errors in Latvia&#x27;s civil aviation in 2020...11 Aug 2021 — Incidents related to unmanned aircraft flying dangerously close to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/](https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: drone incursions sow fear chaos along natos baltic finnish borders 2026 05 27  
-   Link: [https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/](https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rs.gov.lv  
-   Link: [https://www.rs.gov.lv/en/article/border-guards-determine-person-who-performs-flight-unmanned-aircraft-border-zone](https://www.rs.gov.lv/en/article/border-guards-determine-person-who-performs-flight-unmanned-aircraft-border-zone)  
+   Link: <a href="https://www.rs.gov.lv/en/article/border-guards-determine-person-who-performs-flight-unmanned-aircraft-border-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.rs.gov.lv/en/article/border-guards-determine-person-who-performs-flight-unmanned-aircraft-border-zone</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ll make their flights in the airspace of the Republic of Latvia determined by...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: latvia.eu  
-   Link: [https://www.latvia.eu/](https://www.latvia.eu/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latvia | Latvia.eu - the official website of LatviaLatvia is the center of the three Baltic states, flanked by Estonia and Lithuania...</p></details>
+   Link: <a href="https://www.latvia.eu/" target="_blank" rel="noopener noreferrer nofollow">https://www.latvia.eu/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the official website of LatviaLatvia is the center of the three Baltic states, flanked by Estonia and Lithuania...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eng.lsm.lv  
-   Link: [https://eng.lsm.lv/article/economy/transport/11.03.2025-expert-drone-pilots-need-to-check-rules-carefully-before-flying.a591064/](https://eng.lsm.lv/article/economy/transport/11.03.2025-expert-drone-pilots-need-to-check-rules-carefully-before-flying.a591064/)  
+   Link: <a href="https://eng.lsm.lv/article/economy/transport/11.03.2025-expert-drone-pilots-need-to-check-rules-carefully-before-flying.a591064/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/economy/transport/11.03.2025-expert-drone-pilots-need-to-check-rules-carefully-before-flying.a591064/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lsm.lvExpert: drone pilots need to check rules carefully before flying11 Mar 2025 — Drones under 250 grams, which are a separate category...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: latvia.travel  
    Title: Travel | Official Latvian Tourism Portal Get inspired for adventures in Latvia!  
-   Link: [https://www.latvia.travel/en](https://www.latvia.travel/en)  
+   Link: <a href="https://www.latvia.travel/en" target="_blank" rel="noopener noreferrer nofollow">https://www.latvia.travel/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover cities, delicious food and beautiful nature, things to see and do in Latvia! The most interesting events in 2026.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: latvija.gov.lv  
-   Link: [https://latvija.gov.lv/](https://latvija.gov.lv/)  
+   Link: <a href="https://latvija.gov.lv/" target="_blank" rel="noopener noreferrer nofollow">https://latvija.gov.lv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VSAA informācija un pakalpojumi · Pieteikšanās studējošo sociālajai stipendijai - Studētgods · Slimības...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mod.gov.lv  
-   Link: [https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory](https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory)  
+   Link: <a href="https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned aerial vehicles from russia enter Latvian airspace8 May 2026 — During the incident, two foreign drones crashed within Latvian te...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: esfondi.lv  
    Title: a campaign for the safe use of drones has been launched  
-   Link: [https://www.esfondi.lv/en/about-eu-funds/news/a-campaign-for-the-safe-use-of-drones-has-been-launched](https://www.esfondi.lv/en/about-eu-funds/news/a-campaign-for-the-safe-use-of-drones-has-been-launched)  
+   Link: <a href="https://www.esfondi.lv/en/about-eu-funds/news/a-campaign-for-the-safe-use-of-drones-has-been-launched" target="_blank" rel="noopener noreferrer nofollow">https://www.esfondi.lv/en/about-eu-funds/news/a-campaign-for-the-safe-use-of-drones-has-been-launched</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Dec 2025 — Drone users must be aware that Riga Airport operates a system for monitoring, identifying, and tracking drones and recording...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pravda.com.ua  
-   Link: [https://www.pravda.com.ua/eng/news/2026/05/17/8035031/](https://www.pravda.com.ua/eng/news/2026/05/17/8035031/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PravdaLatvia warns of threat from the air after unidentified drone...17 May 2026 — Latvia&#x27;s National Armed Forces warned on the morning...</p></details>
+   Link: <a href="https://www.pravda.com.ua/eng/news/2026/05/17/8035031/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2026/05/17/8035031/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latvia warns of threat from the air after unidentified drone...17 May 2026 — Latvia&#x27;s National Armed Forces warned on the morning...</p></details>
    Published: May 2026  
 
 22. <a id="endnote-22"></a>
    Source: kyivpost.com  
-   Link: [https://www.kyivpost.com/post/76312](https://www.kyivpost.com/post/76312)  
+   Link: <a href="https://www.kyivpost.com/post/76312" target="_blank" rel="noopener noreferrer nofollow">https://www.kyivpost.com/post/76312</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Jets Scrambled After Unidentified Drone Breaches...17 May 2026 — Fighter jets from NATO&#x27;s Baltic Air Policing mission were scramble...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Latvia](https://en.wikipedia.org/wiki/Latvia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Latvia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Latvia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latviaa country in the Baltic region of Northern Europe. It is one of the three Baltic states, along with Estonia to the north and Lit...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Latvia](https://www.britannica.com/place/Latvia)  
+   Link: <a href="https://www.britannica.com/place/Latvia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Latvia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Riga, and it is bounded by Estonia to the north, Russia to the east, Belarus to the southeast...Read more...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: liveriga.com  
-   Link: [https://www.liveriga.com/en/](https://www.liveriga.com/en/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LiveRiga: Experience Riga, the capital of LatviaRiga the capital of Latvia, is a great destination for everyone. You&#x27;ll find business opp...</p></details>
+   Link: <a href="https://www.liveriga.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.liveriga.com/en/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience Riga, the capital of LatviaRiga the capital of Latvia, is a great destination for everyone. You&#x27;ll find business opp...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: kyivindependent.com  
-   Link: [https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/](https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/)  
+   Link: <a href="https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/" target="_blank" rel="noopener noreferrer nofollow">https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO jets scramble as drone breaches Latvian airspace...8 days ago — An unidentified drone entered Latvia&#x27;s airspace on May 21, promptin...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/](https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/)  
+   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report a potential breach of aviation lawThis includes a drone being flown higher than 400ft or close to an airport. To report a drone in...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: european-union.europa.eu  
-   Link: [https://european-union.europa.eu/principles-countries-history/eu-countries/latvia_en](https://european-union.europa.eu/principles-countries-history/eu-countries/latvia_en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– EU country | European UnionLatvia is a parliamentary republic. The president who is the head of state has a largely ceremonial role and...</p></details>
+   Link: <a href="https://european-union.europa.eu/principles-countries-history/eu-countries/latvia_en" target="_blank" rel="noopener noreferrer nofollow">https://european-union.europa.eu/principles-countries-history/eu-countries/latvia_en</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU country | European UnionLatvia is a parliamentary republic. The president who is the head of state has a largely ceremonial role and...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PMLkFzDrtzc](https://www.youtube.com/watch?v=PMLkFzDrtzc)  
+   Link: <a href="https://www.youtube.com/watch?v=PMLkFzDrtzc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PMLkFzDrtzc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Latvia Defence ministry holds press conference after...WATCH LIVE as The Latvian Ministry of Defence holds a press conference foll...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: euronews.com  
    Title: late warnings and a ministers fall latvias air defence failures revealed  
-   Link: [https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed](https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed)  
+   Link: <a href="https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Late warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...14 May 2026 — A series of drones crossed into its airspace, sparking not onl...</p></details>
    Published: May 2026  
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWToTcJj3G3/](https://www.instagram.com/reel/DWToTcJj3G3/)  
+   Link: <a href="https://www.instagram.com/reel/DWToTcJj3G3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWToTcJj3G3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026, Latvia&#x27;s military said three drones entered Latvian airspace from Russia; two crashed in eastern Latvia, and one reportedly hit...</p></details>
    Published: May 7, 2026  
 
 32. <a id="endnote-32"></a>
    Source: bnn-news.com  
    Title: mysterious object near latvias border answers still pending 278792  
-   Link: [https://bnn-news.com/mysterious-object-near-latvias-border-answers-still-pending-278792](https://bnn-news.com/mysterious-object-near-latvias-border-answers-still-pending-278792)  
+   Link: <a href="https://bnn-news.com/mysterious-object-near-latvias-border-answers-still-pending-278792" target="_blank" rel="noopener noreferrer nofollow">https://bnn-news.com/mysterious-object-near-latvias-border-answers-still-pending-278792</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baltic News NetworkMysterious object near Latvia&#x27;s border – answers still...31 Mar 2026 — Based on certain parameters, similarities can...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29](https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RBC-Ukraine... ↑ &quot;Latvia and Lithuania issue drone alerts, scramble NATO fighter jets&quot;.Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tvpworldcom/posts/at-least-one-drone-entered-latvias-airspace-the-countrys-armed-forces-said-promp/1623974893064497/](https://www.facebook.com/tvpworldcom/posts/at-least-one-drone-entered-latvias-airspace-the-countrys-armed-forces-said-promp/1623974893064497/)  
+   Link: <a href="https://www.facebook.com/tvpworldcom/posts/at-least-one-drone-entered-latvias-airspace-the-countrys-armed-forces-said-promp/1623974893064497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/at-least-one-drone-entered-latvias-airspace-the-countrys-armed-forces-said-promp/1623974893064497/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aid, prompting a response from NATO fighter jets amid growing security...Read more...</p></details>

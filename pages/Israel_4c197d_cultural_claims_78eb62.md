@@ -217,7 +217,7 @@ sibling_links:
   title: 'Historical Sightings | Uncovering UFO Phenomena Across Israel: Sightings and...'
   permalink: /historical-sightings-7bca7a/
   short_title: Historical Sightings
-  heading_title: Documented UFO Encounters in Israel from the 1950s to 1970s
+  heading_title: Documented UFO Encounters in Israel from the 1950 s to 1970 s
 - basename: Israel_4c197d_modern_reports_3474b6
   title: 'Modern Reports | Uncovering UFO Phenomena Across Israel: Sightings and...'
   permalink: /modern-reports-f40632/
@@ -238,8 +238,8 @@ next_link:
   title: 'Historical Sightings | Uncovering UFO Phenomena Across Israel: Sightings and...'
   permalink: /historical-sightings-7bca7a/
   short_title: Historical Sightings
-  heading_title: Documented UFO Encounters in Israel from the 1950s to 1970s
-date: '2026-06-09 01:30:21 '
+  heading_title: Documented UFO Encounters in Israel from the 1950 s to 1970 s
+date: '2026-06-10 01:55:47 '
 header:
   og_image: /assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1-social.jpg
   preview_image: /assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1-social
 
 ## Introduction
 
-In **[Israel]({{ 'uncovering-ufo-phenomena-across-israel/' | relative_url }})**, narratives around unidentified flying objects (UFOs) and unidentified aerial phenomena (UAPs) blend sporadic public sightings, local enthusiast reportage, occasional media attention and cultural fascination. While no official government body in Israel has endorsed extraterrestrial explanations, contested claims and mass‑reporting episodes have shaped how people discuss and interpret aerial mysteries in Israeli skies. This page focuses on how these narratives have circulated, been amplified or contested, and entered public discourse — from mass sightings and folklore to social‑media‑driven claims and community forums that blur the line between eyewitness testimony and modern mythmaking.
+In **Israel**, narratives around unidentified flying objects (UFOs) and unidentified aerial phenomena (UAPs) blend sporadic public sightings, local enthusiast reportage, occasional media attention and cultural fascination. While no official government body in Israel has endorsed extraterrestrial explanations, contested claims and mass‑reporting episodes have shaped how people discuss and interpret aerial mysteries in Israeli skies. This page focuses on how these narratives have circulated, been amplified or contested, and entered public discourse — from mass sightings and folklore to social‑media‑driven claims and community forums that blur the line between eyewitness testimony and modern mythmaking.
 
 
 <img src="{{ "/assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1-dark.svg" | relative_url }}" alt="Cultural Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ In **[Israel]({{ 'uncovering-ufo-phenomena-across-israel/' | relative_url }})**,
 
 Public reports of unexplained aerial sightings have periodically swept across Israel, often fueling lively debate about their origin and meaning. In July 2012, hundreds of individuals nationwide reported a bright object in the night sky; police and astronomers investigated, and though some scientists suggested it was unlikely to be a meteor and the Israeli Air Force said it had no operations in the area, no definitive explanation was offered, leaving room for speculation and continued online debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-snippet">ynetglobalIsraelis nationwide report seeing UFOJuly 6, 2012...</span><span class="citation-popover-meta">Published: July 6, 2012</span></span></span>
 
-Earlier episodes, such as a widely circulated 2011 series of videos that purportedly showed a light hovering over **Temple Mount** in Jerusalem, gained attention when multiple independent recordings appeared to depict an anomalous light performing unusual movements. While some observers viewed this as intriguing footage, sceptics suggested video artefacts and optical effects were likely, illustrating how ambiguous visual evidence becomes a focal point for contested interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.israelnationalnews.com/news/142126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: israelnationalnews.com">[Israel National News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">israelnationalnews.com</span><span class="citation-popover-title">Israel National News UFO &#x27;Sighted&#x27; Over Temple Mount | Israel National News</span><span class="citation-popover-snippet">Israel National NewsUFO &#x27;Sighted&#x27; Over Temple Mount | Israel National NewsFebruary 3, 2011...</span><span class="citation-popover-meta">Published: February 3, 2011</span></span></span>
+Earlier episodes, such as a widely circulated 2011 series of videos that purportedly showed a light hovering over **Temple Mount** in Jerusalem, gained attention when multiple independent recordings appeared to depict an anomalous light performing unusual movements. While some observers viewed this as intriguing footage, sceptics suggested video artefacts and optical effects were likely, illustrating how ambiguous visual evidence becomes a focal point for contested interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.israelnationalnews.com/news/142126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: israelnationalnews.com">[Israel National News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">israelnationalnews.com</span><span class="citation-popover-title">Israel National News UFO &#x27;Sighted&#x27; Over Temple Mount &#124; Israel National News</span><span class="citation-popover-snippet">Israel National NewsUFO &#x27;Sighted&#x27; Over Temple Mount &#124; Israel National NewsFebruary 3, 2011...</span><span class="citation-popover-meta">Published: February 3, 2011</span></span></span>
 
 Longer‑running local lore also surrounds towns like **Kadima**, which has acquired a reputation among UFO enthusiasts as a hotspot for reported unexplained phenomena — glowing orbs, “landing circles” and light flashes that some believers interpret as physical traces of craft. This kind of locally concentrated reporting has helped sustain serial narratives about Israel‑specific UFO activity even as mainstream science remains unconvinced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-snippet">ynetglobalIsraelis nationwide report seeing UFOJuly 6, 2012...</span><span class="citation-popover-meta">Published: July 6, 2012</span></span></span>
 
@@ -265,11 +265,11 @@ Longer‑running local lore also surrounds towns like **Kadima**, which has acqu
 
 ## Contested Claims in Media and on Social Platforms
 
-In recent years, UFO claims in Israel have increasingly intersected with social media, celebrity platforms and public figures, highlighting how contested these narratives can become. In early 2024, well‑known Israeli personality **Uri Geller**, often associated with paranormal topics, shared a photograph he suggested depicted a UFO seen by a senior IDF officer — a claim that was met on social platforms with widespread scepticism, with commenters pointing out similarities to a streetlight and image manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/omg/article-780292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostUri Geller posts pic of UFO in Israel, social media says it&#x27;s a lamppost | The Jerusalem PostJanuary 1, 2024...</span><span class="citation-popover-meta">Published: January 1, 2024</span></span></span>
+In recent years, UFO claims in Israel have increasingly intersected with social media, celebrity platforms and public figures, highlighting how contested these narratives can become. In early 2024, well‑known Israeli personality **Uri Geller**, often associated with paranormal topics, shared a photograph he suggested depicted a UFO seen by a senior IDF officer — a claim that was met on social platforms with widespread scepticism, with commenters pointing out similarities to a streetlight and image manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/omg/article-780292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostUri Geller posts pic of UFO in Israel, social media says it&#x27;s a lamppost &#124; The Jerusalem PostJanuary 1, 2024...</span><span class="citation-popover-meta">Published: January 1, 2024</span></span></span>
 
 Such episodes demonstrate the gap between sensational interpretation and grounded analysis. Geller’s posts spurred debate rather than consensus, with social media fact‑checkers and community notes adding context or pushing back against extraordinary claims. This dynamic is emblematic of how contemporary UFO narratives often play out first on digital platforms, with opinion and speculation sometimes overshadowing verifiable evidence.
 
-Online forums and discussion threads reveal another dimension of contested UFO culture in Israel: individuals sharing alleged sightings or personal theories, often without corroboration or scientific scrutiny. These posts mix personal testimony with speculation about aerial objects seen over beaches, urban centres or border regions, and illustrate how eyewitness accounts, even if unverified, can circulate widely and shape communal belief structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1rmigua/mid_day_sighting_ufo_at_haifa_beach_israel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mid day sighting UFO at Haifa beach Israel</span><span class="citation-popover-snippet">RedditMid day sighting UFO at Haifa beach IsraelMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+Online forums and discussion threads reveal another dimension of contested UFO culture in Israel: individuals sharing alleged sightings or personal theories, often without corroboration or scientific scrutiny. These posts mix personal testimony with speculation about aerial objects seen over beaches, urban centres or border regions, and illustrate how eyewitness accounts, even if unverified, can circulate widely and shape communal belief structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1rmigua/mid_day_sighting_ufo_at_haifa_beach_israel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mid day sighting UFO at Haifa beach Israel</span><span class="citation-popover-snippet">Mid day sighting UFO at Haifa beach IsraelMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-2-dark.svg" | relative_url }}" alt="Cultural Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,86 +305,44 @@ Even without official endorsement, such narratives continue to circulate and evo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Public Fascination and Contested UFO Narratives in Israel. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Public Fascination and Contested UFO Narratives in Israel, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Examines how UFO stories spread and become modern myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Provides context for how UFO narratives evolve in public discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
-        
-        <p class="fr-book-desc">Explores links between folklore, belief, and unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Strong match for social-media-driven narratives and cultural fascination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -418,75 +376,71 @@ Even without official endorsement, such narratives continue to circulate and evo
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-claims-public-fascination-and-contested-ufo-narratives-in-israel-israel-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -700,55 +654,55 @@ Even without official endorsement, such narratives continue to circulate and evo
 
 1. <a id="endnote-1"></a>
    Source: ynetnews.com  
-   Link: [https://www.ynetnews.com/article/4239796](https://www.ynetnews.com/article/4239796)  
+   Link: <a href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/article/4239796</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ynetglobalIsraelis nationwide report seeing UFOJuly 6, 2012...</p></details>
    Published: July 6, 2012  
 
 2. <a id="endnote-2"></a>
    Source: israelnationalnews.com  
    Title: Israel National News UFO 'Sighted' Over Temple Mount | Israel National News  
-   Link: [https://www.israelnationalnews.com/news/142126](https://www.israelnationalnews.com/news/142126)  
+   Link: <a href="https://www.israelnationalnews.com/news/142126" target="_blank" rel="noopener noreferrer nofollow">https://www.israelnationalnews.com/news/142126</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Israel National NewsUFO &#x27;Sighted&#x27; Over Temple Mount | Israel National NewsFebruary 3, 2011...</p></details>
    Published: February 3, 2011  
 
 3. <a id="endnote-3"></a>
    Source: ynetnews.com  
    Title: ynetglobal Israel's UFO hotspot: town draws believers chasing alien encounters  
-   Link: [https://www.ynetnews.com/magazine/article/byerlvo1wl](https://www.ynetnews.com/magazine/article/byerlvo1wl)  
+   Link: <a href="https://www.ynetnews.com/magazine/article/byerlvo1wl" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/magazine/article/byerlvo1wl</a>  
 
 4. <a id="endnote-4"></a>
    Source: jpost.com  
-   Link: [https://www.jpost.com/omg/article-780292](https://www.jpost.com/omg/article-780292)  
+   Link: <a href="https://www.jpost.com/omg/article-780292" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-780292</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jerusalem PostUri Geller posts pic of UFO in Israel, social media says it&#x27;s a lamppost | The Jerusalem PostJanuary 1, 2024...</p></details>
    Published: January 1, 2024  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Mid day sighting UFO at Haifa beach Israel  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rmigua/mid_day_sighting_ufo_at_haifa_beach_israel/](https://www.reddit.com/r/UFOs/comments/1rmigua/mid_day_sighting_ufo_at_haifa_beach_israel/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditMid day sighting UFO at Haifa beach IsraelMarch 6, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rmigua/mid_day_sighting_ufo_at_haifa_beach_israel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rmigua/mid_day_sighting_ufo_at_haifa_beach_israel/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mid day sighting UFO at Haifa beach IsraelMarch 6, 2026...</p></details>
    Published: March 6, 2026  
 
 6. <a id="endnote-6"></a>
    Source: mufonisrael.com  
    Title: Mufon MUFON ישראל – חקר עב״מים, חוצנים ותופעות לא מוסברות בישראל  
-   Link: [https://mufonisrael.com/](https://mufonisrael.com/)  
+   Link: <a href="https://mufonisrael.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufonisrael.com/</a>  
 
 7. <a id="endnote-7"></a>
    Source: hayadan.org.il  
-   Link: [https://www.hayadan.org.il/brosh-on-ufo](https://www.hayadan.org.il/brosh-on-ufo)  
+   Link: <a href="https://www.hayadan.org.il/brosh-on-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.hayadan.org.il/brosh-on-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hayadanעב&quot;מים, חייזרים, מיסטיקה ומדע. לא היה ולא נברא - האמנם? - הידען - HayadanApril 1, 1997...</p></details>
    Published: April 1, 1997  
 
 8. <a id="endnote-8"></a>
    Source: hayadan.org.il  
-   Link: [https://www.hayadan.org.il/is-ufo-landed-in-israel-23119](https://www.hayadan.org.il/is-ufo-landed-in-israel-23119)  
+   Link: <a href="https://www.hayadan.org.il/is-ufo-landed-in-israel-23119" target="_blank" rel="noopener noreferrer nofollow">https://www.hayadan.org.il/is-ufo-landed-in-israel-23119</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hayadanשאילתה בכנסת: האם עב&quot;מים נחתו בארץ? - הידען - HayadanNovember 23, 1997...</p></details>
    Published: November 23, 1997  
 
 9. <a id="endnote-9"></a>
    Source: hayadan.org.il  
-   Link: [https://www.hayadan.org.il/ufo-but-not-aliens-030906](https://www.hayadan.org.il/ufo-but-not-aliens-030906)  
+   Link: <a href="https://www.hayadan.org.il/ufo-but-not-aliens-030906" target="_blank" rel="noopener noreferrer nofollow">https://www.hayadan.org.il/ufo-but-not-aliens-030906</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>אולי. חייזרים? לא! - הידען - HayadanSeptember 3, 2006 — עב&quot;מים? אולי. חייזרים? לא! * איתן קריין, חמדע * ספטמבר 3, 2006 * דוח סודי של משרד...</p></details>
    Published: September 3, 2006  
 
@@ -756,67 +710,67 @@ Even without official endorsement, such narratives continue to circulate and evo
 
 10. <a id="endnote-10"></a>
    Source: jpost.com  
-   Link: [https://www.jpost.com/omg/article-807477](https://www.jpost.com/omg/article-807477)  
+   Link: <a href="https://www.jpost.com/omg/article-807477" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-807477</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2024 — URI GELLER: ALIENS BUILT THE JERUSALEM TEMPLE, MAY HELP ISRAEL DURING WAR ISRAELI MYSTIFIER AND ENTERTAINER URI GELLER CL...</p></details>
    Published: June 24, 2024  
 
 11. <a id="endnote-11"></a>
    Source: ufoinsight.com  
    Title: The Hadhramaut UFO Landing And Strange Aerial Objects Of The Middle East  
-   Link: [https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east](https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightApril 1, 2024 — THE RECENT UFO AND ALIEN ENCOUNTERS OF ISRAEL According to a report by Shimon Rosenberg, on the evening of Jul...</p></details>
    Published: April 1, 2024  
 
 12. <a id="endnote-12"></a>
    Source: haipo.co.il  
    Title: Uri Sharon with the remains of the UFO (Photo: Paul Melling) Note abou  
-   Link: [https://haipo.co.il/en/?p=607676](https://haipo.co.il/en/?p=607676)  
+   Link: <a href="https://haipo.co.il/en/?p=607676" target="_blank" rel="noopener noreferrer nofollow">https://haipo.co.il/en/?p=607676</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs landed at dawn - Haifa News CorporationJanuary 3, 2026 — UFOS LANDED AT DAWN Naphtali in white 03/01/2026 17:39 society and educatio...</p></details>
    Published: January 3, 2026  
 
 13. <a id="endnote-13"></a>
    Source: usubjects.com  
    Title: Israel's UFO hotspot: town draws believers chasing alien encounters  
-   Link: [https://usubjects.com/article/israels-ufo-hotspot-town-draws-believers-chasing-alien-encounters-ynetnews-430](https://usubjects.com/article/israels-ufo-hotspot-town-draws-believers-chasing-alien-encounters-ynetnews-430)  
+   Link: <a href="https://usubjects.com/article/israels-ufo-hotspot-town-draws-believers-chasing-alien-encounters-ynetnews-430" target="_blank" rel="noopener noreferrer nofollow">https://usubjects.com/article/israels-ufo-hotspot-town-draws-believers-chasing-alien-encounters-ynetnews-430</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ynetnews | Unexplained SubjectsNovember 7, 2025 — ISRAEL&#x27;S UFO HOTSPOT: TOWN DRAWS BELIEVERS CHASING ALIEN ENCOUNTERS - YNETNEWS news.goo...</p></details>
    Published: November 7, 2025  
 
 14. <a id="endnote-14"></a>
    Source: timesofisrael.com  
    Title: us army vets say they saw ufos on israel egypt border in 2014  
-   Link: [https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/](https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/)  
+   Link: <a href="https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Army vets say they saw UFOs on Israel-Egypt border in 2014 | The Times of IsraelMay 18, 2022 — Saw them at Sinai US ARMY VETS SAY THEY...</p></details>
    Published: May 18, 2022  
 
 15. <a id="endnote-15"></a>
    Source: salon.com  
    Title: Why do smart people lie about alien encounters?  
-   Link: [https://www.salon.com/2020/12/10/why-do-smart-people-lie-about-alien-encounters/](https://www.salon.com/2020/12/10/why-do-smart-people-lie-about-alien-encounters/)  
+   Link: <a href="https://www.salon.com/2020/12/10/why-do-smart-people-lie-about-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2020/12/10/why-do-smart-people-lie-about-alien-encounters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 10, 2020 — WHY DO SMART PEOPLE LIE ABOUT ALIEN ENCOUNTERS? AN ISRAELI DEFENSE MINISTER JOINS A CADRE OF POLITICALLY RESPECTABLE...</p></details>
    Published: December 10, 2020  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: ALL 6 VIDEOS  
-   Link: [https://www.youtube.com/watch?v=JIoHE6P8gOk](https://www.youtube.com/watch?v=JIoHE6P8gOk)  
+   Link: <a href="https://www.youtube.com/watch?v=JIoHE6P8gOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JIoHE6P8gOk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Israel space chief aliens Haim Eshed What&#x27;s up with UFO &amp; ALIEN claims by the former Israeli Space Program Director, Prof Haim Eshed?...</p></details>
    Published: January 2011  
 
 17. <a id="endnote-17"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Israel UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/israel-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/israel-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/israel-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/israel-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2011 — ISRAEL UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT ISRAEL UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date: Locati...</p></details>
    Published: January 28, 2011  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=j6iE62jovMo](https://www.youtube.com/watch?v=j6iE62jovMo)  
+   Link: <a href="https://www.youtube.com/watch?v=j6iE62jovMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j6iE62jovMo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s up with UFO &amp; ALIEN claims by the former Israeli Space Program Director, Prof Haim Eshed?...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: khouse.org  
    Title: This air traffic management sys  
-   Link: [https://khouse.org/personal_update/articles/2017/alien-encounters](https://khouse.org/personal_update/articles/2017/alien-encounters)  
+   Link: <a href="https://khouse.org/personal_update/articles/2017/alien-encounters" target="_blank" rel="noopener noreferrer nofollow">https://khouse.org/personal_update/articles/2017/alien-encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Encounters | Koinonia HouseMay 1, 2017 — UFO researcher Brit Elders discussed the radar tracking of UFOs over Mexico: “...Mexico ha...</p></details>
    Published: May 1, 2017  

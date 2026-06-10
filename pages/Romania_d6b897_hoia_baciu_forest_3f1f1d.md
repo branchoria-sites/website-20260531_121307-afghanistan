@@ -239,7 +239,7 @@ prev_link:
   permalink: /aviation-cases/
   short_title: Aviation Cases
   heading_title: When Romanian Pilots Reported the Unidentified
-date: '2026-06-09 01:38:06 '
+date: '2026-06-10 02:04:50 '
 header:
   og_image: /assets/images/Romania_d6b897_hoia_baciu_forest_3f1f1d-Illustration-1-social.jpg
   preview_image: /assets/images/Romania_d6b897_hoia_baciu_forest_3f1f1d-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Romania_d6b897_hoia_baciu_forest_3f1f1d-Illustration-1-soc
 
 ## Introduction
 
-Hoia-Baciu Forest, on the western edge of Cluj-Napoca, occupies a unique place in [Romania]({{ 'what-romanias-ufo-record-really-shows/' | relative_url }})’s UFO and paranormal culture. Many Romanian UFO cases are known mainly to specialists, but Hoia-Baciu became an international legend. The reason is not a long chain of military records or radar evidence. It is a combination of one famous photographic incident, decades of retelling, and a growing reputation as a place where visitors claim to experience strange lights, unusual sensations, electronic malfunctions, or unexplained fear.
+Hoia-Baciu Forest, on the western edge of Cluj-Napoca, occupies a unique place in Romania’s UFO and paranormal culture. Many Romanian UFO cases are known mainly to specialists, but Hoia-Baciu became an international legend. The reason is not a long chain of military records or radar evidence. It is a combination of one famous photographic incident, decades of retelling, and a growing reputation as a place where visitors claim to experience strange lights, unusual sensations, electronic malfunctions, or unexplained fear.
 
 
 <img src="{{ "/assets/images/Romania_d6b897_hoia_baciu_forest_3f1f1d-Illustration-1-dark.svg" | relative_url }}" alt="Hoia Baciu illustration 1" data-theme-src-dark="{{ "/assets/images/Romania_d6b897_hoia_baciu_forest_3f1f1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897_hoia_baciu_forest_3f1f1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ This uncertainty is one reason the photographs remain relevant. Unlike many UFO 
 
 The forest’s modern reputation rests on far more than the 1968 photographs.
 
-During the following decades, stories accumulated around the location. Visitors described strange lights, shadowy figures, feelings of being watched, headaches, anxiety, missing time, electronic malfunctions, and unusual photographic anomalies. Many of these accounts centred on Poiana Rotundă, the so-called Round Clearing, an open circular area that became the symbolic heart of the forest's mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romanianfriend.com/tours/haunted-forest-romania-tour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanianfriend.com">[Romanian Friend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanianfriend.com</span><span class="citation-popover-snippet">Romanian FriendA Night Tour of Haunted Hoia Baciu ForestClose to Cluj-Napoca is Hoia Baciu haunted forest. Known for its UFO sightings, i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-snippet">TripadvisorHoia-Baciu Project (2026) - All You MUST Know Before...Hoia Baciu forest near Cluj-Napoca is a seemingly quiet woodland that...</span></span></span>, older local legends became attached to the UFO story. Popular retellings connected the forest to disappearances, wandering spirits, and supernatural folklore. As often happens with famous paranormal locations, separate traditions gradually merged into a single narrative. Ghost stories, UFO sightings, folklore, and modern internet culture began reinforcing one another.
+During the following decades, stories accumulated around the location. Visitors described strange lights, shadowy figures, feelings of being watched, headaches, anxiety, missing time, electronic malfunctions, and unusual photographic anomalies. Many of these accounts centred on Poiana Rotundă, the so-called Round Clearing, an open circular area that became the symbolic heart of the forest's mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romanianfriend.com/tours/haunted-forest-romania-tour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanianfriend.com">[Romanian Friend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanianfriend.com</span><span class="citation-popover-snippet">Romanian FriendA Night Tour of Haunted Hoia Baciu ForestClose to Cluj-Napoca is Hoia Baciu haunted forest. Known for its UFO sightings, i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-snippet">Hoia-Baciu Project (2026) - All You MUST Know Before...Hoia Baciu forest near Cluj-Napoca is a seemingly quiet woodland that...</span></span></span>, older local legends became attached to the UFO story. Popular retellings connected the forest to disappearances, wandering spirits, and supernatural folklore. As often happens with famous paranormal locations, separate traditions gradually merged into a single narrative. Ghost stories, UFO sightings, folklore, and modern internet culture began reinforcing one another.
 
 Several factors accelerated this transformation:
 
@@ -301,7 +301,7 @@ International paranormal programmes and documentaries repeatedly featured Hoia-B
 
 **Tourism branding**
 
-Tour operators increasingly marketed the forest as a haunted destination. Night walks, paranormal tours, and ghost-hunting experiences became common parts of the local tourism economy. The UFO photographs provided a concrete historical anchor around which broader supernatural narratives could be built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-snippet">TripadvisorHoia-Baciu Project (2026) - All You MUST Know Before...Hoia Baciu forest near Cluj-Napoca is a seemingly quiet woodland that...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.romanianfriend.com/tours/haunted-forest-romania-tour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanianfriend.com">[Romanian Friend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanianfriend.com</span><span class="citation-popover-snippet">Romanian FriendA Night Tour of Haunted Hoia Baciu ForestClose to Cluj-Napoca is Hoia Baciu haunted forest. Known for its UFO sightings, i...</span></span></span>
+Tour operators increasingly marketed the forest as a haunted destination. Night walks, paranormal tours, and ghost-hunting experiences became common parts of the local tourism economy. The UFO photographs provided a concrete historical anchor around which broader supernatural narratives could be built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-snippet">Hoia-Baciu Project (2026) - All You MUST Know Before...Hoia Baciu forest near Cluj-Napoca is a seemingly quiet woodland that...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.romanianfriend.com/tours/haunted-forest-romania-tour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanianfriend.com">[Romanian Friend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanianfriend.com</span><span class="citation-popover-snippet">Romanian FriendA Night Tour of Haunted Hoia Baciu ForestClose to Cluj-Napoca is Hoia Baciu haunted forest. Known for its UFO sightings, i...</span></span></span>
 
 **Internet amplification**
 
@@ -365,86 +365,44 @@ The strongest evidence connected to the forest remains the Barnea photographs an
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Hoia Baciu Became Romania&#x27;s UFO Forest. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Hoia Baciu Became Romania&#x27;s UFO Forest, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a skeptical framework for assessing Hoia-Baciu claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+OVER+ROMANIA+Dan+D+Farcas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs OVER ROMANIA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11407670-M.jpg" alt="Cover for UFOs OVER ROMANIA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+OVER+ROMANIA+Dan+D+Farcas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs OVER ROMANIA">UFOs OVER ROMANIA</a>
-        </h4>
-        <p class="fr-book-author">By Dan D Farcas</p>
-        
-        <p class="fr-book-desc">First published 2017.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+OVER+ROMANIA+Dan+D+Farcas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Perfect fit for Hoia-Baciu&#x27;s blend of folklore, paranormal claims, and UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
-        <p class="fr-book-desc">Explores a location where folklore and unexplained reports overlap.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+OVER+ROMANIA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs OVER ROMANIA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -478,75 +436,71 @@ The strongest evidence connected to the forest remains the Barnea photographs an
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoia-baciu-why-hoia-baciu-became-romania-s-ufo-forest-romania-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -761,186 +715,186 @@ The strongest evidence connected to the forest remains the Barnea photographs an
 1. <a id="endnote-1"></a>
    Source: asfanufo.ro  
    Title: ASFANBaciu Forest Cluj-Napoca  
-   Link: [https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968](https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968)  
+   Link: <a href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 1968Returning home, Emil Barnea, uninformed about UFOs, has not rushed to take out the film from the camera. Only after a whil...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Hoia-Baciu Forest  
-   Link: [https://en.wikipedia.org/wiki/Hoia-Baciu_Forest](https://en.wikipedia.org/wiki/Hoia-Baciu_Forest)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hoia-Baciu_Forest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hoia-Baciu_Forest</a>  
 
 3. <a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/picamaro01.htm](https://ufologie.patrickgross.org/htm/picamaro01.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/picamaro01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/picamaro01.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emil Barnea&#x27;s photographs, Cluj, Romania, 1968 - Patrick Gross31 May 2005 — ufo - UFOS at close sight: pictures by amateurs in Romania...</p></details>
    Published: May 2005  
 
 4. <a id="endnote-4"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html](https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TripadvisorHoia-Baciu Project (2026) - All You MUST Know Before...Hoia Baciu forest near Cluj-Napoca is a seemingly quiet woodland that...</p></details>
+   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-or40-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoia-Baciu Project (2026) - All You MUST Know Before...Hoia Baciu forest near Cluj-Napoca is a seemingly quiet woodland that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: 18 august 1968 hoia forest romania photos by  
-   Link: [https://www.reddit.com/r/UFOs/comments/o2ztoa/18_august_1968_hoia_forest_romania_photos_by/](https://www.reddit.com/r/UFOs/comments/o2ztoa/18_august_1968_hoia_forest_romania_photos_by/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/o2ztoa/18_august_1968_hoia_forest_romania_photos_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o2ztoa/18_august_1968_hoia_forest_romania_photos_by/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoia Forest, Romania / Photos by military technician Emil Barnea: r/UFOs... r/europe - Hoia-Baciu Forest UFO Sightings: BEST UFO PICTUR...</p></details>
    Published: august 1968  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: the hoia baciu forest in transylvania romania  
-   Link: [https://www.reddit.com/r/mrballen/comments/ie89wc/the_hoia_baciu_forest_in_transylvania_romania/](https://www.reddit.com/r/mrballen/comments/ie89wc/the_hoia_baciu_forest_in_transylvania_romania/)  
+   Link: <a href="https://www.reddit.com/r/mrballen/comments/ie89wc/the_hoia_baciu_forest_in_transylvania_romania/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mrballen/comments/ie89wc/the_hoia_baciu_forest_in_transylvania_romania/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hoia Baciu Forest in Transylvania, Romania: r/mrballen... 1968 when Emil Barnea, a military technician, photographed what he claimed...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: territorial-identity.ro  
-   Link: [https://territorial-identity.ro/wp-content/uploads/2016/03/5_OPREA_1_2016.pdf](https://territorial-identity.ro/wp-content/uploads/2016/03/5_OPREA_1_2016.pdf)  
+   Link: <a href="https://territorial-identity.ro/wp-content/uploads/2016/03/5_OPREA_1_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://territorial-identity.ro/wp-content/uploads/2016/03/5_OPREA_1_2016.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Territorial IdentityTHE HOIA-BACIU FORESTby MG OPREA · Cited by 2 — We answered why the Hoia-Baciu Forest is a niche destination for dark...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jaywaytravel.com  
    Title: romanias haunted hoia baciu forest  
-   Link: [https://jaywaytravel.com/blog/romanias-haunted-hoia-baciu-forest](https://jaywaytravel.com/blog/romanias-haunted-hoia-baciu-forest)  
+   Link: <a href="https://jaywaytravel.com/blog/romanias-haunted-hoia-baciu-forest" target="_blank" rel="noopener noreferrer nofollow">https://jaywaytravel.com/blog/romanias-haunted-hoia-baciu-forest</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania&#x27;s Haunted Hoia Baciu ForestAug 25, 2018 — Why? Over the years there have been thousands of reports about paranormal activity here...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tripadvisor.com  
    Title: Hoia-Baciu Project  
-   Link: [https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html](https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html)  
+   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g298474-d6609174-Reviews-Hoia_Baciu_Project-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting tour filled with goosebumps stories and jaw-dropping...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tripadvisor.com  
    Title: Hoia Baciu Forest  
-   Link: [https://www.tripadvisor.com/Attraction_Review-g298474-d3822459-Reviews-Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html](https://www.tripadvisor.com/Attraction_Review-g298474-d3822459-Reviews-Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html)  
+   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g298474-d3822459-Reviews-Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g298474-d3822459-Reviews-Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylvania.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A typical forest with a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UrbanMyths/comments/1j10ti7/hoia_baciu_forest_in_romania_is_one_of_the_most/](https://www.reddit.com/r/UrbanMyths/comments/1j10ti7/hoia_baciu_forest_in_romania_is_one_of_the_most/)  
+   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1j10ti7/hoia_baciu_forest_in_romania_is_one_of_the_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1j10ti7/hoia_baciu_forest_in_romania_is_one_of_the_most/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>estinations in the world. Ghost hunters, thrill-seekers, and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Hoia](https://en.wikipedia.org/wiki/Hoia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hoia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hoia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HoiaHoia may refer to: Hoia Forest, in Romania; Hoia (crustacean), a genus of parasitic crustaceans in the family Chondracanthidae...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Pădurea Hoia  
-   Link: [https://www.youtube.com/watch?v=tMPkM8E532Y](https://www.youtube.com/watch?v=tMPkM8E532Y)  
+   Link: <a href="https://www.youtube.com/watch?v=tMPkM8E532Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tMPkM8E532Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baciu, cel mai bântuit loc din România...Pădurea Hoia - Baciu ar fi considerată una dintre cele mai bântuite locații din România. Oameni...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: World's Most HAUNTED Forest!  
-   Link: [https://www.youtube.com/watch?v=N1I4OWBmju0](https://www.youtube.com/watch?v=N1I4OWBmju0)  
+   Link: <a href="https://www.youtube.com/watch?v=N1I4OWBmju0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N1I4OWBmju0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Romania: Investigations with Alexandru Mironov and Dan D Farcas...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Romania: Investigations with Alexandru Mironov and Dan D Farcas  
-   Link: [https://www.youtube.com/watch?v=Ia7m59bPBZs](https://www.youtube.com/watch?v=Ia7m59bPBZs)  
+   Link: <a href="https://www.youtube.com/watch?v=Ia7m59bPBZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ia7m59bPBZs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blink Twice | The Place People Say Changes You Forever, The Hoia-Baciu Forest...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Blink Twice | The Place People Say Changes You Forever, The Hoia-Baciu Forest  
-   Link: [https://www.youtube.com/watch?v=3y70qF0NPLo](https://www.youtube.com/watch?v=3y70qF0NPLo)  
+   Link: <a href="https://www.youtube.com/watch?v=3y70qF0NPLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3y70qF0NPLo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Chilling Surprise in Dracula&#x27;s Forest | Expedition X | Discovery...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: A Chilling Surprise in Dracula's Forest | Expedition X | Discovery  
-   Link: [https://www.youtube.com/watch?v=WbUMHwZBvCU](https://www.youtube.com/watch?v=WbUMHwZBvCU)  
+   Link: <a href="https://www.youtube.com/watch?v=WbUMHwZBvCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WbUMHwZBvCU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania&#x27;s HAUNTED Forest! | Hoia Baciu Forest...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Romania's HAUNTED Forest! | Hoia Baciu Forest  
-   Link: [https://www.youtube.com/watch?v=D00MgX-WtNY](https://www.youtube.com/watch?v=D00MgX-WtNY)  
+   Link: <a href="https://www.youtube.com/watch?v=D00MgX-WtNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D00MgX-WtNY</a>  
 
 19. <a id="endnote-19"></a>
    Source: jhmoncrieff.com  
    Title: haunted travel romanias hoia baciu forest  
-   Link: [https://www.jhmoncrieff.com/haunted-travel-romanias-hoia-baciu-forest/](https://www.jhmoncrieff.com/haunted-travel-romanias-hoia-baciu-forest/)  
+   Link: <a href="https://www.jhmoncrieff.com/haunted-travel-romanias-hoia-baciu-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.jhmoncrieff.com/haunted-travel-romanias-hoia-baciu-forest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J.H. MoncrieffHaunted Travel: Romania&#x27;s Hoia Baciu Forest9 Jun 2015 — The area gained more notoriety when military technician Emil Barnea...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: romanianfriend.com  
-   Link: [https://www.romanianfriend.com/tours/haunted-forest-romania-tour](https://www.romanianfriend.com/tours/haunted-forest-romania-tour)  
+   Link: <a href="https://www.romanianfriend.com/tours/haunted-forest-romania-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.romanianfriend.com/tours/haunted-forest-romania-tour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian FriendA Night Tour of Haunted Hoia Baciu ForestClose to Cluj-Napoca is Hoia Baciu haunted forest. Known for its UFO sightings, i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/AttractionProductReview-g298474-d23684722-Night_Tour_in_Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylv.html](https://www.tripadvisor.co.uk/AttractionProductReview-g298474-d23684722-Night_Tour_in_Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylv.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/AttractionProductReview-g298474-d23684722-Night_Tour_in_Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylv.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/AttractionProductReview-g298474-d23684722-Night_Tour_in_Hoia_Baciu_Forest-Cluj_Napoca_Cluj_County_Northwest_Romania_Transylv.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We will walk for about 3.5 km (shorter version of the tour is...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: romanianfriend.com  
    Title: a day trip in a haunted forest  
-   Link: [https://www.romanianfriend.com/tours/a-day-trip-in-a-haunted-forest](https://www.romanianfriend.com/tours/a-day-trip-in-a-haunted-forest)  
+   Link: <a href="https://www.romanianfriend.com/tours/a-day-trip-in-a-haunted-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.romanianfriend.com/tours/a-day-trip-in-a-haunted-forest</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Day tour in Hoia Baciu haunted forestHoia Baciu is a forest near Cluj-Napoca, Romania, where a UFO was sighted in 1968. Since then, paran...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mybestplace.com  
-   Link: [https://www.mybestplace.com/en/article/hoia-baciu-haunted-forest-of-mystery-in-transylvania](https://www.mybestplace.com/en/article/hoia-baciu-haunted-forest-of-mystery-in-transylvania)  
+   Link: <a href="https://www.mybestplace.com/en/article/hoia-baciu-haunted-forest-of-mystery-in-transylvania" target="_blank" rel="noopener noreferrer nofollow">https://www.mybestplace.com/en/article/hoia-baciu-haunted-forest-of-mystery-in-transylvania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My Best PlaceHoia Baciu, Haunted Forest of Mystery in TransylvaniaThe soil of this vegetation-free area has been tested and no anomalies...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: andreeamosila.com  
-   Link: [https://andreeamosila.com/into-the-veil-a-journey-through-romanias-enigmatic-hoia-forest/](https://andreeamosila.com/into-the-veil-a-journey-through-romanias-enigmatic-hoia-forest/)  
+   Link: <a href="https://andreeamosila.com/into-the-veil-a-journey-through-romanias-enigmatic-hoia-forest/" target="_blank" rel="noopener noreferrer nofollow">https://andreeamosila.com/into-the-veil-a-journey-through-romanias-enigmatic-hoia-forest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Journey Through Romania&#x27;s Enigmatic Hoia ForestReaching Poiana Rotundă, we stood in the famed treeless expanse, where, in 1968, militar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: hoiahomespa.com  
-   Link: [https://hoiahomespa.com/](https://hoiahomespa.com/)  
+   Link: <a href="https://hoiahomespa.com/" target="_blank" rel="noopener noreferrer nofollow">https://hoiahomespa.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HOIA homespaHOIA Homespa – natural skincare from Estonia inspired by Nordic nature. Botanical formulas for hydration, glow, and healthy-l...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: bioskina.com  
-   Link: [https://bioskina.com/pages/hoia](https://bioskina.com/pages/hoia)  
+   Link: <a href="https://bioskina.com/pages/hoia" target="_blank" rel="noopener noreferrer nofollow">https://bioskina.com/pages/hoia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HOIAHOIA homespa products are 100% natural and have not been tested on animals, they are tested on humans. HOIA products do not contain p...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: koha.net  
-   Link: [https://www.koha.net/en/bote/pylli-me-i-frikshem-ne-bote-peme-te-shtremberuara-ufo-dhe-tregime-rreqethese-ne-transilvani](https://www.koha.net/en/bote/pylli-me-i-frikshem-ne-bote-peme-te-shtremberuara-ufo-dhe-tregime-rreqethese-ne-transilvani)  
+   Link: <a href="https://www.koha.net/en/bote/pylli-me-i-frikshem-ne-bote-peme-te-shtremberuara-ufo-dhe-tregime-rreqethese-ne-transilvani" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/en/bote/pylli-me-i-frikshem-ne-bote-peme-te-shtremberuara-ufo-dhe-tregime-rreqethese-ne-transilvani</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The scariest forest in the world&quot;: Twisted trees...1 Nov 2025 — But Hoia-Baciu gained international attention in 1968, when a military...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/travel/europe/romania/hoia-baciu-haunted-forest-travel-guide-b2256555.html](https://www.independent.co.uk/travel/europe/romania/hoia-baciu-haunted-forest-travel-guide-b2256555.html)  
+   Link: <a href="https://www.independent.co.uk/travel/europe/romania/hoia-baciu-haunted-forest-travel-guide-b2256555.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/travel/europe/romania/hoia-baciu-haunted-forest-travel-guide-b2256555.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It defies the investigations of soil scientists and attracts Romanian witches, sword-wielding...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: hauntedwalk.com  
-   Link: [https://hauntedwalk.com/podcasts/episode-161-forest-of-shadows-hoia-baciu/](https://hauntedwalk.com/podcasts/episode-161-forest-of-shadows-hoia-baciu/)  
+   Link: <a href="https://hauntedwalk.com/podcasts/episode-161-forest-of-shadows-hoia-baciu/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedwalk.com/podcasts/episode-161-forest-of-shadows-hoia-baciu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted WalkEpisode 161 - Forest of Shadows: Hoia BaciuSee the overhead view of the circular “dead zone” or Poiana Rotundă on Google Maps...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/visitclujnapoca/posts/-hoia-forest-in-cluj-napoca-takes-the-first-place-among-romanias-halloween-desti/1220265110135952/](https://www.facebook.com/visitclujnapoca/posts/-hoia-forest-in-cluj-napoca-takes-the-first-place-among-romanias-halloween-desti/1220265110135952/)  
+   Link: <a href="https://www.facebook.com/visitclujnapoca/posts/-hoia-forest-in-cluj-napoca-takes-the-first-place-among-romanias-halloween-desti/1220265110135952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitclujnapoca/posts/-hoia-forest-in-cluj-napoca-takes-the-first-place-among-romanias-halloween-desti/1220265110135952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d international attention, appearing in paranormal documentaries...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: theguardian.com  
    Title: worlds most haunted forest transylvania romania  
-   Link: [https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania](https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania)  
+   Link: <a href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The world&#x27;s most haunted forest&#x27;: twisted trees, UFOs and...30 Oct 2025 — But Hoia-Baciu came to international attention in 1968, when...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: clujwebstory.ro  
    Title: Cluj Web Story Celebrare ȋn Pădurea Hoia-Baciu  
-   Link: [https://clujwebstory.ro/celebrare-%C8%8Bn-padurea-hoia-baciu-povestea-lui-emil-barnea/](https://clujwebstory.ro/celebrare-%C8%8Bn-padurea-hoia-baciu-povestea-lui-emil-barnea/)  
+   Link: <a href="https://clujwebstory.ro/celebrare-%C8%8Bn-padurea-hoia-baciu-povestea-lui-emil-barnea/" target="_blank" rel="noopener noreferrer nofollow">https://clujwebstory.ro/celebrare-%C8%8Bn-padurea-hoia-baciu-povestea-lui-emil-barnea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrare ȋn Pădurea Hoia-Baciu - povestea lui Emil...Pe 18 august 1968, aveau să fie fotografiate, ȋn Poiana Rotundă, unele dintre cele...</p></details>
    Published: august 1968  
 
 33. <a id="endnote-33"></a>
    Source: agorapress.ro  
    Title: Padurea Baciu din Cluj este prezenta in TOP 5  
-   Link: [https://www.agorapress.ro/padurea-baciu-din-cluj-este-prezenta-top-5-cele-mai-inspaimantatoare-locuri-din-lume-misterele-din-padurea-baciu/](https://www.agorapress.ro/padurea-baciu-din-cluj-este-prezenta-top-5-cele-mai-inspaimantatoare-locuri-din-lume-misterele-din-padurea-baciu/)  
+   Link: <a href="https://www.agorapress.ro/padurea-baciu-din-cluj-este-prezenta-top-5-cele-mai-inspaimantatoare-locuri-din-lume-misterele-din-padurea-baciu/" target="_blank" rel="noopener noreferrer nofollow">https://www.agorapress.ro/padurea-baciu-din-cluj-este-prezenta-top-5-cele-mai-inspaimantatoare-locuri-din-lume-misterele-din-padurea-baciu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baciu. Pe data de 18 august 1968, tehnicianul-militar Emil Barnea in varsta de 45 de ani, ignorand avertismentele satenilor, se afla in p...</p></details>
    Published: august 1968  

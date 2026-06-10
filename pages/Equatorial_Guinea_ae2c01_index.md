@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /equatorial-guinea-ae2c01-index/
 description: Focused pages that expand on Equatorial Guinea.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Equatorial_Guinea_ae2c01
 parent_title: Equatorial Guinea

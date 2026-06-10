@@ -245,7 +245,7 @@ next_link:
   permalink: /official-investigations/
   short_title: Official Investigations
   heading_title: How CEFAA and SEFAA Monitor UFO Reports
-date: '2026-06-09 01:24:04 '
+date: '2026-06-10 01:48:35 '
 header:
   og_image: /assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-1-social.jpg
   preview_image: /assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-1.webp
@@ -292,7 +292,7 @@ This means the early commission period is historically important but scientifica
 
 The modern era of Chilean UFO investigation effectively began in 1997. According to DGAC histories, a wave of reports in Arica and northern Chile helped motivate the creation of CEFAA, the Committee for the Study of Anomalous Aerial Phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">ufo disclosure chilean style 896</span><span class="citation-popover-snippet">UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</span></span></span>
 
-Arica sits near Chile’s northern frontier and includes heavily monitored airspace around Chacalluta Airport. Reports in late March and early April 1997 described unusual luminous objects seen by civilians and airport-linked personnel. Some accounts claimed the lights manoeuvred unpredictably or hovered for extended periods. Chilean newspapers amplified the story rapidly, turning the incident into one of the country’s first nationally recognised UFO waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">Ufologie Chile announces UFOs are for real</span><span class="citation-popover-snippet">UfologieChile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</span><span class="citation-popover-meta">Published: April 1997</span></span></span>
+Arica sits near Chile’s northern frontier and includes heavily monitored airspace around Chacalluta Airport. Reports in late March and early April 1997 described unusual luminous objects seen by civilians and airport-linked personnel. Some accounts claimed the lights manoeuvred unpredictably or hovered for extended periods. Chilean newspapers amplified the story rapidly, turning the incident into one of the country’s first nationally recognised UFO waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">Ufologie Chile announces UFOs are for real</span><span class="citation-popover-snippet">Chile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</span><span class="citation-popover-meta">Published: April 1997</span></span></span>
 
 ### Why the Arica reports became nationally significant
 
@@ -311,7 +311,7 @@ As a result, the Arica events remain historically important but evidentially inc
 
 ## The 1998 Paihuano incident and Chile’s “UFO Route”
 
-If one Chilean case became embedded in popular tourism and UFO folklore, it was Paihuano in the Elqui Valley during 1998. The valley already had a reputation for clear skies, observatories and mystical tourism, making it fertile ground for extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">i went alien hunting on chile ufo route</span><span class="citation-popover-snippet">VICEI Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</span></span></span>
+If one Chilean case became embedded in popular tourism and UFO folklore, it was Paihuano in the Elqui Valley during 1998. The valley already had a reputation for clear skies, observatories and mystical tourism, making it fertile ground for extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">i went alien hunting on chile ufo route</span><span class="citation-popover-snippet">I Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</span></span></span>
 
 Witnesses reported luminous aerial objects near Paihuano, and media coverage transformed the area into a major destination for UFO tourism. Local businesses, tour operators and enthusiasts promoted the region as a hotspot for unexplained aerial activity. Over time, the “Ruta UFO” or UFO Route became part of the region’s tourism identity.
 
@@ -361,7 +361,7 @@ The naval footage remains one of Chile’s most discussed cases precisely becaus
 
 ## The 2018 LIVOR case
 
-One of the final major incidents highlighted in Chilean official compilations was the 2018 LIVOR case, included in DGAC and CEFAA retrospective material covering selected incidents from 1956 to 2018. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of online newspaper archives</span><span class="citation-popover-snippet">Wikipedia:List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</span></span></span>
+One of the final major incidents highlighted in Chilean official compilations was the 2018 LIVOR case, included in DGAC and CEFAA retrospective material covering selected incidents from 1956 to 2018. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of online newspaper archives</span><span class="citation-popover-snippet">List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</span></span></span>
 
 Public information about LIVOR is thinner than for the naval helicopter video, but the case became notable because it represented the mature phase of Chile’s investigative approach. By this period, Chilean authorities had adopted more restrained language and generally avoided dramatic conclusions.
 
@@ -425,86 +425,44 @@ Several celebrated Chilean UFO cases became less mysterious after later technica
 Even critics of UFO claims often regard Chile as significant because the country preserved records and encouraged formal review instead of suppressing discussion entirely. That archive creates a valuable historical record of how governments, aviation officials and the public interpret ambiguous aerial events under changing technological and cultural conditions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Notable UFO Incidents Across Chilean History. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Notable UFO Incidents Across Chilean History, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses evidence, witness reports, and investigation standards relevant to Chilean case histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines significant cases and classification methods useful for understanding Chilean incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on official investigations, pilot reports, and major international cases similar to Chile&#x27;s most famous incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides historical context for how notable UFO cases become enduring cultural narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -538,75 +496,71 @@ Even critics of UFO claims often regard Chile as significant because the country
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-notable-ufo-incidents-across-chilean-history-chile-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -821,122 +775,122 @@ Even critics of UFO claims often regard Chile as significant because the country
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 2. <a id="endnote-2"></a>
    Source: chile.travel  
-   Link: [https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/](https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/)  
+   Link: <a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: openminds.tv  
    Title: ufo disclosure chilean style 896  
-   Link: [https://openminds.tv/ufo-disclosure-chilean-style-896/](https://openminds.tv/ufo-disclosure-chilean-style-896/)  
+   Link: <a href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/ufo-disclosure-chilean-style-896/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vice.com  
    Title: i went alien hunting on chile ufo route  
-   Link: [https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/](https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VICEI Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</p></details>
+   Link: <a href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of online newspaper archives  
-   Link: [https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives](https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia:List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mf70imTsuuo](https://www.youtube.com/watch?v=Mf70imTsuuo)  
+   Link: <a href="https://www.youtube.com/watch?v=Mf70imTsuuo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mf70imTsuuo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Chilean Military Captures Video of Mystery Object - Confirms it is Real...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6pS7qVF2lTQ](https://www.youtube.com/watch?v=6pS7qVF2lTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=6pS7qVF2lTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6pS7qVF2lTQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy UFO sighting explained | This Is Why...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scielo.org.co  
-   Link: [https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&script=sci_arttext](https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&script=sci_arttext)  
+   Link: <a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on Evidence in Chilean Ufologyby DE Santo · 2020 · Cited by 10 — Chile is considered by many UFO researchers as one of the pr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bridgemanimages.com  
-   Link: [https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696](https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696)  
+   Link: <a href="https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridgeman ImagesUFO, CHILE, 1968 Photo of an UFO taken between...UFO, CHILE, 1968 Photo of an UFO taken between Santiago and Valparaiso...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
    Title: Ufologie Chile announces UFOs are for real  
-   Link: [https://ufologie.patrickgross.org/htm/offichili.htm](https://ufologie.patrickgross.org/htm/offichili.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UfologieChile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/offichili.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</p></details>
    Published: April 1997  
 
 11. <a id="endnote-11"></a>
    Source: universetoday.com  
    Title: chilean government releases declassified ufo video  
-   Link: [https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video](https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video)  
+   Link: <a href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, a possible explanation...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf](https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf)  
+   Link: <a href="https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Object Over Chile IdentifiedLa Silla or other pkm in Chile could be very heEpW for a positive identifteatlon of the Cosmos 2...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: alnap.cdn.ngo  
-   Link: [https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf](https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf)  
+   Link: <a href="https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Groningen Inequality and Solidarity Fink, SimonThis collection of scholarly essays is the product of the Euroculture IP (IP) 2019, hel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: granger.com  
    Title: 0100609 ufo chile 1968 photo of an ufo taken between santiago and v image  
-   Link: [https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html](https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html)  
+   Link: <a href="https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Of An UFO Taken Between... JPEG. Browse Similar Images. 1968 · aerial · alien · archival · chile · fake · granger academic · grang...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: A strange cigar-shaped UFO was seen hovering over  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/](https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean government agency responsible for studying UFO sightings, launched an official investigation.... Mystery Aliens UFO Fanclub ▻ Hi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jenner.com  
    Title: anti corruption law update 2018 2019  
-   Link: [https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf](https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf)  
+   Link: <a href="https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Update to Anti-Corruption Enforcement 2018 – 2019The Policy&#x27;s non-binding guidance has even been extended to corporate criminal cases out...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ntma.ie  
    Title: NTMA Annual Report 2019 English  
-   Link: [https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf](https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf)  
+   Link: <a href="https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report &amp; Financial Statements 201931 Dec 2019 —... 2019. Settling Claims. 54% over half of cases resolved by the. State Claims Ag...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jhmovie.fandom.com  
    Title: Unidentified flying object  
-   Link: [https://jhmovie.fandom.com/wiki/Unidentified_flying_object](https://jhmovie.fandom.com/wiki/Unidentified_flying_object)  
+   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | JH Wiki Collection Wiki - FandomIn popular usage, the term UFO came to be used to refer to claims of alien spacecraft, an...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arcom.ac.uk  
    Title: 2018 Indexed Papers  
-   Link: [https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf](https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf)  
+   Link: <a href="https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THIRTY-FOURTH ANNUAL CONFERENCE 2018...This year&#x27;s conference attracted 310 submissions in January 2018. Following three rounds of doubl...</p></details>
    Published: January 2018  
 
 20. <a id="endnote-20"></a>
    Source: oecd.org  
    Title: 9b460fba en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Policies of IEA Countries: The United States 2019 (...The IEA examines the full spectrum of energy issues including oil, gas and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: RICARD O BERMUDEZ UFO CASE  
-   Link: [https://www.youtube.com/watch?v=B3CI3AeE8aQ&vl=hi](https://www.youtube.com/watch?v=B3CI3AeE8aQ&vl=hi)  
+   Link: <a href="https://www.youtube.com/watch?v=B3CI3AeE8aQ&amp;vl=hi" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B3CI3AeE8aQ&amp;vl=hi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RICARDO BERMUDEZ UFO CASE OCTOBER 7, 1997...Jan 11, 2025 — This is a case that occurred in the north of Chile, at the Arica airport, a U...</p></details>
    Published: October 7, 1997  

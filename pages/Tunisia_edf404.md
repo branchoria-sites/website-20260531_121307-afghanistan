@@ -1185,7 +1185,7 @@ next_link:
   title: Uganda UFOs
   permalink: /what-really-happened-in-ugandas-ufo/
   short_title: Uganda UFOs
-date: '2026-06-09 01:42:56 '
+date: '2026-06-10 02:10:30 '
 header:
   og_image: /assets/images/Tunisia_edf404-overview-social.jpg
   preview_image: /assets/images/Tunisia_edf404-overview.webp
@@ -1230,7 +1230,7 @@ The Sfax report is the only Tunisian case in the public record that has the outl
 
 Several details make the case memorable. The object is described as orange, luminous, plasma-like, and large to the eye. The direction towards the Chott Fejaj area gives the story a strong geographical anchor. The alleged smell of sulphuric acid and dead fish adds a sensory element uncommon in simple distant-light reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Yet those same details are difficult to assess without primary records. Witnesses are not named on the accessible archive page; no original interview transcripts are provided; no meteorological data are tied to the report; no astronomical reconstruction is shown; and no aviation, military or radar confirmation is cited. Using GEIPAN’s public classification logic as a benchmark, the Sfax material would struggle to rise above a weakly documented case unless fresh primary material emerged. GEIPAN distinguishes between cases identified after investigation, probably identified, not identified because of insufficient data, and not identified after investigation; it also stresses the importance of direct testimony, questionnaires, and supporting visual or detection material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span>
+Yet those same details are difficult to assess without primary records. Witnesses are not named on the accessible archive page; no original interview transcripts are provided; no meteorological data are tied to the report; no astronomical reconstruction is shown; and no aviation, military or radar confirmation is cited. Using GEIPAN’s public classification logic as a benchmark, the Sfax material would struggle to rise above a weakly documented case unless fresh primary material emerged. GEIPAN distinguishes between cases identified after investigation, probably identified, not identified because of insufficient data, and not identified after investigation; it also stresses the importance of direct testimony, questionnaires, and supporting visual or detection material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span>
 
 The fairest status for Sfax is therefore “contested and insufficiently documented”. It is not debunked in the strong sense, because the surviving account does not prove a conventional explanation. But it is not confirmed as anomalous in the strong sense either, because the evidence does not meet the standard needed to eliminate ordinary explanations.
 
@@ -1290,86 +1290,44 @@ The most useful test for any Tunisian UFO claim is not whether it sounds dramati
 For Tunisia specifically, three checks are especially important:
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Tunisia&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Tunisia&#x27;s UFO Reports?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Relevant to evaluating sparse and ambiguous sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Fits a national overview of UFO reports and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Provides modern context for public interest in UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful background for understanding UFO case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1403,75 +1361,71 @@ For Tunisia specifically, three checks are especially important:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tunisias-ufo-what-really-happened-in-tunisia-s-ufo-reports-tunisia-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1693,149 +1647,149 @@ Tunisia’s place in the wider North African UFO project is therefore not as a c
 
 1. <a id="endnote-1"></a>
    Source: meteo.tn  
-   Link: [https://www.meteo.tn/fr/Perseides](https://www.meteo.tn/fr/Perseides)  
+   Link: <a href="https://www.meteo.tn/fr/Perseides" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.tn/fr/Perseides</a>  
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: Classification | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
 
 8. <a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58788](https://www.cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
 
 9. <a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: May 22 1987, International Herald Tribune, #32422, France (en) djvu.txt  
-   Link: [https://archive.org/stream/InternationalHeraldTribune1987FranceEnglish/May%2022%201987%2C%20International%20Herald%20Tribune%2C%20%2332422%2C%20France%20%28en%29_djvu.txt](https://archive.org/stream/InternationalHeraldTribune1987FranceEnglish/May%2022%201987%2C%20International%20Herald%20Tribune%2C%20%2332422%2C%20France%20%28en%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/InternationalHeraldTribune1987FranceEnglish/May%2022%201987%2C%20International%20Herald%20Tribune%2C%20%2332422%2C%20France%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/InternationalHeraldTribune1987FranceEnglish/May%2022%201987%2C%20International%20Herald%20Tribune%2C%20%2332422%2C%20France%20%28en%29_djvu.txt</a>  
 
 11. <a id="endnote-11"></a>
    Source: ia601405.us.archive.org  
-   Link: [https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf](https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf)  
+   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/bulletinofafrica1322afri/bulletinofafrica1322afri_djvu.txt](https://archive.org/stream/bulletinofafrica1322afri/bulletinofafrica1322afri_djvu.txt)  
+   Link: <a href="https://archive.org/stream/bulletinofafrica1322afri/bulletinofafrica1322afri_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bulletinofafrica1322afri/bulletinofafrica1322afri_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: Full text of "World Atlas"  
-   Link: [https://archive.org/stream/worldatlaseverythingyouneedtoknowaboutourplanettoday/World%20Atlas-%20Everything%20you%20need%20to%20know%20about%20our%20planet%20today_djvu.txt](https://archive.org/stream/worldatlaseverythingyouneedtoknowaboutourplanettoday/World%20Atlas-%20Everything%20you%20need%20to%20know%20about%20our%20planet%20today_djvu.txt)  
+   Link: <a href="https://archive.org/stream/worldatlaseverythingyouneedtoknowaboutourplanettoday/World%20Atlas-%20Everything%20you%20need%20to%20know%20about%20our%20planet%20today_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/worldatlaseverythingyouneedtoknowaboutourplanettoday/World%20Atlas-%20Everything%20you%20need%20to%20know%20about%20our%20planet%20today_djvu.txt</a>  
 
 14. <a id="endnote-14"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
 
 15. <a id="endnote-15"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmin%5D=&field_type_de_cas_target_id=All&order=field_date_d_observation_textuel&page=%2C466&sort=desc](https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmin%5D=&field_type_de_cas_target_id=All&order=field_date_d_observation_textuel&page=%2C466&sort=desc)  
+   Link: <a href="https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=%2C466&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=%2C466&amp;sort=desc</a>  
 
 16. <a id="endnote-16"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/faqafrica.htm](https://ufologie.patrickgross.org/htm/faqafrica.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/faqafricaf.htm](https://ufologie.patrickgross.org/htm/faqafricaf.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafricaf.htm</a>  
 
 18. <a id="endnote-18"></a>
    Source: persee.fr  
    Title: bulmi 0366 3248 1932 num 55 3 4150  
-   Link: [https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150](https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150)  
+   Link: <a href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150" target="_blank" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150</a>  
 
 19. <a id="endnote-19"></a>
    Source: tunisienumerique.com  
-   Link: [https://www.tunisienumerique.com/tunisie-une-boule-de-feu-au-ciel-de-tunis-la-cite-des-sciences-clarifie/](https://www.tunisienumerique.com/tunisie-une-boule-de-feu-au-ciel-de-tunis-la-cite-des-sciences-clarifie/)  
+   Link: <a href="https://www.tunisienumerique.com/tunisie-une-boule-de-feu-au-ciel-de-tunis-la-cite-des-sciences-clarifie/" target="_blank" rel="noopener noreferrer nofollow">https://www.tunisienumerique.com/tunisie-une-boule-de-feu-au-ciel-de-tunis-la-cite-des-sciences-clarifie/</a>  
 
 20. <a id="endnote-20"></a>
    Source: africanmanager.com  
-   Link: [https://africanmanager.com/la-trainee-lumineuse-bleue-vue-lundi-dans-le-ciel-est-un-meteorite-selon-la-sta/](https://africanmanager.com/la-trainee-lumineuse-bleue-vue-lundi-dans-le-ciel-est-un-meteorite-selon-la-sta/)  
+   Link: <a href="https://africanmanager.com/la-trainee-lumineuse-bleue-vue-lundi-dans-le-ciel-est-un-meteorite-selon-la-sta/" target="_blank" rel="noopener noreferrer nofollow">https://africanmanager.com/la-trainee-lumineuse-bleue-vue-lundi-dans-le-ciel-est-un-meteorite-selon-la-sta/</a>  
 
 21. <a id="endnote-21"></a>
    Source: aviation-accidents.net  
-   Link: [https://www.aviation-accidents.net/tag/tunisia/](https://www.aviation-accidents.net/tag/tunisia/)  
+   Link: <a href="https://www.aviation-accidents.net/tag/tunisia/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation-accidents.net/tag/tunisia/</a>  
 
 22. <a id="endnote-22"></a>
    Source: trove.nla.gov.au  
-   Link: [https://trove.nla.gov.au/newspaper/article/11678882](https://trove.nla.gov.au/newspaper/article/11678882)  
+   Link: <a href="https://trove.nla.gov.au/newspaper/article/11678882" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/11678882</a>  
 
 23. <a id="endnote-23"></a>
    Source: ejournals.epublishing.ekt.gr  
-   Link: [https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/13146](https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/13146)  
+   Link: <a href="https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/13146" target="_blank" rel="noopener noreferrer nofollow">https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/13146</a>  
 
 24. <a id="endnote-24"></a>
    Source: ejournals.epublishing.ekt.gr  
-   Link: [https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/31284/24604](https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/31284/24604)  
+   Link: <a href="https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/31284/24604" target="_blank" rel="noopener noreferrer nofollow">https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/31284/24604</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Did Someone Write in the Sand? Markings Seen from Space Above Tunisia  
-   Link: [https://www.youtube.com/watch?v=mJsvr6YzOy4](https://www.youtube.com/watch?v=mJsvr6YzOy4)  
+   Link: <a href="https://www.youtube.com/watch?v=mJsvr6YzOy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJsvr6YzOy4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of UFO&#x27;s FINALLY REVEALED | The Most Authentic UFO Cases In The World...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=M8Rrq2RKXFU](https://www.youtube.com/watch?v=M8Rrq2RKXFU)  
+   Link: <a href="https://www.youtube.com/watch?v=M8Rrq2RKXFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8Rrq2RKXFU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dOOxUcX6_Nc](https://www.youtube.com/watch?v=dOOxUcX6_Nc)  
+   Link: <a href="https://www.youtube.com/watch?v=dOOxUcX6_Nc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dOOxUcX6_Nc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Someone Write in the Sand? Markings Seen from Space Above Tunisia...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning](https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning)  
+   Link: <a href="https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning</a>  
 
 30. <a id="endnote-30"></a>
    Source: fr.sott.net  
-   Link: [https://fr.sott.net/article/38727-Tunisie-Une-boule-de-feu-meteorique-dans-le-ciel-de-Tunis-la-Cite-des-Sciences-clarifie](https://fr.sott.net/article/38727-Tunisie-Une-boule-de-feu-meteorique-dans-le-ciel-de-Tunis-la-Cite-des-Sciences-clarifie)  
+   Link: <a href="https://fr.sott.net/article/38727-Tunisie-Une-boule-de-feu-meteorique-dans-le-ciel-de-Tunis-la-Cite-des-Sciences-clarifie" target="_blank" rel="noopener noreferrer nofollow">https://fr.sott.net/article/38727-Tunisie-Une-boule-de-feu-meteorique-dans-le-ciel-de-Tunis-la-Cite-des-Sciences-clarifie</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/663488548027128/posts/1294768014899175/](https://www.facebook.com/groups/663488548027128/posts/1294768014899175/)  
+   Link: <a href="https://www.facebook.com/groups/663488548027128/posts/1294768014899175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/663488548027128/posts/1294768014899175/</a>  
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV7IJeKjP3W/](https://www.instagram.com/reel/DV7IJeKjP3W/)  
+   Link: <a href="https://www.instagram.com/reel/DV7IJeKjP3W/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV7IJeKjP3W/</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Ernesto-Azzurro/publication/235007083_Alien_species_in_the_Mediterranean_Sea_by_2012_A_contribution_to_the_application_of_European_Union%27s_Marine_Strategy_Framework_Directive_MSFD_Part_2_Introduction_trends_and_pathways/links/02bfe510a9d49c5921000000/Alien-species-in-the-Mediterranean-Sea-by-2012-A-contribution-to-the-application-of-European-Unions-Marine-Strategy-Framework-Directive-MSFD-Part-2-Introduction-trends-and-pathways.pdf](https://www.researchgate.net/profile/Ernesto-Azzurro/publication/235007083_Alien_species_in_the_Mediterranean_Sea_by_2012_A_contribution_to_the_application_of_European_Union%27s_Marine_Strategy_Framework_Directive_MSFD_Part_2_Introduction_trends_and_pathways/links/02bfe510a9d49c5921000000/Alien-species-in-the-Mediterranean-Sea-by-2012-A-contribution-to-the-application-of-European-Unions-Marine-Strategy-Framework-Directive-MSFD-Part-2-Introduction-trends-and-pathways.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Ernesto-Azzurro/publication/235007083_Alien_species_in_the_Mediterranean_Sea_by_2012_A_contribution_to_the_application_of_European_Union%27s_Marine_Strategy_Framework_Directive_MSFD_Part_2_Introduction_trends_and_pathways/links/02bfe510a9d49c5921000000/Alien-species-in-the-Mediterranean-Sea-by-2012-A-contribution-to-the-application-of-European-Unions-Marine-Strategy-Framework-Directive-MSFD-Part-2-Introduction-trends-and-pathways.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ernesto-Azzurro/publication/235007083_Alien_species_in_the_Mediterranean_Sea_by_2012_A_contribution_to_the_application_of_European_Union%27s_Marine_Strategy_Framework_Directive_MSFD_Part_2_Introduction_trends_and_pathways/links/02bfe510a9d49c5921000000/Alien-species-in-the-Mediterranean-Sea-by-2012-A-contribution-to-the-application-of-European-Unions-Marine-Strategy-Framework-Directive-MSFD-Part-2-Introduction-trends-and-pathways.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYqfvWHNzIm/](https://www.instagram.com/reel/DYqfvWHNzIm/)  
+   Link: <a href="https://www.instagram.com/reel/DYqfvWHNzIm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqfvWHNzIm/</a>  

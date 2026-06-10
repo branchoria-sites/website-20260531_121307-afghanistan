@@ -239,7 +239,7 @@ prev_link:
   permalink: /eastern-cape/
   short_title: Eastern Cape
   heading_title: Why the Eastern Cape Keeps Reappearing in UFO Stories
-date: '2026-06-09 01:40:55 '
+date: '2026-06-10 02:08:05 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustrati
 
 ## Introduction
 
-The Pretoria police UFO chase of August 1996 remains one of [South Africa]({{ 'what-really-stands-out-in-south/' | relative_url }})’s most discussed UFO incidents because it appears to involve something many UFO cases lack: police officers on duty, a reported helicopter pursuit, claims of radar awareness, and an alleged videotape recorded by an officer. Yet the same features that made the story famous also expose its weaknesses. More than two decades later, the case survives largely through newspaper reports, UFO publications, witness retellings, and repeated secondary accounts rather than through a complete public evidence archive. The central question is not whether unusual lights were seen over Pretoria. Multiple reports indicate that they were. The harder question is whether the available evidence supports the more dramatic claims that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+The Pretoria police UFO chase of August 1996 remains one of South Africa’s most discussed UFO incidents because it appears to involve something many UFO cases lack: police officers on duty, a reported helicopter pursuit, claims of radar awareness, and an alleged videotape recorded by an officer. Yet the same features that made the story famous also expose its weaknesses. More than two decades later, the case survives largely through newspaper reports, UFO publications, witness retellings, and repeated secondary accounts rather than through a complete public evidence archive. The central question is not whether unusual lights were seen over Pretoria. Multiple reports indicate that they were. The harder question is whether the available evidence supports the more dramatic claims that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-1-dark.svg" | relative_url }}" alt="Pretoria Chase illustration 1" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -258,7 +258,7 @@ Within South African UFO history, the Pretoria incident stands out because it si
 
 According to contemporary accounts, the main event occurred during the early hours of 28 August 1996. Reports describe a bright object or group of lights observed over the Pretoria area shortly before dawn. One of the most frequently cited witnesses was Sergeant Nico Stander of the Adriaan Vlok police station, who reportedly observed and videotaped the phenomenon at around 4:00 am. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident&quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sightin...</span></span></span>
 
-Descriptions of the object varied. Some reports referred to a glowing disc, while others described a pulsating light containing a triangular pattern. Witnesses claimed the object appeared capable of hovering and then moving rapidly. In several retellings, observers reported abrupt directional changes and unusual movement that they considered inconsistent with ordinary aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
+Descriptions of the object varied. Some reports referred to a glowing disc, while others described a pulsating light containing a triangular pattern. Witnesses claimed the object appeared capable of hovering and then moving rapidly. In several retellings, observers reported abrupt directional changes and unusual movement that they considered inconsistent with ordinary aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
 
 The incident did not remain confined to a single observer. Newspaper reports from the period, later summarised in UFO databases and historical overviews, indicate that additional sightings came from different locations around Pretoria and surrounding districts. Reports also appeared again on 31 August and 1 September, suggesting either a continuing flap of sightings or repeated interpretations of lights seen in the same area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
@@ -281,13 +281,13 @@ The Pretoria incident therefore became one of South Africa’s strongest example
 
 The most dramatic part of the story involves the alleged police helicopter chase.
 
-According to widely circulated accounts, a police Bo-105 helicopter was dispatched after reports from officers on the ground. The helicopter crew reportedly tracked the object as it moved north-east towards the Cullinan area. Some narratives identify Superintendent Fred Viljoen as the pilot and state that several officers were aboard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
+According to widely circulated accounts, a police Bo-105 helicopter was dispatched after reports from officers on the ground. The helicopter crew reportedly tracked the object as it moved north-east towards the Cullinan area. Some narratives identify Superintendent Fred Viljoen as the pilot and state that several officers were aboard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
 
-Witness accounts claim the object demonstrated unusual performance characteristics. It allegedly changed altitude rapidly, executed vertical and horizontal movements, and accelerated beyond the helicopter's ability to keep pace. The chase reportedly ended when the helicopter reached approximately 10,000 feet and fuel considerations forced the crew to discontinue pursuit. Some versions state that the object then climbed sharply and disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
+Witness accounts claim the object demonstrated unusual performance characteristics. It allegedly changed altitude rapidly, executed vertical and horizontal movements, and accelerated beyond the helicopter's ability to keep pace. The chase reportedly ended when the helicopter reached approximately 10,000 feet and fuel considerations forced the crew to discontinue pursuit. Some versions state that the object then climbed sharply and disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
 
-Another reason the case became influential within UFO circles is the associated radar story. Certain retellings claim that personnel at Air Force Base Waterkloof observed anomalous returns or radar clutter in the vicinity of the object while the helicopter crew was tracking it. If fully documented, radar confirmation would significantly strengthen the case because it would move beyond visual testimony alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
+Another reason the case became influential within UFO circles is the associated radar story. Certain retellings claim that personnel at Air Force Base Waterkloof observed anomalous returns or radar clutter in the vicinity of the object while the helicopter crew was tracking it. If fully documented, radar confirmation would significantly strengthen the case because it would move beyond visual testimony alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
 
-However, the radar element is also where the public record becomes especially thin. References to radar detection generally appear through secondary reporting rather than publicly available military documentation. No widely cited radar logs, recordings, or official South African Air Force releases have entered the public record to substantiate the claim in a way that independent researchers can evaluate directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
+However, the radar element is also where the public record becomes especially thin. References to radar detection generally appear through secondary reporting rather than publicly available military documentation. No widely cited radar logs, recordings, or official South African Air Force releases have entered the public record to substantiate the claim in a way that independent researchers can evaluate directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-2-dark.svg" | relative_url }}" alt="Pretoria Chase illustration 2" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_pretoria_police_chas_a7b7ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -341,93 +341,51 @@ This distinction is important. A case can be genuinely unexplained without becom
 
 The Pretoria police pursuit occupies a middle ground within South African UFO history. It is stronger than many anecdotal reports because identifiable officials were reportedly involved and because multiple observations were made across a defined time window. Yet it is weaker than many enthusiasts claim because key documentary evidence remains inaccessible or uncertain.
 
-That balance explains why the case continues to appear in discussions of South African UFOs nearly three decades later. It is neither an obvious hoax nor a documented confirmation of extraordinary craft. Instead, it represents one of the country's clearest examples of a persistent UFO problem: credible witnesses, dramatic claims, and an evidential trail that becomes increasingly incomplete the closer one looks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
+That balance explains why the case continues to appear in discussions of South African UFOs nearly three decades later. It is neither an obvious hoax nor a documented confirmation of extraordinary craft. Instead, it represents one of the country's clearest examples of a persistent UFO problem: credible witnesses, dramatic claims, and an evidential trail that becomes increasingly incomplete the closer one looks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BascDLorhSU" title="The 1996 South African Police UFO Chase Incident (A Review)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BascDLorhSU" target="_blank" rel="noopener noreferrer">The 1996 South African Police UFO Chase Incident (A Review)</a></p><p class="youtube-embed-meta">Channel: Jean Ward &middot; Views: 532 &middot; Uploaded: April 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BascDLorhSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BascDLorhSU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is the Pretoria Police UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Strong Is the Pretoria Police UFO Case?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Directly addresses how official witnesses and missing evidence affect cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on testimony from official and professional observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Useful for comparing documented evidence with later retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -461,75 +419,71 @@ That balance explains why the case continues to appear in discussions of South A
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretoria-chase-how-strong-is-the-pretoria-police-ufo-case-south-africa-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -744,37 +698,37 @@ That balance explains why the case continues to appear in discussions of South A
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
 2. <a id="endnote-2"></a>
    Source: handwiki.org  
-   Link: [https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa](https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HandWikiUnsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</p></details>
+   Link: <a href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:UFO sightings in South AfricaA chase ensued involving some 200 policemen and a Bo-105 police chopper, piloted by Supt Fr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt](https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt)  
+   Link: <a href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO incident&quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sightin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: south-wales.police.uk  
-   Link: [https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/](https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/)  
+   Link: <a href="https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/" target="_blank" rel="noopener noreferrer nofollow">https://www.south-wales.police.uk/foi-ai/south-wales-police/disclosure-log/2025/july/foi-76225/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOI 762/25We conducted a search on our crime and incident recording system (NICHE RMS) for all occurrences were &#x27;UFO&#x27; and &#x27;UAP&#x27; was menti...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/2012/videopretoriasouthafrica.html](https://www.ufocasebook.com/2012/videopretoriasouthafrica.html)  
+   Link: <a href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/2012/videopretoriasouthafrica.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One officer, Nico Stander, reportedly shot videotape of the object. Meanwhile, the police...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: South Africa  
-   Link: [https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/](https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/)  
+   Link: <a href="https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet MemoriesSighting locations during the March–April 1995 flap • A UFO flap swept South... police helicopter. The helicopter chase wa...</p></details>
    Published: April 1995  
 
@@ -782,56 +736,56 @@ That balance explains why the case continues to appear in discussions of South A
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/](https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/)  
+   Link: <a href="https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cynthia Hind was a friend of mine. We both investigated...UFO sightings in South Africa Below is a list of alleged sightings of unidenti...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufoafrinews.com  
-   Link: [https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf](https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf)  
+   Link: <a href="https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO AfrinewsALIEN BODY FILM. Further Comments. Cynthia Hind. While I made it clear in UFO AFRINEWS N° 13 that I cannot say the &#x27;alien bod...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: storytel.com  
    Title: audioblog ufo trace evidence in a south african tennis court 10149142  
-   Link: [https://www.storytel.com/tv/podcasts/podcast-ufo-120423/audioblog-ufo-trace-evidence-in-a-south-african-tennis-court-10149142](https://www.storytel.com/tv/podcasts/podcast-ufo-120423/audioblog-ufo-trace-evidence-in-a-south-african-tennis-court-10149142)  
+   Link: <a href="https://www.storytel.com/tv/podcasts/podcast-ufo-120423/audioblog-ufo-trace-evidence-in-a-south-african-tennis-court-10149142" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/podcasts/podcast-ufo-120423/audioblog-ufo-trace-evidence-in-a-south-african-tennis-court-10149142</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Trace Evidence in a South African Tennis Court20 Dec 2024 — South Africa has had its share of UFO reports, and thanks to Zimbabwe-bas...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mg.co.za  
    Title: 2008 06 21 ufo alert police helicopter spots unusual aircraft  
-   Link: [https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/](https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/)  
+   Link: <a href="https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO alert: Police helicopter spots &#x27;unusual aircraft&#x27;21 Jun 2008 — UFO enthusiasts got a boost on Friday when Welsh police confirmed that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: listverse.com  
    Title: 10 Mind-Bending UFO Encounters From South Africa  
-   Link: [https://listverse.com/2018/05/07/10-mind-bending-ufo-encounters-from-south-africa/](https://listverse.com/2018/05/07/10-mind-bending-ufo-encounters-from-south-africa/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Listverse10 Mind-Bending UFO Encounters From South AfricaMay 7, 2018 — 3 Radar Confirms UFO Presence. Another report of a strange glowing...</p></details>
+   Link: <a href="https://listverse.com/2018/05/07/10-mind-bending-ufo-encounters-from-south-africa/" target="_blank" rel="noopener noreferrer nofollow">https://listverse.com/2018/05/07/10-mind-bending-ufo-encounters-from-south-africa/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mind-Bending UFO Encounters From South AfricaMay 7, 2018 — 3 Radar Confirms UFO Presence. Another report of a strange glowing...</p></details>
    Published: May 7, 2018  
 
 13. <a id="endnote-13"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1907520135759323247](https://x.com/grok/status/1907520135759323247)  
+   Link: <a href="https://x.com/grok/status/1907520135759323247" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1907520135759323247</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ighting, where cops chased a disc-shaped craft with a helicopter.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thinkaboutitdocs.com  
    Title: 1965 south african constables observes object on highway  
-   Link: [https://thinkaboutitdocs.com/1965-south-african-constables-observes-object-on-highway/](https://thinkaboutitdocs.com/1965-south-african-constables-observes-object-on-highway/)  
+   Link: <a href="https://thinkaboutitdocs.com/1965-south-african-constables-observes-object-on-highway/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1965-south-african-constables-observes-object-on-highway/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa, constables came upon a disc-shaped object resting on the Pretoria – Bronkhorstspruit highway. The...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news24.com  
    Title: ufo stuns pretoria residents 20100726  
-   Link: [https://www.news24.com/scitech/news/ufo-stuns-pretoria-residents-20100726](https://www.news24.com/scitech/news/ufo-stuns-pretoria-residents-20100726)  
+   Link: <a href="https://www.news24.com/scitech/news/ufo-stuns-pretoria-residents-20100726" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/scitech/news/ufo-stuns-pretoria-residents-20100726</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO stuns Pretoria residents26 Jul 2010 — An unidentified flying object (UFO), which apparently consisted of three bright lights, astound...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/](https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/)  
+   Link: <a href="https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ead more: [https://ufosecret.net/index...Read](https://ufosecret.net/index...Read) more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/238925749213314/posts/490776480694905/](https://www.facebook.com/groups/238925749213314/posts/490776480694905/)  
+   Link: <a href="https://www.facebook.com/groups/238925749213314/posts/490776480694905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238925749213314/posts/490776480694905/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h any clue what it could be because its not a moon...</p></details>

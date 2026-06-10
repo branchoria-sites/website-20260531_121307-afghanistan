@@ -1185,7 +1185,7 @@ next_link:
   title: Colombia UAP
   permalink: /what-is-really-known-about-colombias-ufo/
   short_title: Colombia UAP
-date: '2026-06-09 01:22:57 '
+date: '2026-06-10 01:47:26 '
 header:
   og_image: /assets/images/Burundi_461758-overview-social.jpg
   preview_image: /assets/images/Burundi_461758-overview.webp
@@ -1223,7 +1223,7 @@ If Burundi develops a clearer UFO/UAP record, Bujumbura is the most likely place
 
 That matters for evidence assessment. Lights seen over or near Bujumbura are more likely to be photographed, posted online, and discussed quickly than lights seen over rural hills or lakeshore villages. They are also more likely to have mundane aviation [explanations]({{ 'explanations-97105f/' | relative_url }}): scheduled aircraft, approach lights, holding patterns, drones, helicopters, runway works, or atmospheric reflections near Lake Tanganyika.
 
-The airport context also gives investigators a practical first check. If a claimed object appears near Bujumbura, the strongest early questions are whether it matched known flight paths, whether it appeared during authorised night operations, whether airport lighting or construction work was active, and whether aviation authorities logged anything unusual. The U.S. FAA’s international flight information notes that night flights are authorised at [Bujumbura airport]({{ 'bujumbura/' | relative_url }}), while Burundi’s own civil aviation authority maintains procedures for flight permits, air traffic and navigation-related services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The airport context also gives investigators a practical first check. If a claimed object appears near Bujumbura, the strongest early questions are whether it matched known flight paths, whether it appeared during authorised night operations, whether airport lighting or construction work was active, and whether aviation authorities logged anything unusual. The U.S. FAA’s international flight information notes that night flights are authorised at Bujumbura airport, while Burundi’s own civil aviation authority maintains procedures for flight permits, air traffic and navigation-related services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why the national record is so thin
 
@@ -1292,90 +1292,48 @@ The current evidence supports a restrained conclusion: Burundi has no publicly e
 The credibility split is clear. Confirmed cases: none found. Contested cases: generic online claims and possible social-media reports without adequate documentation. Debunked cases: none prominent enough to have generated a public debunking record. The most honest reading is not that Burundi is unusually mysterious, but that its UFO record is underdeveloped, weakly archived and not yet supported by the kind of evidence needed to move from anecdote to investigation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l-yU_k_uTeU" title="Airplane hits Unidentified WHITE OBJECT at 8,500 feet after departure from Houston. Real ATC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l-yU_k_uTeU" target="_blank" rel="noopener noreferrer">Airplane hits Unidentified WHITE OBJECT at 8,500 feet after departure from Houston. Real ATC</a></p><p class="youtube-embed-meta">Channel: You can see ATC &middot; Views: 1.0M &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l-yU_k_uTeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l-yU_k_uTeU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IUK0Z7VFBXc" title="UNSEEN BURUNDI: The World&#x27;s POOREST Country You Won&#x27;t Forget What You Saw | 4K Travel Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IUK0Z7VFBXc" target="_blank" rel="noopener noreferrer">UNSEEN BURUNDI: The World&#x27;s POOREST Country You Won&#x27;t Forget What You Saw | 4K Travel Documentary</a></p><p class="youtube-embed-meta">Channel: Hider Planet &middot; Views: 63.5K &middot; Uploaded: May 2026 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IUK0Z7VFBXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IUK0Z7VFBXc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Known About Burundi UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really Known About Burundi UFOs?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how cases are assessed when evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating sparse UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Matches a broad national UFO overview page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Useful for understanding official-record questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1409,75 +1367,71 @@ The credibility split is clear. Confirmed cases: none found. Contested cases: ge
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-burundi-ufos-burundi-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1692,295 +1646,295 @@ The credibility split is clear. Confirmed cases: none found. Contested cases: ge
 1. <a id="endnote-1"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Burundi UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/burundi-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/burundi-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/burundi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/burundi-ufo-sightings.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: usufocenter.com  
    Title: Worldwide UFO Sightings and Reporting Index  
-   Link: [https://www.usufocenter.com/worldwide-ufo-sightings-index.html](https://www.usufocenter.com/worldwide-ufo-sightings-index.html)  
+   Link: <a href="https://www.usufocenter.com/worldwide-ufo-sightings-index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/worldwide-ufo-sightings-index.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: aacb.gov.bi  
    Title: Burundi Civil Aviation Authority  
-   Link: [https://aacb.gov.bi/en/](https://aacb.gov.bi/en/)  
+   Link: <a href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/</a>  
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf](https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aacb.gov.bi  
    Title: Autorité de l'Aviation Civile du Burundi  
-   Link: [https://www.aacb.gov.bi/](https://www.aacb.gov.bi/)  
+   Link: <a href="https://www.aacb.gov.bi/" target="_blank" rel="noopener noreferrer nofollow">https://www.aacb.gov.bi/</a>  
 
 6. <a id="endnote-6"></a>
    Source: datareportal.com  
    Title: digital 2025 burundi  
-   Link: [https://datareportal.com/reports/digital-2025-burundi](https://datareportal.com/reports/digital-2025-burundi)  
+   Link: <a href="https://datareportal.com/reports/digital-2025-burundi" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-burundi</a>  
 
 7. <a id="endnote-7"></a>
    Source: datareportal.com  
    Title: digital 2026 burundi  
-   Link: [https://datareportal.com/reports/digital-2026-burundi](https://datareportal.com/reports/digital-2026-burundi)  
+   Link: <a href="https://datareportal.com/reports/digital-2026-burundi" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2026-burundi</a>  
 
 8. <a id="endnote-8"></a>
    Source: icao.int  
    Title: Statement by the director general of the civil aviation authority  
-   Link: [https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_539_en.pdf](https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_539_en.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_539_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_539_en.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science Meteor Showers  
-   Link: [https://science.nasa.gov/solar-system/meteors-meteorites/meteor-showers/](https://science.nasa.gov/solar-system/meteors-meteorites/meteor-showers/)  
+   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/meteor-showers/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/meteor-showers/</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: still pictures 342  
-   Link: [https://www.archives.gov/research/topics/uaps/still-pictures-342](https://www.archives.gov/research/topics/uaps/still-pictures-342)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
 
 16. <a id="endnote-16"></a>
    Source: caac.gov.cn  
-   Link: [https://www.caac.gov.cn/English/Transport/Bilateral/FZDQ/Burundi/sh/202304/P020230414530611947733.pdf](https://www.caac.gov.cn/English/Transport/Bilateral/FZDQ/Burundi/sh/202304/P020230414530611947733.pdf)  
+   Link: <a href="https://www.caac.gov.cn/English/Transport/Bilateral/FZDQ/Burundi/sh/202304/P020230414530611947733.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caac.gov.cn/English/Transport/Bilateral/FZDQ/Burundi/sh/202304/P020230414530611947733.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/?releaseDate=Release](https://www.war.gov/ufo/?releaseDate=Release)  
+   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 22. <a id="endnote-22"></a>
    Source: datareportal.com  
-   Link: [https://datareportal.com/](https://datareportal.com/)  
+   Link: <a href="https://datareportal.com/" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/</a>  
 
 23. <a id="endnote-23"></a>
    Source: datareportal.com  
    Title: digital in burundi  
-   Link: [https://datareportal.com/digital-in-burundi](https://datareportal.com/digital-in-burundi)  
+   Link: <a href="https://datareportal.com/digital-in-burundi" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/digital-in-burundi</a>  
 
 24. <a id="endnote-24"></a>
    Source: datareportal.com  
    Title: digital 2025 sub section state of social  
-   Link: [https://datareportal.com/reports/digital-2025-sub-section-state-of-social](https://datareportal.com/reports/digital-2025-sub-section-state-of-social)  
+   Link: <a href="https://datareportal.com/reports/digital-2025-sub-section-state-of-social" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-sub-section-state-of-social</a>  
 
 25. <a id="endnote-25"></a>
    Source: datareportal.com  
    Title: digital 2025 united kingdom  
-   Link: [https://datareportal.com/reports/digital-2025-united-kingdom](https://datareportal.com/reports/digital-2025-united-kingdom)  
+   Link: <a href="https://datareportal.com/reports/digital-2025-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-united-kingdom</a>  
 
 26. <a id="endnote-26"></a>
    Source: datareportal.com  
    Title: digital 2024 burundi  
-   Link: [https://datareportal.com/reports/digital-2024-burundi](https://datareportal.com/reports/digital-2024-burundi)  
+   Link: <a href="https://datareportal.com/reports/digital-2024-burundi" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2024-burundi</a>  
 
 27. <a id="endnote-27"></a>
    Source: datareportal.com  
    Title: social media users  
-   Link: [https://datareportal.com/social-media-users](https://datareportal.com/social-media-users)  
+   Link: <a href="https://datareportal.com/social-media-users" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/social-media-users</a>  
 
 28. <a id="endnote-28"></a>
    Source: aacb.gov.bi  
    Title: bi About Us: BCAABurundi Civil Aviation Authority  
-   Link: [https://aacb.gov.bi/en/rb7/](https://aacb.gov.bi/en/rb7/)  
+   Link: <a href="https://aacb.gov.bi/en/rb7/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/rb7/</a>  
 
 29. <a id="endnote-29"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/154672](https://aviation-safety.net/wikibase/154672)  
+   Link: <a href="https://aviation-safety.net/wikibase/154672" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/154672</a>  
 
 30. <a id="endnote-30"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/u_full_version/hatch_manual_djvu.txt](https://archive.org/stream/u_full_version/hatch_manual_djvu.txt)  
+   Link: <a href="https://archive.org/stream/u_full_version/hatch_manual_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/u_full_version/hatch_manual_djvu.txt</a>  
 
 31. <a id="endnote-31"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/afiplan-contractingstates](https://www.icao.int/afiplan-contractingstates)  
+   Link: <a href="https://www.icao.int/afiplan-contractingstates" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/afiplan-contractingstates</a>  
 
 32. <a id="endnote-32"></a>
    Source: GOV.UK  
    Title: www.gov.uk Safety and security  
-   Link: [https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security](https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security)  
+   Link: <a href="https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security</a>  
 
 33. <a id="endnote-33"></a>
    Source: fireballs.nz  
-   Link: [https://fireballs.nz/](https://fireballs.nz/)  
+   Link: <a href="https://fireballs.nz/" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.nz/</a>  
 
 34. <a id="endnote-34"></a>
    Source: space.com  
    Title: look taurid meteors fireballs at their best this week november 2025  
-   Link: [https://www.space.com/stargazing/meteor-showers/look-taurid-meteors-fireballs-at-their-best-this-week-november-2025](https://www.space.com/stargazing/meteor-showers/look-taurid-meteors-fireballs-at-their-best-this-week-november-2025)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/look-taurid-meteors-fireballs-at-their-best-this-week-november-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/look-taurid-meteors-fireballs-at-their-best-this-week-november-2025</a>  
    Published: november 2025  
 
 35. <a id="endnote-35"></a>
    Source: centreforaviation.com  
-   Link: [https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm](https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm)  
+   Link: <a href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm</a>  
 
 36. <a id="endnote-36"></a>
    Source: worldbank.org  
-   Link: [https://www.worldbank.org/ext/en/country/burundi](https://www.worldbank.org/ext/en/country/burundi)  
+   Link: <a href="https://www.worldbank.org/ext/en/country/burundi" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/country/burundi</a>  
 
 37. <a id="endnote-37"></a>
    Source: worldbank.org  
    Title: burundi combatting flood risk afe and building resilience  
-   Link: [https://www.worldbank.org/en/news/press-release/2024/07/01/burundi-combatting-flood-risk-afe-and-building-resilience](https://www.worldbank.org/en/news/press-release/2024/07/01/burundi-combatting-flood-risk-afe-and-building-resilience)  
+   Link: <a href="https://www.worldbank.org/en/news/press-release/2024/07/01/burundi-combatting-flood-risk-afe-and-building-resilience" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/news/press-release/2024/07/01/burundi-combatting-flood-risk-afe-and-building-resilience</a>  
 
 38. <a id="endnote-38"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/p/Burundi-Civil-Aviation-Authority-100069259044582/](https://www.facebook.com/p/Burundi-Civil-Aviation-Authority-100069259044582/)  
+   Link: <a href="https://www.facebook.com/p/Burundi-Civil-Aviation-Authority-100069259044582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/Burundi-Civil-Aviation-Authority-100069259044582/</a>  
 
 40. <a id="endnote-40"></a>
    Source: data.worldbank.org  
    Title: IT.NET.USE R.ZS  
-   Link: [https://data.worldbank.org/indicator/IT.NET.USER.ZS](https://data.worldbank.org/indicator/IT.NET.USER.ZS)  
+   Link: <a href="https://data.worldbank.org/indicator/IT.NET.USER.ZS" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/IT.NET.USER.ZS</a>  
 
 41. <a id="endnote-41"></a>
    Source: data.worldbank.org  
    Title: SP.URB.TOT L.IN.ZS  
-   Link: [https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BI](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BI)  
+   Link: <a href="https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BI" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BI</a>  
 
 42. <a id="endnote-42"></a>
    Source: data.worldbank.org  
    Title: EN.POP.DNS T  
-   Link: [https://data.worldbank.org/indicator/EN.POP.DNST?locations=BI](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BI)  
+   Link: <a href="https://data.worldbank.org/indicator/EN.POP.DNST?locations=BI" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/EN.POP.DNST?locations=BI</a>  
 
 43. <a id="endnote-43"></a>
    Source: data.worldbank.org  
    Title: IT.NET.USE R.ZS  
-   Link: [https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BI](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BI)  
+   Link: <a href="https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BI" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BI</a>  
 
 44. <a id="endnote-44"></a>
    Source: data.worldbank.org  
    Title: EN.POP.DNS T  
-   Link: [https://data.worldbank.org/indicator/EN.POP.DNST](https://data.worldbank.org/indicator/EN.POP.DNST)  
+   Link: <a href="https://data.worldbank.org/indicator/EN.POP.DNST" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/EN.POP.DNST</a>  
 
 45. <a id="endnote-45"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/099051325173519692/pdf/P176396-17d08dd7-f420-465c-a2ef-8df42b9279f9.pdf](https://documents1.worldbank.org/curated/en/099051325173519692/pdf/P176396-17d08dd7-f420-465c-a2ef-8df42b9279f9.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/099051325173519692/pdf/P176396-17d08dd7-f420-465c-a2ef-8df42b9279f9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099051325173519692/pdf/P176396-17d08dd7-f420-465c-a2ef-8df42b9279f9.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/099111323103541445/pdf/P1756220d64aa8054090cd0f76f8ec7a0a5.pdf](https://documents1.worldbank.org/curated/en/099111323103541445/pdf/P1756220d64aa8054090cd0f76f8ec7a0a5.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/099111323103541445/pdf/P1756220d64aa8054090cd0f76f8ec7a0a5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099111323103541445/pdf/P1756220d64aa8054090cd0f76f8ec7a0a5.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: data.worldbank.org  
    Title: IT.NET.USE R.ZS  
-   Link: [https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZG](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZG)  
+   Link: <a href="https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZG" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZG</a>  
 
 48. <a id="endnote-48"></a>
    Source: data.worldbank.org  
    Title: urban development  
-   Link: [https://data.worldbank.org/topic/urban-development](https://data.worldbank.org/topic/urban-development)  
+   Link: <a href="https://data.worldbank.org/topic/urban-development" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/topic/urban-development</a>  
 
 49. <a id="endnote-49"></a>
    Source: documents1.worldbank.org  
    Title: Burundi Digital Economy Assessment  
-   Link: [https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf](https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/099052223162019269/pdf/P177146100aca8941d72114d241893e1cc4279e05b8a.pdf](https://documents1.worldbank.org/curated/en/099052223162019269/pdf/P177146100aca8941d72114d241893e1cc4279e05b8a.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/099052223162019269/pdf/P177146100aca8941d72114d241893e1cc4279e05b8a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099052223162019269/pdf/P177146100aca8941d72114d241893e1cc4279e05b8a.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/099300012012154930/txt/P1753940ba0bfc0dd0b3ef08f535a797337.txt](https://documents1.worldbank.org/curated/en/099300012012154930/txt/P1753940ba0bfc0dd0b3ef08f535a797337.txt)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/099300012012154930/txt/P1753940ba0bfc0dd0b3ef08f535a797337.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099300012012154930/txt/P1753940ba0bfc0dd0b3ef08f535a797337.txt</a>  
 
 52. <a id="endnote-52"></a>
    Source: Wikipedia  
    Title: Melchior Ndadaye International Airport  
-   Link: [https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport](https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport</a>  
 
 53. <a id="endnote-53"></a>
    Source: tradingeconomics.com  
-   Link: [https://tradingeconomics.com/burundi/urban-population-wb-data.html](https://tradingeconomics.com/burundi/urban-population-wb-data.html)  
+   Link: <a href="https://tradingeconomics.com/burundi/urban-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/burundi/urban-population-wb-data.html</a>  
 
 54. <a id="endnote-54"></a>
    Source: iwacu-burundi.org  
-   Link: [https://www.iwacu-burundi.org/2013/page/163/](https://www.iwacu-burundi.org/2013/page/163/)  
+   Link: <a href="https://www.iwacu-burundi.org/2013/page/163/" target="_blank" rel="noopener noreferrer nofollow">https://www.iwacu-burundi.org/2013/page/163/</a>  
 
 ### Additional References
 
 55. <a id="endnote-55"></a>
    Source: youtube.com  
    Title: UNSEEN BURUNDI: The World's POOREST Country You Won't Forget What You Saw  
-   Link: [https://www.youtube.com/watch?v=IUK0Z7VFBXc](https://www.youtube.com/watch?v=IUK0Z7VFBXc)  
+   Link: <a href="https://www.youtube.com/watch?v=IUK0Z7VFBXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IUK0Z7VFBXc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIFE IN BURUNDI: Meet the POOREST Country in the WORLD - Travel Documentary...</p></details>
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
    Title: LIFE IN BURUNDI: Meet the POOREST Country in the WORLD  
-   Link: [https://www.youtube.com/watch?v=KWeth7jFNBw](https://www.youtube.com/watch?v=KWeth7jFNBw)  
+   Link: <a href="https://www.youtube.com/watch?v=KWeth7jFNBw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KWeth7jFNBw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Burundi Slipped Into Dictatorship (2001)...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp83m00210r000300050004-5](https://www.cia.gov/readingroom/document/cia-rdp83m00210r000300050004-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp83m00210r000300050004-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp83m00210r000300050004-5</a>  
 
 58. <a id="endnote-58"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5](https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5</a>  
 
 59. <a id="endnote-59"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0005517469.pdf](https://www.cia.gov/readingroom/docs/DOC_0005517469.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517469.pdf</a>  
 
 60. <a id="endnote-60"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp77-00432r000100390005-0](https://www.cia.gov/readingroom/document/cia-rdp77-00432r000100390005-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp77-00432r000100390005-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp77-00432r000100390005-0</a>  
 
 61. <a id="endnote-61"></a>
    Source: x.com  
-   Link: [https://x.com/CitizenAfrika/status/2040053009321750970](https://x.com/CitizenAfrika/status/2040053009321750970)  
+   Link: <a href="https://x.com/CitizenAfrika/status/2040053009321750970" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CitizenAfrika/status/2040053009321750970</a>  
 
 62. <a id="endnote-62"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 63. <a id="endnote-63"></a>
    Source: cassoa.org  
-   Link: [https://www.cassoa.org/wp-content/uploads/2021/05/Official%20Report%20of%20the%205th%20Aviation%20Symposium.pdf](https://www.cassoa.org/wp-content/uploads/2021/05/Official%20Report%20of%20the%205th%20Aviation%20Symposium.pdf)  
+   Link: <a href="https://www.cassoa.org/wp-content/uploads/2021/05/Official%20Report%20of%20the%205th%20Aviation%20Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cassoa.org/wp-content/uploads/2021/05/Official%20Report%20of%20the%205th%20Aviation%20Symposium.pdf</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/](https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/)  
+   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  

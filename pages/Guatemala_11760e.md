@@ -1185,7 +1185,7 @@ next_link:
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
   short_title: Latvia UFOs
-date: '2026-06-09 01:28:17 '
+date: '2026-06-10 01:53:11 '
 header:
   og_image: /assets/images/Guatemala_11760e-overview-social.jpg
   preview_image: /assets/images/Guatemala_11760e-overview.webp
@@ -1202,7 +1202,7 @@ The headline conclusion is cautious: Guatemala has persistent UFO and UAP report
 
 Guatemala is a country where many people have reasons to look upward: volcanic eruptions, dramatic sunsets, mountain horizons, night-time aircraft, satellites, and bright planets can all look strange when seen from valleys or highland towns. This matters because UFO reports are often shaped by local geography. In Guatemala, the same object can appear very different depending on whether it is seen from Guatemala City, Lake Atitlán, the Pacific coast, Petén, Quetzaltenango, or the volcanic corridor near Fuego and Pacaya.
 
-The volcanic setting is especially important. The Smithsonian Global Volcanism Program lists Guatemala’s volcano information alongside official monitoring bodies, including INSIVUMEH, the national seismology, volcanology, meteorology and hydrology institute, CONRED, the disaster reduction agency, and the Washington Volcanic Ash Advisory Center. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-title">Smithsonian Volcanism Program Global Volcanism Program | Guatemala Volcanoes</span><span class="citation-popover-snippet">Smithsonian Volcanism Program Global Volcanism Program | Guatemala Volcanoes</span></span></span> Volcanic glow, ash plumes, lightning, aircraft diversions, emergency lights, and distant observation angles can all complicate night-sky interpretation without requiring anything paranormal.
+The volcanic setting is especially important. The Smithsonian Global Volcanism Program lists Guatemala’s volcano information alongside official monitoring bodies, including INSIVUMEH, the national seismology, volcanology, meteorology and hydrology institute, CONRED, the disaster reduction agency, and the Washington Volcanic Ash Advisory Center. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-title">Smithsonian Volcanism Program Global Volcanism Program &#124; Guatemala Volcanoes</span><span class="citation-popover-snippet">Smithsonian Volcanism Program Global Volcanism Program &#124; Guatemala Volcanoes</span></span></span> Volcanic glow, ash plumes, lightning, aircraft diversions, emergency lights, and distant observation angles can all complicate night-sky interpretation without requiring anything paranormal.
 
 A second factor is Guatemala’s dense central corridor. Several prominent reports cluster around Guatemala City, Villa Nueva, Milpas Altas, Antigua and nearby highlands. That does not prove the region is a “hotspot” in a physical sense; it may simply be where population density, phone cameras, media attention and aviation routes overlap. This is a pattern also seen in sibling country branches across Central America: reported UFO concentration often follows people, roads, airports and media markets as much as skies.
 
@@ -1258,7 +1258,7 @@ The cleanest way to handle Guatemala’s UFO record is to separate evidence stat
 
 ## What official records do, and do not, show
 
-There is no clear public evidence of a standing Guatemalan government UAP office or a national declassified UFO archive comparable to US AARO material. Guatemala’s official institutions most relevant to sky interpretation are more practical: aviation, weather, volcanology, civil protection and emergency monitoring. For volcanic sky events, the Smithsonian’s Guatemala volcano resource points readers towards INSIVUMEH, CONRED and volcanic ash advisory systems, which are more likely to explain ash, glow or eruption-related light phenomena than UFO organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-title">Smithsonian Volcanism Program Global Volcanism Program | Guatemala Volcanoes</span><span class="citation-popover-snippet">Smithsonian Volcanism Program Global Volcanism Program | Guatemala Volcanoes</span></span></span>
+There is no clear public evidence of a standing Guatemalan government UAP office or a national declassified UFO archive comparable to US AARO material. Guatemala’s official institutions most relevant to sky interpretation are more practical: aviation, weather, volcanology, civil protection and emergency monitoring. For volcanic sky events, the Smithsonian’s Guatemala volcano resource points readers towards INSIVUMEH, CONRED and volcanic ash advisory systems, which are more likely to explain ash, glow or eruption-related light phenomena than UFO organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-title">Smithsonian Volcanism Program Global Volcanism Program &#124; Guatemala Volcanoes</span><span class="citation-popover-snippet">Smithsonian Volcanism Program Global Volcanism Program &#124; Guatemala Volcanoes</span></span></span>
 
 For the term “UAP”, the strongest official framework comes from NASA and the US All-domain Anomaly Resolution Office, not Guatemala. NASA’s 2023 UAP study emphasised that high-quality observations are limited, making firm scientific conclusions difficult, and recommended better data collection, open-source resources, AI-assisted analysis, citizen reporting and destigmatisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span></span></span> AARO describes its work as a rigorous, data-driven US government effort and lists common lines of inquiry such as leading explanations, reporting methods and whether any evidence of extraterrestrial technology has been found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
@@ -1304,86 +1304,44 @@ Guatemala is a serious country page for UFO research because it has several laye
 The cases worth retaining for a Guatemala chronology are the 1977–78 Guatemala City videotape file, the 1989 national wave, recurring morning contrail misidentifications, the NUFORC regional spread, the February 2025 Quetzaltenango likely CubeSat-related explanation, and the still-unresolved May 2025 Villa Nueva line-of-lights sighting. Together they form a useful national evidence map: some claims are documented, some are plausibly explained, some remain open, and none currently justifies a leap from “unidentified” to “non-human craft”.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Guatemalaâ€™s UFO Reports Really Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Guatemala’s UFO Reports Really Reveal, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for interpreting Guatemala&#x27;s mixed-quality reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Aligns with the page&#x27;s focus on weighing evidence and official sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
-        
-        <p class="fr-book-desc">Provides historical context for UFO waves, archives and public interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
-        
-        <p class="fr-book-desc">Represents the broader UFO tradition informing later reporting cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1417,75 +1375,71 @@ The cases worth retaining for a Guatemala chronology are the 1977–78 Guatemala
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-t-shirt-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-t-shirt-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-t-shirt-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-t-shirt-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-guatemalas-ufo-reports-really-what-guatemala-s-ufo-reports-really-reveal-guatemala-ufo-poster-book-books-series-tel&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1700,218 +1654,218 @@ The cases worth retaining for a Guatemala chronology are the 1977–78 Guatemala
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Guatemala  
-   Link: [https://nuforc.org/subndx/?id=cGuatemala](https://nuforc.org/subndx/?id=cGuatemala)  
+   Link: <a href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cGuatemala</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186776](https://nuforc.org/sighting/?id=186776)  
+   Link: <a href="https://nuforc.org/sighting/?id=186776" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186776</a>  
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: UPDATE: NASA Shares UAP Independent Study Report; Names Director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: upi.com  
    Title: Guatemala gripped by UFO fever  
-   Link: [https://www.upi.com/Archives/1989/03/04/Guatemala-gripped-by-UFO-fever/5301604990800/](https://www.upi.com/Archives/1989/03/04/Guatemala-gripped-by-UFO-fever/5301604990800/)  
+   Link: <a href="https://www.upi.com/Archives/1989/03/04/Guatemala-gripped-by-UFO-fever/5301604990800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/03/04/Guatemala-gripped-by-UFO-fever/5301604990800/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=182545](https://nuforc.org/sighting/?id=182545)  
+   Link: <a href="https://nuforc.org/sighting/?id=182545" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182545</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=sFlash](https://nuforc.org/subndx/?id=sFlash)  
+   Link: <a href="https://nuforc.org/subndx/?id=sFlash" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sFlash</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/DIAUFO/DIA%20UFO%20Files%201_djvu.txt](https://archive.org/stream/DIAUFO/DIA%20UFO%20Files%201_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DIAUFO/DIA%20UFO%20Files%201_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DIAUFO/DIA%20UFO%20Files%201_djvu.txt</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt](https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
    Title: Dreamland djvu.txt  
-   Link: [https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt](https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
 
 18. <a id="endnote-18"></a>
    Source: ia801800.us.archive.org  
-   Link: [https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf](https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf)  
+   Link: <a href="https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: as.amphilsoc.org  
    Title: archival objects  
-   Link: [https://as.amphilsoc.org/repositories/2/archival_objects/880115](https://as.amphilsoc.org/repositories/2/archival_objects/880115)  
+   Link: <a href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/archival_objects/880115</a>  
 
 22. <a id="endnote-22"></a>
    Source: latimes.com  
-   Link: [https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html](https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: emisorasunidas.com  
    Title: Emisoras Unidas Experto habla sobre objeto luminoso captado en Villa Nueva  
-   Link: [https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/](https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/)  
+   Link: <a href="https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow">https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/</a>  
 
 24. <a id="endnote-24"></a>
    Source: volcano.si.edu  
    Title: Smithsonian Volcanism Program Global Volcanism Program | Guatemala Volcanoes  
-   Link: [https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala](https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala)  
+   Link: <a href="https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcanolist_countries.cfm?country=Guatemala</a>  
 
 25. <a id="endnote-25"></a>
    Source: elsiglo.com.gt  
    Title: El Siglo OVNIS madrugadores  
-   Link: [https://elsiglo.com.gt/ovnis-madrugadores/](https://elsiglo.com.gt/ovnis-madrugadores/)  
+   Link: <a href="https://elsiglo.com.gt/ovnis-madrugadores/" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.gt/ovnis-madrugadores/</a>  
 
 26. <a id="endnote-26"></a>
    Source: elsiglo.com.gt  
    Title: El Siglo De los ovnis a la astronomía  
-   Link: [https://elsiglo.com.gt/de-los-ovnis-a-la-astronomia/](https://elsiglo.com.gt/de-los-ovnis-a-la-astronomia/)  
+   Link: <a href="https://elsiglo.com.gt/de-los-ovnis-a-la-astronomia/" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.gt/de-los-ovnis-a-la-astronomia/</a>  
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/guatemala?page=75](https://www.cia.gov/readingroom/collection/guatemala?page=75)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/guatemala?page=75" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/guatemala?page=75</a>  
 
 28. <a id="endnote-28"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/guatemala?page=205](https://www.cia.gov/readingroom/collection/guatemala?page=205)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/guatemala?page=205" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/guatemala?page=205</a>  
 
 29. <a id="endnote-29"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/guatemala?page=255](https://www.cia.gov/readingroom/collection/guatemala?page=255)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/guatemala?page=255" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/guatemala?page=255</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/guatemala?fbclid=IwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw%3Ffbclid%3DIwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw&page=190](https://www.cia.gov/readingroom/collection/guatemala?fbclid=IwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw%3Ffbclid%3DIwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw&page=190)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/guatemala?fbclid=IwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw%3Ffbclid%3DIwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw&amp;page=190" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/guatemala?fbclid=IwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw%3Ffbclid%3DIwY2xjawFxS71leHRuA2FlbQIxMQABHXVSmANuJysgNTFrMk3BHCQizT4lONTPGHmk4syLw8gL-EYwmWQnhyEPbA_aem_s-q_Tbm5cEWCTUuxtpiPQw&amp;page=190</a>  
 
 31. <a id="endnote-31"></a>
    Source: kids.nationalgeographic.com  
-   Link: [https://kids.nationalgeographic.com/geography/countries/article/guatemala](https://kids.nationalgeographic.com/geography/countries/article/guatemala)  
+   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/guatemala" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/guatemala</a>  
 
 32. <a id="endnote-32"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 33. <a id="endnote-33"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Guatemala](https://www.britannica.com/place/Guatemala)  
+   Link: <a href="https://www.britannica.com/place/Guatemala" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Guatemala</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Philip J. Klass  
-   Link: [https://en.wikipedia.org/wiki/Philip_J._Klass](https://en.wikipedia.org/wiki/Philip_J._Klass)  
+   Link: <a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Guatemala](https://en.wikipedia.org/wiki/Guatemala)  
+   Link: <a href="https://en.wikipedia.org/wiki/Guatemala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guatemala</a>  
 
 36. <a id="endnote-36"></a>
    Source: sentientorbs.com  
    Title: NUFORC 34423  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-34423](https://sentientorbs.com/explore/sightings/NUFORC-34423)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-34423" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-34423</a>  
 
 37. <a id="endnote-37"></a>
    Source: ospo.noaa.gov  
-   Link: [https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/FUEGO.html](https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/FUEGO.html)  
+   Link: <a href="https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/FUEGO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/FUEGO.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: zbordirect.com  
    Title: Guatemala City  
-   Link: [https://zbordirect.com/en/airport/guatemala-city-gua](https://zbordirect.com/en/airport/guatemala-city-gua)  
+   Link: <a href="https://zbordirect.com/en/airport/guatemala-city-gua" target="_blank" rel="noopener noreferrer nofollow">https://zbordirect.com/en/airport/guatemala-city-gua</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Discussion on Strange Sky Objects and Investigative Frameworks in Guatemala  
-   Link: [https://www.youtube.com/watch?v=KU-bDfMndCk](https://www.youtube.com/watch?v=KU-bDfMndCk)  
+   Link: <a href="https://www.youtube.com/watch?v=KU-bDfMndCk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KU-bDfMndCk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archival Document Tracking UFO and Anomalous Phenomenon Accounts in Tikal...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Report on Sky Anomalies Recorded in Mixco, Guatemala  
-   Link: [https://www.youtube.com/watch?v=AaEmLlAnat4](https://www.youtube.com/watch?v=AaEmLlAnat4)  
+   Link: <a href="https://www.youtube.com/watch?v=AaEmLlAnat4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AaEmLlAnat4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discussion on Strange Sky Objects and Investigative Frameworks in Guatemala...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/crest-25-year-program-archive](https://www.cia.gov/readingroom/collection/crest-25-year-program-archive)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/crest-25-year-program-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/crest-25-year-program-archive</a>  
 
 42. <a id="endnote-42"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf](https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf)  
+   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/foia-collection?page=981](https://www.cia.gov/readingroom/collection/foia-collection?page=981)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/foia-collection?page=981" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/foia-collection?page=981</a>  
 
 45. <a id="endnote-45"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/home](https://www.cia.gov/readingroom/home)  
+   Link: <a href="https://www.cia.gov/readingroom/home" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/home</a>  
 
 46. <a id="endnote-46"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Historical UFO Sightings in Guatemala Explored by Guatevisión  
-   Link: [https://www.youtube.com/watch?v=8SC_hSfPFgU](https://www.youtube.com/watch?v=8SC_hSfPFgU)  
+   Link: <a href="https://www.youtube.com/watch?v=8SC_hSfPFgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SC_hSfPFgU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Analysis of Multiple UFO Reports in Guatemala...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: Media Analysis of Multiple UFO Reports in Guatemala  
-   Link: [https://www.youtube.com/watch?v=nWlqGVgchRY](https://www.youtube.com/watch?v=nWlqGVgchRY)  
+   Link: <a href="https://www.youtube.com/watch?v=nWlqGVgchRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nWlqGVgchRY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Sky Anomalies Recorded in Mixco, Guatemala...</p></details>

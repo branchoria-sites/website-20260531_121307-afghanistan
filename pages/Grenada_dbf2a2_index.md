@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /grenada-dbf2a2-index/
 description: Focused pages that expand on Why Grenada Became a UFO Footnote.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Grenada_dbf2a2
 parent_title: Why Grenada Became a UFO Footnote

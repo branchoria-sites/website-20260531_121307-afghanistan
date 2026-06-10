@@ -239,7 +239,7 @@ next_link:
   permalink: /records-gap-7e3264/
   short_title: Records Gap
   heading_title: Why Are Belize UFO Records So Hard to Verify?
-date: '2026-06-09 01:18:22 '
+date: '2026-06-10 01:43:43 '
 header:
   og_image: /assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-1-social.jpg
   preview_image: /assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-1-s
 
 ## Introduction
 
-Most [Belize]({{ 'what-do-belize-ufo-reports-really-show/' | relative_url }}) UFO claims fall into one of two categories: sightings that can probably be explained by ordinary sky phenomena, and sightings that remain technically “unidentified” only because the available evidence is too limited to reach a firm conclusion. That distinction matters. In Belize, as in many smaller countries without a formal UFO investigation office, reports are usually based on brief witness testimony, social-media videos, or entries in civilian databases rather than radar records, military files, or scientific analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports avai...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+Most Belize UFO claims fall into one of two categories: sightings that can probably be explained by ordinary sky phenomena, and sightings that remain technically “unidentified” only because the available evidence is too limited to reach a firm conclusion. That distinction matters. In Belize, as in many smaller countries without a formal UFO investigation office, reports are usually based on brief witness testimony, social-media videos, or entries in civilian databases rather than radar records, military files, or scientific analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports avai...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-1-dark.svg" | relative_url }}" alt="Explainers illustration 1" data-theme-src-dark="{{ "/assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -258,7 +258,7 @@ This means that many Belize cases are unresolved in a procedural sense rather th
 
 One of the clearest examples of a dramatic sky event being mistaken for something exotic involves spacecraft re-entry phenomena visible across parts of the Caribbean and Central America.
 
-When large spacecraft or rocket bodies re-enter Earth’s atmosphere, they can create spectacular visual effects: glowing fragments, long luminous trails, apparent “formations” of lights, and objects that seem to split apart or manoeuvre. NASA and ESA both note that most large objects break apart during re-entry at high altitude, producing bright moving fragments visible over wide areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">ARES | Orbital Debris Program Office | Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</span></span></span>
+When large spacecraft or rocket bodies re-enter Earth’s atmosphere, they can create spectacular visual effects: glowing fragments, long luminous trails, apparent “formations” of lights, and objects that seem to split apart or manoeuvre. NASA and ESA both note that most large objects break apart during re-entry at high altitude, producing bright moving fragments visible over wide areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">ARES &#124; Orbital Debris Program Office &#124; Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</span></span></span>
 
 Belizean observers have occasionally described exactly these features during periods that coincided with known orbital re-entries. One widely discussed regional example involved sightings linked by observers to the final mission of the Space Shuttle Atlantis in 2011. Videos from nearby parts of the Caribbean and the Yucatán Peninsula showed a bright fragmented object crossing the night sky during the shuttle’s return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=2XZgu7FStbw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Last Atlantis Space Shuttle Re-entry STS-135 21-07-2011...Atlantis Space Shuttle Night Reentry 21-07-2011 Cancun Mexico STS-135 L...</span></span></span>
 
@@ -311,13 +311,13 @@ Several Belize reports specifically mention formations or triangular arrangement
 
 ### Chinese lanterns and festival lights
 
-Floating lanterns are another plausible explanation for some [Belize sightings]({{ 'sightings-map/' | relative_url }}), especially near coastal communities and celebrations. Lanterns can drift slowly, appear to change direction with wind currents, brighten and dim unpredictably, and disappear suddenly when their flame extinguishes.
+Floating lanterns are another plausible explanation for some Belize sightings, especially near coastal communities and celebrations. Lanterns can drift slowly, appear to change direction with wind currents, brighten and dim unpredictably, and disappear suddenly when their flame extinguishes.
 
 Witnesses unfamiliar with lantern behaviour may interpret these movements as intelligent control. This is particularly true when several lanterns are released together, creating “formations” of orange or reddish lights.
 
 ### Drones and consumer aerial devices
 
-Recent Belize social-media sightings increasingly resemble drone activity rather than unknown aerospace technology. Videos shared online often show blinking lights, hovering behaviour, or short low-altitude movements typical of consumer drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookTonight, several people have taken to social media with...Tonight, several people have taken to social media with videos of what...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/hotoffthepressbz/posts/mystery-object-over-coastal-highway-residents-say-its-no-weather-balloon-several/1281923123950137/?locale=nl_NL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">here #wearenotalone · Geen fotobeschrijving beschikbaar.Read more...</span></span></span>
+Recent Belize social-media sightings increasingly resemble drone activity rather than unknown aerospace technology. Videos shared online often show blinking lights, hovering behaviour, or short low-altitude movements typical of consumer drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Tonight, several people have taken to social media with...Tonight, several people have taken to social media with videos of what...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/hotoffthepressbz/posts/mystery-object-over-coastal-highway-residents-say-its-no-weather-balloon-several/1281923123950137/?locale=nl_NL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">here #wearenotalone · Geen fotobeschrijving beschikbaar.Read more...</span></span></span>
 
 The growth of drone tourism photography around coastal resorts and archaeological sites has complicated UFO reporting worldwide. A drone filmed at night without scale references can appear distant, enormous, and unconventional.
 
@@ -329,7 +329,7 @@ Some Belize sightings remain unresolved not because they strongly suggest extrat
 <img src="{{ "/assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-2-dark.svg" | relative_url }}" alt="Explainers illustration 2" data-theme-src-dark="{{ "/assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belize_42ab0c_explained_unverified_7082ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Short-duration observations
 
-Many NUFORC and similar database entries from Belize involve sightings lasting only seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports avai...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> Brief observations are inherently difficult to evaluate because witnesses have limited time to judge distance, speed, shape, or scale.
+Many NUFORC and similar database entries from Belize involve sightings lasting only seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports avai...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> Brief observations are inherently difficult to evaluate because witnesses have limited time to judge distance, speed, shape, or scale.
 
 A bright point of light seen for ten seconds over water may genuinely remain unidentified forever because there is insufficient information to test competing explanations.
 
@@ -351,11 +351,11 @@ Belize has no publicly known archive comparable to historical military UFO progr
 Without these, investigators cannot confidently classify most sightings one way or another.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ixTICcLXueg" title="Unidentified Anomalous Phenomena Report from NASA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Report from NASA</a></p><p class="youtube-embed-meta">Channel: FOX10 News &middot; Views: 416 &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixTICcLXueg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5y9sntOKX4s" title="U.A.P Appears Over Trinidad and Tobago During Night Sky @ForbesBreakingNews @NewsNation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer">U.A.P Appears Over Trinidad and Tobago During Night Sky @ForbesBreakingNews @NewsNation</a></p><p class="youtube-embed-meta">Channel: Romario Patrice &middot; Views: 2.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5y9sntOKX4s">Open on YouTube</a></p></div></div></div>
 
 ### Social-media amplification
 
-Modern Belize UFO stories often spread first through Facebook posts, reposted videos, or local discussion forums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/belizenewsnetwork501/posts/strange-object-spotted-in-the-sky-in-the-vicinity-of-coastal-roadwhat-is-it-is-t/815440444752547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Belize News Network</span><span class="citation-popover-snippet">FacebookSTRANGE OBJECT SPOTTED IN THE SKY IN THE VICINITY OF COASTAL ROAD “What is it?” is the big question that everyone is asking after...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/belizelivenews/posts/belize-reacts-as-claims-emerge-of-four-alien-species-recovered-from-crashed-ufos/1452617506886029/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Belizeans are joining the worldwide conversation after shocking...Read more...</span></span></span> As accounts circulate, details frequently become exaggerated or distorted.
+Modern Belize UFO stories often spread first through Facebook posts, reposted videos, or local discussion forums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/belizenewsnetwork501/posts/strange-object-spotted-in-the-sky-in-the-vicinity-of-coastal-roadwhat-is-it-is-t/815440444752547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Belize News Network</span><span class="citation-popover-snippet">STRANGE OBJECT SPOTTED IN THE SKY IN THE VICINITY OF COASTAL ROAD “What is it?” is the big question that everyone is asking after...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/belizelivenews/posts/belize-reacts-as-claims-emerge-of-four-alien-species-recovered-from-crashed-ufos/1452617506886029/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Belizeans are joining the worldwide conversation after shocking...Read more...</span></span></span> As accounts circulate, details frequently become exaggerated or distorted.
 
 A distant light may evolve online into claims of “impossible manoeuvres” or “shape-shifting craft” even when the original footage is blurry and ambiguous. This pattern is common internationally and is not unique to Belize.
 
@@ -373,7 +373,7 @@ This illustrates a recurring problem in Belize UFO research: folklore, tourism m
 
 One of the most persistent misunderstandings in UFO discussions is the idea that a case without a confirmed explanation somehow supports alien visitation. In reality, “unidentified” often means only that investigators lack enough information.
 
-Scientific and statistical analyses of large UFO databases consistently show that many reports cluster around ordinary environmental and observational factors rather than evidence of advanced craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</span></span></span>
+Scientific and statistical analyses of large UFO databases consistently show that many reports cluster around ordinary environmental and observational factors rather than evidence of advanced craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</span></span></span>
 
 Belize provides a good example of this distinction because its UFO record is relatively small and weakly documented. There are very few cases with:
 
@@ -393,7 +393,7 @@ Instead, the national pattern is dominated by anecdotal light sightings. Some ma
 That uncertainty is not proof of extraterrestrial activity. It is simply the normal outcome of incomplete data.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5y9sntOKX4s" title="U.A.P Appears Over Trinidad and Tobago During Night Sky @ForbesBreakingNews @NewsNation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer">U.A.P Appears Over Trinidad and Tobago During Night Sky @ForbesBreakingNews @NewsNation</a></p><p class="youtube-embed-meta">Channel: Romario Patrice &middot; Views: 2.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5y9sntOKX4s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
 
 ## The Most Reasonable Reading of Belize’s UFO Record
 
@@ -416,86 +416,44 @@ The most credible interpretation is therefore mixed:
 That balance between explanation, uncertainty, and speculation is essential for understanding Belize’s UFO history without dismissing witnesses or overstating the evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Which Belize UFO Claims Can Be Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Which Belize UFO Claims Can Be Explained?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides methods for distinguishing likely explanations from unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Focuses on assessing unexplained reports scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly supports evaluating explained, unverified, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Relevant to misidentifications and belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -529,75 +487,71 @@ That balance between explanation, uncertainty, and speculation is essential for 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explainers-which-belize-ufo-claims-can-be-explained-belize-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -812,179 +766,179 @@ That balance between explanation, uncertainty, and speculation is essential for 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports avai...</p></details>
    Published: September 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: [https://orbitaldebris.jsc.nasa.gov/reentry/](https://orbitaldebris.jsc.nasa.gov/reentry/)  
+   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARES | Orbital Debris Program Office | Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reentry.esoc.esa.int  
-   Link: [https://reentry.esoc.esa.int/](https://reentry.esoc.esa.int/)  
+   Link: <a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two weeks. Here we browse t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2XZgu7FStbw](https://www.youtube.com/watch?v=2XZgu7FStbw)  
+   Link: <a href="https://www.youtube.com/watch?v=2XZgu7FStbw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2XZgu7FStbw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last Atlantis Space Shuttle Re-entry STS-135 21-07-2011...Atlantis Space Shuttle Night Reentry 21-07-2011 Cancun Mexico STS-135 L...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: satobs.org  
-   Link: [https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf](https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf)  
+   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Molczan, &quot;Moroccan UFO of Sep 1976 Correlates With Satellite Re-entry&quot;, See...</p></details>
    Published: September 7, 2025  
 
 7. <a id="endnote-7"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries](https://aerospace.org/reentries)  
+   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=43568](https://nuforc.org/sighting/?id=43568)  
+   Link: <a href="https://nuforc.org/sighting/?id=43568" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43568</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 43568August 20, 2023 — NUFORC UFO Sighting 43568. Occurred: 2005... They where visible for atleast 10-15 seconds the...</p></details>
    Published: August 20, 2023  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/](https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookTonight, several people have taken to social media with...Tonight, several people have taken to social media with videos of what...</p></details>
+   Link: <a href="https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonight, several people have taken to social media with...Tonight, several people have taken to social media with videos of what...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hotoffthepressbz/posts/mystery-object-over-coastal-highway-residents-say-its-no-weather-balloon-several/1281923123950137/?locale=nl_NL](https://www.facebook.com/hotoffthepressbz/posts/mystery-object-over-coastal-highway-residents-say-its-no-weather-balloon-several/1281923123950137/?locale=nl_NL)  
+   Link: <a href="https://www.facebook.com/hotoffthepressbz/posts/mystery-object-over-coastal-highway-residents-say-its-no-weather-balloon-several/1281923123950137/?locale=nl_NL" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hotoffthepressbz/posts/mystery-object-over-coastal-highway-residents-say-its-no-weather-balloon-several/1281923123950137/?locale=nl_NL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>here #wearenotalone · Geen fotobeschrijving beschikbaar.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: Belize News Network  
-   Link: [https://www.facebook.com/belizenewsnetwork501/posts/strange-object-spotted-in-the-sky-in-the-vicinity-of-coastal-roadwhat-is-it-is-t/815440444752547/](https://www.facebook.com/belizenewsnetwork501/posts/strange-object-spotted-in-the-sky-in-the-vicinity-of-coastal-roadwhat-is-it-is-t/815440444752547/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookSTRANGE OBJECT SPOTTED IN THE SKY IN THE VICINITY OF COASTAL ROAD “What is it?” is the big question that everyone is asking after...</p></details>
+   Link: <a href="https://www.facebook.com/belizenewsnetwork501/posts/strange-object-spotted-in-the-sky-in-the-vicinity-of-coastal-roadwhat-is-it-is-t/815440444752547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/belizenewsnetwork501/posts/strange-object-spotted-in-the-sky-in-the-vicinity-of-coastal-roadwhat-is-it-is-t/815440444752547/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE OBJECT SPOTTED IN THE SKY IN THE VICINITY OF COASTAL ROAD “What is it?” is the big question that everyone is asking after...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/belizelivenews/posts/belize-reacts-as-claims-emerge-of-four-alien-species-recovered-from-crashed-ufos/1452617506886029/](https://www.facebook.com/belizelivenews/posts/belize-reacts-as-claims-emerge-of-four-alien-species-recovered-from-crashed-ufos/1452617506886029/)  
+   Link: <a href="https://www.facebook.com/belizelivenews/posts/belize-reacts-as-claims-emerge-of-four-alien-species-recovered-from-crashed-ufos/1452617506886029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/belizelivenews/posts/belize-reacts-as-claims-emerge-of-four-alien-species-recovered-from-crashed-ufos/1452617506886029/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belizeans are joining the worldwide conversation after shocking...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/](https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/)  
+   Link: <a href="https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>drone or UFO incursions, remain under investigation. No photo... ” Others suggest they might be meteors, aircraft, or even UFOs. The...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/BerkeleyCountyGrowth/posts/3533607700277906/](https://www.facebook.com/groups/BerkeleyCountyGrowth/posts/3533607700277906/)  
+   Link: <a href="https://www.facebook.com/groups/BerkeleyCountyGrowth/posts/3533607700277906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BerkeleyCountyGrowth/posts/3533607700277906/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No sound due to my conspiracy comments and such lol. Say what ya will but I know what we seen.. have multiple witnesses as...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Breaking News Flying Saucer 🛸 🛸 🛸 🛸 (UFO)Unidentified  
-   Link: [https://www.facebook.com/61565618016536/posts/breaking-news-flying-saucer-ufo-unidentified-flying-object-spotted-over-belizeal/122168879582520600/](https://www.facebook.com/61565618016536/posts/breaking-news-flying-saucer-ufo-unidentified-flying-object-spotted-over-belizeal/122168879582520600/)  
+   Link: <a href="https://www.facebook.com/61565618016536/posts/breaking-news-flying-saucer-ufo-unidentified-flying-object-spotted-over-belizeal/122168879582520600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61565618016536/posts/breaking-news-flying-saucer-ufo-unidentified-flying-object-spotted-over-belizeal/122168879582520600/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in years. Witnesses claim the object moved without sound, vanished into thick mist, and appeared unlike any known aircraft...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: space.com  
    Title: esa satellite aeolus reentry first of its kind  
-   Link: [https://www.space.com/esa-satellite-aeolus-reentry-first-of-its-kind](https://www.space.com/esa-satellite-aeolus-reentry-first-of-its-kind)  
+   Link: <a href="https://www.space.com/esa-satellite-aeolus-reentry-first-of-its-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/esa-satellite-aeolus-reentry-first-of-its-kind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite to meet fiery death plummeting to Earth in a...20 Jul 2023 — Just 20% of the satellite is expected to survive reentry, with th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: 17 things commonly mistaken for UFOs  
-   Link: [http://www.youtube.com/watch?v=33_K9D7tPjE](http://www.youtube.com/watch?v=33_K9D7tPjE)  
+   Link: <a href="http://www.youtube.com/watch?v=33_K9D7tPjE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=33_K9D7tPjE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.A.P Appears Over Trinidad and Tobago During Night Sky...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: U.A.P Appears Over Trinidad and Tobago During Night Sky  
-   Link: [http://www.youtube.com/watch?v=5y9sntOKX4s](http://www.youtube.com/watch?v=5y9sntOKX4s)  
+   Link: <a href="http://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5y9sntOKX4s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Report from NASA...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Report from NASA  
-   Link: [http://www.youtube.com/watch?v=ixTICcLXueg](http://www.youtube.com/watch?v=ixTICcLXueg)  
+   Link: <a href="http://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ixTICcLXueg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify a UFO (Scientific approach)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How to identify a UFO (Scientific approach)  
-   Link: [http://www.youtube.com/watch?v=385_6N65Q1s](http://www.youtube.com/watch?v=385_6N65Q1s)  
+   Link: <a href="http://www.youtube.com/watch?v=385_6N65Q1s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=385_6N65Q1s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are UAPs? Exploring the truth behind the mystery...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: What are UAPs? Exploring the truth behind the mystery  
-   Link: [http://www.youtube.com/watch?v=132Xn-2v72w](http://www.youtube.com/watch?v=132Xn-2v72w)  
+   Link: <a href="http://www.youtube.com/watch?v=132Xn-2v72w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=132Xn-2v72w</a>  
 
 22. <a id="endnote-22"></a>
    Source: cahalpech.com  
-   Link: [https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/](https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/)  
+   Link: <a href="https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/" target="_blank" rel="noopener noreferrer nofollow">https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cahal Pech Village ResortUFO Spotted at Actun Tunichil Muknal CaveA group of tourists exiting the Actun Tunichil Muknal (ATM) Cave in the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cavesbranch.com  
    Title: ufo spotted near a cave in belize tourists describes encounter  
-   Link: [https://www.cavesbranch.com/2018/04/01/ufo-spotted-near-a-cave-in-belize-tourists-describes-encounter/](https://www.cavesbranch.com/2018/04/01/ufo-spotted-near-a-cave-in-belize-tourists-describes-encounter/)  
+   Link: <a href="https://www.cavesbranch.com/2018/04/01/ufo-spotted-near-a-cave-in-belize-tourists-describes-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.cavesbranch.com/2018/04/01/ufo-spotted-near-a-cave-in-belize-tourists-describes-encounter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caves BranchUFO spotted near a cave in Belize; Tourists describe...01-Apr-2018 — An unidentified flying object (UFO) was spotted this mo...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Belize UFO Sightings &amp; ReportsBrowse or report Belize UFO UAP or USO sightings and other strange paranormal experiences to t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: orbitalradar.com  
-   Link: [https://orbitalradar.com/satellite-reentry-tracker](https://orbitalradar.com/satellite-reentry-tracker)  
+   Link: <a href="https://orbitalradar.com/satellite-reentry-tracker" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/satellite-reentry-tracker</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Re-entry Tracker — Live Predictions, Next...3 days ago — Upcoming predicted re-entries from US Space Force TIP (Tracking and I...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ambergriscaye.com  
-   Link: [https://ambergriscaye.com/forum/ubbthreads.php/ubb/printthread/Board/4/main/6091/type/thread.html](https://ambergriscaye.com/forum/ubbthreads.php/ubb/printthread/Board/4/main/6091/type/thread.html)  
+   Link: <a href="https://ambergriscaye.com/forum/ubbthreads.php/ubb/printthread/Board/4/main/6091/type/thread.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/ubb/printthread/Board/4/main/6091/type/thread.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in [San Pedro](&amp;#123;&amp;#123; &#x27;san-pedro/&#x27; | relative_url &amp;#125;&amp;#125;)? The lead story in Ambergris Today (online) describes recent UFO sightings in and around AC. Do any of you locals have a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYfMHIJlfWc/](https://www.instagram.com/p/DYfMHIJlfWc/)  
+   Link: <a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and unexplained aerial sightings across the region. According...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYchkV7ji93/](https://www.instagram.com/p/DYchkV7ji93/)  
+   Link: <a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mented sightings of unidentified aerial phenomena.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151](https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151)  
+   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>erse breakdown of the NUFORC UFO sighting data.Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: amandala.com.bz  
    Title: strange night sightings in pan  
-   Link: [https://amandala.com.bz/news/strange-night-sightings-in-pan/](https://amandala.com.bz/news/strange-night-sightings-in-pan/)  
+   Link: <a href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow">https://amandala.com.bz/news/strange-night-sightings-in-pan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange night sightings in &#x27;Pan!18-Mar-2008 — A strange sighting of a mass of bright, circular lights south of the capital city and over...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more...</p></details>

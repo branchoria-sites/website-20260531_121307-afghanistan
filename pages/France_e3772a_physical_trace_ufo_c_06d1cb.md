@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-patterns-4d5198/
   short_title: Regional Patterns
   heading_title: 'Where UFOs Cluster: Regional Reporting Trends in France'
-date: '2026-06-09 01:27:16 '
+date: '2026-06-10 01:52:01 '
 header:
   og_image: /assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1-social.jpg
   preview_image: /assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1-s
 
 ## Introduction
 
-[France]({{ 'how-france-investigates-and-archives-ufo/' | relative_url }})’s most famous UFO cases are not simply stories about strange lights in the sky. The incidents that continue to attract serious attention are the ones that allegedly left measurable traces on the ground, affected vegetation, or generated official laboratory analyses. Among these, the 1965 Valensole encounter and the 1981 Trans-en-Provence case occupy a special place in French UFO history because both were investigated in ways that went beyond witness testimony alone. French investigators, gendarmes and later the CNES-linked UFO office GEPAN/GEIPAN treated them as potential forensic cases rather than folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/48917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">TRANS-EN-PROVENCE (83) 08.01.1981Observation date. 08/01/1981; region. Provence Alpes Cote d&#x27;azur; Department. Var; Classification. D...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">VALENSOLE (04) 01.07.1965Le 1er juillet 1965 à 5h45, un agriculteur dans son champ de lavande entend un sifflement qui l&#x27;intrigue. Il se...</span></span></span>
+France’s most famous UFO cases are not simply stories about strange lights in the sky. The incidents that continue to attract serious attention are the ones that allegedly left measurable traces on the ground, affected vegetation, or generated official laboratory analyses. Among these, the 1965 Valensole encounter and the 1981 Trans-en-Provence case occupy a special place in French UFO history because both were investigated in ways that went beyond witness testimony alone. French investigators, gendarmes and later the CNES-linked UFO office GEPAN/GEIPAN treated them as potential forensic cases rather than folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/48917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">TRANS-EN-PROVENCE (83) 08.01.1981Observation date. 08/01/1981; region. Provence Alpes Cote d&#x27;azur; Department. Var; Classification. D...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">VALENSOLE (04) 01.07.1965Le 1er juillet 1965 à 5h45, un agriculteur dans son champ de lavande entend un sifflement qui l&#x27;intrigue. Il se...</span></span></span>
 
 
 <img src="{{ "/assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1-dark.svg" | relative_url }}" alt="Physical Trace Cases illustration 1" data-theme-src-dark="{{ "/assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ These incidents remain controversial precisely because they sit between two comp
 
 ## Why Physical-Trace Cases Matter in France
 
-Most UFO reports consist only of testimony. Physical-trace cases are different because investigators can potentially examine soil chemistry, vegetation damage, impressions in the ground, burn patterns or physiological effects on witnesses. France became unusually prominent in this area because the national space agency CNES eventually created a formal structure for collecting and archiving such evidence through GEPAN, later SEPRA and GEIPAN. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">CNESGEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</span></span></span> Wikipedia The French approach gave certain cases a degree of procedural credibility absent from many sensational UFO stories elsewhere. Local gendarmes <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span> often documented sites rapidly, collected samples and transmitted files to specialist investigators. That process became central to the reputation of Trans-en-Provence in particular, where soil and plant samples were analysed by multiple laboratories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">n hypothesis.. Image. GEIPAN 40ans Humour. Not...</span></span></span>
+Most UFO reports consist only of testimony. Physical-trace cases are different because investigators can potentially examine soil chemistry, vegetation damage, impressions in the ground, burn patterns or physiological effects on witnesses. France became unusually prominent in this area because the national space agency CNES eventually created a formal structure for collecting and archiving such evidence through GEPAN, later SEPRA and GEIPAN. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</span></span></span> Wikipedia The French approach gave certain cases a degree of procedural credibility absent from many sensational UFO stories elsewhere. Local gendarmes <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span> often documented sites rapidly, collected samples and transmitted files to specialist investigators. That process became central to the reputation of Trans-en-Provence in particular, where soil and plant samples were analysed by multiple laboratories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">n hypothesis.. Image. GEIPAN 40ans Humour. Not...</span></span></span>
 
 At the same time, these cases also reveal the limits of forensic UFO investigation. Even when unusual traces exist, interpreting them is extremely difficult. Soil compression, chemical residues or damaged plants do not automatically imply an unknown craft. The French archive repeatedly demonstrates how quickly extraordinary claims collide with problems of contamination, reconstruction and alternative explanations.
 
@@ -270,11 +270,11 @@ At the same time, these cases also reveal the limits of forensic UFO investigati
 
 ### Maurice Masse and the Lavender Field Incident
 
-On the morning of 1 July 1965, farmer Maurice Masse reported hearing a whistling sound while working near his lavender field outside Valensole in Provence. According to his account, he discovered an egg- or oval-shaped craft resting close to the ground and observed two small humanoid figures nearby. Masse later claimed one of the beings pointed a tube-like object at him, temporarily paralysing him before both entities entered the craft and departed at high speed. cnes-geipan.fr HowStuffWorks The case quickly became one of the best-known close encounters in Europe because Masse was regarded locally as a practical farmer rather than <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">HowStuffWorksThe 1965 Valensole UFO EncounterThe Valensole UFO left behind a deep hole and other traces and affected the surrounding plan...</span></span></span> a publicity seeker. His description also emerged during a period when France experienced a wider wave of rural close-encounter reports, especially in the 1950s and 1960s. Unlike many dramatic UFO narratives, the Valensole account remained relatively consistent over time, which helped preserve its reputation among French ufologists.
+On the morning of 1 July 1965, farmer Maurice Masse reported hearing a whistling sound while working near his lavender field outside Valensole in Provence. According to his account, he discovered an egg- or oval-shaped craft resting close to the ground and observed two small humanoid figures nearby. Masse later claimed one of the beings pointed a tube-like object at him, temporarily paralysing him before both entities entered the craft and departed at high speed. cnes-geipan.fr HowStuffWorks The case quickly became one of the best-known close encounters in Europe because Masse was regarded locally as a practical farmer rather than <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterThe Valensole UFO left behind a deep hole and other traces and affected the surrounding plan...</span></span></span> a publicity seeker. His description also emerged during a period when France experienced a wider wave of rural close-encounter reports, especially in the 1950s and 1960s. Unlike many dramatic UFO narratives, the Valensole account remained relatively consistent over time, which helped preserve its reputation among French ufologists.
 
 ### The Reported Physical Evidence
 
-What elevated Valensole beyond a conventional sighting were the alleged traces left behind in the lavender field. Investigators reported impressions in the soil and damage to nearby plants where the object supposedly rested. Some later accounts claimed the lavender deteriorated or died in the affected area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">HowStuffWorksThe 1965 Valensole UFO EncounterThe Valensole UFO left behind a deep hole and other traces and affected the surrounding plan...</span></span></span>
+What elevated Valensole beyond a conventional sighting were the alleged traces left behind in the lavender field. Investigators reported impressions in the soil and damage to nearby plants where the object supposedly rested. Some later accounts claimed the lavender deteriorated or died in the affected area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterThe Valensole UFO left behind a deep hole and other traces and affected the surrounding plan...</span></span></span>
 
 Masse also reportedly experienced unusual after-effects, including fatigue and disrupted sleep patterns, which became part of the mythology surrounding the incident. Advocates of the case argue that these physiological elements resemble reports from other close-encounter narratives internationally. Critics, however, note that many of these details emerged through later retellings and ufological literature rather than from rigorously documented medical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/valensole1965.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Valensole, France, 1965 - Patrick Gross4 Aug 2023 — In the lavender field, traces of the object were found where the...</span></span></span>
 
@@ -307,7 +307,7 @@ For historians of UFO culture, Valensole matters partly because it shaped the im
 
 The Trans-en-Provence incident, which occurred on 8 January 1981 in the Var department of southern France, is often regarded as the strongest French physical-trace UFO case because investigators arrived quickly and preserved evidence in a more systematic way. Witness Renato Nicolai reported hearing a whistling sound and seeing a grey, saucer-shaped object descend briefly onto land near his property before accelerating away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
 
-Unlike many UFO claims investigated weeks or months later, French gendarmes visited the site the following day. They photographed the traces, interviewed the witness and collected soil and plant samples. The case was then transferred to GEPAN, the official French UFO study group operating under CNES. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">trans en provence physical trace case</span><span class="citation-popover-snippet">Think About It Docs1981: Trans-en-Provence Physical Trace Case8 Apr 2013 — The gendarmes interviewed Nicolai and collected soil and plant...</span></span></span> Geipan This chain of custody became crucial to the case’s reputation. Supporters argued that contamination risks were lower and that the evidence th <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[cnes.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">CNESGEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</span></span></span> erefore deserved greater scientific attention.
+Unlike many UFO claims investigated weeks or months later, French gendarmes visited the site the following day. They photographed the traces, interviewed the witness and collected soil and plant samples. The case was then transferred to GEPAN, the official French UFO study group operating under CNES. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">trans en provence physical trace case</span><span class="citation-popover-snippet">Think About It Docs1981: Trans-en-Provence Physical Trace Case8 Apr 2013 — The gendarmes interviewed Nicolai and collected soil and plant...</span></span></span> Geipan This chain of custody became crucial to the case’s reputation. Supporters argued that contamination risks were lower and that the evidence th <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[cnes.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</span></span></span> erefore deserved greater scientific attention.
 
 
 <img src="{{ "/assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-2-dark.svg" | relative_url }}" alt="Physical Trace Cases illustration 2" data-theme-src-dark="{{ "/assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,7 +362,7 @@ As with Valensole, later retellings often became more elaborate than the origina
 
 ### France’s Official UFO Infrastructure Changed the Debate
 
-One reason these incidents remain internationally famous is that France preserved unusually detailed archives. The existence of GEPAN, SEPRA and later GEIPAN meant that some reports were investigated through semi-formal procedures involving police reports, scientific consultation and publicly accessible files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">CNESGEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</span></span></span>
+One reason these incidents remain internationally famous is that France preserved unusually detailed archives. The existence of GEPAN, SEPRA and later GEIPAN meant that some reports were investigated through semi-formal procedures involving police reports, scientific consultation and publicly accessible files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</span></span></span>
 
 That institutional continuity distinguishes France from countries where UFO records are scattered, classified or lost. Even critics of UFO claims often treat the French archive as valuable because it documents how investigations were actually conducted rather than merely retelling legends.
 
@@ -382,86 +382,44 @@ The strongest French UFO trace cases endure because they resist easy categorisat
 Together, these cases illustrate both the attraction and frustration of UFO research in France: intriguing testimony, fragments of physical data, careful documentation in some instances, and ultimately no consensus explanation that satisfies everyone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to France&#x27;s Most Famous UFO Cases with Physical Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for France&#x27;s Most Famous UFO Cases with Physical Evidence, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding close encounter classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Presents other well-documented unexplained cases for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader interpretive context for famous French cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -495,75 +453,71 @@ Together, these cases illustrate both the attraction and frustration of UFO rese
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Hollywood 1976 CD rare slipcase &amp; poster"><img src="{{ '/assets/images/marketplace-covers/bfc920eb225dcc9f5484.jpg' | relative_url }}" alt="Listing image for UFO Hollywood 1976 CD rare slipcase &amp; poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Hollywood 1976 CD rare slipcase &amp; poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo case poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo case poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-poster-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-poster-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-poster-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-poster-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Ain&#x27;t misbehavin CD rare slipcase &amp; poster, bonustracks"><img src="{{ '/assets/images/marketplace-covers/dc2bf73cd66de49c0df9.jpg' | relative_url }}" alt="Listing image for UFO Ain&#x27;t misbehavin CD rare slipcase &amp; poster, bonustracks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Ain&#x27;t misbehavin CD rare slipcase &amp; poster, bonustracks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo case poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo case poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk on water CD rare slipcase &amp; poster, bonustracks"><img src="{{ '/assets/images/marketplace-covers/c4e6064c95398243a17e.jpg' | relative_url }}" alt="Listing image for UFO Walk on water CD rare slipcase &amp; poster, bonustracks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Walk on water CD rare slipcase &amp; poster, bonustracks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo case poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo case poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN 1930S POSTER - Faux Leather Flip Phone Case Cover - iphone/Samsung"><img src="{{ '/assets/images/marketplace-covers/00181d99d0a3f7e06e27.jpg' | relative_url }}" alt="Listing image for UFO ALIEN 1930S POSTER - Faux Leather Flip Phone Case Cover - iphone/Samsung" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN 1930S POSTER - Faux Leather Flip Phone Case Cover - iphone/Samsung</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo case poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo case poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-t-shirt-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-t-shirt-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-t-shirt-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-t-shirt-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+case+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo case poster -book -books" data-ebay-reference="physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-case-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-cases-6c28ad-france-s-most-famous-ufo-cases-with-physical-evidence-france-ufo-poster-book-books-series-te&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -777,105 +731,105 @@ Together, these cases illustrate both the attraction and frustration of UFO rese
 
 1. <a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: [https://cnes-geipan.fr/en/node/48917](https://cnes-geipan.fr/en/node/48917)  
+   Link: <a href="https://cnes-geipan.fr/en/node/48917" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/48917</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS-EN-PROVENCE (83) 08.01.1981Observation date. 08/01/1981; region. Provence Alpes Cote d&#x27;azur; Department. Var; Classification. D...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/46692](https://www.cnes-geipan.fr/en/node/46692)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VALENSOLE (04) 01.07.1965Le 1er juillet 1965 à 5h45, un agriculteur dans son champ de lavande entend un sifflement qui l&#x27;intrigue. Il se...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CNESGEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</p></details>
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information on u...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n hypothesis.. Image. GEIPAN 40ans Humour. Not...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: [https://en.wikipedia.org/wiki/Trans-en-Provence_case](https://en.wikipedia.org/wiki/Trans-en-Provence_case)  
+   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.howstuffworks.com  
    Title: valensole ufo  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksThe 1965 Valensole UFO EncounterThe Valensole UFO left behind a deep hole and other traces and affected the surrounding plan...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Valensole UFO EncounterThe Valensole UFO left behind a deep hole and other traces and affected the surrounding plan...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/valensole1965.htm](https://ufologie.patrickgross.org/htm/valensole1965.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/valensole1965.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/valensole1965.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Valensole, France, 1965 - Patrick Gross4 Aug 2023 — In the lavender field, traces of the object were found where the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node/48918?field_agregation_index_value=trans-en-proven+e](https://www.geipan.fr/en/node/48918?field_agregation_index_value=trans-en-proven+e)  
+   Link: <a href="https://www.geipan.fr/en/node/48918?field_agregation_index_value=trans-en-proven+e" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/48918?field_agregation_index_value=trans-en-proven+e</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS-EN-PROVENCE (83) 08.01.1981La Gendarmerie intervient le 09 janvier, auditionne le témoin, constate la trace sur le sol, et procède...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: artlark.org  
    Title: the trans en provence ufo sighting  
-   Link: [https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/](https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/)  
+   Link: <a href="https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/</a>  
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/News-V3-VBA-February20-2018_V1.pdf](https://www.cnes-geipan.fr/sites/default/files/News-V3-VBA-February20-2018_V1.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/News-V3-VBA-February20-2018_V1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/News-V3-VBA-February20-2018_V1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Missions, Methods and AchievementsQuite rapidly, by using radar trace analysis, the GEIPAN is aware of the presence of a c-130 Hercules t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58792](https://www.cnes-geipan.fr/en/node/58792)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng about an object, whereas it is not always an...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Man Who Got Frozen By Aliens  
-   Link: [https://www.youtube.com/watch?v=kX5hXLCan0I](https://www.youtube.com/watch?v=kX5hXLCan0I)  
+   Link: <a href="https://www.youtube.com/watch?v=kX5hXLCan0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX5hXLCan0I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence Case...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Trans-en-Provence Case  
-   Link: [https://www.youtube.com/watch?v=UuptR_x1tRU](https://www.youtube.com/watch?v=UuptR_x1tRU)  
+   Link: <a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuptR_x1tRU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>French Government CONFIRMED UFO Landing Left Physical Evidence for YEARS...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thinkaboutitdocs.com  
    Title: trans en provence physical trace case  
-   Link: [https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/](https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1981: Trans-en-Provence Physical Trace Case8 Apr 2013 — The gendarmes interviewed Nicolai and collected soil and plant...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: calphysics.org  
    Title: Cal Physics The Trans-en-Provence Case  
-   Link: [https://calphysics.org/ufoskeptic.org/trans.html](https://calphysics.org/ufoskeptic.org/trans.html)  
+   Link: <a href="https://calphysics.org/ufoskeptic.org/trans.html" target="_blank" rel="noopener noreferrer nofollow">https://calphysics.org/ufoskeptic.org/trans.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cal PhysicsThe Trans-en-Provence Case - UFO SkepticNicolai went to inspect the landing site and found a circle about 2 meters in diameter...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2007/apr/02/france.features11](https://www.theguardian.com/world/2007/apr/02/france.features11)  
+   Link: <a href="https://www.theguardian.com/world/2007/apr/02/france.features11" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/apr/02/france.features11</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe aliens have landed... in France1 Apr 2007 — In January 1981, a witness claims to have seen a saucer-shaped object land i...</p></details>
    Published: January 1981  
 
 18. <a id="endnote-18"></a>
    Source: completefrance.com  
    Title: flying saucers in france a history of ufo sightings  
-   Link: [https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/](https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/)  
+   Link: <a href="https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M. Nicolaï was not the first in France to report a close encounter with alien beings. In 1954, railway worker...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: enigmalabs.io  
    Title: Trans-en-Provence Incident  
-   Link: [https://enigmalabs.io/library/319102b0-9f3b-4387-a145-b763ef0d886a](https://enigmalabs.io/library/319102b0-9f3b-4387-a145-b763ef0d886a)  
+   Link: <a href="https://enigmalabs.io/library/319102b0-9f3b-4387-a145-b763ef0d886a" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/319102b0-9f3b-4387-a145-b763ef0d886a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Leaves MarksThe Trans-en-Provence case took place on January 8, 1981 outside the town of Trans-en-Provence, France, and involved a UA...</p></details>
    Published: January 8, 1981  
 
@@ -883,54 +837,54 @@ Together, these cases illustrate both the attraction and frustration of UFO rese
 
 20. <a id="endnote-20"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/](https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Flying SaucersBut the French and British files also confirm that if alien civilizations have probed our planet, they have b...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case110.htm](https://www.ufoevidence.org/cases/case110.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case110.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case110.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence Physical Trace CaseUFO Case Report: Trans-en-Provence Physical Trace Case. Date: January 8, 1981. Location: Trans-en-Pr...</p></details>
    Published: January 8, 1981  
 
 22. <a id="endnote-22"></a>
    Source: strangemag.com  
-   Link: [https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html](https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html)  
+   Link: <a href="https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange MagazineOnline French UFO ArchiveThe collation of the sightings and field investigations was the longtime work of the CNES&#x27;s UFO...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/](https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/)  
+   Link: <a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
 
 24. <a id="endnote-24"></a>
    Source: kisskissbankbank.com  
-   Link: [https://www.kisskissbankbank.com/en/projects/valensole-le-film](https://www.kisskissbankbank.com/en/projects/valensole-le-film)  
+   Link: <a href="https://www.kisskissbankbank.com/en/projects/valensole-le-film" target="_blank" rel="noopener noreferrer nofollow">https://www.kisskissbankbank.com/en/projects/valensole-le-film</a>  
 
 25. <a id="endnote-25"></a>
    Source: insights.made-in-china.com  
    Title: The UFO Case That Stumped Science for 40 Years nfqa XDTHv EId  
-   Link: [https://insights.made-in-china.com/The-UFO-Case-That-Stumped-Science-for-40-Years_nfqaXDTHvEId.html](https://insights.made-in-china.com/The-UFO-Case-That-Stumped-Science-for-40-Years_nfqaXDTHvEId.html)  
+   Link: <a href="https://insights.made-in-china.com/The-UFO-Case-That-Stumped-Science-for-40-Years_nfqaXDTHvEId.html" target="_blank" rel="noopener noreferrer nofollow">https://insights.made-in-china.com/The-UFO-Case-That-Stumped-Science-for-40-Years_nfqaXDTHvEId.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Case That Stumped Science for 40 Years8 Jan 2026 — In 1981, a strange object left physical traces in a French garden that have baffle...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
    Title: 1965 french ufo case from valensole with physical  
-   Link: [https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/](https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tracesOn July 1, 1965, in the lavender fields of Valensole, France, farmer Maurice Masse encountered two humanoids who used a device to f...</p></details>
    Published: July 1, 1965  
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
    Title: stephaniesoquet activity 7358836061625556992 S uo  
-   Link: [https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo](https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Stephanie SoquetA French Roswell? Remembering the 1965 Valensole Encounter Valensole 1965, a new documentary by French filmmaker Domini...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephanie SoquetA French Roswell? Remembering the 1965 Valensole Encounter Valensole 1965, a new documentary by French filmmaker Domini...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
    Title: valensole france ufo incident 1965 2 alien beings  
-   Link: [https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/](https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with a &#x27;tu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/abovethenormnews/comments/15r5dxp/transenprovence_ufo_landing_a_look_back_at_the/](https://www.reddit.com/r/abovethenormnews/comments/15r5dxp/transenprovence_ufo_landing_a_look_back_at_the/)  
+   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/15r5dxp/transenprovence_ufo_landing_a_look_back_at_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/15r5dxp/transenprovence_ufo_landing_a_look_back_at_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence UFO Landing: A Look Back at the 1981...Very interesting case that gets virtually no notice in the U.S. I guess because...</p></details>

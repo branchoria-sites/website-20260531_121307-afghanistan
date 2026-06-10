@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-archive/
   short_title: Sightings Archive
   heading_title: Comprehensive Timeline of UFO Sightings in Bosnia
-date: '2026-06-09 01:19:59 '
+date: '2026-06-10 01:45:16 '
 header:
   og_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1-social.jpg
   preview_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illu
 
 ## Introduction
 
-Reports of unidentified flying objects in [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}) are geographically uneven rather than nationally uniform. Most documented sightings cluster around major urban centres such as Sarajevo, Tuzla and Banja Luka, where larger populations, wider internet access and more active local media make reporting more likely. At the same time, several of the country’s more unusual and persistent accounts come from sparsely populated rural districts, particularly in western Bosnia and the Posavina region. The resulting pattern is not one of clear “hotspots” in a scientific sense, but of uneven visibility shaped by population density, wartime history, mountainous terrain and the fragmented nature of civilian UFO reporting systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; B...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Reports of unidentified flying objects in [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}) are geographically uneven rather than nationally uniform. Most documented sightings cluster around major urban centres such as Sarajevo, Tuzla and Banja Luka, where larger populations, wider internet access and more active local media make reporting more likely. At the same time, several of the country’s more unusual and persistent accounts come from sparsely populated rural districts, particularly in western Bosnia and the Posavina region. The resulting pattern is not one of clear “hotspots” in a scientific sense, but of uneven visibility shaped by population density, wartime history, mountainous terrain and the fragmented nature of civilian UFO reporting systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; B...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1-dark.svg" | relative_url }}" alt="Regional Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -266,7 +266,7 @@ Unlike countries with centralised reporting agencies, Bosnia and Herzegovina rel
 
 Sarajevo accounts for a disproportionate share of publicly accessible UFO reports from Bosnia and Herzegovina. The capital’s large population, concentration of media outlets and relatively active online communities create conditions in which unusual aerial observations are more likely to be documented and archived.
 
-One example logged in the National UFO Reporting Center (NUFORC) database involved a 2021 sighting near the Bosmal City Centre district of Sarajevo. The witness described a luminous object visible for several minutes above the urban skyline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> Although the report contained no supporting imagery or radar confirmation, it illustrates a common pattern in Sarajevo cases: observations of lights or hovering objects over dense residential areas rather than close-range encounters.
+One example logged in the National UFO Reporting Center (NUFORC) database involved a 2021 sighting near the Bosmal City Centre district of Sarajevo. The witness described a luminous object visible for several minutes above the urban skyline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> Although the report contained no supporting imagery or radar confirmation, it illustrates a common pattern in Sarajevo cases: observations of lights or hovering objects over dense residential areas rather than close-range encounters.
 
 Urban geography also affects interpretation. Sarajevo sits in a valley surrounded by mountains, producing unusual light reflections, atmospheric distortions and restricted sightlines. Aircraft approaching Sarajevo International Airport can appear unusually low or stationary when viewed from certain districts, especially at night. These environmental factors complicate attempts to separate anomalous reports from conventional aviation or astronomical explanations.
 
@@ -276,7 +276,7 @@ Another factor is the city’s post-war infrastructure. International military f
 
 Tuzla Canton forms another noticeable reporting cluster. The region combines industrial zones, military history and active air traffic around Tuzla International Airport. Witness accounts from Tuzla frequently involve moving lights, formation patterns or rapidly changing brightness rather than clearly defined craft shapes.
 
-A 1997 report referenced in international UFO databases described unexplained lights near Tuzla, fitting a recurring pattern of distant nocturnal observations rather than close encounters. The area’s industrial illumination and open lowland terrain can make aerial lights highly visible over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 185547August 20, 2023 — 19 Dec 2024 — NUFORC UFO Sighting 185547; Occurred: 2021-07-26 22:36 Local; Reported...</span><span class="citation-popover-meta">Published: July 26, 2021</span></span></span>
+A 1997 report referenced in international UFO databases described unexplained lights near Tuzla, fitting a recurring pattern of distant nocturnal observations rather than close encounters. The area’s industrial illumination and open lowland terrain can make aerial lights highly visible over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185547August 20, 2023 — 19 Dec 2024 — NUFORC UFO Sighting 185547; Occurred: 2021-07-26 22:36 Local; Reported...</span><span class="citation-popover-meta">Published: July 26, 2021</span></span></span>
 
 More recent online discussions from Tuzla have centred on repeating light formations observed over several nights. These accounts often spread rapidly through social media before verification occurs. In many cases, no photographs, triangulated witness statements or official aviation data become available afterward, leaving the incidents unresolved but weakly evidenced.
 
@@ -291,14 +291,12 @@ Compared with Sarajevo, Tuzla reports tend to emerge from suburban and periphera
 
 Some of the more persistent Bosnian UFO narratives come from rural or semi-rural areas with limited light pollution. Brčko District, located in the north near the Sava River corridor, has generated several reports involving long-duration luminous objects.
 
-A notable NUFORC entry from October 2022 described a diamond-like illuminated object reportedly visible for an extended period over Brčko. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=p241222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Date Posted 241222August 20, 2023 — NUFORC Reports for Date Posted 241222; Open, 12/21/2024 10:53, Bosansko Gra...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> Reports of this kind differ from typical urban sightings because witnesses often describe slower movement and longer observation windows. Rural observers may spend more time outdoors at night and have broader visibility across open terrain, increasing the likelihood of prolonged visual tracking.
+A notable NUFORC entry from October 2022 described a diamond-like illuminated object reportedly visible for an extended period over Brčko. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=p241222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Date Posted 241222August 20, 2023 — NUFORC Reports for Date Posted 241222; Open, 12/21/2024 10:53, Bosansko Gra...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> Reports of this kind differ from typical urban sightings because witnesses often describe slower movement and longer observation windows. Rural observers may spend more time outdoors at night and have broader visibility across open terrain, increasing the likelihood of prolonged visual tracking.
 
 However, these same conditions also complicate verification. Bright planets, atmospheric inversions, drones and distant aircraft can appear highly unusual when viewed across dark rural landscapes. Without radar, multiple independent witnesses or photographic evidence, such cases remain anecdotal.
 
 Brčko’s strategic position along major transit routes may also contribute to misidentification. Commercial and military aircraft crossing the Balkans frequently pass through northern Bosnian airspace, particularly at night.
 
-
-<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" alt="Regional Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Bosansko Grahovo and Western Bosnia
 
 Western Bosnia, especially around Bosansko Grahovo, appears repeatedly in modern UFO databases despite its sparse population. One report filed in December 2024 described a large multicoloured triangular object moving above the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18579322 Dec 2024 — NUFORC UFO Sighting 185793. Occurred: 2024-12-21 10:53 Local - Approximate Reported: 2024-12-22 0...</span><span class="citation-popover-meta">Published: December 21, 2024</span></span></span>
@@ -309,6 +307,8 @@ At the same time, rural western Bosnia has long been associated with folklore an
 
 The scarcity of observers also creates a paradox: dramatic accounts from remote areas attract attention precisely because they are unusual, yet they are also the hardest to corroborate independently.
 
+
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" alt="Regional Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Regional Trends and Comparisons
 
 ### Why Reports Cluster Unevenly
@@ -329,8 +329,7 @@ Bosnia and Herzegovina’s UFO geography reflects reporting conditions more than
 NUFORC’s country-level listings indicate only a small overall number of reports from Bosnia and Herzegovina compared with larger European states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=59797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 59797Location: Banja Luka (Bosnia),, Bosnia and Herzegovina Shape: Triangle Characteristics: Lights on object 1993 i...</span></span></span> That low volume makes statistical interpretation difficult. A handful of submissions can temporarily make one region appear unusually active even when no sustained pattern exists.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" alt="Regional Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Urban-Rural Differences in Report Style
 
 Clear differences emerge between urban and rural sighting narratives:
@@ -338,9 +337,6 @@ Clear differences emerge between urban and rural sighting narratives:
 PatternUrban areasRural areasTypical descriptionLights, hovering objects, moving formationsLarge silent craft, glowing objects, shape-changing lightsObservation durationUsually briefOften longerLikely explanationsAircraft, drones, city lightingAstronomical objects, isolation effects, low-light misperceptionReporting behaviourMore frequent online submissionMore local storytelling and anecdotal circulationWitness densityHigher potential corroborationOften single or small-group witnesses
 
 Urban witnesses generally describe distant points of light or motion anomalies. Rural accounts more often include detailed shape descriptions such as triangles, discs or diamonds. This difference may partly reflect psychology: isolated observers in dark environments tend to perceive aerial objects as larger and closer than they actually are.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
 
 ### The Absence of a Confirmed National Hotspot
 
@@ -351,89 +347,48 @@ No Bosnian government agency has released region-by-region investigative data, a
 The overall regional picture therefore reflects a mixture of genuine witness experiences, environmental conditions, post-war social memory and uneven reporting practices rather than verified evidence of concentrated extraterrestrial activity.
 
 
-<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" alt="Regional Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Mapping UFO Sightings Across Bosnian Regions. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Mapping UFO Sightings Across Bosnian Regions, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Helps interpret regional clustering claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines geographic and cultural distribution of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for comparing regional sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides international context for reported hotspots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -467,59 +422,71 @@ The overall regional picture therefore reflects a mixture of genuine witness exp
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG OMNI Magazine Mixed Lot of 5, 1983-1986, UFOâ€™s, Bionicâ€™s Pull Out Poster Map"><img src="{{ '/assets/images/marketplace-covers/9124aac2f770a7a3725b.jpg' | relative_url }}" alt="Listing image for VTG OMNI Magazine Mixed Lot of 5, 1983-1986, UFOâ€™s, Bionicâ€™s Pull Out Poster Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VTG OMNI Magazine Mixed Lot of 5, 1983-1986, UFOâ€™s, Bionicâ€™s Pull Out Poster Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Sightings &amp; Close Encounters World Map Poster"><img src="{{ '/assets/images/marketplace-covers/629d077733042e165eee.jpg' | relative_url }}" alt="Listing image for UFO Sightings &amp; Close Encounters World Map Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Sightings &amp; Close Encounters World Map Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Map â€“ Mid-20th Century City Known for 1947 UFO Incident"><img src="{{ '/assets/images/marketplace-covers/1d7188be68951d1bc438.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Map â€“ Mid-20th Century City Known for 1947 UFO Incident" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Map â€“ Mid-20th Century City Known for 1947 UFO Incident</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-patterns-mapping-ufo-sightings-across-bosnian-regions-bosnia-and-herzegovina-ufo-poster-book-books-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -734,85 +701,85 @@ The overall regional picture therefore reflects a mixture of genuine witness exp
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; B...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; B...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185547](https://nuforc.org/sighting/?id=185547)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 185547August 20, 2023 — 19 Dec 2024 — NUFORC UFO Sighting 185547; Occurred: 2021-07-26 22:36 Local; Reported...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=185547" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185547</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185547August 20, 2023 — 19 Dec 2024 — NUFORC UFO Sighting 185547; Occurred: 2021-07-26 22:36 Local; Reported...</p></details>
    Published: July 26, 2021  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=p241222](https://nuforc.org/subndx/?id=p241222)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for Date Posted 241222August 20, 2023 — NUFORC Reports for Date Posted 241222; Open, 12/21/2024 10:53, Bosansko Gra...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=p241222" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p241222</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Date Posted 241222August 20, 2023 — NUFORC Reports for Date Posted 241222; Open, 12/21/2024 10:53, Bosansko Gra...</p></details>
    Published: August 20, 2023  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185793](https://nuforc.org/sighting/?id=185793)  
+   Link: <a href="https://nuforc.org/sighting/?id=185793" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185793</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18579322 Dec 2024 — NUFORC UFO Sighting 185793. Occurred: 2024-12-21 10:53 Local - Approximate Reported: 2024-12-22 0...</p></details>
    Published: December 21, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=59797](https://nuforc.org/sighting/?id=59797)  
+   Link: <a href="https://nuforc.org/sighting/?id=59797" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59797</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 59797Location: Banja Luka (Bosnia),, Bosnia and Herzegovina Shape: Triangle Characteristics: Lights on object 1993 i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=148723](https://nuforc.org/sighting/?id=148723)  
+   Link: <a href="https://nuforc.org/sighting/?id=148723" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=148723</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 148723Location: Barachi (Bosnia),, Bosnia and Herzegovina Shape: Circle Characteristics: Aura or haze around object...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lTX](https://nuforc.org/subndx/?id=lTX)  
+   Link: <a href="https://nuforc.org/subndx/?id=lTX" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lTX</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State TXNUFORC Reports for State TX.; Open, 05/23/2026 22:20, Boyd; Open, 05/16/2026 22:39, South Padre Island; Ope...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Me...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/newmap/](https://nuforc.org/newmap/)  
+   Link: <a href="https://nuforc.org/newmap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/newmap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New! UFO Sightings Map | NUFORC18 Dec 2023 — This map is an excellent tool for assessing the geographic distribution and concentration of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lOH](https://nuforc.org/subndx/?id=lOH)  
+   Link: <a href="https://nuforc.org/subndx/?id=lOH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State OHNUFORC Reports for State OH.; Open, 04/16/2026 23:25, Zanesville, OH, USA; Open, 04/14/2026 21:30, Cleveland...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e202512](https://nuforc.org/subndx/?id=e202512)  
+   Link: <a href="https://nuforc.org/subndx/?id=e202512" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202512</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 202512NUFORC Reports for Month 202512.; Open, 12/31/2025 23:19, Zvolen, Banskobystrický kraj, Slovakia; Open...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: euforbih.org  
-   Link: [https://www.euforbih.org/index.php/en/eufor-houses](https://www.euforbih.org/index.php/en/eufor-houses)  
+   Link: <a href="https://www.euforbih.org/index.php/en/eufor-houses" target="_blank" rel="noopener noreferrer nofollow">https://www.euforbih.org/index.php/en/eufor-houses</a>  
 
 16. <a id="endnote-16"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesIt contains per resident and per square km columns that provide information on how many UFO...</p></details>
 
 ### Additional References
@@ -820,45 +787,45 @@ The overall regional picture therefore reflects a mixture of genuine witness exp
 17. <a id="endnote-17"></a>
    Source: eu.boell.org  
    Title: lejla turcilo bosnia herzegovina and the eu  
-   Link: [https://eu.boell.org/sites/default/files/uploads/2013/12/lejla-turcilo-bosnia-herzegovina-and-the-eu.pdf](https://eu.boell.org/sites/default/files/uploads/2013/12/lejla-turcilo-bosnia-herzegovina-and-the-eu.pdf)  
+   Link: <a href="https://eu.boell.org/sites/default/files/uploads/2013/12/lejla-turcilo-bosnia-herzegovina-and-the-eu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eu.boell.org/sites/default/files/uploads/2013/12/lejla-turcilo-bosnia-herzegovina-and-the-eu.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turčilo - Bosnia-Herzegovina and the European Unionby L Turčilo · Cited by 18 — The progress report of the European Commission stated in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/606307082869043/posts/2757144011118662/](https://www.facebook.com/groups/606307082869043/posts/2757144011118662/)  
+   Link: <a href="https://www.facebook.com/groups/606307082869043/posts/2757144011118662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/606307082869043/posts/2757144011118662/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO building, Bosnia 🇧🇦5 May 2024 — UFO Spotted Above Bosnia, Casts Shadow on Building [http://www.ufosightingsblog](http://www.ufosightingsblog)... UFO were found in...</p></details>
    Published: May 2024  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: How Population Density Affects UFO Reporting  
-   Link: [https://www.youtube.com/watch?v=kYJzXw8J36k](https://www.youtube.com/watch?v=kYJzXw8J36k)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJzXw8J36k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJzXw8J36k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing UFO Sightings and Regional Patterns...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tIIiUQi4Gz0](https://www.youtube.com/watch?v=tIIiUQi4Gz0)  
+   Link: <a href="https://www.youtube.com/watch?v=tIIiUQi4Gz0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tIIiUQi4Gz0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Response 2025 – Day 2: Crowd Monitoring in Tuzla&quot;Combined Response 26&quot; Exercise at Manjača, Short Summary. European Union Force in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Analyzing UFO Sightings and Regional Patterns  
-   Link: [https://www.youtube.com/watch?v=Xh0mG44G_Lw](https://www.youtube.com/watch?v=Xh0mG44G_Lw)  
+   Link: <a href="https://www.youtube.com/watch?v=Xh0mG44G_Lw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0mG44G_Lw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Urban vs Rural Reporting Bias...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Geography and UFO Sighting Trends  
-   Link: [https://www.youtube.com/watch?v=h2q3n2ZlH5M](https://www.youtube.com/watch?v=h2q3n2ZlH5M)  
+   Link: <a href="https://www.youtube.com/watch?v=h2q3n2ZlH5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h2q3n2ZlH5M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Unidentified Aerial Phenomena...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: UFOs Urban vs Rural Reporting Bias  
-   Link: [https://www.youtube.com/watch?v=yW6R7Y0Yp2s](https://www.youtube.com/watch?v=yW6R7Y0Yp2s)  
+   Link: <a href="https://www.youtube.com/watch?v=yW6R7Y0Yp2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6R7Y0Yp2s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geography and UFO Sighting Trends...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Mapping Unidentified Aerial Phenomena  
-   Link: [https://www.youtube.com/watch?v=uD0l97k0r3c](https://www.youtube.com/watch?v=uD0l97k0r3c)  
+   Link: <a href="https://www.youtube.com/watch?v=uD0l97k0r3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD0l97k0r3c</a>  

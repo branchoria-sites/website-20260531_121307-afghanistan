@@ -239,7 +239,7 @@ prev_link:
   permalink: /skeptical-analysis/
   short_title: Skeptical Analysis
   heading_title: Skepticism and Evidence Review of Montenegrin UFOs
-date: '2026-06-09 01:34:45 '
+date: '2026-06-10 02:01:12 '
 header:
   og_image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-social.jpg
   preview_image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1.webp
@@ -248,19 +248,19 @@ image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration
 
 ## Introduction
 
-[Montenegro]({{ 'are-ufos-really-seen-over-montenegro/' | relative_url }})’s skies occasionally become the backdrop for **amateur clips and viral social media posts** claiming to show unexplained aerial phenomena. These posts—shared on platforms like Facebook, Instagram and YouTube—often depict **lights, shapes or movements that local observers describe as unusual**, sparking curiosity and debate within online communities. While these clips circulate widely and attract commentary, they **remain unverified and lack corroborating scientific or official investigation**, reflecting the broader pattern seen with civilian‑sourced footage rather than confirmed unidentified flying objects (UFOs) or UAP (Unidentified Aerial Phenomena). <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+Montenegro’s skies occasionally become the backdrop for **amateur clips and viral social media posts** claiming to show unexplained aerial phenomena. These posts—shared on platforms like Facebook, Instagram and YouTube—often depict **lights, shapes or movements that local observers describe as unusual**, sparking curiosity and debate within online communities. While these clips circulate widely and attract commentary, they **remain unverified and lack corroborating scientific or official investigation**, reflecting the broader pattern seen with civilian‑sourced footage rather than confirmed unidentified flying objects (UFOs) or UAP (Unidentified Aerial Phenomena). <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 
 
 <img src="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-dark.svg" | relative_url }}" alt="Viral Clips illustration 1" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Berane 2019 Video Clips: Mystery Lights on Facebook
 
-In November 2019, a video posted on the Facebook group **“Podgorički vremeplov”** purported to show a strange light or object above **Berane** in northern Montenegro. The clip quickly spread across local social media and was reposted by several news portals and regional sites, with commenters offering varied interpretations—from underwater drones or aerial lights to jokes about plastic bags caught in the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+In November 2019, a video posted on the Facebook group **“Podgorički vremeplov”** purported to show a strange light or object above **Berane** in northern Montenegro. The clip quickly spread across local social media and was reposted by several news portals and regional sites, with commenters offering varied interpretations—from underwater drones or aerial lights to jokes about plastic bags caught in the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 
-* **Content of the clip:** A bright, slow‑moving white light or shape visible against the night sky over Berane, lacking clear reference points for scale; users debated whether it was airborne or simply a drifting object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+* **Content of the clip:** A bright, slow‑moving white light or shape visible against the night sky over Berane, lacking clear reference points for scale; users debated whether it was airborne or simply a drifting object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 * **Online reactions:** Comments ranged from speculation about unmanned aerial vehicles (drones) to humorous suggestions of ordinary objects (e.g., wind‑blown plastic). Some reports extended the phenomenon to nearby towns like **Nikšić**, though with no substantiated footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espreso.co.rs">[espreso.co.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espreso.co.rs</span><span class="citation-popover-snippet">NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO)November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
 * **Verification status:** No official body confirmed the object’s nature or source, and the clip remains anecdotal social footage with no instrumental validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiosarajevo.ba">[Radiosarajevo.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiosarajevo.ba</span><span class="citation-popover-title">Ljudi u nevjerici: Čudni krug na nebu zapanjio Balkan</span><span class="citation-popover-snippet">November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
 
-These Berane posts illustrate how **social media can amplify uncertain visual anomalies** without established context or expert analysis, leaving interpretation open to community conjecture rather than empirical determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+These Berane posts illustrate how **social media can amplify uncertain visual anomalies** without established context or expert analysis, leaving interpretation open to community conjecture rather than empirical determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N7AnT-GiG3A" title="1997 The Phoenix Lights Caught On Camera! | UFO Witness Full Episode | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N7AnT-GiG3A" target="_blank" rel="noopener noreferrer">1997 The Phoenix Lights Caught On Camera! | UFO Witness Full Episode | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 296.8K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N7AnT-GiG3A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N7AnT-GiG3A">Open on YouTube</a></p></div></div></div>
@@ -298,7 +298,7 @@ In both cases, the viral spread of the clips owes more to **visual intrigue and 
 
 Across Montenegro’s social media landscape, several patterns emerge regarding footage of alleged aerial anomalies:
 
-* **Lack of verification:** None of the widely shared clips has been supported by **official verification, scientific analysis, radar tracking, or corroborated multi‑angle recordings**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+* **Lack of verification:** None of the widely shared clips has been supported by **official verification, scientific analysis, radar tracking, or corroborated multi‑angle recordings**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 * **Alternative explanations:** Ordinary phenomena—drones, satellites, aircraft lights, atmospheric conditions, and even drifting objects—are commonly suggested by observers and sceptics alike where clips are examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 * **Role of social platforms:** Viral sharing often emphasises **emotional reaction and speculation**, which can elevate ambiguous footage into narratives of mystery without establishing factual ground truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espreso.co.rs">[espreso.co.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espreso.co.rs</span><span class="citation-popover-snippet">NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO)November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
 
@@ -308,99 +308,57 @@ These limitations mean that, while social media footage contributes to **cultura
 <img src="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-3-dark.svg" | relative_url }}" alt="Viral Clips illustration 3" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Broader Patterns and Community Discourse
 
-Montenegrin online communities reflect a **microcosm of global social media engagement with aerial anomalies**: users share clips eagerly, offer diverse interpretations, and often move quickly between scepticism and belief. Although clips from areas like **Berane, Podgorica and Budva** generate engagement, their **ephemeral nature, lack of metadata and absence of expert validation** distinguish them from scientifically documented aerial phenomena studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+Montenegrin online communities reflect a **microcosm of global social media engagement with aerial anomalies**: users share clips eagerly, offer diverse interpretations, and often move quickly between scepticism and belief. Although clips from areas like **Berane, Podgorica and Budva** generate engagement, their **ephemeral nature, lack of metadata and absence of expert validation** distinguish them from scientifically documented aerial phenomena studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 
 This social dynamic underscores the importance of **contextualising viral footage within broader observational norms** (e.g., satellites, aircraft lights, atmospheric optics) and reserving claims of unexplained phenomena for cases with stronger empirical underpinnings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 
 ## Local Engagement vs. Empirical Evidence
 
-In Montenegro, viral videos of strange lights or shapes in the sky have undoubtedly captured attention, but they remain **cultural artefacts of online sharing** rather than confirmed UAP records. Community reaction often reflects **local curiosity, humour, and speculation**, not validated phenomena. Without corroborated data beyond social posts, these clips sit within the realm of **unverified eyewitness media**, useful for understanding popular interest but not for establishing scientific conclusions about aerial anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+In Montenegro, viral videos of strange lights or shapes in the sky have undoubtedly captured attention, but they remain **cultural artefacts of online sharing** rather than confirmed UAP records. Community reaction often reflects **local curiosity, humour, and speculation**, not validated phenomena. Without corroborated data beyond social posts, these clips sit within the realm of **unverified eyewitness media**, useful for understanding popular interest but not for establishing scientific conclusions about aerial anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qahexKe5Fvw" title="Pentagon RELEASES Creepy UFO Footage Of Rotating 8-Pointed Star; ‘OPHANIM’ Theory Goes Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qahexKe5Fvw" target="_blank" rel="noopener noreferrer">Pentagon RELEASES Creepy UFO Footage Of Rotating 8-Pointed Star; ‘OPHANIM’ Theory Goes Viral</a></p><p class="youtube-embed-meta">Channel: Oneindia News &middot; Views: 3.7K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qahexKe5Fvw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qahexKe5Fvw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Montenegro UFO Footage on Social Media. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Montenegro UFO Footage on Social Media, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses contemporary sightings, media circulation, and evidence issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps readers understand how visual sightings can be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for judging modern footage and eyewitness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how stories and reports spread through culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -434,75 +392,71 @@ In Montenegro, viral videos of strange lights or shapes in the sky have undoubte
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Cut Vinyl v2"><img src="{{ '/assets/images/marketplace-covers/363ae3bd666c4dfeb51c.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Cut Vinyl v2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Cut Vinyl v2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893"><img src="{{ '/assets/images/marketplace-covers/5521e38509112f04ae4c.jpg' | relative_url }}" alt="Listing image for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-clips-montenegro-ufo-footage-on-social-media-montenegro-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -717,138 +671,138 @@ In Montenegro, viral videos of strange lights or shapes in the sky have undoubte
 1. <a id="endnote-1"></a>
    Source: mondo.rs  
    Title: Berane snimak NLO | Mondo  
-   Link: [https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html](https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MondoBerane snimak NLO | Mondo...</p></details>
+   Link: <a href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow">https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Berane snimak NLO | Mondo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aloonline.ba  
    Title: Neobičan prizor na nebu iznad Crne Gore  
-   Link: [https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/](https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/)  
+   Link: <a href="https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/" target="_blank" rel="noopener noreferrer nofollow">https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/</a>  
 
 3. <a id="endnote-3"></a>
    Source: espreso.co.rs  
-   Link: [https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video](https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video)  
+   Link: <a href="https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video" target="_blank" rel="noopener noreferrer nofollow">https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO)November 12, 2019...</p></details>
    Published: November 12, 2019  
 
 4. <a id="endnote-4"></a>
    Source: radiosarajevo.ba  
    Title: Ljudi u nevjerici: Čudni krug na nebu zapanjio Balkan  
-   Link: [https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179](https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179)  
+   Link: <a href="https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179" target="_blank" rel="noopener noreferrer nofollow">https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 12, 2019...</p></details>
    Published: November 12, 2019  
 
 5. <a id="endnote-5"></a>
    Source: aloonline.ba  
-   Link: [https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html](https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html)  
+   Link: <a href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow">https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2025...</p></details>
    Published: June 17, 2025  
 
 6. <a id="endnote-6"></a>
    Source: ufosightingsfootage.uk  
    Title: What is This UFO in Budva, Montenegro it Looks So Unusual  
-   Link: [https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html](https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html)  
+   Link: <a href="https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hmmm!August 29, 2021...</p></details>
    Published: August 29, 2021  
 
 7. <a id="endnote-7"></a>
    Source: espreso.co.rs  
    Title: Ovo se ukazalo na nebu iznad Budve?  
-   Link: [https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video](https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video)  
+   Link: <a href="https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video" target="_blank" rel="noopener noreferrer nofollow">https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 18, 2023...</p></details>
    Published: June 18, 2023  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The SHOCKING Math Error Behind Viral UFO Videos | Mick West  
-   Link: [https://www.youtube.com/watch?v=ypfbhfEXnBo](https://www.youtube.com/watch?v=ypfbhfEXnBo)  
+   Link: <a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypfbhfEXnBo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1997 The Phoenix Lights Caught On Camera! | UFO Witness Full Episode | Discovery Channel India...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=N7AnT-GiG3A](https://www.youtube.com/watch?v=N7AnT-GiG3A)  
+   Link: <a href="https://www.youtube.com/watch?v=N7AnT-GiG3A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N7AnT-GiG3A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon RELEASES Creepy UFO Footage Of Rotating 8-Pointed Star; &#x27;OPHANIM&#x27; Theory Goes Viral...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qahexKe5Fvw](https://www.youtube.com/watch?v=qahexKe5Fvw)  
+   Link: <a href="https://www.youtube.com/watch?v=qahexKe5Fvw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qahexKe5Fvw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Eight-pointed ALIEN&#x27; seen in UAP FILES? Viral UFO footage sparks OPHANIM THEORY frenzy online...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0Xx_h4JOKGU](https://www.youtube.com/watch?v=0Xx_h4JOKGU)  
+   Link: <a href="https://www.youtube.com/watch?v=0Xx_h4JOKGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Xx_h4JOKGU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO File Release Triggered One Billion Global Hits | WION Podcast...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO File Release Triggered One Billion Global Hits | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=pImECg-NzX0](https://www.youtube.com/watch?v=pImECg-NzX0)  
+   Link: <a href="https://www.youtube.com/watch?v=pImECg-NzX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pImECg-NzX0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The video The SHOCKING Math Error Behind Viral UFO Videos | Mick West provides a highly relevant, expert breakdown of common perceptual a...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: 6yka.com  
-   Link: [https://6yka.com/region/gori-more-tope-se-planine-rijedak-fenomen-izazvao-haos-na-obali-budve-prizor-kao-iz-horor-filma-video/](https://6yka.com/region/gori-more-tope-se-planine-rijedak-fenomen-izazvao-haos-na-obali-budve-prizor-kao-iz-horor-filma-video/)  
+   Link: <a href="https://6yka.com/region/gori-more-tope-se-planine-rijedak-fenomen-izazvao-haos-na-obali-budve-prizor-kao-iz-horor-filma-video/" target="_blank" rel="noopener noreferrer nofollow">https://6yka.com/region/gori-more-tope-se-planine-rijedak-fenomen-izazvao-haos-na-obali-budve-prizor-kao-iz-horor-filma-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2024 — “GORI MORE, TOPE SE PLANINE”: RIJEDAK FENOMEN IZAZVAO HAOS NA OBALI BUDVE, PRIZOR KAO IZ HOROR FILMA (VIDEO) blic 18.08...</p></details>
    Published: August 18, 2024  
 
 14. <a id="endnote-14"></a>
    Source: onemanwolfpack.de  
-   Link: [https://www.onemanwolfpack.de/drone-videos/4k-drone-footage-the-beauty-of-montenegro-in-18-minutes-2019-cinematic-aerial-podgorica-skadar-bar/](https://www.onemanwolfpack.de/drone-videos/4k-drone-footage-the-beauty-of-montenegro-in-18-minutes-2019-cinematic-aerial-podgorica-skadar-bar/)  
+   Link: <a href="https://www.onemanwolfpack.de/drone-videos/4k-drone-footage-the-beauty-of-montenegro-in-18-minutes-2019-cinematic-aerial-podgorica-skadar-bar/" target="_blank" rel="noopener noreferrer nofollow">https://www.onemanwolfpack.de/drone-videos/4k-drone-footage-the-beauty-of-montenegro-in-18-minutes-2019-cinematic-aerial-podgorica-skadar-bar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One Man Wolf Pack – 〖4K〗Drone Footage | The Beauty of Montenegro in 18 Minutes 2019 | Cinematic Aerial Podgorica BalkansJune 14, 2019 — O...</p></details>
    Published: June 14, 2019  
 
 15. <a id="endnote-15"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html](https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2013 — PHOTOJOURNALIST CAPTURES UFO ACROSS THE SKIES OF MONTENEGRO ON CAMERA May 16, 2013 LUFOS Europe, UFO videos 1 Advertisemen...</p></details>
    Published: May 16, 2013  
 
 16. <a id="endnote-16"></a>
    Source: volimpodgoricu.me  
-   Link: [https://volimpodgoricu.me/novosti/drustvo/nlo-iznad-berana-ljudi-u-panici-misteriozna-pojava-na-nebu-uznemirila-sve-video](https://volimpodgoricu.me/novosti/drustvo/nlo-iznad-berana-ljudi-u-panici-misteriozna-pojava-na-nebu-uznemirila-sve-video)  
+   Link: <a href="https://volimpodgoricu.me/novosti/drustvo/nlo-iznad-berana-ljudi-u-panici-misteriozna-pojava-na-nebu-uznemirila-sve-video" target="_blank" rel="noopener noreferrer nofollow">https://volimpodgoricu.me/novosti/drustvo/nlo-iznad-berana-ljudi-u-panici-misteriozna-pojava-na-nebu-uznemirila-sve-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ljudi u panici! Misteriozna pojava na nebu uznemirila sve! (VIDEO)November 12, 2019 — NLO IZNAD BERANA?! Ljudi u panici! Misteriozna poja...</p></details>
    Published: November 12, 2019  
 
 17. <a id="endnote-17"></a>
    Source: soulask.com  
    Title: UF O over Montenegro captured on camera by photojournalist  
-   Link: [https://www.soulask.com/ufo-over-montenegro-captured-on-camera-by-photojournalist/](https://www.soulask.com/ufo-over-montenegro-captured-on-camera-by-photojournalist/)  
+   Link: <a href="https://www.soulask.com/ufo-over-montenegro-captured-on-camera-by-photojournalist/" target="_blank" rel="noopener noreferrer nofollow">https://www.soulask.com/ufo-over-montenegro-captured-on-camera-by-photojournalist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Montenegro captured on camera by photojournalistMay 15, 2013 — UFO OVER MONTENEGRO CAPTURED ON CAMERA BY PHOTOJOURNALIST Publish...</p></details>
    Published: May 15, 2013  
 
 18. <a id="endnote-18"></a>
    Source: en.vijesti.me  
    Title: me VIDE O Watch aerial footage from Piper and Smokovac  
-   Link: [https://en.vijesti.me/news-b/society/770395/video-watch-aerial-footage-from-Piper-and-Smokovac](https://en.vijesti.me/news-b/society/770395/video-watch-aerial-footage-from-Piper-and-Smokovac)  
+   Link: <a href="https://en.vijesti.me/news-b/society/770395/video-watch-aerial-footage-from-Piper-and-Smokovac" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/news-b/society/770395/video-watch-aerial-footage-from-Piper-and-Smokovac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch aerial footage from Piper and SmokovacAugust 12, 2025 — VIDEO WATCH AERIAL FOOTAGE FROM PIPER AND SMOKOVAC There are multiple activ...</p></details>
    Published: August 12, 2025  
 
 19. <a id="endnote-19"></a>
    Source: sd.rs  
    Title: pijavica u blizini budvanske obale 2023 12 22  
-   Link: [https://www.sd.rs/vesti/region/pijavica-u-blizini-budvanske-obale-2023-12-22](https://www.sd.rs/vesti/region/pijavica-u-blizini-budvanske-obale-2023-12-22)  
+   Link: <a href="https://www.sd.rs/vesti/region/pijavica-u-blizini-budvanske-obale-2023-12-22" target="_blank" rel="noopener noreferrer nofollow">https://www.sd.rs/vesti/region/pijavica-u-blizini-budvanske-obale-2023-12-22</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ZAŠTRAŠUJUĆA POJAVA NADOMAK OBALE: Vazdušni vrtlog se opasno približio Budvi (video)December 22, 2023 — ZAŠTRAŠUJUĆA POJAVA NADOMAK OBALE...</p></details>
    Published: December 22, 2023  
 
 20. <a id="endnote-20"></a>
    Source: sandzakdanas.rs  
    Title: (VIDEO) GRAĐANI NOVOG PAZARA U ŠOKU!  
-   Link: [https://www.sandzakdanas.rs/video-gradjani-novog-pazara-u-soku-tvrde-da-su-snimili-vanzemaljce-mobilnim-telefonima/](https://www.sandzakdanas.rs/video-gradjani-novog-pazara-u-soku-tvrde-da-su-snimili-vanzemaljce-mobilnim-telefonima/)  
+   Link: <a href="https://www.sandzakdanas.rs/video-gradjani-novog-pazara-u-soku-tvrde-da-su-snimili-vanzemaljce-mobilnim-telefonima/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandzakdanas.rs/video-gradjani-novog-pazara-u-soku-tvrde-da-su-snimili-vanzemaljce-mobilnim-telefonima/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tvrde da su snimili &quot;VANZEMALJCE&quot; mobilnim telefonima - Sandžak DanasJune 26, 2021 — (VIDEO) GRAĐANI NOVOG PAZARA U ŠOKU! TVRDE DA SU SNI...</p></details>
    Published: June 26, 2021  
 
 21. <a id="endnote-21"></a>
    Source: srpskainfo.com  
    Title: Dron u moru: Propao spektakl u Budvi  
-   Link: [https://srpskainfo.com/svijet/dron-u-moru-propao-spektakl-u-budvi/](https://srpskainfo.com/svijet/dron-u-moru-propao-spektakl-u-budvi/)  
+   Link: <a href="https://srpskainfo.com/svijet/dron-u-moru-propao-spektakl-u-budvi/" target="_blank" rel="noopener noreferrer nofollow">https://srpskainfo.com/svijet/dron-u-moru-propao-spektakl-u-budvi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2026 — (VIDEO) PROPAO SPEKTAKL U BUDVI OKO 600 DRONOVA PALO U MORE Najavljivan kao spektakl koji nikad nije viđen na ovim pros...</p></details>
    Published: January 1, 2026  
 
 22. <a id="endnote-22"></a>
    Source: mojacrnagora.com  
    Title: Slika dana 0 0 Tags:Bar Veliki pije  
-   Link: [https://www.mojacrnagora.com/slika-dana-2013-04-02-nlo-oblak-iznad-bara/](https://www.mojacrnagora.com/slika-dana-2013-04-02-nlo-oblak-iznad-bara/)  
+   Link: <a href="https://www.mojacrnagora.com/slika-dana-2013-04-02-nlo-oblak-iznad-bara/" target="_blank" rel="noopener noreferrer nofollow">https://www.mojacrnagora.com/slika-dana-2013-04-02-nlo-oblak-iznad-bara/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO oblak iznad Bara (02.04.2013.) - Moja Crna GoraApril 2, 2013 — NLO OBLAK IZNAD BARA (02.04.2013.) Bar, Foto: Arnela Agović Izvor: htt...</p></details>
    Published: April 2, 2013  

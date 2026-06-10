@@ -245,7 +245,7 @@ next_link:
   permalink: /post-2013-sightings/
   short_title: Post 2013 Sightings
   heading_title: Are Later Mauritius UFO Sightings Rocket Related?
-date: '2026-06-09 01:34:03 '
+date: '2026-06-10 01:59:38 '
 header:
   og_image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-
 
 ## Introduction
 
-The strongest conclusion from the public record of Mauritian UFO reports is not that the island has produced compelling evidence of extraordinary aerial phenomena, but that many of its most visible cases have ultimately proved explainable. [Mauritius]({{ 'what-really-happened-in-mauritius-sky/' | relative_url }}) has generated periodic UFO discussions through local media, social networks and eyewitness accounts, yet the evidential quality of most reports is low: photographs lack metadata, videos are short or heavily compressed, witness testimony is often second-hand, and precise observational details are frequently missing. In practice, the most widely publicised Mauritius-linked “UFO” event—the September 2013 sighting seen across Mauritius, Réunion and southern Africa—was traced to a Falcon 9 rocket upper-stage phenomenon rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceSpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
+The strongest conclusion from the public record of Mauritian UFO reports is not that the island has produced compelling evidence of extraordinary aerial phenomena, but that many of its most visible cases have ultimately proved explainable. Mauritius has generated periodic UFO discussions through local media, social networks and eyewitness accounts, yet the evidential quality of most reports is low: photographs lack metadata, videos are short or heavily compressed, witness testimony is often second-hand, and precise observational details are frequently missing. In practice, the most widely publicised Mauritius-linked “UFO” event—the September 2013 sighting seen across Mauritius, Réunion and southern Africa—was traced to a Falcon 9 rocket upper-stage phenomenon rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-dark.svg" | relative_url }}" alt="Debunked Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -307,11 +307,11 @@ To an observer unfamiliar with orbital operations, such displays can appear more
 This mechanism has repeatedly produced UFO reports worldwide, and Mauritius provides one of the clearest regional examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">23038 spacex falcon 9 rocket explosion rumors</span><span class="citation-popover-snippet">1 denying speculation that the upper stage of its Falcon 9 v1.1 rocket exploded on orbit following the rocket&#x27;s successful...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyxMpp2pgtI" title="SpaceX ABORTS Starship&#x27;s 8th Flight Test, a Falcon 9 EXPLODED, and FIREFLY LANDED ON THE MOON!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyxMpp2pgtI" target="_blank" rel="noopener noreferrer">SpaceX ABORTS Starship&#x27;s 8th Flight Test, a Falcon 9 EXPLODED, and FIREFLY LANDED ON THE MOON!</a></p><p class="youtube-embed-meta">Channel: Matt Lowne &middot; Views: 56.4K &middot; Uploaded: March 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyxMpp2pgtI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyxMpp2pgtI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/St-yEc6fyLg" title="Propellent Leak Ends SpaceX&#x27;s Launch Record" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=St-yEc6fyLg" target="_blank" rel="noopener noreferrer">Propellent Leak Ends SpaceX&#x27;s Launch Record</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 775.4K &middot; Uploaded: July 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=St-yEc6fyLg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=St-yEc6fyLg">Open on YouTube</a></p></div></div></div>
 
 ## The 2013 Falcon 9 Case: Mauritius' Best-Known Debunked UFO
 
-The most famous Mauritius UFO report occurred on 29 September 2013. Witnesses in Mauritius, Réunion and parts of southern Africa observed a bright glowing object in the night sky. Videos circulated rapidly and UFO speculation followed almost immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">UFOs and UAP: History, sightings and mysteries</span><span class="citation-popover-snippet">SpaceUFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</span><span class="citation-popover-meta">Published: October 29, 2021</span></span></span>
+The most famous Mauritius UFO report occurred on 29 September 2013. Witnesses in Mauritius, Réunion and parts of southern Africa observed a bright glowing object in the night sky. Videos circulated rapidly and UFO speculation followed almost immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">UFOs and UAP: History, sightings and mysteries</span><span class="citation-popover-snippet">UFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</span><span class="citation-popover-meta">Published: October 29, 2021</span></span></span>
 
 The case initially appeared unusual because the object:
 
@@ -325,7 +325,7 @@ The case initially appeared unusual because the object:
 
 </div>
 
-Subsequent investigation provided a much more conventional explanation. Astronomers and spaceflight observers connected the sighting to SpaceX's Falcon 9 v1.1 launch carrying the CASSIOPE satellite earlier that day. The luminous object was identified as fuel or propellant released by the rocket's upper stage rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceSpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">23038 spacex falcon 9 rocket explosion rumors</span><span class="citation-popover-snippet">1 denying speculation that the upper stage of its Falcon 9 v1.1 rocket exploded on orbit following the rocket&#x27;s successful...Read more...</span></span></span>
+Subsequent investigation provided a much more conventional explanation. Astronomers and spaceflight observers connected the sighting to SpaceX's Falcon 9 v1.1 launch carrying the CASSIOPE satellite earlier that day. The luminous object was identified as fuel or propellant released by the rocket's upper stage rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">23038 spacex falcon 9 rocket explosion rumors</span><span class="citation-popover-snippet">1 denying speculation that the upper stage of its Falcon 9 v1.1 rocket exploded on orbit following the rocket&#x27;s successful...Read more...</span></span></span>
 
 Independent satellite observers later reconstructed the event and linked the observed cloud to upper-stage activity associated with the mission. Discussions among astronomers and orbital trackers reached the same conclusion, identifying the phenomenon as a propellant cloud produced during post-launch operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Saw this tonight in Reunion Island, what is it??!</span><span class="citation-popover-snippet">r/AstronomySeptember 29, 2013 — Looks like we have a winner. That cloud is almost definitely propellant from the Falcon 9 upper stage aft...</span><span class="citation-popover-meta">Published: September 29, 2013</span></span></span>
 
@@ -350,7 +350,7 @@ Bright meteors can produce dramatic visual displays lasting several seconds. Fra
 Without triangulated observations or instrument records, these events are sometimes reported as structured craft rather than natural or technological objects.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/St-yEc6fyLg" title="Propellent Leak Ends SpaceX&#x27;s Launch Record" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=St-yEc6fyLg" target="_blank" rel="noopener noreferrer">Propellent Leak Ends SpaceX&#x27;s Launch Record</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 775.4K &middot; Uploaded: July 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=St-yEc6fyLg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=St-yEc6fyLg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8Ep7hDJj_Us" title="🚀 SpaceX&#x27;s ISS Deorbit Plan (Plus VIPER Rover Cancelled!) | This Week In Spaceflight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8Ep7hDJj_Us" target="_blank" rel="noopener noreferrer">🚀 SpaceX&#x27;s ISS Deorbit Plan (Plus VIPER Rover Cancelled!) | This Week In Spaceflight</a></p><p class="youtube-embed-meta">Channel: NASASpaceflight &middot; Views: 74.2K &middot; Uploaded: July 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8Ep7hDJj_Us" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8Ep7hDJj_Us">Open on YouTube</a></p></div></div></div>
 
 ### Atmospheric Optical Phenomena
 
@@ -398,9 +398,9 @@ The problem for most contested Mauritian reports is not that they have been conc
 
 When Mauritian UFO reports receive serious scrutiny, a relatively small set of explanations repeatedly emerges.
 
-**Rocket and upper-stage activity** is the most important category because it accounts for the island's most famous UFO event and can produce genuinely unusual visual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">UFOs and UAP: History, sightings and mysteries</span><span class="citation-popover-snippet">SpaceUFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</span><span class="citation-popover-meta">Published: October 29, 2021</span></span></span>
+**Rocket and upper-stage activity** is the most important category because it accounts for the island's most famous UFO event and can produce genuinely unusual visual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">UFOs and UAP: History, sightings and mysteries</span><span class="citation-popover-snippet">UFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</span><span class="citation-popover-meta">Published: October 29, 2021</span></span></span>
 
-**Astronomical misidentifications** are another common candidate. Bright planets, satellites and meteor events often appear unfamiliar to casual observers, especially when viewed under unusual atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">UFOs and UAP: History, sightings and mysteries</span><span class="citation-popover-snippet">SpaceUFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</span><span class="citation-popover-meta">Published: October 29, 2021</span></span></span>
+**Astronomical misidentifications** are another common candidate. Bright planets, satellites and meteor events often appear unfamiliar to casual observers, especially when viewed under unusual atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">UFOs and UAP: History, sightings and mysteries</span><span class="citation-popover-snippet">UFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</span><span class="citation-popover-meta">Published: October 29, 2021</span></span></span>
 
 **Perspective errors over the ocean** can distort estimates of size, speed and distance. A distant aircraft or bright celestial object may seem much closer than it actually is.
 
@@ -409,93 +409,51 @@ When Mauritian UFO reports receive serious scrutiny, a relatively small set of e
 These mechanisms do not explain every report individually, but they account for a substantial portion of the sightings that have generated public discussion.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8Ep7hDJj_Us" title="🚀 SpaceX&#x27;s ISS Deorbit Plan (Plus VIPER Rover Cancelled!) | This Week In Spaceflight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8Ep7hDJj_Us" target="_blank" rel="noopener noreferrer">🚀 SpaceX&#x27;s ISS Deorbit Plan (Plus VIPER Rover Cancelled!) | This Week In Spaceflight</a></p><p class="youtube-embed-meta">Channel: NASASpaceflight &middot; Views: 74.2K &middot; Uploaded: July 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8Ep7hDJj_Us" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8Ep7hDJj_Us">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nSLgsvg_jIw" title="SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting</a></p><p class="youtube-embed-meta">Channel: TRT World &middot; Views: 13.3K &middot; Uploaded: December 2017 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nSLgsvg_jIw">Open on YouTube</a></p></div></div></div>
 
 ## Sorting Fact from Fiction in Mauritius UFO Reports
 
 A critical review of low-grade and contested Mauritian UFO claims reveals a simple pattern: the most publicised cases tend to become less mysterious as more information becomes available. The [2013 Falcon 9]({{ '2013-falcon-9/' | relative_url }}) incident illustrates this clearly. What initially appeared to many witnesses as an unexplained aerial object was ultimately linked to a documented spaceflight event visible across a large region. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Saw this tonight in Reunion Island, what is it??!</span><span class="citation-popover-snippet">r/AstronomySeptember 29, 2013 — Looks like we have a winner. That cloud is almost definitely propellant from the Falcon 9 upper stage aft...</span><span class="citation-popover-meta">Published: September 29, 2013</span></span></span> The broader lesson is not that every Mauritian UFO report has been solved. Rather, it is that many reports begin with too little evidence to support extraordinary conclusions, while the best-known examples often yield conventional explanations once launch records, astronomical data and witness accounts are examined together. Within the Mauritius UFO record, rocket plumes, atmospheric effects and observational limitations provide far more explanatory power than claims of genuinely unknown technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Sorting Fact from Fiction in Mauritius UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Sorting Fact from Fiction in Mauritius UFO Reports, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Highly relevant to rumor, misinformation, and UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Focuses on how cases are investigated and explained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly supports evaluating and debunking extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Explains why people perceive patterns and mysteries in ambiguous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -529,59 +487,71 @@ A critical review of low-grade and contested Mauritian UFO claims reveals a simp
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/200 Falcon 9 Rocket Diecast Model SpaceX Reusable Booster Replica Collectible"><img src="https://i.ebayimg.com/images/g/FPYAAeSwQypoysv1/s-l225.jpg" alt="Listing image for 1/200 Falcon 9 Rocket Diecast Model SpaceX Reusable Booster Replica Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">1/200 Falcon 9 Rocket Diecast Model SpaceX Reusable Booster Replica Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacex Falcon 9 Crew Dragon Rocket Model - scale 1/48 1400mm 55inch - Assembled"><img src="https://i.ebayimg.com/images/g/EDcAAOSwUO1nL-ai/s-l225.jpg" alt="Listing image for Spacex Falcon 9 Crew Dragon Rocket Model - scale 1/48 1400mm 55inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">Spacex Falcon 9 Crew Dragon Rocket Model - scale 1/48 1400mm 55inch - Assembled</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled"><img src="https://i.ebayimg.com/images/g/vnMAAOSwbspm3zWU/s-l225.jpg" alt="Listing image for Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">Spacex Falcon 9 Crew Dragon Rocket Model - scale 76 760mm 30inch - Assembled</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Falcon 9 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Falcon 9 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Falcon+9+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Falcon 9 model" data-ebay-reference="sorting-fact-from-fiction-in-mauritius-ufo-reports-falcon-9-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-cases-sorting-fact-from-fiction-in-mauritius-ufo-reports-mauritius-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -795,119 +765,119 @@ A critical review of low-grade and contested Mauritian UFO claims reveals a simp
 
 1. <a id="endnote-1"></a>
    Source: space.com  
-   Link: [https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html](https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceSpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</p></details>
+   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</p></details>
    Published: September 30, 2013  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: 23038 spacex falcon 9 rocket explosion rumors  
-   Link: [https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html](https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html)  
+   Link: <a href="https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23038-spacex-falcon-9-rocket-explosion-rumors.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 denying speculation that the upper stage of its Falcon 9 v1.1 rocket exploded on orbit following the rocket&#x27;s successful...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: UFOs and UAP: History, sightings and mysteries  
-   Link: [https://www.space.com/ufos-uap-history-sightings-mysteries](https://www.space.com/ufos-uap-history-sightings-mysteries)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceUFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</p></details>
+   Link: <a href="https://www.space.com/ufos-uap-history-sightings-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufos-uap-history-sightings-mysteries</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAP: History, sightings and mysteriesOctober 29, 2021 — 29 Oct 2021 — Read on for a brief history of UFO sightings, potenti...</p></details>
    Published: October 29, 2021  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Saw this tonight in Reunion Island, what is it??!  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/](https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomySeptember 29, 2013 — Looks like we have a winner. That cloud is almost definitely propellant from the Falcon 9 upper stage aft...</p></details>
    Published: September 29, 2013  
 
 5. <a id="endnote-5"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: [https://www.spacex.com/updates](https://www.spacex.com/updates)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX - UpdatesStarship also has a connection point where propellants are loaded onto the vehicle in preparation for launch that has bee...</p></details>
+   Link: <a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UpdatesStarship also has a connection point where propellants are loaded onto the vehicle in preparation for launch that has bee...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Reality Check: 'Bad aliens' claims & questions about NASA secrecy | Backscroll  
-   Link: [https://www.youtube.com/watch?v=Rl_ImFZUOCE](https://www.youtube.com/watch?v=Rl_ImFZUOCE)  
+   Link: <a href="https://www.youtube.com/watch?v=Rl_ImFZUOCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rl_ImFZUOCE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Space X's Falcon 9 launch creates confusion over mistaken UFO sighting  
-   Link: [https://www.youtube.com/watch?v=nSLgsvg_jIw](https://www.youtube.com/watch?v=nSLgsvg_jIw)  
+   Link: <a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nSLgsvg_jIw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview: Mick West, Identifying UFOs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: eeas.europa.eu  
-   Link: [https://www.eeas.europa.eu/delegations/mauritius/mauritius-beyond-disinformation-round-table-media-civil-society-and-national-authorities_en](https://www.eeas.europa.eu/delegations/mauritius/mauritius-beyond-disinformation-round-table-media-civil-society-and-national-authorities_en)  
+   Link: <a href="https://www.eeas.europa.eu/delegations/mauritius/mauritius-beyond-disinformation-round-table-media-civil-society-and-national-authorities_en" target="_blank" rel="noopener noreferrer nofollow">https://www.eeas.europa.eu/delegations/mauritius/mauritius-beyond-disinformation-round-table-media-civil-society-and-national-authorities_en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>European External Action ServiceA round table for the media, civil society and national authoritiesWe have organised a round table on For...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/posts/spacexs-falcon-9-lit-up-the-evening-sky-sept-28-when-the-expanding-jellyfish-plu/1157135202943829/](https://www.facebook.com/spacecom/posts/spacexs-falcon-9-lit-up-the-evening-sky-sept-28-when-the-expanding-jellyfish-plu/1157135202943829/)  
+   Link: <a href="https://www.facebook.com/spacecom/posts/spacexs-falcon-9-lit-up-the-evening-sky-sept-28-when-the-expanding-jellyfish-plu/1157135202943829/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/spacexs-falcon-9-lit-up-the-evening-sky-sept-28-when-the-expanding-jellyfish-plu/1157135202943829/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 lit up the evening sky Sept. 28, when...SpaceX&#x27;s Falcon 9 lit up the evening sky Sept. 28, when the expanding &#x27;jellyfi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/CASSIOPE](https://en.wikipedia.org/wiki/CASSIOPE)  
+   Link: <a href="https://en.wikipedia.org/wiki/CASSIOPE" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CASSIOPE</a>  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WyxMpp2pgtI](https://www.youtube.com/watch?v=WyxMpp2pgtI)  
+   Link: <a href="https://www.youtube.com/watch?v=WyxMpp2pgtI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WyxMpp2pgtI</a>  
 
 12. <a id="endnote-12"></a>
    Source: forum.nasaspaceflight.com  
-   Link: [https://forum.nasaspaceflight.com/index.php?topic=31429.60](https://forum.nasaspaceflight.com/index.php?topic=31429.60)  
+   Link: <a href="https://forum.nasaspaceflight.com/index.php?topic=31429.60" target="_blank" rel="noopener noreferrer nofollow">https://forum.nasaspaceflight.com/index.php?topic=31429.60</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 v1.1 - CASSIOPE - September, 201330 Mar 2013 — SpaceX Falcon 9 v1.1 - CASSIOPE - September, 2013 - GENERAL DISCUSSION THREAD · 1...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/](https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/)  
+   Link: <a href="https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MK7st-tnpFc](https://www.youtube.com/watch?v=MK7st-tnpFc)  
+   Link: <a href="https://www.youtube.com/watch?v=MK7st-tnpFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MK7st-tnpFc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From skeptics to scientists: Debunking UFO hoaxesIs it a UFO, or merely a balloon? Local MUFON investigators tirelessly work through hoax...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=St-yEc6fyLg](https://www.youtube.com/watch?v=St-yEc6fyLg)  
+   Link: <a href="https://www.youtube.com/watch?v=St-yEc6fyLg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=St-yEc6fyLg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Propellent Leak Ends SpaceX&#x27;s Launch RecordSpaceX have suffered an incredibly rare failure of a Falcon 9 rocket a rocket which has been i...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: americaspace.com  
    Title: cassiope mission postponed following anomalies during hot fire test  
-   Link: [https://www.americaspace.com/2013/09/14/cassiope-mission-postponed-following-anomalies-during-hot-fire-test/](https://www.americaspace.com/2013/09/14/cassiope-mission-postponed-following-anomalies-during-hot-fire-test/)  
+   Link: <a href="https://www.americaspace.com/2013/09/14/cassiope-mission-postponed-following-anomalies-during-hot-fire-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.americaspace.com/2013/09/14/cassiope-mission-postponed-following-anomalies-during-hot-fire-test/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CASSIOPE Mission Delayed After &#x27;Anomalies&#x27; During Hot...14 Sept 2013 — CASSIOPE represents SpaceX&#x27;s first Falcon 9 mission on which a co...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mymodernmet/posts/last-week-some-people-thought-they-saw-a-ufo-but-really-it-was-a-mesmerizing-roc/10156011396789299/](https://www.facebook.com/mymodernmet/posts/last-week-some-people-thought-they-saw-a-ufo-but-really-it-was-a-mesmerizing-roc/10156011396789299/)  
+   Link: <a href="https://www.facebook.com/mymodernmet/posts/last-week-some-people-thought-they-saw-a-ufo-but-really-it-was-a-mesmerizing-roc/10156011396789299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mymodernmet/posts/last-week-some-people-thought-they-saw-a-ufo-but-really-it-was-a-mesmerizing-roc/10156011396789299/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reunion started reporting an unidentified object flying the sky about an hour after the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spaceXverse/posts/3556858611285805/](https://www.facebook.com/groups/spaceXverse/posts/3556858611285805/)  
+   Link: <a href="https://www.facebook.com/groups/spaceXverse/posts/3556858611285805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceXverse/posts/3556858611285805/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As usual for my location in Manchester UK we get clouds and...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rtenews/posts/a-mysterious-bright-object-spotted-in-irish-skies-was-likely-the-ejection-of-fue/1215175003968535/](https://www.facebook.com/rtenews/posts/a-mysterious-bright-object-spotted-in-irish-skies-was-likely-the-ejection-of-fue/1215175003968535/)  
+   Link: <a href="https://www.facebook.com/rtenews/posts/a-mysterious-bright-object-spotted-in-irish-skies-was-likely-the-ejection-of-fue/1215175003968535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/a-mysterious-bright-object-spotted-in-irish-skies-was-likely-the-ejection-of-fue/1215175003968535/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of fuel from a SpaceX Falcon 9 rocket, which launched from Florida...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: themuslimtimes.info  
    Title: The Muslim Times UFO in Mauritius?  
-   Link: [https://themuslimtimes.info/2013/09/29/ufo-in-mauritius-unidentified-flying-objects-spotted-in-paradise-island/](https://themuslimtimes.info/2013/09/29/ufo-in-mauritius-unidentified-flying-objects-spotted-in-paradise-island/)  
+   Link: <a href="https://themuslimtimes.info/2013/09/29/ufo-in-mauritius-unidentified-flying-objects-spotted-in-paradise-island/" target="_blank" rel="noopener noreferrer nofollow">https://themuslimtimes.info/2013/09/29/ufo-in-mauritius-unidentified-flying-objects-spotted-in-paradise-island/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects spotted in...29 Sept 2013 — An unidentified flying object was seen in the sky of Mauritius on September, 29...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: rsf.org  
-   Link: [https://rsf.org/en/five-journalists-targeted-wiretapping-mauritius-rsf-calls-independent-investigation](https://rsf.org/en/five-journalists-targeted-wiretapping-mauritius-rsf-calls-independent-investigation)  
+   Link: <a href="https://rsf.org/en/five-journalists-targeted-wiretapping-mauritius-rsf-calls-independent-investigation" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/five-journalists-targeted-wiretapping-mauritius-rsf-calls-independent-investigation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Five journalists targeted by wiretapping in Mauritius24 Oct 2024 — Five well-known journalists have been affected by these leaks, which i...</p></details>

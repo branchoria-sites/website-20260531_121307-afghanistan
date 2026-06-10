@@ -239,7 +239,7 @@ next_link:
   permalink: /soviet-records/
   short_title: Soviet Records
   heading_title: What Did Soviet Files Say About Ukrainian UFOs?
-date: '2026-06-09 01:43:43 '
+date: '2026-06-10 02:11:22 '
 header:
   og_image: /assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1-
 
 ## Introduction
 
-The “Kyiv phantoms” became one of the most discussed Ukrainian UFO claims of the 2020s because they appeared to come from astronomers using instrumented observations rather than eyewitness stories. In 2022, researchers associated with the Main Astronomical Observatory of the National Academy of Sciences of [Ukraine]({{ 'what-is-really-seen-over-ukraine/' | relative_url }}) reported detecting fast-moving dark objects over the Kyiv region using meteor-monitoring cameras. They called one class of these objects “Phantoms” and argued that some appeared to be tens of metres across and moving at extraordinary speeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.11215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena I</span><span class="citation-popover-snippet">Observations of eventsAugust 23, 2022 — by BE Zhilyaev · 2022 · Cited by 6 — NASA commissioned a research team to study Unidentified Aeri...</span><span class="citation-popover-meta">Published: August 23, 2022</span></span></span>
+The “Kyiv phantoms” became one of the most discussed Ukrainian UFO claims of the 2020s because they appeared to come from astronomers using instrumented observations rather than eyewitness stories. In 2022, researchers associated with the Main Astronomical Observatory of the National Academy of Sciences of Ukraine reported detecting fast-moving dark objects over the Kyiv region using meteor-monitoring cameras. They called one class of these objects “Phantoms” and argued that some appeared to be tens of metres across and moving at extraordinary speeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.11215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena I</span><span class="citation-popover-snippet">Observations of eventsAugust 23, 2022 — by BE Zhilyaev · 2022 · Cited by 6 — NASA commissioned a research team to study Unidentified Aeri...</span><span class="citation-popover-meta">Published: August 23, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1-dark.svg" | relative_url }}" alt="Kyiv Phantoms illustration 1" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ Without a reliable distance measurement, estimates of size and speed become high
 
 The Ukrainian researchers attempted to derive physical characteristics from image analysis and colourimetric methods. Their papers argued that atmospheric effects and brightness measurements could be used to estimate distance and therefore infer object size and velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369529382_Unidentified_aerial_phenomena_UAPs_over_Kyiv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Unidentified aerial phenomena</span><span class="citation-popover-snippet">UAPs over Kyiv25 Mar 2023 — The Main Astronomical Observatory of NAS of Ukraine conducts an independent study of UAP also. For UAP observ...</span></span></span>
 
-Critics argued that this was the weakest part of the analysis. Several reviewers noted that small changes in assumed reflectivity, atmospheric conditions or object darkness could radically alter the resulting estimates. One detailed technical critique pointed out that some reported size estimates varied dramatically depending on assumptions about an object's reflectance and interaction with atmospheric scattering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/za3p2w/the_ukrainian_uap_paper_reported_an_object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Ukrainian UAP paper reported an object tracked</span><span class="citation-popover-snippet">RedditThe Ukrainian UAP paper reported an object tracked...December 1, 2022 — Today&#x27;s release of UAP / UFO records had already been in t...</span><span class="citation-popover-meta">Published: December 1, 2022</span></span></span>
+Critics argued that this was the weakest part of the analysis. Several reviewers noted that small changes in assumed reflectivity, atmospheric conditions or object darkness could radically alter the resulting estimates. One detailed technical critique pointed out that some reported size estimates varied dramatically depending on assumptions about an object's reflectance and interaction with atmospheric scattering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/za3p2w/the_ukrainian_uap_paper_reported_an_object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Ukrainian UAP paper reported an object tracked</span><span class="citation-popover-snippet">The Ukrainian UAP paper reported an object tracked...December 1, 2022 — Today&#x27;s release of UAP / UFO records had already been in t...</span><span class="citation-popover-meta">Published: December 1, 2022</span></span></span>
 
 The consequence was profound. If the distance estimate dropped by a factor of ten, then an apparently enormous, hypersonic object could instead become a conventional nearby object moving at ordinary speeds.
 
@@ -319,15 +319,15 @@ Outside Ukraine, researchers and analysts raised several recurring concerns:
 
 **Insufficient methodological transparency**
 
-Reviewers noted that some calculations were difficult to reproduce from the information provided in the papers. Questions emerged about how distance estimates were generated and how uncertainties were propagated through later calculations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkUkrainian UAP Study: &quot;Observation of Events&quot;Aug 26, 2022 — UFOs and Aliens · Starflint · War.gov/UFO - Department of War Releases...</span></span></span>
+Reviewers noted that some calculations were difficult to reproduce from the information provided in the papers. Questions emerged about how distance estimates were generated and how uncertainties were propagated through later calculations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Ukrainian UAP Study: &quot;Observation of Events&quot;Aug 26, 2022 — UFOs and Aliens · Starflint · War.gov/UFO - Department of War Releases...</span></span></span>
 
 **Motion blur and image limitations**
 
-The observations involved extremely short-lived events recorded at high frame rates. Critics argued that blurred targets moving across a frame can mix with the background sky and distort measurements of colour, contrast and shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkUkrainian UAP Study: &quot;Observation of Events&quot;Aug 26, 2022 — UFOs and Aliens · Starflint · War.gov/UFO - Department of War Releases...</span></span></span>
+The observations involved extremely short-lived events recorded at high frame rates. Critics argued that blurred targets moving across a frame can mix with the background sky and distort measurements of colour, contrast and shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Ukrainian UAP Study: &quot;Observation of Events&quot;Aug 26, 2022 — UFOs and Aliens · Starflint · War.gov/UFO - Department of War Releases...</span></span></span>
 
 **Lack of independent confirmation**
 
-The claims attracted worldwide attention, but no independent observatory produced a matching body of evidence demonstrating the same extraordinary object characteristics over Kyiv. The absence of corroborating sensor data weakened confidence in the most dramatic interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">ukraine uap report debunked</span><span class="citation-popover-snippet">SpaceThere aren&#x27;t actually UFOs over Ukraine, experts say4 Nov 2022 — 9 strange, scientific excuses for why humans haven&#x27;t found aliens y...</span></span></span>
+The claims attracted worldwide attention, but no independent observatory produced a matching body of evidence demonstrating the same extraordinary object characteristics over Kyiv. The absence of corroborating sensor data weakened confidence in the most dramatic interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">ukraine uap report debunked</span><span class="citation-popover-snippet">There aren&#x27;t actually UFOs over Ukraine, experts say4 Nov 2022 — 9 strange, scientific excuses for why humans haven&#x27;t found aliens y...</span></span></span>
 
 **Wartime observational noise**
 
@@ -376,86 +376,44 @@ For Ukraine's broader UFO record, the Kyiv phantoms remain an important case not
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Were Kyiv&#x27;s Phantom Objects Really Extraordinary?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Were Kyiv&#x27;s Phantom Objects Really Extraordinary?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines cases supported by instruments and professional observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to interpreting observational data and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Adds broader context to recurring interpretations of anomalous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Highlights the challenge of distinguishing extraordinary claims from observational error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -489,75 +447,71 @@ For Ukraine's broader UFO record, the Kyiv phantoms remain an important case not
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kyiv-phantoms-were-kyiv-s-phantom-objects-really-extraordinary-ukraine-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -772,106 +726,106 @@ For Ukraine's broader UFO record, the Kyiv phantoms remain an important case not
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena I  
-   Link: [https://arxiv.org/abs/2208.11215](https://arxiv.org/abs/2208.11215)  
+   Link: <a href="https://arxiv.org/abs/2208.11215" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.11215</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observations of eventsAugust 23, 2022 — by BE Zhilyaev · 2022 · Cited by 6 — NASA commissioned a research team to study Unidentified Aeri...</p></details>
    Published: August 23, 2022  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena II  
-   Link: [https://arxiv.org/pdf/2211.17085](https://arxiv.org/pdf/2211.17085)  
+   Link: <a href="https://arxiv.org/pdf/2211.17085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2211.17085</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of UAP...by BE Zhilyaev · 2022 · Cited by 6 — The Main Astronomical Observatory of NAS of Ukraine conducts an independent stu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.01972](https://arxiv.org/abs/2210.01972)  
+   Link: <a href="https://arxiv.org/abs/2210.01972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.01972</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv&quot;Down to Earth&quot; Limits on Unidentified Aerial Phenomena in Ukraine (Comment on arXiv:2208.11215)...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/](https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkUkrainian UAP Study: &quot;Observation of Events&quot;Aug 26, 2022 — UFOs and Aliens · Starflint · War.gov/UFO - Department of War Releases...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukrainian UAP Study: &quot;Observation of Events&quot;Aug 26, 2022 — UFOs and Aliens · Starflint · War.gov/UFO - Department of War Releases...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena II  
-   Link: [https://arxiv.org/abs/2211.17085](https://arxiv.org/abs/2211.17085)  
+   Link: <a href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.17085</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of UAP...by BE Zhilyaev · 2022 · Cited by 6 — For UAP observations, we used two meteor stations installed in Kyiv and in the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Unidentified aerial phenomena  
-   Link: [https://www.researchgate.net/publication/369529382_Unidentified_aerial_phenomena_UAPs_over_Kyiv](https://www.researchgate.net/publication/369529382_Unidentified_aerial_phenomena_UAPs_over_Kyiv)  
+   Link: <a href="https://www.researchgate.net/publication/369529382_Unidentified_aerial_phenomena_UAPs_over_Kyiv" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369529382_Unidentified_aerial_phenomena_UAPs_over_Kyiv</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs over Kyiv25 Mar 2023 — The Main Astronomical Observatory of NAS of Ukraine conducts an independent study of UAP also. For UAP observ...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: ukraine ufo uap report  
-   Link: [https://www.space.com/ukraine-ufo-uap-report](https://www.space.com/ukraine-ufo-uap-report)  
+   Link: <a href="https://www.space.com/ukraine-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ukraine-ufo-uap-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Cosmic&#x27; and &#x27;phantom&#x27; UFOs are all over Ukraine&#x27;s skies...Sep 17, 2022 — Dozens of &#x27;phantom&#x27; and &#x27;cosmic&#x27; UFOs have been detected in th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: The Ukrainian UAP paper reported an object tracked  
-   Link: [https://www.reddit.com/r/UFOs/comments/za3p2w/the_ukrainian_uap_paper_reported_an_object/](https://www.reddit.com/r/UFOs/comments/za3p2w/the_ukrainian_uap_paper_reported_an_object/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Ukrainian UAP paper reported an object tracked...December 1, 2022 — Today&#x27;s release of UAP / UFO records had already been in t...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/za3p2w/the_ukrainian_uap_paper_reported_an_object/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/za3p2w/the_ukrainian_uap_paper_reported_an_object/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ukrainian UAP paper reported an object tracked...December 1, 2022 — Today&#x27;s release of UAP / UFO records had already been in t...</p></details>
    Published: December 1, 2022  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: ukraine uap report debunked  
-   Link: [https://www.space.com/ukraine-uap-report-debunked](https://www.space.com/ukraine-uap-report-debunked)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceThere aren&#x27;t actually UFOs over Ukraine, experts say4 Nov 2022 — 9 strange, scientific excuses for why humans haven&#x27;t found aliens y...</p></details>
+   Link: <a href="https://www.space.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ukraine-uap-report-debunked</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>There aren&#x27;t actually UFOs over Ukraine, experts say4 Nov 2022 — 9 strange, scientific excuses for why humans haven&#x27;t found aliens y...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85](https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85)  
+   Link: <a href="https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Medium“Down To Earth” Limits on Unidentified Aerial Phenomena in...A UFO Craft Too Big To Move? A massive UFO is hiding in a secret over...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: Unidentified Aerial Phenomena  
-   Link: [https://arxiv.org/html/2503.05627v1](https://arxiv.org/html/2503.05627v1)  
+   Link: <a href="https://arxiv.org/html/2503.05627v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05627v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterization of Dark...Feb 13, 2025 — EXCLUSIVE: Disk-shaped UFO filmed by Ukrainian military in combat zone.&quot; Report issue for prec...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: avi-loeb.medium.com  
    Title: open science and unidentified aerial phenomena 4873d3169383  
-   Link: [https://avi-loeb.medium.com/open-science-and-unidentified-aerial-phenomena-4873d3169383](https://avi-loeb.medium.com/open-science-and-unidentified-aerial-phenomena-4873d3169383)  
+   Link: <a href="https://avi-loeb.medium.com/open-science-and-unidentified-aerial-phenomena-4873d3169383" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/open-science-and-unidentified-aerial-phenomena-4873d3169383</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Unidentified Aerial Phenomena | by Avi LoebThe Ukranian astronomers saw the phantom objects as dark. This... UFO, Aliens Cra...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/xwxdhv/down_to_earth_limits_on_unidentified_aerial/](https://www.reddit.com/r/ufo/comments/xwxdhv/down_to_earth_limits_on_unidentified_aerial/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/xwxdhv/down_to_earth_limits_on_unidentified_aerial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/xwxdhv/down_to_earth_limits_on_unidentified_aerial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Down To Earth” Limits on Unidentified Aerial Phenomena in Ukraine... This &quot;analysis&quot; of his is more in-line with Mick West in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: (PDF) Unidentified aerial phenomena II  
-   Link: [https://www.researchgate.net/publication/365889706_Unidentified_aerial_phenomena_II_Evaluation_of_UAP_properties](https://www.researchgate.net/publication/365889706_Unidentified_aerial_phenomena_II_Evaluation_of_UAP_properties)  
+   Link: <a href="https://www.researchgate.net/publication/365889706_Unidentified_aerial_phenomena_II_Evaluation_of_UAP_properties" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365889706_Unidentified_aerial_phenomena_II_Evaluation_of_UAP_properties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of UAP...2 Dec 2022 — The Main Astronomical Observatory of NAS of Ukraine conducts an independent study of UAP also. For UAP...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2022/12/ufos-over-kyiv/](https://skepticalinquirer.org/2022/12/ufos-over-kyiv/)  
+   Link: <a href="https://skepticalinquirer.org/2022/12/ufos-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/12/ufos-over-kyiv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerUFOs over KyivUFOs over Kyiv · A composite image of three frames presented as a UFO but resembling an insect close to t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: livescience.com  
    Title: ukraine ufo uap report  
-   Link: [https://www.livescience.com/ukraine-ufo-uap-report](https://www.livescience.com/ukraine-ufo-uap-report)  
+   Link: <a href="https://www.livescience.com/ukraine-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ukraine-ufo-uap-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Science&#x27;Cosmic&#x27; and &#x27;phantom&#x27; UFOs are all over Ukraine&#x27;s skies...14 Sept 2022 — Dozens of &#x27;phantom&#x27; and &#x27;cosmic&#x27; UFOs have been de...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: livescience.com  
    Title: ukraine uap report debunked  
-   Link: [https://www.livescience.com/ukraine-uap-report-debunked](https://www.livescience.com/ukraine-uap-report-debunked)  
+   Link: <a href="https://www.livescience.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ukraine-uap-report-debunked</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there really UFOs flying over Ukraine?Oct 15, 2022 — A photo of a UFO taken in 1957 near Holloman Air Development Center, Alamagordo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
    Title: Unidentified Aerial Phenomena  
-   Link: [https://www.academia.edu/121508543/Unidentified_Aerial_Phenomena_Events_over_Kyiv_and_New_York](https://www.academia.edu/121508543/Unidentified_Aerial_Phenomena_Events_over_Kyiv_and_New_York)  
+   Link: <a href="https://www.academia.edu/121508543/Unidentified_Aerial_Phenomena_Events_over_Kyiv_and_New_York" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121508543/Unidentified_Aerial_Phenomena_Events_over_Kyiv_and_New_York</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Events over Kyiv and New...We present observations of objects of the Unidentified Aerial Phenomena (UAP) class in Kyiv and New York. Bot...</p></details>
 
 ### Additional References
@@ -879,54 +833,54 @@ For Ukraine's broader UFO record, the Kyiv phantoms remain an important case not
 19. <a id="endnote-19"></a>
    Source: thealphacentauri.net  
    Title: Космічні об'єкти світяться яскравіше фону неба. Фантоми – це темні об'єкти з  
-   Link: [https://thealphacentauri.net/126562-naukovci-zafiksuvali-uap-v-nebi-kiyeva/](https://thealphacentauri.net/126562-naukovci-zafiksuvali-uap-v-nebi-kiyeva/)  
+   Link: <a href="https://thealphacentauri.net/126562-naukovci-zafiksuvali-uap-v-nebi-kiyeva/" target="_blank" rel="noopener noreferrer nofollow">https://thealphacentauri.net/126562-naukovci-zafiksuvali-uap-v-nebi-kiyeva/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alpha CentauriНауковці зафіксували UAP в небі Києва - Alpha Centauri15 Sept 2022 — Існує два типи UAP, які умовно називаються Cosmics і P...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: english.nv.ua  
    Title: ukrainian astronomers observe bizarre aerial phenomena over kyiv 50269993  
-   Link: [https://english.nv.ua/nation/ukrainian-astronomers-observe-bizarre-aerial-phenomena-over-kyiv-50269993.html](https://english.nv.ua/nation/ukrainian-astronomers-observe-bizarre-aerial-phenomena-over-kyiv-50269993.html)  
+   Link: <a href="https://english.nv.ua/nation/ukrainian-astronomers-observe-bizarre-aerial-phenomena-over-kyiv-50269993.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/ukrainian-astronomers-observe-bizarre-aerial-phenomena-over-kyiv-50269993.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>astronomers observe bizarre aerial phenomena...14 Sept 2022 — Astronomers from Ukraine&#x27;s National Science Academy have observed “unident...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GeoEnglishdotTV/posts/ukrainian-scientists-claim-they-have-seen-multiple-ufos-in-a-paper-published-in-/5904616729593702/](https://www.facebook.com/GeoEnglishdotTV/posts/ukrainian-scientists-claim-they-have-seen-multiple-ufos-in-a-paper-published-in-/5904616729593702/)  
+   Link: <a href="https://www.facebook.com/GeoEnglishdotTV/posts/ukrainian-scientists-claim-they-have-seen-multiple-ufos-in-a-paper-published-in-/5904616729593702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GeoEnglishdotTV/posts/ukrainian-scientists-claim-they-have-seen-multiple-ufos-in-a-paper-published-in-/5904616729593702/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oil painting by me drawn in honor of the publication by my country&#x27;s astronomers the results of UFO...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: salon.com  
    Title: physicist avi loeb ufos over ukraine are not as otherwordly as they seem  
-   Link: [https://www.salon.com/2022/10/09/physicist-avi-loeb-ufos-over-ukraine-are-not-as-otherwordly-as-they-seem/](https://www.salon.com/2022/10/09/physicist-avi-loeb-ufos-over-ukraine-are-not-as-otherwordly-as-they-seem/)  
+   Link: <a href="https://www.salon.com/2022/10/09/physicist-avi-loeb-ufos-over-ukraine-are-not-as-otherwordly-as-they-seem/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2022/10/09/physicist-avi-loeb-ufos-over-ukraine-are-not-as-otherwordly-as-they-seem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicist Avi Loeb: UFOs over Ukraine are not as...9 Oct 2022 — The Ukrainian astronomers saw the phantom objects as dark.... In a stra...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mao.kiev.ua  
-   Link: [https://www.mao.kiev.ua/index.php/en/forum/info/678-astronomical-observations-of-ufos](https://www.mao.kiev.ua/index.php/en/forum/info/678-astronomical-observations-of-ufos)  
+   Link: <a href="https://www.mao.kiev.ua/index.php/en/forum/info/678-astronomical-observations-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.mao.kiev.ua/index.php/en/forum/info/678-astronomical-observations-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The characteristics of the UFO were analyzed quantitatively. The observational and...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mezha.ua  
-   Link: [https://mezha.ua/en/2022/09/14/ukraine-s-astronomers-say-there-are-tons-of-ufos-over-kyiv/](https://mezha.ua/en/2022/09/14/ukraine-s-astronomers-say-there-are-tons-of-ufos-over-kyiv/)  
+   Link: <a href="https://mezha.ua/en/2022/09/14/ukraine-s-astronomers-say-there-are-tons-of-ufos-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://mezha.ua/en/2022/09/14/ukraine-s-astronomers-say-there-are-tons-of-ufos-over-kyiv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine&#x27;s astronomers say there are tons of UFOs over Kyiv14 Sept 2022 — Scientists divided their observations into two categories: cosmi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: THESE THINGS ARE EVERYWHERE IN THE SKIES OF UKRAINE  
-   Link: [https://www.youtube.com/watch?v=eQ2hgsEF4kQ](https://www.youtube.com/watch?v=eQ2hgsEF4kQ)  
+   Link: <a href="https://www.youtube.com/watch?v=eQ2hgsEF4kQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eQ2hgsEF4kQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER UKRAINE? DRONEWATCHERS noticed it! Shocking secrets of the PENTAGON. And what ASTRONAUTS...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: yahoo.com  
    Title: arent actually ufos over ukraine 170008050  
-   Link: [https://www.yahoo.com/news/arent-actually-ufos-over-ukraine-170008050.html](https://www.yahoo.com/news/arent-actually-ufos-over-ukraine-170008050.html)  
+   Link: <a href="https://www.yahoo.com/news/arent-actually-ufos-over-ukraine-170008050.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/arent-actually-ufos-over-ukraine-170008050.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There aren&#x27;t actually UFOs over Ukraine, experts say19 Oct 2022 — A recent report about pitch-black &quot;phantom&quot; UFOs in the skies over Ukra...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/](https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/)  
+   Link: <a href="https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ne larger than entire cities combined. #UFO #spaceship #aliens #...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/](https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/)  
+   Link: <a href="https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion stories that people dismissed the idea, making any serious...</p></details>

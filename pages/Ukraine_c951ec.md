@@ -1185,7 +1185,7 @@ next_link:
   title: Rwanda UFOs
   permalink: /what-is-rwandas-real-ufo-record/
   short_title: Rwanda UFOs
-date: '2026-06-09 01:43:41 '
+date: '2026-06-10 02:11:20 '
 header:
   og_image: /assets/images/Ukraine_c951ec-overview-social.jpg
   preview_image: /assets/images/Ukraine_c951ec-overview.webp
@@ -1255,7 +1255,7 @@ For Ukraine, the practical rule is simple: wartime UFO reports should be treated
 
 The most visible recent Ukrainian case is a reported drone video of a six-pointed or star-like object, discussed in May 2026 after Beskrestnov’s posts. Kyiv Post described the footage as showing a spherical object with six pointed cones and a heat plume, reportedly filmed during combat operations. Universe Today Ukraine similarly reported that footage was said to have been captured by a drone near an unidentified object at roughly 800 metres above the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kyivpost.com/post/75962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kyivpost.com">[Kyiv Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kyivpost.com</span><span class="citation-popover-title">Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO</span><span class="citation-popover-snippet">Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO</span></span></span>
 
-The case remains unresolved publicly because the strongest necessary materials are missing: original full-resolution files, sensor metadata, exact location, exact time, independent radar or optical corroboration, and a clear chain of custody. Open-source analysts on Metabunk treated the footage cautiously, proposing possibilities such as an infrared decoy, a balloon-mounted object, optical diffraction spikes, reflection in a gimbal dome, or CGI. The discussion also noted that the star shape appeared to remain level relative to the sensor in part of the footage, which raises the possibility of a camera or optical effect rather than a solid object rotating in space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Ukrainian drone footage of 6 pointed star | Metabunk</span><span class="citation-popover-snippet">Ukrainian drone footage of 6 pointed star | Metabunk</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">ukrainian uap study observation of events.12607</span><span class="citation-popover-snippet">ukrainian uap study observation of events.12607</span></span></span>
+The case remains unresolved publicly because the strongest necessary materials are missing: original full-resolution files, sensor metadata, exact location, exact time, independent radar or optical corroboration, and a clear chain of custody. Open-source analysts on Metabunk treated the footage cautiously, proposing possibilities such as an infrared decoy, a balloon-mounted object, optical diffraction spikes, reflection in a gimbal dome, or CGI. The discussion also noted that the star shape appeared to remain level relative to the sensor in part of the footage, which raises the possibility of a camera or optical effect rather than a solid object rotating in space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Ukrainian drone footage of 6 pointed star &#124; Metabunk</span><span class="citation-popover-snippet">Ukrainian drone footage of 6 pointed star &#124; Metabunk</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">ukrainian uap study observation of events.12607</span><span class="citation-popover-snippet">ukrainian uap study observation of events.12607</span></span></span>
 
 This does not mean the video is fake, nor that it is solved. It means the public evidence is not yet strong enough to support an extraordinary interpretation. In a combat zone, a strange thermal or optical signature could matter greatly even if it is entirely human-made. The responsible classification is **unresolved, security-relevant, and technically underdetermined**.
 
@@ -1310,86 +1310,44 @@ A useful Ukrainian UFO case is not one that looks strangest at first glance; it 
 3. **Is there independent corroboration?** A drone video plus radar, a second camera, or multiple separated observers is stronger than one cropped clip.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen Over Ukraine?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really Seen Over Ukraine?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Matches a national overview focused on evidence and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how UFO narratives evolve across societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains classification and investigation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers contemporary debates around government and military reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1423,75 +1381,71 @@ A useful Ukrainian UFO case is not one that looks strangest at first glance; it 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/7ae8927cdce392277bf9.jpg' | relative_url }}" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids"><img src="{{ '/assets/images/marketplace-covers/cc9e0b91f8fab38b59b8.jpg' | relative_url }}" alt="Listing image for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer">Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="{{ '/assets/images/marketplace-covers/48889efbde16b68ab3b8.jpg' | relative_url }}" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Phantom 4 Drone with 4K Camera Model WM330A Includes Drone, Props, and Case"><img src="{{ '/assets/images/marketplace-covers/92a2e777c5e069287d5c.jpg' | relative_url }}" alt="Listing image for DJI Phantom 4 Drone with 4K Camera Model WM330A Includes Drone, Props, and Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Phantom 4 Drone with 4K Camera Model WM330A Includes Drone, Props, and Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket-pro" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="what-is-really-seen-over-ukraine-ukraine-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ukraine-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1727,168 +1681,168 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Most UAP sightings have no data associated with them beyond an often vague narrative account...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: uapcheck.com  
    Title: ufology in ukraine interview with igor kalytyukpart 1  
-   Link: [https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/](https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/)  
+   Link: <a href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Check...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufology-news.com  
-   Link: [https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf](https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf)  
+   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: uapcheck.com  
    Title: 2024 07 06 a short history of ufo research in the former soviet union  
-   Link: [https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/](https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/)  
+   Link: <a href="https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena II. Evaluation of UAP properties  
-   Link: [https://arxiv.org/abs/2211.17085](https://arxiv.org/abs/2211.17085)  
+   Link: <a href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.17085</a>  
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: Ukrainian drone footage of 6 pointed star | Metabunk  
-   Link: [https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/](https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/)  
+   Link: <a href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 8. <a id="endnote-8"></a>
    Source: ufology-news.com  
    Title: AN D «HERITAGE» FOR THE SAVING OF UAP-ARCHIVES  
-   Link: [https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf](https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf)  
+   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2503.05627v1](https://arxiv.org/html/2503.05627v1)  
+   Link: <a href="https://arxiv.org/html/2503.05627v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05627v1</a>  
 
 10. <a id="endnote-10"></a>
    Source: metabunk.org  
    Title: ukrainian uap study observation of events.12607  
-   Link: [https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/](https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/)  
+   Link: <a href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/</a>  
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: UF Os and Aliens Ukrainian drone footage of 6 pointed star · Harabeck ·  
-   Link: [https://www.metabunk.org/forums/ufos-and-aliens.10/](https://www.metabunk.org/forums/ufos-and-aliens.10/)  
+   Link: <a href="https://www.metabunk.org/forums/ufos-and-aliens.10/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufos-and-aliens.10/</a>  
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/forums/](https://www.metabunk.org/forums/)  
+   Link: <a href="https://www.metabunk.org/forums/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/</a>  
 
 13. <a id="endnote-13"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/](https://www.metabunk.org/)  
+   Link: <a href="https://www.metabunk.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/</a>  
 
 14. <a id="endnote-14"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/tags/uap/](https://www.metabunk.org/tags/uap/)  
+   Link: <a href="https://www.metabunk.org/tags/uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/uap/</a>  
 
 15. <a id="endnote-15"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/forums/general-discussion.2/](https://www.metabunk.org/forums/general-discussion.2/)  
+   Link: <a href="https://www.metabunk.org/forums/general-discussion.2/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/general-discussion.2/</a>  
 
 16. <a id="endnote-16"></a>
    Source: ufology-news.com  
    Title: Bilyk A. Anomalous phenomena methodology and practice of research 2015  
-   Link: [https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf](https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf)  
+   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: ufology-news.com  
    Title: Bilyk A. Anomalous Phenomena methodology and practice of research 2020  
-   Link: [https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf](https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf)  
+   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: ufology-news.com  
-   Link: [https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf](https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf)  
+   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: UAP data released: Astrophysicist Avi Loeb breaks down declassified records  
-   Link: [https://www.youtube.com/watch?v=ur0QX1eGCQI](https://www.youtube.com/watch?v=ur0QX1eGCQI)  
+   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb - Medium...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/](https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
 
 22. <a id="endnote-22"></a>
    Source: universemagazine.com  
-   Link: [https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk](https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk)  
+   Link: <a href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk</a>  
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs over Kyiv | Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/2022/12/ufos-over-kyiv/](https://skepticalinquirer.org/2022/12/ufos-over-kyiv/)  
+   Link: <a href="https://skepticalinquirer.org/2022/12/ufos-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/12/ufos-over-kyiv/</a>  
 
 24. <a id="endnote-24"></a>
    Source: kyivpost.com  
    Title: Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO  
-   Link: [https://www.kyivpost.com/post/75962](https://www.kyivpost.com/post/75962)  
+   Link: <a href="https://www.kyivpost.com/post/75962" target="_blank" rel="noopener noreferrer nofollow">https://www.kyivpost.com/post/75962</a>  
 
 25. <a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
 26. <a id="endnote-26"></a>
    Source: themoscowtimes.com  
-   Link: [https://www.themoscowtimes.com/all/52335?amp=1](https://www.themoscowtimes.com/all/52335?amp=1)  
+   Link: <a href="https://www.themoscowtimes.com/all/52335?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/all/52335?amp=1</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO OVER UKRAINE? DRONEWATCHERS noticed it! Shocking secrets of the PENTAGON  
-   Link: [https://www.youtube.com/watch?v=OCeRUNRqebU](https://www.youtube.com/watch?v=OCeRUNRqebU)  
+   Link: <a href="https://www.youtube.com/watch?v=OCeRUNRqebU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCeRUNRqebU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: UFOs OVER UKRAINE? Why the US IS HIDING THE TRUTH about aliens  
-   Link: [https://www.youtube.com/watch?v=0oo9s_SlsL8](https://www.youtube.com/watch?v=0oo9s_SlsL8)  
+   Link: <a href="https://www.youtube.com/watch?v=0oo9s_SlsL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0oo9s_SlsL8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER UKRAINE? DRONEWATCHERS noticed it! Shocking secrets of the PENTAGON...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Ukraine's astronomers say there are tons of UFOs over Kyiv  
-   Link: [https://www.youtube.com/watch?v=h4g51PIm1sc](https://www.youtube.com/watch?v=h4g51PIm1sc)  
+   Link: <a href="https://www.youtube.com/watch?v=h4g51PIm1sc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4g51PIm1sc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER UKRAINE? Why the US IS HIDING THE TRUTH about aliens...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/](https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/)  
+   Link: <a href="https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/</a>  
 
 33. <a id="endnote-33"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv](https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv)  
+   Link: <a href="https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYpsMN5EeHZ/](https://www.instagram.com/p/DYpsMN5EeHZ/)  
+   Link: <a href="https://www.instagram.com/p/DYpsMN5EeHZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYpsMN5EeHZ/</a>  
 
 35. <a id="endnote-35"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/](https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/</a>  

@@ -239,7 +239,7 @@ prev_link:
   permalink: /nuforc-reports/
   short_title: NUFORC Reports
   heading_title: What NUFORC Adds To Somalia's UFO Record
-date: '2026-06-09 01:40:40 '
+date: '2026-06-10 02:07:49 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_somali_ufo_timeline_0f4082-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_somali_ufo_timeline_0f4082-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Somalia_4dfdf1_somali_ufo_timeline_0f4082-Illustration-1-s
 
 ## Introduction
 
-[Somalia]({{ 'what-do-somalias-ufo-reports-really-show/' | relative_url }})’s public UFO timeline is unusually short, fragmented and difficult to verify. Unlike countries with long-running civilian UFO organisations, newspaper archives or declassified investigation files, Somalia’s surviving record is scattered across local radio reports, internet reposts, international UFO databases and a handful of archived discussions. The result is a chronology that contains several recurring dates but very little stable evidence.
+Somalia’s public UFO timeline is unusually short, fragmented and difficult to verify. Unlike countries with long-running civilian UFO organisations, newspaper archives or declassified investigation files, Somalia’s surviving record is scattered across local radio reports, internet reposts, international UFO databases and a handful of archived discussions. The result is a chronology that contains several recurring dates but very little stable evidence.
 
 
 <img src="{{ "/assets/images/Somalia_4dfdf1_somali_ufo_timeline_0f4082-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Somalia_4dfdf1_somali_ufo_timeline_0f4082-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Somalia_4dfdf1_somali_ufo_timeline_0f4082-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Each layer reveals different problems of reliability and preservation.
 
 The earliest Somalia-related UFO event regularly repeated online is a claim that a UFO crashed or was brought down in Somalia on 5 December 1995.
 
-The problem is that virtually all surviving references point back to UFO crash lists rather than independent reporting. The claim appears in archived UFO discussions and catalogue-style compilations that provide little more than a date and country. No known witness testimony, photographs, government records, debris analysis or contemporary Somali news coverage have surfaced publicly. The surviving references are largely derivative, with later writers repeating earlier lists rather than presenting new evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/671336928/UFO-Archive-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UFO Archive Record | PDFUFO Archive record</span><span class="citation-popover-snippet">ScribdUFO Archive Record | PDFUFO Archive record - Free download as PDF File (.pdf) or read online for free. This 62-page document contai...</span></span></span>
+The problem is that virtually all surviving references point back to UFO crash lists rather than independent reporting. The claim appears in archived UFO discussions and catalogue-style compilations that provide little more than a date and country. No known witness testimony, photographs, government records, debris analysis or contemporary Somali news coverage have surfaced publicly. The surviving references are largely derivative, with later writers repeating earlier lists rather than presenting new evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/671336928/UFO-Archive-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UFO Archive Record &#124; PDFUFO Archive record</span><span class="citation-popover-snippet">UFO Archive Record &#124; PDFUFO Archive record - Free download as PDF File (.pdf) or read online for free. This 62-page document contai...</span></span></span>
 
 This makes the 1995 incident important mainly as an example of how weak claims entered the Somali UFO timeline. It remains one of the most frequently repeated Somalia UFO references despite having some of the thinnest documentation.
 
@@ -361,7 +361,7 @@ For historians of Somali UFO claims, the 2018 event illustrates how modern conne
 
 A large portion of Somalia's surviving UFO chronology now exists because international databases preserved entries that might otherwise have vanished.
 
-The National UFO Reporting Center (NUFORC) maintains country-based indices and has recorded only a very small number of Somalia-related reports compared with countries that possess extensive civilian reporting cultures. The small dataset itself has become part of the historical record because it provides fixed reference points for later researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationSomalia... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orell...</span></span></span>
+The National UFO Reporting Center (NUFORC) maintains country-based indices and has recorded only a very small number of Somalia-related reports compared with countries that possess extensive civilian reporting cultures. The small dataset itself has become part of the historical record because it provides fixed reference points for later researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationSomalia... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orell...</span></span></span>
 
 This creates an unusual situation. Somalia's UFO history is partly shaped not by domestic institutions but by foreign databases, archives and reposted discussions. When local records disappeared, external repositories became the primary mechanism through which claims survived.
 
@@ -379,7 +379,7 @@ Several patterns emerge:
 
 **International circulation determined visibility.** The 2007 Buulo Burde incident remains prominent largely because it was syndicated beyond Somalia. Many local reports likely vanished because they never reached international archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — A mysterious device looking like a satellite or UFO has landed and spotted near...</span></span></span>
 
-**Database preservation replaced local archiving.** Modern researchers frequently depend on organisations such as NUFORC or archived forum discussions to reconstruct Somali chronology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+**Database preservation replaced local archiving.** Modern researchers frequently depend on organisations such as NUFORC or archived forum discussions to reconstruct Somali chronology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 **Conflict conditions complicated documentation.** Somalia's political and security environment reduced opportunities for formal investigations, expert analysis and long-term record preservation.
 
@@ -399,86 +399,44 @@ That does not prove that witnesses fabricated what they saw. Rather, it means th
 For that reason, Somalia's UFO chronology is best understood as a record of surviving reports rather than a catalogue of confirmed anomalous events. The central historical question is often not whether an extraterrestrial craft appeared, but how a small number of stories endured while most others vanished from the public record altogether.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Somalia&#x27;s UFO Timeline Took Shape. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Somalia&#x27;s UFO Timeline Took Shape, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for organizing historical reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Helps readers understand how historical case records develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for assessing historical UFO timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Relevant to how stories survive and evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -512,75 +470,71 @@ For that reason, Somalia's UFO chronology is best understood as a record of surv
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-21d309-how-somalia-s-ufo-timeline-took-shape-somalia-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -794,131 +748,131 @@ For that reason, Somalia's UFO chronology is best understood as a record of surv
 
 1. <a id="endnote-1"></a>
    Source: allafrica.com  
-   Link: [https://allafrica.com/stories/200703270198.html](https://allafrica.com/stories/200703270198.html)  
+   Link: <a href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow">https://allafrica.com/stories/200703270198.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — A mysterious device looking like a satellite or UFO has landed and spotted near...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationSomalia... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orell...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationSomalia... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orell...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: UFO Archive Record | PDFUFO Archive record  
-   Link: [https://www.scribd.com/document/671336928/UFO-Archive-record](https://www.scribd.com/document/671336928/UFO-Archive-record)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdUFO Archive Record | PDFUFO Archive record - Free download as PDF File (.pdf) or read online for free. This 62-page document contai...</p></details>
+   Link: <a href="https://www.scribd.com/document/671336928/UFO-Archive-record" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/671336928/UFO-Archive-record</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Archive Record | PDFUFO Archive record - Free download as PDF File (.pdf) or read online for free. This 62-page document contai...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e199507](https://nuforc.org/subndx/?id=e199507)  
+   Link: <a href="https://nuforc.org/subndx/?id=e199507" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199507</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[NUFORC Reports](&amp;#123;&amp;#123; &#x27;nuforc-reports/&#x27; | relative_url &amp;#125;&amp;#125;) for Month 199507NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... Ill. WI, U...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
    Title: Ufos and Intelligence  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive UFO History Timeline | PDFIt disappears below some low clouds. (Lorenzen, UFOs: The Whole Story, Signet, 1969, pp. 20–21; “...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: radiodalsan.com  
    Title: ufo sighted above central somalia village residents claim  
-   Link: [https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/](https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/)  
+   Link: <a href="https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/" target="_blank" rel="noopener noreferrer nofollow">https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dalsan RadioUFO Sighted Above Central Somalia Village, Residents...28 Mar 2018 — Residents of a town in Central Somalia claim to have wi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: boards.straightdope.com  
    Title: ufo may have crashed in somalia  
-   Link: [https://boards.straightdope.com/t/ufo-may-have-crashed-in-somalia/397808](https://boards.straightdope.com/t/ufo-may-have-crashed-in-somalia/397808)  
+   Link: <a href="https://boards.straightdope.com/t/ufo-may-have-crashed-in-somalia/397808" target="_blank" rel="noopener noreferrer nofollow">https://boards.straightdope.com/t/ufo-may-have-crashed-in-somalia/397808</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straight Dope Message BoardUFO may have crashed in Somalia28 Mar 2007 — (SomaliNet) A baffling device which resembles a satellite or Unid...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: declassifieduk.org  
-   Link: [https://www.declassifieduk.org/tag/somalia/](https://www.declassifieduk.org/tag/somalia/)  
+   Link: <a href="https://www.declassifieduk.org/tag/somalia/" target="_blank" rel="noopener noreferrer nofollow">https://www.declassifieduk.org/tag/somalia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ArchivesDavid Amess murder: How is Britain tackling the terror threat from Somalia? PHIL MILLER 18 October 2021 TAGGED: Police Somalia Te...</p></details>
    Published: October 2021  
 
 13. <a id="endnote-13"></a>
    Source: oddempire.com  
-   Link: [https://oddempire.com/weblog/2007/03/](https://oddempire.com/weblog/2007/03/)  
+   Link: <a href="https://oddempire.com/weblog/2007/03/" target="_blank" rel="noopener noreferrer nofollow">https://oddempire.com/weblog/2007/03/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March | 2007 | Empire of the OddMogadishu 26, March.07 (Sh.M.Network A mysterious device looking like a satellite or UFO has landed and...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unhcrsom/posts/following-a-government-appeal-unhcr-the-un-refugee-agency-through-implementing-p/2554644464559174/](https://www.facebook.com/unhcrsom/posts/following-a-government-appeal-unhcr-the-un-refugee-agency-through-implementing-p/2554644464559174/)  
+   Link: <a href="https://www.facebook.com/unhcrsom/posts/following-a-government-appeal-unhcr-the-un-refugee-agency-through-implementing-p/2554644464559174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unhcrsom/posts/following-a-government-appeal-unhcr-the-un-refugee-agency-through-implementing-p/2554644464559174/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCR SomaliaUNHCR is coordinating its efforts through Iran&#x27;s Bureau for Aliens and Foreign Immigrants&#x27; Affairs (BAFIA) under the Ministr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/who-controls-the-agreed-upon-reality-through-the-mainstream-media-and-why-they-fear-disclosing-the-truth-about-the-extraterrestrial-reality.html](https://dokumen.pub/who-controls-the-agreed-upon-reality-through-the-mainstream-media-and-why-they-fear-disclosing-the-truth-about-the-extraterrestrial-reality.html)  
+   Link: <a href="https://dokumen.pub/who-controls-the-agreed-upon-reality-through-the-mainstream-media-and-why-they-fear-disclosing-the-truth-about-the-extraterrestrial-reality.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/who-controls-the-agreed-upon-reality-through-the-mainstream-media-and-why-they-fear-disclosing-the-truth-about-the-extraterrestrial-reality.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>data on the UFOs and concludes that they are of extraterrestrial origin.... For example, here are the number of reports received per yea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dokumen.pub  
    Title: Terror in Transition: Leadership and Succession  
-   Link: [https://dokumen.pub/terror-in-transition-leadership-and-succession-in-terrorist-organizations-9780231549738.html](https://dokumen.pub/terror-in-transition-leadership-and-succession-in-terrorist-organizations-9780231549738.html)  
+   Link: <a href="https://dokumen.pub/terror-in-transition-leadership-and-succession-in-terrorist-organizations-9780231549738.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/terror-in-transition-leadership-and-succession-in-terrorist-organizations-9780231549738.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens.&#x27; ”57 This framing, which proved so instrumental to the rise of the... In late December 2017, local Somali media reported that du...</p></details>
    Published: December 2017  
 
 18. <a id="endnote-18"></a>
    Source: ismailwarsame.blog  
-   Link: [https://ismailwarsame.blog/author/ismailwarsame/page/2/](https://ismailwarsame.blog/author/ismailwarsame/page/2/)  
+   Link: <a href="https://ismailwarsame.blog/author/ismailwarsame/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://ismailwarsame.blog/author/ismailwarsame/page/2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>inal illegal aliens.” But the first week&#x27;s carnage tells a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/Sirwe-Saeedi/eff6f35a0aa182c2043da977e3a55171](https://gist.github.com/Sirwe-Saeedi/eff6f35a0aa182c2043da977e3a55171)  
+   Link: <a href="https://gist.github.com/Sirwe-Saeedi/eff6f35a0aa182c2043da977e3a55171" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Sirwe-Saeedi/eff6f35a0aa182c2043da977e3a55171</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>github.comTrainingSet_EvaluationPhase.csv... local media reported, leaving more than 6,600 people homeless. 0. 543... alien, and Home...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: badgerandblade.com  
    Title: ufo kills camel in somalia.16735  
-   Link: [https://www.badgerandblade.com/forum/threads/ufo-kills-camel-in-somalia.16735/](https://www.badgerandblade.com/forum/threads/ufo-kills-camel-in-somalia.16735/)  
+   Link: <a href="https://www.badgerandblade.com/forum/threads/ufo-kills-camel-in-somalia.16735/" target="_blank" rel="noopener noreferrer nofollow">https://www.badgerandblade.com/forum/threads/ufo-kills-camel-in-somalia.16735/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO kills camel in Somalia27 Mar 2007 — Some years ago a guy wanted to build a UFO landing strip in the area, but it didn&#x27;t work out. Any...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: governmentattic.org  
    Title: FOIA Logs DefenseIntelligenceAgency 1999 2005  
-   Link: [https://www.governmentattic.org/docs/FOIA_Logs_DefenseIntelligenceAgency_1999-2005.pdf](https://www.governmentattic.org/docs/FOIA_Logs_DefenseIntelligenceAgency_1999-2005.pdf)  
+   Link: <a href="https://www.governmentattic.org/docs/FOIA_Logs_DefenseIntelligenceAgency_1999-2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/docs/FOIA_Logs_DefenseIntelligenceAgency_1999-2005.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA. 0247-1999-14410 SEIM, Jeffrey. Space Weqapons - Strategic Defense Initiative;. FOIA. 0248-1999...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: somaliaonline.com  
-   Link: [https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/](https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/)  
+   Link: <a href="https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>^^Somalis+Aliens+Camel-killed = one explosive stand-off!Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: [https://www.youtube.com/watch?v=C3uXUfgSadU](https://www.youtube.com/watch?v=C3uXUfgSadU)  
+   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
    Published: May 31, 2023  

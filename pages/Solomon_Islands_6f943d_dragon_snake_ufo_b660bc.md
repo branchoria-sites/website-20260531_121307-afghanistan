@@ -239,7 +239,7 @@ next_link:
   permalink: /guadalcanal/
   short_title: Guadalcanal
   heading_title: Why Guadalcanal Became the Center of the Story
-date: '2026-06-09 01:40:21 '
+date: '2026-06-10 02:07:28 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustratio
 
 ## Introduction
 
-The “Dragon Snake” stories associated with the [Solomon Islands]({{ 'what-really-happened-in-solomon/' | relative_url }}) occupy an unusual space between folklore, eyewitness tradition and modern UFO culture. The central point is not that Dragon Snake accounts provide evidence of extraterrestrial craft. Rather, they show how older local narratives can be reinterpreted through a newer vocabulary of UFOs, alien bases and unexplained aerial phenomena.
+The “Dragon Snake” stories associated with the Solomon Islands occupy an unusual space between folklore, eyewitness tradition and modern UFO culture. The central point is not that Dragon Snake accounts provide evidence of extraterrestrial craft. Rather, they show how older local narratives can be reinterpreted through a newer vocabulary of UFOs, alien bases and unexplained aerial phenomena.
 
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1-dark.svg" | relative_url }}" alt="Dragon Snake illustration 1" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -260,15 +260,15 @@ The most frequently cited modern source for the Dragon Snake interpretation is a
 
 That statement is significant because it reveals the mechanism of reinterpretation. The Dragon Snake was not originally introduced as a technological object. Instead, a local label for something mysterious, feared or unexplained became mapped onto a global UFO category. Once that association was made, later accounts increasingly described the phenomenon using concepts drawn from twentieth-century UFO culture: underground bases, extraterrestrials, glowing craft and hidden civilisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span>
 
-This process is not unique to the Solomon Islands. Across many regions, older traditions involving spirits, monsters, ancestral beings or supernatural lights have sometimes been reframed through modern ideas about alien visitation. What makes the Solomon Islands case distinctive is the way the Dragon Snake became tied to specific islands, wartime landscapes and claims about unidentified craft entering mountains or emerging from the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
+This process is not unique to the Solomon Islands. Across many regions, older traditions involving spirits, monsters, ancestral beings or supernatural lights have sometimes been reframed through modern ideas about alien visitation. What makes the Solomon Islands case distinctive is the way the Dragon Snake became tied to specific islands, wartime landscapes and claims about unidentified craft entering mountains or emerging from the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
 
 ## The Role of Marius Boirayon
 
-No individual has influenced the UFO interpretation of the Dragon Snake more than Marius Boirayon. A former Royal Australian Air Force engineer who lived in the Solomon Islands during the 1990s, Boirayon collected stories from local communities and developed a broader theory linking giants, subterranean worlds and UFO activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
+No individual has influenced the UFO interpretation of the Dragon Snake more than Marius Boirayon. A former Royal Australian Air Force engineer who lived in the Solomon Islands during the 1990s, Boirayon collected stories from local communities and developed a broader theory linking giants, subterranean worlds and UFO activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
 
-In his published accounts, Boirayon describes hearing local warnings about a Dragon Snake shortly after arriving in a village. According to the narrative, residents told him that a flying creature with red eyes emerged from the mountains at night and had long been feared in the area. He initially treated the story as local superstition before later coming to associate it with UFO phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
+In his published accounts, Boirayon describes hearing local warnings about a Dragon Snake shortly after arriving in a village. According to the narrative, residents told him that a flying creature with red eyes emerged from the mountains at night and had long been feared in the area. He initially treated the story as local superstition before later coming to associate it with UFO phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
 
-A crucial point is that Boirayon's interpretation evolved over time. The original village story he recounts resembles a folkloric warning about a dangerous supernatural being. His later writings increasingly treat the Dragon Snake as either a UFO itself or evidence of hidden non-human technology operating in the islands. That transition illustrates how the meaning of the story changed as it moved from oral tradition into paranormal literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
+A crucial point is that Boirayon's interpretation evolved over time. The original village story he recounts resembles a folkloric warning about a dangerous supernatural being. His later writings increasingly treat the Dragon Snake as either a UFO itself or evidence of hidden non-human technology operating in the islands. That transition illustrates how the meaning of the story changed as it moved from oral tradition into paranormal literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
 
 Because many later articles and documentaries rely heavily on Boirayon's work, the modern Dragon Snake-UFO connection often traces back to a relatively small circle of interconnected sources rather than a large body of independently verified investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightThe Extraterrestrial Giants Of The Solomon Islands?28 Mar 2024 — At this point, Marius was almost certain that the Dragon Snak...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nexusmagazine.com">[Nexus Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nexusmagazine.com</span><span class="citation-popover-title">Nexus Magazine THE DRAGON SNAKE</span><span class="citation-popover-snippet">By Marius Boirayon. The Solomon Islanders have a long history of encounters with strange aerial craft and...Read more...</span></span></span>
 
@@ -285,9 +285,9 @@ This interpretation transformed a missing-evidence aviation mystery into part of
 
 ### Guadalcanal and Hidden-Base Claims
 
-Guadalcanal occupies a central place in Solomon Islands UFO lore because of repeated claims that unidentified objects emerge from the sea, travel into mountains or disappear into inland lakes. Boirayon's books and promotional summaries repeatedly describe glowing craft moving between the Pacific Ocean and the island's interior. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Solomon_Islands_Mysteries.html?id=KiwLLKx6cAkC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Solomon Islands Mysteries</span><span class="citation-popover-snippet">Google BooksAccounts of Giants and UFOs in the Solomon Islands20 Apr 2020 — Near where the sunken warships of the Battle of Guadalcanal l...</span></span></span>
+Guadalcanal occupies a central place in Solomon Islands UFO lore because of repeated claims that unidentified objects emerge from the sea, travel into mountains or disappear into inland lakes. Boirayon's books and promotional summaries repeatedly describe glowing craft moving between the Pacific Ocean and the island's interior. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Solomon_Islands_Mysteries.html?id=KiwLLKx6cAkC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Solomon Islands Mysteries</span><span class="citation-popover-snippet">Google BooksAccounts of Giants and UFOs in the Solomon Islands20 Apr 2020 — Near where the sunken warships of the Battle of Guadalcanal l...</span></span></span>
 
-The island's geography encourages such narratives. Guadalcanal contains rugged mountain ranges, dense rainforest and numerous locations difficult to observe consistently. Combined with the area's heavy Second World War legacy, including wrecks and military history, the landscape lends itself to stories involving hidden tunnels, underground chambers and secret bases. None of those claims, however, has produced independently verified physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
+The island's geography encourages such narratives. Guadalcanal contains rugged mountain ranges, dense rainforest and numerous locations difficult to observe consistently. Combined with the area's heavy Second World War legacy, including wrecks and military history, the landscape lends itself to stories involving hidden tunnels, underground chambers and secret bases. None of those claims, however, has produced independently verified physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
 
 ### Makira and Older Spirit Traditions
 
@@ -314,7 +314,7 @@ Several changes typically occur during reinterpretation:
 
 </div>
 
-The Dragon Snake narrative displays many of these transformations. Early accounts emphasise fear, mystery and local belief. Later versions increasingly introduce ideas such as alien occupants, underwater installations and technologically advanced craft. Those additions largely come from modern UFO literature rather than from documented traditional sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nexusmagazine.com">[Nexus Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nexusmagazine.com</span><span class="citation-popover-title">Nexus Magazine THE DRAGON SNAKE</span><span class="citation-popover-snippet">By Marius Boirayon. The Solomon Islanders have a long history of encounters with strange aerial craft and...Read more...</span></span></span>
+The Dragon Snake narrative displays many of these transformations. Early accounts emphasise fear, mystery and local belief. Later versions increasingly introduce ideas such as alien occupants, underwater installations and technologically advanced craft. Those additions largely come from modern UFO literature rather than from documented traditional sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nexusmagazine.com">[Nexus Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nexusmagazine.com</span><span class="citation-popover-title">Nexus Magazine THE DRAGON SNAKE</span><span class="citation-popover-snippet">By Marius Boirayon. The Solomon Islanders have a long history of encounters with strange aerial craft and...Read more...</span></span></span>
 
 This does not mean local witnesses invented their experiences. People may genuinely report unusual lights, atmospheric events or unexplained observations. The question is whether those experiences justify the technological conclusions later attached to them. The available evidence does not establish that connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span>
 
@@ -323,7 +323,7 @@ This does not mean local witnesses invented their experiences. People may genuin
 
 ## Where Folklore Ends and Physical Evidence Begins
 
-The strongest evidence in the Dragon Snake story concerns the existence of the stories themselves. There is little doubt that traditions involving mysterious entities, dangerous beings and unusual sightings have circulated in parts of the Solomon Islands for many years. Multiple published sources document local belief in such phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span> The evidence becomes much weaker when claims move into assertions about extraterrestrial craft.
+The strongest evidence in the Dragon Snake story concerns the existence of the stories themselves. There is little doubt that traditions involving mysterious entities, dangerous beings and unusual sightings have circulated in parts of the Solomon Islands for many years. Multiple published sources document local belief in such phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span> The evidence becomes much weaker when claims move into assertions about extraterrestrial craft.
 
 Several commonly repeated UFO-related claims remain unverified:
 
@@ -333,7 +333,7 @@ Several commonly repeated UFO-related claims remain unverified:
 * Connections between giants, cryptids and extraterrestrials.
 * Long-term secret operations concealed within island interiors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nexusmagazine.com">[Nexus Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nexusmagazine.com</span><span class="citation-popover-title">Nexus Magazine THE DRAGON SNAKE</span><span class="citation-popover-snippet">By Marius Boirayon. The Solomon Islanders have a long history of encounters with strange aerial craft and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general57/thedragonsnake.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[2rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Dragon SnakeWhen the boys are out fishing at night, they see the UFOs going in one entrance and coming out the other. A UFO coming ou...</span></span></span>
 
-Most available material supporting those ideas originates from personal testimony, paranormal publications, derivative websites or later retellings of earlier stories. Independent documentation, official investigations and physical evidence remain sparse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightThe Extraterrestrial Giants Of The Solomon Islands?28 Mar 2024 — At this point, Marius was almost certain that the Dragon Snak...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Solomon_Island_Giants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[Cryptid Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Cryptid Wiki Solomon Island Giants | Cryptid Wiki</span><span class="citation-popover-snippet">Cryptid WikiSolomon Island Giants | Cryptid Wiki - FandomAustralian Boirayon who lived and worked in the Solomons as a helicopter pilot a...</span></span></span>
+Most available material supporting those ideas originates from personal testimony, paranormal publications, derivative websites or later retellings of earlier stories. Independent documentation, official investigations and physical evidence remain sparse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightThe Extraterrestrial Giants Of The Solomon Islands?28 Mar 2024 — At this point, Marius was almost certain that the Dragon Snak...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Solomon_Island_Giants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[Cryptid Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Cryptid Wiki Solomon Island Giants &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Cryptid WikiSolomon Island Giants &#124; Cryptid Wiki - FandomAustralian Boirayon who lived and worked in the Solomons as a helicopter pilot a...</span></span></span>
 
 That distinction is important because the Dragon Snake is often presented online as proof that Solomon Islanders recognised UFOs centuries before modern aviation. The historical record does not support such a conclusion. What it supports is the existence of older narratives that later became interpreted through a UFO lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Adaro_%28mythology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Adaro (mythology</span><span class="citation-popover-snippet">Adaro (mythology</span></span></span>
 
@@ -345,93 +345,51 @@ The enduring importance of the Dragon Snake is cultural rather than evidential. 
 
 Within Solomon Islands UFO history, the Dragon Snake therefore functions less as proof of alien visitation than as a mechanism of reinterpretation. It shows how folklore can be recast in technological language while retaining its original themes of danger, secrecy, unexplained appearances and remote landscapes.
 
-For researchers examining Solomon Islands sightings, that distinction is essential. The Dragon Snake is one of the clearest examples of how local oral traditions can become absorbed into modern UFO narratives without producing corresponding physical evidence. The story remains significant because it explains how many later claims were framed, not because it resolves the question of what witnesses actually saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
+For researchers examining Solomon Islands sightings, that distinction is essential. The Dragon Snake is one of the clearest examples of how local oral traditions can become absorbed into modern UFO narratives without producing corresponding physical evidence. The story remains significant because it explains how many later claims were framed, not because it resolves the question of what witnesses actually saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GNHteMyWUYs" title="Proof of Secret Underwater Alien Base | Ancient Aliens | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer">Proof of Secret Underwater Alien Base | Ancient Aliens | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GNHteMyWUYs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Did Dragon Snake Stories Become UFO Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Did Dragon Snake Stories Become UFO Claims?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15088088-M.jpg" alt="Cover for The Mothman prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman prophecies">The Mothman prophecies</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Examines folklore, anomalous sightings and reinterpretation of unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Directly explores how folklore traditions become interpreted through modern UFO frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Useful for understanding how narratives evolve around unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -465,75 +423,71 @@ For researchers examining Solomon Islands sightings, that distinction is essenti
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dragon-snake-how-did-dragon-snake-stories-become-ufo-claims-solomon-islands-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -747,115 +701,115 @@ For researchers examining Solomon Islands sightings, that distinction is essenti
 
 1. <a id="endnote-1"></a>
    Source: everand.com  
-   Link: [https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands](https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EverandSolomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</p></details>
+   Link: <a href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Mysteries by Marius Boirayon (Ebook)Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: books.google.com  
    Title: Solomon Islands Mysteries  
-   Link: [https://books.google.com/books/about/Solomon_Islands_Mysteries.html?id=KiwLLKx6cAkC](https://books.google.com/books/about/Solomon_Islands_Mysteries.html?id=KiwLLKx6cAkC)  
+   Link: <a href="https://books.google.com/books/about/Solomon_Islands_Mysteries.html?id=KiwLLKx6cAkC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Solomon_Islands_Mysteries.html?id=KiwLLKx6cAkC</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksAccounts of Giants and UFOs in the Solomon Islands20 Apr 2020 — Near where the sunken warships of the Battle of Guadalcanal l...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Adaro (mythology)  
-   Link: [https://en.wikipedia.org/wiki/Adaro_%28mythology%29](https://en.wikipedia.org/wiki/Adaro_%28mythology%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Adaro_%28mythology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Adaro_%28mythology%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Melanesian mythology  
-   Link: [https://en.wikipedia.org/wiki/Melanesian_mythology](https://en.wikipedia.org/wiki/Melanesian_mythology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Melanesian_mythology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melanesian_mythology</a>  
 
 5. <a id="endnote-5"></a>
    Source: rense.com  
-   Link: [https://rense.com/general57/thedragonsnake.htm](https://rense.com/general57/thedragonsnake.htm)  
+   Link: <a href="https://rense.com/general57/thedragonsnake.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general57/thedragonsnake.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dragon SnakeWhen the boys are out fishing at night, they see the UFOs going in one entrance and coming out the other. A UFO coming ou...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: solomontimes.com  
-   Link: [https://www.solomontimes.com/letter/3472](https://www.solomontimes.com/letter/3472)  
+   Link: <a href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3472</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesAnother Mystery on Mystery Island13 Sept 2010 — Most of the local folks call these &quot;Dragon Snake&quot; while the white man term i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nexusmagazine.com  
    Title: Nexus Magazine THE DRAGON SNAKE  
-   Link: [https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/](https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/)  
+   Link: <a href="https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://nexusmagazine.com/product/the-dragon-snake-a-solomon-islands-ufo-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Marius Boirayon. The Solomon Islanders have a long history of encounters with strange aerial craft and...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cryptidz.fandom.com  
    Title: Cryptid Wiki Solomon Island Giants | Cryptid Wiki  
-   Link: [https://cryptidz.fandom.com/wiki/Solomon_Island_Giants](https://cryptidz.fandom.com/wiki/Solomon_Island_Giants)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Solomon_Island_Giants" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Solomon_Island_Giants</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid WikiSolomon Island Giants | Cryptid Wiki - FandomAustralian Boirayon who lived and worked in the Solomons as a helicopter pilot a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bibliotecapleyades.net  
    Title: It was responsible for people going missing and for killing people.Read more  
-   Link: [https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm](https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dragon Snake - A Solomon Islands UFO MysteryThe Dragon Snake, with its piercing red eyes, has been feared for generations...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufoinsight.com  
-   Link: [https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands](https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands)  
+   Link: <a href="https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Extraterrestrial Giants Of The Solomon Islands?28 Mar 2024 — At this point, Marius was almost certain that the Dragon Snak...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cryptidz.fandom.com  
    Title: Solomon Islands Dragon Snake  
-   Link: [https://cryptidz.fandom.com/wiki/Solomon_Islands_Dragon_Snake](https://cryptidz.fandom.com/wiki/Solomon_Islands_Dragon_Snake)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Solomon_Islands_Dragon_Snake" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Solomon_Islands_Dragon_Snake</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid WikiSolomon Islands Dragon Snake - Cryptid Wiki - FandomMarius Boirayon himself thought the creatures were UFOs, and he even made...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/281886105961506/posts/1923072298509537/](https://www.facebook.com/groups/281886105961506/posts/1923072298509537/)  
+   Link: <a href="https://www.facebook.com/groups/281886105961506/posts/1923072298509537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/1923072298509537/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legends of Giants in the Solomon IslandsAustralian Boirayon who lived and worked in the Solomons as a helicopter pilot and engineer, ende...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: search.worldcat.org  
-   Link: [https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875](https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875)  
+   Link: <a href="https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of giants and UFOs in the Solomon IslandsThese are some of the incredible tales that the Solomon Islanders have lived with for decades, a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: yogaesoteric.net  
-   Link: [https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/](https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YogaEsotericThe Dragon Snake – A Solomon Islands UFO MysteryThe Dragon Snake, with its piercing red eyes, has been feared for generations...</p></details>
+   Link: <a href="https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dragon Snake – A Solomon Islands UFO MysteryThe Dragon Snake, with its piercing red eyes, has been feared for generations...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/9781935487043/Solomon-Islands-Mysteries-Accounts-Giants-1935487043/plp](https://www.abebooks.co.uk/9781935487043/Solomon-Islands-Mysteries-Accounts-Giants-1935487043/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9781935487043/Solomon-Islands-Mysteries-Accounts-Giants-1935487043/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781935487043/Solomon-Islands-Mysteries-Accounts-Giants-1935487043/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis. Near where the sunken warships of the Battle of Guadalcanal lie, glowing UFOs rise out of the Pacific, fly into the mountains a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: Northeast of Australia, the Solomon Islands—nearly 900 remote  
-   Link: [https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/northeast-of-australia-the-solomon-islandsnearly-900-remote-islandsare-rumored-t/1204766691832165/](https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/northeast-of-australia-the-solomon-islandsnearly-900-remote-islandsare-rumored-t/1204766691832165/)  
+   Link: <a href="https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/northeast-of-australia-the-solomon-islandsnearly-900-remote-islandsare-rumored-t/1204766691832165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/northeast-of-australia-the-solomon-islandsnearly-900-remote-islandsare-rumored-t/1204766691832165/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stories of the giants... Marius Boirayon, in his book, SOLOMON ISLANDS LIVING GIANTS.... Solomon Islands “Dragon Snake” and reported Su...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Solomon-Islands-Mysteries-Accounts-published/dp/B00XWVH5GQ](https://www.amazon.co.uk/Solomon-Islands-Mysteries-Accounts-published/dp/B00XWVH5GQ)  
+   Link: <a href="https://www.amazon.co.uk/Solomon-Islands-Mysteries-Accounts-published/dp/B00XWVH5GQ" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Solomon-Islands-Mysteries-Accounts-published/dp/B00XWVH5GQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;dragon ships&quot; the natives spoke of, coming in and out of the sea, and arising...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/documented-eyewitness-accounts-of-strange-ufo-activity-at-the-solomon-islands-ha/10159351178621003/](https://www.facebook.com/TheUnXplainedZone/posts/documented-eyewitness-accounts-of-strange-ufo-activity-at-the-solomon-islands-ha/10159351178621003/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/documented-eyewitness-accounts-of-strange-ufo-activity-at-the-solomon-islands-ha/10159351178621003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/documented-eyewitness-accounts-of-strange-ufo-activity-at-the-solomon-islands-ha/10159351178621003/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ave led to a theory that an underwater alien base is present...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nativeiowan.com  
    Title: Time for something totally different?  
-   Link: [https://nativeiowan.com/2009/06/25/time-for-something-totally-different/](https://nativeiowan.com/2009/06/25/time-for-something-totally-different/)  
+   Link: <a href="https://nativeiowan.com/2009/06/25/time-for-something-totally-different/" target="_blank" rel="noopener noreferrer nofollow">https://nativeiowan.com/2009/06/25/time-for-something-totally-different/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Native Iowan25 Jun 2009 — The Giants of the Solomon Islands and their hidden UFO bases. Some of the greatest anthropological and scie...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IyXw-R6WZd4](https://www.youtube.com/watch?v=IyXw-R6WZd4)  
+   Link: <a href="https://www.youtube.com/watch?v=IyXw-R6WZd4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IyXw-R6WZd4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Proof of Secret Underwater Alien Base | Ancient Aliens | The Un Xplained Zone  
-   Link: [https://www.youtube.com/watch?v=GNHteMyWUYs](https://www.youtube.com/watch?v=GNHteMyWUYs)  
+   Link: <a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROOF OF UNDERWATER ALIEN BASE REVEALED (Season 6) | Ancient Aliens | The UnXplained Zone...</p></details>

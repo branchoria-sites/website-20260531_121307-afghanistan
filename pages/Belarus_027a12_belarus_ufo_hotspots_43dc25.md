@@ -245,7 +245,7 @@ next_link:
   permalink: /minsk-case/
   short_title: Minsk Case
   heading_title: Was the Minsk Airliner UFO a Missile?
-date: '2026-06-09 01:17:42 '
+date: '2026-06-10 01:42:57 '
 header:
   og_image: /assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1-social.jpg
   preview_image: /assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1-
 
 ## Introduction
 
-Belarusian UFO “hotspots” are less mysterious when viewed through geography, media access and investigator networks rather than through the assumption that unexplained phenomena cluster in only a few places. Minsk dominates the country’s sighting record largely because it is the capital, the biggest population centre, the main transport hub and the place where [archives]({{ 'archives-d25b34/' | relative_url }}), newspapers and research groups were concentrated. Brest became unusually prominent for different reasons: an active local anomalistic community, borderland folklore, military landscapes and strong regional media circulation all amplified reports from western [Belarus]({{ 'what-belarus-ufo-reports-really-show/' | relative_url }}).
+Belarusian UFO “hotspots” are less mysterious when viewed through geography, media access and investigator networks rather than through the assumption that unexplained phenomena cluster in only a few places. Minsk dominates the country’s sighting record largely because it is the capital, the biggest population centre, the main transport hub and the place where [archives]({{ 'archives-d25b34/' | relative_url }}), newspapers and research groups were concentrated. Brest became unusually prominent for different reasons: an active local anomalistic community, borderland folklore, military landscapes and strong regional media circulation all amplified reports from western Belarus.
 
 
 <img src="{{ "/assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ Several additional factors inflated Minsk’s apparent prominence:
 The result is a classic reporting bias problem. A concentration of sightings in Minsk does not automatically imply a concentration of unexplained phenomena. It more reliably indicates a concentration of witnesses capable of recording and transmitting claims.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
 
 ## Why Brest became prominent
 
@@ -379,86 +379,44 @@ That makes Belarus valuable not because it contains overwhelming evidence of ext
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Belarus UFO Hotspots Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Belarus UFO Hotspots Appear?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides methods for evaluating concentrations of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Catalogues unusual sky reports across locations and eras.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers documented cases for comparison with hotspot claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Addresses regional clustering and recurring sighting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -492,59 +450,71 @@ That makes Belarus valuable not because it contains overwhelming evidence of ext
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Map â€“ Mid-20th Century City Known for 1947 UFO Incident"><img src="{{ '/assets/images/marketplace-covers/1d7188be68951d1bc438.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Map â€“ Mid-20th Century City Known for 1947 UFO Incident" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Map â€“ Mid-20th Century City Known for 1947 UFO Incident</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG OMNI Magazine Mixed Lot of 5, 1983-1986, UFOâ€™s, Bionicâ€™s Pull Out Poster Map"><img src="{{ '/assets/images/marketplace-covers/9124aac2f770a7a3725b.jpg' | relative_url }}" alt="Listing image for VTG OMNI Magazine Mixed Lot of 5, 1983-1986, UFOâ€™s, Bionicâ€™s Pull Out Poster Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VTG OMNI Magazine Mixed Lot of 5, 1983-1986, UFOâ€™s, Bionicâ€™s Pull Out Poster Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Sightings &amp; Close Encounters World Map Poster"><img src="{{ '/assets/images/marketplace-covers/629d077733042e165eee.jpg' | relative_url }}" alt="Listing image for UFO Sightings &amp; Close Encounters World Map Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Sightings &amp; Close Encounters World Map Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster -book -books" data-ebay-reference="hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-do-belarus-ufo-hotspots-appear-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -759,97 +729,97 @@ That makes Belarus valuable not because it contains overwhelming evidence of ext
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ufo Com  
-   Link: [https://en.wikipedia.org/wiki/UfoCom](https://en.wikipedia.org/wiki/UfoCom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UfoCom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UfoCom</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A global picture of unidentified anomalous phenomenaThis paper reviews the publicly available information on the preval...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in Belarus  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Belarus](https://en.wikipedia.org/wiki/UFO_sightings_in_Belarus)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Belarus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Belarus</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Kosmopoisk](https://en.wikipedia.org/wiki/Kosmopoisk)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kosmopoisk" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmopoisk</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: myheritage.com  
    Title: Archives In Belarus  
-   Link: [https://www.myheritage.com/wiki/Archives_in_Belarus](https://www.myheritage.com/wiki/Archives_in_Belarus)  
+   Link: <a href="https://www.myheritage.com/wiki/Archives_in_Belarus" target="_blank" rel="noopener noreferrer nofollow">https://www.myheritage.com/wiki/Archives_in_Belarus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MyHeritage WikiIt was initially located in Minsk but was moved to Mogilev in 1930. During World War II, the Archives were inactive due to...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/617328327480084/posts/796080089604906/](https://www.facebook.com/groups/617328327480084/posts/796080089604906/)  
+   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/796080089604906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/796080089604906/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Belarus in 1937In 1937, near the town of Chashniki in Belarus, a strange incident was reported by a young child who witne...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/1660n4l/why_do_4_billion_people_in_westernised_countries/](https://www.reddit.com/r/UFOscience/comments/1660n4l/why_do_4_billion_people_in_westernised_countries/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/1660n4l/why_do_4_billion_people_in_westernised_countries/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1660n4l/why_do_4_billion_people_in_westernised_countries/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;ll make my question clearer. Statistically, as a percentage per capita population, there are quite...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/](https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/)  
+   Link: <a href="https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e unexplained aerial phenomena have been observed over time...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: hangar1publishing.com  
    Title: Belief vs. science examined  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nordic-aliens?srsltid=AfmBOor9_w_SWnWz5HyMYH2Z6tx1FLIXueNouPdUwy7GZNjnlQLsoq7B](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nordic-aliens?srsltid=AfmBOor9_w_SWnWz5HyMYH2Z6tx1FLIXueNouPdUwy7GZNjnlQLsoq7B)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nordic-aliens?srsltid=AfmBOor9_w_SWnWz5HyMYH2Z6tx1FLIXueNouPdUwy7GZNjnlQLsoq7B" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nordic-aliens?srsltid=AfmBOor9_w_SWnWz5HyMYH2Z6tx1FLIXueNouPdUwy7GZNjnlQLsoq7B</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nordic Aliens: The Truth About These Cosmic VisitorsUncover the truth about Nordic aliens—mysterious blonde extraterrestrials with advanc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: itsmth.fandom.com  
    Title: Alien Sightings of Belarus  
-   Link: [https://itsmth.fandom.com/wiki/Alien_Sightings_of_Belarus](https://itsmth.fandom.com/wiki/Alien_Sightings_of_Belarus)  
+   Link: <a href="https://itsmth.fandom.com/wiki/Alien_Sightings_of_Belarus" target="_blank" rel="noopener noreferrer nofollow">https://itsmth.fandom.com/wiki/Alien_Sightings_of_Belarus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings of Belarus | It&#x27;s Something Wiki - FandomMap of Belarus. This is a list of alleged sightings of Aliens or UFOs in Belarus. Alie...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cryptidz.fandom.com  
    Title: Alien Sightings of Belarus  
-   Link: [https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Belarus](https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Belarus)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Belarus" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Belarus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings of Belarus | Cryptid Wiki - FandomMap of Belarus. This is a list of alleged sightings of Aliens or UFOs in Belarus. Aliens are...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: worldpopulationreview.com  
    Title: ufo sightings by country  
-   Link: [https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country](https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country)  
+   Link: <a href="https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026Details on the number of UFO sightings in various nations, as well as profiles of several famous sightings, including Russia&#x27;s Tungus...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2077-1444/14/11/1412](https://www.mdpi.com/2077-1444/14/11/1412)  
+   Link: <a href="https://www.mdpi.com/2077-1444/14/11/1412" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2077-1444/14/11/1412</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Name to Myth (Based on Russian Cultural and...by OD Surikova · 2023 · Cited by 2 — Typically, this would refer to dangerous places...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: alimentoscrack.com  
    Title: CREM A DE MARAÑON  
-   Link: [https://alimentoscrack.com/product/crema-de-maranon-cinnamon-220g/](https://alimentoscrack.com/product/crema-de-maranon-cinnamon-220g/)  
+   Link: <a href="https://alimentoscrack.com/product/crema-de-maranon-cinnamon-220g/" target="_blank" rel="noopener noreferrer nofollow">https://alimentoscrack.com/product/crema-de-maranon-cinnamon-220g/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CREMA DE MARAÑON - CINNAMON 220gThe company is an online florist, delivering flowers across Minsk, Belarus. We would be delighted to assi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: xtoolza.info  
-   Link: [https://xtoolza.info/q/metrika/logs/metrika.txt](https://xtoolza.info/q/metrika/logs/metrika.txt)  
+   Link: <a href="https://xtoolza.info/q/metrika/logs/metrika.txt" target="_blank" rel="noopener noreferrer nofollow">https://xtoolza.info/q/metrika/logs/metrika.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;alien.elcoru.com/search.php?search=%D0%90%D0%B4%D0%BD%D0%B0+%D1%83%D0%B7&amp;action=search Не найдено 2015-08-25 20:08:57 [http://aleksandrovs...&quot;](http://aleksandrovs...&quot;)...</p></details>
    Published: August 25, 2015  
 
 18. <a id="endnote-18"></a>
    Source: yumpu.com  
-   Link: [https://www.yumpu.com/en/document/view/34662521/untitled](https://www.yumpu.com/en/document/view/34662521/untitled)  
+   Link: <a href="https://www.yumpu.com/en/document/view/34662521/untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/34662521/untitled</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Mar 2014 — The aliens moved quickly away and vanished behind some&lt;br /&gt;. houses. What attracted the aliens to the area was the apparen...</p></details>

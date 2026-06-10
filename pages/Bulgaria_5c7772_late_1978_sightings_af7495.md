@@ -239,7 +239,7 @@ next_link:
   permalink: /modern-reports-114d9e/
   short_title: Modern Reports
   heading_title: Can Bulgaria's Recent UFO Reports Be Trusted?
-date: '2026-06-09 01:22:12 '
+date: '2026-06-10 01:46:37 '
 header:
   og_image: /assets/images/Bulgaria_5c7772_late_1978_sightings_af7495-Illustration-1-social.jpg
   preview_image: /assets/images/Bulgaria_5c7772_late_1978_sightings_af7495-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Bulgaria_5c7772_late_1978_sightings_af7495-Illustration-1-
 
 ## Introduction
 
-In late December 1978, [Bulgaria]({{ 'what-really-explains-bulgarias-ufo/' | relative_url }}) experienced one of its most discussed UFO episodes of the Cold War era. Reports arrived from Sofia, Pleven, and Vratsa describing bright lights in the dawn sky, unusual movement, and luminous objects that some witnesses believed could not be explained by ordinary aircraft or stars. Within days, authorities and astronomers offered a firm explanation: the sightings were caused by the planet Venus, which was exceptionally bright and visible before sunrise at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">BTAUnidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+In late December 1978, Bulgaria experienced one of its most discussed UFO episodes of the Cold War era. Reports arrived from Sofia, Pleven, and Vratsa describing bright lights in the dawn sky, unusual movement, and luminous objects that some witnesses believed could not be explained by ordinary aircraft or stars. Within days, authorities and astronomers offered a firm explanation: the sightings were caused by the planet Venus, which was exceptionally bright and visible before sunrise at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Bulgaria_5c7772_late_1978_sightings_af7495-Illustration-1-dark.svg" | relative_url }}" alt="1978 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772_late_1978_sightings_af7495-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772_late_1978_sightings_af7495-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ The dispute that followed became more important than the sightings themselves. T
 
 ## What Witnesses Reported Across Sofia, Pleven, and Vratsa
 
-The reports emerged over several mornings at the end of December 1978. According to later archival summaries, residents in northern and western Bulgaria began describing bright objects visible with the naked eye in the pre-dawn sky. By 30 December, the story had spread to Sofia, where multiple observers claimed to have seen luminous bodies moving unusually over the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">BTAUnidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+The reports emerged over several mornings at the end of December 1978. According to later archival summaries, residents in northern and western Bulgaria began describing bright objects visible with the naked eye in the pre-dawn sky. By 30 December, the story had spread to Sofia, where multiple observers claimed to have seen luminous bodies moving unusually over the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 Descriptions varied, but several themes appeared repeatedly:
 
@@ -280,7 +280,7 @@ Many witnesses were not claiming close encounters or landed craft. Most accounts
 
 ## Why Venus Became the Official Explanation
 
-Bulgarian authorities and astronomers responded quickly by identifying the object as Venus. The explanation rested on several ordinary but important astronomical conditions that coincided in late 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">BTAUnidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+Bulgarian authorities and astronomers responded quickly by identifying the object as Venus. The explanation rested on several ordinary but important astronomical conditions that coincided in late 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 Venus is often called the “morning star” because, during certain orbital periods, it becomes extremely bright shortly before sunrise. Under ideal viewing conditions it can appear brighter than any object in the night sky apart from the Moon. When positioned low above the horizon, atmospheric distortion can also create effects that casual observers interpret as movement or shape changes.
 
@@ -296,13 +296,13 @@ Astronomers pointed to several mechanisms that could explain the reports:
 
 </div>
 
-This was not an unusual explanation in the wider history of UFO reports. Venus has frequently been identified as the source of mass sightings in other countries because of its brightness and visibility during twilight hours. Even famous UFO cases elsewhere have eventually been linked by sceptical investigators to misidentified views of Venus under unusual atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/04/1978.pdf?emrc=ef096e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAAstronautics and Aeronautics, 1978April 2, 2014 — what Carter saw was the planet Venus, at times much brighter than a first-magnitude...</span><span class="citation-popover-meta">Published: April 2, 2014</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+This was not an unusual explanation in the wider history of UFO reports. Venus has frequently been identified as the source of mass sightings in other countries because of its brightness and visibility during twilight hours. Even famous UFO cases elsewhere have eventually been linked by sceptical investigators to misidentified views of Venus under unusual atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/04/1978.pdf?emrc=ef096e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Astronautics and Aeronautics, 1978April 2, 2014 — what Carter saw was the planet Venus, at times much brighter than a first-magnitude...</span><span class="citation-popover-meta">Published: April 2, 2014</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 The Bulgarian case fit many of the classic patterns. The sightings occurred during early morning darkness, involved bright distant lights rather than structured close-range objects, and spread through social reinforcement as more people began looking toward the same area of sky.
 
 ## Why Some Witnesses Rejected the Explanation
 
-Despite the astronomical explanation, the story did not disappear. Instead, it became a lasting reference point in Bulgarian UFO discussions because many witnesses insisted the official account failed to match what they believed they had seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">BTAUnidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+Despite the astronomical explanation, the story did not disappear. Instead, it became a lasting reference point in Bulgarian UFO discussions because many witnesses insisted the official account failed to match what they believed they had seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">Unidentified Aerial Phenomena Reported across Bulgaria</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 The strongest objections centred on motion. Some observers described the objects as accelerating, zigzagging, or changing direction. Others claimed the lights appeared to split, merge, or move behind clouds in ways they believed a planet could not. For these witnesses, the explanation sounded dismissive rather than analytical.
 
@@ -384,86 +384,44 @@ For sceptics, the incident remains a textbook example of collective misidentific
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was Bulgaria&#x27;s 1978 UFO Wave Venus?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was Bulgaria&#x27;s 1978 UFO Wave Venus?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides broader context for unresolved versus explained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines witness interpretation of unusual lights and objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Directly addresses astronomical misidentifications such as bright planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Fits a page centered on disputed explanations and public perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -497,75 +455,71 @@ For sceptics, the incident remains a textbook example of collective misidentific
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1978-sightings-was-bulgaria-s-1978-ufo-wave-venus-bulgaria-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -780,124 +734,124 @@ For sceptics, the incident remains a textbook example of collective misidentific
 1. <a id="endnote-1"></a>
    Source: bta.bg  
    Title: Unidentified Aerial Phenomena Reported across Bulgaria  
-   Link: [https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978](https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BTAUnidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</p></details>
+   Link: <a href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-reported-across-bulgaria-in-late-1978</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena Reported across Bulgaria...December 30, 2025 — 30 Dec 2025 — In late December 1978, residents of Pleven...</p></details>
    Published: December 30, 2025  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/04/1978.pdf?emrc=ef096e](https://www.nasa.gov/wp-content/uploads/2023/04/1978.pdf?emrc=ef096e)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAAstronautics and Aeronautics, 1978April 2, 2014 — what Carter saw was the planet Venus, at times much brighter than a first-magnitude...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/1978.pdf?emrc=ef096e" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1978.pdf?emrc=ef096e</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronautics and Aeronautics, 1978April 2, 2014 — what Carter saw was the planet Venus, at times much brighter than a first-magnitude...</p></details>
    Published: April 2, 2014  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Mantell_UFO_incident](https://en.wikipedia.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Petrozavodsk phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon](https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Belogradchik Observatory  
-   Link: [https://en.wikipedia.org/wiki/Belogradchik_Observatory](https://en.wikipedia.org/wiki/Belogradchik_Observatory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belogradchik_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belogradchik_Observatory</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Zanfretta UFO Incident  
-   Link: [https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident](https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zanfretta UFO IncidentThe Zanfretta UFO incident was an alleged alien encounter that occurred on December 6, 1978 near the town of Tor...</p></details>
    Published: December 6, 1978  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Stratospheric Observatory for Infrared Astronomy  
-   Link: [https://en.wikipedia.org/wiki/Stratospheric_Observatory_for_Infrared_Astronomy](https://en.wikipedia.org/wiki/Stratospheric_Observatory_for_Infrared_Astronomy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stratospheric_Observatory_for_Infrared_Astronomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stratospheric_Observatory_for_Infrared_Astronomy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stratospheric Observatory for Infrared AstronomySOFIA was the successor to the Kuiper Airborne Observatory. During 10-hour, overnight...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: astronomy.com  
    Title: dec 9 1978 the pioneer venus multiprobe reaches venus  
-   Link: [https://www.astronomy.com/today-in-the-history-of-astronomy/dec-9-1978-the-pioneer-venus-multiprobe-reaches-venus/](https://www.astronomy.com/today-in-the-history-of-astronomy/dec-9-1978-the-pioneer-venus-multiprobe-reaches-venus/)  
+   Link: <a href="https://www.astronomy.com/today-in-the-history-of-astronomy/dec-9-1978-the-pioneer-venus-multiprobe-reaches-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/today-in-the-history-of-astronomy/dec-9-1978-the-pioneer-venus-multiprobe-reaches-venus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1978: The Pioneer Venus Multiprobe reaches Venus9 Dec 2025 — All five components reached Venus together, entering the planet&#x27;s atmosph...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/mission/sofia/](https://science.nasa.gov/mission/sofia/)  
+   Link: <a href="https://science.nasa.gov/mission/sofia/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/sofia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govSOFIA6 Feb 2024 — SOFIA, the Stratospheric Observatory for Infrared Astronomy, was a Boeing 747SP aircraft modified to carry a 2...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: web.astronomicalheritage.net  
-   Link: [https://web.astronomicalheritage.net/show-entity?identity=245&idsubentity=1](https://web.astronomicalheritage.net/show-entity?identity=245&idsubentity=1)  
+   Link: <a href="https://web.astronomicalheritage.net/show-entity?identity=245&amp;idsubentity=1" target="_blank" rel="noopener noreferrer nofollow">https://web.astronomicalheritage.net/show-entity?identity=245&amp;idsubentity=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ment Ohridski&quot; was built in 1892/94 in Borisova Gradina Park...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fw_zKPebMXs](https://www.youtube.com/watch?v=fw_zKPebMXs)  
+   Link: <a href="https://www.youtube.com/watch?v=fw_zKPebMXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fw_zKPebMXs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ch. 11: Venus (28 of 61) Exploration of Venus...The 1970s saw a lot more success there were fewer missions but many more of them were su...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: fakti.bg  
-   Link: [https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions](https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions)  
+   Link: <a href="https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions" target="_blank" rel="noopener noreferrer nofollow">https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objects disturb...30 Dec 2025 — Early in the morning of December 30, many citizens in the capital stated that they w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cfa.harvard.edu  
    Title: sofia stratospheric observatory infrared  
-   Link: [https://www.cfa.harvard.edu/facilities-technology/telescopes-instruments/sofia-stratospheric-observatory-infrared](https://www.cfa.harvard.edu/facilities-technology/telescopes-instruments/sofia-stratospheric-observatory-infrared)  
+   Link: <a href="https://www.cfa.harvard.edu/facilities-technology/telescopes-instruments/sofia-stratospheric-observatory-infrared" target="_blank" rel="noopener noreferrer nofollow">https://www.cfa.harvard.edu/facilities-technology/telescopes-instruments/sofia-stratospheric-observatory-infrared</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Stratospheric Observatory for Infrared Astronomy)SOFIA is a powerful, general-purpose infrared observatory used to study the birth of ne...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: the 1978 new zealand ufo footage  
-   Link: [https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/](https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/)  
+   Link: <a href="https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/videos/the-1978-new-zealand-ufo-footage/1223015379748034/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1978 New Zealand, a journalist covering a routine mission...In 1978 New Zealand, a journalist covering a routine mission captures chi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blog.britishnewspaperarchive.co.uk  
    Title: incredible ufo sightings  
-   Link: [https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/](https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/)  
+   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>britishnewspaperarchive.co.uk10 Incredible UFO Sightings As Reported in Our Archive13 Jul 2022 — These ten accounts of UFO sightings are...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qjFwcv9Rs-w](https://www.youtube.com/watch?v=qjFwcv9Rs-w)  
+   Link: <a href="https://www.youtube.com/watch?v=qjFwcv9Rs-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjFwcv9Rs-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Bulgaria. The monument, built to honor the Communist Party...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: space.com  
    Title: sofia flying telescope fails find phosphine venus  
-   Link: [https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus](https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus)  
+   Link: <a href="https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Search for Life Scientists propose new way to find aliens —...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1811066936318337/posts/2193453128079714/](https://www.facebook.com/groups/1811066936318337/posts/2193453128079714/)  
+   Link: <a href="https://www.facebook.com/groups/1811066936318337/posts/2193453128079714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1811066936318337/posts/2193453128079714/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet Venera 12 probe launched in 1978 to study Venus... alien world cloaked in dense clouds of sulfuric acid. It analyzed the atmospher...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ebay.com  
-   Link: [https://www.ebay.com/itm/175967883262](https://www.ebay.com/itm/175967883262)  
+   Link: <a href="https://www.ebay.com/itm/175967883262" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/175967883262</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vintage UFO Report Magazine August 1978 Sunset on...Newspaper Ufo · Ufo Journal · Ufo 1970 · Ufo Memorabilia · Ufo Vintage · Ufo Documen...</p></details>
    Published: August 1978  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Common Causes of UFO Reports: Venus and More  
-   Link: [https://www.youtube.com/watch?v=Zt_r8s4-P0c](https://www.youtube.com/watch?v=Zt_r8s4-P0c)  
+   Link: <a href="https://www.youtube.com/watch?v=Zt_r8s4-P0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zt_r8s4-P0c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Bright Planets Trigger Mass Sightings...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0-GIFJfM0mk](https://www.youtube.com/watch?v=0-GIFJfM0mk)  
+   Link: <a href="https://www.youtube.com/watch?v=0-GIFJfM0mk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0-GIFJfM0mk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did NASA Find Life On Venus In 1978 And Not Realize It?James Webb Found the Most Promising Sign of Alien Life Ever Recorded. Night Scienc...</p></details>

@@ -1185,7 +1185,7 @@ next_link:
   title: Ukraine UFOs
   permalink: /what-is-really-seen-over-ukraine/
   short_title: Ukraine UFOs
-date: '2026-06-09 01:30:40 '
+date: '2026-06-10 01:56:08 '
 header:
   og_image: /assets/images/Kazakhstan_2f36b6-overview-social.jpg
   preview_image: /assets/images/Kazakhstan_2f36b6-overview.webp
@@ -1200,9 +1200,9 @@ Unidentified flying object (UFO) phenomena in **Kazakhstan** consist of a mix of
 <img src="{{ "/assets/images/Kazakhstan_2f36b6-overview.webp" | relative_url }}" alt="Overview image for What Is Really Seen Over Kazakhstan?" loading="eager" decoding="sync" fetchpriority="high">
 ## Recent Notable Sky Observations and Official Explanations
 
-Across 2025 and 2026, residents in multiple Kazakh cities — including the capital **Astana** (formerly Nur‑Sultan), Shymkent, Qaraganda, and Petropavlovsk — captured bright lights or unusual luminous objects traversing the night sky. Videos and social media posts sparked speculation about UFOs, but the **Ministry of Defence** and other authorities consistently denied any violations of Kazakhstan’s airspace by unidentified craft. They explained these phenomena as likely atmospheric events such as the re‑entry of space debris or meteors burning up on descent, emphasising that no threats to the population was evident and that control systems did not detect unknown aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">TengrinewsMinistry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.iz.ru">[2en.iz.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.iz.ru</span><span class="citation-popover-snippet">| ИзвестияJune 5, 2025 — World THE MINISTRY OF DEFENSE OF KAZAKHSTAN HAS DENIED FAKES ABOUT THE APPEARANCE OF UFOS IN THE SKY OVER THE CO...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
+Across 2025 and 2026, residents in multiple Kazakh cities — including the capital **Astana** (formerly Nur‑Sultan), Shymkent, Qaraganda, and Petropavlovsk — captured bright lights or unusual luminous objects traversing the night sky. Videos and social media posts sparked speculation about UFOs, but the **Ministry of Defence** and other authorities consistently denied any violations of Kazakhstan’s airspace by unidentified craft. They explained these phenomena as likely atmospheric events such as the re‑entry of space debris or meteors burning up on descent, emphasising that no threats to the population was evident and that control systems did not detect unknown aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">Ministry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.iz.ru">[2en.iz.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.iz.ru</span><span class="citation-popover-snippet">ИзвестияJune 5, 2025 — World THE MINISTRY OF DEFENSE OF KAZAKHSTAN HAS DENIED FAKES ABOUT THE APPEARANCE OF UFOS IN THE SKY OVER THE CO...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
 
-For instance, during an episode on 5–6 June 2025, bright lights recorded over Astana led the Ministry of Defence to reiterate that Kazakhstan’s air defence had not registered any UFO flights, attributing the visual spectacle to space object re‑entry through the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">TengrinewsMinistry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
+For instance, during an episode on 5–6 June 2025, bright lights recorded over Astana led the Ministry of Defence to reiterate that Kazakhstan’s air defence had not registered any UFO flights, attributing the visual spectacle to space object re‑entry through the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">Ministry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kazakhstan_2f36b6-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really Seen Over Kazakhstan? illustration 1" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1210,7 +1210,7 @@ For instance, during an episode on 5–6 June 2025, bright lights recorded over 
 
 Unofficial sighting trackers and sighting databases list multiple reports from across Kazakhstan, with events allegedly ranging from brief disc or sphere appearances to elongated, “cigar‑shaped” objects. According to the UFO Hunters database, reported sightings include events in **Astana** (2017), **Almaty** (2008), **Petropavlovsk** (2014) and even historical reports as far back as 1915 describing a prolonged “fireball” in the sky. These entries, however, are civilian‑submitted and typically lack independent verification by scientific or government bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/KAZ/Kazakhstan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Kazakhstan</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Kazakhstan - UFO Hunters...</span></span></span>
 
-Another civilian‑reported case dates to 1 May 2025, when witnesses over Astana described a “golden glowing object hovering motionless for about 30 minutes before vanishing,” observed by more than 20 people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Kazakhstan</span><span class="citation-popover-snippet">May 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
+Another civilian‑reported case dates to 1 May 2025, when witnesses over Astana described a “golden glowing object hovering motionless for about 30 minutes before vanishing,” observed by more than 20 people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Kazakhstan</span><span class="citation-popover-snippet">May 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Odt7LTp3r5U" title="Tic Tac UFO over Almaty, Kazakhstan." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Odt7LTp3r5U" target="_blank" rel="noopener noreferrer">Tic Tac UFO over Almaty, Kazakhstan.</a></p><p class="youtube-embed-meta">Channel: Only Real UFOs &middot; Views: 2.9K &middot; Uploaded: October 2022 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Odt7LTp3r5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Odt7LTp3r5U">Open on YouTube</a></p></div></div></div>
@@ -1225,7 +1225,7 @@ Additionally, fringe sources recount a dramatic alleged **1979 UFO crash** in th
 <img src="{{ "/assets/images/Kazakhstan_2f36b6-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really Seen Over Kazakhstan? illustration 2" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Video Claims and Fact‑Checking
 
-In the digital age, video clips purportedly showing UFOs in Kazakhstan periodically circulate online. Independent fact‑checking by organisations such as Snopes has examined such footage, typically concluding that identified objects in these videos are either mundane atmospheric or artefacts of recording, rather than genuine evidence of unidentified aerial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factcheck.kz/nauka/video-nlo-v-kazahstane-izuchili-faktchekery-amerikanskogo-snopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.kz">[Factcheck.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.kz</span><span class="citation-popover-title">video nlo v kazahstane izuchili faktchekery amerikanskogo snopes</span><span class="citation-popover-snippet">«Видео НЛО в Казахстане» изучили фактчекеры американского Snopes | ФактчекJune 22, 2023...</span><span class="citation-popover-meta">Published: June 22, 2023</span></span></span>
+In the digital age, video clips purportedly showing UFOs in Kazakhstan periodically circulate online. Independent fact‑checking by organisations such as Snopes has examined such footage, typically concluding that identified objects in these videos are either mundane atmospheric or artefacts of recording, rather than genuine evidence of unidentified aerial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factcheck.kz/nauka/video-nlo-v-kazahstane-izuchili-faktchekery-amerikanskogo-snopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.kz">[Factcheck.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.kz</span><span class="citation-popover-title">video nlo v kazahstane izuchili faktchekery amerikanskogo snopes</span><span class="citation-popover-snippet">«Видео НЛО в Казахстане» изучили фактчекеры американского Snopes &#124; ФактчекJune 22, 2023...</span><span class="citation-popover-meta">Published: June 22, 2023</span></span></span>
 
 Supplemental online platforms like YouTube host UFO‑related videos from Kazakhstan — for example clips claiming unidentified L‑shaped formations or “Tic Tac”‑style craft over **Almaty**. These are user‑generated and do not by themselves constitute confirmed UAP cases; analysts emphasise caution and the need to differentiate atmospheric/optical effects or misidentified aircraft from anomalous phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=oKNPPhO8VlU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sighting in Kazakhstan, what could it be? #sighting #uap #aliens</span><span class="citation-popover-snippet">UFO sighting in Kazakhstan, what could it be? #sighting #uap #aliens - YouTubeApril 10, 2026...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
 
@@ -1236,7 +1236,7 @@ Supplemental online platforms like YouTube host UFO‑related videos from Kazakh
 
 From an evidentiary standpoint, reported sightings in Kazakhstan fall into three broad categories:
 
-* **Ordinary misidentifications:** Many cases align with natural atmospheric phenomena (meteor trails, space debris re‑entries) or civilian misinterpretations of conventional aircraft and lighting. Official sources routinely explain such events without invoking unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">TengrinewsMinistry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
+* **Ordinary misidentifications:** Many cases align with natural atmospheric phenomena (meteor trails, space debris re‑entries) or civilian misinterpretations of conventional aircraft and lighting. Official sources routinely explain such events without invoking unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">Ministry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
 * **Civilian witness reports:** Unverified sightings by citizens contribute to a catalogue of events; while interesting sociologically, these lack corroboration from radar, instrumentation, or official investigation archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/KAZ/Kazakhstan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Kazakhstan</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Kazakhstan - UFO Hunters...</span></span></span>
 * **Fringe historical claims:** Older tales of UFO encounters and alleged recoveries are rooted more in anecdotal ufology or speculative literature than in documented, authenticated evidence.
 
@@ -1250,93 +1250,51 @@ Sighting reports emerge from across Kazakhstan’s wide geography — from the c
 
 ## Closing Perspective
 
-Within the national context of Kazakhstan, UFO phenomena primarily consist of eyewitness accounts and occasional high‑profile community‑shared videos. Official statements consistently attribute such events to natural or explainable causes, emphasising that no unidentified aerial incursions into Kazakh airspace have been confirmed. While the topic remains of popular fascination, especially in civilian and online communities, there is a notable absence of independently verified, scientific data confirming anomalous craft or non‑terrestrial technology operating over Kazakhstan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">TengrinewsMinistry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
+Within the national context of Kazakhstan, UFO phenomena primarily consist of eyewitness accounts and occasional high‑profile community‑shared videos. Official statements consistently attribute such events to natural or explainable causes, emphasising that no unidentified aerial incursions into Kazakh airspace have been confirmed. While the topic remains of popular fascination, especially in civilian and online communities, there is a notable absence of independently verified, scientific data confirming anomalous craft or non‑terrestrial technology operating over Kazakhstan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.tengrinews.kz">[Tengrinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.tengrinews.kz</span><span class="citation-popover-title">ministry of defense responded to question about ufo flights 266290</span><span class="citation-popover-snippet">Ministry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uZAMNfn3Jd8" title="UFO in Kazakhstan Almaty city" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uZAMNfn3Jd8" target="_blank" rel="noopener noreferrer">UFO in Kazakhstan Almaty city</a></p><p class="youtube-embed-meta">Channel: Kotik &middot; Views: 5.4K &middot; Uploaded: January 2011 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uZAMNfn3Jd8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uZAMNfn3Jd8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen Over Kazakhstan?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really Seen Over Kazakhstan?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides broad context for national UFO narratives and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers unexplained sightings, government reactions and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relevant to assessing claims from both civilian and official sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers tools for evaluating unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1370,75 +1328,71 @@ Within the national context of Kazakhstan, UFO phenomena primarily consist of ey
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-kazakhstan-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1653,153 +1607,153 @@ Within the national context of Kazakhstan, UFO phenomena primarily consist of ey
 1. <a id="endnote-1"></a>
    Source: en.tengrinews.kz  
    Title: ministry of defense responded to question about ufo flights 266290  
-   Link: [https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/](https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TengrinewsMinistry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</p></details>
+   Link: <a href="https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/" target="_blank" rel="noopener noreferrer nofollow">https://en.tengrinews.kz/kazakhstan_news/ministry-of-defense-responded-to-question-about-ufo-flights-266290/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defense responded to question about UFO flights over Kazakhstan: 20 January 2025 09:15 - news on Tengrinews.kzJanua...</p></details>
    Published: January 2025  
 
 2. <a id="endnote-2"></a>
    Source: en.iz.ru  
-   Link: [https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country](https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| ИзвестияJune 5, 2025 — World THE MINISTRY OF DEFENSE OF KAZAKHSTAN HAS DENIED FAKES ABOUT THE APPEARANCE OF UFOS IN THE SKY OVER THE CO...</p></details>
+   Link: <a href="https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country" target="_blank" rel="noopener noreferrer nofollow">https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ИзвестияJune 5, 2025 — World THE MINISTRY OF DEFENSE OF KAZAKHSTAN HAS DENIED FAKES ABOUT THE APPEARANCE OF UFOS IN THE SKY OVER THE CO...</p></details>
    Published: June 5, 2025  
 
 3. <a id="endnote-3"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Kazakhstan  
-   Link: [https://www.ufo-hunters.com/sightings/country/KAZ/Kazakhstan](https://www.ufo-hunters.com/sightings/country/KAZ/Kazakhstan)  
+   Link: <a href="https://www.ufo-hunters.com/sightings/country/KAZ/Kazakhstan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/KAZ/Kazakhstan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Kazakhstan - UFO Hunters...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: thephenomenon.app  
    Title: The Phenomenon | Kazakhstan  
-   Link: [https://thephenomenon.app/kazakhstan/](https://thephenomenon.app/kazakhstan/)  
+   Link: <a href="https://thephenomenon.app/kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/kazakhstan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2025...</p></details>
    Published: May 1, 2025  
 
 5. <a id="endnote-5"></a>
    Source: ianews.kz  
-   Link: [https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/](https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/)  
+   Link: <a href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow">https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</p></details>
    Published: October 27, 2018  
 
 6. <a id="endnote-6"></a>
    Source: ufoac.com  
    Title: UF O crash in Kazakhstan  
-   Link: [https://ufoac.com/ufo-crash-in-kazakhstan.html](https://ufoac.com/ufo-crash-in-kazakhstan.html)  
+   Link: <a href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/ufo-crash-in-kazakhstan.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: factcheck.kz  
    Title: video nlo v kazahstane izuchili faktchekery amerikanskogo snopes  
-   Link: [https://factcheck.kz/nauka/video-nlo-v-kazahstane-izuchili-faktchekery-amerikanskogo-snopes/](https://factcheck.kz/nauka/video-nlo-v-kazahstane-izuchili-faktchekery-amerikanskogo-snopes/)  
+   Link: <a href="https://factcheck.kz/nauka/video-nlo-v-kazahstane-izuchili-faktchekery-amerikanskogo-snopes/" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.kz/nauka/video-nlo-v-kazahstane-izuchili-faktchekery-amerikanskogo-snopes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>«Видео НЛО в Казахстане» изучили фактчекеры американского Snopes | ФактчекJune 22, 2023...</p></details>
    Published: June 22, 2023  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: You Tube UFO sighting in Kazakhstan, what could it be? #sighting #uap #aliens  
-   Link: [https://www.youtube.com/watch?v=oKNPPhO8VlU](https://www.youtube.com/watch?v=oKNPPhO8VlU)  
+   Link: <a href="https://www.youtube.com/watch?v=oKNPPhO8VlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oKNPPhO8VlU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Kazakhstan, what could it be? #sighting #uap #aliens - YouTubeApril 10, 2026...</p></details>
    Published: April 10, 2026  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: You Tube Tic Tac UFO over Almaty, Kazakhstan  
-   Link: [https://www.youtube.com/watch?v=Odt7LTp3r5U](https://www.youtube.com/watch?v=Odt7LTp3r5U)  
+   Link: <a href="https://www.youtube.com/watch?v=Odt7LTp3r5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Odt7LTp3r5U</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO over Almaty, Kazakhstan. - YouTube...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufoac.com  
    Title: Two UFOs were observed over Almaty, Kazakhstan  
-   Link: [https://ufoac.com/two-ufos-were-observed-over-almaty%2C-kazakhstan.html](https://ufoac.com/two-ufos-were-observed-over-almaty%2C-kazakhstan.html)  
+   Link: <a href="https://ufoac.com/two-ufos-were-observed-over-almaty%2C-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/two-ufos-were-observed-over-almaty%2C-kazakhstan.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 14, 2021 — TWO UFO TRANSFORMERS OBSERVED OVER ALMATY, KAZAKHSTAN Report UFO sightings UFOlogist&#x27;s tools Send messages to extrate...</p></details>
    Published: November 14, 2021  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: 7K6u8usgq Jk  
-   Link: [https://www.youtube.com/watch?v=7K6u8usgqJk](https://www.youtube.com/watch?v=7K6u8usgqJk)  
+   Link: <a href="https://www.youtube.com/watch?v=7K6u8usgqJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7K6u8usgqJk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rX73w4GbIVM...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: r X73w4Gb IVM  
-   Link: [https://www.youtube.com/watch?v=rX73w4GbIVM](https://www.youtube.com/watch?v=rX73w4GbIVM)  
+   Link: <a href="https://www.youtube.com/watch?v=rX73w4GbIVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rX73w4GbIVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uZAMNfn3Jd8...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: u ZAMNfn3Jd8  
-   Link: [https://www.youtube.com/watch?v=uZAMNfn3Jd8](https://www.youtube.com/watch?v=uZAMNfn3Jd8)  
+   Link: <a href="https://www.youtube.com/watch?v=uZAMNfn3Jd8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uZAMNfn3Jd8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fc85H0lIulg...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Fc85H0l Iulg  
-   Link: [https://www.youtube.com/watch?v=Fc85H0lIulg](https://www.youtube.com/watch?v=Fc85H0lIulg)  
+   Link: <a href="https://www.youtube.com/watch?v=Fc85H0lIulg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fc85H0lIulg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9ueen9XKZVw...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9ueen9XKZVw](https://www.youtube.com/watch?v=9ueen9XKZVw)  
+   Link: <a href="https://www.youtube.com/watch?v=9ueen9XKZVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ueen9XKZVw</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: zakon.kz  
-   Link: [https://www.zakon.kz/sobytiia/6480009-v-mtsriap-ozvuchili-predvaritelnye-dannye-o-neopoznannykh-obektakh-nad-kazakhstanom.html](https://www.zakon.kz/sobytiia/6480009-v-mtsriap-ozvuchili-predvaritelnye-dannye-o-neopoznannykh-obektakh-nad-kazakhstanom.html)  
+   Link: <a href="https://www.zakon.kz/sobytiia/6480009-v-mtsriap-ozvuchili-predvaritelnye-dannye-o-neopoznannykh-obektakh-nad-kazakhstanom.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zakon.kz/sobytiia/6480009-v-mtsriap-ozvuchili-predvaritelnye-dannye-o-neopoznannykh-obektakh-nad-kazakhstanom.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>В МЦРИАП озвучили предварительные данные о неопознанных объектах над Казахстаном ᐈ новость от 23:50, 05 июня 2025 на zakon.kzJune 5, 2025...</p></details>
    Published: June 5, 2025  
 
 17. <a id="endnote-17"></a>
    Source: newsweek.com  
-   Link: [https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566/](https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsweekJanuary 10, 2020 — Newsgeek Soviet unionUFOKazakhstanCentral Intelligence Agency DECLASSIFIED UFO REPORT DOCUMENTS ‘GREEN CIRCULA...</p></details>
+   Link: <a href="https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566/" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2020 — Newsgeek Soviet unionUFOKazakhstanCentral Intelligence Agency DECLASSIFIED UFO REPORT DOCUMENTS ‘GREEN CIRCULA...</p></details>
    Published: January 10, 2020  
 
 18. <a id="endnote-18"></a>
    Source: rt.com  
-   Link: [https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/](https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/)  
+   Link: <a href="https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO falls in Kazakhstan – witnesses — RT World NewsUFO FALLS IN KAZAKHSTAN – WITNESSES Image: UFO falls in Kazakhstan – witnessesImage: U...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kt.kz  
-   Link: [https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html](https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html)  
+   Link: <a href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2025 — 14:31, вс, 10.05.2026 06.06.2025, 17:19 186976 ВЗБУДОРАЖИВШИЕ КАЗАХСТАНЦЕВ ЯРКИЕ СВЕТЯЩИЕСЯ ОБЪЕКТЫ В НЕБЕ НАД СЕВЕРНЫМ КА...</p></details>
    Published: June 6, 2025  
 
 20. <a id="endnote-20"></a>
    Source: eadaily.com  
-   Link: [https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic](https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic)  
+   Link: <a href="https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EADaily, June 6th, 2025 — Accidents, AsiaJune 6, 2025 — THE MINISTRY OF DEFENSE OF KAZAKHSTAN COMMENTED ON THE APPEARANCE OF UFOS IN THE...</p></details>
    Published: June 6, 2025  
 
 21. <a id="endnote-21"></a>
    Source: inform.kz  
    Title: neopoznannie obekti nad astanoy minoboroni vistupilo s zayavleniem e8010f  
-   Link: [https://www.inform.kz/ru/neopoznannie-obekti-nad-astanoy-minoboroni-vistupilo-s-zayavleniem-e8010f](https://www.inform.kz/ru/neopoznannie-obekti-nad-astanoy-minoboroni-vistupilo-s-zayavleniem-e8010f)  
+   Link: <a href="https://www.inform.kz/ru/neopoznannie-obekti-nad-astanoy-minoboroni-vistupilo-s-zayavleniem-e8010f" target="_blank" rel="noopener noreferrer nofollow">https://www.inform.kz/ru/neopoznannie-obekti-nad-astanoy-minoboroni-vistupilo-s-zayavleniem-e8010f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Неопознанные объекты над Астаной – Минобороны выступило с заявлениемJune 5, 2025 — 23:14, 05 Июня 2025 НЕОПОЗНАННЫЕ ОБЪЕКТЫ НАД АСТАНОЙ –...</p></details>
    Published: June 5, 2025  
 
 22. <a id="endnote-22"></a>
    Source: gov.kz  
-   Link: [https://www.gov.kz/memleket/entities/kazcosmos](https://www.gov.kz/memleket/entities/kazcosmos)  
+   Link: <a href="https://www.gov.kz/memleket/entities/kazcosmos" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.kz/memleket/entities/kazcosmos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Занимаясь регулированием сферы, сотрудники Комитета, а также эксперты подведомственных организаций совместно подд...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gov.kz  
-   Link: [https://www.gov.kz/memleket/entities/kazcosmos?lang=ru](https://www.gov.kz/memleket/entities/kazcosmos?lang=ru)  
+   Link: <a href="https://www.gov.kz/memleket/entities/kazcosmos?lang=ru" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.kz/memleket/entities/kazcosmos?lang=ru</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Занимаясь регулированием сферы, сотрудники Комитета, а также эксперты подведомственных организаций совместно подд...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: timesca.com  
    Title: pentagon ufo files include 1994 tajik air report over kazakhstan  
-   Link: [https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/](https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/)  
+   Link: <a href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Times Of Central AsiaMay 11, 2026 — PENTAGON UFO FILES INCLUDE 1994 TAJIK AIR REPORT OVER KAZAKHSTAN * May 11, 2026 * Posted by Image...</p></details>
    Published: May 11, 2026  
 
 25. <a id="endnote-25"></a>
    Source: en.orda.kz  
    Title: Authorities Comment on Objects Observed in Kazakhstan Sky  
-   Link: [https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/](https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/)  
+   Link: <a href="https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/" target="_blank" rel="noopener noreferrer nofollow">https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comment on Objects Observed in Kazakhstan SkyJune 6, 2025 — AUTHORITIES COMMENT ON OBJECTS OBSERVED IN KAZAKHSTAN SKY 06 June 2025 09:42...</p></details>
    Published: June 6, 2025  

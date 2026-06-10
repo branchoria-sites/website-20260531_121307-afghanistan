@@ -239,7 +239,7 @@ prev_link:
   permalink: /sky-triggers/
   short_title: Sky Triggers
   heading_title: Why Ordinary Lights Look Strange Over Dominica
-date: '2026-06-09 01:25:54 '
+date: '2026-06-10 01:50:32 '
 header:
   og_image: /assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1-social.jpg
   preview_image: /assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1-s
 
 ## Introduction
 
-[Dominica]({{ 'does-dominica-have-real-ufo-cases/' | relative_url }})’s public record of reported unidentified flying object (UFO) or unidentified aerial phenomena (UAP) sightings is notably sparse compared with many Caribbean neighbours. In contrast to the Dominican Republic or Puerto Rico, which appear repeatedly in common sighting databases and regional lists, the Commonwealth of Dominica itself surfaces only rarely in primary UFO/UAP archives. What *does* exist for Dominica consists almost entirely of a handful of informal or mid‑level anecdotal reports rather than well‑documented, investigated cases with corroborating data. This page traces the few reported Dominica‑specific events, highlights where gaps and ambiguities in evidence remain, and explains why many broader “Caribbean UFO” chronologies do not reliably reflect Dominica’s own history of claims.
+Dominica’s public record of reported unidentified flying object (UFO) or unidentified aerial phenomena (UAP) sightings is notably sparse compared with many Caribbean neighbours. In contrast to the Dominican Republic or Puerto Rico, which appear repeatedly in common sighting databases and regional lists, the Commonwealth of Dominica itself surfaces only rarely in primary UFO/UAP archives. What *does* exist for Dominica consists almost entirely of a handful of informal or mid‑level anecdotal reports rather than well‑documented, investigated cases with corroborating data. This page traces the few reported Dominica‑specific events, highlights where gaps and ambiguities in evidence remain, and explains why many broader “Caribbean UFO” chronologies do not reliably reflect Dominica’s own history of claims.
 
 
 <img src="{{ "/assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,9 +256,9 @@ image: /assets/images/Dominica_bc1cd4_sightings_timeline_82bfb1-Illustration-1-s
 
 Available [records]({{ 'records-8c7ed7/' | relative_url }}) for Dominica from established reporting repositories are very limited. The most substantial entry identifiable in major open public archives like the National UFO Reporting Center (NUFORC) is this:
 
-* **August 15–19, 2013, Roseau:** A report logged in the NUFORC database describes several unusual lights seen moving slowly across the sky and a blinking light observed nightly for several days over the Caribbean Sea near Dominica’s capital, Roseau. The witness described a “white fireball moving … slowly” and later periodic blinking every three minutes, suggesting persistent anomalous lights visible against celestial motion. This entry includes some observational detail and a multi‑day window, making it the most referenced Dominica‑specific case in open lists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=101480" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 101480August 20, 2023 — Reported: 2013-08-23 18:05 Pacific Duration: Few Days No of observers: 2. Location: Ros...</span><span class="citation-popover-meta">Published: August 23, 2013</span></span></span>
+* **August 15–19, 2013, Roseau:** A report logged in the NUFORC database describes several unusual lights seen moving slowly across the sky and a blinking light observed nightly for several days over the Caribbean Sea near Dominica’s capital, Roseau. The witness described a “white fireball moving … slowly” and later periodic blinking every three minutes, suggesting persistent anomalous lights visible against celestial motion. This entry includes some observational detail and a multi‑day window, making it the most referenced Dominica‑specific case in open lists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=101480" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 101480August 20, 2023 — Reported: 2013-08-23 18:05 Pacific Duration: Few Days No of observers: 2. Location: Ros...</span><span class="citation-popover-meta">Published: August 23, 2013</span></span></span>
 
-Outside this primary entry, there are scattered community posts and social media anecdotes from residents claiming frequent sightings of lights in the evening sky around places such as Wallhouse or south of Roseau in 2025. These posts describe clusters of points of light that appear, move, disappear or descend into water without sound, but they are informal and lack corroborating verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1khs2x1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Over Dominica 🇩🇲</span><span class="citation-popover-snippet">RedditOver Dominica 🇩🇲May 8, 2025...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
+Outside this primary entry, there are scattered community posts and social media anecdotes from residents claiming frequent sightings of lights in the evening sky around places such as Wallhouse or south of Roseau in 2025. These posts describe clusters of points of light that appear, move, disappear or descend into water without sound, but they are informal and lack corroborating verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1khs2x1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Over Dominica 🇩🇲</span><span class="citation-popover-snippet">Over Dominica 🇩🇲May 8, 2025...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
 
 In contrast, many online lists summarising Caribbean UFO reports place Dominica in the context of regional sightings but typically only list incidents from other islands, notably the **Dominican Republic** — not Dominica — which has numerous sightings logged for Santo Domingo and other cities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/dominican-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -317,11 +317,11 @@ For example, easily accessible NUFORC indexes show many Dominican Republic entri
 
 ## Takeaways: What the Dominica UFO Record Actually Shows
 
-* **There is *at least one* documented Dominica‑specific UAP report in major open archives (2013, Roseau).** Evidence for this consists mainly of witness narrative rather than material data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">For 25 years, it ha</span><span class="citation-popover-snippet">Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **There is *at least one* documented Dominica‑specific UAP report in major open archives (2013, Roseau).** Evidence for this consists mainly of witness narrative rather than material data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">For 25 years, it ha</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* **Beyond this, public evidence is fragmentary and largely informal**, consisting of occasional anecdotes without independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1khs2x1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Over Dominica 🇩🇲</span><span class="citation-popover-snippet">RedditOver Dominica 🇩🇲May 8, 2025...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
+* **Beyond this, public evidence is fragmentary and largely informal**, consisting of occasional anecdotes without independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1khs2x1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Over Dominica 🇩🇲</span><span class="citation-popover-snippet">Over Dominica 🇩🇲May 8, 2025...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
 * **Many regional UFO summaries do not meaningfully reflect Dominica sightings** because they conflate similar names or focus on better‑documented neighbouring islands like the Dominican Republic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/dominican-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Substantial evidence gaps persist**, including lack of photographic, radar, multi‑witness, or official investigation data.
 
@@ -334,86 +334,44 @@ This sparse and ambiguous evidential landscape means Dominica’s UFO chronology
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What UFO Cases Are Actually From Dominica?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What UFO Cases Are Actually From Dominica?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines patterns across reported sightings and timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for comparing isolated sightings within larger case histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Helps readers assess which reported cases deserve attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Adds historical perspective to sparse regional sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -447,75 +405,71 @@ This sparse and ambiguous evidential landscape means Dominica’s UFO chronology
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-82c3f8-what-ufo-cases-are-actually-from-dominica-dominica-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -729,109 +683,109 @@ This sparse and ambiguous evidential landscape means Dominica’s UFO chronology
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=101480](https://nuforc.org/sighting/?id=101480)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 101480August 20, 2023 — Reported: 2013-08-23 18:05 Pacific Duration: Few Days No of observers: 2. Location: Ros...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=101480" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101480</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 101480August 20, 2023 — Reported: 2013-08-23 18:05 Pacific Duration: Few Days No of observers: 2. Location: Ros...</p></details>
    Published: August 23, 2013  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Over Dominica 🇩🇲  
-   Link: [https://www.reddit.com/r/UFOs/comments/1khs2x1](https://www.reddit.com/r/UFOs/comments/1khs2x1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditOver Dominica 🇩🇲May 8, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1khs2x1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1khs2x1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Over Dominica 🇩🇲May 8, 2025...</p></details>
    Published: May 8, 2025  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=108049](https://nuforc.org/sighting/?id=108049)  
+   Link: <a href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=108049</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 108049March 27, 2014 — NUFORC UFO SIGHTING 108049 Occurred: 2014-02-21 19:56 Local Reported: 2014-03-24 08:22 Pacific...</p></details>
    Published: February 21, 2014  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=47526](https://nuforc.org/sighting/?id=47526)  
+   Link: <a href="https://nuforc.org/sighting/?id=47526" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=47526</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 47526November 8, 2005 — NUFORC UFO SIGHTING 47526 Occurred: 2005-11-03 01:30 Local Reported: 2005-11-07 12:09 Pacific...</p></details>
    Published: November 3, 2005  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Sims),, Caribbean Shape: U.S. Navy de  
-   Link: [https://nuforc.org/sighting/?id=31013](https://nuforc.org/sighting/?id=31013)  
+   Link: <a href="https://nuforc.org/sighting/?id=31013" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=31013</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 31013September 4, 2003 — NUFORC UFO SIGHTING 31013 Occurred: 1980-06-15 00:00 Local - Approximate Reported: 2003-08-2...</p></details>
    Published: September 4, 2003  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=15727](https://nuforc.org/sighting/?id=15727)  
+   Link: <a href="https://nuforc.org/sighting/?id=15727" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=15727</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 15727January 3, 2001 — NUFORC UFO SIGHTING 15727 Occurred: 2000-12-31 21:40 Local Reported: 2001-01-02 00:00 Pacific...</p></details>
    Published: December 31, 2000  
 
 8. <a id="endnote-8"></a>
    Source: thephenomenon.app  
-   Link: [https://thephenomenon.app/dominican-republic/](https://thephenomenon.app/dominican-republic/)  
+   Link: <a href="https://thephenomenon.app/dominican-republic/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/dominican-republic/</a>  
 
 9. <a id="endnote-9"></a>
    Source: sentientorbs.com  
    Title: NUFORC 54795  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-54795](https://sentientorbs.com/explore/sightings/NUFORC-54795)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-54795" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-54795</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four... Dominica), AL, Dominica, West IndiesAug 15, 2013... Data provenance: This record originates from the National...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/](https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/)  
+   Link: <a href="https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone saw this unidentified object in our skies earlier☄️...UFO? Aliens? There were numerous reports of a strange object in the Texas s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mapuap.com  
-   Link: [https://mapuap.com/sightings/shape/light](https://mapuap.com/sightings/shape/light)  
+   Link: <a href="https://mapuap.com/sightings/shape/light" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sightings/shape/light</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Light-Shaped UAP / UFO Sightings | SENTINEL UAP TrackerLIGHT-SHAPED UAP SIGHTINGS 24,114 documented reports · 9 government-confirmed · Pe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/](https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/)  
+   Link: <a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Caribbean?! Yeah... this morning&#x27;s...An Alien Encounter, an Underground UFO Base, and a Mysterious Mountain in Puer...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYkHsb2KoyI/](https://www.instagram.com/reel/DYkHsb2KoyI/)  
+   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CVM Television on Instagram: &quot;UFO sightings in the...LET&#x27;S START THE MORNING WITH UFOS Bright lights and hot orbs: UFO files shed light...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/tt](https://enigmalabs.io/explore/tt)  
+   Link: <a href="https://enigmalabs.io/explore/tt" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/tt</a>  
 
 16. <a id="endnote-16"></a>
    Source: ufoinsight.com  
-   Link: [https://www.ufoinsight.com/ufos/sightings/ufo-and-alien-encounters-of-the-caribbean](https://www.ufoinsight.com/ufos/sightings/ufo-and-alien-encounters-of-the-caribbean)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/ufo-and-alien-encounters-of-the-caribbean" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/ufo-and-alien-encounters-of-the-caribbean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightSeptember 26, 2023 — FROM BRIGHT LIGHTS TO WINGED HUMANOIDS: UFO AND ALIEN ENCOUNTERS OF THE CARIBBEAN By Marcus Lowth Image...</p></details>
    Published: September 26, 2023  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IslandEcho/posts/islanders-have-been-left-puzzled-after-2-unexplained-lights-were-seen-hovering-i/1556091623185389/](https://www.facebook.com/IslandEcho/posts/islanders-have-been-left-puzzled-after-2-unexplained-lights-were-seen-hovering-i/1556091623185389/)  
+   Link: <a href="https://www.facebook.com/IslandEcho/posts/islanders-have-been-left-puzzled-after-2-unexplained-lights-were-seen-hovering-i/1556091623185389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IslandEcho/posts/islanders-have-been-left-puzzled-after-2-unexplained-lights-were-seen-hovering-i/1556091623185389/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotted at 2￼:00 a.m. over the Western tip. 3 lights in triangular formation, moving across the sky slowly then...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYfMHIJlfWc/](https://www.instagram.com/p/DYfMHIJlfWc/)  
+   Link: <a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen one? We also dove into local lore about UFO sightings right here in New England!Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: danviet.vn  
    Title: Google Maps phát hiện điều bất ngờ về UFO ở Cộng hòa Dominica  
-   Link: [https://danviet.vn/google-maps-phat-hien-dieu-bat-ngo-ve-ufo-o-cong-hoa-dominica-2020083009155402-d817958.html](https://danviet.vn/google-maps-phat-hien-dieu-bat-ngo-ve-ufo-o-cong-hoa-dominica-2020083009155402-d817958.html)  
+   Link: <a href="https://danviet.vn/google-maps-phat-hien-dieu-bat-ngo-ve-ufo-o-cong-hoa-dominica-2020083009155402-d817958.html" target="_blank" rel="noopener noreferrer nofollow">https://danviet.vn/google-maps-phat-hien-dieu-bat-ngo-ve-ufo-o-cong-hoa-dominica-2020083009155402-d817958.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 4, 2020 — Thứ sáu, ngày 04/09/2020 06:41 GMT GOOGLE MAPS PHÁT HIỆN ĐIỀU BẤT NGỜ VỀ UFO Ở CỘNG HÒA DOMINICA + aA - Image Lê Tran...</p></details>
    Published: September 4, 2020  

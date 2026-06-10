@@ -245,7 +245,7 @@ next_link:
   permalink: /manises/
   short_title: Manises
   heading_title: Was Manises Spain's Strongest UFO Case?
-date: '2026-06-09 01:41:23 '
+date: '2026-06-10 02:08:38 '
 header:
   og_image: /assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1-so
 
 ## Introduction
 
-The Canary Islands UFO cases became famous because they looked extraordinary even to experienced observers. Sailors, pilots, doctors, military personnel and ordinary residents reported huge glowing domes, expanding spheres, coloured lights and apparently impossible movements over the Atlantic and the islands themselves. In [Spain]({{ 'spains-ufo-files-mystery-evidence-and/' | relative_url }})’s UFO history, the 1976 and 1979 incidents are among the best-known examples.
+The Canary Islands UFO cases became famous because they looked extraordinary even to experienced observers. Sailors, pilots, doctors, military personnel and ordinary residents reported huge glowing domes, expanding spheres, coloured lights and apparently impossible movements over the Atlantic and the islands themselves. In Spain’s UFO history, the 1976 and 1979 incidents are among the best-known examples.
 
 
 <img src="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1-dark.svg" | relative_url }}" alt="Canary Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes these sightings important is that they also became some of the strongest demonstrations of how real missile launches can generate convincing UFO reports. Later investigations by Spanish researchers and comparisons with Cold War missile records suggested that several of the most dramatic Canary Islands events coincided with submarine-launched Poseidon missile tests conducted far out in the Atlantic. The result was a powerful lesson in perception: a genuine aerial phenomenon was seen by thousands of people, but its appearance made it seem alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoRemarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Los OVNIS de Canarias fueron misiles Poseidon</span><span class="citation-popover-snippet">1976, 24 March 1977, and 5 March 1979 have been explained away as result of the... “Navy Missiles Tests and the Canary Islands UFOs,” In...</span><span class="citation-popover-meta">Published: March 1977</span></span></span>
+What makes these sightings important is that they also became some of the strongest demonstrations of how real missile launches can generate convincing UFO reports. Later investigations by Spanish researchers and comparisons with Cold War missile records suggested that several of the most dramatic Canary Islands events coincided with submarine-launched Poseidon missile tests conducted far out in the Atlantic. The result was a powerful lesson in perception: a genuine aerial phenomenon was seen by thousands of people, but its appearance made it seem alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Remarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Los OVNIS de Canarias fueron misiles Poseidon</span><span class="citation-popover-snippet">1976, 24 March 1977, and 5 March 1979 have been explained away as result of the... “Navy Missiles Tests and the Canary Islands UFOs,” In...</span><span class="citation-popover-meta">Published: March 1977</span></span></span>
 
 ## Why the Canary Islands Were Ideal for UFO Misidentifications
 
@@ -266,7 +266,7 @@ The geography of the Canary Islands helped create unusually dramatic sightings. 
 
 The key factor was twilight illumination. Even when the ground was dark, sunlight could still strike the upper atmosphere. Exhaust plumes from rockets and missiles expanded into enormous glowing clouds, reflecting sunlight while the surrounding sky remained black. To witnesses below, the result could resemble a luminous sphere, a giant jellyfish, a rotating halo or a craft surrounded by energy.
 
-Because the missile itself was often invisible at long range, observers mainly saw the illuminated plume. Without knowledge of a classified military launch, the phenomenon naturally appeared mysterious. Later analyses of the Canary Islands cases repeatedly pointed to this combination of missile exhaust, high altitude and twilight lighting as the most plausible explanation for several famous sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoRemarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the canary islands uap incident 1976</span><span class="citation-popover-snippet">The Canary Islands UAP Incident (1976)Twilight physics fits the colors and longevity; the date matches U.S. Navy Poseidon C-3 missile tes...</span></span></span>
+Because the missile itself was often invisible at long range, observers mainly saw the illuminated plume. Without knowledge of a classified military launch, the phenomenon naturally appeared mysterious. Later analyses of the Canary Islands cases repeatedly pointed to this combination of missile exhaust, high altitude and twilight lighting as the most plausible explanation for several famous sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Remarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the canary islands uap incident 1976</span><span class="citation-popover-snippet">The Canary Islands UAP Incident (1976)Twilight physics fits the colors and longevity; the date matches U.S. Navy Poseidon C-3 missile tes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fQXMbCP30BY" title="UFO Sighting Over the Canary Islands is Next Level Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fQXMbCP30BY" target="_blank" rel="noopener noreferrer">UFO Sighting Over the Canary Islands is Next Level Strange</a></p><p class="youtube-embed-meta">Channel: Stories Lost &middot; Views: 78.3K &middot; Uploaded: September 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fQXMbCP30BY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fQXMbCP30BY">Open on YouTube</a></p></div></div></div>
@@ -275,7 +275,7 @@ Because the missile itself was often invisible at long range, observers mainly s
 
 The most famous case occurred on 22 June 1976. Witnesses across Tenerife, La Palma, La Gomera and Gran Canaria reported a huge luminous display lasting roughly forty minutes. A Spanish naval vessel, the *Atrevida*, was among the first to report an unusual yellow-blue light over the sea. Observers described expanding halos, spiralling lights and changing colours. The event was seen by large numbers of civilians as well as military personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the Canary Islands</span><span class="citation-popover-snippet">UFO sightings in the Canary Islands</span></span></span>
 
-The [Spanish Air Force]({{ 'air-force-files/' | relative_url }}) investigated the incident and eventually produced one of the country's most discussed UFO files. The case gained even greater attention after journalist J. J. Benítez publicised details from the investigation. When Spain later declassified its UFO archives, the 1976 file became one of the most widely examined documents in the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the Canary Islands</span><span class="citation-popover-snippet">UFO sightings in the Canary Islands</span></span></span>
+The Spanish Air Force investigated the incident and eventually produced one of the country's most discussed UFO files. The case gained even greater attention after journalist J. J. Benítez publicised details from the investigation. When Spain later declassified its UFO archives, the 1976 file became one of the most widely examined documents in the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the Canary Islands</span><span class="citation-popover-snippet">UFO sightings in the Canary Islands</span></span></span>
 
 Part of the case's enduring reputation came from a smaller group of witness accounts claiming that occupants could be seen inside a transparent sphere. The best-known testimony came from physician Francisco Padrón León, who reported seeing a large crystalline object containing humanoid figures. However, even officials involved in the original investigation expressed doubts about these more elaborate claims. The military investigator Antonio Muñoz and senior Air Force officers regarded the occupant reports as considerably less reliable than the basic observation of unusual lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the Canary Islands</span><span class="citation-popover-snippet">UFO sightings in the Canary Islands</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/canary-islands-sphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">canary islands sphere</span><span class="citation-popover-snippet">The 1976 Canary Islands Sphere Incident - UFOs23 Jun 2018 — Perhaps one of the most credible cases of alien abduction occurred in Liberty...</span></span></span>
 
@@ -290,9 +290,9 @@ The 1976 event was not isolated. The Canary Islands experienced several other dr
 
 Researchers associated with Spanish sceptical and investigative groups later compared sighting dates with declassified information concerning American missile testing. They argued that multiple Canary Islands UFO reports corresponded closely with launches of Poseidon submarine-launched ballistic missiles from Atlantic test ranges. According to these studies, the famous sightings fit a recurring pattern rather than representing separate unexplained mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Los OVNIS de Canarias fueron misiles Poseidon</span><span class="citation-popover-snippet">1976, 24 March 1977, and 5 March 1979 have been explained away as result of the... “Navy Missiles Tests and the Canary Islands UFOs,” In...</span><span class="citation-popover-meta">Published: March 1977</span></span></span>
 
-The proposed explanation gained strength because the visual descriptions closely matched known missile-plume phenomena observed elsewhere in the world. Witnesses repeatedly described expanding luminous bubbles, glowing domes, coloured clouds and apparently stationary objects that suddenly changed shape. Similar reports have accompanied missile launches in Scandinavia, Russia, North America and other regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/qx6zx5/i_mightve_solved_one_of_my_favorite_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditI might&#x27;ve &quot;solved&quot; one of my favorite UFO cases (Canary...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 1mo...</span></span></span>
+The proposed explanation gained strength because the visual descriptions closely matched known missile-plume phenomena observed elsewhere in the world. Witnesses repeatedly described expanding luminous bubbles, glowing domes, coloured clouds and apparently stationary objects that suddenly changed shape. Similar reports have accompanied missile launches in Scandinavia, Russia, North America and other regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/qx6zx5/i_mightve_solved_one_of_my_favorite_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I might&#x27;ve &quot;solved&quot; one of my favorite UFO cases (Canary...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 1mo...</span></span></span>
 
-While not every detail in every report can be reconstructed with certainty, the repeated alignment between launch records and sightings shifted the discussion away from extraterrestrial explanations and toward aerospace and atmospheric mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoRemarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span>
+While not every detail in every report can be reconstructed with certainty, the repeated alignment between launch records and sightings shifted the discussion away from extraterrestrial explanations and toward aerospace and atmospheric mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Remarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span>
 
 
 <img src="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-2-dark.svg" | relative_url }}" alt="Canary Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,7 +311,7 @@ The Poseidon C-3 was a submarine-launched ballistic missile used by the United S
 
 </div>
 
-To someone unfamiliar with missile launches, these effects could easily resemble an intelligent craft performing manoeuvres beyond conventional aviation. Witnesses were accurately reporting what they saw; the misunderstanding arose from interpreting an unfamiliar visual event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoRemarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the canary islands uap incident 1976</span><span class="citation-popover-snippet">The Canary Islands UAP Incident (1976)Twilight physics fits the colors and longevity; the date matches U.S. Navy Poseidon C-3 missile tes...</span></span></span>
+To someone unfamiliar with missile launches, these effects could easily resemble an intelligent craft performing manoeuvres beyond conventional aviation. Witnesses were accurately reporting what they saw; the misunderstanding arose from interpreting an unfamiliar visual event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Remarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the canary islands uap incident 1976</span><span class="citation-popover-snippet">The Canary Islands UAP Incident (1976)Twilight physics fits the colors and longevity; the date matches U.S. Navy Poseidon C-3 missile tes...</span></span></span>
 
 
 <img src="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-3-dark.svg" | relative_url }}" alt="Canary Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,7 +321,7 @@ One reason the Canary Islands cases remained influential is that they challenge 
 
 The 1976 event demonstrates the opposite. Hundreds or perhaps thousands of people observed something unusual. Their agreement confirms that a remarkable visual phenomenon occurred. It does not automatically identify what produced it.
 
-Mass sightings often generate a strong sense of credibility because independent observers report similar shapes and colours. Yet if all witnesses are observing the same distant atmospheric event, they can also share the same mistaken interpretation. The Canary Islands incidents became a textbook example of this distinction between observing a real phenomenon and correctly identifying its source. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoRemarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> The more dramatic stories in the 1976 case also illustrate how witness testimony can diverge over time. Most observers described lights and luminous structures. Only a small subset reported transparent spheres, interiors or humanoid figures. Those extraordinary elements became the most famous part of the story, even though they were the least consistently supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the Canary Islands</span><span class="citation-popover-snippet">UFO sightings in the Canary Islands</span></span></span>
+Mass sightings often generate a strong sense of credibility because independent observers report similar shapes and colours. Yet if all witnesses are observing the same distant atmospheric event, they can also share the same mistaken interpretation. The Canary Islands incidents became a textbook example of this distinction between observing a real phenomenon and correctly identifying its source. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Remarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</span></span></span> The more dramatic stories in the 1976 case also illustrate how witness testimony can diverge over time. Most observers described lights and luminous structures. Only a small subset reported transparent spheres, interiors or humanoid figures. Those extraordinary elements became the most famous part of the story, even though they were the least consistently supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the Canary Islands</span><span class="citation-popover-snippet">UFO sightings in the Canary Islands</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y1Hfiirwgys" title="Why do some rocket launches look like this?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer">Why do some rocket launches look like this?</a></p><p class="youtube-embed-meta">Channel: Primal Space &middot; Views: 811.3K &middot; Uploaded: November 2018 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y1Hfiirwgys">Open on YouTube</a></p></div></div></div>
@@ -335,86 +335,44 @@ At the same time, the cases helped demonstrate how Cold War military activity co
 That combination of genuine observation, official investigation, declassified records and a plausible technical explanation is why the Canary Islands incidents remain so important. Rather than serving as Spain's strongest evidence for extraterrestrial visitors, they have become one of its clearest examples of how real military technology and atmospheric optics can create the illusion of something alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Spain files · 02 International Disclosure</span><span class="citation-popover-snippet">UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the canary islands uap incident 1976</span><span class="citation-popover-snippet">The Canary Islands UAP Incident (1976)Twilight physics fits the colors and longevity; the date matches U.S. Navy Poseidon C-3 missile tes...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why the Canary Islands UFOs Looked Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why the Canary Islands UFOs Looked Alien, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Focuses on official investigations and the challenge of interpreting unusual aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding witness perception and classification of aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
-        <p class="fr-book-desc">Examines how unusual aerial observations are interpreted within UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Explores military and aviation UFO cases and how official investigations handle unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -448,75 +406,71 @@ That combination of genuine observation, official investigation, declassified re
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canary-lights-why-the-canary-islands-ufos-looked-alien-spain-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -730,120 +684,120 @@ That combination of genuine observation, official investigation, declassified re
 
 1. <a id="endnote-1"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf](https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZenodoRemarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</p></details>
+   Link: <a href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remarkable Missile Sightings from the Canary Islands in...They described it as “a strange craft whose behavior and design were ali...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
    Title: Los OVNIS de Canarias fueron misiles Poseidon  
-   Link: [https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon](https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon)  
+   Link: <a href="https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1976, 24 March 1977, and 5 March 1979 have been explained away as result of the... “Navy Missiles Tests and the Canary Islands UFOs,” In...</p></details>
    Published: March 1977  
 
 3. <a id="endnote-3"></a>
    Source: uapedia.ai  
    Title: the canary islands uap incident 1976  
-   Link: [https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/](https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/)  
+   Link: <a href="https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/the-canary-islands-uap-incident-1976/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canary Islands UAP Incident (1976)Twilight physics fits the colors and longevity; the date matches U.S. Navy Poseidon C-3 missile tes...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in the Canary Islands  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands](https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/qx6zx5/i_mightve_solved_one_of_my_favorite_ufo_cases/](https://www.reddit.com/r/UFOs/comments/qx6zx5/i_mightve_solved_one_of_my_favorite_ufo_cases/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI might&#x27;ve &quot;solved&quot; one of my favorite UFO cases (Canary...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 1mo...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/qx6zx5/i_mightve_solved_one_of_my_favorite_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qx6zx5/i_mightve_solved_one_of_my_favorite_ufo_cases/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I might&#x27;ve &quot;solved&quot; one of my favorite UFO cases (Canary...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 1mo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: one night in june of 1976 over a million and half  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/143nkdo/one_night_in_june_of_1976_over_a_million_and_half/](https://www.reddit.com/r/UnresolvedMysteries/comments/143nkdo/one_night_in_june_of_1976_over_a_million_and_half/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditOne night in June of 1976 over a million and half people...June 7, 2023 — To this day, the story of the 1976 phenomenon continues...</p></details>
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/143nkdo/one_night_in_june_of_1976_over_a_million_and_half/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/143nkdo/one_night_in_june_of_1976_over_a_million_and_half/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>One night in June of 1976 over a million and half people...June 7, 2023 — To this day, the story of the 1976 phenomenon continues...</p></details>
    Published: June 7, 2023  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: canary islands sphere  
-   Link: [https://www.ufoinsight.com/ufos/sightings/canary-islands-sphere](https://www.ufoinsight.com/ufos/sightings/canary-islands-sphere)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/canary-islands-sphere" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/canary-islands-sphere</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Canary Islands Sphere Incident - UFOs23 Jun 2018 — Perhaps one of the most credible cases of alien abduction occurred in Liberty...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Spain files · 02 International Disclosure  
-   Link: [https://ufotransparency.com/international/files/es](https://ufotransparency.com/international/files/es)  
+   Link: <a href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/es</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: U3Co 8 Xtsg  
-   Link: [https://www.youtube.com/shorts/U3Co-8_Xtsg](https://www.youtube.com/shorts/U3Co-8_Xtsg)  
+   Link: <a href="https://www.youtube.com/shorts/U3Co-8_Xtsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/U3Co-8_Xtsg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Canary Island - UFO Presented by Michael Schratt - Full...Here&#x27;s the depiction we had here Gran Canary Island there were 11 eyewitn...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/168518253/Desclasificacion-Ufo-Spain](https://www.scribd.com/document/168518253/Desclasificacion-Ufo-Spain)  
+   Link: <a href="https://www.scribd.com/document/168518253/Desclasificacion-Ufo-Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/168518253/Desclasificacion-Ufo-Spain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Desclasificacion Ufo Spain | PDF | Unidentified Flying ObjectUFO Secrecy and Disclosure in Spain: Explores historical perspectives and ac...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufologist/booth/spanish-canary-islands-UFO.html](https://www.usufocenter.com/ufologist/booth/spanish-canary-islands-UFO.html)  
+   Link: <a href="https://www.usufocenter.com/ufologist/booth/spanish-canary-islands-UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/spanish-canary-islands-UFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spanish Canary Islands UFO Sightings Alien Sphere EncounterDiscover amazing details about the Canary Island UFO Sightings along with othe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dokumen.pub  
    Title: Unidentified Flying Objects Briefing Document: The Best  
-   Link: [https://dokumen.pub/unidentified-flying-objects-briefing-document-the-best-available-evidence-0307492273-9780307492272.html](https://dokumen.pub/unidentified-flying-objects-briefing-document-the-best-available-evidence-0307492273-9780307492272.html)  
+   Link: <a href="https://dokumen.pub/unidentified-flying-objects-briefing-document-the-best-available-evidence-0307492273-9780307492272.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/unidentified-flying-objects-briefing-document-the-best-available-evidence-0307492273-9780307492272.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report investigated officially in the Canary Islands. On November 19, 1976, the Commanding General of the Canaries&#x27; Air Zone, Gen. Ca...</p></details>
    Published: November 19, 1976  
 
 14. <a id="endnote-14"></a>
    Source: bibliotecapleyades.net  
-   Link: [https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1976a.htm](https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1976a.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1976a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1976a.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1976: Multiple Witness Case In The Canary IslandsThe Adjutant considered four possible explanations - aircraft, missile test...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Cristina_Gomez/skies-in-spain-hide-300-years-of-ufo-encounters-f678d7a686a4](https://medium.com/%40Cristina_Gomez/skies-in-spain-hide-300-years-of-ufo-encounters-f678d7a686a4)  
+   Link: <a href="https://medium.com/%40Cristina_Gomez/skies-in-spain-hide-300-years-of-ufo-encounters-f678d7a686a4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/skies-in-spain-hide-300-years-of-ufo-encounters-f678d7a686a4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a Said Aliens Are Real Then Walked It Back 24 Hours Later...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: handwiki.org  
    Title: Unsolved:UFO sightings in the Canary Islands  
-   Link: [https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Canary_Islands](https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Canary_Islands)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HandWikiUnsolved:UFO sightings in the Canary Islands5 Feb 2024 — This reported UFO sighting occurred over the Canary Islands on 22 June 1...</p></details>
+   Link: <a href="https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Canary_Islands</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:UFO sightings in the Canary Islands5 Feb 2024 — This reported UFO sighting occurred over the Canary Islands on 22 June 1...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theufodatabase.com  
    Title: grand canary island spain ufo june 1976  
-   Link: [https://theufodatabase.com/ufos/grand-canary-island-spain-ufo-june-1976](https://theufodatabase.com/ufos/grand-canary-island-spain-ufo-june-1976)  
+   Link: <a href="https://theufodatabase.com/ufos/grand-canary-island-spain-ufo-june-1976" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/ufos/grand-canary-island-spain-ufo-june-1976</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Canary Island, Spain UFOEverything UFO — delivered to your inbox once a month. Stay connected to the subject! Subscribe. © 2026 The...</p></details>
    Published: june 1976  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: ufos aeroplane pilot emergency landing  
-   Link: [https://www.theguardian.com/world/2015/nov/14/ufos-aeroplane-pilot-emergency-landing](https://www.theguardian.com/world/2015/nov/14/ufos-aeroplane-pilot-emergency-landing)  
+   Link: <a href="https://www.theguardian.com/world/2015/nov/14/ufos-aeroplane-pilot-emergency-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2015/nov/14/ufos-aeroplane-pilot-emergency-landing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFOs&#x27; force Spanish pilot to land14 Nov 2015 — The “UFO” sightings off the Canaries in 1979 coincide with records of secret Poseidon mis...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tvi.show  
    Title: the 1976 canary islands ufo sightings  
-   Link: [https://www.tvi.show/skywatch-files/the-1976-canary-islands-ufo-sightings](https://www.tvi.show/skywatch-files/the-1976-canary-islands-ufo-sightings)  
+   Link: <a href="https://www.tvi.show/skywatch-files/the-1976-canary-islands-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1976-canary-islands-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Canary Islands UFO Sighting2 May 2025 — Discover the remarkable 1976 Canary Islands UFO sighting, witnessed by over a million pe...</p></details>
    Published: May 2025  
 
 20. <a id="endnote-20"></a>
    Source: en.everybodywiki.com  
    Title: 1976 Canary Island UFO sighting  
-   Link: [https://en.everybodywiki.com/1976_Canary_Island_UFO_sighting](https://en.everybodywiki.com/1976_Canary_Island_UFO_sighting)  
+   Link: <a href="https://en.everybodywiki.com/1976_Canary_Island_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.everybodywiki.com/1976_Canary_Island_UFO_sighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>everybodywiki.com1976 Canary Island UFO sighting16 Jul 2025 — External links. About.com: 1976-Canary Island Alien Sphere Archived 2014-07...</p></details>

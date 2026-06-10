@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kiribati-3f57ad-index/
 description: Focused pages that expand on What Is Really Known About Kiribati UFOs?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Kiribati_3f57ad
 parent_title: What Is Really Known About Kiribati UFOs?

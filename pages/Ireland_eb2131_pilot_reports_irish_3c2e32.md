@@ -245,7 +245,7 @@ next_link:
   permalink: /recent-sightings/
   short_title: Recent Sightings
   heading_title: Where Are Ireland's UFO Reports Happening Now?
-date: '2026-06-09 01:30:12 '
+date: '2026-06-10 01:55:37 '
 header:
   og_image: /assets/images/Ireland_eb2131_pilot_reports_irish_3c2e32-Illustration-1-social.jpg
   preview_image: /assets/images/Ireland_eb2131_pilot_reports_irish_3c2e32-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Ireland_eb2131_pilot_reports_irish_3c2e32-Illustration-1-s
 
 ## Introduction
 
-Pilot UFO reports attract unusual attention in [Ireland]({{ 'what-is-really-seen-over-ireland/' | relative_url }}) because they come from people trained to observe aircraft, weather conditions, navigation hazards and unusual activity in controlled airspace. Unlike many public UFO accounts, aviation sightings are often logged through formal safety channels, recorded on air traffic control frequencies and reviewed under established reporting procedures. That does not automatically make the sightings accurate or extraordinary, but it means they leave a clearer documentary trail than most civilian reports.
+Pilot UFO reports attract unusual attention in Ireland because they come from people trained to observe aircraft, weather conditions, navigation hazards and unusual activity in controlled airspace. Unlike many public UFO accounts, aviation sightings are often logged through formal safety channels, recorded on air traffic control frequencies and reviewed under established reporting procedures. That does not automatically make the sightings accurate or extraordinary, but it means they leave a clearer documentary trail than most civilian reports.
 
 
 <img src="{{ "/assets/images/Ireland_eb2131_pilot_reports_irish_3c2e32-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Ireland_eb2131_pilot_reports_irish_3c2e32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ireland_eb2131_pilot_reports_irish_3c2e32-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -330,7 +330,7 @@ Other suggestions included:
 * Distant astronomical objects viewed under unusual atmospheric conditions.
 * Military aircraft operating outside the awareness of civilian controllers.
 * Space debris re-entry events.
-* Optical illusions created by relative motion and viewing angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sofrep.com/news/listen-to-the-audio-logs-as-multiple-pilots-report-seeing-ufos-off-the-irish-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sofrep.com">[SOFREP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sofrep.com</span><span class="citation-popover-snippet">SOFREPListen to the audio logs as multiple pilots report seeing...14 Nov 2018 — Listen to the audio logs as multiple pilots report seeing...</span></span></span>
+* Optical illusions created by relative motion and viewing angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sofrep.com/news/listen-to-the-audio-logs-as-multiple-pilots-report-seeing-ufos-off-the-irish-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sofrep.com">[SOFREP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sofrep.com</span><span class="citation-popover-snippet">Listen to the audio logs as multiple pilots report seeing...14 Nov 2018 — Listen to the audio logs as multiple pilots report seeing...</span></span></span>
 
 </div>
 
@@ -343,7 +343,7 @@ The absence of radar returns also complicates interpretation. Some commentators 
 
 ## What Did the Irish Aviation Authority Actually Find?
 
-Media coverage often focused on the word “investigation”, creating the impression that a major government UFO inquiry had begun. In reality, the IAA handled the matter through aviation occurrence-reporting procedures rather than through a specialised UFO programme. The authority's role was to determine whether the reported activity raised aviation safety concerns and whether any identifiable explanation could be established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oireachtas.ie/en/debates/question/2026-01-13/695/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oireachtas.ie">[Oireachtas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oireachtas.ie</span><span class="citation-popover-snippet">OireachtasAir Safety – Tuesday, 13 Jan 202613 Jan 2026 — In Ireland, the competent authority under the occurrence reporting legislation i...</span></span></span>
+Media coverage often focused on the word “investigation”, creating the impression that a major government UFO inquiry had begun. In reality, the IAA handled the matter through aviation occurrence-reporting procedures rather than through a specialised UFO programme. The authority's role was to determine whether the reported activity raised aviation safety concerns and whether any identifiable explanation could be established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oireachtas.ie/en/debates/question/2026-01-13/695/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oireachtas.ie">[Oireachtas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oireachtas.ie</span><span class="citation-popover-snippet">Air Safety – Tuesday, 13 Jan 202613 Jan 2026 — In Ireland, the competent authority under the occurrence reporting legislation i...</span></span></span>
 
 Years after the event, reporting indicated that the IAA's investigation remained inconclusive. The authority did not publicly announce evidence supporting extraterrestrial explanations, secret aircraft or any other extraordinary conclusion. Instead, the case joined a familiar category in aviation and UFO records: a well-documented sighting that could not be decisively explained using the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.ie">[Irish Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.ie</span><span class="citation-popover-snippet">Irish IndependentReports into UFO sightings over Co Kerry by pilots in 2018 &#x27;...19 May 2022 — Three commercial pilots reported seeing br...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
@@ -390,90 +390,48 @@ This gap between observation and explanation is precisely why the incident conti
 Within Ireland's broader history of unexplained aerial reports, the November 2018 sightings therefore stand as one of the country's most credible and best-documented aviation cases—not because they prove a dramatic conclusion, but because they clearly demonstrate how a genuine aviation mystery can remain unresolved even after formal review. Irish Independent <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thejournal.ie/moving-so-fast-ufo-sighting-under-investigation-by-irish-airport-authority-4334894-Nov2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-snippet">1.53pm, 12 Nov 2018. 90.1k. 117. THE IRISH AVIATION...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L3JO5UYFB1A" title="Irish Pilot Sees Unidentified Flying Object, 1962" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L3JO5UYFB1A" target="_blank" rel="noopener noreferrer">Irish Pilot Sees Unidentified Flying Object, 1962</a></p><p class="youtube-embed-meta">Channel: CR&#x27;s Video Vaults &middot; Views: 12.2K &middot; Uploaded: June 2021 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L3JO5UYFB1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L3JO5UYFB1A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5JXWh5bF5eg" title="Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer">Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME</a></p><p class="youtube-embed-meta">Channel: TIME &middot; Views: 151.3K &middot; Uploaded: November 2018 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5JXWh5bF5eg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Pilot UFO Reports Get Attention?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Pilot UFO Reports Get Attention?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Discusses military and pilot encounters with unidentified objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding how pilot testimony is assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Covers formal evaluation of pilot and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strongest available match for pilot-reported UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -507,75 +465,71 @@ Within Ireland's broader history of unexplained aerial reports, the November 201
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-do-pilot-ufo-reports-get-attention-ireland-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -789,108 +743,108 @@ Within Ireland's broader history of unexplained aerial reports, the November 201
 
 1. <a id="endnote-1"></a>
    Source: thejournal.ie  
-   Link: [https://www.thejournal.ie/moving-so-fast-ufo-sighting-under-investigation-by-irish-airport-authority-4334894-Nov2018/](https://www.thejournal.ie/moving-so-fast-ufo-sighting-under-investigation-by-irish-airport-authority-4334894-Nov2018/)  
+   Link: <a href="https://www.thejournal.ie/moving-so-fast-ufo-sighting-under-investigation-by-irish-airport-authority-4334894-Nov2018/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/moving-so-fast-ufo-sighting-under-investigation-by-irish-airport-authority-4334894-Nov2018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.53pm, 12 Nov 2018. 90.1k. 117. THE IRISH AVIATION...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/5453027/ireland-ufo/](https://time.com/5453027/ireland-ufo/)  
+   Link: <a href="https://time.com/5453027/ireland-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5453027/ireland-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The pilots described seeing &quot;a very bright light&quot; moving at &quot;very high speed&quot; and changing direction rapidly. Irish air traffic control n...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: independent.ie  
-   Link: [https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html](https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html)  
+   Link: <a href="https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/irish-news/reports-into-ufo-sightings-over-co-kerry-by-pilots-in-2018-inconclusive-iaa-report/41665340.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Irish IndependentReports into UFO sightings over Co Kerry by pilots in 2018 &#x27;...19 May 2022 — Three commercial pilots reported seeing br...</p></details>
    Published: May 2022  
 
 4. <a id="endnote-4"></a>
    Source: sofrep.com  
-   Link: [https://sofrep.com/news/listen-to-the-audio-logs-as-multiple-pilots-report-seeing-ufos-off-the-irish-coast/](https://sofrep.com/news/listen-to-the-audio-logs-as-multiple-pilots-report-seeing-ufos-off-the-irish-coast/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SOFREPListen to the audio logs as multiple pilots report seeing...14 Nov 2018 — Listen to the audio logs as multiple pilots report seeing...</p></details>
+   Link: <a href="https://sofrep.com/news/listen-to-the-audio-logs-as-multiple-pilots-report-seeing-ufos-off-the-irish-coast/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/listen-to-the-audio-logs-as-multiple-pilots-report-seeing-ufos-off-the-irish-coast/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Listen to the audio logs as multiple pilots report seeing...14 Nov 2018 — Listen to the audio logs as multiple pilots report seeing...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oireachtas.ie  
-   Link: [https://www.oireachtas.ie/en/debates/question/2026-01-13/695/](https://www.oireachtas.ie/en/debates/question/2026-01-13/695/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OireachtasAir Safety – Tuesday, 13 Jan 202613 Jan 2026 — In Ireland, the competent authority under the occurrence reporting legislation i...</p></details>
+   Link: <a href="https://www.oireachtas.ie/en/debates/question/2026-01-13/695/" target="_blank" rel="noopener noreferrer nofollow">https://www.oireachtas.ie/en/debates/question/2026-01-13/695/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Safety – Tuesday, 13 Jan 202613 Jan 2026 — In Ireland, the competent authority under the occurrence reporting legislation i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
    Title: irish authorities investigate ufo sightings by commercial pilots  
-   Link: [https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots](https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots)  
+   Link: <a href="https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2018/nov/13/irish-authorities-investigate-ufo-sightings-by-commercial-pilots</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianIrish authorities investigate UFO sightings by commercial...12 Nov 2018 — The Irish Aviation Authority is investigating afte...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: irishtimes.com  
    Title: ufo reported streaking across irish skies on friday morning 1.3694961  
-   Link: [https://www.irishtimes.com/news/offbeat/ufo-reported-streaking-across-irish-skies-on-friday-morning-1.3694961](https://www.irishtimes.com/news/offbeat/ufo-reported-streaking-across-irish-skies-on-friday-morning-1.3694961)  
+   Link: <a href="https://www.irishtimes.com/news/offbeat/ufo-reported-streaking-across-irish-skies-on-friday-morning-1.3694961" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/offbeat/ufo-reported-streaking-across-irish-skies-on-friday-morning-1.3694961</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesUFO reported streaking across Irish skies on Friday morning12 Nov 2018 — Several commercial aircraft reported seeing at le...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: irishpost.com  
    Title: ufo sighting off coast ireland 161821  
-   Link: [https://www.irishpost.com/outandabout/ufo-sighting-off-coast-ireland-161821](https://www.irishpost.com/outandabout/ufo-sighting-off-coast-ireland-161821)  
+   Link: <a href="https://www.irishpost.com/outandabout/ufo-sighting-off-coast-ireland-161821" target="_blank" rel="noopener noreferrer nofollow">https://www.irishpost.com/outandabout/ufo-sighting-off-coast-ireland-161821</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish PostIrish Aviation Authority investigating sighting of &#x27;UFO&#x27; off...12 Nov 2018 — The Irish Aviation Authority is investigating...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Irish Aviation Authority  
-   Link: [https://en.wikipedia.org/wiki/Irish_Aviation_Authority](https://en.wikipedia.org/wiki/Irish_Aviation_Authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Irish_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Irish_Aviation_Authority</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IrishCentral/posts/shannon-air-traffic-control-was-contacted-by-a-british-airways-captain-flying-ov/10161106480770048/](https://www.facebook.com/IrishCentral/posts/shannon-air-traffic-control-was-contacted-by-a-british-airways-captain-flying-ov/10161106480770048/)  
+   Link: <a href="https://www.facebook.com/IrishCentral/posts/shannon-air-traffic-control-was-contacted-by-a-british-airways-captain-flying-ov/10161106480770048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IrishCentral/posts/shannon-air-traffic-control-was-contacted-by-a-british-airways-captain-flying-ov/10161106480770048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shannon Air Traffic control was contacted by a British...IRISH AUTHORITIES PROBE UFO SIGHTING BY COMMERCIAL PILOTS: A British Airways pi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/](https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/)  
+   Link: <a href="https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDarjChron/videos/ufo-over-ireland/921046221433096/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTING REPORTED: The Irish Aviation Authority...The Irish Aviation Authority (IAA) is investigating several reports of bright ligh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/irishtimes/posts/-video-three-pilots-report-ufo-sighting-over-coast-of-kerryread-more/10156049986286158/](https://www.facebook.com/irishtimes/posts/-video-three-pilots-report-ufo-sighting-over-coast-of-kerryread-more/10156049986286158/)  
+   Link: <a href="https://www.facebook.com/irishtimes/posts/-video-three-pilots-report-ufo-sighting-over-coast-of-kerryread-more/10156049986286158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishtimes/posts/-video-three-pilots-report-ufo-sighting-over-coast-of-kerryread-more/10156049986286158/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: Three pilots report UFO sighting over coast of Kerry...Ireland at centre of major UFO incident after two sets of pilots report ob...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheDarjChron/posts/ufo-sighting-reported-the-irish-aviation-authority-investigating-ufo-sightings-o/1207167729421006/](https://www.facebook.com/TheDarjChron/posts/ufo-sighting-reported-the-irish-aviation-authority-investigating-ufo-sightings-o/1207167729421006/)  
+   Link: <a href="https://www.facebook.com/TheDarjChron/posts/ufo-sighting-reported-the-irish-aviation-authority-investigating-ufo-sightings-o/1207167729421006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDarjChron/posts/ufo-sighting-reported-the-irish-aviation-authority-investigating-ufo-sightings-o/1207167729421006/</a>  
 
 14. <a id="endnote-14"></a>
    Source: euronews.com  
    Title: unidentified flying object investigated irish aviation authority n935566  
-   Link: [https://www.euronews.com/2018/11/13/unidentified-flying-object-investigated-irish-aviation-authority-n935566](https://www.euronews.com/2018/11/13/unidentified-flying-object-investigated-irish-aviation-authority-n935566)  
+   Link: <a href="https://www.euronews.com/2018/11/13/unidentified-flying-object-investigated-irish-aviation-authority-n935566" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2018/11/13/unidentified-flying-object-investigated-irish-aviation-authority-n935566</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of UFO probed by Irish Aviation Authority13 Nov 2018 — The Irish Aviation Authority is investigating reports of &quot;unusual air acti...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: No explanation has been found, with the IAA saying the investigation was  
-   Link: [https://www.facebook.com/Independent.ie/posts/in-2018-three-commercial-pilots-reported-seeing-ufos-over-kerry-no-explanation-h/10160458023278470/](https://www.facebook.com/Independent.ie/posts/in-2018-three-commercial-pilots-reported-seeing-ufos-over-kerry-no-explanation-h/10160458023278470/)  
+   Link: <a href="https://www.facebook.com/Independent.ie/posts/in-2018-three-commercial-pilots-reported-seeing-ufos-over-kerry-no-explanation-h/10160458023278470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Independent.ie/posts/in-2018-three-commercial-pilots-reported-seeing-ufos-over-kerry-no-explanation-h/10160458023278470/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2018, three commercial pilots reported seeing UFOs...19 May 2022 — In 2018, three commercial pilots reported seeing UFOs over Kerry...</p></details>
    Published: May 2022  
 
 16. <a id="endnote-16"></a>
    Source: hellorayo.co.uk  
    Title: ireland investigating ufo sightings by pilots off co kerry coast  
-   Link: [https://www.hellorayo.co.uk/cool-fm/world/trending-news/ireland-investigating-ufo-sightings-by-pilots-off-co-kerry-coast](https://www.hellorayo.co.uk/cool-fm/world/trending-news/ireland-investigating-ufo-sightings-by-pilots-off-co-kerry-coast)  
+   Link: <a href="https://www.hellorayo.co.uk/cool-fm/world/trending-news/ireland-investigating-ufo-sightings-by-pilots-off-co-kerry-coast" target="_blank" rel="noopener noreferrer nofollow">https://www.hellorayo.co.uk/cool-fm/world/trending-news/ireland-investigating-ufo-sightings-by-pilots-off-co-kerry-coast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland investigating UFO sightings by pilots off Co Kerry...13 Nov 2018 — The Irish Aviation Authority is investigating an unidentified...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: 'They were round objects, gone in the blink of an eye'  
-   Link: [https://www.youtube.com/watch?v=QfPvN7kMFa4](https://www.youtube.com/watch?v=QfPvN7kMFa4)  
+   Link: <a href="https://www.youtube.com/watch?v=QfPvN7kMFa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QfPvN7kMFa4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The selected video contains original air traffic control radio exchanges from the notable November 2018 event, where commercial flight cr...</p></details>
    Published: November 2018  
 
 18. <a id="endnote-18"></a>
    Source: ca.finance.yahoo.com  
    Title: ufo investigated ireland multiple aircraft sightings 232300942  
-   Link: [https://ca.finance.yahoo.com/news/ufo-investigated-ireland-multiple-aircraft-sightings-232300942.html](https://ca.finance.yahoo.com/news/ufo-investigated-ireland-multiple-aircraft-sightings-232300942.html)  
+   Link: <a href="https://ca.finance.yahoo.com/news/ufo-investigated-ireland-multiple-aircraft-sightings-232300942.html" target="_blank" rel="noopener noreferrer nofollow">https://ca.finance.yahoo.com/news/ufo-investigated-ireland-multiple-aircraft-sightings-232300942.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>investigated in Ireland after multiple aircraft sightings12 Nov 2018 — The Irish Aviation Authority is investigating an unidentified flyi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cbsnews.com  
    Title: pilots report seeing ufo sky off ireland 2018 11 12  
-   Link: [https://www.cbsnews.com/news/pilots-report-seeing-ufo-sky-off-ireland-2018-11-12/](https://www.cbsnews.com/news/pilots-report-seeing-ufo-sky-off-ireland-2018-11-12/)  
+   Link: <a href="https://www.cbsnews.com/news/pilots-report-seeing-ufo-sky-off-ireland-2018-11-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pilots-report-seeing-ufo-sky-off-ireland-2018-11-12/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots reports seeing UFO &quot;moving so fast&quot; off coast of Ireland12 Nov 2018 — Irish aviation officials are investigating after two airline...</p></details>

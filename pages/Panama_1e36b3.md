@@ -1185,7 +1185,7 @@ next_link:
   title: Qatar UFOs
   permalink: /what-do-qatars-ufo-reports-really-show/
   short_title: Qatar UFOs
-date: '2026-06-09 01:36:49 '
+date: '2026-06-10 02:03:24 '
 header:
   og_image: /assets/images/Panama_1e36b3-overview-social.jpg
   preview_image: /assets/images/Panama_1e36b3-overview.webp
@@ -1216,7 +1216,7 @@ Panama’s public UFO chronology is uneven. Some items are folklore or personali
 
 **2020: Volcán line of lights.** A January 2020 NUFORC report from Volcán described multiple white lights in a straight line disappearing one after another near the horizon. The report itself includes the parenthetical possibility of Starlink satellites. That is a key credibility clue: the described “train” of lights is consistent with a common modern source of UFO reports, especially shortly after satellite deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=152503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2024: Chiriquí lights explained by event projectors.** A more concrete debunking came in November 2024, when residents in several parts of Chiriquí saw unusual lights. *Crítica* reported an explanation from Aulio Hernández, a teacher and vice-president of the Panamanian Association of Amateur Astronomy, who said the lights had the characteristics of robotic projectors used at an outdoor event, with beams reflecting off low clouds during the rainy season and producing repetitive patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino proyecciones robóticas | Critica</span><span class="citation-popover-snippet">Luces raras en Chiriquí: No era un OVNI, sino proyecciones robóticas | Critica</span></span></span>
+**2024: Chiriquí lights explained by event projectors.** A more concrete debunking came in November 2024, when residents in several parts of Chiriquí saw unusual lights. *Crítica* reported an explanation from Aulio Hernández, a teacher and vice-president of the Panamanian Association of Amateur Astronomy, who said the lights had the characteristics of robotic projectors used at an outdoor event, with beams reflecting off low clouds during the rainy season and producing repetitive patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino proyecciones robóticas &#124; Critica</span><span class="citation-popover-snippet">Luces raras en Chiriquí: No era un OVNI, sino proyecciones robóticas &#124; Critica</span></span></span>
 
 **2025: Costa del Este aligned lights report.** NUFORC includes a December 2025 Panama City report describing five white lights south of the bay near Costa del Este, aligned and disappearing one by one. Because this date is after the current date of this page’s preparation, it should not be treated as an event that can be independently evaluated here; it is useful only as an example of how the database continues to receive Panama-labelled reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
@@ -1294,86 +1294,44 @@ The credible position is neither dismissal nor excitement. Panama has documented
 For a serious reader, Panama’s UFO record is most useful as a lesson in classification. “Seen” is not the same as “verified”; “unidentified” is not the same as “extraterrestrial”; and “viral” is not the same as “investigated”. The strongest future Panama case would not be the strangest story, but the one with precise time, location, original files, multiple independent witnesses, sky-object checks, weather data, and transparent review by people who understand both astronomy and aviation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Panama UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Panama UFO Reports Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a broad national overview of sightings, evidence, and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how folklore and UFO narratives interact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for evaluating mixed-quality national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores contemporary reporting and evidence questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1407,75 +1365,71 @@ For a serious reader, Panama’s UFO record is most useful as a lesson in classi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-panama-ufo-reports-really-show-panama-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1690,326 +1644,326 @@ For a serious reader, Panama’s UFO record is most useful as a lesson in classi
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 2. <a id="endnote-2"></a>
    Source: elsiglo.com.pa  
    Title: Murió el hombre chorrerano que viajó en ovni  
-   Link: [https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121](https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=41392](https://nuforc.org/sighting/?id=41392)  
+   Link: <a href="https://nuforc.org/sighting/?id=41392" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=41392</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=101377](https://nuforc.org/sighting/?id=101377)  
+   Link: <a href="https://nuforc.org/sighting/?id=101377" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101377</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=134653](https://nuforc.org/sighting/?id=134653)  
+   Link: <a href="https://nuforc.org/sighting/?id=134653" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=134653</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=152503](https://nuforc.org/sighting/?id=152503)  
+   Link: <a href="https://nuforc.org/sighting/?id=152503" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=152503</a>  
 
 7. <a id="endnote-7"></a>
    Source: critica.com.pa  
    Title: Luces raras en Chiriquí: No era un OVNI, sino proyecciones robóticas | Critica  
-   Link: [https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557](https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557)  
+   Link: <a href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=194616](https://nuforc.org/sighting/?id=194616)  
+   Link: <a href="https://nuforc.org/sighting/?id=194616" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194616</a>  
 
 9. <a id="endnote-9"></a>
    Source: apaa.org.pa  
-   Link: [https://apaa.org.pa/](https://apaa.org.pa/)  
+   Link: <a href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow">https://apaa.org.pa/</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.01956](https://arxiv.org/abs/1809.01956)  
+   Link: <a href="https://arxiv.org/abs/1809.01956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.01956</a>  
 
 11. <a id="endnote-11"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/pdf/T1206.pdf](https://www.fold3.com/pdf/T1206.pdf)  
+   Link: <a href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/pdf/T1206.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/bluebookdesk/pbbcases-1959-1965.pdf](https://documents.theblackvault.com/bluebookdesk/pbbcases-1959-1965.pdf)  
+   Link: <a href="https://documents.theblackvault.com/bluebookdesk/pbbcases-1959-1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbbcases-1959-1965.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Congressional/Press Products...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/tentacled-alien-growing-from-a-meteorite-in-panama/](https://www.vice.com/en/article/tentacled-alien-growing-from-a-meteorite-in-panama/)  
+   Link: <a href="https://www.vice.com/en/article/tentacled-alien-growing-from-a-meteorite-in-panama/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/tentacled-alien-growing-from-a-meteorite-in-panama/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf](https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 22. <a id="endnote-22"></a>
    Source: elsiglo.com.pa  
    Title: 135 panamenos aseguran visto ovni HIES23639113  
-   Link: [https://elsiglo.com.pa/panama/nacionales/135-panamenos-aseguran-visto-ovni-HIES23639113](https://elsiglo.com.pa/panama/nacionales/135-panamenos-aseguran-visto-ovni-HIES23639113)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/135-panamenos-aseguran-visto-ovni-HIES23639113" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/135-panamenos-aseguran-visto-ovni-HIES23639113</a>  
 
 23. <a id="endnote-23"></a>
    Source: elsiglo.com.pa  
    Title: ovnis despertaron deseos sexuales MWES23826846  
-   Link: [https://elsiglo.com.pa/panama/nacionales/ovnis-despertaron-deseos-sexuales-MWES23826846](https://elsiglo.com.pa/panama/nacionales/ovnis-despertaron-deseos-sexuales-MWES23826846)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/ovnis-despertaron-deseos-sexuales-MWES23826846" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/ovnis-despertaron-deseos-sexuales-MWES23826846</a>  
 
 24. <a id="endnote-24"></a>
    Source: elsiglo.com.pa  
    Title: ufologos hacen lobby GIES23639112  
-   Link: [https://elsiglo.com.pa/panama/nacionales/ufologos-hacen-lobby-GIES23639112](https://elsiglo.com.pa/panama/nacionales/ufologos-hacen-lobby-GIES23639112)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/ufologos-hacen-lobby-GIES23639112" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/ufologos-hacen-lobby-GIES23639112</a>  
 
 25. <a id="endnote-25"></a>
    Source: elsiglo.com.pa  
    Title: misterioso programa para avistar ovnis GHES24038726  
-   Link: [https://elsiglo.com.pa/internacional/america/misterioso-programa-para-avistar-ovnis-GHES24038726](https://elsiglo.com.pa/internacional/america/misterioso-programa-para-avistar-ovnis-GHES24038726)  
+   Link: <a href="https://elsiglo.com.pa/internacional/america/misterioso-programa-para-avistar-ovnis-GHES24038726" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/internacional/america/misterioso-programa-para-avistar-ovnis-GHES24038726</a>  
 
 26. <a id="endnote-26"></a>
    Source: elsiglo.com.pa  
    Title: 152 panas visto ovni NWES23826847  
-   Link: [https://elsiglo.com.pa/panama/nacionales/152-panas-visto-ovni-NWES23826847](https://elsiglo.com.pa/panama/nacionales/152-panas-visto-ovni-NWES23826847)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/152-panas-visto-ovni-NWES23826847" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/152-panas-visto-ovni-NWES23826847</a>  
 
 27. <a id="endnote-27"></a>
    Source: elsiglo.com.pa  
    Title: ovni cielo chile MHES23790263  
-   Link: [https://elsiglo.com.pa/internacional/mundo/ovni-cielo-chile-MHES23790263](https://elsiglo.com.pa/internacional/mundo/ovni-cielo-chile-MHES23790263)  
+   Link: <a href="https://elsiglo.com.pa/internacional/mundo/ovni-cielo-chile-MHES23790263" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/internacional/mundo/ovni-cielo-chile-MHES23790263</a>  
 
 28. <a id="endnote-28"></a>
    Source: elsiglo.com.pa  
    Title: escandalo estados unidos oculta programa secreto ovnis MJES24231268  
-   Link: [https://elsiglo.com.pa/panama/nacionales/escandalo-estados-unidos-oculta-programa-secreto-ovnis-MJES24231268](https://elsiglo.com.pa/panama/nacionales/escandalo-estados-unidos-oculta-programa-secreto-ovnis-MJES24231268)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/escandalo-estados-unidos-oculta-programa-secreto-ovnis-MJES24231268" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/escandalo-estados-unidos-oculta-programa-secreto-ovnis-MJES24231268</a>  
 
 29. <a id="endnote-29"></a>
    Source: elsiglo.com.pa  
    Title: contactado extraterrestres 1987 KIES23639237  
-   Link: [https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237](https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237)  
+   Link: <a href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237</a>  
 
 30. <a id="endnote-30"></a>
    Source: elsiglo.com.pa  
-   Link: [https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324](https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324)  
+   Link: <a href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324</a>  
 
 31. <a id="endnote-31"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/AD0688332.pdf](https://documents.theblackvault.com/documents/ufos/AD0688332.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/AD0688332.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/AD0688332.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/nsa/report_air_force_security_office.pdf](https://documents.theblackvault.com/documents/ufos/nsa/report_air_force_security_office.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/nsa/report_air_force_security_office.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/nsa/report_air_force_security_office.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/cia/ufos/C05516752.pdf](https://documents2.theblackvault.com/documents/cia/ufos/C05516752.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/cia/ufos/C05516752.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/cia/ufos/C05516752.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/cia/ufos/C05516781.pdf](https://documents2.theblackvault.com/documents/cia/ufos/C05516781.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/cia/ufos/C05516781.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/cia/ufos/C05516781.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/roswellcaseclosed.pdf](https://documents.theblackvault.com/documents/ufos/roswellcaseclosed.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/roswellcaseclosed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/roswellcaseclosed.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: documents.theblackvault.com  
    Title: pbbcases 1947 1958  
-   Link: [https://documents.theblackvault.com/bluebookdesk/pbbcases-1947-1958.pdf](https://documents.theblackvault.com/bluebookdesk/pbbcases-1947-1958.pdf)  
+   Link: <a href="https://documents.theblackvault.com/bluebookdesk/pbbcases-1947-1958.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbbcases-1947-1958.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-24-2046-1-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-24-2046-1-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2046-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2046-1-1.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/australia/D250_56-483_975473.pdf](https://documents.theblackvault.com/documents/ufos/australia/D250_56-483_975473.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/D250_56-483_975473.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/D250_56-483_975473.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: documents.theblackvault.com  
    Title: Nuc Acc Response  
-   Link: [https://documents.theblackvault.com/documents/nuclear/NucAccResponse.pdf](https://documents.theblackvault.com/documents/nuclear/NucAccResponse.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/nuclear/NucAccResponse.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/nuclear/NucAccResponse.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 41. <a id="endnote-41"></a>
    Source: critica.com.pa  
-   Link: [https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688](https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688)  
+   Link: <a href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688</a>  
 
 42. <a id="endnote-42"></a>
    Source: critica.com.pa  
    Title: chorrerano vaticino llegada de ovnis en 2023 442863  
-   Link: [https://www.critica.com.pa/nacional/chorrerano-vaticino-llegada-de-ovnis-en-2023-442863](https://www.critica.com.pa/nacional/chorrerano-vaticino-llegada-de-ovnis-en-2023-442863)  
+   Link: <a href="https://www.critica.com.pa/nacional/chorrerano-vaticino-llegada-de-ovnis-en-2023-442863" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/chorrerano-vaticino-llegada-de-ovnis-en-2023-442863</a>  
 
 43. <a id="endnote-43"></a>
    Source: critica.com.pa  
-   Link: [https://www.critica.com.pa/insolitas/nino-de-9-anos-causa-revuelo-al-filmar-un-ovni-video-216874](https://www.critica.com.pa/insolitas/nino-de-9-anos-causa-revuelo-al-filmar-un-ovni-video-216874)  
+   Link: <a href="https://www.critica.com.pa/insolitas/nino-de-9-anos-causa-revuelo-al-filmar-un-ovni-video-216874" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/insolitas/nino-de-9-anos-causa-revuelo-al-filmar-un-ovni-video-216874</a>  
 
 44. <a id="endnote-44"></a>
    Source: critica.com.pa  
    Title: trump promete publicar la mayor cantidad de documentos sobre ovnis 508524  
-   Link: [https://www.critica.com.pa/mundo/trump-promete-publicar-la-mayor-cantidad-de-documentos-sobre-ovnis-508524](https://www.critica.com.pa/mundo/trump-promete-publicar-la-mayor-cantidad-de-documentos-sobre-ovnis-508524)  
+   Link: <a href="https://www.critica.com.pa/mundo/trump-promete-publicar-la-mayor-cantidad-de-documentos-sobre-ovnis-508524" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/mundo/trump-promete-publicar-la-mayor-cantidad-de-documentos-sobre-ovnis-508524</a>  
 
 45. <a id="endnote-45"></a>
    Source: critica.com.pa  
    Title: cierran investigacion sobre ovnis 1011  
-   Link: [https://www.critica.com.pa/opinion/cierran-investigacion-sobre-ovnis-1011](https://www.critica.com.pa/opinion/cierran-investigacion-sobre-ovnis-1011)  
+   Link: <a href="https://www.critica.com.pa/opinion/cierran-investigacion-sobre-ovnis-1011" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/opinion/cierran-investigacion-sobre-ovnis-1011</a>  
 
 46. <a id="endnote-46"></a>
    Source: critica.com.pa  
    Title: un ovni toda velocidad en yellowstone video 298776  
-   Link: [https://www.critica.com.pa/insolitas/un-ovni-toda-velocidad-en-yellowstone-video-298776](https://www.critica.com.pa/insolitas/un-ovni-toda-velocidad-en-yellowstone-video-298776)  
+   Link: <a href="https://www.critica.com.pa/insolitas/un-ovni-toda-velocidad-en-yellowstone-video-298776" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/insolitas/un-ovni-toda-velocidad-en-yellowstone-video-298776</a>  
 
 47. <a id="endnote-47"></a>
    Source: critica.com.pa  
    Title: el ovni de roswell 288432  
-   Link: [https://www.critica.com.pa/opinion/el-ovni-de-roswell-288432](https://www.critica.com.pa/opinion/el-ovni-de-roswell-288432)  
+   Link: <a href="https://www.critica.com.pa/opinion/el-ovni-de-roswell-288432" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/opinion/el-ovni-de-roswell-288432</a>  
 
 48. <a id="endnote-48"></a>
    Source: critica.com.pa  
-   Link: [https://www.critica.com.pa/insolitas/plaga-de-ovnis-sobrevuela-japon-214153](https://www.critica.com.pa/insolitas/plaga-de-ovnis-sobrevuela-japon-214153)  
+   Link: <a href="https://www.critica.com.pa/insolitas/plaga-de-ovnis-sobrevuela-japon-214153" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/insolitas/plaga-de-ovnis-sobrevuela-japon-214153</a>  
 
 49. <a id="endnote-49"></a>
    Source: critica.com.pa  
    Title: pentagono admite que investiga ovnis 351377  
-   Link: [https://www.critica.com.pa/nacional/pentagono-admite-que-investiga-ovnis-351377](https://www.critica.com.pa/nacional/pentagono-admite-que-investiga-ovnis-351377)  
+   Link: <a href="https://www.critica.com.pa/nacional/pentagono-admite-que-investiga-ovnis-351377" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/pentagono-admite-que-investiga-ovnis-351377</a>  
 
 50. <a id="endnote-50"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 51. <a id="endnote-51"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=61194](https://nuforc.org/sighting/?id=61194)  
+   Link: <a href="https://nuforc.org/sighting/?id=61194" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61194</a>  
 
 52. <a id="endnote-52"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192946](https://nuforc.org/sighting/?id=192946)  
+   Link: <a href="https://nuforc.org/sighting/?id=192946" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192946</a>  
 
 53. <a id="endnote-53"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say](https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say</a>  
 
 54. <a id="endnote-54"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 55. <a id="endnote-55"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
 56. <a id="endnote-56"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/astropanama/about/?locale=hu_HU](https://www.facebook.com/groups/astropanama/about/?locale=hu_HU)  
+   Link: <a href="https://www.facebook.com/groups/astropanama/about/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/astropanama/about/?locale=hu_HU</a>  
 
 58. <a id="endnote-58"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06984637](https://www.cia.gov/readingroom/document/06984637)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06984637" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984637</a>  
 
 59. <a id="endnote-59"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06871085](https://www.cia.gov/readingroom/document/06871085)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06871085" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06871085</a>  
 
 60. <a id="endnote-60"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06741378](https://www.cia.gov/readingroom/document/06741378)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06741378" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741378</a>  
 
 61. <a id="endnote-61"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/07121670](https://www.cia.gov/readingroom/document/07121670)  
+   Link: <a href="https://www.cia.gov/readingroom/document/07121670" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/07121670</a>  
 
 62. <a id="endnote-62"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06741380](https://www.cia.gov/readingroom/document/06741380)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06741380" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741380</a>  
 
 63. <a id="endnote-63"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 ### Additional References
 
 64. <a id="endnote-64"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eliczXh8BvI](https://www.youtube.com/watch?v=eliczXh8BvI)  
+   Link: <a href="https://www.youtube.com/watch?v=eliczXh8BvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eliczXh8BvI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Alien Symbiote Is Real? What Did they Find in Panama? Is this Real or Fake?...</p></details>
 
 65. <a id="endnote-65"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hohsi3z3G6w](https://www.youtube.com/watch?v=hohsi3z3G6w)  
+   Link: <a href="https://www.youtube.com/watch?v=hohsi3z3G6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hohsi3z3G6w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Panama Alien Update: Owner INFECTED &amp; TURNING into an ALIEN - WTF Going On??...</p></details>
 
 66. <a id="endnote-66"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
    Title: This dude found an Alien in Panama!  
-   Link: [https://www.youtube.com/watch?v=wsbh2BYY8nM](https://www.youtube.com/watch?v=wsbh2BYY8nM)  
+   Link: <a href="https://www.youtube.com/watch?v=wsbh2BYY8nM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wsbh2BYY8nM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Panama Alien Story Update: Alien Owner Becomes Sick | Alien Grows Massive Arm | Account Disappears...</p></details>
 
 68. <a id="endnote-68"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 69. <a id="endnote-69"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin](https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin)  
+   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
 70. <a id="endnote-70"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/](https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/)  
+   Link: <a href="https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/woahdude/comments/1dbdo5q/a_train_of_starlink_satellites_in_the_night_sky/</a>  
 
 71. <a id="endnote-71"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/posts/a-train-of-glittering-spacex-starlink-satellites-shine-brightly-above-a-green-au/1166663761990973/](https://www.facebook.com/spacecom/posts/a-train-of-glittering-spacex-starlink-satellites-shine-brightly-above-a-green-au/1166663761990973/)  
+   Link: <a href="https://www.facebook.com/spacecom/posts/a-train-of-glittering-spacex-starlink-satellites-shine-brightly-above-a-green-au/1166663761990973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/a-train-of-glittering-spacex-starlink-satellites-shine-brightly-above-a-green-au/1166663761990973/</a>  
 
 72. <a id="endnote-72"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 73. <a id="endnote-73"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/astronomia_panama_apaa/?hl=en](https://www.instagram.com/astronomia_panama_apaa/?hl=en)  
+   Link: <a href="https://www.instagram.com/astronomia_panama_apaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/astronomia_panama_apaa/?hl=en</a>  

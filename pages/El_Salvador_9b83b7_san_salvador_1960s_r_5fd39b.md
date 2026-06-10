@@ -9,23 +9,23 @@ sibling_basenames:
 - El_Salvador_9b83b7_volcano_cloud_lookal_3384b5
 tags:
 - el-salvador
-- 1960s-cases
+- 1960-s-cases
 keywords:
 - el-salvador
-- 1960s-cases
+- 1960-s-cases
 affiliate_category: el-salvador
 show_ads: true
 description: The capital's older newspaper sightings show why Salvadoran UFO history begins with press reports, witnesses, and unresolved gaps.
 hero_summary: The capital's older newspaper sightings show why Salvadoran UFO history begins with press reports, witnesses, and unresolved gaps.
 layout: default
-permalink: /1960s-cases/
+permalink: /1960-s-cases/
 sidebar_expanded_urls:
 - /what-really-flies-over-el-salvador/
-nav_short_title: 1960s Cases
+nav_short_title: 1960 s Cases
 title: San Salvador's Oldest UFO Trail
 title_full: San Salvador's Oldest UFO Trail | El Salvador UFOs
-display_title_short: 1960s Cases
-display_title: 1960s Cases
+display_title_short: 1960 s Cases
+display_title: 1960 s Cases
 heading_title: San Salvador's Oldest UFO Trail
 page_heading_title: San Salvador's Oldest UFO Trail
 source_count: 26
@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-test/
   short_title: Evidence Test
   heading_title: How Strong Are El Salvador's UFO Claims?
-date: '2026-06-09 01:26:24 '
+date: '2026-06-10 01:51:04 '
 header:
   og_image: /assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-social.jpg
   preview_image: /assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1.webp
@@ -248,10 +248,10 @@ image: /assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustratio
 
 ## Introduction
 
-San Salvador’s earliest UFO history survives mostly through newspapers rather than official investigations. Unlike countries that later developed military archives or organised civilian reporting systems, [El Salvador]({{ 'what-really-flies-over-el-salvador/' | relative_url }}) entered the UFO era through scattered press stories, eyewitness recollections and a small number of photographs whose originals are now difficult to trace. The result is a fragmentary but revealing record.
+San Salvador’s earliest UFO history survives mostly through newspapers rather than official investigations. Unlike countries that later developed military archives or organised civilian reporting systems, El Salvador entered the UFO era through scattered press stories, eyewitness recollections and a small number of photographs whose originals are now difficult to trace. The result is a fragmentary but revealing record.
 
 
-<img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-dark.svg" | relative_url }}" alt="1960s Cases illustration 1" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-dark.svg" | relative_url }}" alt="1960 s Cases illustration 1" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Two periods stand out in the capital’s surviving chronology: reports from the mid-1960s and the better documented January 1969 sighting that briefly dominated local headlines. Neither case provides verified evidence of extraordinary technology. What they do provide is a snapshot of how Salvadorans in the capital interpreted unusual events in the sky during a decade shaped by the Space Race, Cold War anxieties and expanding newspaper culture. The surviving reports also show how quickly uncertainty became folklore when technical investigation was limited or absent.
 
 ## The 1965 and 1969 sightings
@@ -271,17 +271,22 @@ Within El Salvador, this environment likely amplified local interpretations of o
 
 ### The January 1969 San Salvador case
 
-The best-known early Salvadoran sighting occurred on 15 January 1969 in San Salvador. According to later retrospectives based on the archived edition of *El Diario de Hoy*, the event unfolded around 3:30 in the afternoon under cloudy conditions. Witnesses reportedly described a bright disc-like object moving rapidly across the sky near [Cerro San Jacinto]({{ 'san-jacinto/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
+The best-known early Salvadoran sighting occurred on 15 January 1969 in San Salvador. According to later retrospectives based on the archived edition of *El Diario de Hoy*, the event unfolded around 3:30 in the afternoon under cloudy conditions. Witnesses reportedly described a bright disc-like object moving rapidly across the sky near Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
 
 The account became important largely because several people connected with the newspaper itself reportedly observed the object. A retrospective published decades later states that two carpenters on the newspaper terrace first alerted staff members, after which journalists and employees looked upward and saw the same phenomenon. The newsroom allegedly received additional calls from residents claiming they had also witnessed the object from other parts of the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
 
 Descriptions varied, but several details recur in later retellings:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * The object appeared metallic or reflective.
 * Witnesses described a plate or disc-like shape.
 * It reportedly moved quickly through broken cloud cover.
 * Some observers claimed black smoke emerged from it before it disappeared.
-* The object was said to travel toward Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}).
+* The object was said to travel toward Cerro San Jacinto.
+
+</div>
 
 The event gained enough attention to become a prominent newspaper story the following day. That alone gives it unusual historical weight within El Salvador’s UFO chronology. Most Salvadoran cases from the period remained local anecdotes. This one entered the public archive.
 
@@ -325,7 +330,7 @@ Yet multiple witnesses do not automatically strengthen extraordinary conclusions
 The reported weather conditions are especially relevant here. The retrospective description repeatedly notes a cloudy sky that prevented clear photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span> That limitation matters because uncertain lighting and partial visibility are among the most common features of unresolved UFO reports worldwide.
 
 
-<img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-dark.svg" | relative_url }}" alt="1960s Cases illustration 2" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-dark.svg" | relative_url }}" alt="1960 s Cases illustration 2" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why no official case file survives
 
 There is no widely known Salvadoran equivalent to a Project Blue Book file for the San Salvador sightings. In the United States, many 1950s and 1960s reports eventually entered Air Force archives, even when the investigations were brief or sceptical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">ufos man made made up and unknown</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</span></span></span>
@@ -387,7 +392,7 @@ Importantly, the lack of a confirmed explanation is not evidence of alien origin
 The San Salvador record fits that pattern closely. The sightings are historically important because they show how UFO narratives entered Salvadoran public culture, but the evidence itself remains too limited to support strong conclusions about what witnesses actually saw.
 
 
-<img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-3-dark.svg" | relative_url }}" alt="1960s Cases illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-3-dark.svg" | relative_url }}" alt="1960 s Cases illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 1960s cases still matter in El Salvador
 
 The San Salvador sightings of the 1960s remain important less for what they prove than for what they reveal about the country’s UFO history. They mark the transition from isolated rumours to a documented public narrative preserved in the capital’s press.
@@ -407,86 +412,44 @@ The cases also established patterns that would continue in later Salvadoran repo
 In that sense, the 1969 incident became a template for much of El Salvador’s later UFO culture. The object itself remains unidentified, but the social mechanics of the case are unusually clear. A strange sight in the sky, a newspaper willing to publicise it, a city already fascinated by space-age mysteries, and a lack of technical investigation combined to create one of the country’s earliest enduring UFO stories.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to San Salvador&#x27;s Oldest UFO Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for San Salvador&#x27;s Oldest UFO Trail, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Fits historical newspaper-era sightings and archival cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for interpreting 1960s sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Focuses on historical and folkloric patterns in sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers a contrast between older reports and modern investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -520,75 +483,71 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="1960s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-s-cases-san-salvador-s-oldest-ufo-trail-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -803,99 +762,99 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
 1. <a id="endnote-1"></a>
    Source: blog.myheritage.com  
    Title: Here's what we found.Read more  
-   Link: [https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/](https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/)  
+   Link: <a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...August 9, 2023 — 9 Aug 2023 — We took a peek into the historical...</p></details>
    Published: August 9, 2023  
 
 2. <a id="endnote-2"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos man made made up and unknown  
-   Link: [https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/](https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Soyuz 4  
-   Link: [https://es.wikipedia.org/wiki/Soyuz_4](https://es.wikipedia.org/wiki/Soyuz_4)  
+   Link: <a href="https://es.wikipedia.org/wiki/Soyuz_4" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Soyuz_4</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: newspapers.com  
    Title: alamogordo daily news ufo socorro new m  
-   Link: [https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB](https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB)  
+   Link: <a href="https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Socorro, New Mexico April 1965Just Year Ago, UFO Sighted At Socorro; Mystery Still Unsolved By JAKE BOOHER JR. Associated Press Write...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: elsalvador.com  
-   Link: [https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/](https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/)  
+   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</p></details>
    Published: August 17, 2023  
 
 7. <a id="endnote-7"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia word frequencies.txt  
-   Link: [https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt](https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt)  
+   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_word_frequencies.txt... san 350889 addition 350641 wikipedia 350154 video 348907 canada 348853... newspaper 149...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: somosprimos.com  
-   Link: [https://www.somosprimos.com/sp2009/spapr09/spapr09.htm](https://www.somosprimos.com/sp2009/spapr09/spapr09.htm)  
+   Link: <a href="https://www.somosprimos.com/sp2009/spapr09/spapr09.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.somosprimos.com/sp2009/spapr09/spapr09.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dedicated to Hispanic Heritage and Diversity IssuesDedicated to Hispanic Heritage and Diversity Issues. Society of Hispanic Historical an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: worksheets.codalab.org  
-   Link: [https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt](https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt)  
+   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... newspaper staff saw hand hope operations pressure americans eastern st. legal asia budget retur...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: x.com  
-   Link: [https://x.com/RucksDelBo/status/1262823914453024781](https://x.com/RucksDelBo/status/1262823914453024781)  
+   Link: <a href="https://x.com/RucksDelBo/status/1262823914453024781" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RucksDelBo/status/1262823914453024781</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Portada del Diario de Hoy, señalando avistamiento...Portada del Diario de Hoy, señalando avistamiento de OVNI sobre...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tustinhistory.com  
    Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
-   Link: [https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf](https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf)  
+   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s apparent neglect and disinterest to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: andreaspennophotography.de  
    Title: World / Transcontinental Art / Works / Creation / Culture  
-   Link: [https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/](https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/)  
+   Link: <a href="https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/" target="_blank" rel="noopener noreferrer nofollow">https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VolvoWorld Celebrating Creative Modern Arts / European Arts / Artistry / Exhibitions / Performing Arts / Portrayal Of Great Artists From...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: blog.britishnewspaperarchive.co.uk  
    Title: incredible ufo sightings  
-   Link: [https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/](https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/)  
+   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Another UFO Sighting&#x27; – July 1979. And it wasn&#x27;t just in England that UFOs were being spotted. On 13 July 1979 Irish newspaper...Read more...</p></details>
    Published: July 1979  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Historia del fenómeno OVNI  
-   Link: [https://www.youtube.com/watch?v=pfBv5Wgm-lA](https://www.youtube.com/watch?v=pfBv5Wgm-lA)  
+   Link: <a href="https://www.youtube.com/watch?v=pfBv5Wgm-lA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfBv5Wgm-lA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supuestos ovnis fueron captados sobrevolando zonas militares de El Salvador...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GQL6EYna2Io](https://www.youtube.com/watch?v=GQL6EYna2Io)  
+   Link: <a href="https://www.youtube.com/watch?v=GQL6EYna2Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQL6EYna2Io</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Historically True Alien Encounter? | Berkshire UFO Incident...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linguateca.pt  
-   Link: [https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt](https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt)  
+   Link: <a href="https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>168,3 Mb... el 261914 enquanto 260607 continuar 260129 campo 258546 texto 258457 1999... Salvador 36518 religião 36460 enfim 36409 falha...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: science.howstuffworks.com  
    Title: valensole ufo  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a look at these notable UFO stories: Psychic Contact with UFOs · The Hill Abduction · Jackie Gleason Sees a UFO · Astronomer J. Alle...</p></details>

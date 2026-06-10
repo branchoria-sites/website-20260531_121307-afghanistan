@@ -1185,7 +1185,7 @@ next_link:
   title: Kiribati UFOs
   permalink: /what-is-really-known-about-kiribati-ufos/
   short_title: Kiribati UFOs
-date: '2026-06-09 01:24:17 '
+date: '2026-06-10 01:48:50 '
 header:
   og_image: /assets/images/Colombia_2f7373-overview-social.jpg
   preview_image: /assets/images/Colombia_2f7373-overview.webp
@@ -1203,7 +1203,7 @@ Colombia’s varied landscapes—from Andean highlands to coastal zones—featur
 * **Boyacá Triangle**: Long-standing local narratives describe multiple anomalous lights and objects seen near places such as Cruz de la Culebra, Cruz de Aranda and Cruz de Chames in the Boyacá region. Residents point to sightings stretching back decades, though documentation is largely anecdotal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colombia.com/paranormal/noticias/los-lugares-con-mas-avistamientos-de-ovnis-en-colombia-509753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colombia.com">[Colombia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colombia.com</span><span class="citation-popover-title">paranormal: lugares preferidos por los ovnis en el país</span><span class="citation-popover-snippet">Colombia paranormal: lugares preferidos por los ovnis en el paísMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
 * **Highlands near Nevado del Huila**: Reports dating back at least to the early 2010s describe lights and unidentified objects observed around the Nevado del Huila volcano, with some witnesses and local enthusiasts suggesting a pattern over several years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodigest.com">[UFO Digest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodigest.com</span><span class="citation-popover-title">UFO Digest UFO Sighting at Nevado del Huila, Colombia</span><span class="citation-popover-snippet">UFO DigestUFO Sighting at Nevado del Huila, Colombia - UFO DigestJanuary 27, 2011...</span><span class="citation-popover-meta">Published: January 27, 2011</span></span></span>
 * **Urban and Other Sites**: Independent UFO tracking sites list multiple reported sightings in and around cities such as Bogotá, Floridablanca, Cali, Medellín and La Guajira with object shapes described as discs, saucers, spheres and cigars at various times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/COL/Colombia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Colombia</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Colombia - UFO Hunters...</span></span></span>
-* **Sincelejo and Cali Instances**: Historical user‑reported incidents—such as an oval object seen near Sincelejo in the 1980s and a multi‑light event over Cali in 1999—provide examples of eyewitness accounts that circulated through UFO reporting networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 52087October 30, 2006...</span><span class="citation-popover-meta">Published: October 30, 2006</span></span></span>
+* **Sincelejo and Cali Instances**: Historical user‑reported incidents—such as an oval object seen near Sincelejo in the 1980s and a multi‑light event over Cali in 1999—provide examples of eyewitness accounts that circulated through UFO reporting networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 52087October 30, 2006...</span><span class="citation-popover-meta">Published: October 30, 2006</span></span></span>
 * **Recent Footage**: Videos purporting to show a disc‑like craft over Pasto (2022) and ongoing viral contemporary clips from 2026 crowdsourced on social media have kept public interest alive, although authenticity and interpretation often vary widely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/2022/12/unidentified-flying-saucer-like-object-captured-on-video-in-colombia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-snippet">Latest UFO SightingsUnidentified flying saucer like object captured on video in Colombia • Latest UFO SightingsDecember 22, 2022...</span><span class="citation-popover-meta">Published: December 22, 2022</span></span></span>
 
 Overall, these accounts reflect a **patchwork of citizen‑generated reports and online archives**, not centralised scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/COL/Colombia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Colombia</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Colombia - UFO Hunters...</span></span></span>
@@ -1235,14 +1235,14 @@ Statements from Colombian scientific institutions or meteorological agencies lik
 
 ### Scientific Interpretation and Scepticism
 
-Commentators and experts in astronomical sciences generally note that many sightings attributed to UFOs can **stem from misidentification of astronomical, meteorological, or man‑made objects**—such as satellites, aircraft, drones, atmospheric reflections, or rare optical events. In interviews reported by Colombian media, astronomers emphasise that unexplained sightings are common but often resolve to known phenomena upon careful analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infobae.com/colombia/2023/08/14/supuesto-avistamiento-de-ovnis-en-ibague-reabre-conversacion-sobre-vida-extraterrestre-en-redes-sociales/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infobae.com">[infobae]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infobae.com</span><span class="citation-popover-snippet">infobaeSupuesto avistamiento de ovnis en Ibagué reabre conversación sobre objetos no identificados en Colombia - InfobaeApril 23, 2026...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span> Scientific efforts globally, including those by NASA and independent research groups, emphasise rigorous data collection and caution against jumping to extraordinary conclusions without solid evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infobae.com/colombia/2024/10/20/luces-extranas-fueron-vistas-levitando-sobre-cali-previo-al-inicio-de-la-cop16-las-redes-explotaron-con-teorias-sobre-ovnis-y-seres-extraterrestres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infobae.com">[infobae]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infobae.com</span><span class="citation-popover-snippet">traterrestres - InfobaeMay 13, 2026 — 13 May, 2026 LUCES “EXTRAÑAS” FUERON VISTAS LEVITANDO SOBRE CALI PREVIO AL INICIO DE LA COP16: LAS...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+Commentators and experts in astronomical sciences generally note that many sightings attributed to UFOs can **stem from misidentification of astronomical, meteorological, or man‑made objects**—such as satellites, aircraft, drones, atmospheric reflections, or rare optical events. In interviews reported by Colombian media, astronomers emphasise that unexplained sightings are common but often resolve to known phenomena upon careful analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infobae.com/colombia/2023/08/14/supuesto-avistamiento-de-ovnis-en-ibague-reabre-conversacion-sobre-vida-extraterrestre-en-redes-sociales/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infobae.com">[infobae]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infobae.com</span><span class="citation-popover-snippet">Supuesto avistamiento de ovnis en Ibagué reabre conversación sobre objetos no identificados en Colombia - InfobaeApril 23, 2026...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span> Scientific efforts globally, including those by NASA and independent research groups, emphasise rigorous data collection and caution against jumping to extraordinary conclusions without solid evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infobae.com/colombia/2024/10/20/luces-extranas-fueron-vistas-levitando-sobre-cali-previo-al-inicio-de-la-cop16-las-redes-explotaron-con-teorias-sobre-ovnis-y-seres-extraterrestres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infobae.com">[infobae]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infobae.com</span><span class="citation-popover-snippet">traterrestres - InfobaeMay 13, 2026 — 13 May, 2026 LUCES “EXTRAÑAS” FUERON VISTAS LEVITANDO SOBRE CALI PREVIO AL INICIO DE LA COP16: LAS...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0FqCRPpg57c" title="Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer">Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 68.8K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0FqCRPpg57c">Open on YouTube</a></p></div></div></div>
 
 ## Public Engagement and Cultural Impact
 
-Public and media interest in UFO phenomena in Colombia remains robust, propelled by social media dissemination, independent investigators, speculative articles, and popular narratives. Local ufologists and television features often recount personal experiences or interpretive frameworks in which unidentified sightings are taken seriously, but these stories occupy a space largely distinct from mainstream science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noticiascaracol.com/los-informantes/ovnis-en-colombia-mediatico-ufologo-revela-experiencia-y-dice-que-muchos-los-han-visto-pr30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noticiascaracol.com">[Noticias Caracol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noticiascaracol.com</span><span class="citation-popover-snippet">NoticiasCaracolAugust 29, 2024...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
+Public and media interest in UFO phenomena in Colombia remains robust, propelled by social media dissemination, independent investigators, speculative articles, and popular narratives. Local ufologists and television features often recount personal experiences or interpretive frameworks in which unidentified sightings are taken seriously, but these stories occupy a space largely distinct from mainstream science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noticiascaracol.com/los-informantes/ovnis-en-colombia-mediatico-ufologo-revela-experiencia-y-dice-que-muchos-los-han-visto-pr30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noticiascaracol.com">[Noticias Caracol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noticiascaracol.com</span><span class="citation-popover-snippet">August 29, 2024...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
 
 Social media discussions also show diverse interpretations, ranging from sightings of orbs and spheres to debates over digital video authenticity, reflecting the broader global contest between sceptical and believer communities.
 
@@ -1262,7 +1262,7 @@ In the absence of official scientific verification, Colombian UFO/UAP claims fal
 
 **Common Misidentifications:**
 
-* Many supposed phenomena likely arise from known aerial objects, astronomical events, drones or optical illusions, consistent with broader UAP research findings worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infobae.com/colombia/2023/07/27/estos-son-los-lugares-en-colombia-donde-las-personas-reportan-haber-visto-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infobae.com">[infobae]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infobae.com</span><span class="citation-popover-title">Estos son los lugares en Colombia donde las personas reportan haber visto Ovnis</span><span class="citation-popover-snippet">InfobaeColombia ESTOS SON LOS LUGARES EN COLOMBIA DONDE LAS PERSONAS REPORTAN HABER VISTO OVNIS INCLUSO, EN LUGARES CONCURRIDO COMO EL AE...</span></span></span>
+* Many supposed phenomena likely arise from known aerial objects, astronomical events, drones or optical illusions, consistent with broader UAP research findings worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infobae.com/colombia/2023/07/27/estos-son-los-lugares-en-colombia-donde-las-personas-reportan-haber-visto-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infobae.com">[infobae]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infobae.com</span><span class="citation-popover-title">Estos son los lugares en Colombia donde las personas reportan haber visto Ovnis</span><span class="citation-popover-snippet">Colombia ESTOS SON LOS LUGARES EN COLOMBIA DONDE LAS PERSONAS REPORTAN HABER VISTO OVNIS INCLUSO, EN LUGARES CONCURRIDO COMO EL AE...</span></span></span>
 
 **Anecdotal or Sceptical Reports:**
 
@@ -1298,86 +1298,44 @@ In summary, while Colombia has a rich tapestry of UFO‑related reports and cult
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Known About Colombia&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really Known About Colombia&#x27;s UFO Stories?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Suitable for a national overview of sightings, investigations, and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers comparative case studies relevant to Colombian sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Supports evidence-based assessment of Colombian reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how regional legends and UFO stories interact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1411,75 +1369,71 @@ In summary, while Colombia has a rich tapestry of UFO‑related reports and cult
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-colombias-ufo-what-is-really-known-about-colombia-s-ufo-stories-colom-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1694,218 +1648,218 @@ In summary, while Colombia has a rich tapestry of UFO‑related reports and cult
 1. <a id="endnote-1"></a>
    Source: colombia.com  
    Title: paranormal: lugares preferidos por los ovnis en el país  
-   Link: [https://www.colombia.com/paranormal/noticias/los-lugares-con-mas-avistamientos-de-ovnis-en-colombia-509753](https://www.colombia.com/paranormal/noticias/los-lugares-con-mas-avistamientos-de-ovnis-en-colombia-509753)  
+   Link: <a href="https://www.colombia.com/paranormal/noticias/los-lugares-con-mas-avistamientos-de-ovnis-en-colombia-509753" target="_blank" rel="noopener noreferrer nofollow">https://www.colombia.com/paranormal/noticias/los-lugares-con-mas-avistamientos-de-ovnis-en-colombia-509753</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colombia paranormal: lugares preferidos por los ovnis en el paísMarch 1, 2025...</p></details>
    Published: March 1, 2025  
 
 2. <a id="endnote-2"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Colombia  
-   Link: [https://www.ufo-hunters.com/sightings/country/COL/Colombia](https://www.ufo-hunters.com/sightings/country/COL/Colombia)  
+   Link: <a href="https://www.ufo-hunters.com/sightings/country/COL/Colombia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/COL/Colombia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Colombia - UFO Hunters...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Esfera de Buga  
-   Link: [https://es.wikipedia.org/wiki/Esfera_de_Buga](https://es.wikipedia.org/wiki/Esfera_de_Buga)  
+   Link: <a href="https://es.wikipedia.org/wiki/Esfera_de_Buga" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Esfera_de_Buga</a>  
 
 4. <a id="endnote-4"></a>
    Source: colombia.com  
    Title: Estos son los lugares que más presencia de OVNIS han registrado en Colombia  
-   Link: [https://www.colombia.com/vida-y-estilo/paranormal/los-casos-mas-impresionantes-de-avistamientos-extraterrestres-en-colombia-369520](https://www.colombia.com/vida-y-estilo/paranormal/los-casos-mas-impresionantes-de-avistamientos-extraterrestres-en-colombia-369520)  
+   Link: <a href="https://www.colombia.com/vida-y-estilo/paranormal/los-casos-mas-impresionantes-de-avistamientos-extraterrestres-en-colombia-369520" target="_blank" rel="noopener noreferrer nofollow">https://www.colombia.com/vida-y-estilo/paranormal/los-casos-mas-impresionantes-de-avistamientos-extraterrestres-en-colombia-369520</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 6, 2022...</p></details>
    Published: October 6, 2022  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=52087](https://nuforc.org/sighting/?id=52087)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 52087October 30, 2006...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=52087" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52087</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 52087October 30, 2006...</p></details>
    Published: October 30, 2006  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=40785](https://nuforc.org/sighting/?id=40785)  
+   Link: <a href="https://nuforc.org/sighting/?id=40785" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40785</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 40785December 3, 2004 — NUFORC UFO SIGHTING 40785 Occurred: 1999-12-31 09:00 Local Reported: 2004-11-26 11:43 Pacific...</p></details>
    Published: November 26, 2004  
 
 7. <a id="endnote-7"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2022/12/unidentified-flying-saucer-like-object-captured-on-video-in-colombia.html](https://www.latest-ufo-sightings.net/2022/12/unidentified-flying-saucer-like-object-captured-on-video-in-colombia.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2022/12/unidentified-flying-saucer-like-object-captured-on-video-in-colombia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2022/12/unidentified-flying-saucer-like-object-captured-on-video-in-colombia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsUnidentified flying saucer like object captured on video in Colombia • Latest UFO SightingsDecember 22, 2022...</p></details>
    Published: December 22, 2022  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wLQ-ReurIyY](https://www.youtube.com/watch?v=wLQ-ReurIyY)  
+   Link: <a href="https://www.youtube.com/watch?v=wLQ-ReurIyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wLQ-ReurIyY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Spotted in Colombia Goes Viral ‼️😨 UFO Sighting 2026... - YouTube...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: infobae.com  
    Title: Archivos del gobierno de Estados Unidos sobre ovnis  
-   Link: [https://www.infobae.com/estados-unidos/2026/05/08/archivos-del-gobierno-de-ee-uu-sobre-ovnis-que-dice-la-comunidad-cientifica/](https://www.infobae.com/estados-unidos/2026/05/08/archivos-del-gobierno-de-ee-uu-sobre-ovnis-que-dice-la-comunidad-cientifica/)  
+   Link: <a href="https://www.infobae.com/estados-unidos/2026/05/08/archivos-del-gobierno-de-ee-uu-sobre-ovnis-que-dice-la-comunidad-cientifica/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/estados-unidos/2026/05/08/archivos-del-gobierno-de-ee-uu-sobre-ovnis-que-dice-la-comunidad-cientifica/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>gobierno de Estados Unidos sobre ovnis: qué dice la comunidad científica... existe registro verificable de encuentros con extraterrestre...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Instituto de Hidrología, Meteorología y Estudios Ambientales  
-   Link: [https://es.wikipedia.org/wiki/Instituto_de_Hidrolog%C3%ADa%2C_Meteorolog%C3%ADa_y_Estudios_Ambientales](https://es.wikipedia.org/wiki/Instituto_de_Hidrolog%C3%ADa%2C_Meteorolog%C3%ADa_y_Estudios_Ambientales)  
+   Link: <a href="https://es.wikipedia.org/wiki/Instituto_de_Hidrolog%C3%ADa%2C_Meteorolog%C3%ADa_y_Estudios_Ambientales" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Instituto_de_Hidrolog%C3%ADa%2C_Meteorolog%C3%ADa_y_Estudios_Ambientales</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Academia Colombiana de Ciencias Exactas, Físicas y Naturales  
-   Link: [https://es.wikipedia.org/wiki/Academia_Colombiana_de_Ciencias_Exactas%2C_F%C3%ADsicas_y_Naturales](https://es.wikipedia.org/wiki/Academia_Colombiana_de_Ciencias_Exactas%2C_F%C3%ADsicas_y_Naturales)  
+   Link: <a href="https://es.wikipedia.org/wiki/Academia_Colombiana_de_Ciencias_Exactas%2C_F%C3%ADsicas_y_Naturales" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Academia_Colombiana_de_Ciencias_Exactas%2C_F%C3%ADsicas_y_Naturales</a>  
 
 12. <a id="endnote-12"></a>
    Source: infobae.com  
-   Link: [https://www.infobae.com/colombia/2023/08/14/supuesto-avistamiento-de-ovnis-en-ibague-reabre-conversacion-sobre-vida-extraterrestre-en-redes-sociales/](https://www.infobae.com/colombia/2023/08/14/supuesto-avistamiento-de-ovnis-en-ibague-reabre-conversacion-sobre-vida-extraterrestre-en-redes-sociales/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>infobaeSupuesto avistamiento de ovnis en Ibagué reabre conversación sobre objetos no identificados en Colombia - InfobaeApril 23, 2026...</p></details>
+   Link: <a href="https://www.infobae.com/colombia/2023/08/14/supuesto-avistamiento-de-ovnis-en-ibague-reabre-conversacion-sobre-vida-extraterrestre-en-redes-sociales/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/colombia/2023/08/14/supuesto-avistamiento-de-ovnis-en-ibague-reabre-conversacion-sobre-vida-extraterrestre-en-redes-sociales/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supuesto avistamiento de ovnis en Ibagué reabre conversación sobre objetos no identificados en Colombia - InfobaeApril 23, 2026...</p></details>
    Published: April 23, 2026  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1qnu6jo/insane_highresolution_images_of_an_ufo_flying/](https://www.reddit.com/r/UFOs_Archive/comments/1qnu6jo/insane_highresolution_images_of_an_ufo_flying/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditInsane High-resolution images of an UFO (Flying Saucer) in Valle del Cauca, Colombia...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1qnu6jo/insane_highresolution_images_of_an_ufo_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1qnu6jo/insane_highresolution_images_of_an_ufo_flying/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insane High-resolution images of an UFO (Flying Saucer) in Valle del Cauca, Colombia...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: infobae.com  
-   Link: [https://www.infobae.com/colombia/2024/10/20/luces-extranas-fueron-vistas-levitando-sobre-cali-previo-al-inicio-de-la-cop16-las-redes-explotaron-con-teorias-sobre-ovnis-y-seres-extraterrestres/](https://www.infobae.com/colombia/2024/10/20/luces-extranas-fueron-vistas-levitando-sobre-cali-previo-al-inicio-de-la-cop16-las-redes-explotaron-con-teorias-sobre-ovnis-y-seres-extraterrestres/)  
+   Link: <a href="https://www.infobae.com/colombia/2024/10/20/luces-extranas-fueron-vistas-levitando-sobre-cali-previo-al-inicio-de-la-cop16-las-redes-explotaron-con-teorias-sobre-ovnis-y-seres-extraterrestres/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/colombia/2024/10/20/luces-extranas-fueron-vistas-levitando-sobre-cali-previo-al-inicio-de-la-cop16-las-redes-explotaron-con-teorias-sobre-ovnis-y-seres-extraterrestres/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>traterrestres - InfobaeMay 13, 2026 — 13 May, 2026 LUCES “EXTRAÑAS” FUERON VISTAS LEVITANDO SOBRE CALI PREVIO AL INICIO DE LA COP16: LAS...</p></details>
    Published: May 13, 2026  
 
 15. <a id="endnote-15"></a>
    Source: colombia.com  
    Title: Conoce los 3 lugares de Colombia con mayor cantidad de avistamientos de Ovnis  
-   Link: [https://www.colombia.com/vida-y-estilo/paranormal/3-lugares-de-colombia-donde-se-registran-mas-avistamientos-de-ovnis-474008](https://www.colombia.com/vida-y-estilo/paranormal/3-lugares-de-colombia-donde-se-registran-mas-avistamientos-de-ovnis-474008)  
+   Link: <a href="https://www.colombia.com/vida-y-estilo/paranormal/3-lugares-de-colombia-donde-se-registran-mas-avistamientos-de-ovnis-474008" target="_blank" rel="noopener noreferrer nofollow">https://www.colombia.com/vida-y-estilo/paranormal/3-lugares-de-colombia-donde-se-registran-mas-avistamientos-de-ovnis-474008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 3, 2024 — CONOCE LOS 3 LUGARES DE COLOMBIA CON MAYOR CANTIDAD DE AVISTAMIENTOS DE OVNIS AUNQUE AÚN NO SE COMPRUEBA LA EXISTENCIA DE...</p></details>
    Published: July 3, 2024  
 
 16. <a id="endnote-16"></a>
    Source: colombia.com  
-   Link: [https://www.colombia.com/tecnologia/noticias/avistamiento-ovni-341808](https://www.colombia.com/tecnologia/noticias/avistamiento-ovni-341808)  
+   Link: <a href="https://www.colombia.com/tecnologia/noticias/avistamiento-ovni-341808" target="_blank" rel="noopener noreferrer nofollow">https://www.colombia.com/tecnologia/noticias/avistamiento-ovni-341808</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 puntos de avistamiento OVNI en la Costa colombianaFebruary 25, 2022 — 3 PUNTOS DE AVISTAMIENTO OVNI EN LA COSTA COLOMBIANA ¿SERÁ QUE RE...</p></details>
    Published: February 25, 2022  
 
 17. <a id="endnote-17"></a>
    Source: colombia.com  
    Title: destinos avistamiento ovni colombia 341242  
-   Link: [https://www.colombia.com/tecnologia/astronomia/destinos-avistamiento-ovni-colombia-341242](https://www.colombia.com/tecnologia/astronomia/destinos-avistamiento-ovni-colombia-341242)  
+   Link: <a href="https://www.colombia.com/tecnologia/astronomia/destinos-avistamiento-ovni-colombia-341242" target="_blank" rel="noopener noreferrer nofollow">https://www.colombia.com/tecnologia/astronomia/destinos-avistamiento-ovni-colombia-341242</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Descubre los 7 destinos de Colombia, donde podrás hacer avistamiento OVNIFebruary 21, 2022 — DESCUBRE LOS 7 DESTINOS DE COLOMBIA, DONDE P...</p></details>
    Published: February 21, 2022  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XROAaUvX8c0](https://www.youtube.com/watch?v=XROAaUvX8c0)  
+   Link: <a href="https://www.youtube.com/watch?v=XROAaUvX8c0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XROAaUvX8c0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>en DNews el informe presentado por la Nasa, donde se revelan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fKD33nQpttU](https://www.youtube.com/watch?v=fKD33nQpttU)  
+   Link: <a href="https://www.youtube.com/watch?v=fKD33nQpttU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fKD33nQpttU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A: ¡Jaime Maussan muestra VIDEOS REALES de EXTRATERRESTRES de más de 3...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: infobae.com  
    Title: Estos son los lugares en Colombia donde las personas reportan haber visto Ovnis  
-   Link: [https://www.infobae.com/colombia/2023/07/27/estos-son-los-lugares-en-colombia-donde-las-personas-reportan-haber-visto-ovnis/](https://www.infobae.com/colombia/2023/07/27/estos-son-los-lugares-en-colombia-donde-las-personas-reportan-haber-visto-ovnis/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InfobaeColombia ESTOS SON LOS LUGARES EN COLOMBIA DONDE LAS PERSONAS REPORTAN HABER VISTO OVNIS INCLUSO, EN LUGARES CONCURRIDO COMO EL AE...</p></details>
+   Link: <a href="https://www.infobae.com/colombia/2023/07/27/estos-son-los-lugares-en-colombia-donde-las-personas-reportan-haber-visto-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/colombia/2023/07/27/estos-son-los-lugares-en-colombia-donde-las-personas-reportan-haber-visto-ovnis/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colombia ESTOS SON LOS LUGARES EN COLOMBIA DONDE LAS PERSONAS REPORTAN HABER VISTO OVNIS INCLUSO, EN LUGARES CONCURRIDO COMO EL AE...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/](https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think the spherical UFO sighting in Buga, Colombia...On March 6th, 1982, over 23,000 people witnessed a cigar UFO hovering over a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: [https://www.youtube.com/watch?v=0FqCRPpg57c](https://www.youtube.com/watch?v=0FqCRPpg57c)  
+   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[BRB Talk] Best UFO footage ever from Colombia...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: [BRB Talk] Best UFO footage ever from Colombia  
-   Link: [https://www.youtube.com/watch?v=4tniL4qlFjY](https://www.youtube.com/watch?v=4tniL4qlFjY)  
+   Link: <a href="https://www.youtube.com/watch?v=4tniL4qlFjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4tniL4qlFjY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Spotted in Colombia Goes Viral ‼️ UFO Sighting 2026...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Scientists Successfully Decoded the Buga Sphere — The Results Are Disturbing  
-   Link: [https://www.youtube.com/watch?v=sY_heAkNpTo](https://www.youtube.com/watch?v=sY_heAkNpTo)  
+   Link: <a href="https://www.youtube.com/watch?v=sY_heAkNpTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sY_heAkNpTo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangle Lights Over Curitiba...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Triangle Lights Over Curitiba  
-   Link: [https://www.youtube.com/watch?v=UaQq5G6EPAk](https://www.youtube.com/watch?v=UaQq5G6EPAk)  
+   Link: <a href="https://www.youtube.com/watch?v=UaQq5G6EPAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UaQq5G6EPAk</a>  
 
 26. <a id="endnote-26"></a>
    Source: ufodigest.com  
    Title: UFO Digest UFO Sighting at Nevado del Huila, Colombia  
-   Link: [https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/](https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/)  
+   Link: <a href="https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DigestUFO Sighting at Nevado del Huila, Colombia - UFO DigestJanuary 27, 2011...</p></details>
    Published: January 27, 2011  
 
 27. <a id="endnote-27"></a>
    Source: noticiascaracol.com  
-   Link: [https://www.noticiascaracol.com/los-informantes/ovnis-en-colombia-mediatico-ufologo-revela-experiencia-y-dice-que-muchos-los-han-visto-pr30](https://www.noticiascaracol.com/los-informantes/ovnis-en-colombia-mediatico-ufologo-revela-experiencia-y-dice-que-muchos-los-han-visto-pr30)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NoticiasCaracolAugust 29, 2024...</p></details>
+   Link: <a href="https://www.noticiascaracol.com/los-informantes/ovnis-en-colombia-mediatico-ufologo-revela-experiencia-y-dice-que-muchos-los-han-visto-pr30" target="_blank" rel="noopener noreferrer nofollow">https://www.noticiascaracol.com/los-informantes/ovnis-en-colombia-mediatico-ufologo-revela-experiencia-y-dice-que-muchos-los-han-visto-pr30</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2024...</p></details>
    Published: August 29, 2024  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUmd868DDXH/](https://www.instagram.com/p/DUmd868DDXH/)  
+   Link: <a href="https://www.instagram.com/p/DUmd868DDXH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUmd868DDXH/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colombia estaría registrando un incremento...FUEG 106.5FM 106.5 FM AUMENTAN LOS REPORTES DE AVISTAMIENTOS DE OVNIS EN COLOMBIA... O.V.N...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYwAZrlNWU3/](https://www.instagram.com/reel/DYwAZrlNWU3/)  
+   Link: <a href="https://www.instagram.com/reel/DYwAZrlNWU3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYwAZrlNWU3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI filmado en pleno día en Colombia #Viral Un OVNI fue...#OVNI #UFO #Colombia #Alien #Extraterrestres Fenomeno Viral Noticias Tendenci...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: elpais.com.co  
-   Link: [https://www.elpais.com.co/colombia/ovnis-en-colombia-el-pentagono-informo-que-los-avistamientos-de-ovnis-han-aumentado-cual-es-la-razon-0522.html](https://www.elpais.com.co/colombia/ovnis-en-colombia-el-pentagono-informo-que-los-avistamientos-de-ovnis-han-aumentado-cual-es-la-razon-0522.html)  
+   Link: <a href="https://www.elpais.com.co/colombia/ovnis-en-colombia-el-pentagono-informo-que-los-avistamientos-de-ovnis-han-aumentado-cual-es-la-razon-0522.html" target="_blank" rel="noopener noreferrer nofollow">https://www.elpais.com.co/colombia/ovnis-en-colombia-el-pentagono-informo-que-los-avistamientos-de-ovnis-han-aumentado-cual-es-la-razon-0522.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>El PaísSeptember 5, 2023 — OVNIS EN COLOMBIA: EL PENTÁGONO INFORMÓ QUE LOS AVISTAMIENTOS DE OVNIS HAN AUMENTADO, ¿CUÁL ES LA RAZÓN? El in...</p></details>
    Published: September 5, 2023  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: le rezan a un fani en avistamiento masivo en colombiafani fenómeno anómalo no id  
-   Link: [https://www.facebook.com/RadioAtalayadeMilagro/posts/le-rezan-a-un-fani-en-avistamiento-masivo-en-colombiafani-fen%C3%B3meno-an%C3%B3malo-no-id/1325010526395244/](https://www.facebook.com/RadioAtalayadeMilagro/posts/le-rezan-a-un-fani-en-avistamiento-masivo-en-colombiafani-fen%C3%B3meno-an%C3%B3malo-no-id/1325010526395244/)  
+   Link: <a href="https://www.facebook.com/RadioAtalayadeMilagro/posts/le-rezan-a-un-fani-en-avistamiento-masivo-en-colombiafani-fen%C3%B3meno-an%C3%B3malo-no-id/1325010526395244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RadioAtalayadeMilagro/posts/le-rezan-a-un-fani-en-avistamiento-masivo-en-colombiafani-fen%C3%B3meno-an%C3%B3malo-no-id/1325010526395244/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🙏Le rezan a un FANI 🛸 en avistamiento masivo...COMPLETAMENTE OFICIAL ⚠️ HISTÓRICO ⚠️ EL FENÓMENO OVNI RECONOCIDO DE MANERA OFICIAL SU EX...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: el pentágono difundió documentos imágenes y videos sobre fenómenos no identifica  
-   Link: [https://www.facebook.com/diariochaco/posts/el-pent%C3%A1gono-difundi%C3%B3-documentos-im%C3%A1genes-y-videos-sobre-fen%C3%B3menos-no-identifica/1431748488978162/](https://www.facebook.com/diariochaco/posts/el-pent%C3%A1gono-difundi%C3%B3-documentos-im%C3%A1genes-y-videos-sobre-fen%C3%B3menos-no-identifica/1431748488978162/)  
+   Link: <a href="https://www.facebook.com/diariochaco/posts/el-pent%C3%A1gono-difundi%C3%B3-documentos-im%C3%A1genes-y-videos-sobre-fen%C3%B3menos-no-identifica/1431748488978162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/diariochaco/posts/el-pent%C3%A1gono-difundi%C3%B3-documentos-im%C3%A1genes-y-videos-sobre-fen%C3%B3menos-no-identifica/1431748488978162/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>El Pentágono difundió documentos, imágenes y videos...LOS OVNIS EXISTEN El 8 de mayo de 2026, el gobierno de Donald... Ed-misterios UFO...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: people.com  
    Title: mysterious metal sphere sparks ufo debate never seen a piece like this 11741579  
-   Link: [https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579](https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579)  
+   Link: <a href="https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579" target="_blank" rel="noopener noreferrer nofollow">https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Studying Mysterious Metal Sphere in UFO Debate25 May 2025 — Some scientists have been studying a mysterious sphere seen in Col...</p></details>
    Published: May 2025  
 
 34. <a id="endnote-34"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/co](https://enigmalabs.io/explore/co)  
+   Link: <a href="https://enigmalabs.io/explore/co" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/co</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bogotá 46 2. Envigado 8 3. Itagüí 8 4. Calarcá 8 5. Dosquebradas 3 UFO Sightings in Colombia Image: Copy to clipboard Sigh...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: foxnews.com  
    Title: scientists discover mysterious sphere colombia sparking ufo speculation  
-   Link: [https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation](https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation)  
+   Link: <a href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expert belie...</p></details>
    Published: May 2025  
 
 36. <a id="endnote-36"></a>
    Source: ufo.com.br  
    Title: No programa os contatos de 3o grau de Myriam Ariza, o flagrante obtido  
-   Link: [https://ufo.com.br/cronicas-de-ovnis-colombia/](https://ufo.com.br/cronicas-de-ovnis-colombia/)  
+   Link: <a href="https://ufo.com.br/cronicas-de-ovnis-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/cronicas-de-ovnis-colombia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crônicas De OVNIs: Colômbia - Revista UFOOctober 23, 2018 — CRÔNICAS DE OVNIS: COLÔMBIA Documentário da série Crônicas de OVNIs, apresent...</p></details>
    Published: October 23, 2018  
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW4--wIAR5f/](https://www.instagram.com/reel/DW4--wIAR5f/)  
+   Link: <a href="https://www.instagram.com/reel/DW4--wIAR5f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW4--wIAR5f/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caso Ovni #1 QUE VENIAN DE OTRO PLANETA El Roswell Chileno - Caso Ovni #2 El caso de la FACH...</p></details>

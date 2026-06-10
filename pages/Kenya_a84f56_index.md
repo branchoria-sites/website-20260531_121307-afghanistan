@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kenya-a84f56-index/
 description: Focused pages that expand on What Really Fell From Kenya's Skies?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Kenya_a84f56
 parent_title: What Really Fell From Kenya's Skies?

@@ -245,7 +245,7 @@ next_link:
   permalink: /official-files-8ffb40/
   short_title: Official Files
   heading_title: Are There Official UFO Files to Check?
-date: '2026-06-09 01:36:17 '
+date: '2026-06-10 02:02:48 '
 header:
   og_image: /assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-social.jpg
   preview_image: /assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustrati
 
 ## Introduction
 
-Many reports of strange lights over [North Macedonia]({{ 'what-is-really-in-north-macedonias-ufo/' | relative_url }}) become far less mysterious once the most common sky phenomena are considered first. In a country where publicly documented UFO cases are relatively sparse, meteors, satellites, aircraft and drones account for a large share of sightings that initially appear extraordinary. The key question is usually not whether a light was unidentified at first glance, but whether enough information exists to compare it with known astronomical, aviation and technological activity.
+Many reports of strange lights over North Macedonia become far less mysterious once the most common sky phenomena are considered first. In a country where publicly documented UFO cases are relatively sparse, meteors, satellites, aircraft and drones account for a large share of sightings that initially appear extraordinary. The key question is usually not whether a light was unidentified at first glance, but whether enough information exists to compare it with known astronomical, aviation and technological activity.
 
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-dark.svg" | relative_url }}" alt="Likely Causes illustration 1" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ This matters because some of the most dramatic-looking events seen from Skopje, 
 
 ## Fireballs and the Lake Ohrid Meteor Example
 
-One of the clearest examples of a spectacular but ordinary sky event occurred above Lake Ohrid during the Perseid meteor shower. In August 2024, a bright fireball was recorded by multiple cameras in the Ohrid region, producing exactly the sort of dramatic visual display that often generates UFO speculation. The object appeared as a brilliant streak crossing the sky before disappearing, behaviour entirely consistent with a large meteor entering Earth's atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">A webcam system installed throughout the Lake Ohrid region captured the dramatic</span><span class="citation-popover-snippet">SpaceWatch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</span></span></span>
+One of the clearest examples of a spectacular but ordinary sky event occurred above Lake Ohrid during the Perseid meteor shower. In August 2024, a bright fireball was recorded by multiple cameras in the Ohrid region, producing exactly the sort of dramatic visual display that often generates UFO speculation. The object appeared as a brilliant streak crossing the sky before disappearing, behaviour entirely consistent with a large meteor entering Earth's atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">A webcam system installed throughout the Lake Ohrid region captured the dramatic</span><span class="citation-popover-snippet">Watch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</span></span></span>
 
 For observers unfamiliar with meteor behaviour, fireballs can appear remarkably strange:
 
@@ -309,7 +309,7 @@ Typical characteristics include:
 * No sudden manoeuvres.
 * Appearance shortly after sunset or before sunrise when satellites remain illuminated by the Sun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 
-Many international UFO reports from recent years have later been identified as Starlink passes. Even databases that collect UFO reports contain entries eventually attributed to satellite trains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gist.github.com">[Gist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gist.github.com</span><span class="citation-popover-snippet">Gistnuforc_reports.csv · GitHubA line of Oval/ Pill shaped UFO&#x27;s Heading North East from South... Ball of light, turns into Alien aircra...</span></span></span>
+Many international UFO reports from recent years have later been identified as Starlink passes. Even databases that collect UFO reports contain entries eventually attributed to satellite trains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gist.github.com">[Gist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gist.github.com</span><span class="citation-popover-snippet">nuforc_reports.csv · GitHubA line of Oval/ Pill shaped UFO&#x27;s Heading North East from South... Ball of light, turns into Alien aircra...</span></span></span>
 
 For North Macedonia, satellite visibility is particularly relevant because the country's latitude and generally favourable viewing conditions allow routine observation of low-Earth-orbit satellites. Modern satellite-tracking services can often confirm whether a reported sighting coincided with a known pass. A report that once might have remained unexplained can now frequently be matched to a specific satellite trajectory within minutes.
 
@@ -319,7 +319,7 @@ For North Macedonia, satellite visibility is particularly relevant because the c
 
 Even a single satellite can create confusion.
 
-Researchers have documented cases where sunlight reflecting from Starlink satellites produced unusually bright flares visible from the ground. Under the right conditions, a satellite can suddenly brighten and then fade, creating the impression of an object accelerating, changing shape or appearing and disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+Researchers have documented cases where sunlight reflecting from Starlink satellites produced unusually bright flares visible from the ground. Under the right conditions, a satellite can suddenly brighten and then fade, creating the impression of an object accelerating, changing shape or appearing and disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 Such reflections are especially important when evaluating reports that describe:
 
@@ -357,7 +357,7 @@ Several factors commonly mislead observers:
 
 </div>
 
-Aviation researchers and investigators repeatedly note that unfamiliarity with normal air traffic patterns contributes significantly to UFO reports. Objects that seem to perform unusual manoeuvres often turn out to be conventional aircraft viewed from an unexpected angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpacePlanes, drones or UFOs: What are people seeing in the...21 Dec 2024 — Planes, drones or UFOs: What are people seeing in the New Jer...</span></span></span>
+Aviation researchers and investigators repeatedly note that unfamiliarity with normal air traffic patterns contributes significantly to UFO reports. Objects that seem to perform unusual manoeuvres often turn out to be conventional aircraft viewed from an unexpected angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Planes, drones or UFOs: What are people seeing in the...21 Dec 2024 — Planes, drones or UFOs: What are people seeing in the New Jer...</span></span></span>
 
 In and around Skopje, where commercial aviation traffic is more concentrated than in rural regions, this explanation deserves particular attention. A witness may accurately describe what they saw while still misjudging what produced it.
 
@@ -382,93 +382,51 @@ Before considering exotic explanations, investigators can ask:
 
 The more detailed the answers become, the smaller the genuinely unexplained category tends to be.
 
-This does not mean every sighting can be identified with certainty. Some reports lack enough information for a definitive conclusion. However, the strongest lesson from North Macedonia's available record is that many dramatic lights can be matched to ordinary causes once meteor activity, satellites, aircraft and drones are systematically examined. The Lake Ohrid fireball and the growing visibility of Starlink satellites illustrate how easily striking but natural or human-made events can be mistaken for something far more mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">A webcam system installed throughout the Lake Ohrid region captured the dramatic</span><span class="citation-popover-snippet">SpaceWatch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+This does not mean every sighting can be identified with certainty. Some reports lack enough information for a definitive conclusion. However, the strongest lesson from North Macedonia's available record is that many dramatic lights can be matched to ordinary causes once meteor activity, satellites, aircraft and drones are systematically examined. The Lake Ohrid fireball and the growing visibility of Starlink satellites illustrate how easily striking but natural or human-made events can be mistaken for something far more mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">A webcam system installed throughout the Lake Ohrid region captured the dramatic</span><span class="citation-popover-snippet">Watch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1TPO_ULrHQA" title="Fireball over Europe, 8 March 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer">Fireball over Europe, 8 March 2026</a></p><p class="youtube-embed-meta">Channel: ESA Extras &middot; Views: 89.9K &middot; Uploaded: March 2026 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1TPO_ULrHQA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Ordinary Sky Events Look Like UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Ordinary Sky Events Look Like UFOs?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contrasts well-documented reports against ordinary aerial misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains visible night-sky phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
-        
-        <p class="fr-book-desc">Helps identify meteors, satellites, planets, and other commonly misidentified objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Relevant to fireballs and meteor events like those discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -502,75 +460,71 @@ This does not mean every sighting can be identified with certainty. Some reports
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-30bbea-what-ordinary-sky-events-look-like-ufos-north-macedonia-ufo-poster-book-books-series-television-ger&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -785,113 +739,113 @@ This does not mean every sighting can be identified with certainty. Some reports
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: A webcam system installed throughout the Lake Ohrid region captured the dramatic  
-   Link: [https://www.space.com/perseid-meteor-shower-fireball-macedonia-video](https://www.space.com/perseid-meteor-shower-fireball-macedonia-video)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceWatch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</p></details>
+   Link: <a href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/perseid-meteor-shower-fireball-macedonia-video</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fireball.imo.net  
    Title: browse reports  
-   Link: [https://fireball.imo.net/members/imo_view/browse_reports](https://fireball.imo.net/members/imo_view/browse_reports)  
+   Link: <a href="https://fireball.imo.net/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball reportsReports found: 4792 in the last 30 days Page 1 / 96; Event 2625-2026; 2625a, 2026-04-04 01:10 UT, 2026-04-04 03:10 CEST...</p></details>
    Published: April 4, 2026  
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: It's Fireball Season!  
-   Link: [https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/](https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/)  
+   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor QuestionsMar 26, 2026 — Some astronomers think the Earth passes through more large debris at this time of year, cau...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
    Published: May 21, 2024  
 
 6. <a id="endnote-6"></a>
    Source: drone-laws.com  
    Title: drone laws in european countries 2  
-   Link: [https://drone-laws.com/drone-laws-in-european-countries-2/](https://drone-laws.com/drone-laws-in-european-countries-2/)  
+   Link: <a href="https://drone-laws.com/drone-laws-in-european-countries-2/" target="_blank" rel="noopener noreferrer nofollow">https://drone-laws.com/drone-laws-in-european-countries-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone LawsDrone Laws in European Countries 202614 Jan 2026 — Drones are allowed in Macedonia, subject to MCAA regulations. Official links...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky](https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePlanes, drones or UFOs: What are people seeing in the...21 Dec 2024 — Planes, drones or UFOs: What are people seeing in the New Jer...</p></details>
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Planes, drones or UFOs: What are people seeing in the...21 Dec 2024 — Planes, drones or UFOs: What are people seeing in the New Jer...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: imo.net  
    Title: meteor activity outlook for 4 10 april 2026  
-   Link: [https://www.imo.net/meteor-activity-outlook-for-4-10-april-2026/](https://www.imo.net/meteor-activity-outlook-for-4-10-april-2026/)  
+   Link: <a href="https://www.imo.net/meteor-activity-outlook-for-4-10-april-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/meteor-activity-outlook-for-4-10-april-2026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Activity Outlook for 4-10 April 20265 days ago — Evening observers this weekend can expect total hourly rates of 2 from mid-northe...</p></details>
    Published: april 2026  
 
 9. <a id="endnote-9"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/](https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/)  
+   Link: <a href="https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostGreen fireball caught on Ring camera sparks UFO theories18 Jul 2023 — Green fireball caught on Ring camera sparks UFO panic...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The weird-looking moving lights in the sky may be Starlink satellites, not aliens! A...Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406](https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gistnuforc_reports.csv · GitHubA line of Oval/ Pill shaped UFO&#x27;s Heading North East from South... Ball of light, turns into Alien aircra...</p></details>
+   Link: <a href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nuforc_reports.csv · GitHubA line of Oval/ Pill shaped UFO&#x27;s Heading North East from South... Ball of light, turns into Alien aircra...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/](https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/)  
+   Link: <a href="https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Last night&#x27;s late-night video was Starlink. We have...It is a Starlink Satellite: “The mysterious rows of lights in the night sk...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/](https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/)  
+   Link: <a href="https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding: r/ForgottenLanguagesWhat you see from the ground is just a typical UFO sighting of MilOrbs being released from a triangul...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe](https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe)  
+   Link: <a href="https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;A collective anxiety attack&#x27;: the psychology of unexplained...5 Oct 2025 — Incursions have so far caused few physical effects but exper...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pickensprogress.com  
-   Link: [https://pickensprogress.com/unusual-string-of-lights-dots-night-sky-was-starlink-satellite-train-seen-over-pickens/](https://pickensprogress.com/unusual-string-of-lights-dots-night-sky-was-starlink-satellite-train-seen-over-pickens/)  
+   Link: <a href="https://pickensprogress.com/unusual-string-of-lights-dots-night-sky-was-starlink-satellite-train-seen-over-pickens/" target="_blank" rel="noopener noreferrer nofollow">https://pickensprogress.com/unusual-string-of-lights-dots-night-sky-was-starlink-satellite-train-seen-over-pickens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual string of lights dots night sky: Was Starlink satellite...16 Apr 2025 — An unusual “train” of lights was spotted near the Picken...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/nvlTbCMsd0Q](https://www.youtube.com/shorts/nvlTbCMsd0Q)  
+   Link: <a href="https://www.youtube.com/shorts/nvlTbCMsd0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/nvlTbCMsd0Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Green fireball ignites UFO frenzy over MoscowStunned drivers in Moscow captured a glowing green fireball streaking through the early morn...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LovinMalta/posts/several-locals-were-left-scratching-their-heads-early-this-morning-after-strange/1239691968199319/](https://www.facebook.com/LovinMalta/posts/several-locals-were-left-scratching-their-heads-early-this-morning-after-strange/1239691968199319/)  
+   Link: <a href="https://www.facebook.com/LovinMalta/posts/several-locals-were-left-scratching-their-heads-early-this-morning-after-strange/1239691968199319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/several-locals-were-left-scratching-their-heads-early-this-morning-after-strange/1239691968199319/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strange UFO/ very large drone. Has any... No, they&#x27;re not aliens — SpaceX&#x27;s Starlink satellites surprise British...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: orbitaltoday.com  
    Title: The cause points to slow-moving asteroidal objects from a specific sky  
-   Link: [https://orbitaltoday.com/2026/04/02/two-rare-meteorites-in-nine-days-what-the-2026-fireball-data-actually-shows/](https://orbitaltoday.com/2026/04/02/two-rare-meteorites-in-nine-days-what-the-2026-fireball-data-actually-shows/)  
+   Link: <a href="https://orbitaltoday.com/2026/04/02/two-rare-meteorites-in-nine-days-what-the-2026-fireball-data-actually-shows/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaltoday.com/2026/04/02/two-rare-meteorites-in-nine-days-what-the-2026-fireball-data-actually-shows/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Rare Meteorites in Nine Days: What the 2026 Fireball...Apr 2, 2026 — Large fireball activity has doubled in Q1 2026, AMS data shows...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: My clearest sighting of a Starlink satellite "train" from orbit!  
-   Link: [https://www.instagram.com/reel/DPhlge7jsq_/](https://www.instagram.com/reel/DPhlge7jsq_/)  
+   Link: <a href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights near the horizon! Reports of strange lights aren&#x27;t uncommon and lately they have been getting more frequent. The cause...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VisitMacedonia1/posts/tuesday-august-13-2019-several-bright-perseid-meteor-dash-across-the-sky-near-a-/1669064763224010/](https://www.facebook.com/VisitMacedonia1/posts/tuesday-august-13-2019-several-bright-perseid-meteor-dash-across-the-sky-near-a-/1669064763224010/)  
+   Link: <a href="https://www.facebook.com/VisitMacedonia1/posts/tuesday-august-13-2019-several-bright-perseid-meteor-dash-across-the-sky-near-a-/1669064763224010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitMacedonia1/posts/tuesday-august-13-2019-several-bright-perseid-meteor-dash-across-the-sky-near-a-/1669064763224010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2y... A man points his light at the Milky Way during the peak of the Perseid meteor...Read more...</p></details>

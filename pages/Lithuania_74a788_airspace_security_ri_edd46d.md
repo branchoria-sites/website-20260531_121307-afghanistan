@@ -239,7 +239,7 @@ next_link:
   permalink: /nemezis-case/
   short_title: Nemezis Case
   heading_title: Was Nemezis Lithuania's Strongest UFO Case?
-date: '2026-06-09 01:32:23 '
+date: '2026-06-10 01:58:00 '
 header:
   og_image: /assets/images/Lithuania_74a788_airspace_security_ri_edd46d-Illustration-1-social.jpg
   preview_image: /assets/images/Lithuania_74a788_airspace_security_ri_edd46d-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/Lithuania_74a788_airspace_security_ri_edd46d-Illustration-
 
 ## Introduction
 
-In [Lithuania]({{ 'what-lithuanias-ufo-reports-really-show/' | relative_url }}), many modern “UFO” reports are no longer primarily questions of extraterrestrial speculation. They are questions of airspace management, military readiness and border security. A light in the sky over Vilnius, an unidentified radar track near Belarus, or a drifting object detected near an airport now enters a very different context from the classic UFO era of the 1970s or 1990s.
+In Lithuania, many modern “UFO” reports are no longer primarily questions of extraterrestrial speculation. They are questions of airspace management, military readiness and border security. A light in the sky over Vilnius, an unidentified radar track near Belarus, or a drifting object detected near an airport now enters a very different context from the classic UFO era of the 1970s or 1990s.
 
 
 <img src="{{ "/assets/images/Lithuania_74a788_airspace_security_ri_edd46d-Illustration-1-dark.svg" | relative_url }}" alt="Airspace Risks illustration 1" data-theme-src-dark="{{ "/assets/images/Lithuania_74a788_airspace_security_ri_edd46d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lithuania_74a788_airspace_security_ri_edd46d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Lithuania sits on NATO’s eastern frontier between Belarus, the Russian exclave of Kaliningrad and the wider Baltic airspace monitored by the Alliance. In that environment, unidentified aerial objects can trigger fighter scrambles, airport disruptions, public alerts and security investigations even when the final explanation turns out to be a drone, smuggling balloon, weather balloon or false radar contact. The practical significance of UFO-style reports has therefore changed. The central question is often no longer “What was it?” but “Could it threaten aviation, infrastructure or national security?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">NATONATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</span></span></span>
+Lithuania sits on NATO’s eastern frontier between Belarus, the Russian exclave of Kaliningrad and the wider Baltic airspace monitored by the Alliance. In that environment, unidentified aerial objects can trigger fighter scrambles, airport disruptions, public alerts and security investigations even when the final explanation turns out to be a drone, smuggling balloon, weather balloon or false radar contact. The practical significance of UFO-style reports has therefore changed. The central question is often no longer “What was it?” but “Could it threaten aviation, infrastructure or national security?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">NATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</span></span></span>
 
 ## Drones and balloons in the sky
 
@@ -275,7 +275,7 @@ The same sighting can be interpreted very differently depending on where it occu
 
 A bright light over a rural area might once have been discussed mainly within UFO culture. A similar report near the Lithuanian-Belarusian border, around Vilnius airspace or close to strategic infrastructure is more likely to be examined through military and aviation-security frameworks.
 
-Lithuania hosts key elements of NATO's Baltic Air Policing mission. NATO aircraft stationed in the Baltic region continuously monitor airspace and respond to unusual aerial activity. The mission exists because the Baltic states do not maintain large independent fighter-interceptor fleets capable of sustained air-policing operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">NATONATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</span></span></span>
+Lithuania hosts key elements of NATO's Baltic Air Policing mission. NATO aircraft stationed in the Baltic region continuously monitor airspace and respond to unusual aerial activity. The mission exists because the Baltic states do not maintain large independent fighter-interceptor fleets capable of sustained air-policing operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">NATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</span></span></span>
 
 As a result, unidentified aerial reports are filtered through military detection systems rather than only civilian witness accounts. Radar returns, transponder data, flight plans and military tracking information become part of the assessment process.
 
@@ -352,7 +352,7 @@ The result is a different evidential landscape from earlier decades. The most im
 
 The evolution of Lithuanian UFO reporting reflects a wider transformation across Eastern Europe and the Baltic region.
 
-The country's geography places it next to some of NATO's most sensitive frontiers. Air-policing operations, military surveillance, electronic warfare, border-security concerns and civilian aviation now overlap in ways that blur the boundary between a UFO report and a security incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">NATONATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</span></span></span> Reuters That does not mean every unidentified object has a military explanation. Nor does it prove that every unusual sighting is mundane. What it do <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/lithuania-declares-state-emergency-over-smuggler-balloons-belarus-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These balloons, allegedly used by smugglers to transport contraband such as cigarettes, are considered by Lithuania as part of a &quot;hybrid...</span></span></span> es mean is that Lithuania's most consequential modern UFO cases are increasingly evaluated through the language of risk management rather than mystery.
+The country's geography places it next to some of NATO's most sensitive frontiers. Air-policing operations, military surveillance, electronic warfare, border-security concerns and civilian aviation now overlap in ways that blur the boundary between a UFO report and a security incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">NATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</span></span></span> Reuters That does not mean every unidentified object has a military explanation. Nor does it prove that every unusual sighting is mundane. What it do <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/lithuania-declares-state-emergency-over-smuggler-balloons-belarus-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These balloons, allegedly used by smugglers to transport contraband such as cigarettes, are considered by Lithuania as part of a &quot;hybrid...</span></span></span> es mean is that Lithuania's most consequential modern UFO cases are increasingly evaluated through the language of risk management rather than mystery.
 
 In practical terms, the country's contemporary UFO story is becoming a story about drones, balloons, radar tracks, air-defence readiness and uncertainty in contested airspace. The unresolved question is often not whether something extraordinary visited Lithuania, but how quickly authorities can determine what entered the sky, why it was there and whether it poses a threat.
 
@@ -361,86 +361,44 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When UFOs Become Airspace Security Problems. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When UFOs Become Airspace Security Problems, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Emphasizes aviation safety, military witnesses, and airspace concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Connects unidentified aircraft observations with real aerospace and defense realities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
-        
-        <p class="fr-book-desc">Explains modern air-defense and military surveillance challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
-        </h4>
-        <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
-        
-        <p class="fr-book-desc">Relevant to modern unidentified-object and drone-security discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -474,75 +432,71 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-risks-when-ufos-become-airspace-security-problems-lithuania-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -757,150 +711,150 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
 1. <a id="endnote-1"></a>
    Source: nato.int  
    Title: air policing  
-   Link: [https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing](https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATONATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</p></details>
+   Link: <a href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Air Policing24 Oct 2025 — The primary purpose of NATO Air Policing is to safeguard the integrity and security of airspace. Allie...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/lithuania-declares-state-emergency-over-smuggler-balloons-belarus-2025-12-09/](https://www.reuters.com/world/lithuania-declares-state-emergency-over-smuggler-balloons-belarus-2025-12-09/)  
+   Link: <a href="https://www.reuters.com/world/lithuania-declares-state-emergency-over-smuggler-balloons-belarus-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/lithuania-declares-state-emergency-over-smuggler-balloons-belarus-2025-12-09/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These balloons, allegedly used by smugglers to transport contraband such as cigarettes, are considered by Lithuania as part of a &quot;hybrid...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/](https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
    Title: drone incursions sow fear chaos along natos baltic finnish borders 2026 05 27  
-   Link: [https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/](https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eutoday.net  
-   Link: [https://eutoday.net/nato-jets-scrambled-4-times-over-baltic-ussian-flights/](https://eutoday.net/nato-jets-scrambled-4-times-over-baltic-ussian-flights/)  
+   Link: <a href="https://eutoday.net/nato-jets-scrambled-4-times-over-baltic-ussian-flights/" target="_blank" rel="noopener noreferrer nofollow">https://eutoday.net/nato-jets-scrambled-4-times-over-baltic-ussian-flights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO jets scrambled 4 times over Baltic amid Russian flightsNovember 18, 2025 — 18 Nov 2025 — Once again, NATO aircraft were scrambled to...</p></details>
    Published: November 18, 2025  
 
 6. <a id="endnote-6"></a>
    Source: kyivindependent.com  
    Title: unidentified drone likely enters lithuania from belarus amid rising tensions  
-   Link: [https://kyivindependent.com/unidentified-drone-likely-enters-lithuania-from-belarus-amid-rising-tensions/](https://kyivindependent.com/unidentified-drone-likely-enters-lithuania-from-belarus-amid-rising-tensions/)  
+   Link: <a href="https://kyivindependent.com/unidentified-drone-likely-enters-lithuania-from-belarus-amid-rising-tensions/" target="_blank" rel="noopener noreferrer nofollow">https://kyivindependent.com/unidentified-drone-likely-enters-lithuania-from-belarus-amid-rising-tensions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kyiv IndependentUnidentified drone enters Lithuania from Belarus amid...28 Jul 2025 — An unidentified drone entered Lithuanian airsp...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kyivindependent.com  
-   Link: [https://kyivindependent.com/lithuania-sounds-air-alarm-for-first-time-due-to-suspected-drone-threat-from-belarus/](https://kyivindependent.com/lithuania-sounds-air-alarm-for-first-time-due-to-suspected-drone-threat-from-belarus/)  
+   Link: <a href="https://kyivindependent.com/lithuania-sounds-air-alarm-for-first-time-due-to-suspected-drone-threat-from-belarus/" target="_blank" rel="noopener noreferrer nofollow">https://kyivindependent.com/lithuania-sounds-air-alarm-for-first-time-due-to-suspected-drone-threat-from-belarus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kyiv IndependentLithuania sounds air alarm for first time due to suspected...20 May 2026 — Drone activity was recorded near the Bela...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: rferl.org  
-   Link: [https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html](https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html)  
+   Link: <a href="https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RadioFreeEurope/RadioLibertyUp In The Air: Are Balloons From Belarus A Smuggling...November 12, 2025 — 12 Nov 2025 — Balloons like this...</p></details>
    Published: November 12, 2025  
 
 9. <a id="endnote-9"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/852307d993c1c85da18b3cefbd6c4e1a](https://apnews.com/article/852307d993c1c85da18b3cefbd6c4e1a)  
+   Link: <a href="https://apnews.com/article/852307d993c1c85da18b3cefbd6c4e1a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/852307d993c1c85da18b3cefbd6c4e1a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These balloons, believed to be used for smuggling illegal cigarettes, led to the suspension of air traffic and the temporary closure of b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aljazeera.com  
    Title: Al Jazeera Lithuania shuts airports, Belarus border crossings after  
-   Link: [https://www.aljazeera.com/news/2025/10/24/lithuania-shuts-airports-belarus-border-crossings-after-balloon-sightings](https://www.aljazeera.com/news/2025/10/24/lithuania-shuts-airports-belarus-border-crossings-after-balloon-sightings)  
+   Link: <a href="https://www.aljazeera.com/news/2025/10/24/lithuania-shuts-airports-belarus-border-crossings-after-balloon-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/10/24/lithuania-shuts-airports-belarus-border-crossings-after-balloon-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Al JazeeraLithuania shuts airports, Belarus border crossings after...October 24, 2025 — 24 Oct 2025 — NATO member Lithuania has closed i...</p></details>
    Published: October 24, 2025  
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close](https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close)  
+   Link: <a href="https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities reported detecting &quot;tens of balloons&quot; on radar, with previous balloon incursions prompting airport closures earlier in Octobe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/international/article/2025/10/28/lithuania-closes-its-border-with-belarus_6746836_4.html](https://www.lemonde.fr/en/international/article/2025/10/28/lithuania-closes-its-border-with-belarus_6746836_4.html)  
+   Link: <a href="https://www.lemonde.fr/en/international/article/2025/10/28/lithuania-closes-its-border-with-belarus_6746836_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/international/article/2025/10/28/lithuania-closes-its-border-with-belarus_6746836_4.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These balloons, used to smuggle contraband—primarily cigarettes—have disrupted Lithuanian air traffic, forcing the closure of Vilnius Air...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aa.com.tr  
    Title: NATO air policing mission activated as Vilnius airport airspace closed  
-   Link: [https://www.aa.com.tr/en/europe/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting/3943084](https://www.aa.com.tr/en/europe/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting/3943084)  
+   Link: <a href="https://www.aa.com.tr/en/europe/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting/3943084" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/europe/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting/3943084</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıLithuania issues air alert in Vilnius after suspected drone...May 20, 2026 — 20 May 2026 — Lithuania issues air alert in V...</p></details>
    Published: May 20, 2026  
 
 14. <a id="endnote-14"></a>
    Source: en.yenisafak.com  
    Title: lithuania issues air alert in vilnius after suspected drone sighting 3718488  
-   Link: [https://en.yenisafak.com/world/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting-3718488](https://en.yenisafak.com/world/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting-3718488)  
+   Link: <a href="https://en.yenisafak.com/world/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting-3718488" target="_blank" rel="noopener noreferrer nofollow">https://en.yenisafak.com/world/lithuania-issues-air-alert-in-vilnius-after-suspected-drone-sighting-3718488</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>issues air alert in Vilnius after suspected drone...20 May 2026 — The Lithuanian military said it scrambled NATO air defense assets afte...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: lithuania vilnius drone alert leaders bunkers  
-   Link: [https://www.theguardian.com/world/2026/may/20/lithuania-vilnius-drone-alert-leaders-bunkers](https://www.theguardian.com/world/2026/may/20/lithuania-vilnius-drone-alert-leaders-bunkers)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/20/lithuania-vilnius-drone-alert-leaders-bunkers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/20/lithuania-vilnius-drone-alert-leaders-bunkers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vilnius residents urged to take shelter during alert, after Nato and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/nato-pilots-brought-drone-defenses-air-policing-mission-first-time-2026-1](https://www.businessinsider.com/nato-pilots-brought-drone-defenses-air-policing-mission-first-time-2026-1)  
+   Link: <a href="https://www.businessinsider.com/nato-pilots-brought-drone-defenses-air-policing-mission-first-time-2026-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/nato-pilots-brought-drone-defenses-air-policing-mission-first-time-2026-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks a significant shift in NATO strategy in response to increasing drone threats across Europe, especially near its eastern border...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/](https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/)  
+   Link: <a href="https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially seen as smuggling attempts, these balloon incursions—recently peaking with dozens entering Lithuanian and Polish airspace—are i...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Timesnow/posts/nato-fighter-jets-were-scrambled-across-baltic-airspace-after-unidentified-drone/1484068917097699/](https://www.facebook.com/Timesnow/posts/nato-fighter-jets-were-scrambled-across-baltic-airspace-after-unidentified-drone/1484068917097699/)  
+   Link: <a href="https://www.facebook.com/Timesnow/posts/nato-fighter-jets-were-scrambled-across-baltic-airspace-after-unidentified-drone/1484068917097699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/nato-fighter-jets-were-scrambled-across-baltic-airspace-after-unidentified-drone/1484068917097699/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO fighter jets were scrambled across Baltic airspace...NATO fighter jets were scrambled across Baltic airspace after unidentified dro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: china-cee.eu  
-   Link: [https://china-cee.eu/2025/09/10/lithuania-monthly-briefing-unseen-threats-lithuanias-air-defence-gaps-in-the-age-of-drone-warfare/](https://china-cee.eu/2025/09/10/lithuania-monthly-briefing-unseen-threats-lithuanias-air-defence-gaps-in-the-age-of-drone-warfare/)  
+   Link: <a href="https://china-cee.eu/2025/09/10/lithuania-monthly-briefing-unseen-threats-lithuanias-air-defence-gaps-in-the-age-of-drone-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://china-cee.eu/2025/09/10/lithuania-monthly-briefing-unseen-threats-lithuanias-air-defence-gaps-in-the-age-of-drone-warfare/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lithuania&#x27;s Air Defence Gaps in the Age of Drone Warfare...10 Sept 2025 — Technologically, Lithuania is currently unable to detect, inte...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYkFU56IZL_/](https://www.instagram.com/reel/DYkFU56IZL_/)  
+   Link: <a href="https://www.instagram.com/reel/DYkFU56IZL_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkFU56IZL_/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026, after suspected drone activity near its border triggered security concerns and...</p></details>
    Published: May 20, 2026  
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BalticStates/comments/1ofmmo1/lithuania_closes_airports_belarus_border/](https://www.reddit.com/r/BalticStates/comments/1ofmmo1/lithuania_closes_airports_belarus_border/)  
+   Link: <a href="https://www.reddit.com/r/BalticStates/comments/1ofmmo1/lithuania_closes_airports_belarus_border/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BalticStates/comments/1ofmmo1/lithuania_closes_airports_belarus_border/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iolates our airspace, and most of the time the government condemns it...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/PrepperIntel/comments/1ndelq9/two_unknown_flying_objects_entered_lithuanian/](https://www.reddit.com/r/PrepperIntel/comments/1ndelq9/two_unknown_flying_objects_entered_lithuanian/)  
+   Link: <a href="https://www.reddit.com/r/PrepperIntel/comments/1ndelq9/two_unknown_flying_objects_entered_lithuanian/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PrepperIntel/comments/1ndelq9/two_unknown_flying_objects_entered_lithuanian/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>over Vilnius&#x27; airspace earlier today · NATO jets scramble as drone...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FRANCE24.English/posts/-lithuanias-government-on-tuesday-declared-a-state-of-emergency-due-to-threats-t/1163277619304946/](https://www.facebook.com/FRANCE24.English/posts/-lithuanias-government-on-tuesday-declared-a-state-of-emergency-due-to-threats-t/1163277619304946/)  
+   Link: <a href="https://www.facebook.com/FRANCE24.English/posts/-lithuanias-government-on-tuesday-declared-a-state-of-emergency-due-to-threats-t/1163277619304946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FRANCE24.English/posts/-lithuanias-government-on-tuesday-declared-a-state-of-emergency-due-to-threats-t/1163277619304946/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>repeatedly violated its airspace and forced airport closures...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/](https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/)  
+   Link: <a href="https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ter a suspected drone from Belarus was detected near the border.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/wionpulse-drones-trigger-panic-in-vilniusdrone-warning-rocks-nato-capital-traffi/1345236267715544/](https://www.facebook.com/WIONews/posts/wionpulse-drones-trigger-panic-in-vilniusdrone-warning-rocks-nato-capital-traffi/1345236267715544/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/wionpulse-drones-trigger-panic-in-vilniusdrone-warning-rocks-nato-capital-traffi/1345236267715544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/wionpulse-drones-trigger-panic-in-vilniusdrone-warning-rocks-nato-capital-traffi/1345236267715544/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>airspace — two of them were spotted above Vilnius Airport. They are...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/trtworld/videos/lithuanians-on-border-remain-calm-despite-russia-probing-airspace/1387819866233878/](https://www.facebook.com/trtworld/videos/lithuanians-on-border-remain-calm-despite-russia-probing-airspace/1387819866233878/)  
+   Link: <a href="https://www.facebook.com/trtworld/videos/lithuanians-on-border-remain-calm-despite-russia-probing-airspace/1387819866233878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/videos/lithuanians-on-border-remain-calm-despite-russia-probing-airspace/1387819866233878/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hutdown over balloon sightings. But despite tensions with Belarus...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/528663418654654/posts/1541498190704500/](https://www.facebook.com/groups/528663418654654/posts/1541498190704500/)  
+   Link: <a href="https://www.facebook.com/groups/528663418654654/posts/1541498190704500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/528663418654654/posts/1541498190704500/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ary aircraft on Thursday. Russian military aircraft recklessly...</p></details>

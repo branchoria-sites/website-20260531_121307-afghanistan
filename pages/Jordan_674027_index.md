@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /jordan-674027-index/
 description: Focused pages that expand on What Counts as a UFO in Jordan?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Jordan_674027
 parent_title: What Counts as a UFO in Jordan?

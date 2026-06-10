@@ -1156,9 +1156,9 @@ sibling_links:
   short_title: San Marino UFOs
 child_links:
 - basename: El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b
-  title: 1960s Cases | What Really Flies Over El Salvador?
-  permalink: /1960s-cases/
-  short_title: 1960s Cases
+  title: 1960 s Cases | What Really Flies Over El Salvador?
+  permalink: /1960-s-cases/
+  short_title: 1960 s Cases
   heading_title: San Salvador's Oldest UFO Trail
 - basename: El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1
   title: Evidence Test | What Really Flies Over El Salvador?
@@ -1185,7 +1185,7 @@ next_link:
   title: Belgium
   permalink: /what-really-happened-during-belgiums/
   short_title: Belgium
-date: '2026-06-09 01:26:20 '
+date: '2026-06-10 01:50:59 '
 header:
   og_image: /assets/images/El_Salvador_9b83b7-overview-social.jpg
   preview_image: /assets/images/El_Salvador_9b83b7-overview.webp
@@ -1204,7 +1204,7 @@ That distinction matters in El Salvador because the public record is mostly made
 
 El Salvador does not appear to have a large public UFO archive comparable to the United States’ Project Blue Book files or France’s GEIPAN-style reporting system. The available chronology is instead a patchwork: older press reports, later historical retrospectives, enthusiast accounts and social-media cases. That patchiness is itself important. It means the country’s UFO history is not evidence-rich enough to support sweeping claims, but it is rich enough to show recurring patterns in how Salvadorans interpret unusual sky events.
 
-The clearest older anchor is the San Salvador sighting of 15 January 1969. A 2023 retrospective in *El Diario de Hoy* says the event occurred around 3:30 p.m. in a cloudy sky, was reported in the newspaper’s 16 January 1969 edition, and became the main front-page story. The account says workers at the newspaper were alerted by two carpenters on the terrace, that several staff members saw the object, and that calls came into the newsroom from other people claiming to have seen the same thing. Witnesses reportedly described a shiny, plate-shaped, fast-moving object that at moments appeared to release black smoke before it disappeared in the direction of Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}). One contemporary suggestion mentioned in the retrospective was that it might have been connected with the Soviet Soyuz 4 mission, launched the previous day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-title">jueves recuerdo ovni sobrevuela san salvador en 1969</span><span class="citation-popover-snippet">jueves recuerdo ovni sobrevuela san salvador en 1969</span></span></span>
+The clearest older anchor is the San Salvador sighting of 15 January 1969. A 2023 retrospective in *El Diario de Hoy* says the event occurred around 3:30 p.m. in a cloudy sky, was reported in the newspaper’s 16 January 1969 edition, and became the main front-page story. The account says workers at the newspaper were alerted by two carpenters on the terrace, that several staff members saw the object, and that calls came into the newsroom from other people claiming to have seen the same thing. Witnesses reportedly described a shiny, plate-shaped, fast-moving object that at moments appeared to release black smoke before it disappeared in the direction of Cerro San Jacinto. One contemporary suggestion mentioned in the retrospective was that it might have been connected with the Soviet Soyuz 4 mission, launched the previous day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-title">jueves recuerdo ovni sobrevuela san salvador en 1969</span><span class="citation-popover-snippet">jueves recuerdo ovni sobrevuela san salvador en 1969</span></span></span>
 
 That 1969 case is valuable because it had multiple reported witnesses and a contemporary press footprint. It is still not a confirmed extraordinary object. The weather was cloudy, the photographs were not described as clear, and the surviving public account is a retrospective summary of an archived newspaper story rather than a technical case file with measurements, original negatives, aircraft checks and meteorological reconstruction. Its strength is historical importance, not conclusive identification.
 
@@ -1264,7 +1264,7 @@ This distinction is important. Local researchers and experiencers can preserve o
 It also links El Salvador naturally to wider Latin American UFO culture. Countries such as Mexico, Costa Rica, Peru and Chile have stronger-known or more institutionally discussed UFO traditions, and Salvadoran enthusiasts often draw on regional ideas, media figures and contact movements. That comparison is useful only when it helps interpret the local record: El Salvador’s distinctive pattern is not a large official archive, but a smaller national set of cases shaped by terrain, press memory and social-media circulation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7BC54aNWy30" title="El Salvador | La erupción del volcán Chaparrastique mantiene en alerta a 3 municipios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7BC54aNWy30" target="_blank" rel="noopener noreferrer">El Salvador | La erupción del volcán Chaparrastique mantiene en alerta a 3 municipios</a></p><p class="youtube-embed-meta">Channel: euronews (en español) &middot; Views: 80.4K &middot; Uploaded: November 2022 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7BC54aNWy30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7BC54aNWy30">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sxkf5P-IU-U" title="🛸 LUGARES EN EL SALVADOR CON REGISTRO OVNI | Noticias 4 Visión" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sxkf5P-IU-U" target="_blank" rel="noopener noreferrer">🛸 LUGARES EN EL SALVADOR CON REGISTRO OVNI | Noticias 4 Visión</a></p><p class="youtube-embed-meta">Channel: Noticias 4 Visión &middot; Views: 12.7K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sxkf5P-IU-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sxkf5P-IU-U">Open on YouTube</a></p></div></div></div>
 
 ## Official records: what exists, what does not
 
@@ -1277,7 +1277,7 @@ That comparison helps show what is missing in El Salvador: not stories, but syst
 Recent US official analysis also gives a useful caution. AARO’s 2024 historical report found no evidence that any US government investigation, academic-sponsored research or official review panel confirmed a UAP sighting as extraterrestrial, and it said most reports are likely misidentifications linked to poor domain awareness and insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-88 "Endnote 88") The same logic applies strongly to El Salvador: the fewer the measurements, the more careful the conclusion must be.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGXh4jPxpcc" title="C0 Drones Restricted for Night Flying? — CAA RESPOND!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGXh4jPxpcc" target="_blank" rel="noopener noreferrer">C0 Drones Restricted for Night Flying? — CAA RESPOND!</a></p><p class="youtube-embed-meta">Channel: GAVINHR &middot; Views: 6.5K &middot; Uploaded: January 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGXh4jPxpcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGXh4jPxpcc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7BC54aNWy30" title="El Salvador | La erupción del volcán Chaparrastique mantiene en alerta a 3 municipios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7BC54aNWy30" target="_blank" rel="noopener noreferrer">El Salvador | La erupción del volcán Chaparrastique mantiene en alerta a 3 municipios</a></p><p class="youtube-embed-meta">Channel: euronews (en español) &middot; Views: 80.4K &middot; Uploaded: November 2022 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7BC54aNWy30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7BC54aNWy30">Open on YouTube</a></p></div></div></div>
 
 ## How to judge a Salvadoran UFO claim
 
@@ -1302,86 +1302,44 @@ The national pattern also shows why sceptical analysis should not be dismissive.
 The most honest conclusion is that El Salvador has confirmed UFO reports in the literal sense — reports of things witnesses did not identify — but no publicly demonstrated, evidence-backed case of extraterrestrial craft. The strongest future contribution would not be another viral clip; it would be a well-preserved case file with original media, precise metadata, independent witnesses, weather records, aviation checks and a careful willingness to accept either a mundane explanation or a genuinely unresolved result.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Flies Over El Salvador?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Flies Over El Salvador?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a country-level overview of UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Addresses how contemporary UFO reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides categories and investigative methods relevant to Salvadoran sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explains how communities and narratives form around sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1415,75 +1373,71 @@ The most honest conclusion is that El Salvador has confirmed UFO reports in the 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-flies-over-el-salvador-el-salvador-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1697,514 +1651,514 @@ The most honest conclusion is that El Salvador has confirmed UFO reports in the 
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Eruption of San Miguel, El Salvador  
-   Link: [https://science.nasa.gov/earth/earth-observatory/eruption-of-san-miguel-el-salvador-87318/](https://science.nasa.gov/earth/earth-observatory/eruption-of-san-miguel-el-salvador-87318/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/eruption-of-san-miguel-el-salvador-87318/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/eruption-of-san-miguel-el-salvador-87318/</a>  
 
 5. <a id="endnote-5"></a>
    Source: aac.gob.sv  
-   Link: [https://www.aac.gob.sv/wp-content/uploads/download-manager-files/AIC-A15-23-RAC-RPAS-ENG.pdf](https://www.aac.gob.sv/wp-content/uploads/download-manager-files/AIC-A15-23-RAC-RPAS-ENG.pdf)  
+   Link: <a href="https://www.aac.gob.sv/wp-content/uploads/download-manager-files/AIC-A15-23-RAC-RPAS-ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.gob.sv/wp-content/uploads/download-manager-files/AIC-A15-23-RAC-RPAS-ENG.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: aac.gob.sv  
    Title: Autoridad de Aviación Civil  
-   Link: [https://www.aac.gob.sv/](https://www.aac.gob.sv/)  
+   Link: <a href="https://www.aac.gob.sv/" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.gob.sv/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cepa.gob.sv  
    Title: Comisión Ejecutiva Portuaria Autónoma  
-   Link: [https://www.cepa.gob.sv/aeropuerto-internacional-de-ilopango-recibe-certificacion-de-operador-de-aerodromo/](https://www.cepa.gob.sv/aeropuerto-internacional-de-ilopango-recibe-certificacion-de-operador-de-aerodromo/)  
+   Link: <a href="https://www.cepa.gob.sv/aeropuerto-internacional-de-ilopango-recibe-certificacion-de-operador-de-aerodromo/" target="_blank" rel="noopener noreferrer nofollow">https://www.cepa.gob.sv/aeropuerto-internacional-de-ilopango-recibe-certificacion-de-operador-de-aerodromo/</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NavalStationRooseveltRoads/posts/10163328060618685/](https://www.facebook.com/groups/NavalStationRooseveltRoads/posts/10163328060618685/)  
+   Link: <a href="https://www.facebook.com/groups/NavalStationRooseveltRoads/posts/10163328060618685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NavalStationRooseveltRoads/posts/10163328060618685/</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sopitas/posts/eu-publica-archivos-ovni-el-nuevo-sitio-oficial-de-guerra-liber%C3%B3-documentos-que-/1539419954214361/](https://www.facebook.com/sopitas/posts/eu-publica-archivos-ovni-el-nuevo-sitio-oficial-de-guerra-liber%C3%B3-documentos-que-/1539419954214361/)  
+   Link: <a href="https://www.facebook.com/sopitas/posts/eu-publica-archivos-ovni-el-nuevo-sitio-oficial-de-guerra-liber%C3%B3-documentos-que-/1539419954214361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sopitas/posts/eu-publica-archivos-ovni-el-nuevo-sitio-oficial-de-guerra-liber%C3%B3-documentos-que-/1539419954214361/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/939437669481329/posts/25841180428880375/](https://www.facebook.com/groups/939437669481329/posts/25841180428880375/)  
+   Link: <a href="https://www.facebook.com/groups/939437669481329/posts/25841180428880375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/939437669481329/posts/25841180428880375/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: on 8 june 1969 honduras and el salvador began a three game elimination contest d  
-   Link: [https://www.facebook.com/HistoryHit/posts/on-8-june-1969-honduras-and-el-salvador-began-a-three-game-elimination-contest-d/4959344750797210/](https://www.facebook.com/HistoryHit/posts/on-8-june-1969-honduras-and-el-salvador-began-a-three-game-elimination-contest-d/4959344750797210/)  
+   Link: <a href="https://www.facebook.com/HistoryHit/posts/on-8-june-1969-honduras-and-el-salvador-began-a-three-game-elimination-contest-d/4959344750797210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryHit/posts/on-8-june-1969-honduras-and-el-salvador-began-a-three-game-elimination-contest-d/4959344750797210/</a>  
    Published: june 1969  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/story.php/?id=100064873472403&story_fbid=709456777893432](https://www.facebook.com/story.php/?id=100064873472403&story_fbid=709456777893432)  
+   Link: <a href="https://www.facebook.com/story.php/?id=100064873472403&amp;story_fbid=709456777893432" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php/?id=100064873472403&amp;story_fbid=709456777893432</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=ps_AF](https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=ps_AF)  
+   Link: <a href="https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=ps_AF" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=ps_AF</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/codigo21GMV/videos/-avistamiento-de-platillo-volador-/1723576341637055/](https://www.facebook.com/codigo21GMV/videos/-avistamiento-de-platillo-volador-/1723576341637055/)  
+   Link: <a href="https://www.facebook.com/codigo21GMV/videos/-avistamiento-de-platillo-volador-/1723576341637055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/codigo21GMV/videos/-avistamiento-de-platillo-volador-/1723576341637055/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Telemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1158582349650275/](https://www.facebook.com/Telemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1158582349650275/)  
+   Link: <a href="https://www.facebook.com/Telemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1158582349650275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Telemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1158582349650275/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/elsalvadorcom/posts/viral-en-tiktok-se-ha-vuelto-viral-el-material-audiovisual-que-supuestamente-reg/5845474062155785/](https://www.facebook.com/elsalvadorcom/posts/viral-en-tiktok-se-ha-vuelto-viral-el-material-audiovisual-que-supuestamente-reg/5845474062155785/)  
+   Link: <a href="https://www.facebook.com/elsalvadorcom/posts/viral-en-tiktok-se-ha-vuelto-viral-el-material-audiovisual-que-supuestamente-reg/5845474062155785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elsalvadorcom/posts/viral-en-tiktok-se-ha-vuelto-viral-el-material-audiovisual-que-supuestamente-reg/5845474062155785/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=uk_UA](https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=uk_UA)  
+   Link: <a href="https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=uk_UA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/ilopango-el-salvador/campamento-ovni-sensibilizandonos-para-el-contacto/387073182112805/?locale=uk_UA</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Estemajesv503/videos/avistamiento-ovni-en-san-miguel-el-salvador/810249303511563/?locale=ms_MY](https://www.facebook.com/Estemajesv503/videos/avistamiento-ovni-en-san-miguel-el-salvador/810249303511563/?locale=ms_MY)  
+   Link: <a href="https://www.facebook.com/Estemajesv503/videos/avistamiento-ovni-en-san-miguel-el-salvador/810249303511563/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Estemajesv503/videos/avistamiento-ovni-en-san-miguel-el-salvador/810249303511563/?locale=ms_MY</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/4vision/posts/internacionales-un-creador-de-contenido-revel%C3%B3-unas-fotograf%C3%ADas-que-le-hicieron-/685814383577673/](https://www.facebook.com/4vision/posts/internacionales-un-creador-de-contenido-revel%C3%B3-unas-fotograf%C3%ADas-que-le-hicieron-/685814383577673/)  
+   Link: <a href="https://www.facebook.com/4vision/posts/internacionales-un-creador-de-contenido-revel%C3%B3-unas-fotograf%C3%ADas-que-le-hicieron-/685814383577673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/4vision/posts/internacionales-un-creador-de-contenido-revel%C3%B3-unas-fotograf%C3%ADas-que-le-hicieron-/685814383577673/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/willsalgadosanmiguel/videos/sospecho-que-hay-ovnis-en-el-volc%C3%A1n-chaparrastique-de-san-miguel/757072630766980/](https://www.facebook.com/willsalgadosanmiguel/videos/sospecho-que-hay-ovnis-en-el-volc%C3%A1n-chaparrastique-de-san-miguel/757072630766980/)  
+   Link: <a href="https://www.facebook.com/willsalgadosanmiguel/videos/sospecho-que-hay-ovnis-en-el-volc%C3%A1n-chaparrastique-de-san-miguel/757072630766980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/willsalgadosanmiguel/videos/sospecho-que-hay-ovnis-en-el-volc%C3%A1n-chaparrastique-de-san-miguel/757072630766980/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/codigo21GMV/posts/-nuevos-avistamientos-ovni-en-el-salvador-salvadore%C3%B1os-aseguran-haber-captado-nu/1280877214210352/](https://www.facebook.com/codigo21GMV/posts/-nuevos-avistamientos-ovni-en-el-salvador-salvadore%C3%B1os-aseguran-haber-captado-nu/1280877214210352/)  
+   Link: <a href="https://www.facebook.com/codigo21GMV/posts/-nuevos-avistamientos-ovni-en-el-salvador-salvadore%C3%B1os-aseguran-haber-captado-nu/1280877214210352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/codigo21GMV/posts/-nuevos-avistamientos-ovni-en-el-salvador-salvadore%C3%B1os-aseguran-haber-captado-nu/1280877214210352/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Estemajesv503/posts/avistamiento-ovni-en-san-miguel-el-salvador/656162079201887/](https://www.facebook.com/Estemajesv503/posts/avistamiento-ovni-en-san-miguel-el-salvador/656162079201887/)  
+   Link: <a href="https://www.facebook.com/Estemajesv503/posts/avistamiento-ovni-en-san-miguel-el-salvador/656162079201887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Estemajesv503/posts/avistamiento-ovni-en-san-miguel-el-salvador/656162079201887/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ChalchuapanecoNoticias/posts/tremendo-ovnis-son-captados-por-salvadore%C3%B1os-salvadore%C3%B1os-reportan-el-avistamien/1124255379700572/](https://www.facebook.com/ChalchuapanecoNoticias/posts/tremendo-ovnis-son-captados-por-salvadore%C3%B1os-salvadore%C3%B1os-reportan-el-avistamien/1124255379700572/)  
+   Link: <a href="https://www.facebook.com/ChalchuapanecoNoticias/posts/tremendo-ovnis-son-captados-por-salvadore%C3%B1os-salvadore%C3%B1os-reportan-el-avistamien/1124255379700572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChalchuapanecoNoticias/posts/tremendo-ovnis-son-captados-por-salvadore%C3%B1os-salvadore%C3%B1os-reportan-el-avistamien/1124255379700572/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Enbuscadeovnis/photos/a.1516098691941437/3348473865370568/](https://www.facebook.com/Enbuscadeovnis/photos/a.1516098691941437/3348473865370568/)  
+   Link: <a href="https://www.facebook.com/Enbuscadeovnis/photos/a.1516098691941437/3348473865370568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Enbuscadeovnis/photos/a.1516098691941437/3348473865370568/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/diariotrvcom/videos/-avistamiento-de-un-posible-ovni-en-san-miguel-un-seguidor-de-nuestras-redes-soc/1276479303634140/](https://www.facebook.com/diariotrvcom/videos/-avistamiento-de-un-posible-ovni-en-san-miguel-un-seguidor-de-nuestras-redes-soc/1276479303634140/)  
+   Link: <a href="https://www.facebook.com/diariotrvcom/videos/-avistamiento-de-un-posible-ovni-en-san-miguel-un-seguidor-de-nuestras-redes-soc/1276479303634140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/diariotrvcom/videos/-avistamiento-de-un-posible-ovni-en-san-miguel-un-seguidor-de-nuestras-redes-soc/1276479303634140/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/cosmoss/posts/24491748940455381/](https://www.facebook.com/groups/cosmoss/posts/24491748940455381/)  
+   Link: <a href="https://www.facebook.com/groups/cosmoss/posts/24491748940455381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/cosmoss/posts/24491748940455381/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/alrojovivotelemundo/videos/ovnis-misteriosa-esfera-en-el-salvador-despierta-la-curiosidad-de-la-comunidad-y/2554762068209412/](https://www.facebook.com/alrojovivotelemundo/videos/ovnis-misteriosa-esfera-en-el-salvador-despierta-la-curiosidad-de-la-comunidad-y/2554762068209412/)  
+   Link: <a href="https://www.facebook.com/alrojovivotelemundo/videos/ovnis-misteriosa-esfera-en-el-salvador-despierta-la-curiosidad-de-la-comunidad-y/2554762068209412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alrojovivotelemundo/videos/ovnis-misteriosa-esfera-en-el-salvador-despierta-la-curiosidad-de-la-comunidad-y/2554762068209412/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/casocerradotelemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1346645103484889/](https://www.facebook.com/casocerradotelemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1346645103484889/)  
+   Link: <a href="https://www.facebook.com/casocerradotelemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1346645103484889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/casocerradotelemundo/posts/una-misteriosa-esfera-apareci%C3%B3-flotando-en-el-cielo-de-el-salvador-e-investigado/1346645103484889/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/laredcincoradio/posts/reportered-ante-reportes-de-una-esfera-de-luz-en-el-cielo-testigos-se%C3%B1alan-que-e/1287934336776755/](https://www.facebook.com/laredcincoradio/posts/reportered-ante-reportes-de-una-esfera-de-luz-en-el-cielo-testigos-se%C3%B1alan-que-e/1287934336776755/)  
+   Link: <a href="https://www.facebook.com/laredcincoradio/posts/reportered-ante-reportes-de-una-esfera-de-luz-en-el-cielo-testigos-se%C3%B1alan-que-e/1287934336776755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/laredcincoradio/posts/reportered-ante-reportes-de-una-esfera-de-luz-en-el-cielo-testigos-se%C3%B1alan-que-e/1287934336776755/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/saleelsoltv/videos/videos-jaime-maussan-muestra-las-ovni-nubes-m%C3%A1s-sospechosas-captadas-en-c%C3%A1mara/1031843038574293/](https://www.facebook.com/saleelsoltv/videos/videos-jaime-maussan-muestra-las-ovni-nubes-m%C3%A1s-sospechosas-captadas-en-c%C3%A1mara/1031843038574293/)  
+   Link: <a href="https://www.facebook.com/saleelsoltv/videos/videos-jaime-maussan-muestra-las-ovni-nubes-m%C3%A1s-sospechosas-captadas-en-c%C3%A1mara/1031843038574293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/saleelsoltv/videos/videos-jaime-maussan-muestra-las-ovni-nubes-m%C3%A1s-sospechosas-captadas-en-c%C3%A1mara/1031843038574293/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/4vision/posts/n4v-en-el-salvador-los-reportes-de-supuestos-ovnis-siguen-registr%C3%A1ndose-en-disti/1358677312958040/](https://www.facebook.com/4vision/posts/n4v-en-el-salvador-los-reportes-de-supuestos-ovnis-siguen-registr%C3%A1ndose-en-disti/1358677312958040/)  
+   Link: <a href="https://www.facebook.com/4vision/posts/n4v-en-el-salvador-los-reportes-de-supuestos-ovnis-siguen-registr%C3%A1ndose-en-disti/1358677312958040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/4vision/posts/n4v-en-el-salvador-los-reportes-de-supuestos-ovnis-siguen-registr%C3%A1ndose-en-disti/1358677312958040/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/turismosv/posts/1107258430187003/](https://www.facebook.com/groups/turismosv/posts/1107258430187003/)  
+   Link: <a href="https://www.facebook.com/groups/turismosv/posts/1107258430187003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/turismosv/posts/1107258430187003/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/meteorihuela/posts/-muy-curioso-hab%C3%A9is-visto-una-nube-con-forma-de-ovni-o-platillo-volante-esta-tar/1288936573254953/](https://www.facebook.com/meteorihuela/posts/-muy-curioso-hab%C3%A9is-visto-una-nube-con-forma-de-ovni-o-platillo-volante-esta-tar/1288936573254953/)  
+   Link: <a href="https://www.facebook.com/meteorihuela/posts/-muy-curioso-hab%C3%A9is-visto-una-nube-con-forma-de-ovni-o-platillo-volante-esta-tar/1288936573254953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/meteorihuela/posts/-muy-curioso-hab%C3%A9is-visto-una-nube-con-forma-de-ovni-o-platillo-volante-esta-tar/1288936573254953/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tiofrankk/posts/as%C3%AD-se-ve-el-coloso-volc%C3%A1n-chaparrastique-de-san-miguel-desde-las-alturas-/1481268663365992/](https://www.facebook.com/tiofrankk/posts/as%C3%AD-se-ve-el-coloso-volc%C3%A1n-chaparrastique-de-san-miguel-desde-las-alturas-/1481268663365992/)  
+   Link: <a href="https://www.facebook.com/tiofrankk/posts/as%C3%AD-se-ve-el-coloso-volc%C3%A1n-chaparrastique-de-san-miguel-desde-las-alturas-/1481268663365992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tiofrankk/posts/as%C3%AD-se-ve-el-coloso-volc%C3%A1n-chaparrastique-de-san-miguel-desde-las-alturas-/1481268663365992/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WJBKFox2Detroit/posts/the-pentagon-on-may-22-released-a-second-set-of-declassified-files-on-what-nasa-/1399561258885774/](https://www.facebook.com/WJBKFox2Detroit/posts/the-pentagon-on-may-22-released-a-second-set-of-declassified-files-on-what-nasa-/1399561258885774/)  
+   Link: <a href="https://www.facebook.com/WJBKFox2Detroit/posts/the-pentagon-on-may-22-released-a-second-set-of-declassified-files-on-what-nasa-/1399561258885774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WJBKFox2Detroit/posts/the-pentagon-on-may-22-released-a-second-set-of-declassified-files-on-what-nasa-/1399561258885774/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
    Title: on december 17th 1969 the united states air force wrapped up their investigation  
-   Link: [https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/](https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AACelsalvador/posts/operaci%C3%B3n-de-drones-en-el-salvador-queremos-que-conozcan-la-regulaci%C3%B3n-de-drones/915597560603481/](https://www.facebook.com/AACelsalvador/posts/operaci%C3%B3n-de-drones-en-el-salvador-queremos-que-conozcan-la-regulaci%C3%B3n-de-drones/915597560603481/)  
+   Link: <a href="https://www.facebook.com/AACelsalvador/posts/operaci%C3%B3n-de-drones-en-el-salvador-queremos-que-conozcan-la-regulaci%C3%B3n-de-drones/915597560603481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AACelsalvador/posts/operaci%C3%B3n-de-drones-en-el-salvador-queremos-que-conozcan-la-regulaci%C3%B3n-de-drones/915597560603481/</a>  
 
 41. <a id="endnote-41"></a>
    Source: eo-eo.facebook.com  
-   Link: [https://eo-eo.facebook.com/AACelsalvador/](https://eo-eo.facebook.com/AACelsalvador/)  
+   Link: <a href="https://eo-eo.facebook.com/AACelsalvador/" target="_blank" rel="noopener noreferrer nofollow">https://eo-eo.facebook.com/AACelsalvador/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AACelsalvador/videos/la-aviaci%C3%B3n-contin%C3%BAa-evolucionando/385375511098083/](https://www.facebook.com/AACelsalvador/videos/la-aviaci%C3%B3n-contin%C3%BAa-evolucionando/385375511098083/)  
+   Link: <a href="https://www.facebook.com/AACelsalvador/videos/la-aviaci%C3%B3n-contin%C3%BAa-evolucionando/385375511098083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AACelsalvador/videos/la-aviaci%C3%B3n-contin%C3%BAa-evolucionando/385375511098083/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sunmv/posts/volcano-begins-to-erupt-in-eastern-el-salvador/5825434754183973/](https://www.facebook.com/sunmv/posts/volcano-begins-to-erupt-in-eastern-el-salvador/5825434754183973/)  
+   Link: <a href="https://www.facebook.com/sunmv/posts/volcano-begins-to-erupt-in-eastern-el-salvador/5825434754183973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunmv/posts/volcano-begins-to-erupt-in-eastern-el-salvador/5825434754183973/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/elsalvadorcom/posts/-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-lo-manifest%C3%B3-un-experto-mi/1098287326874506/](https://www.facebook.com/elsalvadorcom/posts/-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-lo-manifest%C3%B3-un-experto-mi/1098287326874506/)  
+   Link: <a href="https://www.facebook.com/elsalvadorcom/posts/-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-lo-manifest%C3%B3-un-experto-mi/1098287326874506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elsalvadorcom/posts/-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-lo-manifest%C3%B3-un-experto-mi/1098287326874506/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lpg.laprensagrafica/videos/as%C3%AD-fue-visto-un-cuerpo-celeste-que-atraves%C3%B3-el-cielo-salvadore%C3%B1o-en-horas-de-la/1404254542950083/](https://www.facebook.com/lpg.laprensagrafica/videos/as%C3%AD-fue-visto-un-cuerpo-celeste-que-atraves%C3%B3-el-cielo-salvadore%C3%B1o-en-horas-de-la/1404254542950083/)  
+   Link: <a href="https://www.facebook.com/lpg.laprensagrafica/videos/as%C3%AD-fue-visto-un-cuerpo-celeste-que-atraves%C3%B3-el-cielo-salvadore%C3%B1o-en-horas-de-la/1404254542950083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lpg.laprensagrafica/videos/as%C3%AD-fue-visto-un-cuerpo-celeste-que-atraves%C3%B3-el-cielo-salvadore%C3%B1o-en-horas-de-la/1404254542950083/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/elsalvadorcom/posts/teloperdiste-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-experto/1098912570145315/](https://www.facebook.com/elsalvadorcom/posts/teloperdiste-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-experto/1098912570145315/)  
+   Link: <a href="https://www.facebook.com/elsalvadorcom/posts/teloperdiste-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-experto/1098912570145315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elsalvadorcom/posts/teloperdiste-habr%C3%ADa-ocurrido-durante-la-erupci%C3%B3n-del-coloso-seg%C3%BAn-experto/1098912570145315/</a>  
 
 47. <a id="endnote-47"></a>
    Source: m.facebook.com  
-   Link: [https://m.facebook.com/elsalvadorcom/posts/1098912570145315/?locale=es_LA](https://m.facebook.com/elsalvadorcom/posts/1098912570145315/?locale=es_LA)  
+   Link: <a href="https://m.facebook.com/elsalvadorcom/posts/1098912570145315/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/elsalvadorcom/posts/1098912570145315/?locale=es_LA</a>  
 
 48. <a id="endnote-48"></a>
    Source: aac.gob.sv  
-   Link: [https://www.aac.gob.sv/historia/](https://www.aac.gob.sv/historia/)  
+   Link: <a href="https://www.aac.gob.sv/historia/" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.gob.sv/historia/</a>  
 
 49. <a id="endnote-49"></a>
    Source: aac.gob.sv  
    Title: RAC VANT Edicion 02 rev 02  
-   Link: [https://www.aac.gob.sv/wp-content/uploads/2020/07/RAC-VANT-Edicion-02-rev-02.pdf](https://www.aac.gob.sv/wp-content/uploads/2020/07/RAC-VANT-Edicion-02-rev-02.pdf)  
+   Link: <a href="https://www.aac.gob.sv/wp-content/uploads/2020/07/RAC-VANT-Edicion-02-rev-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.gob.sv/wp-content/uploads/2020/07/RAC-VANT-Edicion-02-rev-02.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYFHhL0gSRq/](https://www.instagram.com/p/DYFHhL0gSRq/)  
+   Link: <a href="https://www.instagram.com/p/DYFHhL0gSRq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFHhL0gSRq/</a>  
 
 51. <a id="endnote-51"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/ChNN2erggQE/](https://www.instagram.com/reel/ChNN2erggQE/)  
+   Link: <a href="https://www.instagram.com/reel/ChNN2erggQE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/ChNN2erggQE/</a>  
 
 52. <a id="endnote-52"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYFXDtfsX8J/](https://www.instagram.com/reel/DYFXDtfsX8J/)  
+   Link: <a href="https://www.instagram.com/reel/DYFXDtfsX8J/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYFXDtfsX8J/</a>  
 
 53. <a id="endnote-53"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXQb0mFDX74/](https://www.instagram.com/reel/DXQb0mFDX74/)  
+   Link: <a href="https://www.instagram.com/reel/DXQb0mFDX74/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXQb0mFDX74/</a>  
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYFk7H9FviH/?__d=1%3Futm_source%3Dig_embed&img_index=2](https://www.instagram.com/p/DYFk7H9FviH/?__d=1%3Futm_source%3Dig_embed&img_index=2)  
+   Link: <a href="https://www.instagram.com/p/DYFk7H9FviH/?__d=1%3Futm_source%3Dig_embed&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFk7H9FviH/?__d=1%3Futm_source%3Dig_embed&amp;img_index=2</a>  
 
 55. <a id="endnote-55"></a>
    Source: instagram.com  
    Title: DTmv A7zkkvt  
-   Link: [https://www.instagram.com/p/DTmvA7zkkvt/](https://www.instagram.com/p/DTmvA7zkkvt/)  
+   Link: <a href="https://www.instagram.com/p/DTmvA7zkkvt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTmvA7zkkvt/</a>  
 
 56. <a id="endnote-56"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/B_OEAwklAuR/](https://www.instagram.com/p/B_OEAwklAuR/)  
+   Link: <a href="https://www.instagram.com/p/B_OEAwklAuR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B_OEAwklAuR/</a>  
 
 57. <a id="endnote-57"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNj51cGBqiF/](https://www.instagram.com/reel/DNj51cGBqiF/)  
+   Link: <a href="https://www.instagram.com/reel/DNj51cGBqiF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNj51cGBqiF/</a>  
 
 58. <a id="endnote-58"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DEEo6SgCI8K/](https://www.instagram.com/reel/DEEo6SgCI8K/)  
+   Link: <a href="https://www.instagram.com/reel/DEEo6SgCI8K/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEEo6SgCI8K/</a>  
 
 59. <a id="endnote-59"></a>
    Source: instagram.com  
    Title: no están visitando de otro planeta un salvadoreño captó ayer lunes un ovni volan  
-   Link: [https://www.instagram.com/p/DE0KO8-uJbL/no-est%C3%A1n-visitando-de-otro-planeta-un-salvadore%C3%B1o-capt%C3%B3-ayer-lunes-un-ovni-volan/](https://www.instagram.com/p/DE0KO8-uJbL/no-est%C3%A1n-visitando-de-otro-planeta-un-salvadore%C3%B1o-capt%C3%B3-ayer-lunes-un-ovni-volan/)  
+   Link: <a href="https://www.instagram.com/p/DE0KO8-uJbL/no-est%C3%A1n-visitando-de-otro-planeta-un-salvadore%C3%B1o-capt%C3%B3-ayer-lunes-un-ovni-volan/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DE0KO8-uJbL/no-est%C3%A1n-visitando-de-otro-planeta-un-salvadore%C3%B1o-capt%C3%B3-ayer-lunes-un-ovni-volan/</a>  
 
 60. <a id="endnote-60"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C-L3bN4IARA/](https://www.instagram.com/reel/C-L3bN4IARA/)  
+   Link: <a href="https://www.instagram.com/reel/C-L3bN4IARA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C-L3bN4IARA/</a>  
 
 61. <a id="endnote-61"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYfFvcFSpHk/](https://www.instagram.com/reel/DYfFvcFSpHk/)  
+   Link: <a href="https://www.instagram.com/reel/DYfFvcFSpHk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYfFvcFSpHk/</a>  
 
 62. <a id="endnote-62"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVHOttsDtKd/](https://www.instagram.com/p/DVHOttsDtKd/)  
+   Link: <a href="https://www.instagram.com/p/DVHOttsDtKd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVHOttsDtKd/</a>  
 
 63. <a id="endnote-63"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYp1ydHvavg/](https://www.instagram.com/reel/DYp1ydHvavg/)  
+   Link: <a href="https://www.instagram.com/reel/DYp1ydHvavg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYp1ydHvavg/</a>  
 
 64. <a id="endnote-64"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVHFFZfD0dB/](https://www.instagram.com/reel/DVHFFZfD0dB/)  
+   Link: <a href="https://www.instagram.com/reel/DVHFFZfD0dB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVHFFZfD0dB/</a>  
 
 65. <a id="endnote-65"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/aac_sv/](https://www.instagram.com/aac_sv/)  
+   Link: <a href="https://www.instagram.com/aac_sv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/aac_sv/</a>  
 
 66. <a id="endnote-66"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DBYV8Jrp5Pb/?hl=en](https://www.instagram.com/reel/DBYV8Jrp5Pb/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DBYV8Jrp5Pb/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBYV8Jrp5Pb/?hl=en</a>  
 
 67. <a id="endnote-67"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/search/project%2Bblue%2Bbook/feed/rss2/](https://unwritten-record.blogs.archives.gov/search/project%2Bblue%2Bbook/feed/rss2/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/search/project%2Bblue%2Bbook/feed/rss2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/search/project%2Bblue%2Bbook/feed/rss2/</a>  
 
 68. <a id="endnote-68"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 69. <a id="endnote-69"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 70. <a id="endnote-70"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 71. <a id="endnote-71"></a>
    Source: snet.gob.sv  
-   Link: [https://www.snet.gob.sv/](https://www.snet.gob.sv/)  
+   Link: <a href="https://www.snet.gob.sv/" target="_blank" rel="noopener noreferrer nofollow">https://www.snet.gob.sv/</a>  
 
 72. <a id="endnote-72"></a>
    Source: snet.gob.sv  
-   Link: [https://www.snet.gob.sv/ver/meteorologia/informes%2Bespeciales/](https://www.snet.gob.sv/ver/meteorologia/informes%2Bespeciales/)  
+   Link: <a href="https://www.snet.gob.sv/ver/meteorologia/informes%2Bespeciales/" target="_blank" rel="noopener noreferrer nofollow">https://www.snet.gob.sv/ver/meteorologia/informes%2Bespeciales/</a>  
 
 73. <a id="endnote-73"></a>
    Source: snet.gob.sv  
-   Link: [https://www.snet.gob.sv/Geologia/Vulcanologia/memorias/mtecVSM2.pdf](https://www.snet.gob.sv/Geologia/Vulcanologia/memorias/mtecVSM2.pdf)  
+   Link: <a href="https://www.snet.gob.sv/Geologia/Vulcanologia/memorias/mtecVSM2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.snet.gob.sv/Geologia/Vulcanologia/memorias/mtecVSM2.pdf</a>  
 
 74. <a id="endnote-74"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 75. <a id="endnote-75"></a>
    Source: change.org  
-   Link: [https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421](https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421)  
+   Link: <a href="https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421" target="_blank" rel="noopener noreferrer nofollow">https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421</a>  
 
 76. <a id="endnote-76"></a>
    Source: reddit.com  
    Title: historias reales de extraterrestres en el  
-   Link: [https://www.reddit.com/r/ElSalvador/comments/ywinag/historias_reales_de_extraterrestres_en_el/](https://www.reddit.com/r/ElSalvador/comments/ywinag/historias_reales_de_extraterrestres_en_el/)  
+   Link: <a href="https://www.reddit.com/r/ElSalvador/comments/ywinag/historias_reales_de_extraterrestres_en_el/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ElSalvador/comments/ywinag/historias_reales_de_extraterrestres_en_el/</a>  
 
 77. <a id="endnote-77"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
 78. <a id="endnote-78"></a>
    Source: transparencia.gob.sv  
-   Link: [https://www.transparencia.gob.sv/documentos/51-4](https://www.transparencia.gob.sv/documentos/51-4)  
+   Link: <a href="https://www.transparencia.gob.sv/documentos/51-4" target="_blank" rel="noopener noreferrer nofollow">https://www.transparencia.gob.sv/documentos/51-4</a>  
 
 79. <a id="endnote-79"></a>
    Source: gob.mx  
-   Link: [https://www.gob.mx/afac](https://www.gob.mx/afac)  
+   Link: <a href="https://www.gob.mx/afac" target="_blank" rel="noopener noreferrer nofollow">https://www.gob.mx/afac</a>  
 
 80. <a id="endnote-80"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: [https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf](https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf)  
+   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
 81. <a id="endnote-81"></a>
    Source: dgac.gob.bo  
-   Link: [https://www.dgac.gob.bo/drones/](https://www.dgac.gob.bo/drones/)  
+   Link: <a href="https://www.dgac.gob.bo/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.dgac.gob.bo/drones/</a>  
 
 82. <a id="endnote-82"></a>
    Source: elsalvador.com  
    Title: jueves recuerdo ovni sobrevuela san salvador en 1969  
-   Link: [https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/](https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/)  
+   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/</a>  
 
 83. <a id="endnote-83"></a>
    Source: test.elsalvador.com  
-   Link: [https://test.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/](https://test.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/)  
+   Link: <a href="https://test.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow">https://test.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/</a>  
 
 84. <a id="endnote-84"></a>
    Source: elsalvador.com  
-   Link: [https://www.elsalvador.com/h-entretenimiento/h-tecnologia/ovnis-nubes-san-miguel-volcan-chaparrastique-estados-unidos/976667/2022/](https://www.elsalvador.com/h-entretenimiento/h-tecnologia/ovnis-nubes-san-miguel-volcan-chaparrastique-estados-unidos/976667/2022/)  
+   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-tecnologia/ovnis-nubes-san-miguel-volcan-chaparrastique-estados-unidos/976667/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-tecnologia/ovnis-nubes-san-miguel-volcan-chaparrastique-estados-unidos/976667/2022/</a>  
 
 85. <a id="endnote-85"></a>
    Source: laprensagrafica.com  
-   Link: [https://www.laprensagrafica.com/elsalvador/Peculiar-nube-se-formo-en-cielo-salvadoreno-y-asi-reaccionaron-en-redes-20170314-0033.html](https://www.laprensagrafica.com/elsalvador/Peculiar-nube-se-formo-en-cielo-salvadoreno-y-asi-reaccionaron-en-redes-20170314-0033.html)  
+   Link: <a href="https://www.laprensagrafica.com/elsalvador/Peculiar-nube-se-formo-en-cielo-salvadoreno-y-asi-reaccionaron-en-redes-20170314-0033.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensagrafica.com/elsalvador/Peculiar-nube-se-formo-en-cielo-salvadoreno-y-asi-reaccionaron-en-redes-20170314-0033.html</a>  
 
 86. <a id="endnote-86"></a>
    Source: historico.elsalvador.com  
    Title: un ovni en el volcan chaparrastique  
-   Link: [https://historico.elsalvador.com/historico/187114/un-ovni-en-el-volcan-chaparrastique.html](https://historico.elsalvador.com/historico/187114/un-ovni-en-el-volcan-chaparrastique.html)  
+   Link: <a href="https://historico.elsalvador.com/historico/187114/un-ovni-en-el-volcan-chaparrastique.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/187114/un-ovni-en-el-volcan-chaparrastique.html</a>  
 
 87. <a id="endnote-87"></a>
    Source: laprensagrafica.com  
-   Link: [https://www.laprensagrafica.com/elsalvador/Me-encontre-una-nave-aterrizada-salvadorenos-investigadores-del-fenomeno-OVNI-aseguran-haber-tenido-contacto-con-seres-no-humanos-20230809-0024.html](https://www.laprensagrafica.com/elsalvador/Me-encontre-una-nave-aterrizada-salvadorenos-investigadores-del-fenomeno-OVNI-aseguran-haber-tenido-contacto-con-seres-no-humanos-20230809-0024.html)  
+   Link: <a href="https://www.laprensagrafica.com/elsalvador/Me-encontre-una-nave-aterrizada-salvadorenos-investigadores-del-fenomeno-OVNI-aseguran-haber-tenido-contacto-con-seres-no-humanos-20230809-0024.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensagrafica.com/elsalvador/Me-encontre-una-nave-aterrizada-salvadorenos-investigadores-del-fenomeno-OVNI-aseguran-haber-tenido-contacto-con-seres-no-humanos-20230809-0024.html</a>  
 
 88. <a id="endnote-88"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 89. <a id="endnote-89"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 90. <a id="endnote-90"></a>
    Source: Wikipedia  
    Title: Ilopango International Airport  
-   Link: [https://en.wikipedia.org/wiki/Ilopango_International_Airport](https://en.wikipedia.org/wiki/Ilopango_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ilopango_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ilopango_International_Airport</a>  
 
 91. <a id="endnote-91"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Volcano](https://en.wikipedia.org/wiki/Volcano)  
+   Link: <a href="https://en.wikipedia.org/wiki/Volcano" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Volcano</a>  
 
 92. <a id="endnote-92"></a>
    Source: elsalvador.com  
    Title: OVNI S  
-   Link: [https://www.elsalvador.com/tag/ovnis/](https://www.elsalvador.com/tag/ovnis/)  
+   Link: <a href="https://www.elsalvador.com/tag/ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/tag/ovnis/</a>  
 
 93. <a id="endnote-93"></a>
    Source: elsalvador.com  
-   Link: [https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/](https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/)  
+   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/</a>  
 
 94. <a id="endnote-94"></a>
    Source: historico.elsalvador.com  
    Title: rafael alfaro rock progresivo artista salvadoreno ovni  
-   Link: [https://historico.elsalvador.com/historico/793857/rafael-alfaro-rock-progresivo-artista-salvadoreno-ovni.html](https://historico.elsalvador.com/historico/793857/rafael-alfaro-rock-progresivo-artista-salvadoreno-ovni.html)  
+   Link: <a href="https://historico.elsalvador.com/historico/793857/rafael-alfaro-rock-progresivo-artista-salvadoreno-ovni.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/793857/rafael-alfaro-rock-progresivo-artista-salvadoreno-ovni.html</a>  
 
 95. <a id="endnote-95"></a>
    Source: elsalvador.com  
-   Link: [https://www.elsalvador.com/tag/extraterrestres/](https://www.elsalvador.com/tag/extraterrestres/)  
+   Link: <a href="https://www.elsalvador.com/tag/extraterrestres/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/tag/extraterrestres/</a>  
 
 96. <a id="endnote-96"></a>
    Source: historico.elsalvador.com  
    Title: tres decadas de musica con un fenomeno llamado ovni  
-   Link: [https://historico.elsalvador.com/historico/100518/tres-decadas-de-musica-con-un-fenomeno-llamado-ovni.html](https://historico.elsalvador.com/historico/100518/tres-decadas-de-musica-con-un-fenomeno-llamado-ovni.html)  
+   Link: <a href="https://historico.elsalvador.com/historico/100518/tres-decadas-de-musica-con-un-fenomeno-llamado-ovni.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/100518/tres-decadas-de-musica-con-un-fenomeno-llamado-ovni.html</a>  
 
 97. <a id="endnote-97"></a>
    Source: elsalvador.com  
    Title: donald trump archivos sobre ovnis  
-   Link: [https://www.elsalvador.com/noticias/internacional/donald-trump-archivos-sobre-ovnis/1263251/2026/](https://www.elsalvador.com/noticias/internacional/donald-trump-archivos-sobre-ovnis/1263251/2026/)  
+   Link: <a href="https://www.elsalvador.com/noticias/internacional/donald-trump-archivos-sobre-ovnis/1263251/2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/noticias/internacional/donald-trump-archivos-sobre-ovnis/1263251/2026/</a>  
 
 98. <a id="endnote-98"></a>
    Source: historico.elsalvador.com  
    Title: ovni aterriza con simple su nuevo album  
-   Link: [https://historico.elsalvador.com/historico/164402/ovni-aterriza-con-simple-su-nuevo-album.html](https://historico.elsalvador.com/historico/164402/ovni-aterriza-con-simple-su-nuevo-album.html)  
+   Link: <a href="https://historico.elsalvador.com/historico/164402/ovni-aterriza-con-simple-su-nuevo-album.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/164402/ovni-aterriza-con-simple-su-nuevo-album.html</a>  
 
 99. <a id="endnote-99"></a>
    Source: elsalvador.com  
-   Link: [https://www.elsalvador.com/noticias/internacional/estados-unidos-donald-trump-ovnis/1275231/2026/](https://www.elsalvador.com/noticias/internacional/estados-unidos-donald-trump-ovnis/1275231/2026/)  
+   Link: <a href="https://www.elsalvador.com/noticias/internacional/estados-unidos-donald-trump-ovnis/1275231/2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/noticias/internacional/estados-unidos-donald-trump-ovnis/1275231/2026/</a>  
 
 100. <a id="endnote-100"></a>
    Source: elsalvador.com  
    Title: que revelan los archivos sobre ovnis de ee uu  
-   Link: [https://www.elsalvador.com/noticias/internacional/que-revelan-los-archivos-sobre-ovnis-de-ee-uu-/1273309/2026/](https://www.elsalvador.com/noticias/internacional/que-revelan-los-archivos-sobre-ovnis-de-ee-uu-/1273309/2026/)  
+   Link: <a href="https://www.elsalvador.com/noticias/internacional/que-revelan-los-archivos-sobre-ovnis-de-ee-uu-/1273309/2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/noticias/internacional/que-revelan-los-archivos-sobre-ovnis-de-ee-uu-/1273309/2026/</a>  
 
 101. <a id="endnote-101"></a>
    Source: elsalvador.com  
    Title: viral tiktok san miguel estados unidos  
-   Link: [https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/viral-tiktok-san-miguel-estados-unidos/979475/2022/](https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/viral-tiktok-san-miguel-estados-unidos/979475/2022/)  
+   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/viral-tiktok-san-miguel-estados-unidos/979475/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/viral-tiktok-san-miguel-estados-unidos/979475/2022/</a>  
 
 102. <a id="endnote-102"></a>
    Source: historico.elsalvador.com  
    Title: ovnis el salvador romero extraterrestre  
-   Link: [https://historico.elsalvador.com/historico/852409/ovnis-el-salvador-romero-extraterrestre.html](https://historico.elsalvador.com/historico/852409/ovnis-el-salvador-romero-extraterrestre.html)  
+   Link: <a href="https://historico.elsalvador.com/historico/852409/ovnis-el-salvador-romero-extraterrestre.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/852409/ovnis-el-salvador-romero-extraterrestre.html</a>  
 
 103. <a id="endnote-103"></a>
    Source: historico.elsalvador.com  
-   Link: [https://historico.elsalvador.com/historico/198363/impresionantes-imagenes-de-lava-de-volcan-de-hawai-que-desemboca-en-el-oceano-pacifico.html](https://historico.elsalvador.com/historico/198363/impresionantes-imagenes-de-lava-de-volcan-de-hawai-que-desemboca-en-el-oceano-pacifico.html)  
+   Link: <a href="https://historico.elsalvador.com/historico/198363/impresionantes-imagenes-de-lava-de-volcan-de-hawai-que-desemboca-en-el-oceano-pacifico.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/198363/impresionantes-imagenes-de-lava-de-volcan-de-hawai-que-desemboca-en-el-oceano-pacifico.html</a>  
 
 104. <a id="endnote-104"></a>
    Source: eaglepubs.erau.edu  
    Title: el salvador  
-   Link: [https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/el-salvador/](https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/el-salvador/)  
+   Link: <a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/el-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/el-salvador/</a>  
 
 105. <a id="endnote-105"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7BC54aNWy30](https://www.youtube.com/watch?v=7BC54aNWy30)  
+   Link: <a href="https://www.youtube.com/watch?v=7BC54aNWy30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7BC54aNWy30</a>  
 
 106. <a id="endnote-106"></a>
    Source: ebay.co.uk  
    Title: Project Blue Book  
-   Link: [https://www.ebay.co.uk/itm/314126633717](https://www.ebay.co.uk/itm/314126633717)  
+   Link: <a href="https://www.ebay.co.uk/itm/314126633717" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/314126633717</a>  
 
 107. <a id="endnote-107"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 108. <a id="endnote-108"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1725090](https://www.jstor.org/stable/1725090)  
+   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
 
 109. <a id="endnote-109"></a>
    Source: crwflags.com  
    Title: El Salvador  
-   Link: [https://www.crwflags.com/fotw/flags/sv_aac.html](https://www.crwflags.com/fotw/flags/sv_aac.html)  
+   Link: <a href="https://www.crwflags.com/fotw/flags/sv_aac.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crwflags.com/fotw/flags/sv_aac.html</a>  
 
 ### Additional References
 
 110. <a id="endnote-110"></a>
    Source: youtube.com  
    Title: UFO IN SOYAPANGO? | News 4 Vision | El Salvador | Mystery  
-   Link: [https://www.youtube.com/watch?v=cCLu66RD1PU](https://www.youtube.com/watch?v=cCLu66RD1PU)  
+   Link: <a href="https://www.youtube.com/watch?v=cCLu66RD1PU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cCLu66RD1PU</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO escorted by military aircraft? What do you think? | News 4 Vision | El Salvador...</p></details>
 
 111. <a id="endnote-111"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SV.pdf](https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SV.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SV.pdf</a>  
 
 112. <a id="endnote-112"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 113. <a id="endnote-113"></a>
    Source: science.gov  
-   Link: [https://www.science.gov/topicpages/s/san%2Bsalvador%2Bvolcano-ilopango](https://www.science.gov/topicpages/s/san%2Bsalvador%2Bvolcano-ilopango)  
+   Link: <a href="https://www.science.gov/topicpages/s/san%2Bsalvador%2Bvolcano-ilopango" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/san%2Bsalvador%2Bvolcano-ilopango</a>  
 
 114. <a id="endnote-114"></a>
    Source: youtube.com  
    Title: PLACES IN EL SALVADOR WITH UFO SIGHTINGS | Noticias 4 Visión  
-   Link: [https://www.youtube.com/watch?v=Sxkf5P-IU-U](https://www.youtube.com/watch?v=Sxkf5P-IU-U)  
+   Link: <a href="https://www.youtube.com/watch?v=Sxkf5P-IU-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sxkf5P-IU-U</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IN SOYAPANGO? | News 4 Vision | El Salvador | Mystery...</p></details>
 
 115. <a id="endnote-115"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RmbI7pOLm2M](https://www.youtube.com/watch?v=RmbI7pOLm2M)  
+   Link: <a href="https://www.youtube.com/watch?v=RmbI7pOLm2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmbI7pOLm2M</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in El Salvador? | News 4 Vision...</p></details>
 
 116. <a id="endnote-116"></a>
    Source: etsy.com  
-   Link: [https://www.etsy.com/uk/listing/763383987/5-ufo-flying-saucer-photos-project-blue](https://www.etsy.com/uk/listing/763383987/5-ufo-flying-saucer-photos-project-blue)  
+   Link: <a href="https://www.etsy.com/uk/listing/763383987/5-ufo-flying-saucer-photos-project-blue" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/listing/763383987/5-ufo-flying-saucer-photos-project-blue</a>  
 
 117. <a id="endnote-117"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 118. <a id="endnote-118"></a>
    Source: uavcoach.com  
-   Link: [https://uavcoach.com/drone-laws-in-el-salvador/](https://uavcoach.com/drone-laws-in-el-salvador/)  
+   Link: <a href="https://uavcoach.com/drone-laws-in-el-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-el-salvador/</a>  
 
 119. <a id="endnote-119"></a>
    Source: laprensagrafica.com  
-   Link: [https://www.laprensagrafica.com/internacional/El-Pentagono-rastrea-mas-de-650-posibles-casos-de-ovnis-y-responde-a-pregunta-de-si-hay-evidencia-de-vida-extraterrestre-20230420-0071.html](https://www.laprensagrafica.com/internacional/El-Pentagono-rastrea-mas-de-650-posibles-casos-de-ovnis-y-responde-a-pregunta-de-si-hay-evidencia-de-vida-extraterrestre-20230420-0071.html)  
+   Link: <a href="https://www.laprensagrafica.com/internacional/El-Pentagono-rastrea-mas-de-650-posibles-casos-de-ovnis-y-responde-a-pregunta-de-si-hay-evidencia-de-vida-extraterrestre-20230420-0071.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensagrafica.com/internacional/El-Pentagono-rastrea-mas-de-650-posibles-casos-de-ovnis-y-responde-a-pregunta-de-si-hay-evidencia-de-vida-extraterrestre-20230420-0071.html</a>  

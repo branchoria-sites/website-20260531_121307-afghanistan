@@ -239,7 +239,7 @@ prev_link:
   permalink: /lunda-case/
   short_title: Lunda Case
   heading_title: What Happened Over Lunda in 1966?
-date: '2026-06-09 01:12:08 '
+date: '2026-06-10 01:36:53 '
 header:
   og_image: /assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-1-social.jpg
   preview_image: /assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-1.webp
@@ -280,7 +280,7 @@ This creates a filtering effect:
 
 </div>
 
-The imbalance is not unique to Angola. Historians of colonial archives have repeatedly noted that entire categories of local experience become effectively invisible when preservation systems depend on metropolitan institutions and selective indexing practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.02194" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unsilencing Colonial Archives via Automated Entity Recognition</span><span class="citation-popover-snippet">arXivUnsilencing Colonial Archives via Automated Entity RecognitionOctober 3, 2022...</span><span class="citation-popover-meta">Published: October 3, 2022</span></span></span>
+The imbalance is not unique to Angola. Historians of colonial archives have repeatedly noted that entire categories of local experience become effectively invisible when preservation systems depend on metropolitan institutions and selective indexing practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.02194" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unsilencing Colonial Archives via Automated Entity Recognition</span><span class="citation-popover-snippet">Unsilencing Colonial Archives via Automated Entity RecognitionOctober 3, 2022...</span><span class="citation-popover-meta">Published: October 3, 2022</span></span></span>
 
 In practical terms, Angola’s UFO silence is partly an information-survival problem.
 
@@ -363,8 +363,7 @@ Aviation-linked sightings survive more often because pilots, towers, and diploma
 The famous 1966 case fits this pattern almost perfectly. It involved an airline crew, an air traffic control chain, colonial administration, and international diplomatic reporting. Those institutional layers gave the event archival durability even though investigators later declined to treat it as proof of unidentified craft.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-3-dark.svg" | relative_url }}" alt="Sparse Record illustration 3" data-theme-src-dark="{{ "/assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Rural Angola was historically under-documented
 
 Large areas of Angola remained sparsely connected for much of the twentieth century, especially during wartime. Infrastructure studies repeatedly describe severe transportation and communications limitations across the country, particularly outside major urban areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/sites/default/files/publications/research/2018-09-14-angola-infrastructure-ambitions-kirk-jensen-final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-snippet">Chatham HouseAngola&#x27;s Infrastructure Ambitions Through Booms and BustsSeptember 17, 2018 — by SK Jensen · Cited by 8 — The government&#x27;s p...</span><span class="citation-popover-meta">Published: September 17, 2018</span></span></span>
@@ -404,7 +403,8 @@ The known evidence does not support a theory of systematic concealment by a soph
 This also explains why many Angola-related UFO references online ultimately trace back to the same few documents or recycled anecdotes. Thin archival ecosystems tend to produce circular citation patterns in which later writers repeatedly reference earlier summaries without uncovering substantial new primary material.
 
 
-<img src="{{ "/assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-3-dark.svg" | relative_url }}" alt="Sparse Record illustration 3" data-theme-src-dark="{{ "/assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_sparse_angola_report_c4fe3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+
 ## Why Angola Matters in UFO Research Despite the Thin Archive
 
 Angola remains important precisely because it demonstrates how uneven the global UFO record really is. Public UFO history is not merely a catalogue of sightings; it is also a map of which societies preserved records effectively.
@@ -419,91 +419,45 @@ The country highlights several broader lessons:
 
 The 1966 Lunda report survives because it intersected with international bureaucratic systems strong enough to preserve paper trails across decades. Most other Angolan sightings — if they occurred — likely did not pass through those systems at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.c-r.org/accord/angola/role-media-during-conflict-and-construction-democracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c-r.org">[Conciliation Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c-r.org</span><span class="citation-popover-title">role media during conflict and construction democracy</span><span class="citation-popover-snippet">Conciliation ResourcesThe role of the media during the conflict and in...15 Oct 2004 — The Angolan media is currently facing the enormou...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29Wbm-UkvUE" title="Djo - Link (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer">Djo - Link (Official Visualizer)</a></p><p class="youtube-embed-meta">Channel: Djo Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29Wbm-UkvUE">Open on YouTube</a></p></div></div></div>
-
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Are Angola UFO Reports So Scarce?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Are Angola UFO Reports So Scarce?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding reporting limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights how strong cases differ from sparse records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Addresses cultural transmission of extraordinary stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Helps explain evidence gaps and claim inflation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -537,75 +491,71 @@ The 1966 Lunda report survives because it intersected with international bureauc
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sparse-record-why-are-angola-ufo-reports-so-scarce-angola-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -819,70 +769,70 @@ The 1966 Lunda report survives because it intersected with international bureauc
 
 1. <a id="endnote-1"></a>
    Source: unctad.org  
-   Link: [https://unctad.org/system/files/official-document/ditctsce2023d2_en.pdf](https://unctad.org/system/files/official-document/ditctsce2023d2_en.pdf)  
+   Link: <a href="https://unctad.org/system/files/official-document/ditctsce2023d2_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unctad.org/system/files/official-document/ditctsce2023d2_en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UN Trade and Development (UNCTAD)Mapping the cultural and creative industries in AngolaAngola experienced an intense civil war, which las...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Angolan Civil War  
-   Link: [https://en.wikipedia.org/wiki/Angolan_Civil_War](https://en.wikipedia.org/wiki/Angolan_Civil_War)  
+   Link: <a href="https://en.wikipedia.org/wiki/Angolan_Civil_War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angolan_Civil_War</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Angolan Civil War (Portuguese: Guerra Civil Angolana) was a civil war in Angola, beginning in 1975 and continuing, with interludes, u...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mass media in Angola  
-   Link: [https://en.wikipedia.org/wiki/Mass_media_in_Angola](https://en.wikipedia.org/wiki/Mass_media_in_Angola)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mass_media_in_Angola" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_media_in_Angola</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Corruption in Angola  
-   Link: [https://en.wikipedia.org/wiki/Corruption_in_Angola](https://en.wikipedia.org/wiki/Corruption_in_Angola)  
+   Link: <a href="https://en.wikipedia.org/wiki/Corruption_in_Angola" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corruption_in_Angola</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Unsilencing Colonial Archives via Automated Entity Recognition  
-   Link: [https://arxiv.org/abs/2210.02194](https://arxiv.org/abs/2210.02194)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUnsilencing Colonial Archives via Automated Entity RecognitionOctober 3, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2210.02194" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02194</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsilencing Colonial Archives via Automated Entity RecognitionOctober 3, 2022...</p></details>
    Published: October 3, 2022  
 
 6. <a id="endnote-6"></a>
    Source: reliefweb.int  
    Title: angola idp rehabilitation held back devastated infrastructure  
-   Link: [https://reliefweb.int/report/angola/angola-idp-rehabilitation-held-back-devastated-infrastructure](https://reliefweb.int/report/angola/angola-idp-rehabilitation-held-back-devastated-infrastructure)  
+   Link: <a href="https://reliefweb.int/report/angola/angola-idp-rehabilitation-held-back-devastated-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/angola/angola-idp-rehabilitation-held-back-devastated-infrastructure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angola: IDP rehabilitation held back by devastated...4 Oct 2005 — Since April 2002, close to four million internally displaced Angolans...</p></details>
    Published: April 2002  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Arquivo Histórico Ultramarino  
-   Link: [https://en.wikipedia.org/wiki/Arquivo_Hist%C3%B3rico_Ultramarino](https://en.wikipedia.org/wiki/Arquivo_Hist%C3%B3rico_Ultramarino)  
+   Link: <a href="https://en.wikipedia.org/wiki/Arquivo_Hist%C3%B3rico_Ultramarino" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arquivo_Hist%C3%B3rico_Ultramarino</a>  
 
 8. <a id="endnote-8"></a>
    Source: unesdoc.unesco.org  
    Title: Digital Library Angola's National Museum during the civil war  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000133488](https://unesdoc.unesco.org/ark%3A/48223/pf0000133488)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000133488" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000133488</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>cultural destruction during times of civil disturbance or war is commercially driven.... Culture, Media and Sports. This role is fundame...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iccrom.org  
    Title: iccrom ics06 culturalheritagepostwar en 0 0  
-   Link: [https://www.iccrom.org/sites/default/files/publications/2019-11/iccrom_ics06_culturalheritagepostwar_en_0_0.pdf](https://www.iccrom.org/sites/default/files/publications/2019-11/iccrom_ics06_culturalheritagepostwar_en_0_0.pdf)  
+   Link: <a href="https://www.iccrom.org/sites/default/files/publications/2019-11/iccrom_ics06_culturalheritagepostwar_en_0_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iccrom.org/sites/default/files/publications/2019-11/iccrom_ics06_culturalheritagepostwar_en_0_0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Heritage in Postwar RecoveryCultural Heritage in Postwar Recovery. Papers from the ICCROM FORUM held on October 4-6, 2005, edite...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Archaeology of Angola  
-   Link: [https://en.wikipedia.org/wiki/Archaeology_of_Angola](https://en.wikipedia.org/wiki/Archaeology_of_Angola)  
+   Link: <a href="https://en.wikipedia.org/wiki/Archaeology_of_Angola" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archaeology_of_Angola</a>  
 
 11. <a id="endnote-11"></a>
    Source: c-r.org  
    Title: role media during conflict and construction democracy  
-   Link: [https://www.c-r.org/accord/angola/role-media-during-conflict-and-construction-democracy](https://www.c-r.org/accord/angola/role-media-during-conflict-and-construction-democracy)  
+   Link: <a href="https://www.c-r.org/accord/angola/role-media-during-conflict-and-construction-democracy" target="_blank" rel="noopener noreferrer nofollow">https://www.c-r.org/accord/angola/role-media-during-conflict-and-construction-democracy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conciliation ResourcesThe role of the media during the conflict and in...15 Oct 2004 — The Angolan media is currently facing the enormou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: chathamhouse.org  
-   Link: [https://www.chathamhouse.org/sites/default/files/publications/research/2018-09-14-angola-infrastructure-ambitions-kirk-jensen-final.pdf](https://www.chathamhouse.org/sites/default/files/publications/research/2018-09-14-angola-infrastructure-ambitions-kirk-jensen-final.pdf)  
+   Link: <a href="https://www.chathamhouse.org/sites/default/files/publications/research/2018-09-14-angola-infrastructure-ambitions-kirk-jensen-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/sites/default/files/publications/research/2018-09-14-angola-infrastructure-ambitions-kirk-jensen-final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chatham HouseAngola&#x27;s Infrastructure Ambitions Through Booms and BustsSeptember 17, 2018 — by SK Jensen · Cited by 8 — The government&#x27;s p...</p></details>
    Published: September 17, 2018  
 
@@ -891,55 +841,55 @@ The 1966 Lunda report survives because it intersected with international bureauc
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: since the end of civil war in 2002 angola has spent over 120 billion on infrastr  
-   Link: [https://www.facebook.com/AfricaFactsZone/posts/since-the-end-of-civil-war-in-2002-angola-has-spent-over-120-billion-on-infrastr/609894867470620/](https://www.facebook.com/AfricaFactsZone/posts/since-the-end-of-civil-war-in-2002-angola-has-spent-over-120-billion-on-infrastr/609894867470620/)  
+   Link: <a href="https://www.facebook.com/AfricaFactsZone/posts/since-the-end-of-civil-war-in-2002-angola-has-spent-over-120-billion-on-infrastr/609894867470620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AfricaFactsZone/posts/since-the-end-of-civil-war-in-2002-angola-has-spent-over-120-billion-on-infrastr/609894867470620/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the end of civil war in 2002, Angola has spent over...Since the end of civil war in 2002, Angola has spent over $120 billion on in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ora.ox.ac.uk  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3Aa1eaeab2-9116-45d8-8df3-47b967fd9f1f/files/mbc1ad9baa3d51e9cd2cb2b069349f613](https://ora.ox.ac.uk/objects/uuid%3Aa1eaeab2-9116-45d8-8df3-47b967fd9f1f/files/mbc1ad9baa3d51e9cd2cb2b069349f613)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford University Research ArchiveControl, ideology and identity in civil war:by J Pearce · 2011 · Cited by 18 — This thesis examines the...</p></details>
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa1eaeab2-9116-45d8-8df3-47b967fd9f1f/files/mbc1ad9baa3d51e9cd2cb2b069349f613" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa1eaeab2-9116-45d8-8df3-47b967fd9f1f/files/mbc1ad9baa3d51e9cd2cb2b069349f613</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveControl, ideology and identity in civil war:by J Pearce · 2011 · Cited by 18 — This thesis examines the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nora.nerc.ac.uk  
    Title: nerc.ac.uk Chapter 2  
-   Link: [https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf](https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf)  
+   Link: <a href="https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends and status of alien and invasive alien...by H Seebens · 2023 · Cited by 48 — Records on alien animal species are incomplete with...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: escholarship.org  
-   Link: [https://escholarship.org/uc/item/9jc8m1mm](https://escholarship.org/uc/item/9jc8m1mm)  
+   Link: <a href="https://escholarship.org/uc/item/9jc8m1mm" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/9jc8m1mm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Forty Years of Facts and Research, ed. John Spencer and Hilary Evans (London: Futura Publications, 1988), 26–45. 6. A similar UFO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why Are There So Few UFO Reports in Certain Countries?  
-   Link: [http://www.youtube.com/watch?v=6P0aG1j8GgI](http://www.youtube.com/watch?v=6P0aG1j8GgI)  
+   Link: <a href="http://www.youtube.com/watch?v=6P0aG1j8GgI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6P0aG1j8GgI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sociology of UFO Sightings and Cultural Bias...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Understanding Archival Gaps in History  
-   Link: [http://www.youtube.com/watch?v=l4j7yX2H4jU](http://www.youtube.com/watch?v=l4j7yX2H4jU)  
+   Link: <a href="http://www.youtube.com/watch?v=l4j7yX2H4jU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=l4j7yX2H4jU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Eyewitness Testimony Often Fails in Official Records...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fYnHfOS_D8w&vl=en](https://www.youtube.com/watch?v=fYnHfOS_D8w&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=fYnHfOS_D8w&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fYnHfOS_D8w&amp;vl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angola&#x27;s Wars, 1961-2002 | Conflict ExplainerAngola was locked in Conflict following a war for independence it was plunged into one of th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How Governments Hide UFO Files  
-   Link: [http://www.youtube.com/watch?v=F-h7a_2yP1g](http://www.youtube.com/watch?v=F-h7a_2yP1g)  
+   Link: <a href="http://www.youtube.com/watch?v=F-h7a_2yP1g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F-h7a_2yP1g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are There So Few UFO Reports in Certain Countries?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Sociology of UFO Sightings and Cultural Bias  
-   Link: [http://www.youtube.com/watch?v=kY3P3O6T5hA](http://www.youtube.com/watch?v=kY3P3O6T5hA)  
+   Link: <a href="http://www.youtube.com/watch?v=kY3P3O6T5hA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kY3P3O6T5hA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Archival Gaps in History...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Why Eyewitness Testimony Often Fails in Official Records  
-   Link: [http://www.youtube.com/watch?v=j3A-s93n-pY](http://www.youtube.com/watch?v=j3A-s93n-pY)  
+   Link: <a href="http://www.youtube.com/watch?v=j3A-s93n-pY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=j3A-s93n-pY</a>  

@@ -239,7 +239,7 @@ prev_link:
   permalink: /projekt-záře/
   short_title: Projekt Záře
   heading_title: How Have Civilian Groups Documented UFOs in Czechia?
-date: '2026-06-09 01:25:13 '
+date: '2026-06-10 01:49:48 '
 header:
   og_image: /assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1-social.jpg
   preview_image: /assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1.webp
@@ -457,86 +457,44 @@ There is no publicly available technical dataset capable of confirming extraordi
 That unresolved tension is precisely why the Vranov incident still occupies such a prominent place in Czechia’s UFO history decades later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Happened During the 1987 Vranov nad DyjÃ­ UFO Interception?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Happened During the 1987 Vranov nad Dyjí UFO Interception?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Contains numerous radar and pilot encounter evaluations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Explores military investigations and official case analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines military testimony and evidence controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on military and pilot encounters with corroborating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -570,75 +528,71 @@ That unresolved tension is precisely why the Vranov incident still occupies such
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -853,126 +807,126 @@ That unresolved tension is precisely why the Vranov incident still occupies such
 1. <a id="endnote-1"></a>
    Source: praguepig.com  
    Title: Prague Pig.com The Vranov nad Dyjí UFO Case  
-   Link: [https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/](https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/)  
+   Link: <a href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://cs.wikipedia.org/wiki/UFO_nad_Vranovem](https://cs.wikipedia.org/wiki/UFO_nad_Vranovem)  
+   Link: <a href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow">https://cs.wikipedia.org/wiki/UFO_nad_Vranovem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Jedenapadesátý aneb historie 51...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: armyweb.cz  
    Title: v roce 1987 se stretl cesky vrtulnik s pravdepodobnym ufo  
-   Link: [https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo](https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo)  
+   Link: <a href="https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>V roce 1987 se český armádní vrtulník střetl s...15 Jul 2022 — Letos v červenci je tomu přesně 35 let ode dne, kdy vrtulník tehdejší Čes...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: magazin.aktualne.cz  
-   Link: [https://magazin.aktualne.cz/udajny-ufo-incident-nad-vranovskou-prehradou/r~d59bceba3b9b11f0bf960cc47ab5f122/](https://magazin.aktualne.cz/udajny-ufo-incident-nad-vranovskou-prehradou/r~d59bceba3b9b11f0bf960cc47ab5f122/)  
+   Link: <a href="https://magazin.aktualne.cz/udajny-ufo-incident-nad-vranovskou-prehradou/r~d59bceba3b9b11f0bf960cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/udajny-ufo-incident-nad-vranovskou-prehradou/r~d59bceba3b9b11f0bf960cc47ab5f122/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Československá armáda vs. UFO nad...8 Jun 2025 — Československá armáda proti UFO. Dramatický souboj vrtulníku s objektem porušujícím fyz...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: azet.sk  
-   Link: [https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/](https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/)  
+   Link: <a href="https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tajomné UFO nad nádržou Vranov: Ani po 38 rokoch...31 Jul 2025 — Pilot nadporučík Jaroslav Špaček dostal príkaz, aby objekt prenasledoval...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: idnes.cz  
    Title: Incident nad Vranovem halí tajemství  
-   Link: [https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu](https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu)  
+   Link: <a href="https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu" target="_blank" rel="noopener noreferrer nofollow">https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Po 35 letech...12 Jul 2022 — Přesto se časem objevila i nová stopa – objekt nepronásledoval jen zmíněný vrtulník, ale také letouny L-39...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Vranov nad Topľou  
-   Link: [https://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou](https://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad TopľouThe city is divided into three parts: Vranov nad Topľou proper, Čemerné and Lomnica. The city is also known for givin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Vranov nad Topľou  
-   Link: [https://it.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou](https://it.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou)  
+   Link: <a href="https://it.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad TopľouVranov nad Topľou (in ungherese Varannó, in tedesco Frö(h)nel o Vronau an der Töpl) è una città della Slovacchia, cap...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of UFO sightings in the Czech Republic  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic](https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of UFO sightings in the Czech RepublicVranov UFO incident is considered the most famous and arguably the most serious incident of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Vranov (Brno Country District)  
-   Link: [https://en.wikipedia.org/wiki/Vranov_%28Brno-Country_District%29](https://en.wikipedia.org/wiki/Vranov_%28Brno-Country_District%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vranov_%28Brno-Country_District%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vranov_%28Brno-Country_District%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov (Brno-Country District)Vranov is a municipality and village in Brno-Country District in the South Moravian Region of the Czech...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: znojemsky.denik.cz  
-   Link: [https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html](https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html)  
+   Link: <a href="https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html" target="_blank" rel="noopener noreferrer nofollow">https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Znojemský DeníkUFO nad Vranovem ožívá ve filmu Franta mimozemšťan8 Feb 2024 — Zamířit měli do Vranova nad Dyjí a objekt, který měli sledo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: trebicsky.denik.cz  
    Title: Trebic Sky Hon na UFO nad Třebíčskem  
-   Link: [https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html](https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html)  
+   Link: <a href="https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html" target="_blank" rel="noopener noreferrer nofollow">https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Armádní vrtulník se zapojil do...12 Jul 2024 — Sestřelit UFO. Tesaříkův stroj neměl radar, a tak musel spoléhat na navádění ze země a vi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amazingczechia.com  
    Title: Vranov nad Dyjí  
-   Link: [https://www.amazingczechia.com/destinations/vranov-nad-dyji/](https://www.amazingczechia.com/destinations/vranov-nad-dyji/)  
+   Link: <a href="https://www.amazingczechia.com/destinations/vranov-nad-dyji/" target="_blank" rel="noopener noreferrer nofollow">https://www.amazingczechia.com/destinations/vranov-nad-dyji/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Picturesque Town in South MoraviaVranov nad Dyjí is a fascinating market town located in the south-western part of the South Moravian R...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/Tourism-g1065320-Vranov_nad_Dyji_South_Moravian_Region_Moravia-Vacations.html](https://www.tripadvisor.com/Tourism-g1065320-Vranov_nad_Dyji_South_Moravian_Region_Moravia-Vacations.html)  
+   Link: <a href="https://www.tripadvisor.com/Tourism-g1065320-Vranov_nad_Dyji_South_Moravian_Region_Moravia-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g1065320-Vranov_nad_Dyji_South_Moravian_Region_Moravia-Vacations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad Dyji, Czech RepublicVranov nad Dyji Tourism: Tripadvisor has 409 reviews of Vranov nad Dyji Hotels, Attractions, and Restauran...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/Tourism-g5288181-Vranov_nad_Toplou_Presov_Region-Vacations.html](https://www.tripadvisor.com/Tourism-g5288181-Vranov_nad_Toplou_Presov_Region-Vacations.html)  
+   Link: <a href="https://www.tripadvisor.com/Tourism-g5288181-Vranov_nad_Toplou_Presov_Region-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g5288181-Vranov_nad_Toplou_Presov_Region-Vacations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad Toplou, SlovakiaVranov nad Toplou Tourism: Tripadvisor has 61 reviews of Vranov nad Toplou Hotels, Attractions, and Restaurant...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: expedia.it  
-   Link: [https://www.expedia.it/Vranov-Nad-Toplou.dx6200894](https://www.expedia.it/Vranov-Nad-Toplou.dx6200894)  
+   Link: <a href="https://www.expedia.it/Vranov-Nad-Toplou.dx6200894" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.it/Vranov-Nad-Toplou.dx6200894</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/](https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Jaroslav Špaček mentioned the incident in the book Fifty-first, or the...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: wspomina pilot śmigłowca, porucznik Jaroslav Špaček  
-   Link: [https://www.facebook.com/paranormalnapolska/posts/nigdy-wcze%C5%9Bniej-czego%C5%9B-takiego-nie-widzia%C5%82em-wspomina-pilot-%C5%9Bmig%C5%82owca-porucznik-/1298898108925271/](https://www.facebook.com/paranormalnapolska/posts/nigdy-wcze%C5%9Bniej-czego%C5%9B-takiego-nie-widzia%C5%82em-wspomina-pilot-%C5%9Bmig%C5%82owca-porucznik-/1298898108925271/)  
+   Link: <a href="https://www.facebook.com/paranormalnapolska/posts/nigdy-wcze%C5%9Bniej-czego%C5%9B-takiego-nie-widzia%C5%82em-wspomina-pilot-%C5%9Bmig%C5%82owca-porucznik-/1298898108925271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paranormalnapolska/posts/nigdy-wcze%C5%9Bniej-czego%C5%9B-takiego-nie-widzia%C5%82em-wspomina-pilot-%C5%9Bmig%C5%82owca-porucznik-/1298898108925271/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>„I...12 lipca 1987 roku nad zaporą Vranov na Morawach doszło do jednego z najbardziej dramatycznych incydentów z udziałem UFO w historii...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: 1987 vranov czech republic vranov incident  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/](https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1987, Vranov, Czech republic &quot;Vranov incident&quot;: r/UFOsArmy helicopter chases UFO in 1987 Czechoslovakia · r/UFOs - Army helicopter chase...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.seznam.cz  
-   Link: [https://medium.seznam.cz/clanek/npc-zahadne-setkani-nad-vranovskou-prehradou-ufo-a-armadni-vrtulnik-v-roce-1987-124015](https://medium.seznam.cz/clanek/npc-zahadne-setkani-nad-vranovskou-prehradou-ufo-a-armadni-vrtulnik-v-roce-1987-124015)  
+   Link: <a href="https://medium.seznam.cz/clanek/npc-zahadne-setkani-nad-vranovskou-prehradou-ufo-a-armadni-vrtulnik-v-roce-1987-124015" target="_blank" rel="noopener noreferrer nofollow">https://medium.seznam.cz/clanek/npc-zahadne-setkani-nad-vranovskou-prehradou-ufo-a-armadni-vrtulnik-v-roce-1987-124015</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Záhadné setkání nad Vranovskou přehradou: UFO a armádní...24 Feb 2025 — Neexistují žádné veřejně dostupné dokumenty, žádné fotografie, ž...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/528663418654654/posts/1362909075230080/](https://www.facebook.com/groups/528663418654654/posts/1362909075230080/)  
+   Link: <a href="https://www.facebook.com/groups/528663418654654/posts/1362909075230080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/528663418654654/posts/1362909075230080/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he Czech Republic · No photo description available...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pl.anuchildren.org  
-   Link: [https://pl.anuchildren.org/incydent-ufo-na-vranovem-w-1987-roku/](https://pl.anuchildren.org/incydent-ufo-na-vranovem-w-1987-roku/)  
+   Link: <a href="https://pl.anuchildren.org/incydent-ufo-na-vranovem-w-1987-roku/" target="_blank" rel="noopener noreferrer nofollow">https://pl.anuchildren.org/incydent-ufo-na-vranovem-w-1987-roku/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO na Vranovem w 1987 roku - Dzieci Anu7 Nov 2025 — Incydent ten miał miejsce 12 lipca 1987 roku nad zalewem Vranov, który był pełen tur...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MoviesArchive.Hai/videos/-the-vranov-ufo-incident-a-cold-war-mystery-in-the-skiesduring-the-tension-fille/1339157251371026/](https://www.facebook.com/MoviesArchive.Hai/videos/-the-vranov-ufo-incident-a-cold-war-mystery-in-the-skiesduring-the-tension-fille/1339157251371026/)  
+   Link: <a href="https://www.facebook.com/MoviesArchive.Hai/videos/-the-vranov-ufo-incident-a-cold-war-mystery-in-the-skiesduring-the-tension-fille/1339157251371026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesArchive.Hai/videos/-the-vranov-ufo-incident-a-cold-war-mystery-in-the-skiesduring-the-tension-fille/1339157251371026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ear the small town of Vranov nad Dyjí. Though not as widely...</p></details>

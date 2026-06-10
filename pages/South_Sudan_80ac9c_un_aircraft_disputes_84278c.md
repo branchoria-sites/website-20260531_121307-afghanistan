@@ -239,7 +239,7 @@ prev_link:
   permalink: /regional-gaps/
   short_title: Regional Gaps
   heading_title: What Might Be Missing Outside Juba?
-date: '2026-06-09 01:41:19 '
+date: '2026-06-10 02:08:33 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustratio
 
 ## Introduction
 
-In [South Sudan]({{ 'what-counts-as-a-south-sudan-ufo-case/' | relative_url }}), some of the most persistent “mystery aircraft” stories have involved United Nations and humanitarian aviation rather than unidentified flying objects. That distinction matters. The country depends heavily on UN peacekeeping flights, aid aircraft, medical evacuations and charter operations to reach remote regions where roads are poor or conflict makes ground travel dangerous. As a result, aircraft are unusually visible in everyday life and often operate in politically sensitive environments. When tensions rise, ordinary aviation activity can be reinterpreted through rumours about surveillance, weapons transfers, smuggling or foreign interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS | UNifeed</span><span class="citation-popover-snippet">United Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
+In South Sudan, some of the most persistent “mystery aircraft” stories have involved United Nations and humanitarian aviation rather than unidentified flying objects. That distinction matters. The country depends heavily on UN peacekeeping flights, aid aircraft, medical evacuations and charter operations to reach remote regions where roads are poor or conflict makes ground travel dangerous. As a result, aircraft are unusually visible in everyday life and often operate in politically sensitive environments. When tensions rise, ordinary aviation activity can be reinterpreted through rumours about surveillance, weapons transfers, smuggling or foreign interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS &#124; UNifeed</span><span class="citation-popover-snippet">ited Nations MediaSOUTH SUDAN / AIR OPERATIONS &#124; UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1-dark.svg" | relative_url }}" alt="UN Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ For anyone examining UFO or UAP claims in South Sudan, the UN aircraft disputes 
 
 ## When Known Aircraft Become Mystery Stories
 
-South Sudan's airspace is unusual because aviation is not merely commercial transport. UNMISS, the United Nations Mission in South Sudan, relies on aircraft to move peacekeepers, aid workers and supplies across a vast territory where conflict, flooding and poor infrastructure often isolate communities. UN air operations regularly connect areas that are otherwise difficult to reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS | UNifeed</span><span class="citation-popover-snippet">United Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
+South Sudan's airspace is unusual because aviation is not merely commercial transport. UNMISS, the United Nations Mission in South Sudan, relies on aircraft to move peacekeepers, aid workers and supplies across a vast territory where conflict, flooding and poor infrastructure often isolate communities. UN air operations regularly connect areas that are otherwise difficult to reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS &#124; UNifeed</span><span class="citation-popover-snippet">ited Nations MediaSOUTH SUDAN / AIR OPERATIONS &#124; UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
 
 That creates conditions in which aircraft attract intense public attention:
 
@@ -276,7 +276,7 @@ In countries with dense civilian aviation networks, unusual lights or aircraft m
 
 The clearest recent example emerged in late 2025 when South Sudan's government grounded four aircraft associated with UN operations. Officials alleged that some aircraft contained surveillance equipment and were involved in activities that exceeded their declared purpose. Government representatives also raised allegations involving smuggling and intelligence gathering. UNMISS rejected those claims and stated that its aviation assets were operating within their peacekeeping mandate and in coordination with authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">south sudan united nations aircraft grounded b7de2244c441f2c373c628b94c331a49</span><span class="citation-popover-snippet">AP NewsSouth Sudan grounds UN aircraft and alleges illegal...15 Dec 2025 — South Sudan&#x27;s government has grounded four aircraft registere...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">south sudan united nations aircraft grounded b7de2244c441f2c373c628b94c331a49</span><span class="citation-popover-snippet">AP NewsSouth Sudan grounds UN aircraft and alleges illegal...15 Dec 2025 — South Sudan&#x27;s government has grounded four aircraft registere...</span></span></span>
 
-According to public reporting, officials claimed that certain aircraft carried intelligence-recording systems and missile-protection equipment that had not been adequately disclosed. UN representatives responded that aviation resources were being used solely to support civilian protection and peacekeeping functions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pachodo.org">[Pachodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pachodo.org</span><span class="citation-popover-snippet">PachodoSouth Sudan grounds UNMISS aircraft over spy gear and...15 Dec 2025 — &quot;Through our intelligence, we found that two UNMISS aircraf...</span></span></span>
+According to public reporting, officials claimed that certain aircraft carried intelligence-recording systems and missile-protection equipment that had not been adequately disclosed. UN representatives responded that aviation resources were being used solely to support civilian protection and peacekeeping functions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pachodo.org">[Pachodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pachodo.org</span><span class="citation-popover-snippet">South Sudan grounds UNMISS aircraft over spy gear and...15 Dec 2025 — &quot;Through our intelligence, we found that two UNMISS aircraf...</span></span></span>
 
 Importantly, this dispute centred on identifiable aircraft with known operators, registration markings and operational histories. The controversy concerned what those aircraft were allegedly doing, not whether they were unknown objects.
 
@@ -330,7 +330,7 @@ Aircraft used in peacekeeping, military or humanitarian environments may carry:
 
 None of these technologies automatically imply an unidentified craft. They may be unfamiliar, but unfamiliar technology is not the same thing as anomalous technology.
 
-The 2025 allegations against UN-linked aircraft illustrate this distinction. Public reports focused on claims regarding surveillance and intelligence-related systems. Even if such equipment were present, the debate would concern mission transparency and political authority, not the existence of an unexplained aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pachodo.org">[Pachodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pachodo.org</span><span class="citation-popover-snippet">PachodoSouth Sudan grounds UNMISS aircraft over spy gear and...15 Dec 2025 — &quot;Through our intelligence, we found that two UNMISS aircraf...</span></span></span>
+The 2025 allegations against UN-linked aircraft illustrate this distinction. Public reports focused on claims regarding surveillance and intelligence-related systems. Even if such equipment were present, the debate would concern mission transparency and political authority, not the existence of an unexplained aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pachodo.org">[Pachodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pachodo.org</span><span class="citation-popover-snippet">South Sudan grounds UNMISS aircraft over spy gear and...15 Dec 2025 — &quot;Through our intelligence, we found that two UNMISS aircraf...</span></span></span>
 
 For UFO researchers, the key question is whether the object itself remains unidentified after investigation. In the UN aircraft disputes, the argument concerned aircraft purpose rather than aircraft identity.
 
@@ -359,7 +359,7 @@ For UFO interpretation, this creates a recurring problem. Reports may appear dra
 A rumour can therefore acquire a reputation as a “mystery aircraft” story despite beginning with a routine or identifiable flight.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rbXH52Nz-2w" title="Ariel School UFO Landing - Zimbabwe, 1994" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rbXH52Nz-2w" target="_blank" rel="noopener noreferrer">Ariel School UFO Landing - Zimbabwe, 1994</a></p><p class="youtube-embed-meta">Channel: Think Anomalous</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rbXH52Nz-2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rbXH52Nz-2w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q8pymWSKAPQ" title="Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer">Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q8pymWSKAPQ">Open on YouTube</a></p></div></div></div>
 
 ## How to Separate Aircraft Disputes From Genuine UAP Claims
 
@@ -381,7 +381,7 @@ Those are different investigations. Confusing them often creates unnecessary mys
 <img src="{{ "/assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-3-dark.svg" | relative_url }}" alt="UN Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Check Whether Aviation Activity Was Expected
 
-South Sudan hosts extensive humanitarian and peacekeeping aviation operations. A sighting near Juba, a UN base or a humanitarian corridor should first be compared against known flight activity before being treated as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS | UNifeed</span><span class="citation-popover-snippet">United Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
+South Sudan hosts extensive humanitarian and peacekeeping aviation operations. A sighting near Juba, a UN base or a humanitarian corridor should first be compared against known flight activity before being treated as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS &#124; UNifeed</span><span class="citation-popover-snippet">ited Nations MediaSOUTH SUDAN / AIR OPERATIONS &#124; UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
 
 ### Look for Independent Verification
 
@@ -414,86 +414,44 @@ That does not mean every report has an ordinary explanation. It means that analy
 In South Sudan, one of the most important lessons for UFO interpretation is that mystery often emerges not from unknown craft but from known aircraft operating inside an environment of conflict, limited information and competing political narratives.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Known Aircraft Become Mystery Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Known Aircraft Become Mystery Stories, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Explores military and aviation witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how known aircraft can be confused with unexplained objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Contains examples of official investigations and mundane explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
-        
-        <p class="fr-book-desc">Provides insight into aviation operations and observer interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -527,75 +485,71 @@ In South Sudan, one of the most important lessons for UFO interpretation is that
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=un-aircraft-when-known-aircraft-become-mystery-stories-south-sudan-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -810,29 +764,29 @@ In South Sudan, one of the most important lessons for UFO interpretation is that
 1. <a id="endnote-1"></a>
    Source: media.un.org  
    Title: ited Nations Media SOUTH SUDAN / AIR OPERATIONS | UNifeed  
-   Link: [https://media.un.org/unifeed/en/asset/u131/u131231a](https://media.un.org/unifeed/en/asset/u131/u131231a)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</p></details>
+   Link: <a href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/unifeed/en/asset/u131/u131231a</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ited Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: apnews.com  
    Title: south sudan united nations aircraft grounded b7de2244c441f2c373c628b94c331a49  
-   Link: [https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49](https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49)  
+   Link: <a href="https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsSouth Sudan grounds UN aircraft and alleges illegal...15 Dec 2025 — South Sudan&#x27;s government has grounded four aircraft registere...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/b7de2244c441f2c373c628b94c331a49](https://apnews.com/article/b7de2244c441f2c373c628b94c331a49)  
+   Link: <a href="https://apnews.com/article/b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b7de2244c441f2c373c628b94c331a49</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The government, represented by Foreign Minister Monday Semaya Kumba, reported that a committee was investigating the aircraft based on in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pachodo.org  
-   Link: [https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations](https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PachodoSouth Sudan grounds UNMISS aircraft over spy gear and...15 Dec 2025 — &quot;Through our intelligence, we found that two UNMISS aircraf...</p></details>
+   Link: <a href="https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow">https://pachodo.org/news-from-various-sources/44527-south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UNMISS aircraft over spy gear and...15 Dec 2025 — &quot;Through our intelligence, we found that two UNMISS aircraf...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: radiotamazuj.org  
    Title: south sudan accuses un contracted planes of smuggling spy gear  
-   Link: [https://www.radiotamazuj.org/en/news/article/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear](https://www.radiotamazuj.org/en/news/article/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear)  
+   Link: <a href="https://www.radiotamazuj.org/en/news/article/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear" target="_blank" rel="noopener noreferrer nofollow">https://www.radiotamazuj.org/en/news/article/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio TamazujSouth Sudan accuses UN-contracted planes of smuggling...13 Dec 2025 — “We also found that two other aircraft were engaged...</p></details>
 
 ### Additional References
@@ -840,63 +794,63 @@ In South Sudan, one of the most important lessons for UFO interpretation is that
 6. <a id="endnote-6"></a>
    Source: africanews.com  
    Title: south sudan grounds un aircraft and alleges illegal surveillance and smuggling  
-   Link: [https://www.africanews.com/2025/12/16/south-sudan-grounds-un-aircraft-and-alleges-illegal-surveillance-and-smuggling/](https://www.africanews.com/2025/12/16/south-sudan-grounds-un-aircraft-and-alleges-illegal-surveillance-and-smuggling/)  
+   Link: <a href="https://www.africanews.com/2025/12/16/south-sudan-grounds-un-aircraft-and-alleges-illegal-surveillance-and-smuggling/" target="_blank" rel="noopener noreferrer nofollow">https://www.africanews.com/2025/12/16/south-sudan-grounds-un-aircraft-and-alleges-illegal-surveillance-and-smuggling/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UN aircraft and alleges illegal surveillance...April 2, 2026 — South Sudan&#x27;s government has grounded four aircraft r...</p></details>
    Published: April 2, 2026  
 
 7. <a id="endnote-7"></a>
    Source: sudanspost.com  
    Title: Mission in South Sudan (UNMISS) following allegations of illegal surveillance  
-   Link: [https://www.sudanspost.com/govt-grounds-four-un-planes-grounded-over-spy-gear-smuggling-claims/](https://www.sudanspost.com/govt-grounds-four-un-planes-grounded-over-spy-gear-smuggling-claims/)  
+   Link: <a href="https://www.sudanspost.com/govt-grounds-four-un-planes-grounded-over-spy-gear-smuggling-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.sudanspost.com/govt-grounds-four-un-planes-grounded-over-spy-gear-smuggling-claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gov&#x27;t grounds four UN planes over spy gear, smuggling...13 Dec 2025 — South Sudan has grounded four aircraft belonging to the U.N...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: morningstaronline.co.uk  
    Title: south sudan grounds un aircraft and alleges spying and smuggling  
-   Link: [https://morningstaronline.co.uk/article/south-sudan-grounds-un-aircraft-and-alleges-spying-and-smuggling](https://morningstaronline.co.uk/article/south-sudan-grounds-un-aircraft-and-alleges-spying-and-smuggling)  
+   Link: <a href="https://morningstaronline.co.uk/article/south-sudan-grounds-un-aircraft-and-alleges-spying-and-smuggling" target="_blank" rel="noopener noreferrer nofollow">https://morningstaronline.co.uk/article/south-sudan-grounds-un-aircraft-and-alleges-spying-and-smuggling</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UN aircraft and alleges spying...16 Dec 2025 — SOUTH SUDAN&#x27;S government grounded four aircraft registered under the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arpsmedia.com  
    Title: south sudan accuses un contracted planes of smuggling spy gear  
-   Link: [https://arpsmedia.com/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear/](https://arpsmedia.com/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear/)  
+   Link: <a href="https://arpsmedia.com/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear/" target="_blank" rel="noopener noreferrer nofollow">https://arpsmedia.com/south-sudan-accuses-un-contracted-planes-of-smuggling-spy-gear/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan accuses UN-contracted planes of smuggling...14 Dec 2025 — “Through our intelligence, we found that two UNMISS aircraft were...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/526957180739462/posts/24615067118168465/](https://www.facebook.com/groups/526957180739462/posts/24615067118168465/)  
+   Link: <a href="https://www.facebook.com/groups/526957180739462/posts/24615067118168465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526957180739462/posts/24615067118168465/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 13, 2025 — The aircraft were identified as UNO-570P and UNO- 571P for the alleged undisclosed equipment, and UNO- 535P and UNO-5...</p></details>
    Published: December 13, 2025  
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
    Title: South Sudan has grounded four UN-operated aircraft over security  
-   Link: [https://www.instagram.com/p/DSUn1CtjEd3/](https://www.instagram.com/p/DSUn1CtjEd3/)  
+   Link: <a href="https://www.instagram.com/p/DSUn1CtjEd3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSUn1CtjEd3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2025 — South Sudan has grounded four UN-operated aircraft over security concerns and alleged smuggling accusations...</p></details>
    Published: December 16, 2025  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: South Sudan grounds UN aircraft over spying allegations  
-   Link: [https://www.facebook.com/groups/1456945551964496/posts/1642313836760999/](https://www.facebook.com/groups/1456945551964496/posts/1642313836760999/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookDecember 16, 2025 — The United Nations has strongly denied the allegations, insisting that all UNMISS flights are conducted trans...</p></details>
+   Link: <a href="https://www.facebook.com/groups/1456945551964496/posts/1642313836760999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1456945551964496/posts/1642313836760999/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2025 — The United Nations has strongly denied the allegations, insisting that all UNMISS flights are conducted trans...</p></details>
    Published: December 16, 2025  
 
 13. <a id="endnote-13"></a>
    Source: ctpost.com  
    Title: south sudan grounds un aircraft and alleges 21244073  
-   Link: [https://www.ctpost.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php](https://www.ctpost.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php)  
+   Link: <a href="https://www.ctpost.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctpost.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UN aircraft and alleges illegal...15 Dec 2025 — South Sudan&#x27;s government has grounded four aircraft registered under...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sfgate.com  
    Title: south sudan grounds un aircraft and alleges 21244073  
-   Link: [https://www.sfgate.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php](https://www.sfgate.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php)  
+   Link: <a href="https://www.sfgate.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/world/article/south-sudan-grounds-un-aircraft-and-alleges-21244073.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UN aircraft and alleges illegal...15 Dec 2025 — South Sudan&#x27;s government has grounded four aircraft registered under...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thevoiceofafrica.com  
    Title: UN denies accusations as humanitarian concerns rise  
-   Link: [https://thevoiceofafrica.com/2025/12/16/south-sudan-grounds-un-aircraft-as-tensions-rise-over-alleged-surveillance/](https://thevoiceofafrica.com/2025/12/16/south-sudan-grounds-un-aircraft-as-tensions-rise-over-alleged-surveillance/)  
+   Link: <a href="https://thevoiceofafrica.com/2025/12/16/south-sudan-grounds-un-aircraft-as-tensions-rise-over-alleged-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://thevoiceofafrica.com/2025/12/16/south-sudan-grounds-un-aircraft-as-tensions-rise-over-alleged-surveillance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan Grounds UN Aircraft as Tensions Rise Over Alleged...December 16, 2025 — South Sudan grounds four UN aircraft over alleged su...</p></details>
    Published: December 16, 2025  

@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-21d309/
   short_title: Timeline
   heading_title: How Somalia's UFO Timeline Took Shape
-date: '2026-06-09 01:40:49 '
+date: '2026-06-10 02:07:58 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1-
 
 ## Introduction
 
-The National UFO Reporting Center (NUFORC) is one of the most widely used civilian UFO reporting databases in the world, and it preserves several [Somalia]({{ 'what-do-somalias-ufo-reports-really-show/' | relative_url }})-related reports that would otherwise be difficult to locate. Yet the Somalia entries also illustrate the limits of international UFO databases. The reports are useful as witness narratives and historical traces, but they do not provide independent confirmation that an unusual aerial event occurred. In Somalia's case, where local archives are fragmented and official investigative records are scarce, NUFORC helps preserve claims that might otherwise disappear. At the same time, the very scarcity of reports makes over-interpretation especially risky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+The National UFO Reporting Center (NUFORC) is one of the most widely used civilian UFO reporting databases in the world, and it preserves several Somalia-related reports that would otherwise be difficult to locate. Yet the Somalia entries also illustrate the limits of international UFO databases. The reports are useful as witness narratives and historical traces, but they do not provide independent confirmation that an unusual aerial event occurred. In Somalia's case, where local archives are fragmented and official investigative records are scarce, NUFORC helps preserve claims that might otherwise disappear. At the same time, the very scarcity of reports makes over-interpretation especially risky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1-dark.svg" | relative_url }}" alt="NUFORC Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,9 +262,9 @@ For researchers examining Somalia's wider UFO history, the NUFORC material is be
 
 ## What the Somalia entries contain
 
-NUFORC's location index shows only a tiny number of Somalia reports compared with countries that have long-established UFO reporting cultures. Somalia appears as a marginal dataset rather than a statistically meaningful sample. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1...</span></span></span>
+NUFORC's location index shows only a tiny number of Somalia reports compared with countries that have long-established UFO reporting cultures. Somalia appears as a marginal dataset rather than a statistically meaningful sample. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1...</span></span></span>
 
-The best-known Somalia entry in the NUFORC archive is a report associated with Yuba Village and dated to May 1980. The witness described a formation of red and golden lights emerging from behind a mountain chain near the meeting area of the Indian Ocean and the Red Sea. According to the account, the lights reportedly manoeuvred in a way the observer considered unusual. The report was not entered into the NUFORC system until decades later, creating a substantial gap between the claimed event and the act of reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e198005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Month 198005August 20, 2023 — NUFORC Reports for Month 198005; Open, 05/15/1980 18:00, Yuba Village (Somalia)...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The best-known Somalia entry in the NUFORC archive is a report associated with Yuba Village and dated to May 1980. The witness described a formation of red and golden lights emerging from behind a mountain chain near the meeting area of the Indian Ocean and the Red Sea. According to the account, the lights reportedly manoeuvred in a way the observer considered unusual. The report was not entered into the NUFORC system until decades later, creating a substantial gap between the claimed event and the act of reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e198005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 198005August 20, 2023 — NUFORC Reports for Month 198005; Open, 05/15/1980 18:00, Yuba Village (Somalia)...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 That time gap is important. The report survives because someone eventually submitted a memory of an event, not because investigators documented it in real time. No publicly available accompanying evidence appears in the NUFORC record excerpt, and there is no known Somali government file linked to the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Sighting ReportNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</span></span></span>
 
@@ -272,7 +272,7 @@ The broader significance of the Somalia entries is therefore qualitative rather 
 
 ## Why retrospective reports are difficult to evaluate
 
-A recurring challenge in NUFORC's global database is the difference between occurrence dates and submission dates. Many witnesses report experiences years or even decades after they believe they occurred. Somalia's most visible NUFORC case follows this pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+A recurring challenge in NUFORC's global database is the difference between occurrence dates and submission dates. Many witnesses report experiences years or even decades after they believe they occurred. Somalia's most visible NUFORC case follows this pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 Retrospective testimony has value because it preserves experiences that were never formally recorded. However, it also introduces several problems:
 
@@ -297,7 +297,7 @@ In Somalia, the challenge is amplified by the country's limited archival continu
 
 The most striking feature of Somalia's NUFORC material is not what it contains but what it lacks.
 
-Strong UFO cases usually involve multiple forms of evidence: independent witnesses, photographs, official documentation, radar tracks, military records, physical traces or extensive contemporary reporting. Somalia's NUFORC entries generally do not meet those standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1...</span></span></span>
+Strong UFO cases usually involve multiple forms of evidence: independent witnesses, photographs, official documentation, radar tracks, military records, physical traces or extensive contemporary reporting. Somalia's NUFORC entries generally do not meet those standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1...</span></span></span>
 
 This does not make the reports worthless. Instead, it places them in a different evidential category. They function as:
 
@@ -313,7 +313,7 @@ This does not make the reports worthless. Instead, it places them in a different
 
 They do not function as verified proof of extraordinary aerial phenomena.
 
-The distinction matters because Somalia's small number of reports can create an illusion of rarity or mystery. In reality, a low report count may reflect barriers to reporting, limited internet access in earlier decades, language differences, lack of awareness of NUFORC, or the absence of local UFO organisations rather than the actual frequency of unusual observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e198005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Month 198005August 20, 2023 — NUFORC Reports for Month 198005; Open, 05/15/1980 18:00, Yuba Village (Somalia)...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The distinction matters because Somalia's small number of reports can create an illusion of rarity or mystery. In reality, a low report count may reflect barriers to reporting, limited internet access in earlier decades, language differences, lack of awareness of NUFORC, or the absence of local UFO organisations rather than the actual frequency of unusual observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e198005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 198005August 20, 2023 — NUFORC Reports for Month 198005; Open, 05/15/1980 18:00, Yuba Village (Somalia)...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-2-dark.svg" | relative_url }}" alt="NUFORC Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,7 +323,7 @@ Despite their weaknesses, international reporting systems provide several benefi
 
 First, they preserve narratives that may never appear in local newspapers, government archives or academic publications. This is particularly important for countries where historical records have been disrupted or lost.
 
-Second, they create searchable records that allow researchers to compare Somali reports with reports from neighbouring regions, maritime routes and international flight corridors. Large databases make it easier to identify recurring descriptions, reporting trends and possible misidentification patterns. Some independent researchers have used large NUFORC datasets for statistical analysis, though such work remains dependent on self-reported information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</span></span></span>, databases preserve metadata that can sometimes support later investigation. Even a brief report may contain useful information about dates, locations, weather conditions or witness observations.
+Second, they create searchable records that allow researchers to compare Somali reports with reports from neighbouring regions, maritime routes and international flight corridors. Large databases make it easier to identify recurring descriptions, reporting trends and possible misidentification patterns. Some independent researchers have used large NUFORC datasets for statistical analysis, though such work remains dependent on self-reported information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</span></span></span>, databases preserve metadata that can sometimes support later investigation. Even a brief report may contain useful information about dates, locations, weather conditions or witness observations.
 
 The limitation is that databases preserve claims, not confirmations. A report entering a database does not transform it into an established event.
 
@@ -364,86 +364,44 @@ A useful hierarchy for Somalia-related cases is:
 3. **Independent corroboration** – multiple witnesses, imagery, technical observations or physical evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What NUFORC Adds To Somalia&#x27;s UFO Record. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What NUFORC Adds To Somalia&#x27;s UFO Record, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to evaluating witness reports and databases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Explains the limits and value of UFO report collections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Helps readers compare database claims with stronger evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Places witness narratives within broader cultural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -477,75 +435,71 @@ A useful hierarchy for Somalia-related cases is:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-reports-what-nuforc-adds-to-somalia-s-ufo-record-somalia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -771,127 +725,127 @@ For the broader Somalia UFO record, the NUFORC database is therefore best viewed
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e198005](https://nuforc.org/subndx/?id=e198005)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for Month 198005August 20, 2023 — NUFORC Reports for Month 198005; Open, 05/15/1980 18:00, Yuba Village (Somalia)...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=e198005" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e198005</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 198005August 20, 2023 — NUFORC Reports for Month 198005; Open, 05/15/1980 18:00, Yuba Village (Somalia)...</p></details>
    Published: August 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONMUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsAlien &amp; UFO Research Tools; LAST 20 REPORTS · Check the last 20 UFO reports; BECOME A FIELD INVE...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/historical/](https://mufon.com/historical/)  
+   Link: <a href="https://mufon.com/historical/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/historical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO CasesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Donate or...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Donate or Vol...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings](https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFROC UFO SIGHTINGSContains the full URL linking to the detailed UFO sighting report on the NUFORC website. This allows users to view th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/](https://nuforc.org/sighting/)  
+   Link: <a href="https://nuforc.org/sighting/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Sighting ReportNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: somaliaonline.com  
-   Link: [https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/](https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/)  
+   Link: <a href="https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>^^Somalis+Aliens+Camel-killed = one explosive stand-off!Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: watchmojo.com  
-   Link: [https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled](https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled)  
+   Link: <a href="https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Truth Of MUFON | UnveiledMUFON is one of the biggest and oldest civilian UFO organizations in the world. It has been investiga...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNote that while this is a crowdsourced database compiled from the reports of hundreds of thousands...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/ufo-clues-emerge-decades-old-images-showing-strange-bursts-over-nuclear-testing-sites-report](https://www.foxnews.com/us/ufo-clues-emerge-decades-old-images-showing-strange-bursts-over-nuclear-testing-sites-report)  
+   Link: <a href="https://www.foxnews.com/us/ufo-clues-emerge-decades-old-images-showing-strange-bursts-over-nuclear-testing-sites-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/ufo-clues-emerge-decades-old-images-showing-strange-bursts-over-nuclear-testing-sites-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO clues emerge in decades-old images showing...3 Dec 2025 — A new study reveals transient objects in pre-satellite era photographs sho...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and paranormal events for w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena... UAP Records · Congressio...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spyscape.com  
    Title: alaska object isnt the only mysterious ufo top 10 sightings  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesThe unexplained UFOs shot down over North America in February 2023 aren&#x27;t the o...</p></details>
    Published: February 2023  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: (PDF) A global picture of unidentified anomalous phenomena  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery takes unexpected turn as witnesses s eek answers. at &#x27;hotspot&#x27;” (Lynott, 2023). Monaco. 109.03. “Multiple UFOs sighted over M...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: radiodalsan.com  
    Title: ufo sighted above central somalia village residents claim  
-   Link: [https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/](https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/)  
+   Link: <a href="https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/" target="_blank" rel="noopener noreferrer nofollow">https://radiodalsan.com/2018/03/28/ufo-sighted-above-central-somalia-village-residents-claim/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighted Above Central Somalia Village, Residents...28 Mar 2018 — Residents of a town in Central Somalia claim to have witnessed a pe...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: Across the country, Americans were constantly looking up  
-   Link: [https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/](https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BLUEBOOK DATA ENTIRELY UNPROCESSED. AIR FORCE PROJECT [AS PART OF CIA OP] &quot;DEBUNKED&quot; UFOS. PANEL RECOMMENDED WATCHING DOMESTIC UFO-WATCH...</p></details>

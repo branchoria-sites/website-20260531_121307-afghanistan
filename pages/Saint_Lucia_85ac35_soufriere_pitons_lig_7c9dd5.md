@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-40cda1/
   short_title: Records Gap
   heading_title: Why Are Saint Lucia UFO Records So Thin?
-date: '2026-06-09 01:38:43 '
+date: '2026-06-10 02:05:37 '
 header:
   og_image: /assets/images/Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5-Illustratio
 
 ## Introduction
 
-The most discussed UFO-style report linked to [Saint Lucia]({{ 'what-has-saint-lucia-really-reported/' | relative_url }}) is not a radar case, a military encounter or a photograph with clear provenance. It is a far more ambiguous account: a tourist’s 2002 report of unusual lights near Petit Piton in the Soufrière area. The sighting remains memorable because of its setting. Few places in the Caribbean produce a more dramatic night skyline than the twin volcanic peaks of Gros Piton and Petit Piton rising directly above the sea.
+The most discussed UFO-style report linked to Saint Lucia is not a radar case, a military encounter or a photograph with clear provenance. It is a far more ambiguous account: a tourist’s 2002 report of unusual lights near Petit Piton in the Soufrière area. The sighting remains memorable because of its setting. Few places in the Caribbean produce a more dramatic night skyline than the twin volcanic peaks of Gros Piton and Petit Piton rising directly above the sea.
 
 
 <img src="{{ "/assets/images/Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5-Illustration-1-dark.svg" | relative_url }}" alt="Pitons Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -327,7 +327,7 @@ The strongest ordinary explanations are not exotic. They involve the same catego
 
 The witness specifically considered a satellite explanation. In 2002, bright satellites were already common night-sky objects, especially in locations with relatively dark skies.
 
-The Soufrière area offers unusually good viewing conditions compared with heavily illuminated urban environments. Modern travellers frequently comment on the visibility of stars around the Pitons and surrounding hillsides, particularly away from larger settlements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tripadvisor.com/ShowUserReviews-g147345-d447047-r657067154-Crystals_St_Lucia-Soufriere_Soufriere_Quarter_St_Lucia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-title">The night sky over Crystals</span><span class="citation-popover-snippet">TripadvisorThe night sky over Crystals - Review of Crystals St Lucia...The starry sky over Crystals, which is actually in quite a dista...</span></span></span>
+The Soufrière area offers unusually good viewing conditions compared with heavily illuminated urban environments. Modern travellers frequently comment on the visibility of stars around the Pitons and surrounding hillsides, particularly away from larger settlements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tripadvisor.com/ShowUserReviews-g147345-d447047-r657067154-Crystals_St_Lucia-Soufriere_Soufriere_Quarter_St_Lucia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-title">The night sky over Crystals</span><span class="citation-popover-snippet">The night sky over Crystals - Review of Crystals St Lucia...The starry sky over Crystals, which is actually in quite a dista...</span></span></span>
 
 A satellite can appear as a bright white light crossing the sky without visible structure. If it passes behind a mountain ridge, it may seem to vanish suddenly. However, a conventional satellite explanation fits some elements of the report better than others. It explains a steady moving white light, but not necessarily the reported side-to-side motion unless visual perception effects were involved.
 
@@ -354,7 +354,7 @@ Several characteristics often lead observers to underestimate the likelihood of 
 A flashing white light repeatedly seen at a similar time could be consistent with aircraft lighting patterns, especially if the observation occurred during a stay lasting several days.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GeMvmwEBcC0" title="New UFO Files Reveal Risks To Commercial Flights | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer">New UFO Files Reveal Risks To Commercial Flights | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.8K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GeMvmwEBcC0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
 
 ### Bright planets and atmospheric effects
 
@@ -404,7 +404,7 @@ The challenge is not that no explanation exists. The challenge is that the repor
 There is no publicly available photograph, no precise trajectory, no duration measurement and no independent investigation. That leaves the red orb as an unresolved observation rather than a strong anomalous event.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jF9tKMJVu78" title="What Scientists Are Beginning to Find in the Bermuda Triangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jF9tKMJVu78" target="_blank" rel="noopener noreferrer">What Scientists Are Beginning to Find in the Bermuda Triangle</a></p><p class="youtube-embed-meta">Channel: Astrum Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jF9tKMJVu78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jF9tKMJVu78">Open on YouTube</a></p></div></div></div>
 
 ## Why the case remains unresolved rather than mysterious
 
@@ -426,86 +426,44 @@ Without those details, investigators cannot confidently eliminate ordinary expla
 The most cautious reading is therefore also the most defensible. Something unusual was observed near the Pitons from the witness’s perspective, but the available information leaves open several conventional possibilities, including satellites, aircraft, visual-perception effects created by the mountainous skyline, or misjudged distant lights. In the broader Saint Lucia record, the Soufrière report remains noteworthy less because it demonstrates an unknown craft and more because it illustrates how a spectacular landscape can turn ordinary night-sky observations into enduring mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-22149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Hello</span><span class="citation-popover-snippet">My boyfriend, ((name deleted)), and I were in St. Lucia a...I saw a white light on Feb. 11 dance up and down and side to side in the sky...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Soufri%C3%A8re%2C_Saint_Lucia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soufrière, Saint Lucia</span><span class="citation-popover-snippet">Soufrière, Saint Lucia</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Were the Lights Near Petit Piton?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Were the Lights Near Petit Piton?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison with stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to witness reports involving moving lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains planets, satellites and celestial objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Adds broader context to unusual light sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -539,75 +497,71 @@ The most cautious reading is therefore also the most defensible. Something unusu
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pitons-lights-what-were-the-lights-near-petit-piton-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -822,112 +776,112 @@ The most cautious reading is therefore also the most defensible. Something unusu
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pitons (Saint Lucia)  
-   Link: [https://en.wikipedia.org/wiki/Pitons_%28Saint_Lucia%29](https://en.wikipedia.org/wiki/Pitons_%28Saint_Lucia%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pitons_%28Saint_Lucia%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pitons_%28Saint_Lucia%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: tripadvisor.com  
    Title: The night sky over Crystals  
-   Link: [https://www.tripadvisor.com/ShowUserReviews-g147345-d447047-r657067154-Crystals_St_Lucia-Soufriere_Soufriere_Quarter_St_Lucia.html](https://www.tripadvisor.com/ShowUserReviews-g147345-d447047-r657067154-Crystals_St_Lucia-Soufriere_Soufriere_Quarter_St_Lucia.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TripadvisorThe night sky over Crystals - Review of Crystals St Lucia...The starry sky over Crystals, which is actually in quite a dista...</p></details>
+   Link: <a href="https://www.tripadvisor.com/ShowUserReviews-g147345-d447047-r657067154-Crystals_St_Lucia-Soufriere_Soufriere_Quarter_St_Lucia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/ShowUserReviews-g147345-d447047-r657067154-Crystals_St_Lucia-Soufriere_Soufriere_Quarter_St_Lucia.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The night sky over Crystals - Review of Crystals St Lucia...The starry sky over Crystals, which is actually in quite a dista...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Geography of Saint Lucia  
-   Link: [https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia](https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Saint Lucia  
-   Link: [https://en.wikipedia.org/wiki/Saint_Lucia](https://en.wikipedia.org/wiki/Saint_Lucia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Saint_Lucia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Lucia</a>  
 
 5. <a id="endnote-5"></a>
    Source: pma.govt.lc  
-   Link: [https://pma.govt.lc/en/](https://pma.govt.lc/en/)  
+   Link: <a href="https://pma.govt.lc/en/" target="_blank" rel="noopener noreferrer nofollow">https://pma.govt.lc/en/</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Soufrière, Saint Lucia  
-   Link: [https://en.wikipedia.org/wiki/Soufri%C3%A8re%2C_Saint_Lucia](https://en.wikipedia.org/wiki/Soufri%C3%A8re%2C_Saint_Lucia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Soufri%C3%A8re%2C_Saint_Lucia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soufri%C3%A8re%2C_Saint_Lucia</a>  
 
 7. <a id="endnote-7"></a>
    Source: sentientorbs.com  
    Title: Sentient Orbs Hello  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-22149](https://sentientorbs.com/explore/sightings/NUFORC-22149)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-22149" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-22149</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>My boyfriend, ((name deleted)), and I were in St. Lucia a...I saw a white light on Feb. 11 dance up and down and side to side in the sky...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: whc.unesco.org  
-   Link: [https://whc.unesco.org/en/list/1161/](https://whc.unesco.org/en/list/1161/)  
+   Link: <a href="https://whc.unesco.org/en/list/1161/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1161/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO World Heritage CentrePitons Management AreaThe 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires r...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: whc.unesco.org  
-   Link: [https://whc.unesco.org/uploads/nominations/1161.pdf](https://whc.unesco.org/uploads/nominations/1161.pdf)  
+   Link: <a href="https://whc.unesco.org/uploads/nominations/1161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/uploads/nominations/1161.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management Area7 Jul 2004 — The area is dominated by the majestic volcanic spires of Gros Piton and Petit Piton, rising to 777m and 743m...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/Attraction_Review-g147345-d14075296-Reviews-Petit_Piton_Trail-Soufriere_Soufriere_Quarter_St_Lucia.html](https://www.tripadvisor.co.uk/Attraction_Review-g147345-d14075296-Reviews-Petit_Piton_Trail-Soufriere_Soufriere_Quarter_St_Lucia.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g147345-d14075296-Reviews-Petit_Piton_Trail-Soufriere_Soufriere_Quarter_St_Lucia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g147345-d14075296-Reviews-Petit_Piton_Trail-Soufriere_Soufriere_Quarter_St_Lucia.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Petit Piton TrailPetit Piton Trail and other featured experiences; St Lucia Island Excursion Day Tour. (19). Duration: 6h; Gros Piton H...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Saint Lucia  
-   Link: [https://www.youtube.com/watch?v=pR8uETUvzsU](https://www.youtube.com/watch?v=pR8uETUvzsU)  
+   Link: <a href="https://www.youtube.com/watch?v=pR8uETUvzsU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pR8uETUvzsU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hiking the Pitons and snorkelling Soufriere EP19It is time to HIKE Gros Piton, its only 771m, but in this heat and humidity unto of us no...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-lucia-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-lucia-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-lucia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-lucia-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Lucia UFO Sightings and Experience ReportsBrowse or report Saint Lucia UFO UAP or USO sightings and other strange paranormal experi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: st lucias towering pitons rising abruptly from the waters off soufrieres beach m  
-   Link: [https://www.facebook.com/1000Places/posts/st-lucias-towering-pitons-rising-abruptly-from-the-waters-off-soufrieres-beach-m/920543557031388/](https://www.facebook.com/1000Places/posts/st-lucias-towering-pitons-rising-abruptly-from-the-waters-off-soufrieres-beach-m/920543557031388/)  
+   Link: <a href="https://www.facebook.com/1000Places/posts/st-lucias-towering-pitons-rising-abruptly-from-the-waters-off-soufrieres-beach-m/920543557031388/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1000Places/posts/st-lucias-towering-pitons-rising-abruptly-from-the-waters-off-soufrieres-beach-m/920543557031388/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lucia&#x27;s towering Pitons, rising abruptly from the waters...The most recognizable are the twin spires of the Pitons, two mountains that r...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: expedia.co.uk  
-   Link: [https://www.expedia.co.uk/Gros-Piton-Soufriere.d6273458.Attraction](https://www.expedia.co.uk/Gros-Piton-Soufriere.d6273458.Attraction)  
+   Link: <a href="https://www.expedia.co.uk/Gros-Piton-Soufriere.d6273458.Attraction" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.co.uk/Gros-Piton-Soufriere.d6273458.Attraction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lucia Island. The striking cone-shaped mountain is linked by an inland ridge to a smaller elevation called the...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: natgeokids.com  
-   Link: [https://www.natgeokids.com/uk/discover/geography/countries/saint-lucia-facts/](https://www.natgeokids.com/uk/discover/geography/countries/saint-lucia-facts/)  
+   Link: <a href="https://www.natgeokids.com/uk/discover/geography/countries/saint-lucia-facts/" target="_blank" rel="noopener noreferrer nofollow">https://www.natgeokids.com/uk/discover/geography/countries/saint-lucia-facts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pitons stand tall on the west coast, where they are lapped by the calm waters of the...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalgeographic.com  
-   Link: [https://www.nationalgeographic.com/travel/article/uncovering-st-lucia-natural-wonders-volcanic-spas-storied-mountain-trails](https://www.nationalgeographic.com/travel/article/uncovering-st-lucia-natural-wonders-volcanic-spas-storied-mountain-trails)  
+   Link: <a href="https://www.nationalgeographic.com/travel/article/uncovering-st-lucia-natural-wonders-volcanic-spas-storied-mountain-trails" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/travel/article/uncovering-st-lucia-natural-wonders-volcanic-spas-storied-mountain-trails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncovering St Lucia&#x27;s natural wonders, from volcanic spas...13 Apr 2023 — The view across the city of Soufrière and the two Piton mountains...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: Take a look at this dreamy evening sky over the Pitons 😍  
-   Link: [https://www.facebook.com/SaintLuciaUK/posts/take-a-look-at-this-dreamy-evening-sky-over-the-pitons-how-would-you-sum-up-this/3246758525380127/](https://www.facebook.com/SaintLuciaUK/posts/take-a-look-at-this-dreamy-evening-sky-over-the-pitons-how-would-you-sum-up-this/3246758525380127/)  
+   Link: <a href="https://www.facebook.com/SaintLuciaUK/posts/take-a-look-at-this-dreamy-evening-sky-over-the-pitons-how-would-you-sum-up-this/3246758525380127/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SaintLuciaUK/posts/take-a-look-at-this-dreamy-evening-sky-over-the-pitons-how-would-you-sum-up-this/3246758525380127/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Just wanted to share this breathtaking view of the Petit Piton, taken from the Gros Piton in Saint Lucia. It&#x27;s moments like these that tr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: world-heritage-datasheets.unep-wcmc.org  
    Title: World Heritage Datasheets PITONS MANAGEMENT AREA  
-   Link: [https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/pitons-management-area](https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/pitons-management-area)  
+   Link: <a href="https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/pitons-management-area" target="_blank" rel="noopener noreferrer nofollow">https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/pitons-management-area</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Heritage DatasheetsPITONS MANAGEMENT AREA - World Heritage DatasheetThe Pitons on the southwest coast of St.Lucia are two steep for...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uncommoncaribbean.com  
    Title: soufriere in the shadows of the pitons st lucia  
-   Link: [https://www.uncommoncaribbean.com/st-lucia/soufriere-in-the-shadows-of-the-pitons-st-lucia/](https://www.uncommoncaribbean.com/st-lucia/soufriere-in-the-shadows-of-the-pitons-st-lucia/)  
+   Link: <a href="https://www.uncommoncaribbean.com/st-lucia/soufriere-in-the-shadows-of-the-pitons-st-lucia/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncommoncaribbean.com/st-lucia/soufriere-in-the-shadows-of-the-pitons-st-lucia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soufrière in the Shadows of The Pitons, St. Lucia16 Sept 2021 — Colorful, historic, and bursting with authentic West Indian charm, Soufri...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: outchasingstars.com  
-   Link: [https://outchasingstars.com/saint-lucia-soufriere/](https://outchasingstars.com/saint-lucia-soufriere/)  
+   Link: <a href="https://outchasingstars.com/saint-lucia-soufriere/" target="_blank" rel="noopener noreferrer nofollow">https://outchasingstars.com/saint-lucia-soufriere/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Lucia: A Day at Soufrière and the Pitons5 Feb 2016 — The trail gives a beautiful view over the two Pitons – Gros Piton and Petit Piton...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sweetstlucia/posts/why-nobody-ever-told-me-that-st-lucia-was-this-amazing/979871990850698/](https://www.facebook.com/sweetstlucia/posts/why-nobody-ever-told-me-that-st-lucia-was-this-amazing/979871990850698/)  
+   Link: <a href="https://www.facebook.com/sweetstlucia/posts/why-nobody-ever-told-me-that-st-lucia-was-this-amazing/979871990850698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sweetstlucia/posts/why-nobody-ever-told-me-that-st-lucia-was-this-amazing/979871990850698/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why nobody ever told me that St Lucia was this amazing.The excursions: I love the extremely hot mud bath followed by the waterfall shower...</p></details>

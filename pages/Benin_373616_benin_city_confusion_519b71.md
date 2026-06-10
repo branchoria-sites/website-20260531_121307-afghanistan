@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-473b17/
   short_title: Records Gap
   heading_title: Why Are Benin UFO Records So Thin?
-date: '2026-06-09 01:18:34 '
+date: '2026-06-10 01:43:56 '
 header:
   og_image: /assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-1-social.jpg
   preview_image: /assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-1-so
 
 ## Introduction
 
-When people search online for information about “UFOs in [Benin]({{ 'what-can-really-be-said-about-benin-ufos/' | relative_url }}),” a substantial amount of what turns up is not about the Republic of Benin at all but about **Benin City in Nigeria** — a major urban centre in *Edo State* with distinct history and local news cycles. This naming coincidence frequently causes confusion among researchers, enthusiasts, and casual searchers who expect sightings tied to the West African republic but instead encounter social‑media posts, videos, and local rumour about lights or strange objects over Benin City. The mix of place‑names and informal UFO‑related content blurs search results and makes reliable sourcing about aerial phenomena in the Republic of Benin harder to isolate and interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 36ng.ng">[36NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">36ng.ng</span><span class="citation-popover-title">unidentified flying object ufo causes panic in benin edo state</span><span class="citation-popover-snippet">36NG“Unidentified Flying Object” UFO Causes Panic In Benin, Edo State | 36NGSeptember 26, 2019...</span><span class="citation-popover-meta">Published: September 26, 2019</span></span></span>
+When people search online for information about “UFOs in [Benin]({{ 'what-can-really-be-said-about-benin-ufos/' | relative_url }}),” a substantial amount of what turns up is not about the Republic of Benin at all but about **Benin City in Nigeria** — a major urban centre in *Edo State* with distinct history and local news cycles. This naming coincidence frequently causes confusion among researchers, enthusiasts, and casual searchers who expect sightings tied to the West African republic but instead encounter social‑media posts, videos, and local rumour about lights or strange objects over Benin City. The mix of place‑names and informal UFO‑related content blurs search results and makes reliable sourcing about aerial phenomena in the Republic of Benin harder to isolate and interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 36ng.ng">[36NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">36ng.ng</span><span class="citation-popover-title">unidentified flying object ufo causes panic in benin edo state</span><span class="citation-popover-snippet">36NG“Unidentified Flying Object” UFO Causes Panic In Benin, Edo State &#124; 36NGSeptember 26, 2019...</span><span class="citation-popover-meta">Published: September 26, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-1-dark.svg" | relative_url }}" alt="Name Confusion illustration 1" data-theme-src-dark="{{ "/assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,7 +276,7 @@ This mix can distort online evidence inventories for UFO-style reports connected
 
 Many of the most visible “UFO” hits linked to Benin online come from **Benin City, Edo State, Nigeria**, and are rooted in social‑media videos or eyewitness accounts rather than formal investigations. Examples include:
 
-* A **2019 social‑media video** widely shared on Instagram and Facebook purported to show an “unidentified flying object” in the skies over Benin City, causing local panic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 36ng.ng">[36NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">36ng.ng</span><span class="citation-popover-title">unidentified flying object ufo causes panic in benin edo state</span><span class="citation-popover-snippet">36NG“Unidentified Flying Object” UFO Causes Panic In Benin, Edo State | 36NGSeptember 26, 2019...</span><span class="citation-popover-meta">Published: September 26, 2019</span></span></span>
+* A **2019 social‑media video** widely shared on Instagram and Facebook purported to show an “unidentified flying object” in the skies over Benin City, causing local panic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 36ng.ng">[36NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">36ng.ng</span><span class="citation-popover-title">unidentified flying object ufo causes panic in benin edo state</span><span class="citation-popover-snippet">36NG“Unidentified Flying Object” UFO Causes Panic In Benin, Edo State &#124; 36NGSeptember 26, 2019...</span><span class="citation-popover-meta">Published: September 26, 2019</span></span></span>
 * Instagram reels and personal posts claim to show strange lights or unidentified aerial phenomena above or near Benin City, often without verifiable metadata or expert analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/popular/ufo-sightings-in-benin-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Ufo Sightings In Benin ExplainedWatch short videos about ufo sightings in benin explained from people around the world. Ufo Sightings Exp...</span></span></span>
 * Eyewitness social media audio clips or short clips labelled “I saw an alien in Benin City” circulate with minimal context, blurring the line between anecdote and documented sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/B23dousHW8N/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">#EdoState... Following engagements outside the state, the City...</span></span></span>
 
@@ -293,7 +293,7 @@ This confusion has several practical effects on anyone trying to compile or anal
 * **Sparse verifiable cases** for the Republic of Benin: In contrast to brighter search noise from Benin City, there is little—if any—well‑sourced UFO documentation that can be traced to credible sightings within the territorial Republic of Benin in authoritative databases. UFO reporting sites for Benin often remain placeholders or unpopulated categories rather than corroborated case records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/benin-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">benin ufo sightings</span><span class="citation-popover-snippet">Global UFOs: Benin UFO Sightings &amp; Reports22 Mar 2025 — We are working as quickly as possible to add all received Benin UFO and alien con...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYmbQVHkfQ0" title="🔍 The Albert Gate Mystery: A Captivating Detective Tale 🕵️‍♂️ By Louis Tracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYmbQVHkfQ0" target="_blank" rel="noopener noreferrer">🔍 The Albert Gate Mystery: A Captivating Detective Tale 🕵️‍♂️ By Louis Tracy</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYmbQVHkfQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYmbQVHkfQ0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q-0OYWunpZg" title="🕵️‍♂️ On Secret Service by William Nelson Taft 🔍 | Thrilling Detective Stories Based on Real Cases!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q-0OYWunpZg" target="_blank" rel="noopener noreferrer">🕵️‍♂️ On Secret Service by William Nelson Taft 🔍 | Thrilling Detective Stories Based on Real Cases!</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q-0OYWunpZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q-0OYWunpZg">Open on YouTube</a></p></div></div></div>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fBgn1lF8g1U" title="WTF is Happening with UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fBgn1lF8g1U" target="_blank" rel="noopener noreferrer">WTF is Happening with UFOs?</a></p><p class="youtube-embed-meta">Channel: Cleo Abram &middot; Views: 5.3M &middot; Uploaded: August 2023 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fBgn1lF8g1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fBgn1lF8g1U">Open on YouTube</a></p></div></div></div>
@@ -312,86 +312,44 @@ Applying this disciplined approach helps keep the record for UFO phenomena in th
 <img src="{{ "/assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-3-dark.svg" | relative_url }}" alt="Name Confusion illustration 3" data-theme-src-dark="{{ "/assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Benin_373616_benin_city_confusion_519b71-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Is That Benin UFO Story Even About Benin?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Is That Benin UFO Story Even About Benin?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on evaluating reports and separating stronger cases from weak or mistaken ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Explains how UFO information spreads, is archived, and becomes confused across sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Emphasizes sourcing, documentation, and report credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for understanding misidentification, rumor, and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -425,75 +383,71 @@ Applying this disciplined approach helps keep the record for UFO phenomena in th
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-is-that-benin-ufo-story-even-about-benin-benin-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -708,66 +662,66 @@ Applying this disciplined approach helps keep the record for UFO phenomena in th
 1. <a id="endnote-1"></a>
    Source: 36ng.ng  
    Title: unidentified flying object ufo causes panic in benin edo state  
-   Link: [https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/](https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/)  
+   Link: <a href="https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/" target="_blank" rel="noopener noreferrer nofollow">https://www.36ng.ng/2019/09/26/unidentified-flying-object-ufo-causes-panic-in-benin-edo-state/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>36NG“Unidentified Flying Object” UFO Causes Panic In Benin, Edo State | 36NGSeptember 26, 2019...</p></details>
    Published: September 26, 2019  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: unidentified flying object ufo causes panic last night in benin edo state video  
-   Link: [https://www.facebook.com/GistReelOnline/posts/unidentified-flying-object-ufo-causes-panic-last-night-in-benin-edo-state-video/1213466092188618/](https://www.facebook.com/GistReelOnline/posts/unidentified-flying-object-ufo-causes-panic-last-night-in-benin-edo-state-video/1213466092188618/)  
+   Link: <a href="https://www.facebook.com/GistReelOnline/posts/unidentified-flying-object-ufo-causes-panic-last-night-in-benin-edo-state-video/1213466092188618/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GistReelOnline/posts/unidentified-flying-object-ufo-causes-panic-last-night-in-benin-edo-state-video/1213466092188618/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Unidentified Flying Object&quot; causes panic last night in Edo...26 Sept 2019 — Unidentified Flying Object” (UFO) causes panic last night i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Benin City  
-   Link: [https://en.wikipedia.org/wiki/Benin_City](https://en.wikipedia.org/wiki/Benin_City)  
+   Link: <a href="https://en.wikipedia.org/wiki/Benin_City" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Benin_City</a>  
 
 4. <a id="endnote-4"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DY1nHfQI-ce/](https://www.instagram.com/reel/DY1nHfQI-ce/)  
+   Link: <a href="https://www.instagram.com/reel/DY1nHfQI-ce/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY1nHfQI-ce/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>igeria. I had a very crazy experience a while ago...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/popular/ufo-sightings-in-benin-explained/](https://www.instagram.com/popular/ufo-sightings-in-benin-explained/)  
+   Link: <a href="https://www.instagram.com/popular/ufo-sightings-in-benin-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/ufo-sightings-in-benin-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sightings In Benin ExplainedWatch short videos about ufo sightings in benin explained from people around the world. Ufo Sightings Exp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: usufocenter.com  
    Title: benin ufo sightings  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/benin-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/benin-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/benin-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/benin-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Benin UFO Sightings &amp; Reports22 Mar 2025 — We are working as quickly as possible to add all received Benin UFO and alien con...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cecilia.i.dikibo/videos/she-saw-an-alien-in-benin-city-nigeria-aliens-benin-nigeria-nigerdelta/1461934385687210/](https://www.facebook.com/cecilia.i.dikibo/videos/she-saw-an-alien-in-benin-city-nigeria-aliens-benin-nigeria-nigerdelta/1461934385687210/)  
+   Link: <a href="https://www.facebook.com/cecilia.i.dikibo/videos/she-saw-an-alien-in-benin-city-nigeria-aliens-benin-nigeria-nigerdelta/1461934385687210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cecilia.i.dikibo/videos/she-saw-an-alien-in-benin-city-nigeria-aliens-benin-nigeria-nigerdelta/1461934385687210/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>She saw an alien 👽 in Benin City NigeriaShe saw an alien in Benin City Nigeria #aliens #benin #nigeria #NigerDelta - in Port Harcourt, Ni...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/](https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/)  
+   Link: <a href="https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/</a>  
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/B23dousHW8N/](https://www.instagram.com/p/B23dousHW8N/)  
+   Link: <a href="https://www.instagram.com/p/B23dousHW8N/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B23dousHW8N/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>#EdoState... Following engagements outside the state, the City...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/CyBk-5wOdT7/](https://www.instagram.com/reel/CyBk-5wOdT7/)  
+   Link: <a href="https://www.instagram.com/reel/CyBk-5wOdT7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CyBk-5wOdT7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this oh😮 Reposted @untopsocial AliensNigerians have been buzzing about a UFO sighting in Surulere, leaving passersby astonished a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
    Title: Video surfaces online of a UFO seen in Surulere  
-   Link: [https://www.instagram.com/p/CyArce4tEoq/?hl=en](https://www.instagram.com/p/CyArce4tEoq/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/CyArce4tEoq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CyArce4tEoq/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>will be the first time a UFO is allegedly being seen in Nigeria. Some people also claimed to have received an airdroppe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaMarcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12 April 2019 ·...</p></details>
    Published: April 2019  
 
@@ -775,58 +729,58 @@ Applying this disciplined approach helps keep the record for UFO phenomena in th
 
 13. <a id="endnote-13"></a>
    Source: kossyderrickent.com  
-   Link: [https://www.kossyderrickent.com/video-suspected-wizard-trapped-in-house/](https://www.kossyderrickent.com/video-suspected-wizard-trapped-in-house/)  
+   Link: <a href="https://www.kossyderrickent.com/video-suspected-wizard-trapped-in-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.kossyderrickent.com/video-suspected-wizard-trapped-in-house/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Video) Suspected Wizard Trapped In A House On His Journey From A Mission In Upper Sakponba Road, Benin, Edo State | KossyDerrickentAugus...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: guardian.ng  
-   Link: [https://guardian.ng/news/benin-republic-not-contesting-tongeji-island-with-nigeria-says-abiodun/](https://guardian.ng/news/benin-republic-not-contesting-tongeji-island-with-nigeria-says-abiodun/)  
+   Link: <a href="https://guardian.ng/news/benin-republic-not-contesting-tongeji-island-with-nigeria-says-abiodun/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/news/benin-republic-not-contesting-tongeji-island-with-nigeria-says-abiodun/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria and World NewsNovember 9, 2023 — BENIN REPUBLIC NOT CONTESTING TONGEJI ISLAND WITH NIGERIA, SAYS ABIODUN By: Azeez Olorunlomeru...</p></details>
    Published: November 9, 2023  
 
 15. <a id="endnote-15"></a>
    Source: guardian.ng  
-   Link: [https://guardian.ng/news/republic-of-benin-not-aspiring-to-be-part-of-nigeria-onyeama/](https://guardian.ng/news/republic-of-benin-not-aspiring-to-be-part-of-nigeria-onyeama/)  
+   Link: <a href="https://guardian.ng/news/republic-of-benin-not-aspiring-to-be-part-of-nigeria-onyeama/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/news/republic-of-benin-not-aspiring-to-be-part-of-nigeria-onyeama/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria and World NewsFebruary 21, 2021 — REPUBLIC OF BENIN NOT ASPIRING TO BE PART OF NIGERIA – ONYEAMA By: Kobor Amos Date: 21 Februar...</p></details>
    Published: February 21, 2021  
 
 16. <a id="endnote-16"></a>
    Source: kossyderrickent.com  
-   Link: [https://www.kossyderrickent.com/video-ritual-shrine-busted-after/](https://www.kossyderrickent.com/video-ritual-shrine-busted-after/)  
+   Link: <a href="https://www.kossyderrickent.com/video-ritual-shrine-busted-after/" target="_blank" rel="noopener noreferrer nofollow">https://www.kossyderrickent.com/video-ritual-shrine-busted-after/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: Ritual Shrine Busted After Recovering 20 Mummified Dead Bodies And Arresting Three Male Suspects Along Asoro Slope, Off Ekenhua Ro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalaccordnewspaper.com  
-   Link: [https://www.nationalaccordnewspaper.com/benin-residents-gather-to-watch-suspected-witch-who-land-on-high-tension-cable-video/](https://www.nationalaccordnewspaper.com/benin-residents-gather-to-watch-suspected-witch-who-land-on-high-tension-cable-video/)  
+   Link: <a href="https://www.nationalaccordnewspaper.com/benin-residents-gather-to-watch-suspected-witch-who-land-on-high-tension-cable-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalaccordnewspaper.com/benin-residents-gather-to-watch-suspected-witch-who-land-on-high-tension-cable-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2022 — BENIN RESIDENTS GATHER TO WATCH SUSPECTED WITCH WHO LAND ON HIGH TENSION CABLE (VIDEO) Bode February 21, 2022 Image...</p></details>
    Published: February 21, 2022  
 
 18. <a id="endnote-18"></a>
    Source: tori.ng  
-   Link: [https://www.tori.ng/news/194226/residents-of-benin-city-gather-to-watch-witch-that.html](https://www.tori.ng/news/194226/residents-of-benin-city-gather-to-watch-witch-that.html)  
+   Link: <a href="https://www.tori.ng/news/194226/residents-of-benin-city-gather-to-watch-witch-that.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tori.ng/news/194226/residents-of-benin-city-gather-to-watch-witch-that.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2022 — RESIDENTS OF BENIN CITY GATHER TO WATCH &#x27;&#x27;WITCH&quot; THAT LANDED ON A HIGH TENSION CABLE (VIDEO) Posted by Samuel on Sun...</p></details>
    Published: February 20, 2022  
 
 19. <a id="endnote-19"></a>
    Source: yabaleftonline.ng  
-   Link: [https://www.yabaleftonline.ng/residents-benin-city-gather-watch-witch-landed-high-tension-cable-video/](https://www.yabaleftonline.ng/residents-benin-city-gather-watch-witch-landed-high-tension-cable-video/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YabaLeftOnlineFebruary 21, 2022 — RESIDENTS OF BENIN CITY GATHER TO WATCH “WITCH” THAT LANDED ON A HIGH TENSION CABLE (VIDEO) By Opeyemi...</p></details>
+   Link: <a href="https://www.yabaleftonline.ng/residents-benin-city-gather-watch-witch-landed-high-tension-cable-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.yabaleftonline.ng/residents-benin-city-gather-watch-witch-landed-high-tension-cable-video/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2022 — RESIDENTS OF BENIN CITY GATHER TO WATCH “WITCH” THAT LANDED ON A HIGH TENSION CABLE (VIDEO) By Opeyemi...</p></details>
    Published: February 21, 2022  
 
 20. <a id="endnote-20"></a>
    Source: tell.ng  
-   Link: [https://tell.ng/shock-find-in-benin-city-as-police-discover-ritualists-den-with-20-mummified-bodies-shrines/](https://tell.ng/shock-find-in-benin-city-as-police-discover-ritualists-den-with-20-mummified-bodies-shrines/)  
+   Link: <a href="https://tell.ng/shock-find-in-benin-city-as-police-discover-ritualists-den-with-20-mummified-bodies-shrines/" target="_blank" rel="noopener noreferrer nofollow">https://tell.ng/shock-find-in-benin-city-as-police-discover-ritualists-den-with-20-mummified-bodies-shrines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TELL MagazineAugust 18, 2022 — SHOCK FIND IN BENIN CITY AS POLICE DISCOVER RITUALISTS’ DEN WITH 20 MUMMIFIED BODIES, SHRINES by Adekunbi...</p></details>
    Published: August 18, 2022  
 
 21. <a id="endnote-21"></a>
    Source: gistreel.com  
-   Link: [https://www.gistreel.com/suspected-wizard-allegedly-returning-from-mission-trapped-in-a-house-in-benin-video/](https://www.gistreel.com/suspected-wizard-allegedly-returning-from-mission-trapped-in-a-house-in-benin-video/)  
+   Link: <a href="https://www.gistreel.com/suspected-wizard-allegedly-returning-from-mission-trapped-in-a-house-in-benin-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.gistreel.com/suspected-wizard-allegedly-returning-from-mission-trapped-in-a-house-in-benin-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 21, 2021 — SUSPECTED WIZARD ALLEGEDLY RETURNING FROM MISSION, TRAPPED IN A HOUSE IN BENIN (VIDEO) Peter OkerekeAug 21, 2021 Image...</p></details>
    Published: August 21, 2021  
 
 22. <a id="endnote-22"></a>
    Source: wawanewsglobal.com  
-   Link: [https://wawanewsglobal.com/2021/02/21/fg-debunks-rumour-of-nigeria-annexing-republic-of-benin/](https://wawanewsglobal.com/2021/02/21/fg-debunks-rumour-of-nigeria-annexing-republic-of-benin/)  
+   Link: <a href="https://wawanewsglobal.com/2021/02/21/fg-debunks-rumour-of-nigeria-annexing-republic-of-benin/" target="_blank" rel="noopener noreferrer nofollow">https://wawanewsglobal.com/2021/02/21/fg-debunks-rumour-of-nigeria-annexing-republic-of-benin/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FG debunks rumour of Nigeria annexing Republic of Benin – Wawa News Global (WNG)February 21, 2021 — FG DEBUNKS RUMOUR OF NIGERIA ANNEXING...</p></details>
    Published: February 21, 2021  

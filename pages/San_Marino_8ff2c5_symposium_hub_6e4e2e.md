@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-gap-153517/
   short_title: Records Gap
   heading_title: Why San Marino's UFO Record Is So Thin
-date: '2026-06-09 01:39:10 '
+date: '2026-06-10 02:06:07 '
 header:
   og_image: /assets/images/San_Marino_8ff2c5_symposium_hub_6e4e2e-Illustration-1-social.jpg
   preview_image: /assets/images/San_Marino_8ff2c5_symposium_hub_6e4e2e-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/San_Marino_8ff2c5_symposium_hub_6e4e2e-Illustration-1-soci
 
 ## Introduction
 
-[San Marino]({{ 'why-san-marino-became-a-ufo-meeting/' | relative_url }})’s place in modern UFO culture comes less from dramatic local sightings than from its role as a long-running conference venue. For more than three decades, the republic has hosted recurring international UFO and UAP gatherings organised by Italy’s Centro Ufologico Nazionale (CUN), drawing researchers, authors, military witnesses, journalists, enthusiasts and campaigners to the historic hilltop state. Rather than becoming known for a large archive of domestic incidents, San Marino became known as a meeting point: a place where debates about unidentified aerial phenomena could be staged, publicised and internationalised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/news/project-titan-approved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">Project Titan Approved</span><span class="citation-popover-snippet">ICER ASSOCIATIONRoberto Pinotti, who for three decades has successfully coordinated the annual UFO World Symposium under the aegis of the...</span></span></span>
+San Marino’s place in modern UFO culture comes less from dramatic local sightings than from its role as a long-running conference venue. For more than three decades, the republic has hosted recurring international UFO and UAP gatherings organised by Italy’s Centro Ufologico Nazionale (CUN), drawing researchers, authors, military witnesses, journalists, enthusiasts and campaigners to the historic hilltop state. Rather than becoming known for a large archive of domestic incidents, San Marino became known as a meeting point: a place where debates about unidentified aerial phenomena could be staged, publicised and internationalised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/news/project-titan-approved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">Project Titan Approved</span><span class="citation-popover-snippet">ICER ASSOCIATIONRoberto Pinotti, who for three decades has successfully coordinated the annual UFO World Symposium under the aegis of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_symposium_hub_6e4e2e-Illustration-1-dark.svg" | relative_url }}" alt="Symposium Hub illustration 1" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_symposium_hub_6e4e2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_symposium_hub_6e4e2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters when assessing San Marino’s UFO identity. In larger countries, national UFO histories are often built around military encounters, radar cases or regional sighting waves. In San Marino, the more significant story is institutional. The symposium circuit transformed the republic into a recognisable location within European ufology and later helped provide the political backdrop for initiatives such as [Project Titan]({{ 'project-titan/' | relative_url }}), which sought to give San Marino a formal international role in future UAP discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
+This distinction matters when assessing San Marino’s UFO identity. In larger countries, national UFO histories are often built around military encounters, radar cases or regional sighting waves. In San Marino, the more significant story is institutional. The symposium circuit transformed the republic into a recognisable location within European ufology and later helped provide the political backdrop for initiatives such as [Project Titan]({{ 'project-titan/' | relative_url }}), which sought to give San Marino a formal international role in future UAP discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
 
 ## Why the symposium became the country's UFO calling card
 
@@ -295,7 +295,7 @@ Over time, the symposium became more important to San Marino's UFO reputation th
 
 This created an unusual inversion. In many countries, conferences emerge because a substantial body of sightings already exists. In San Marino, the conferences themselves became the primary reason the country appeared in international UFO discussions. Visitors, speakers and media coverage generated attention that was often larger than the domestic case record.
 
-The effect can be seen in how Project Titan supporters framed their proposals. When campaigners argued that San Marino should host future international UAP discussions, they rarely pointed to a major national archive or a history of government investigations. Instead, they pointed to the symposium tradition and the country's long experience hosting international UFO events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span> 2icerassociation.org
+The effect can be seen in how Project Titan supporters framed their proposals. When campaigners argued that San Marino should host future international UAP discussions, they rarely pointed to a major national archive or a history of government investigations. Instead, they pointed to the symposium tradition and the country's long experience hosting international UFO events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span> 2icerassociation.org
 
 This transformed the republic's role from observer to facilitator. Whether one accepts the claims discussed at the symposiums or not, the conferences gave San Marino a recognisable position within the wider UFO network.
 
@@ -303,9 +303,9 @@ This transformed the republic's role from observer to facilitator. Whether one a
 
 The clearest demonstration of the symposium's political influence came through Project Titan.
 
-Project Titan proposed that San Marino seek a broader international role in organising periodic conferences devoted to UFO and UAP study. Supporters argued that the republic's existing symposium history made it a natural candidate for such a role. In public statements, organisers repeatedly linked the proposal to the decades-long San Marino symposium tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
+Project Titan proposed that San Marino seek a broader international role in organising periodic conferences devoted to UFO and UAP study. Supporters argued that the republic's existing symposium history made it a natural candidate for such a role. In public statements, organisers repeatedly linked the proposal to the decades-long San Marino symposium tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
 
-A key point is that this was not merely a private promotional campaign. In January 2023, San Marino's parliament approved an initiative connected to Project Titan, giving the proposal a degree of official recognition inside the republic even though it did not create a United Nations programme or guarantee international adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
+A key point is that this was not merely a private promotional campaign. In January 2023, San Marino's parliament approved an initiative connected to Project Titan, giving the proposal a degree of official recognition inside the republic even though it did not create a United Nations programme or guarantee international adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
 
 The symposium therefore served two functions simultaneously:
 
@@ -324,93 +324,51 @@ The republic has generated occasional sighting stories and anecdotal reports, in
 
 For readers trying to understand San Marino's place in UFO history, this is the central takeaway. The republic became famous within the field not because extraordinary events repeatedly occurred there, but because extraordinary claims were repeatedly discussed there.
 
-That difference explains why references to San Marino appear so frequently in modern UFO conference networks despite the country's limited domestic sighting record. Its contribution has been organisational and symbolic: a small state that offered continuity, visibility and a recurring stage for international UFO debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
+That difference explains why references to San Marino appear so frequently in modern UFO conference networks despite the country's limited domestic sighting record. Its contribution has been organisational and symbolic: a small state that offered continuity, visibility and a recurring stage for international UFO debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">san marino one step closer to making ufo request at the united nations</span><span class="citation-popover-snippet">UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/riRvg_YLxEw" title="Ufologia, la proposta: “Simposio UFO di San Marino sotto egida ONU”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=riRvg_YLxEw" target="_blank" rel="noopener noreferrer">Ufologia, la proposta: “Simposio UFO di San Marino sotto egida ONU”</a></p><p class="youtube-embed-meta">Channel: San Marino RTV &middot; Views: 4.2K &middot; Uploaded: March 2022 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=riRvg_YLxEw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=riRvg_YLxEw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How UFO Conferences Put San Marino on the Map. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How UFO Conferences Put San Marino on the Map, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explains the modern conference, media and advocacy environment around UAPs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Features many figures and institutions similar to those appearing at UFO conferences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Influential among researchers and speakers often associated with symposium circuits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Examines the communities, networks and belief structures behind UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -444,75 +402,71 @@ That difference explains why references to San Marino appear so frequently in mo
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO EUROPEAN TOUR 1980 OBLONG SHAPED OLD METAL PIN BADGE HEAVY METAL"><img src="{{ '/assets/images/marketplace-covers/f33ea13badce29bc273f.jpg' | relative_url }}" alt="Listing image for UFO EUROPEAN TOUR 1980 OBLONG SHAPED OLD METAL PIN BADGE HEAVY METAL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer">UFO EUROPEAN TOUR 1980 OBLONG SHAPED OLD METAL PIN BADGE HEAVY METAL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo badge">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo badge</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO ID Badge with holder and lanyard, novelty, Personalised"><img src="{{ '/assets/images/marketplace-covers/0bfc768569cce6290860.jpg' | relative_url }}" alt="Listing image for UFO SHADO ID Badge with holder and lanyard, novelty, Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO ID Badge with holder and lanyard, novelty, Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo badge">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo badge</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo badge">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo badge</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo badge">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo badge</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+badge&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo badge" data-ebay-reference="symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-badge" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symposium-hub-how-ufo-conferences-put-san-marino-on-the-map-san-marino-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -727,126 +681,126 @@ That difference explains why references to San Marino appear so frequently in mo
 1. <a id="endnote-1"></a>
    Source: icerassociation.org  
    Title: Project Titan Approved  
-   Link: [https://www.icerassociation.org/news/project-titan-approved](https://www.icerassociation.org/news/project-titan-approved)  
+   Link: <a href="https://www.icerassociation.org/news/project-titan-approved" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/news/project-titan-approved</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICER ASSOCIATIONRoberto Pinotti, who for three decades has successfully coordinated the annual UFO World Symposium under the aegis of the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: liberationtimes.com  
    Title: san marino one step closer to making ufo request at the united nations  
-   Link: [https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations](https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations)  
+   Link: <a href="https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/san-marino-one-step-closer-to-making-ufo-request-at-the-united-nations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP conferences under its aegis. Project Titan was... This week, the Centro Ufologico Nazionale of Italy (CUN) and the International...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978](https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978)  
+   Link: <a href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberation Times | Reimagining Old NewsProject Titan Approved By San Marino: UFOs Set To Be...19 Jan 2023 — The nation of San Marino has...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: icerassociation.org  
-   Link: [https://www.icerassociation.org/news/project-titan-update](https://www.icerassociation.org/news/project-titan-update)  
+   Link: <a href="https://www.icerassociation.org/news/project-titan-update" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/news/project-titan-update</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan Update - ICER ASSOCIATIONPrepared by the new UN Office, the Conference would be held under the aegis of the UN by care of t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hotelcesare.com  
-   Link: [https://www.hotelcesare.com/2-en-254591-the-borders-of-universe.php](https://www.hotelcesare.com/2-en-254591-the-borders-of-universe.php)  
+   Link: <a href="https://www.hotelcesare.com/2-en-254591-the-borders-of-universe.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hotelcesare.com/2-en-254591-the-borders-of-universe.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotel CesareThe borders of &#x27;UniverseTheatre Tourism, City of San Marino Hours 17th Symposium: Saturday 9:00 to 13:00. Hours 24 ° UFO Symp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hotelcesare.com  
    Title: 2 en 278023 26th world symposium on flying objects  
-   Link: [https://www.hotelcesare.com/2-en-278023-26th-world-symposium-on-flying-objects.php](https://www.hotelcesare.com/2-en-278023-26th-world-symposium-on-flying-objects.php)  
+   Link: <a href="https://www.hotelcesare.com/2-en-278023-26th-world-symposium-on-flying-objects.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hotelcesare.com/2-en-278023-26th-world-symposium-on-flying-objects.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotel Cesare26th World Symposium on flying objects26th World Symposium on flying objects. San Marino City. 19-20 May 2018. Titan Theater...</p></details>
    Published: May 2018  
 
 7. <a id="endnote-7"></a>
    Source: visitsanmarino.com  
    Title: 20231020 Simposio Ufo  
-   Link: [https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html](https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html)  
+   Link: <a href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visita San Marino, portale ufficiale32th UFO Symposium4 Nov 2023 — World symposium on unidentified flying objects / uap and related pheno...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: visitsanmarino.com  
    Title: 20240601 Simposio Ufo  
-   Link: [https://www.visitsanmarino.com/pub1/VisitSM/de/evento/20240601_Simposio_Ufo.html](https://www.visitsanmarino.com/pub1/VisitSM/de/evento/20240601_Simposio_Ufo.html)  
+   Link: <a href="https://www.visitsanmarino.com/pub1/VisitSM/de/evento/20240601_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsanmarino.com/pub1/VisitSM/de/evento/20240601_Simposio_Ufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visita San Marino, portale ufficiale32th UFO SymposiumEvents; 32th UFO Symposium. 01 Juni 2024. 32th UFO Symposium. Unidentified flying o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: PROJEC T TITAN  
-   Link: [https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/](https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN - SAN MARINO, UFOS AND THE UNThe date of September 13, 2021 could represent a moment of great importance for world history...</p></details>
    Published: September 13, 2021  
 
 10. <a id="endnote-10"></a>
    Source: icer.pt  
    Title: press relase project titan approved  
-   Link: [https://icer.pt/2023/01/20/press-relase-project-titan-approved/](https://icer.pt/2023/01/20/press-relase-project-titan-approved/)  
+   Link: <a href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow">https://icer.pt/2023/01/20/press-relase-project-titan-approved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Press Relase: Project Titan Approved20 Jan 2023 — The recognition of the reality of UFOs indicated by the Pentagon since 2021 as “an obje...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: giornalesm.com  
    Title: San Marino  
-   Link: [https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/](https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/)  
+   Link: <a href="https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/" target="_blank" rel="noopener noreferrer nofollow">https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, ONU E PROGETTO TITANO: IL MONDO...20 Jul 2023 — The UN General Assembly could discuss the Project Titan initiative next September...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: uapnewscenter.com  
-   Link: [https://uapnewscenter.com/earlier-ufo-conferences/](https://uapnewscenter.com/earlier-ufo-conferences/)  
+   Link: <a href="https://uapnewscenter.com/earlier-ufo-conferences/" target="_blank" rel="noopener noreferrer nofollow">https://uapnewscenter.com/earlier-ufo-conferences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Conference ListingsAll upcoming UFO / UAP Conferences, Forums and Festivals from around the country and around the world... CUN (Cen...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: project titan the tiny republic taking ufo disclosure to the united nationsin wh  
-   Link: [https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/](https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/)  
+   Link: <a href="https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN: The Tiny Republic Taking UFO...24 Apr 2026 — The country has long hosted the annual San Marino UFO Symposium—one of Europ...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: the 33rd edition of the pontignano conference 16 17 october 2025  
-   Link: [https://www.gov.uk/government/news/the-33rd-edition-of-the-pontignano-conference-16-17-october-2025](https://www.gov.uk/government/news/the-33rd-edition-of-the-pontignano-conference-16-17-october-2025)  
+   Link: <a href="https://www.gov.uk/government/news/the-33rd-edition-of-the-pontignano-conference-16-17-october-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/the-33rd-edition-of-the-pontignano-conference-16-17-october-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>33rd edition of the Pontignano Conference 16-17...17 Oct 2025 — The 33rd edition of the Pontignano Conference took place between the Uni...</p></details>
    Published: october 2025  
 
 15. <a id="endnote-15"></a>
    Source: thedebrief.org  
    Title: san marino could become the u n s new geneva for ufos  
-   Link: [https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/](https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/)  
+   Link: <a href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, the European...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tas-education.org  
    Title: TAS Education Project Titan and the United Nations  
-   Link: [https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/](https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/)  
+   Link: <a href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow">https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to the UN to org...</p></details>
    Published: January 2023  
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/alliance-for-extraterrestrial-diplomatic-contact_san-marino-approves-project-titan-activity-7025304189069135872-f1cn](https://www.linkedin.com/posts/alliance-for-extraterrestrial-diplomatic-contact_san-marino-approves-project-titan-activity-7025304189069135872-f1cn)  
+   Link: <a href="https://www.linkedin.com/posts/alliance-for-extraterrestrial-diplomatic-contact_san-marino-approves-project-titan-activity-7025304189069135872-f1cn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/alliance-for-extraterrestrial-diplomatic-contact_san-marino-approves-project-titan-activity-7025304189069135872-f1cn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h a UFO Research Institute in San Marino. [https://lnkd.in...Read](https://lnkd.in...Read) more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>world would where later up such used many can state about national out known university united then made under him year three between the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: inalpi.it  
    Title: Rassegna Stampa 24 30 giugno COMPLETA BASSA  
-   Link: [https://www.inalpi.it/wp-content/uploads/bsk-pdf-manager/2024/07/Rassegna-Stampa-24-30-giugno-COMPLETA-BASSA.pdf](https://www.inalpi.it/wp-content/uploads/bsk-pdf-manager/2024/07/Rassegna-Stampa-24-30-giugno-COMPLETA-BASSA.pdf)  
+   Link: <a href="https://www.inalpi.it/wp-content/uploads/bsk-pdf-manager/2024/07/Rassegna-Stampa-24-30-giugno-COMPLETA-BASSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inalpi.it/wp-content/uploads/bsk-pdf-manager/2024/07/Rassegna-Stampa-24-30-giugno-COMPLETA-BASSA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dal 24 GIUGNO 2024 Al 30 GIUGNO 20241 Jul 2024 — PIEMONTE. – Quattro piccoli studenti del Tortonese lunedì 1° luglio potranno assistere...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: durham.ac.uk  
    Title: declaration on seti and uap research  
-   Link: [https://www.durham.ac.uk/departments/academic/law/news-and-events/news/2025/04/declaration--on-seti-and-uap-research/](https://www.durham.ac.uk/departments/academic/law/news-and-events/news/2025/04/declaration--on-seti-and-uap-research/)  
+   Link: <a href="https://www.durham.ac.uk/departments/academic/law/news-and-events/news/2025/04/declaration--on-seti-and-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/departments/academic/law/news-and-events/news/2025/04/declaration--on-seti-and-uap-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Apr 2025 —... UFO-Phänomens (GEP) e.V., Germany; Mr Sebastian Klein, Germany; Prof Aaron Burke, Professor of Near Eastern Archaeology...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: the5worldexplorers.com  
    Title: discovering san marino together  
-   Link: [https://www.the5worldexplorers.com/discovering-san-marino-together/](https://www.the5worldexplorers.com/discovering-san-marino-together/)  
+   Link: <a href="https://www.the5worldexplorers.com/discovering-san-marino-together/" target="_blank" rel="noopener noreferrer nofollow">https://www.the5worldexplorers.com/discovering-san-marino-together/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jan 2026 — San Marino is a landlocked microstate, entirely surrounded by Italy, perched on the Adriatic side of the peninsula, and buil...</p></details>

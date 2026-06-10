@@ -245,7 +245,7 @@ next_link:
   permalink: /tanarandy/
   short_title: Tanarandy
   heading_title: How Tanarandy Turned a Sighting Into Memory
-date: '2026-06-09 01:37:09 '
+date: '2026-06-10 02:03:46 '
 header:
   og_image: /assets/images/Paraguay_71a452_modern_sighting_risk_4cd1cb-Illustration-1-social.jpg
   preview_image: /assets/images/Paraguay_71a452_modern_sighting_risk_4cd1cb-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Paraguay_71a452_modern_sighting_risk_4cd1cb-Illustration-1
 
 ## Introduction
 
-Recent UFO reports from [Paraguay]({{ 'what-really-happened-in-paraguays-ufo/' | relative_url }}) are easier to share than ever, but not necessarily easier to verify. Videos from mobile phones can reach national television within hours, and unusual lights seen over Asunción, the Central Department, Misiones or the Chaco are quickly reposted across social media. That speed creates a paradox: modern sightings generate more footage than older cases, yet they are often harder to investigate because the original files, witness timelines and observation conditions are rarely preserved.
+Recent UFO reports from Paraguay are easier to share than ever, but not necessarily easier to verify. Videos from mobile phones can reach national television within hours, and unusual lights seen over Asunción, the Central Department, Misiones or the Chaco are quickly reposted across social media. That speed creates a paradox: modern sightings generate more footage than older cases, yet they are often harder to investigate because the original files, witness timelines and observation conditions are rarely preserved.
 
 
 <img src="{{ "/assets/images/Paraguay_71a452_modern_sighting_risk_4cd1cb-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452_modern_sighting_risk_4cd1cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452_modern_sighting_risk_4cd1cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,7 +286,7 @@ The growth of online UFO-reporting platforms has also changed expectations. Data
 
 One of the most important developments affecting Paraguayan sightings has nothing to do with extraterrestrial claims. It is the expansion of satellite constellations.
 
-After major SpaceX launches, newly deployed Starlink satellites can appear as a bright line of lights moving across the sky. The effect is unfamiliar enough that many observers initially interpret it as a coordinated formation of unknown craft. Sky News documented how Starlink trains repeatedly generated UFO reports in different countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Starlink satellites leads to UFO reports | World News</span><span class="citation-popover-snippet">Videos · Analysis · Data x Forensics · Offbeat · Weather. Starlink satellites leads to UFO reports. Wednesday...</span></span></span>
+After major SpaceX launches, newly deployed Starlink satellites can appear as a bright line of lights moving across the sky. The effect is unfamiliar enough that many observers initially interpret it as a coordinated formation of unknown craft. Sky News documented how Starlink trains repeatedly generated UFO reports in different countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Starlink satellites leads to UFO reports &#124; World News</span><span class="citation-popover-snippet">Videos · Analysis · Data x Forensics · Offbeat · Weather. Starlink satellites leads to UFO reports. Wednesday...</span></span></span>
 
 Paraguayan media experienced the same phenomenon. One widely viewed television report explained that a string of lights seen across the night sky was actually a group of Starlink satellites rather than unidentified vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=rAVal4f_MAg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The day a UFO arrived in TañarandyLocal residents claim it marks the 25th anniversary of a UFO&#x27;s visit to Tañarandy. The anecdote...</span></span></span>
 
@@ -302,7 +302,7 @@ The confusion is understandable because satellite trains can seem unusual in sev
 
 </div>
 
-Research into aviation-related UFO reports has shown that even trained observers can mistake satellite formations for anomalous objects. A 2024 case study reconstructed a sighting initially treated as a possible UAP and found it matched the appearance and position of recently launched Starlink satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Research into aviation-related UFO reports has shown that even trained observers can mistake satellite formations for anomalous objects. A 2024 case study reconstructed a sighting initially treated as a possible UAP and found it matched the appearance and position of recently launched Starlink satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 For Paraguay, where many reports involve distant lights rather than close-range encounters, satellite identification has become one of the first questions investigators should consider.
 
@@ -329,7 +329,7 @@ These characteristics often create the impression that observers witnessed a str
 
 The European Space Agency documented how modern satellite systems can capture large meteor events that produce intense flashes across wide regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyFireball witnessed by weather satellite22 May 2024 — Although designed to monitor lightning, it also captured the fl...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> Similar events regularly trigger UFO speculation worldwide.
 
-A second complication comes from satellite re-entries. De-orbiting hardware can resemble a meteor but often appears slower and may break into multiple glowing fragments. Recent international reports linked widely observed fireballs to re-entering Starlink hardware rather than natural meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DNcjuyfCqBG/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Instagram7NEWS Queensland | A fireball was seen racing across the...It&#x27;s believed the burning object was a deorbited Starlink satellite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/7NEWSQld/videos/a-fireball-was-seen-racing-across-the-night-sky-with-sightings-from-gladstone-to/609405002020892/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookA fireball was seen racing across the night sky with sightings...It&#x27;s believed the burning object was a deorbited Starlink satel...</span></span></span>
+A second complication comes from satellite re-entries. De-orbiting hardware can resemble a meteor but often appears slower and may break into multiple glowing fragments. Recent international reports linked widely observed fireballs to re-entering Starlink hardware rather than natural meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DNcjuyfCqBG/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">7NEWS Queensland &#124; A fireball was seen racing across the...It&#x27;s believed the burning object was a deorbited Starlink satellite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/7NEWSQld/videos/a-fireball-was-seen-racing-across-the-night-sky-with-sightings-from-gladstone-to/609405002020892/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A fireball was seen racing across the night sky with sightings...It&#x27;s believed the burning object was a deorbited Starlink satel...</span></span></span>
 
 For Paraguayan observers, this distinction matters because a bright object crossing the sky over several cities is not automatically evidence of an unknown craft. Large-scale visibility often points toward a high-altitude astronomical or orbital event.
 
@@ -380,7 +380,7 @@ Fast-moving objects, insects near the lens or bright lights can become stretched
 
 Social-media uploads reduce image quality and sometimes create apparent motion that was not visible in the original recording.
 
-Online discussions surrounding alleged Paraguayan UFO videos regularly feature these debates. In some cases, viewers argue that an object represents extraordinary technology while others identify insects, camera effects or known satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1jeq454/ufo_spotted_in_paraguay_asuncion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO Spotted in Paraguay, Asuncion</span><span class="citation-popover-snippet">RedditUFO Spotted in Paraguay, AsuncionMarch 19, 2025 — UFO (2018) is a good film that got little attention. Loosely based off of the O&#x27;H...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+Online discussions surrounding alleged Paraguayan UFO videos regularly feature these debates. In some cases, viewers argue that an object represents extraordinary technology while others identify insects, camera effects or known satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1jeq454/ufo_spotted_in_paraguay_asuncion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO Spotted in Paraguay, Asuncion</span><span class="citation-popover-snippet">UFO Spotted in Paraguay, AsuncionMarch 19, 2025 — UFO (2018) is a good film that got little attention. Loosely based off of the O&#x27;H...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
 The lesson is not that videos are worthless. It is that footage without supporting context rarely settles the question on its own.
 
@@ -461,89 +461,47 @@ Some sightings remain unresolved because essential information is missing rather
 
 This distinction matters. Modern UFO discussions often treat unresolved cases as evidence for a specific explanation. In reality, many remain unresolved because investigators lack enough data to determine what happened.
 
-That is especially true in Paraguay, where local reports can spread rapidly through television segments, Facebook groups and messaging apps but rarely enter a formal investigative system. The result is a landscape filled with genuine observations, uncertain interpretations and recurring misidentification risks rather than a clear catalogue of verified anomalous objects. The modern record is therefore most valuable not as proof of extraterrestrial visitation, but as a demonstration of how difficult it remains to identify unusual events in the sky even in the smartphone era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=rAVal4f_MAg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The day a UFO arrived in TañarandyLocal residents claim it marks the 25th anniversary of a UFO&#x27;s visit to Tañarandy. The anecdote...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+That is especially true in Paraguay, where local reports can spread rapidly through television segments, Facebook groups and messaging apps but rarely enter a formal investigative system. The result is a landscape filled with genuine observations, uncertain interpretations and recurring misidentification risks rather than a clear catalogue of verified anomalous objects. The modern record is therefore most valuable not as proof of extraterrestrial visitation, but as a demonstration of how difficult it remains to identify unusual events in the sky even in the smartphone era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=rAVal4f_MAg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The day a UFO arrived in TañarandyLocal residents claim it marks the 25th anniversary of a UFO&#x27;s visit to Tañarandy. The anecdote...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Are New Paraguay UFO Sightings Easier to Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Are New Paraguay UFO Sightings Easier to Explain?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on classification and assessment of aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
-        <p class="fr-book-desc">Represents contemporary attempts to interpret unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Balances serious cases against evidential limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Excellent guide to evaluating extraordinary claims and modern misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -577,75 +535,71 @@ That is especially true in Paraguay, where local reports can spread rapidly thro
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-t-shirt-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-t-shirt-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-t-shirt-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-t-shirt-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-1ef3a8-are-new-paraguay-ufo-sightings-easier-to-explain-paraguay-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -859,138 +813,138 @@ That is especially true in Paraguay, where local reports can spread rapidly thro
 
 1. <a id="endnote-1"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rAVal4f_MAg](https://www.youtube.com/watch?v=rAVal4f_MAg)  
+   Link: <a href="https://www.youtube.com/watch?v=rAVal4f_MAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rAVal4f_MAg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The day a UFO arrived in TañarandyLocal residents claim it marks the 25th anniversary of a UFO&#x27;s visit to Tañarandy. The anecdote...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.sky.com  
    Title: News Starlink satellites leads to UFO reports | World News  
-   Link: [https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446](https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446)  
+   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos &amp;middot; Analysis &amp;middot; Data x Forensics &amp;middot; Offbeat &amp;middot; Weather. Starlink satellites leads to UFO reports. Wednesday...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=b8zMKvcyaUo](https://www.youtube.com/watch?v=b8zMKvcyaUo)  
+   Link: <a href="https://www.youtube.com/watch?v=b8zMKvcyaUo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8zMKvcyaUo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in the sky? They were Starlink satellites.C9N Paraguay. 252K. Subscribe... UFO BUGA SPHERE RECOVERED!!!!! I Traveled to se...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNcjuyfCqBG/?hl=en](https://www.instagram.com/reel/DNcjuyfCqBG/?hl=en)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram7NEWS Queensland | A fireball was seen racing across the...It&#x27;s believed the burning object was a deorbited Starlink satellite...</p></details>
+   Link: <a href="https://www.instagram.com/reel/DNcjuyfCqBG/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNcjuyfCqBG/?hl=en</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>7NEWS Queensland | A fireball was seen racing across the...It&#x27;s believed the burning object was a deorbited Starlink satellite...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7NEWSQld/videos/a-fireball-was-seen-racing-across-the-night-sky-with-sightings-from-gladstone-to/609405002020892/](https://www.facebook.com/7NEWSQld/videos/a-fireball-was-seen-racing-across-the-night-sky-with-sightings-from-gladstone-to/609405002020892/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookA fireball was seen racing across the night sky with sightings...It&#x27;s believed the burning object was a deorbited Starlink satel...</p></details>
+   Link: <a href="https://www.facebook.com/7NEWSQld/videos/a-fireball-was-seen-racing-across-the-night-sky-with-sightings-from-gladstone-to/609405002020892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSQld/videos/a-fireball-was-seen-racing-across-the-night-sky-with-sightings-from-gladstone-to/609405002020892/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A fireball was seen racing across the night sky with sightings...It&#x27;s believed the burning object was a deorbited Starlink satel...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DOWCrGgDBnb/?hl=en-gb](https://www.instagram.com/p/DOWCrGgDBnb/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/p/DOWCrGgDBnb/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOWCrGgDBnb/?hl=en-gb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>he re-entry of a Starlink satellite, specifically STARLINK-...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: UFO Spotted in Paraguay, Asuncion  
-   Link: [https://www.reddit.com/r/UFOs/comments/1jeq454/ufo_spotted_in_paraguay_asuncion/](https://www.reddit.com/r/UFOs/comments/1jeq454/ufo_spotted_in_paraguay_asuncion/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO Spotted in Paraguay, AsuncionMarch 19, 2025 — UFO (2018) is a good film that got little attention. Loosely based off of the O&#x27;H...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jeq454/ufo_spotted_in_paraguay_asuncion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jeq454/ufo_spotted_in_paraguay_asuncion/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Spotted in Paraguay, AsuncionMarch 19, 2025 — UFO (2018) is a good film that got little attention. Loosely based off of the O&#x27;H...</p></details>
    Published: March 19, 2025  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100063628085386/posts/breaking-cigar-shaped-uap-recorded-over-paraguay-asunci%C3%B3n-tonight/1229099749220950/](https://www.facebook.com/100063628085386/posts/breaking-cigar-shaped-uap-recorded-over-paraguay-asunci%C3%B3n-tonight/1229099749220950/)  
+   Link: <a href="https://www.facebook.com/100063628085386/posts/breaking-cigar-shaped-uap-recorded-over-paraguay-asunci%C3%B3n-tonight/1229099749220950/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063628085386/posts/breaking-cigar-shaped-uap-recorded-over-paraguay-asunci%C3%B3n-tonight/1229099749220950/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING 🚨 Cigar-Shaped UAP recorded over Paraguay...[Triangle UFO Seen Over Curatiba, Brazil.]([https://alien](https://alien) -ufo-sightings.mn.co/posts...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/uxbridgeontevents/posts/5216069471952573/](https://www.facebook.com/groups/uxbridgeontevents/posts/5216069471952573/)  
+   Link: <a href="https://www.facebook.com/groups/uxbridgeontevents/posts/5216069471952573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uxbridgeontevents/posts/5216069471952573/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/lynchland/posts/1508435552698984/](https://www.facebook.com/groups/lynchland/posts/1508435552698984/)  
+   Link: <a href="https://www.facebook.com/groups/lynchland/posts/1508435552698984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lynchland/posts/1508435552698984/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsThe Colares flap refers to an outbreak of UFO sightings that occurred in 1977 on the Brazilian Island of Corales. During the o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gmapublicaffairs/posts/meteorite-traces-a-bright-path-across-the-brazilian-sky-ahead-of-new-years-eve-a/1506291890853003/](https://www.facebook.com/gmapublicaffairs/posts/meteorite-traces-a-bright-path-across-the-brazilian-sky-ahead-of-new-years-eve-a/1506291890853003/)  
+   Link: <a href="https://www.facebook.com/gmapublicaffairs/posts/meteorite-traces-a-bright-path-across-the-brazilian-sky-ahead-of-new-years-eve-a/1506291890853003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gmapublicaffairs/posts/meteorite-traces-a-bright-path-across-the-brazilian-sky-ahead-of-new-years-eve-a/1506291890853003/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METEORITE TRACES A BRIGHT PATH ACROSS THE...🛰️ NOAA satellites picked up the flash and meteor experts say it may have exploded in the at...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/158818943276602/posts/197183712773458/](https://www.facebook.com/groups/158818943276602/posts/197183712773458/)  
+   Link: <a href="https://www.facebook.com/groups/158818943276602/posts/197183712773458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/158818943276602/posts/197183712773458/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiasts, skeptics, and local media. Some...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: the mirror news headlines for the week 25 31 march 2022  
-   Link: [https://www.facebook.com/TheMasvingoMirror/posts/the-mirror-news-headlines-for-the-week-25-31-march-2022/4986380891451426/](https://www.facebook.com/TheMasvingoMirror/posts/the-mirror-news-headlines-for-the-week-25-31-march-2022/4986380891451426/)  
+   Link: <a href="https://www.facebook.com/TheMasvingoMirror/posts/the-mirror-news-headlines-for-the-week-25-31-march-2022/4986380891451426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMasvingoMirror/posts/the-mirror-news-headlines-for-the-week-25-31-march-2022/4986380891451426/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mirror News Headlines for the week 25-31 March 2022Paraguay has registered more than 165,000 cases of... UFO hunters in the UK belie...</p></details>
    Published: march 2022  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G6-1rDLxZHM](https://www.youtube.com/watch?v=G6-1rDLxZHM)  
+   Link: <a href="https://www.youtube.com/watch?v=G6-1rDLxZHM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6-1rDLxZHM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>0 Minutes. 3.4K views · 3 years ago...more. scannerguy1968. 168K...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YHBQowiMMmE](https://www.youtube.com/watch?v=YHBQowiMMmE)  
+   Link: <a href="https://www.youtube.com/watch?v=YHBQowiMMmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHBQowiMMmE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cally since the beginning of March, a month with no known...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wPRi0bRO1xw](https://www.youtube.com/watch?v=wPRi0bRO1xw)  
+   Link: <a href="https://www.youtube.com/watch?v=wPRi0bRO1xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPRi0bRO1xw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Paraguay: sightings reported in several areas of the...UFOs in Paraguay: sightings reported in several areas of the country. Aut...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/FQmiDyvckJ8](https://www.youtube.com/shorts/FQmiDyvckJ8)  
+   Link: <a href="https://www.youtube.com/shorts/FQmiDyvckJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/FQmiDyvckJ8</a>  
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNNUA-IglT7/](https://www.instagram.com/reel/DNNUA-IglT7/)  
+   Link: <a href="https://www.instagram.com/reel/DNNUA-IglT7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNNUA-IglT7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>k apart, producing vivid flashes that could be seen from great distances...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Debate on UFO phenomena gains ground in Paraguay  
-   Link: [https://www.youtube.com/watch?v=yq6tmrRiq0U](https://www.youtube.com/watch?v=yq6tmrRiq0U)  
+   Link: <a href="https://www.youtube.com/watch?v=yq6tmrRiq0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yq6tmrRiq0U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paraguay appears in declassified Pentagon files...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Paraguay appears in declassified Pentagon files  
-   Link: [https://www.youtube.com/watch?v=yEq4G9CcwWI](https://www.youtube.com/watch?v=yEq4G9CcwWI)  
+   Link: <a href="https://www.youtube.com/watch?v=yEq4G9CcwWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEq4G9CcwWI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The day a UFO arrived in Tañarandy...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: ¿Un ovni en Tañarandy?: pobladores recuerdan 27 años del avistamiento  
-   Link: [https://www.youtube.com/watch?v=OD6PYBAy99o](https://www.youtube.com/watch?v=OD6PYBAy99o)  
+   Link: <a href="https://www.youtube.com/watch?v=OD6PYBAy99o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OD6PYBAy99o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in Night Sky? It was SpaceX Starlink, not UFOs...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Strange lights in Night Sky? It was Space X Starlink, not UFOs  
-   Link: [https://www.youtube.com/watch?v=obmBcb0kQ3Y](https://www.youtube.com/watch?v=obmBcb0kQ3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
 
 25. <a id="endnote-25"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/ca/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/ca/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/ca/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/ca/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: esa.int  
-   Link: [https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite)  
+   Link: <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyFireball witnessed by weather satellite22 May 2024 — Although designed to monitor lightning, it also captured the fl...</p></details>
    Published: May 2024  
 
@@ -998,53 +952,53 @@ That is especially true in Paraguay, where local reports can spread rapidly thro
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Location58. Palau, 2. Panama, 25. Papua New Guinea, 3. Paraguay... Dan on Foo Fighter Spotted in WWII Gun Camera Foota...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/tags/ufos?page=2](https://www.iflscience.com/tags/ufos?page=2)  
+   Link: <a href="https://www.iflscience.com/tags/ufos?page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/tags/ufos?page=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs News, ArticlesNews and articles on UFOs from IFLScience... A digitally edited photo showing a UFO flying over a field with a largel...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/paraguay-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/paraguay-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/paraguay-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/paraguay-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Read &amp; Report Paraguay UFO... Furthermore, the government has revealed that UFOs are real, now referring...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain](https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain)  
+   Link: <a href="https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO activity over the Puerto Rico was commonplace in 1952. Cases were being reported from one part of the...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: abc.com.py  
-   Link: [https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy](https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy)  
+   Link: <a href="https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC ColorPobladores de Tañarandy recuerdan 27 años del...Jul 28, 2025 — Pobladores de Tañarandy recuerdan 27 años del avistamiento de un...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
    Title: FOIA CASE LOG CALENDER YE[16111550]  
-   Link: [https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf](https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022/O8/23 CO6935701 Approved for ReleaseU.F.O SIGHTINGS, ALIEN ENCOUNTERS AND GOVERNMENT CONSPIRACYS. BRIEFING MEMO DATED NOVEMBER 12, 1...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-sitemap-news-7.xml](https://www.nasa.gov/wp-sitemap-news-7.xml)  
+   Link: <a href="https://www.nasa.gov/wp-sitemap-news-7.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-sitemap-news-7.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c&gt;&lt;lastmod&gt;2023-07-26T14:51:11-04:00...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_](https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_)  
+   Link: <a href="https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cases in Paraguay. What do you attribute this absence to...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: metabunk.org  
    Title: unexplained mysteries on google maps explained.3808  
-   Link: [https://www.metabunk.org/threads/unexplained-mysteries-on-google-maps-explained.3808/](https://www.metabunk.org/threads/unexplained-mysteries-on-google-maps-explained.3808/)  
+   Link: <a href="https://www.metabunk.org/threads/unexplained-mysteries-on-google-maps-explained.3808/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/unexplained-mysteries-on-google-maps-explained.3808/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luna Requests UAP Video, With a List of Names. Latest: MapperGuy; Yesterday at 4:12 PM. UFO Reports from the US...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: evrimagaci.org  
    Title: pentagon releases trove of ufo files to public 539494  
-   Link: [https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOopXx91BMdDGNKeZltLo5AHu68L5Ym9d7q_5_zpRb6nXf6xneKI-](https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOopXx91BMdDGNKeZltLo5AHu68L5Ym9d7q_5_zpRb6nXf6xneKI-)  
+   Link: <a href="https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOopXx91BMdDGNKeZltLo5AHu68L5Ym9d7q_5_zpRb6nXf6xneKI-" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOopXx91BMdDGNKeZltLo5AHu68L5Ym9d7q_5_zpRb6nXf6xneKI-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades of government records, videos, and eyewitness accounts on unidentified phenomena are now...Read more...</p></details>

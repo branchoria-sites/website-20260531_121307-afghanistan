@@ -239,7 +239,7 @@ next_link:
   permalink: /starship-case/
   short_title: Starship Case
   heading_title: The Rocket Mistaken for a UFO
-date: '2026-06-09 01:42:52 '
+date: '2026-06-10 02:10:25 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-1-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-1.webp
@@ -256,19 +256,19 @@ That overlap matters because some of the country’s most discussed sky mysterie
 
 ## Reported balls of fire across Trinidad
 
-The National UFO Reporting Center database contains several Trinidad and Tobago reports that use language strongly associated with meteor and fireball sightings. Rather than describing metallic craft, witnesses frequently mention glowing orange, red or fiery objects moving across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
+The National UFO Reporting Center database contains several Trinidad and Tobago reports that use language strongly associated with meteor and fireball sightings. Rather than describing metallic craft, witnesses frequently mention glowing orange, red or fiery objects moving across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
 
 One of the most cited examples is an August 2011 report from Arima describing “10 fireballs” flying in a straight line across Trinidad. The following year, a report from Arouca described “10 balls of fire floating slowly across the sky”, with the witness openly wondering whether the objects were a supernatural figure from local folklore or a UFO. A December 2012 report from Curepe described a red fireball-like object seen in the eastern sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Trinidad and Tobago</span><span class="citation-popover-snippet">Open, 08/06/2012 01:30, Arouca (Trinidad/Tobago), Trinidad and Tobago, Changing. Open, 05/23/2012 13:30, Tunapuna (Trinidad/Tobago), WI...</span></span></span>
 
 What makes these reports interesting is not that they prove something unknown was present, but that they reveal how witnesses interpret unusual lights. Most observers have little time to evaluate what they are seeing. A bright object moving against a dark Caribbean sky can appear larger, slower and closer than it really is. When the event lasts only a few seconds, memory often fills in missing details afterwards. That does not mean witnesses are dishonest. It means human perception is working under difficult conditions.
 
-The Curepe report illustrates the problem. The witness initially considered conventional explanations including a helicopter or remote-controlled aircraft before focusing on the object's unusual appearance. The account reflects the uncertainty that often exists during real-time observation rather than providing clear evidence for an exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
+The Curepe report illustrates the problem. The witness initially considered conventional explanations including a helicopter or remote-controlled aircraft before focusing on the object's unusual appearance. The account reflects the uncertainty that often exists during real-time observation rather than providing clear evidence for an exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
 
 ## Why Trinidad skies are good places to see fireballs
 
-Trinidad and Tobago sits in a region where bright meteors can be particularly noticeable. Large areas of sea horizon provide wide views of the sky, while tropical evenings often produce clear periods between cloud systems. When a meteor enters the atmosphere over the Caribbean, observers across multiple islands may see the same event simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">ARESMeteorite Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</span></span></span>
+Trinidad and Tobago sits in a region where bright meteors can be particularly noticeable. Large areas of sea horizon provide wide views of the sky, while tropical evenings often produce clear periods between cloud systems. When a meteor enters the atmosphere over the Caribbean, observers across multiple islands may see the same event simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">Meteorite Falls &#124; Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</span></span></span>
 
-A fireball is simply an exceptionally bright meteor. Most are produced when fragments of rock or metal from space strike Earth's atmosphere at high speed and burn through the air. NASA and meteor-monitoring organisations regularly document such events around the world, including major fireballs over Caribbean waters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">ARESMeteorite Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</span></span></span>
+A fireball is simply an exceptionally bright meteor. Most are produced when fragments of rock or metal from space strike Earth's atmosphere at high speed and burn through the air. NASA and meteor-monitoring organisations regularly document such events around the world, including major fireballs over Caribbean waters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">Meteorite Falls &#124; Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</span></span></span>
 
 Modern reporting networks show that Trinidad and Tobago experiences these events more frequently than many people realise. The American Meteor Society's databases contain recurring reports from Trinidad locations including Port of Spain, Tunapuna and Couva-Tabaquite-Talparo. Recent years have continued to produce documented observations from the country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&amp;event=&amp;event_id=&amp;event_year=&amp;num_report=&amp;num_report_select=-99&amp;year=2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">browse events</span><span class="citation-popover-snippet">Fireball eventsEvents found: 5 in 2025 in Trinidad and Tobago (TT); November; Event 8536-2025, 1, 2025-11-14 02:25 UT; Event 7926-2025...</span><span class="citation-popover-meta">Published: November 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&amp;event=&amp;event_id=&amp;event_year=&amp;num_report=&amp;num_report_select=-99&amp;year=2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">browse events</span><span class="citation-popover-snippet">Fireball events15 Nov 2024 — Events found: 1 in 2024 in Trinidad and Tobago (TT); November; Event 6951-2024, 1, 2024-11-15 23:33 UT...</span><span class="citation-popover-meta">Published: November 15, 2024</span></span></span>
 
@@ -283,9 +283,9 @@ The transformation from meteor to mystery often follows a predictable sequence.
 
 First, the object appears suddenly. Unlike planets or aircraft, meteors do not slowly announce their presence. They flash into view without warning and may vanish before observers can orient themselves.
 
-Second, witnesses struggle to estimate distance and speed. A meteor high in the atmosphere can appear surprisingly close. A bright fireball moving almost directly towards an observer may seem to hover rather than travel. In other cases, atmospheric perspective makes an object appear to move slowly even while travelling at enormous velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">ARESMeteorite Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</span></span></span>
+Second, witnesses struggle to estimate distance and speed. A meteor high in the atmosphere can appear surprisingly close. A bright fireball moving almost directly towards an observer may seem to hover rather than travel. In other cases, atmospheric perspective makes an object appear to move slowly even while travelling at enormous velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">Meteorite Falls &#124; Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</span></span></span>
 
-Third, discussion begins before identification. In Trinidad and Tobago, reports frequently spread through messaging groups, Facebook pages and local media. By the time explanations are proposed, the event may already have acquired a supernatural or extraterrestrial reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookWHAT many in Trinidad and Tobago believed was a...WHAT many in Trinidad and Tobago believed was a soucouyant (a fireball-like fi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/tntcrimewatch/posts/second-meteor-lights-up-tt-skies-in-less-than-a-weekresidents-across-trinidad-an/1605196890963215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Second meteor lights up T&amp;T skies in less than a week...Meteors, often referred to as “fireballs” when particularly bright, occur when s...</span></span></span>
+Third, discussion begins before identification. In Trinidad and Tobago, reports frequently spread through messaging groups, Facebook pages and local media. By the time explanations are proposed, the event may already have acquired a supernatural or extraterrestrial reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">WHAT many in Trinidad and Tobago believed was a...WHAT many in Trinidad and Tobago believed was a soucouyant (a fireball-like fi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/tntcrimewatch/posts/second-meteor-lights-up-tt-skies-in-less-than-a-weekresidents-across-trinidad-an/1605196890963215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Second meteor lights up T&amp;T skies in less than a week...Meteors, often referred to as “fireballs” when particularly bright, occur when s...</span></span></span>
 
 Several factors encourage this process:
 
@@ -306,11 +306,11 @@ The result is that a natural atmospheric event can become remembered as a UFO en
 <img src="{{ "/assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-2-dark.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The role of folklore and the soucouyant connection
 
-Trinidad's fireball stories cannot be understood without acknowledging local folklore. Several witness reports and social media discussions have directly referenced the soucouyant, a supernatural figure in Caribbean tradition often associated with a glowing or fiery form moving through the night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
+Trinidad's fireball stories cannot be understood without acknowledging local folklore. Several witness reports and social media discussions have directly referenced the soucouyant, a supernatural figure in Caribbean tradition often associated with a glowing or fiery form moving through the night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
 
 This does not mean witnesses literally believe every fireball is a folkloric being. Instead, the folklore provides a cultural framework for interpreting unusual sights. A witness who sees an orange sphere crossing the sky may reach for familiar explanations before considering meteor physics.
 
-The Arouca report from 2012 is notable because the witness explicitly framed the sighting as a choice between a folkloric explanation and a UFO explanation. That wording reveals how sky mysteries in Trinidad can exist at the intersection of astronomy, folklore and modern UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
+The Arouca report from 2012 is notable because the witness explicitly framed the sighting as a choice between a folkloric explanation and a UFO explanation. That wording reveals how sky mysteries in Trinidad can exist at the intersection of astronomy, folklore and modern UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
 
 The same pattern appears repeatedly in online reactions to later sightings, where comments often alternate between jokes about soucouyants, speculation about aliens and more conventional meteor explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">icially linked to a...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">nternationally have often been linked to rocket launches or space-...Read more...</span></span></span>
 
@@ -321,7 +321,7 @@ The same pattern appears repeatedly in online reactions to later sightings, wher
 
 An important complication is that not every fiery object is a meteor.
 
-Recent Caribbean sightings have demonstrated how rocket launches and spacecraft re-entries can produce spectacular glowing trails that observers mistake for UFOs. Several highly publicised sightings seen from Trinidad and Tobago were eventually connected to spaceflight activity rather than unknown craft. NUFORC's recent Trinidad and Tobago listings even include sightings later categorised as rocket-related events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
+Recent Caribbean sightings have demonstrated how rocket launches and spacecraft re-entries can produce spectacular glowing trails that observers mistake for UFOs. Several highly publicised sightings seen from Trinidad and Tobago were eventually connected to spaceflight activity rather than unknown craft. NUFORC's recent Trinidad and Tobago listings even include sightings later categorised as rocket-related events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</span><span class="citation-popover-meta">Published: December 2012</span></span></span>
 
 This creates a three-way problem for investigators:
 
@@ -357,86 +357,44 @@ The recurring pattern across Trinidad and Tobago is therefore less a story about
 <img src="{{ "/assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Are Trinidad Fireballs Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Are Trinidad Fireballs Really UFOs?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Explains how bright transient lights become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Directly addresses meteors and fireballs often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps identify celestial phenomena visible over Trinidad.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
-        
-        <p class="fr-book-desc">Provides methods for testing fireball and meteor explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -470,75 +428,71 @@ The recurring pattern across Trinidad and Tobago is therefore less a story about
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-are-trinidad-fireballs-really-ufos-trinidad-and-tobago-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -753,183 +707,183 @@ The recurring pattern across Trinidad and Tobago is therefore less a story about
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Trinidad and Tobago  
-   Link: [https://nuforc.org/subndx/?id=cTrinidad_and_Tobago](https://nuforc.org/subndx/?id=cTrinidad_and_Tobago)  
+   Link: <a href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTrinidad_and_Tobago</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open, 08/06/2012 01:30, Arouca (Trinidad/Tobago), Trinidad and Tobago, Changing. Open, 05/23/2012 13:30, Tunapuna (Trinidad/Tobago), WI...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fireball.amsmeteors.org  
    Title: browse events  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&event=&event_id=&event_year=&num_report=&num_report_select=-99&year=2025](https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&event=&event_id=&event_year=&num_report=&num_report_select=-99&year=2025)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&amp;event=&amp;event_id=&amp;event_year=&amp;num_report=&amp;num_report_select=-99&amp;year=2025" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&amp;event=&amp;event_id=&amp;event_year=&amp;num_report=&amp;num_report_select=-99&amp;year=2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball eventsEvents found: 5 in 2025 in Trinidad and Tobago (TT); November; Event 8536-2025, 1, 2025-11-14 02:25 UT; Event 7926-2025...</p></details>
    Published: November 14, 2025  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=95513](https://nuforc.org/sighting/?id=95513)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=95513</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 95513Fireball hovering over Curepe, Trinidad West Indies. On the 24th December 2012, I stepped out of my car to...</p></details>
    Published: December 2012  
 
 4. <a id="endnote-4"></a>
    Source: ares.jsc.nasa.gov  
-   Link: [https://ares.jsc.nasa.gov/meteorite-falls/events/](https://ares.jsc.nasa.gov/meteorite-falls/events/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ARESMeteorite Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</p></details>
+   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic booms. This is recorded a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: It's Fireball Season!  
-   Link: [https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/](https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/)  
+   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor Questions26 Mar 2026 — A very bright daytime fireball was observed by witnesses from the northeast U.S. and Canada...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fireball.amsmeteors.org  
    Title: browse events  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&event=&event_id=&event_year=&num_report=&num_report_select=-99&year=2024](https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&event=&event_id=&event_year=&num_report=&num_report_select=-99&year=2024)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&amp;event=&amp;event_id=&amp;event_year=&amp;num_report=&amp;num_report_select=-99&amp;year=2024" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_events?country=226%7CTrinidad+and+Tobago&amp;event=&amp;event_id=&amp;event_year=&amp;num_report=&amp;num_report_select=-99&amp;year=2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball events15 Nov 2024 — Events found: 1 in 2024 in Trinidad and Tobago (TT); November; Event 6951-2024, 1, 2024-11-15 23:33 UT...</p></details>
    Published: November 15, 2024  
 
 7. <a id="endnote-7"></a>
    Source: fireball.amsmeteors.org  
    Title: map country  
-   Link: [https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country](https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Map Stats224 countries / 420022 reports; Peru, 46; Kenya, 46; Trinidad and Tobago, 46; Albania, 44.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/](https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookWHAT many in Trinidad and Tobago believed was a...WHAT many in Trinidad and Tobago believed was a soucouyant (a fireball-like fi...</p></details>
+   Link: <a href="https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT many in Trinidad and Tobago believed was a...WHAT many in Trinidad and Tobago believed was a soucouyant (a fireball-like fi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tntcrimewatch/posts/second-meteor-lights-up-tt-skies-in-less-than-a-weekresidents-across-trinidad-an/1605196890963215/](https://www.facebook.com/tntcrimewatch/posts/second-meteor-lights-up-tt-skies-in-less-than-a-weekresidents-across-trinidad-an/1605196890963215/)  
+   Link: <a href="https://www.facebook.com/tntcrimewatch/posts/second-meteor-lights-up-tt-skies-in-less-than-a-weekresidents-across-trinidad-an/1605196890963215/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tntcrimewatch/posts/second-meteor-lights-up-tt-skies-in-less-than-a-weekresidents-across-trinidad-an/1605196890963215/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Second meteor lights up T&amp;T skies in less than a week...Meteors, often referred to as “fireballs” when particularly bright, occur when s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/](https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/)  
+   Link: <a href="https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>icially linked to a...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_reports](https://fireball.amsmeteors.org/members/imo_view/browse_reports)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 / 50 - Report a Fireball - American Meteor SocietyTrinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/](https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/)  
+   Link: <a href="https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nternationally have often been linked to rocket launches or space-...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jonathanmoratt/posts/-many-residents-across-trinidad-tobago-and-the-wider-caribbean-were-surprised-la/2037054683856603/](https://www.facebook.com/jonathanmoratt/posts/-many-residents-across-trinidad-tobago-and-the-wider-caribbean-were-surprised-la/2037054683856603/)  
+   Link: <a href="https://www.facebook.com/jonathanmoratt/posts/-many-residents-across-trinidad-tobago-and-the-wider-caribbean-were-surprised-la/2037054683856603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jonathanmoratt/posts/-many-residents-across-trinidad-tobago-and-the-wider-caribbean-were-surprised-la/2037054683856603/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jonathan MoraThe launch was visible across parts of the Caribbean because the rocket travelled at an extremely high altitude after liftof...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: 8:03 PM  
-   Link: [https://www.facebook.com/TTWeatherCenter/posts/803-pm-a-meteor-was-spotted-across-trinidad-with-a-bright-greenaqua-glowdid-you-/645325644450860/](https://www.facebook.com/TTWeatherCenter/posts/803-pm-a-meteor-was-spotted-across-trinidad-with-a-bright-greenaqua-glowdid-you-/645325644450860/)  
+   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/803-pm-a-meteor-was-spotted-across-trinidad-with-a-bright-greenaqua-glowdid-you-/645325644450860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/803-pm-a-meteor-was-spotted-across-trinidad-with-a-bright-greenaqua-glowdid-you-/645325644450860/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor was spotted across Trinidad...8:03 PM - A meteor was spotted across Trinidad, with a bright green/aqua glow. Did you see it? Th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: Strange Object spotted in sky!!  
-   Link: [https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/](https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/)  
+   Link: <a href="https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you see it? Where?Because of its massive size and the path it takes to get into orbit, it flies directly southeast across the Caribbe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/](https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/)  
+   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trinidad and Tobago Weather CenterView of the meteor from Trinidad that has been spotted across Trinidad and Tobago, Grenada, St. Vincent...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — The American Meteor Society&#x27;s fireball reporting database reported 1,587 report...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ttweathercenter.com  
-   Link: [https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/](https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/)  
+   Link: <a href="https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitnesses reported that it moved west across the sky, with a yellow-orange...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ttweathercenter.com  
    Title: second meteor spotted in tts skies in a week  
-   Link: [https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/](https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/)  
+   Link: <a href="https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trinidad and Tobago Weather CenterSecond Meteor Spotted In T&amp;T&#x27;s Skies In A Week25 Mar 2026 — While we&#x27;ve received only two meteor sighti...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scistarter.org  
    Title: Sci Starter American Meteor Society  
-   Link: [https://scistarter.org/american-meteor-society-meteor-observing](https://scistarter.org/american-meteor-society-meteor-observing)  
+   Link: <a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society - Meteor observingJoin the American Meteor Society community and contribute valuable and precise data relating to...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYtzHjegSsn/](https://www.instagram.com/reel/DYtzHjegSsn/)  
+   Link: <a href="https://www.instagram.com/reel/DYtzHjegSsn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYtzHjegSsn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sky over Trinidad and Tobago have been officially linked to a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: foxweather.com  
-   Link: [https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq](https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq)  
+   Link: <a href="https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See it: SpaceX test flight seen from Caribbean6 days ago — Residents of Trinidad and Tobago got to witness a SpaceX Starship flying throu...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: ukfall.org.uk  
-   Link: [https://ukfall.org.uk/](https://ukfall.org.uk/)  
+   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceIf you think that you have found a meteorite on the ground after reports of a large fireball over the UK please r...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYrcOwjE__I/](https://www.instagram.com/reel/DYrcOwjE__I/)  
+   Link: <a href="https://www.instagram.com/reel/DYrcOwjE__I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYrcOwjE__I/</a>  
 
 26. <a id="endnote-26"></a>
    Source: openaccessgovernment.org  
-   Link: [https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/](https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/)  
+   Link: <a href="https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/" target="_blank" rel="noopener noreferrer nofollow">https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining a meteor fireball: Research challenges claims...8 Mar 2024 — “Whatever was found on the sea floor is totally unrelated to this...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JK7OwPYYQbg](https://www.youtube.com/watch?v=JK7OwPYYQbg)  
+   Link: <a href="https://www.youtube.com/watch?v=JK7OwPYYQbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JK7OwPYYQbg</a>  
 
 28. <a id="endnote-28"></a>
    Source: rfo.org  
-   Link: [https://rfo.org/index.php/report-a-fireball/](https://rfo.org/index.php/report-a-fireball/)  
+   Link: <a href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://rfo.org/index.php/report-a-fireball/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rroundings, the fireball behavior, and...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VZw08so_Gwo](https://www.youtube.com/watch?v=VZw08so_Gwo)  
+   Link: <a href="https://www.youtube.com/watch?v=VZw08so_Gwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZw08so_Gwo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Fireballs Spotted From Space Explained | WION Podcast...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: popastro.com  
    Title: 2012 sep 21 fireball  
-   Link: [https://www.popastro.com/meteor/2017/11/24/2012-sep-21-fireball/](https://www.popastro.com/meteor/2017/11/24/2012-sep-21-fireball/)  
+   Link: <a href="https://www.popastro.com/meteor/2017/11/24/2012-sep-21-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2017/11/24/2012-sep-21-fireball/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Section24 Nov 2017 — This spectacular, long duration, slow moving fireball was visible over much of the UK (and further afield) sh...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Mystery Fireballs Spotted From Space Explained | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=KKhPgJLeDjo](https://www.youtube.com/watch?v=KKhPgJLeDjo)  
+   Link: <a href="https://www.youtube.com/watch?v=KKhPgJLeDjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKhPgJLeDjo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRINI sees UFO Aliens Trinidad and Tobago JBManCave.com...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: fireball.imo.net  
    Title: browse reports  
-   Link: [https://fireball.imo.net/members/imo_view/browse_reports](https://fireball.imo.net/members/imo_view/browse_reports)  
+   Link: <a href="https://fireball.imo.net/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>found: 2002 in the last 30 days Page 1 / 41Reports found: 2002 in the last 30 days Page 1 / 41. ID, UT Date &amp; Time, Local Date &amp; Time, Co...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: fireball.imo.net  
    Title: browse events  
-   Link: [https://fireball.imo.net/members/imo_view/browse_events](https://fireball.imo.net/members/imo_view/browse_events)  
+   Link: <a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>found: 443 in 2026 with at least 5 reports Page 1 / 9; May; Event 3796-2026, 8, 2026-05-28 01:52 UT; Event 3797-2026, 82, 2026-05-27 0...</p></details>
    Published: May 28, 2026  

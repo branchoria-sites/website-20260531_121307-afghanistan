@@ -1185,7 +1185,7 @@ next_link:
   title: Portugal UFOs
   permalink: /portugals-ufo-files-mystery-memory-and/
   short_title: Portugal UFOs
-date: '2026-06-09 01:37:19 '
+date: '2026-06-10 02:03:57 '
 header:
   og_image: /assets/images/Philippines_806736-overview-social.jpg
   preview_image: /assets/images/Philippines_806736-overview.webp
@@ -1222,9 +1222,9 @@ That absence shapes how old and new cases should be read. A Philippine UFO claim
 <img src="{{ "/assets/images/Philippines_806736-Illustration-1-dark.svg" | relative_url }}" alt="Philippines illustration 1" data-theme-src-dark="{{ "/assets/images/Philippines_806736-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Philippines_806736-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Las Piñas cluster: the country’s best-known local UFO storyline
 
-The most frequently repeated Philippine UFO chronology centres on Las Piñas in Metro Manila, especially alleged sightings in 1993, 2000, and 2004. The 2000 case is the anchor. Antonio “Tony” Israel, described in later reports as a local businessman or web consultant, claimed to have recorded small balls of light moving unusually in the evening sky over Carmela Homes IV in Las Piñas on 3 September 2000. Retellings say neighbours were present and that the lights were also reportedly seen from nearby areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines | Cryptid Wiki</span></span></span>
+The most frequently repeated Philippine UFO chronology centres on Las Piñas in Metro Manila, especially alleged sightings in 1993, 2000, and 2004. The 2000 case is the anchor. Antonio “Tony” Israel, described in later reports as a local businessman or web consultant, claimed to have recorded small balls of light moving unusually in the evening sky over Carmela Homes IV in Las Piñas on 3 September 2000. Retellings say neighbours were present and that the lights were also reportedly seen from nearby areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines &#124; Cryptid Wiki</span></span></span>
 
-The 2004 Las Piñas case is often treated as a sequel. Accounts describe more than ten reddish lights seen on 28 August 2004, first noticed by children in Pamplona, Las Piñas, with Israel later filming several objects as they appeared at intervals. The story’s evidential interest is not that it proves anything extraordinary, but that witnesses were explicitly aware of earlier criticism: retellings say Israel tried to pan the camera to include reference points because his earlier footage had been criticised for lacking scale and distance cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines | Cryptid Wiki</span></span></span>
+The 2004 Las Piñas case is often treated as a sequel. Accounts describe more than ten reddish lights seen on 28 August 2004, first noticed by children in Pamplona, Las Piñas, with Israel later filming several objects as they appeared at intervals. The story’s evidential interest is not that it proves anything extraordinary, but that witnesses were explicitly aware of earlier criticism: retellings say Israel tried to pan the camera to include reference points because his earlier footage had been criticised for lacking scale and distance cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines &#124; Cryptid Wiki</span></span></span>
 
 That detail is useful for readers because it shows the central problem in many UFO videos. A light against a dark sky is hard to interpret without reference points. A camera can make a distant aircraft, lantern, drone, planet, star, or atmospheric reflection seem stranger than it looked to the eye. Panning helps, but it does not by itself establish altitude, distance, size, or speed unless the object can be triangulated or compared with known objects.
 
@@ -1265,7 +1265,7 @@ The Philippines is an archipelago, and that geography affects UFO reporting. Sig
 
 Several patterns stand out from the public record:
 
-**Metro Manila and nearby provinces generate repeat stories.** Las Piñas, Manila, Caloocan, Rizal, and Calabarzon appear in local lore, NUFORC entries, or social-media reports. This is not surprising: high population density increases witnesses, while heavy air traffic, drones, lights, advertising, and reflections increase possible misidentifications. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[3cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines | Cryptid Wiki</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=159385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Metro Manila and nearby provinces generate repeat stories.** Las Piñas, Manila, Caloocan, Rizal, and Calabarzon appear in local lore, NUFORC entries, or social-media reports. This is not surprising: high population density increases witnesses, while heavy air traffic, drones, lights, advertising, and reflections increase possible misidentifications. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[3cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines &#124; Cryptid Wiki</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=159385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Central Luzon has a distinctive “lights in formation” theme.** Pampanga’s 2015 reports and older references to Angeles and Mabalacat fit the pattern of luminous displays rather than close structured craft. The region’s roads, aviation associations, and open viewing conditions make it a natural place for widely shared sky videos. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inquisitr.com/dancing-light-ufo-seen-over-pampanga-philippines-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquisitr.com">[Inquisitr News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquisitr.com</span><span class="citation-popover-title">News&#x27;Dancing Light&#x27; UFO Seen Over Pampanga, Philippines [Video</span><span class="citation-popover-snippet">News&#x27;Dancing Light&#x27; UFO Seen Over Pampanga, Philippines [Video</span></span></span>
 
@@ -1286,11 +1286,11 @@ Philippine UFO material is easiest to understand if sorted by evidence quality r
 
 **Plausibly explained but not fully documented in public.** Pampanga 2015 fits this category. Drone explanations from astronomy and police voices are plausible, especially for manoeuvring lights lasting several minutes, but the public record does not appear to contain a full technical closure identifying the exact drone operator or equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inquisitr.com/dancing-light-ufo-seen-over-pampanga-philippines-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquisitr.com">[Inquisitr News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquisitr.com</span><span class="citation-popover-title">News&#x27;Dancing Light&#x27; UFO Seen Over Pampanga, Philippines [Video</span><span class="citation-popover-snippet">News&#x27;Dancing Light&#x27; UFO Seen Over Pampanga, Philippines [Video</span></span></span>
 
-**Contested historical-media cases.** Las Piñas 2000 and 2004 remain culturally important but evidentially limited. They have named witnesses, video claims, and repeated coverage, but the publicly accessible record is mostly secondary retellings, archived articles, and enthusiast summaries rather than a complete official case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines | Cryptid Wiki</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonyisrael.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonyisrael.wordpress.com">[2tonyisrael.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonyisrael.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested historical-media cases.** Las Piñas 2000 and 2004 remain culturally important but evidentially limited. They have named witnesses, video claims, and repeated coverage, but the publicly accessible record is mostly secondary retellings, archived articles, and enthusiast summaries rather than a complete official case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines &#124; Cryptid Wiki</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonyisrael.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonyisrael.wordpress.com">[2tonyisrael.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonyisrael.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Database-only claims.** NUFORC records are useful for discovery but not verification. For example, its Philippines entries include a 1972 Clark Air Base sphere report, a 2002 Manila triangle report, a 2007 Cagayan de Oro light report, and more recent reports from Calabarzon and Davao. These entries preserve witness narratives, dates, and locations, but they are self-reported and usually lack official corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=134345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Weak or folklore-like claims.** Social-media posts, paranormal listicles, deleted-wiki mirrors, and unattributed compilations can be useful leads, but they should not carry the same weight as agency advisories, original records, or contemporaneous reporting. Some Philippine UFO lists repeat the same few cases without adding fresh evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines | Cryptid Wiki</span></span></span>
+**Weak or folklore-like claims.** Social-media posts, paranormal listicles, deleted-wiki mirrors, and unattributed compilations can be useful leads, but they should not carry the same weight as agency advisories, original records, or contemporaneous reporting. Some Philippine UFO lists repeat the same few cases without adding fresh evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines &#124; Cryptid Wiki</span></span></span>
 
 
 <img src="{{ "/assets/images/Philippines_806736-Illustration-3-dark.svg" | relative_url }}" alt="Philippines illustration 3" data-theme-src-dark="{{ "/assets/images/Philippines_806736-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Philippines_806736-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1302,7 +1302,7 @@ Was the time precise? A report tied to an exact minute can be checked against ro
 
 Was the location precise? “Seen over the Philippines” is weak. “Seen from Lubao Diversion Road looking west at 7:40 p.m.” is more useful. Precise location allows direction checks, possible line-of-sight analysis, and comparison with other witnesses.
 
-Are there reference points? A light in a black sky is poor evidence. A video with rooftops, horizon, direction, panning, and stable framing is better. The Las Piñas retellings are interesting partly because witnesses reportedly understood this problem after criticism of earlier footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines | Cryptid Wiki</span></span></span>
+Are there reference points? A light in a black sky is poor evidence. A video with rooftops, horizon, direction, panning, and stable framing is better. The Las Piñas retellings are interesting partly because witnesses reportedly understood this problem after criticism of earlier footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Alien Sightings of the Philippines &#124; Cryptid Wiki</span></span></span>
 
 Could it be a known sky event? PAGASA’s astronomical diary lists meteor showers, conjunctions, and other events visible from the Philippines. PhilSA tracks rocket launches, re-entries, and debris risks. Those checks should happen before exotic explanations are considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagasa.dost.gov.ph">[PAGASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagasa.dost.gov.ph</span><span class="citation-popover-title">PAGASAAstronomical Diary</span><span class="citation-popover-snippet">PAGASAAstronomical Diary</span></span></span>
 
@@ -1322,86 +1322,44 @@ That makes the Philippines especially relevant to neighbouring Southeast Asian a
 The strongest conclusion is modest but useful: Philippine UFO reports are real as reports, uneven as evidence, and often explainable when time, location, and technical context are available. The most credible modern Philippine cases are not the most mysterious ones; they are the ones where official space and astronomy sources show how quickly a spectacular “unknown” can become an identified meteor, rocket plume, drone-like light, or debris event.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Philippine UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Philippine UFO Reports Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores reported sightings, investigations and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a national overview of UFO reports and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding folklore-like and recurring UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Explains how modern UFO narratives spread and evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1435,75 +1393,71 @@ The strongest conclusion is modest but useful: Philippine UFO reports are real a
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philippines-what-do-philippine-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1718,336 +1672,336 @@ The strongest conclusion is modest but useful: Philippine UFO reports are real a
 1. <a id="endnote-1"></a>
    Source: philsa.gov.ph  
    Title: philippine space act  
-   Link: [https://philsa.gov.ph/philippine-space-act/](https://philsa.gov.ph/philippine-space-act/)  
+   Link: <a href="https://philsa.gov.ph/philippine-space-act/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/philippine-space-act/</a>  
 
 2. <a id="endnote-2"></a>
    Source: philsa.gov.ph  
    Title: Philippine Space Agency (Phil SA)Mandate  
-   Link: [https://philsa.gov.ph/philsa-mandate/](https://philsa.gov.ph/philsa-mandate/)  
+   Link: <a href="https://philsa.gov.ph/philsa-mandate/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/philsa-mandate/</a>  
 
 3. <a id="endnote-3"></a>
    Source: pagasa.dost.gov.ph  
    Title: PAGASAAstronomical Observatory  
-   Link: [https://www.pagasa.dost.gov.ph/astronomy](https://www.pagasa.dost.gov.ph/astronomy)  
+   Link: <a href="https://www.pagasa.dost.gov.ph/astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pagasa.dost.gov.ph/astronomy</a>  
 
 4. <a id="endnote-4"></a>
    Source: pagasa.dost.gov.ph  
    Title: PAGASAAstronomical Diary  
-   Link: [https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary](https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary)  
+   Link: <a href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow">https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=24794](https://nuforc.org/sighting/?id=24794)  
+   Link: <a href="https://nuforc.org/sighting/?id=24794" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24794</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=56631](https://nuforc.org/sighting/?id=56631)  
+   Link: <a href="https://nuforc.org/sighting/?id=56631" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56631</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=159385](https://nuforc.org/sighting/?id=159385)  
+   Link: <a href="https://nuforc.org/sighting/?id=159385" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=159385</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=146694](https://nuforc.org/sighting/?id=146694)  
+   Link: <a href="https://nuforc.org/sighting/?id=146694" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=146694</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183667](https://nuforc.org/sighting/?id=183667)  
+   Link: <a href="https://nuforc.org/sighting/?id=183667" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183667</a>  
 
 11. <a id="endnote-11"></a>
    Source: philsa.gov.ph  
    Title: advisory on space jellyfish sighting on may 12  
-   Link: [https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/](https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/</a>  
 
 12. <a id="endnote-12"></a>
    Source: philsa.gov.ph  
-   Link: [https://philsa.gov.ph/news/advisory-on-the-long-march-7-rocket-launch-3/](https://philsa.gov.ph/news/advisory-on-the-long-march-7-rocket-launch-3/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-the-long-march-7-rocket-launch-3/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-the-long-march-7-rocket-launch-3/</a>  
 
 13. <a id="endnote-13"></a>
    Source: foi.gov.ph  
-   Link: [https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/](https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/)  
+   Link: <a href="https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/" target="_blank" rel="noopener noreferrer nofollow">https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ALL Documented UFO sightings in the Philippines...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: newsinfo.inquirer.net  
    Title: no recorded ufo sightings in ph says philsa  
-   Link: [https://newsinfo.inquirer.net/1691904/no-recorded-ufo-sightings-in-ph-says-philsa](https://newsinfo.inquirer.net/1691904/no-recorded-ufo-sightings-in-ph-says-philsa)  
+   Link: <a href="https://newsinfo.inquirer.net/1691904/no-recorded-ufo-sightings-in-ph-says-philsa" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1691904/no-recorded-ufo-sightings-in-ph-says-philsa</a>  
 
 15. <a id="endnote-15"></a>
    Source: cryptidz.fandom.com  
    Title: Alien Sightings of the Philippines | Cryptid Wiki  
-   Link: [https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines](https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines</a>  
 
 16. <a id="endnote-16"></a>
    Source: tonyisrael.wordpress.com  
-   Link: [https://tonyisrael.wordpress.com/tag/ufo/](https://tonyisrael.wordpress.com/tag/ufo/)  
+   Link: <a href="https://tonyisrael.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://tonyisrael.wordpress.com/tag/ufo/</a>  
 
 17. <a id="endnote-17"></a>
    Source: thesmartlocal.ph  
    Title: The Smart Local PH7 Unexplainable Paranormal Tales In The Philippines  
-   Link: [https://thesmartlocal.ph/paranormal-tales/](https://thesmartlocal.ph/paranormal-tales/)  
+   Link: <a href="https://thesmartlocal.ph/paranormal-tales/" target="_blank" rel="noopener noreferrer nofollow">https://thesmartlocal.ph/paranormal-tales/</a>  
 
 18. <a id="endnote-18"></a>
    Source: inquisitr.com  
    Title: News'Dancing Light' UFO Seen Over Pampanga, Philippines [Video]  
-   Link: [https://www.inquisitr.com/dancing-light-ufo-seen-over-pampanga-philippines-video/](https://www.inquisitr.com/dancing-light-ufo-seen-over-pampanga-philippines-video/)  
+   Link: <a href="https://www.inquisitr.com/dancing-light-ufo-seen-over-pampanga-philippines-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/dancing-light-ufo-seen-over-pampanga-philippines-video/</a>  
 
 19. <a id="endnote-19"></a>
    Source: philsa.gov.ph  
    Title: advisory on space jellyfish sighting on 11 april 2026  
-   Link: [https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-11-april-2026/](https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-11-april-2026/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-11-april-2026/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-11-april-2026/</a>  
    Published: april 2026  
 
 20. <a id="endnote-20"></a>
    Source: philsa.gov.ph  
-   Link: [https://philsa.gov.ph/news/advisory-on-the-may-25-meteor-sighting-over-mayon-volcano/](https://philsa.gov.ph/news/advisory-on-the-may-25-meteor-sighting-over-mayon-volcano/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-the-may-25-meteor-sighting-over-mayon-volcano/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-the-may-25-meteor-sighting-over-mayon-volcano/</a>  
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/](https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=134345](https://nuforc.org/sighting/?id=134345)  
+   Link: <a href="https://nuforc.org/sighting/?id=134345" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=134345</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=184926](https://nuforc.org/sighting/?id=184926)  
+   Link: <a href="https://nuforc.org/sighting/?id=184926" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184926</a>  
 
 24. <a id="endnote-24"></a>
    Source: philsa.gov.ph  
    Title: advisory on the long march 8a rocket launch 5  
-   Link: [https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-5/](https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-5/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-5/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-5/</a>  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/](https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/)  
+   Link: <a href="https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Philippines/comments/nfwviz/ufo_sightings_in_the_country/](https://www.reddit.com/r/Philippines/comments/nfwviz/ufo_sightings_in_the_country/)  
+   Link: <a href="https://www.reddit.com/r/Philippines/comments/nfwviz/ufo_sightings_in_the_country/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Philippines/comments/nfwviz/ufo_sightings_in_the_country/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/](https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/</a>  
 
 28. <a id="endnote-28"></a>
    Source: philsa.gov.ph  
-   Link: [https://philsa.gov.ph/news/statement-on-the-sighting-of-falling-objects-over-northern-samar-and-zamboanga-sibugay/](https://philsa.gov.ph/news/statement-on-the-sighting-of-falling-objects-over-northern-samar-and-zamboanga-sibugay/)  
+   Link: <a href="https://philsa.gov.ph/news/statement-on-the-sighting-of-falling-objects-over-northern-samar-and-zamboanga-sibugay/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/statement-on-the-sighting-of-falling-objects-over-northern-samar-and-zamboanga-sibugay/</a>  
 
 29. <a id="endnote-29"></a>
    Source: philsa.gov.ph  
    Title: Yamang Kalawakan Poster Making Contest  
-   Link: [https://philsa.gov.ph/rl_gallery/yamangkalawakan-poster-making-contest-top-20/](https://philsa.gov.ph/rl_gallery/yamangkalawakan-poster-making-contest-top-20/)  
+   Link: <a href="https://philsa.gov.ph/rl_gallery/yamangkalawakan-poster-making-contest-top-20/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/rl_gallery/yamangkalawakan-poster-making-contest-top-20/</a>  
 
 30. <a id="endnote-30"></a>
    Source: philsa.gov.ph  
    Title: advisory on the long march 12 rocket launch 2  
-   Link: [https://philsa.gov.ph/news/advisory-on-the-long-march-12-rocket-launch-2/](https://philsa.gov.ph/news/advisory-on-the-long-march-12-rocket-launch-2/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-the-long-march-12-rocket-launch-2/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-the-long-march-12-rocket-launch-2/</a>  
 
 31. <a id="endnote-31"></a>
    Source: philsa.gov.ph  
-   Link: [https://philsa.gov.ph/](https://philsa.gov.ph/)  
+   Link: <a href="https://philsa.gov.ph/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/</a>  
 
 32. <a id="endnote-32"></a>
    Source: philsa.gov.ph  
-   Link: [https://philsa.gov.ph/news/](https://philsa.gov.ph/news/)  
+   Link: <a href="https://philsa.gov.ph/news/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/</a>  
 
 33. <a id="endnote-33"></a>
    Source: philsa.gov.ph  
    Title: Press Releases  
-   Link: [https://philsa.gov.ph/press-releases/](https://philsa.gov.ph/press-releases/)  
+   Link: <a href="https://philsa.gov.ph/press-releases/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/press-releases/</a>  
 
 34. <a id="endnote-34"></a>
    Source: philsa.gov.ph  
-   Link: [https://philsa.gov.ph/books/compendium/](https://philsa.gov.ph/books/compendium/)  
+   Link: <a href="https://philsa.gov.ph/books/compendium/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/books/compendium/</a>  
 
 35. <a id="endnote-35"></a>
    Source: philsa.gov.ph  
    Title: public advisory on the re entry of long march 5b debris  
-   Link: [https://philsa.gov.ph/news/public-advisory-on-the-re-entry-of-long-march-5b-debris/](https://philsa.gov.ph/news/public-advisory-on-the-re-entry-of-long-march-5b-debris/)  
+   Link: <a href="https://philsa.gov.ph/news/public-advisory-on-the-re-entry-of-long-march-5b-debris/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/public-advisory-on-the-re-entry-of-long-march-5b-debris/</a>  
 
 36. <a id="endnote-36"></a>
    Source: philsa.gov.ph  
    Title: advisory on the long march 3b rocket launch  
-   Link: [https://philsa.gov.ph/news/advisory-on-the-long-march-3b-rocket-launch/](https://philsa.gov.ph/news/advisory-on-the-long-march-3b-rocket-launch/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-the-long-march-3b-rocket-launch/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-the-long-march-3b-rocket-launch/</a>  
 
 37. <a id="endnote-37"></a>
    Source: philsa.gov.ph  
    Title: implementing rules and regulations  
-   Link: [https://philsa.gov.ph/implementing-rules-and-regulations/](https://philsa.gov.ph/implementing-rules-and-regulations/)  
+   Link: <a href="https://philsa.gov.ph/implementing-rules-and-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/implementing-rules-and-regulations/</a>  
 
 38. <a id="endnote-38"></a>
    Source: indocropcircles.wordpress.com  
    Title: ufo di pampanga filipina  
-   Link: [https://indocropcircles.wordpress.com/tag/ufo-di-pampanga-filipina/](https://indocropcircles.wordpress.com/tag/ufo-di-pampanga-filipina/)  
+   Link: <a href="https://indocropcircles.wordpress.com/tag/ufo-di-pampanga-filipina/" target="_blank" rel="noopener noreferrer nofollow">https://indocropcircles.wordpress.com/tag/ufo-di-pampanga-filipina/</a>  
 
 39. <a id="endnote-39"></a>
    Source: indocropcircles.wordpress.com  
-   Link: [https://indocropcircles.wordpress.com/2015/06/page/2/](https://indocropcircles.wordpress.com/2015/06/page/2/)  
+   Link: <a href="https://indocropcircles.wordpress.com/2015/06/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://indocropcircles.wordpress.com/2015/06/page/2/</a>  
 
 40. <a id="endnote-40"></a>
    Source: indocropcircles.wordpress.com  
-   Link: [https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/6/](https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/6/)  
+   Link: <a href="https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/6/</a>  
 
 41. <a id="endnote-41"></a>
    Source: globalnation.inquirer.net  
    Title: ufo files shed light on sightings but leave interpretation to the public  
-   Link: [https://globalnation.inquirer.net/322248/ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public](https://globalnation.inquirer.net/322248/ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public)  
+   Link: <a href="https://globalnation.inquirer.net/322248/ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public" target="_blank" rel="noopener noreferrer nofollow">https://globalnation.inquirer.net/322248/ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public</a>  
 
 42. <a id="endnote-42"></a>
    Source: newsinfo.inquirer.net  
    Title: makati begins early distribution of christmas gift bags amid inflation  
-   Link: [https://newsinfo.inquirer.net/1691865/makati-begins-early-distribution-of-christmas-gift-bags-amid-inflation](https://newsinfo.inquirer.net/1691865/makati-begins-early-distribution-of-christmas-gift-bags-amid-inflation)  
+   Link: <a href="https://newsinfo.inquirer.net/1691865/makati-begins-early-distribution-of-christmas-gift-bags-amid-inflation" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1691865/makati-begins-early-distribution-of-christmas-gift-bags-amid-inflation</a>  
 
 43. <a id="endnote-43"></a>
    Source: newsinfo.inquirer.net  
    Title: no traslacion in 2023 says quiapo church priest  
-   Link: [https://newsinfo.inquirer.net/1691915/no-traslacion-in-2023-says-quiapo-church-priest](https://newsinfo.inquirer.net/1691915/no-traslacion-in-2023-says-quiapo-church-priest)  
+   Link: <a href="https://newsinfo.inquirer.net/1691915/no-traslacion-in-2023-says-quiapo-church-priest" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1691915/no-traslacion-in-2023-says-quiapo-church-priest</a>  
 
 44. <a id="endnote-44"></a>
    Source: inquirer.net  
    Title: article index  
-   Link: [https://www.inquirer.net/article-index?d=2022-11-11](https://www.inquirer.net/article-index?d=2022-11-11)  
+   Link: <a href="https://www.inquirer.net/article-index?d=2022-11-11" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirer.net/article-index?d=2022-11-11</a>  
 
 45. <a id="endnote-45"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197002](https://nuforc.org/sighting/?id=197002)  
+   Link: <a href="https://nuforc.org/sighting/?id=197002" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197002</a>  
 
 46. <a id="endnote-46"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=128320](https://nuforc.org/sighting/?id=128320)  
+   Link: <a href="https://nuforc.org/sighting/?id=128320" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128320</a>  
 
 47. <a id="endnote-47"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200206](https://nuforc.org/subndx/?id=e200206)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200206" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200206</a>  
 
 48. <a id="endnote-48"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195957](https://nuforc.org/sighting/?id=195957)  
+   Link: <a href="https://nuforc.org/sighting/?id=195957" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195957</a>  
 
 49. <a id="endnote-49"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190787](https://nuforc.org/sighting/?id=190787)  
+   Link: <a href="https://nuforc.org/sighting/?id=190787" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190787</a>  
 
 50. <a id="endnote-50"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/gallery/](https://nuforc.org/gallery/)  
+   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
 51. <a id="endnote-51"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=78352](https://nuforc.org/sighting/?id=78352)  
+   Link: <a href="https://nuforc.org/sighting/?id=78352" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=78352</a>  
 
 52. <a id="endnote-52"></a>
    Source: foi.gov.ph  
    Title: all documented ufo sightings in the philippines dost 100326867234  
-   Link: [https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines-dost-100326867234/](https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines-dost-100326867234/)  
+   Link: <a href="https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines-dost-100326867234/" target="_blank" rel="noopener noreferrer nofollow">https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines-dost-100326867234/</a>  
 
 53. <a id="endnote-53"></a>
    Source: pagasa.dost.gov.ph  
-   Link: [https://pagasa.dost.gov.ph/news-and-events/photo-gallery/79](https://pagasa.dost.gov.ph/news-and-events/photo-gallery/79)  
+   Link: <a href="https://pagasa.dost.gov.ph/news-and-events/photo-gallery/79" target="_blank" rel="noopener noreferrer nofollow">https://pagasa.dost.gov.ph/news-and-events/photo-gallery/79</a>  
 
 54. <a id="endnote-54"></a>
    Source: asti.dost.gov.ph  
    Title: philippine space agency signed into law  
-   Link: [https://asti.dost.gov.ph/news-articles/philippine-space-agency-signed-into-law/](https://asti.dost.gov.ph/news-articles/philippine-space-agency-signed-into-law/)  
+   Link: <a href="https://asti.dost.gov.ph/news-articles/philippine-space-agency-signed-into-law/" target="_blank" rel="noopener noreferrer nofollow">https://asti.dost.gov.ph/news-articles/philippine-space-agency-signed-into-law/</a>  
 
 55. <a id="endnote-55"></a>
    Source: pagasa.dost.gov.ph  
-   Link: [https://www.pagasa.dost.gov.ph/](https://www.pagasa.dost.gov.ph/)  
+   Link: <a href="https://www.pagasa.dost.gov.ph/" target="_blank" rel="noopener noreferrer nofollow">https://www.pagasa.dost.gov.ph/</a>  
 
 56. <a id="endnote-56"></a>
    Source: legacy.senate.gov.ph  
    Title: IB RA 11363 PhilSA  
-   Link: [https://legacy.senate.gov.ph/publications/ELLS/IB%20RA%2011363%20PhilSA.pdf](https://legacy.senate.gov.ph/publications/ELLS/IB%20RA%2011363%20PhilSA.pdf)  
+   Link: <a href="https://legacy.senate.gov.ph/publications/ELLS/IB%20RA%2011363%20PhilSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legacy.senate.gov.ph/publications/ELLS/IB%20RA%2011363%20PhilSA.pdf</a>  
 
 57. <a id="endnote-57"></a>
    Source: elibrary.judiciary.gov.ph  
-   Link: [https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/99835](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/99835)  
+   Link: <a href="https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/99835" target="_blank" rel="noopener noreferrer nofollow">https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/99835</a>  
 
 58. <a id="endnote-58"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines](https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines)  
+   Link: <a href="https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Mayon, located in Albay, Luzon, has been erupting since early January. Had the meteor impacted the volcano, scientists estimated it...</p></details>
 
 59. <a id="endnote-59"></a>
    Source: thesun.ie  
    Title: asteroid fireball sky philippines nasa video  
-   Link: [https://www.thesun.ie/tech/13755596/asteroid-fireball-sky-philippines-nasa-video/](https://www.thesun.ie/tech/13755596/asteroid-fireball-sky-philippines-nasa-video/)  
+   Link: <a href="https://www.thesun.ie/tech/13755596/asteroid-fireball-sky-philippines-nasa-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/tech/13755596/asteroid-fireball-sky-philippines-nasa-video/</a>  
 
 60. <a id="endnote-60"></a>
    Source: Wikipedia  
    Title: Philippine Space Agency  
-   Link: [https://en.wikipedia.org/wiki/Philippine_Space_Agency](https://en.wikipedia.org/wiki/Philippine_Space_Agency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Philippine_Space_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philippine_Space_Agency</a>  
 
 61. <a id="endnote-61"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YCvPg5qgl-Q](https://www.youtube.com/watch?v=YCvPg5qgl-Q)  
+   Link: <a href="https://www.youtube.com/watch?v=YCvPg5qgl-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YCvPg5qgl-Q</a>  
 
 62. <a id="endnote-62"></a>
    Source: philmuseum.ueuo.com  
-   Link: [https://philmuseum.ueuo.com/nm_museum/nmdivision/planet.html](https://philmuseum.ueuo.com/nm_museum/nmdivision/planet.html)  
+   Link: <a href="https://philmuseum.ueuo.com/nm_museum/nmdivision/planet.html" target="_blank" rel="noopener noreferrer nofollow">https://philmuseum.ueuo.com/nm_museum/nmdivision/planet.html</a>  
 
 63. <a id="endnote-63"></a>
    Source: gmanetwork.com  
-   Link: [https://www.gmanetwork.com/news/scitech/science/976654/planetarium-star-gazing-sessions-astronomy-week/story/](https://www.gmanetwork.com/news/scitech/science/976654/planetarium-star-gazing-sessions-astronomy-week/story/)  
+   Link: <a href="https://www.gmanetwork.com/news/scitech/science/976654/planetarium-star-gazing-sessions-astronomy-week/story/" target="_blank" rel="noopener noreferrer nofollow">https://www.gmanetwork.com/news/scitech/science/976654/planetarium-star-gazing-sessions-astronomy-week/story/</a>  
 
 64. <a id="endnote-64"></a>
    Source: digest.ph  
    Title: Philippine Space Act  
-   Link: [https://www.digest.ph/laws/philippine-space-act?tab=summary](https://www.digest.ph/laws/philippine-space-act?tab=summary)  
+   Link: <a href="https://www.digest.ph/laws/philippine-space-act?tab=summary" target="_blank" rel="noopener noreferrer nofollow">https://www.digest.ph/laws/philippine-space-act?tab=summary</a>  
 
 ### Additional References
 
 65. <a id="endnote-65"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=azKzuB7Xz90](https://www.youtube.com/watch?v=azKzuB7Xz90)  
+   Link: <a href="https://www.youtube.com/watch?v=azKzuB7Xz90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=azKzuB7Xz90</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, NAMATAAN SA PAMPANGA! | Kapuso Mo, Jessica Soho...</p></details>
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
    Title: Mga alien at UFO, namataan daw sa Antipolo?! | Kapuso Mo, Jessica Soho  
-   Link: [https://www.youtube.com/watch?v=dUoPKywVI9M](https://www.youtube.com/watch?v=dUoPKywVI9M)  
+   Link: <a href="https://www.youtube.com/watch?v=dUoPKywVI9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUoPKywVI9M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Earth: Unidentified flying objects, caught on cam...</p></details>
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
    Title: UFO, namataan sa Negros Occidental?! | Kapuso Mo, Jessica Soho  
-   Link: [https://www.youtube.com/watch?v=zks3tx15-aI](https://www.youtube.com/watch?v=zks3tx15-aI)  
+   Link: <a href="https://www.youtube.com/watch?v=zks3tx15-aI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zks3tx15-aI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mga alien at UFO, namataan daw sa Antipolo?! | Kapuso Mo, Jessica Soho...</p></details>
 
 68. <a id="endnote-68"></a>
    Source: youtube.com  
    Title: UFO, NAMATAAN SA PAMPANGA! | Kapuso Mo, Jessica Soho  
-   Link: [https://www.youtube.com/watch?v=90M78CGuEE0](https://www.youtube.com/watch?v=90M78CGuEE0)  
+   Link: <a href="https://www.youtube.com/watch?v=90M78CGuEE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=90M78CGuEE0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, namataan sa Negros Occidental?! | Kapuso Mo, Jessica Soho...</p></details>
 
 69. <a id="endnote-69"></a>
    Source: abs-cbn.com  
-   Link: [https://www.abs-cbn.com/news/07/11/23/meteor-showers-to-illuminate-skies-from-july-to-august](https://www.abs-cbn.com/news/07/11/23/meteor-showers-to-illuminate-skies-from-july-to-august)  
+   Link: <a href="https://www.abs-cbn.com/news/07/11/23/meteor-showers-to-illuminate-skies-from-july-to-august" target="_blank" rel="noopener noreferrer nofollow">https://www.abs-cbn.com/news/07/11/23/meteor-showers-to-illuminate-skies-from-july-to-august</a>  
 
 70. <a id="endnote-70"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wlwt5/posts/a-meteor-made-an-unlikely-appearance-in-the-philippines-and-stole-the-show-from-/1432005818953468/](https://www.facebook.com/wlwt5/posts/a-meteor-made-an-unlikely-appearance-in-the-philippines-and-stole-the-show-from-/1432005818953468/)  
+   Link: <a href="https://www.facebook.com/wlwt5/posts/a-meteor-made-an-unlikely-appearance-in-the-philippines-and-stole-the-show-from-/1432005818953468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wlwt5/posts/a-meteor-made-an-unlikely-appearance-in-the-philippines-and-stole-the-show-from-/1432005818953468/</a>  
 
 71. <a id="endnote-71"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/](https://www.amsmeteors.org/)  
+   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
 72. <a id="endnote-72"></a>
    Source: panaynews.net  
-   Link: [https://www.panaynews.net/bodies-from-bilibid-have-piled-up-so-do-questions/](https://www.panaynews.net/bodies-from-bilibid-have-piled-up-so-do-questions/)  
+   Link: <a href="https://www.panaynews.net/bodies-from-bilibid-have-piled-up-so-do-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.panaynews.net/bodies-from-bilibid-have-piled-up-so-do-questions/</a>  
 
 73. <a id="endnote-73"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
 
 74. <a id="endnote-74"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2636711343165934/posts/2938016849702047/](https://www.facebook.com/groups/2636711343165934/posts/2938016849702047/)  
+   Link: <a href="https://www.facebook.com/groups/2636711343165934/posts/2938016849702047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2636711343165934/posts/2938016849702047/</a>  

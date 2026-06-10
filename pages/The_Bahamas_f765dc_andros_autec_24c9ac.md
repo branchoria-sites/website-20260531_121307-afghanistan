@@ -239,7 +239,7 @@ next_link:
   permalink: /flight-crew/
   short_title: Flight Crew
   heading_title: What Makes the Surjet UFO Case Unresolved?
-date: '2026-06-09 01:15:27 '
+date: '2026-06-10 01:40:50 '
 header:
   og_image: /assets/images/The_Bahamas_f765dc_andros_autec_24c9ac-Illustration-1-social.jpg
   preview_image: /assets/images/The_Bahamas_f765dc_andros_autec_24c9ac-Illustration-1.webp
@@ -460,86 +460,44 @@ These are exactly the kinds of activities that create fragmented sightings and r
 For serious analysis of UFO claims in the Bahamas, Andros is therefore best understood not as evidence of an alien base, but as a case study in how real military systems generate enduring mythologies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Is Andros Really an Underwater Area 51?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Is Andros Really an Underwater Area 51?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers broader UFO investigative context beyond conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Closest commercial match to claims about hidden installations and classified operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how mystery narratives evolve around unusual environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Blind+Man%27s+Bluff+by+Sherry+Sontag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blind Man&#x27;s Bluff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UmEpAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Blind Man&#x27;s Bluff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Blind+Man%27s+Bluff+by+Sherry+Sontag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blind Man&#x27;s Bluff">Blind Man&#x27;s Bluff</a>
-        </h4>
-        <p class="fr-book-author">By Sherry Sontag, Christopher Drew et al.</p>
-        
-        <p class="fr-book-desc">Provides real-world context for undersea military technology and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Blind+Man%27s+Bluff+by+Sherry+Sontag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -573,75 +531,71 @@ For serious analysis of UFO claims in the Bahamas, Andros is therefore best unde
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andros-autec-is-andros-really-an-underwater-area-51-the-bahamas-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -856,131 +810,131 @@ For serious analysis of UFO claims in the Bahamas, Andros is therefore best unde
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Atlantic Undersea Test and Evaluation Center  
-   Link: [https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center](https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center</a>  
 
 2. <a id="endnote-2"></a>
    Source: navsea.navy.mil  
    Title: NAVSEAAUTEC Strategic Plan  
-   Link: [https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/](https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/)  
+   Link: <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic Plan - NavseaAUTEC provides instrumented operational areas in a real world environment to satisfy research, development, test a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: globalsecurity.org  
-   Link: [https://www.globalsecurity.org/military/facility/autec.htm](https://www.globalsecurity.org/military/facility/autec.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/facility/autec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/autec.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TOTO is a unique deep-water basin...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Tongue of the Ocean  
-   Link: [https://en.wikipedia.org/wiki/Tongue_of_the_Ocean](https://en.wikipedia.org/wiki/Tongue_of_the_Ocean)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tongue_of_the_Ocean" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tongue_of_the_Ocean</a>  
 
 5. <a id="endnote-5"></a>
    Source: navsea.navy.mil  
    Title: NAVSEAWelcome Aboard!  
-   Link: [https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf](https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf)  
+   Link: <a href="https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aboard! - NavseaAUTEC, Atlantic Undersea Test and Evaluation. Center, is a United States Navy project offering underwater testing, in-air...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.navy.mil  
    Title: Naval History and Heritage Command Project AUTEC  
-   Link: [https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/OFP/articles/Project%20AUTEC%20Vol%207%20No%202%20Mar-Apr%201966.pdf](https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/OFP/articles/Project%20AUTEC%20Vol%207%20No%202%20Mar-Apr%201966.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/OFP/articles/Project%20AUTEC%20Vol%207%20No%202%20Mar-Apr%201966.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/OFP/articles/Project%20AUTEC%20Vol%207%20No%202%20Mar-Apr%201966.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oceanographic factors will...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19720021755/downloads/19720021755.pdf](https://ntrs.nasa.gov/api/citations/19720021755/downloads/19720021755.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19720021755/downloads/19720021755.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19720021755/downloads/19720021755.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the surface truth...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: navsea.navy.mil  
    Title: mil NSW C Carderock  
-   Link: [https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Carderock/What-We-Do/Laboratories-and-Research-Facilities/List-of-Laboratories-and-Research-Facilities/](https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Carderock/What-We-Do/Laboratories-and-Research-Facilities/List-of-Laboratories-and-Research-Facilities/)  
+   Link: <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Carderock/What-We-Do/Laboratories-and-Research-Facilities/List-of-Laboratories-and-Research-Facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Carderock/What-We-Do/Laboratories-and-Research-Facilities/List-of-Laboratories-and-Research-Facilities/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carderock - Warfare Centers - NavseaSouth Tongue of the Ocean Acoustic Measurement Facility (STAFAC); located in Andros Island, Bahamas...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/29710/remote-navy-submarine-test-base-has-been-key-in-rescuing-hundreds-in-the-bahamas-after-dorian](https://www.twz.com/29710/remote-navy-submarine-test-base-has-been-key-in-rescuing-hundreds-in-the-bahamas-after-dorian)  
+   Link: <a href="https://www.twz.com/29710/remote-navy-submarine-test-base-has-been-key-in-rescuing-hundreds-in-the-bahamas-after-dorian" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/29710/remote-navy-submarine-test-base-has-been-key-in-rescuing-hundreds-in-the-bahamas-after-dorian</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneRemote Navy Submarine Test Base Has Been Key In...6 Sept 2019 — One of the primary activities that the Navy conducts within...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: royalnavy.mod.uk  
    Title: 181122 submarine hunters autec  
-   Link: [https://www.royalnavy.mod.uk/news/2018/november/22/181122-submarine-hunters-autec](https://www.royalnavy.mod.uk/news/2018/november/22/181122-submarine-hunters-autec)  
+   Link: <a href="https://www.royalnavy.mod.uk/news/2018/november/22/181122-submarine-hunters-autec" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2018/november/22/181122-submarine-hunters-autec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy&#x27;Big Dippers&#x27; hit the Bahamas as Navy&#x27;s premier sub...22 Nov 2018 — The ranges off Andros Island – south-west of Nassau – are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: wearethemighty.com  
    Title: atlantic undersea test and evaluation center autec  
-   Link: [https://www.wearethemighty.com/intel/atlantic-undersea-test-and-evaluation-center-autec/](https://www.wearethemighty.com/intel/atlantic-undersea-test-and-evaluation-center-autec/)  
+   Link: <a href="https://www.wearethemighty.com/intel/atlantic-undersea-test-and-evaluation-center-autec/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearethemighty.com/intel/atlantic-undersea-test-and-evaluation-center-autec/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The exact location is known as “The Tongue of the Ocean” (TOTO) which separates the islands of Andros and New Providence.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: businessinsider.com  
    Title: navy area 51 autec in the bahamas 2016 10  
-   Link: [https://www.businessinsider.com/navy-area-51-autec-in-the-bahamas-2016-10](https://www.businessinsider.com/navy-area-51-autec-in-the-bahamas-2016-10)  
+   Link: <a href="https://www.businessinsider.com/navy-area-51-autec-in-the-bahamas-2016-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/navy-area-51-autec-in-the-bahamas-2016-10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Has Its Own Area 51 in the Bahamas for Testing...25 Jul 2019 — The US Navy has their own secretive testing facility, similar to the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: inspired-training.com  
    Title: Bermuda Triangle  
-   Link: [https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm](https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm)  
+   Link: <a href="https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Underater Area 51The Andros Island AUTEC test facility-access to which must be obtained beforehand - covers only one square mile on land...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare](https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare)  
+   Link: <a href="https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTEC plays critical role in undersea warfareThe Atlantic Undersea Test and Evaluation Center (AUTEC), a NUWC Division Newport detachment...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oldbahamianphotos/posts/%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%80%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9A-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%82%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%80%F0%9D%90%94%F0%9D%90%93%F0%9D%90%84%F0%9D%90%82-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AC-%F0%9D%9F%8F%F0%9D%9F%97%F0%9D%9F%94%F0%9D%9F%95overall-view-a/7871495789542468/](https://www.facebook.com/oldbahamianphotos/posts/%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%80%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9A-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%82%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%80%F0%9D%90%94%F0%9D%90%93%F0%9D%90%84%F0%9D%90%82-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AC-%F0%9D%9F%8F%F0%9D%9F%97%F0%9D%9F%94%F0%9D%9F%95overall-view-a/7871495789542468/)  
+   Link: <a href="https://www.facebook.com/oldbahamianphotos/posts/%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%80%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9A-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%82%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%80%F0%9D%90%94%F0%9D%90%93%F0%9D%90%84%F0%9D%90%82-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AC-%F0%9D%9F%8F%F0%9D%9F%97%F0%9D%9F%94%F0%9D%9F%95overall-view-a/7871495789542468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oldbahamianphotos/posts/%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%80%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9A-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%82%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%80%F0%9D%90%94%F0%9D%90%93%F0%9D%90%84%F0%9D%90%82-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AC-%F0%9D%9F%8F%F0%9D%9F%97%F0%9D%9F%94%F0%9D%9F%95overall-view-a/7871495789542468/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>main AUTEC support base and downrange tracking stations are on Andros Island in the Bahamas, just west of Nassau and about 180 nautical...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QTlkpbSmFDc](https://www.youtube.com/watch?v=QTlkpbSmFDc)  
+   Link: <a href="https://www.youtube.com/watch?v=QTlkpbSmFDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QTlkpbSmFDc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters: US Navy Hides Area 51 Secrets (Season 2...Inside Look At Area 51 *New Theories Revealed!* | Ancient Aliens | History. HISTO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dosits.org  
    Title: atlantic undersea test and evaluation center autec  
-   Link: [https://dosits.org/glossary/atlantic-undersea-test-and-evaluation-center-autec/](https://dosits.org/glossary/atlantic-undersea-test-and-evaluation-center-autec/)  
+   Link: <a href="https://dosits.org/glossary/atlantic-undersea-test-and-evaluation-center-autec/" target="_blank" rel="noopener noreferrer nofollow">https://dosits.org/glossary/atlantic-undersea-test-and-evaluation-center-autec/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic Undersea Test and Evaluation Center (AUTEC)26 Feb 2017 — a deep-water laboratory located in the Bahamas (in the Tongue of the Oc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oldbahamianphotos/posts/dragline-during-construction-of-the-united-states-navys-atlantic-undersea-test-a/4564833140208766/](https://www.facebook.com/oldbahamianphotos/posts/dragline-during-construction-of-the-united-states-navys-atlantic-undersea-test-a/4564833140208766/)  
+   Link: <a href="https://www.facebook.com/oldbahamianphotos/posts/dragline-during-construction-of-the-united-states-navys-atlantic-undersea-test-a/4564833140208766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oldbahamianphotos/posts/dragline-during-construction-of-the-united-states-navys-atlantic-undersea-test-a/4564833140208766/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and in the Bahamas, just west of Nassau and about 180 nautical...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: efile.fara.gov  
    Title: AUTEC Andros is situated some 30 miles.Read more  
-   Link: [https://efile.fara.gov/docs/3718-Informational-Materials-20220722-7.pdf](https://efile.fara.gov/docs/3718-Informational-Materials-20220722-7.pdf)  
+   Link: <a href="https://efile.fara.gov/docs/3718-Informational-Materials-20220722-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efile.fara.gov/docs/3718-Informational-Materials-20220722-7.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Undersea Test And Evaluation Center (AUTEC...22 Jul 2022 — AUTEC has two Navy facilities: one in West Palm Beach, Florida and the other...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: What is the Atlantic Undersea Test and Evaluation Center (AUTEC)?  
-   Link: [https://www.youtube.com/watch?v=3eI6L82c-4E](https://www.youtube.com/watch?v=3eI6L82c-4E)  
+   Link: <a href="https://www.youtube.com/watch?v=3eI6L82c-4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3eI6L82c-4E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Navy&#x27;s Secret Underwater Testing Range...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: forecastinternational.com  
    Title: disp pdf.cfm  
-   Link: [https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1725](https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1725)  
+   Link: <a href="https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1725" target="_blank" rel="noopener noreferrer nofollow">https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1725</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED REPORT AUTECUndersea Warfare Forecast. AUTEC. November 2024. Program Review. In what many consider to be the U.S. Navy&#x27;s equival...</p></details>
    Published: November 2024  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Decoding the "Underwater Area 51" Conspiracy Theories  
-   Link: [https://www.youtube.com/watch?v=4y-51K7fWw4](https://www.youtube.com/watch?v=4y-51K7fWw4)  
+   Link: <a href="https://www.youtube.com/watch?v=4y-51K7fWw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4y-51K7fWw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Military Sonar and Underwater Surveillance...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Inside the US Navy's Secret Underwater Testing Range  
-   Link: [https://www.youtube.com/watch](https://www.youtube.com/watch)  
+   Link: <a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why The US Navy Uses The Tongue Of The Ocean...</p></details>

@@ -1185,7 +1185,7 @@ next_link:
   title: Cabo Verde UFOs
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
-date: '2026-06-09 01:39:27 '
+date: '2026-06-10 02:06:27 '
 header:
   og_image: /assets/images/Senegal_d8973b-overview-social.jpg
   preview_image: /assets/images/Senegal_d8973b-overview.webp
@@ -1293,86 +1293,44 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Survives in Senegal&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Survives in Senegal&#x27;s UFO Record?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Useful for understanding sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Provides a benchmark for assessing evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Shows how UFO records survive through institutions and archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a national overview of UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1406,75 +1364,71 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegals-ufo-record-what-survives-in-senegal-s-ufo-record-senegal-ufo-poster-book-books-series-televisi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1689,290 +1643,290 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
 1. <a id="endnote-1"></a>
    Source: cufon.org  
    Title: cia 52 2  
-   Link: [https://www.cufon.org/cufon/cia-52-2.htm](https://www.cufon.org/cufon/cia-52-2.htm)  
+   Link: <a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: calameo.com  
-   Link: [https://www.calameo.com/books/0002753477eb30922f403](https://www.calameo.com/books/0002753477eb30922f403)  
+   Link: <a href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0002753477eb30922f403</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Senegal  
-   Link: [https://nuforc.org/subndx/?id=cSenegal](https://nuforc.org/subndx/?id=cSenegal)  
+   Link: <a href="https://nuforc.org/subndx/?id=cSenegal" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSenegal</a>  
 
 4. <a id="endnote-4"></a>
    Source: senegel.org  
-   Link: [https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338](https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338)  
+   Link: <a href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow">https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338</a>  
 
 5. <a id="endnote-5"></a>
    Source: aim.asecna.aero  
    Title: GE N 3.3  
-   Link: [https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html](https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html)  
+   Link: <a href="https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=28544](https://nuforc.org/sighting/?id=28544)  
+   Link: <a href="https://nuforc.org/sighting/?id=28544" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28544</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=43333](https://nuforc.org/sighting/?id=43333)  
+   Link: <a href="https://nuforc.org/sighting/?id=43333" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43333</a>  
 
 9. <a id="endnote-9"></a>
    Source: un-spider.org  
-   Link: [https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a](https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a)  
+   Link: <a href="https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a" target="_blank" rel="noopener noreferrer nofollow">https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/](https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/)  
+   Link: <a href="https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: the school kids who said they saw aliens  
-   Link: [https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/](https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/)  
+   Link: <a href="https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/275114380263865/posts/1065805904528038/](https://www.facebook.com/groups/275114380263865/posts/1065805904528038/)  
+   Link: <a href="https://www.facebook.com/groups/275114380263865/posts/1065805904528038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/275114380263865/posts/1065805904528038/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/](https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/)  
+   Link: <a href="https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/977704395576978/posts/27046193501634711/](https://www.facebook.com/groups/977704395576978/posts/27046193501634711/)  
+   Link: <a href="https://www.facebook.com/groups/977704395576978/posts/27046193501634711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/27046193501634711/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/245590643150036/posts/1395891304786625/](https://www.facebook.com/groups/245590643150036/posts/1395891304786625/)  
+   Link: <a href="https://www.facebook.com/groups/245590643150036/posts/1395891304786625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/245590643150036/posts/1395891304786625/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/643570297038875/posts/1724169008978993/](https://www.facebook.com/groups/643570297038875/posts/1724169008978993/)  
+   Link: <a href="https://www.facebook.com/groups/643570297038875/posts/1724169008978993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/1724169008978993/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: avez vous cru à cette histoire dovni qui circule depuis hier soir en ce qui nous  
-   Link: [https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/](https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/)  
+   Link: <a href="https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/](https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/)  
+   Link: <a href="https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/](https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/)  
+   Link: <a href="https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/](https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/)  
+   Link: <a href="https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: ufo sightings over barbados september 1987  
-   Link: [https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/](https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/)  
+   Link: <a href="https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/</a>  
    Published: september 1987  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/](https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/)  
+   Link: <a href="https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/](https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/)  
+   Link: <a href="https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/](https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/)  
+   Link: <a href="https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY](https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY)  
+   Link: <a href="https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: on wednesday senegals national agency for civil aviation and meteorology anacim  
-   Link: [https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/](https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/)  
+   Link: <a href="https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AsecnaOfficiel/](https://www.facebook.com/AsecnaOfficiel/)  
+   Link: <a href="https://www.facebook.com/AsecnaOfficiel/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AsecnaOfficiel/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/](https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/)  
+   Link: <a href="https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/](https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/)  
+   Link: <a href="https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/](https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/)  
+   Link: <a href="https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/</a>  
 
 32. <a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200304](https://nuforc.org/subndx/?id=e200304)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200304</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 35. <a id="endnote-35"></a>
    Source: observer.ug  
    Title: Are aliens racist?  
-   Link: [https://observer.ug/lifestyle-entertainment/are-aliens-racist/](https://observer.ug/lifestyle-entertainment/are-aliens-racist/)  
+   Link: <a href="https://observer.ug/lifestyle-entertainment/are-aliens-racist/" target="_blank" rel="noopener noreferrer nofollow">https://observer.ug/lifestyle-entertainment/are-aliens-racist/</a>  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Incroyable OVNI filmé par un pêcheur à Dakar  
-   Link: [https://www.youtube.com/watch?v=zvhC7KaENF0](https://www.youtube.com/watch?v=zvhC7KaENF0)  
+   Link: <a href="https://www.youtube.com/watch?v=zvhC7KaENF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zvhC7KaENF0</a>  
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Iob6ESlDSDs](https://www.youtube.com/watch?v=Iob6ESlDSDs)  
+   Link: <a href="https://www.youtube.com/watch?v=Iob6ESlDSDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iob6ESlDSDs</a>  
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7FHjGZ_CNz4](https://www.youtube.com/watch?v=7FHjGZ_CNz4)  
+   Link: <a href="https://www.youtube.com/watch?v=7FHjGZ_CNz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7FHjGZ_CNz4</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: You Tube Share your videos with friends, family, and the world  
-   Link: [https://www.youtube.com/watch?v=1UNMVAdYnCc](https://www.youtube.com/watch?v=1UNMVAdYnCc)  
+   Link: <a href="https://www.youtube.com/watch?v=1UNMVAdYnCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1UNMVAdYnCc</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dIMZlylmw5o](https://www.youtube.com/watch?v=dIMZlylmw5o)  
+   Link: <a href="https://www.youtube.com/watch?v=dIMZlylmw5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dIMZlylmw5o</a>  
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cGuI1C1Bqx4](https://www.youtube.com/watch?v=cGuI1C1Bqx4)  
+   Link: <a href="https://www.youtube.com/watch?v=cGuI1C1Bqx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGuI1C1Bqx4</a>  
 
 42. <a id="endnote-42"></a>
    Source: asecna.aero  
-   Link: [https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar](https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar)  
+   Link: <a href="https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar</a>  
 
 43. <a id="endnote-43"></a>
    Source: asecna.org  
-   Link: [https://www.asecna.org/](https://www.asecna.org/)  
+   Link: <a href="https://www.asecna.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.org/</a>  
 
 44. <a id="endnote-44"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005516149](https://www.cia.gov/readingroom/document/0005516149)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005516149" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516149</a>  
 
 45. <a id="endnote-45"></a>
    Source: anacim.sn  
-   Link: [https://www.anacim.sn/spip.php?debut_articles=10&rubrique2=](https://www.anacim.sn/spip.php?debut_articles=10&rubrique2=)  
+   Link: <a href="https://www.anacim.sn/spip.php?debut_articles=10&amp;rubrique2=" target="_blank" rel="noopener noreferrer nofollow">https://www.anacim.sn/spip.php?debut_articles=10&amp;rubrique2=</a>  
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: [https://www.youtube.com/watch?v=LFswmAii4rw](https://www.youtube.com/watch?v=LFswmAii4rw)  
+   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5P-MMjyVVA8](https://www.youtube.com/watch?v=5P-MMjyVVA8)  
+   Link: <a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best UFO Sighting of the 1990s with Randall Nickerson...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_-KpDsPxs5k](https://www.youtube.com/watch?v=_-KpDsPxs5k)  
+   Link: <a href="https://www.youtube.com/watch?v=_-KpDsPxs5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_-KpDsPxs5k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: The Ariel School UFO Incident: 60 Students Saw Aliens  
-   Link: [https://www.youtube.com/watch?v=JUNO7qqSJ9o](https://www.youtube.com/watch?v=JUNO7qqSJ9o)  
+   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now  
-   Link: [https://www.youtube.com/watch?v=matMjA76xf4](https://www.youtube.com/watch?v=matMjA76xf4)  
+   Link: <a href="https://www.youtube.com/watch?v=matMjA76xf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=matMjA76xf4</a>  
 
 51. <a id="endnote-51"></a>
    Source: bluebookfiles.org  
    Title: Project Blue Book Archive CIAUFO  
-   Link: [https://bluebookfiles.org/doc/14072](https://bluebookfiles.org/doc/14072)  
+   Link: <a href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/14072</a>  
 
 52. <a id="endnote-52"></a>
    Source: demostaf.web.ined.fr  
    Title: Demostaf Sénégal  
-   Link: [https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35](https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35)  
+   Link: <a href="https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35" target="_blank" rel="noopener noreferrer nofollow">https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35</a>  
 
 53. <a id="endnote-53"></a>
    Source: senegaldirect.com  
-   Link: [https://senegaldirect.com/0000/page/315/](https://senegaldirect.com/0000/page/315/)  
+   Link: <a href="https://senegaldirect.com/0000/page/315/" target="_blank" rel="noopener noreferrer nofollow">https://senegaldirect.com/0000/page/315/</a>  
 
 54. <a id="endnote-54"></a>
    Source: demostaf.web.ined.fr  
-   Link: [https://demostaf.web.ined.fr/index.php/catalog/ddi/50](https://demostaf.web.ined.fr/index.php/catalog/ddi/50)  
+   Link: <a href="https://demostaf.web.ined.fr/index.php/catalog/ddi/50" target="_blank" rel="noopener noreferrer nofollow">https://demostaf.web.ined.fr/index.php/catalog/ddi/50</a>  
 
 55. <a id="endnote-55"></a>
    Source: x.com  
-   Link: [https://x.com/UAPAfrique/status/1737097110976180312](https://x.com/UAPAfrique/status/1737097110976180312)  
+   Link: <a href="https://x.com/UAPAfrique/status/1737097110976180312" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UAPAfrique/status/1737097110976180312</a>  
 
 56. <a id="endnote-56"></a>
    Source: nanosats.eu  
-   Link: [https://www.nanosats.eu/sat/gaindesat.html](https://www.nanosats.eu/sat/gaindesat.html)  
+   Link: <a href="https://www.nanosats.eu/sat/gaindesat.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nanosats.eu/sat/gaindesat.html</a>  
 
 57. <a id="endnote-57"></a>
    Source: fr.linkedin.com  
-   Link: [https://fr.linkedin.com/company/asecna](https://fr.linkedin.com/company/asecna)  
+   Link: <a href="https://fr.linkedin.com/company/asecna" target="_blank" rel="noopener noreferrer nofollow">https://fr.linkedin.com/company/asecna</a>  
 
 ### Additional References
 
 58. <a id="endnote-58"></a>
    Source: gettyimages.com  
-   Link: [https://www.gettyimages.com/photos/senegal-southern-casamance-region](https://www.gettyimages.com/photos/senegal-southern-casamance-region)  
+   Link: <a href="https://www.gettyimages.com/photos/senegal-southern-casamance-region" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/senegal-southern-casamance-region</a>  
 
 59. <a id="endnote-59"></a>
    Source: climahealth.info  
-   Link: [https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/](https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/)  
+   Link: <a href="https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/" target="_blank" rel="noopener noreferrer nofollow">https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/</a>  
 
 60. <a id="endnote-60"></a>
    Source: centreforaviation.com  
-   Link: [https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna](https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna)  
+   Link: <a href="https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna</a>  
 
 61. <a id="endnote-61"></a>
    Source: eucass.eu  
-   Link: [https://www.eucass.eu/component/docindexer/?id=7435&task=download](https://www.eucass.eu/component/docindexer/?id=7435&task=download)  
+   Link: <a href="https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download</a>  
 
 62. <a id="endnote-62"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/find-a-chapter/](https://mufon.com/find-a-chapter/)  
+   Link: <a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
 
 63. <a id="endnote-63"></a>
    Source: saturdaynightuforia.com  
-   Link: [https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html](https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html)  
+   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html</a>  
 
 64. <a id="endnote-64"></a>
    Source: outerspaceinstitute.ca  
-   Link: [https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf](https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf)  
+   Link: <a href="https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf</a>  
 
 65. <a id="endnote-65"></a>
    Source: ubuy.sn  
-   Link: [https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm](https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm)  
+   Link: <a href="https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm" target="_blank" rel="noopener noreferrer nofollow">https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm</a>  
 
 66. <a id="endnote-66"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
 
 67. <a id="endnote-67"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXy07Cak67B/](https://www.instagram.com/p/DXy07Cak67B/)  
+   Link: <a href="https://www.instagram.com/p/DXy07Cak67B/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXy07Cak67B/</a>  

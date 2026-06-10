@@ -239,7 +239,7 @@ next_link:
   permalink: /bisha-mine-2015/
   short_title: Bisha Mine 2015
   heading_title: Unpacking the 2015 Bisha Mine Disc UFO Reports
-date: '2026-06-09 01:29:06 '
+date: '2026-06-10 01:54:25 '
 header:
   og_image: /assets/images/Eritrea_18740a_asmara_1970_fireball_8c5bea-Illustration-1-social.jpg
   preview_image: /assets/images/Eritrea_18740a_asmara_1970_fireball_8c5bea-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Eritrea_18740a_asmara_1970_fireball_8c5bea-Illustration-1-
 
 ## Introduction
 
-The alleged 1970 Asmara fireball remains the most frequently repeated UFO-related story connected to [Eritrea]({{ 'what-ufos-have-been-reported-in/' | relative_url }}), yet it is also one of the least verifiable. According to later retellings, a glowing red object swept through a village near Asmara in August 1970, destroying houses, burning vegetation, melting sections of road surface, injuring several people, and killing a child. Supporters describe it as a low-flying “solid” object that reversed direction before disappearing. Skeptics point out that almost every widely circulated version of the story traces back to much later secondary reproductions rather than independently confirmed contemporary reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ufo fireball destroys eritrean village in 197050</span><span class="citation-popover-snippet">RedditUFO Fireball Destroys Eritrean Village in 1970—50...April 15, 2025 — UFO Fireball Destroys Eritrean Village in 1970—50 Buildings H...</span><span class="citation-popover-meta">Published: April 15, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">in 1970...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 28...Read more...</span></span></span>
+The alleged 1970 Asmara fireball remains the most frequently repeated UFO-related story connected to Eritrea, yet it is also one of the least verifiable. According to later retellings, a glowing red object swept through a village near Asmara in August 1970, destroying houses, burning vegetation, melting sections of road surface, injuring several people, and killing a child. Supporters describe it as a low-flying “solid” object that reversed direction before disappearing. Skeptics point out that almost every widely circulated version of the story traces back to much later secondary reproductions rather than independently confirmed contemporary reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ufo fireball destroys eritrean village in 197050</span><span class="citation-popover-snippet">UFO Fireball Destroys Eritrean Village in 1970—50...April 15, 2025 — UFO Fireball Destroys Eritrean Village in 1970—50 Buildings H...</span><span class="citation-popover-meta">Published: April 15, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">in 1970...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 28...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Eritrea_18740a_asmara_1970_fireball_8c5bea-Illustration-1-dark.svg" | relative_url }}" alt="1970 Asmara Fireball illustration 1" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_asmara_1970_fireball_8c5bea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_asmara_1970_fireball_8c5bea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,7 +272,7 @@ The core narrative usually contains the same elements:
 
 </div>
 
-These details appear repeatedly across UFO forums, Reddit discussions, paranormal websites, and recycled blog articles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ufo fireball destroys eritrean village in 197050</span><span class="citation-popover-snippet">RedditUFO Fireball Destroys Eritrean Village in 1970—50...April 15, 2025 — UFO Fireball Destroys Eritrean Village in 1970—50 Buildings H...</span><span class="citation-popover-meta">Published: April 15, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">in 1970...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 28...Read more...</span></span></span>
+These details appear repeatedly across UFO forums, Reddit discussions, paranormal websites, and recycled blog articles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ufo fireball destroys eritrean village in 197050</span><span class="citation-popover-snippet">UFO Fireball Destroys Eritrean Village in 1970—50...April 15, 2025 — UFO Fireball Destroys Eritrean Village in 1970—50 Buildings H...</span><span class="citation-popover-meta">Published: April 15, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">in 1970...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 28...Read more...</span></span></span>
 
 The problem is that the circulation network is highly circular. Many modern articles appear to rely on the same small cluster of images and references to a supposed letter sent to astronomer and UFO investigator J. Allen Hynek. The existence of reproduced photographs does not automatically establish that the accompanying narrative is accurate, complete, or contemporaneous.
 
@@ -452,86 +452,44 @@ The evidence currently supports three broad possibilities:
 What the case does demonstrate clearly is how difficult UFO history becomes in regions with limited archival transparency. In countries where newspapers, scientific institutions, and official records are sparse or inaccessible, stories can persist for decades without ever reaching a level of proof that allows firm conclusions. The 1970 Asmara fireball remains important less because it is a confirmed UFO case, and more because it shows how uncertainty itself becomes part of the legend.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened During the 1970 Asmara Fireball?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened During the 1970 Asmara Fireball?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Listen+to+us+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Listen to us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4422166-M.jpg" alt="Cover for Listen to us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Listen+to+us+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Listen to us">Listen to us</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers methods for evaluating dramatic witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Listen+to+us+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for assessing extraordinary claims with limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison with better documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers methods for evaluating dramatic witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Listen+to+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Listen to us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -565,75 +523,71 @@ What the case does demonstrate clearly is how difficult UFO history becomes in r
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1970-asmara-fireball-what-really-happened-during-the-1970-asmara-fireball-eritrea-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -848,55 +802,55 @@ What the case does demonstrate clearly is how difficult UFO history becomes in r
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: ufo fireball destroys eritrean village in 197050  
-   Link: [https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/](https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO Fireball Destroys Eritrean Village in 1970—50...April 15, 2025 — UFO Fireball Destroys Eritrean Village in 1970—50 Buildings H...</p></details>
+   Link: <a href="https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Fireball Destroys Eritrean Village in 1970—50...April 15, 2025 — UFO Fireball Destroys Eritrean Village in 1970—50 Buildings H...</p></details>
    Published: April 15, 2025  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: the shocking destruction of an ethiopian village  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/](https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 1970...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 28...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kagnew Station  
-   Link: [https://en.wikipedia.org/wiki/Kagnew_Station](https://en.wikipedia.org/wiki/Kagnew_Station)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kagnew_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kagnew_Station</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Earth-grazing fireball  
-   Link: [https://en.wikipedia.org/wiki/Earth-grazing_fireball](https://en.wikipedia.org/wiki/Earth-grazing_fireball)  
+   Link: <a href="https://en.wikipedia.org/wiki/Earth-grazing_fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth-grazing_fireball</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2010 — An Earth-grazing fireball (or Earth grazer) [2] is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and...</p></details>
    Published: August 28, 2010  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1972 Great Daylight Fireball  
-   Link: [https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball](https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball)  
+   Link: <a href="https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1972 Great Daylight FireballThe Great Daylight Fireball was an Earth-grazing fireball that passed within 57 kilometres (35 mi; 187,000...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: infinityexplorers.com  
    Title: ufo destroyed a village in ethiopia in 1970  
-   Link: [https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/](https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/)  
+   Link: <a href="https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infinity ExplorersUFO destroyed a village in Ethiopia in 197029 Jul 2019 — Keep reading. Mystery. Alleged Video Of The Alien Creature Fro...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ns.clementspapers.org  
    Title: kagnew station and fluctuating policy ethiopia  
-   Link: [https://ns.clementspapers.org/briefing-books/kagnew-station-and-fluctuating-policy-ethiopia](https://ns.clementspapers.org/briefing-books/kagnew-station-and-fluctuating-policy-ethiopia)  
+   Link: <a href="https://ns.clementspapers.org/briefing-books/kagnew-station-and-fluctuating-policy-ethiopia" target="_blank" rel="noopener noreferrer nofollow">https://ns.clementspapers.org/briefing-books/kagnew-station-and-fluctuating-policy-ethiopia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clements Security Papers ProjectKagnew Station and Fluctuating Policy on EthiopiaSince 1943 the Army and Navy operated a telecommunicatio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: [https://history.state.gov/historicaldocuments/frus1969-76ve06/d147](https://history.state.gov/historicaldocuments/frus1969-76ve06/d147)  
+   Link: <a href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d147" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve06/d147</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianHistorical Documents - Office of the HistorianThe Eritrean insurgent movement attacked an isolated component of ou...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/128544650914320/posts/2409665716135524/](https://www.facebook.com/groups/128544650914320/posts/2409665716135524/)  
+   Link: <a href="https://www.facebook.com/groups/128544650914320/posts/2409665716135524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/128544650914320/posts/2409665716135524/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eritrea Asmara.Base USA Kagnew Station.Power Hause.In September 1975, Eritrean insurgents attacked a naval communications site at Kagnew...</p></details>
    Published: September 1975  
 
@@ -904,60 +858,60 @@ What the case does demonstrate clearly is how difficult UFO history becomes in r
 
 10. <a id="endnote-10"></a>
    Source: adst.org  
-   Link: [https://adst.org/Readers/Eritrea.pdf](https://adst.org/Readers/Eritrea.pdf)  
+   Link: <a href="https://adst.org/Readers/Eritrea.pdf" target="_blank" rel="noopener noreferrer nofollow">https://adst.org/Readers/Eritrea.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EritreaThe U.S. military had a large communications base there called Kagnew Station. One interesting thing was that practically all of t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: avi-loeb.medium.com  
    Title: fireballs in the desert brighter than oppenheimers trinity 3186ad8f29a9  
-   Link: [https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9](https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9)  
+   Link: <a href="https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Desert, Brighter Than Oppenheimer&#x27;s Trinity4 Alien Species Pulled from Crashed UFOs? Secrets of the Universe. In.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: martinplaut.com  
    Title: global communications and intelligence. Protecting it  
-   Link: [https://martinplaut.com/2026/05/02/ethiopia-the-cia-and-the-making-of-eritreas-leadership/](https://martinplaut.com/2026/05/02/ethiopia-the-cia-and-the-making-of-eritreas-leadership/)  
+   Link: <a href="https://martinplaut.com/2026/05/02/ethiopia-the-cia-and-the-making-of-eritreas-leadership/" target="_blank" rel="noopener noreferrer nofollow">https://martinplaut.com/2026/05/02/ethiopia-the-cia-and-the-making-of-eritreas-leadership/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethiopia, the CIA, and the making of Eritrea&#x27;s leadership2 May 2026 — Kagnew Station was not a peripheral installation, it was a strategi...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/C8SMrrkx0KP/](https://www.instagram.com/p/C8SMrrkx0KP/)  
+   Link: <a href="https://www.instagram.com/p/C8SMrrkx0KP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C8SMrrkx0KP/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A) activities at Kagnew Station, Asmara, Ethiopia (now Eritrea)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: madote.com  
    Title: video kagnew station united states  
-   Link: [https://www.madote.com/2016/04/video-kagnew-station-united-states.html](https://www.madote.com/2016/04/video-kagnew-station-united-states.html)  
+   Link: <a href="https://www.madote.com/2016/04/video-kagnew-station-united-states.html" target="_blank" rel="noopener noreferrer nofollow">https://www.madote.com/2016/04/video-kagnew-station-united-states.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Video] Kagnew Station: American Military Base in EritreaOn Friday 12 September 1975, the Eritrean Liberation Front, ELF, raided the US f...</p></details>
    Published: September 1975  
 
 15. <a id="endnote-15"></a>
    Source: mysterioustimes.co.uk  
    Title: January – Today in UFO History  
-   Link: [https://mysterioustimes.co.uk/2025/01/01/january-1st-today-in-ufo-history/](https://mysterioustimes.co.uk/2025/01/01/january-1st-today-in-ufo-history/)  
+   Link: <a href="https://mysterioustimes.co.uk/2025/01/01/january-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2025/01/01/january-1st-today-in-ufo-history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilkins&#x27;s Flying Saucers Uncensored, Keyhoe&#x27;s Flying Saucer Conspiracy, and Ruppelt&#x27;s Report on UFOs in the New York...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sohp.us  
    Title: GROSS 1950 Apr July SN  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July-SN.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July-SN.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July-SN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July-SN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1950: April–July (Supplemental Notes)&quot;A story was told of how a flying saucer crashed during the night over Wies- baden...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: asmara eritrea 1970s  
-   Link: [https://www.facebook.com/hyebio/posts/asmara-eritrea-1970s/10236591023779208/](https://www.facebook.com/hyebio/posts/asmara-eritrea-1970s/10236591023779208/)  
+   Link: <a href="https://www.facebook.com/hyebio/posts/asmara-eritrea-1970s/10236591023779208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hyebio/posts/asmara-eritrea-1970s/10236591023779208/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asmara, Eritrea 1970&#x27;s🇪🇷🇪🇷🇪🇷Asmara, Eritrea 1970&#x27;s · Good Morning all ❤️☕️ John 11:25-26: &quot; Jesus said to her, &#x27;I am the resurrection and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sohp.us  
    Title: GROSS 1950 Apr July  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1950-Apr-July.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1950: April–JulyBy mid-1950, the UFO wave then in progress was globe- girdling. Reports were coming in from all over: La...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.11989](https://arxiv.org/abs/2404.11989)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.11989" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.11989</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite...</p></details>
    Published: November 24, 1970  

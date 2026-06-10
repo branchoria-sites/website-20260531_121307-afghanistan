@@ -239,7 +239,7 @@ prev_link:
   permalink: /boianai/
   short_title: Boianai
   heading_title: Why Boianai Became PNG's Famous UFO Case
-date: '2026-06-09 01:37:03 '
+date: '2026-06-10 02:03:39 '
 header:
   og_image: /assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-1-social.jpg
   preview_image: /assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-1.webp
@@ -286,18 +286,18 @@ Modern psychological approaches have tried to bridge this gap by suggesting that
 
 A more elaborate natural explanation focuses on the geography of Milne Bay Province rather than the night sky. Researcher Martin Kottmeyer and later sceptical discussions proposed that distant fishing vessels could have produced unusual lights which were then distorted by atmospheric conditions over the sea. Under this hypothesis, observers were not looking at planets but at lights from boats beyond the apparent horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Avvistamento_di_Boianai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di Boianai</span><span class="citation-popover-snippet">Avvistamento di Boianai</span></span></span>
 
-The key mechanism is a superior mirage or false-horizon effect. Temperature differences between layers of air above the ocean can bend light and alter the apparent position and shape of distant objects. Such effects can make lights seem elevated above the water, stretched vertically, fragmented into multiple sources or transformed into unusual geometric forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">MetabunkWas the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
+The key mechanism is a superior mirage or false-horizon effect. Temperature differences between layers of air above the ocean can bend light and alter the apparent position and shape of distant objects. Such effects can make lights seem elevated above the water, stretched vertically, fragmented into multiple sources or transformed into unusual geometric forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">Was the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
 
 Supporters of this explanation point to several features:
 
 * The sighting occurred near a coastline where atmospheric distortions are possible.
 * Bright fishing lights can appear surprisingly intense at long distances.
 * Mirage effects can create the impression of hovering objects.
-* Changes in atmospheric conditions can make lights seem to move abruptly or disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">MetabunkWas the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
+* Changes in atmospheric conditions can make lights seem to move abruptly or disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">Was the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
 
 The theory also attempts to explain the reported “occupants”. If observers were looking at a distorted vessel, structures such as masts, rigging or crew silhouettes might have been transformed into human-like figures by distance and atmospheric distortion. Once one observer identified a shape as a person, others might have interpreted ambiguous details in the same way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Avvistamento_di_Boianai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di Boianai</span><span class="citation-popover-snippet">Avvistamento di Boianai</span></span></span>
 
-Yet this explanation faces its own difficulties. Critics note that many local witnesses were familiar with coastal conditions and maritime activity. If ordinary fishing vessels were responsible, it is reasonable to ask why none of the observers recognised them as such. Even allowing for distortion, the reports describe a level of apparent structure and interaction that exceeds a simple observation of distant lights. Sceptical discussions have acknowledged this weakness, particularly when trying to account for the reported signalling exchanges and sudden departures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">MetabunkWas the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
+Yet this explanation faces its own difficulties. Critics note that many local witnesses were familiar with coastal conditions and maritime activity. If ordinary fishing vessels were responsible, it is reasonable to ask why none of the observers recognised them as such. Even allowing for distortion, the reports describe a level of apparent structure and interaction that exceeds a simple observation of distant lights. Sceptical discussions have acknowledged this weakness, particularly when trying to account for the reported signalling exchanges and sudden departures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">Was the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
 
 
 <img src="{{ "/assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,98 +320,56 @@ The Boianai report survives because every major explanation solves part of the p
 
 The astronomical interpretation accounts reasonably well for bright lights in the sky and some reports of secondary objects. It struggles with the detailed descriptions of a structured craft and apparent figures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/492497106546332/posts/616772707452104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A recreation of the Boianai Mission UFO sighting in 1959...All these people were with late Anglican Father William Booth Gill at the Boi...</span></span></span>
 
-The fishing-light and mirage theory explains why lights might appear elevated, distorted or strangely shaped over coastal waters. It has a harder time explaining the reported signalling behaviour and the confidence of witnesses who felt they were observing a coherent object rather than scattered lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">MetabunkWas the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
+The fishing-light and mirage theory explains why lights might appear elevated, distorted or strangely shaped over coastal waters. It has a harder time explaining the reported signalling behaviour and the confidence of witnesses who felt they were observing a coherent object rather than scattered lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">Was the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
 
 The psychological interpretation offers a mechanism for how groups can build complex perceptions from ambiguous stimuli. Yet it depends on assumptions about collective interpretation that cannot be tested directly decades after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsc.duq.edu">[dsc.duq.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsc.duq.edu</span><span class="citation-popover-title">phenomenology iajs</span><span class="citation-popover-snippet">Halperin, D: Anatomy of a Vision: A Psychological...by DJ Halperin · 2022 — A young Anglican priest named William Booth Gill and twenty...</span></span></span>
 
 The hoax theory remains possible in the abstract but lacks strong supporting evidence and requires accepting that numerous participants either collaborated in or accepted a fabricated story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Avvistamento_di_Boianai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di Boianai</span><span class="citation-popover-snippet">Avvistamento di Boianai</span></span></span>
 
-For that reason, sceptical analyses of the Boianai incident generally stop short of claiming a definitive solution. The strongest natural explanations suggest that ordinary lights, atmospheric conditions and human perception could account for much of what was reported. The remaining difficulty is that the surviving witness descriptions contain layers of detail that do not fit neatly into any single conventional mechanism. That tension is why the Boianai report continues to occupy a unique place in Papua New Guinea's UFO history: not because a supernatural explanation has been demonstrated, but because the ordinary explanations remain incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsc.duq.edu">[dsc.duq.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsc.duq.edu</span><span class="citation-popover-title">phenomenology iajs</span><span class="citation-popover-snippet">Halperin, D: Anatomy of a Vision: A Psychological...by DJ Halperin · 2022 — A young Anglican priest named William Booth Gill and twenty...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">MetabunkWas the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
+For that reason, sceptical analyses of the Boianai incident generally stop short of claiming a definitive solution. The strongest natural explanations suggest that ordinary lights, atmospheric conditions and human perception could account for much of what was reported. The remaining difficulty is that the surviving witness descriptions contain layers of detail that do not fit neatly into any single conventional mechanism. That tension is why the Boianai report continues to occupy a unique place in Papua New Guinea's UFO history: not because a supernatural explanation has been demonstrated, but because the ordinary explanations remain incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsc.duq.edu">[dsc.duq.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsc.duq.edu</span><span class="citation-popover-title">phenomenology iajs</span><span class="citation-popover-snippet">Halperin, D: Anatomy of a Vision: A Psychological...by DJ Halperin · 2022 — A young Anglican priest named William Booth Gill and twenty...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">mirage were distorting them.Read more</span><span class="citation-popover-snippet">Was the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</span></span></span>
 
 
 <img src="{{ "/assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could Boianai Have Been Misread Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could Boianai Have Been Misread Lights?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores alternative interpretations of strange aerial reports and witness narratives rather than simple extraterrestrial claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses witness reliability, astronomical misidentifications, and investigative methods relevant to Boianai explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on evidence assessment and competing explanations for aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for readers evaluating misidentification, perception, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -445,75 +403,71 @@ For that reason, sceptical analyses of the Boianai incident generally stop short
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-6656b9-could-boianai-have-been-misread-lights-papua-new-guinea-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -728,66 +682,66 @@ For that reason, sceptical analyses of the Boianai incident generally stop short
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Avvistamento di Boianai  
-   Link: [https://it.wikipedia.org/wiki/Avvistamento_di_Boianai](https://it.wikipedia.org/wiki/Avvistamento_di_Boianai)  
+   Link: <a href="https://it.wikipedia.org/wiki/Avvistamento_di_Boianai" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamento_di_Boianai</a>  
 
 2. <a id="endnote-2"></a>
    Source: dsc.duq.edu  
    Title: phenomenology iajs  
-   Link: [https://dsc.duq.edu/phenomenology-iajs/18/](https://dsc.duq.edu/phenomenology-iajs/18/)  
+   Link: <a href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow">https://dsc.duq.edu/phenomenology-iajs/18/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Halperin, D: Anatomy of a Vision: A Psychological...by DJ Halperin · 2022 — A young Anglican priest named William Booth Gill and twenty...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
    Title: tidbits milne bay space stations in the 1950s remote boianai station in milne ba  
-   Link: [https://www.facebook.com/South.Pacific.Post/posts/tidbits-milne-bay-space-stations-in-the-1950s-remote-boianai-station-in-milne-ba/1333086188835794/](https://www.facebook.com/South.Pacific.Post/posts/tidbits-milne-bay-space-stations-in-the-1950s-remote-boianai-station-in-milne-ba/1333086188835794/)  
+   Link: <a href="https://www.facebook.com/South.Pacific.Post/posts/tidbits-milne-bay-space-stations-in-the-1950s-remote-boianai-station-in-milne-ba/1333086188835794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/South.Pacific.Post/posts/tidbits-milne-bay-space-stations-in-the-1950s-remote-boianai-station-in-milne-ba/1333086188835794/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook#TIDBITS: *Milne Bay Space Stations* In the 1950&#x27;s...Hynek and Allen Hendry, the centre&#x27;s chief investigator, concluded the &#x27;les...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: mirage were distorting them.Read more  
-   Link: [https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/](https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkWas the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/was-the-new-guinea-father-gill-ufo-case-a-false-horizon.11649/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Was the New Guinea/Father Gill UFO Case a False Horizon?6 Mar 2021 — Boats can move fairly fast, so if they start moving and then...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/492497106546332/posts/616772707452104/](https://www.facebook.com/groups/492497106546332/posts/616772707452104/)  
+   Link: <a href="https://www.facebook.com/groups/492497106546332/posts/616772707452104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/492497106546332/posts/616772707452104/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A recreation of the Boianai Mission UFO sighting in 1959...All these people were with late Anglican Father William Booth Gill at the Boi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/289262933043096/posts/611416027494450/](https://www.facebook.com/groups/289262933043096/posts/611416027494450/)  
+   Link: <a href="https://www.facebook.com/groups/289262933043096/posts/611416027494450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/289262933043096/posts/611416027494450/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting history of 1959 Boianai UFO sightings...Hynek and Allen Hendry, the centre&#x27;s chief investigator, concluded the &#x27;lesser UFOs&#x27;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/](https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/)  
+   Link: <a href="https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC PacificThe peculiar thing about these most recent reports is that the UFOs seem to be stationary at Boianai or to travel from Boianai...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: I wrote this account  
-   Link: [https://www.facebook.com/100014338683708/posts/a-recreation-of-the-boianai-mission-ufo-sighting-in-1959-based-on-the-testimony-/1944568512697753/](https://www.facebook.com/100014338683708/posts/a-recreation-of-the-boianai-mission-ufo-sighting-in-1959-based-on-the-testimony-/1944568512697753/)  
+   Link: <a href="https://www.facebook.com/100014338683708/posts/a-recreation-of-the-boianai-mission-ufo-sighting-in-1959-based-on-the-testimony-/1944568512697753/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100014338683708/posts/a-recreation-of-the-boianai-mission-ufo-sighting-in-1959-based-on-the-testimony-/1944568512697753/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A recreation of the Boianai Mission UFO sighting in 1959...19 Dec 2024 — A recreation of the Boianai Mission UFO sighting in 1959 based...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/](https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/)  
+   Link: <a href="https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ppears in the sky above Venus. It has an electric blue...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1656868631500052/posts/2124361421417435/](https://www.facebook.com/groups/1656868631500052/posts/2124361421417435/)  
+   Link: <a href="https://www.facebook.com/groups/1656868631500052/posts/2124361421417435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1656868631500052/posts/2124361421417435/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boianai, Rabaraba was the site of a famous UFO and alien...On 5 April 1959, at the Anglican mission village at Boianai, Papua, one of th...</p></details>
    Published: April 1959  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/410625023680108/posts/1502080421201224/](https://www.facebook.com/groups/410625023680108/posts/1502080421201224/)  
+   Link: <a href="https://www.facebook.com/groups/410625023680108/posts/1502080421201224/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/410625023680108/posts/1502080421201224/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ht into the sky over the coast of Papua New Guinea on June 27th 1959...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: abc.net.au  
-   Link: [https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442](https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442)  
+   Link: <a href="https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Released UFO files document &#x27;sightings&#x27; in Papua New...4 days ago — One was an unknown aircraft caught on radar in 1985, but more myster...</p></details>
 
 ### Additional References
@@ -795,53 +749,53 @@ For that reason, sceptical analyses of the Boianai incident generally stop short
 13. <a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialmade over the Cascade Mountains on June 24, 1947, when private pilot. Kenneth Arnold spott...</p></details>
    Published: June 24, 1947  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History  
-   Link: [https://www.youtube.com/watch?v=YvpN6Imoj44](https://www.youtube.com/watch?v=YvpN6Imoj44)  
+   Link: <a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This breakdown of The Father Gill Encounter details the Air Force investigations and astronomical skepticism used by skeptics attempting...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: in 1959 father gill and 25 others witnessed ufos  
-   Link: [https://www.reddit.com/r/UFOs/comments/97n8tm/in_1959_father_gill_and_25_others_witnessed_ufos/](https://www.reddit.com/r/UFOs/comments/97n8tm/in_1959_father_gill_and_25_others_witnessed_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/97n8tm/in_1959_father_gill_and_25_others_witnessed_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/97n8tm/in_1959_father_gill_and_25_others_witnessed_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>William Gill claimed to have witnessed UFOs, one of them with occupants waving from the top of the craft. This UFO incident...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: father gill sighting papua new guinea 1959  
-   Link: [https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/](https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13g4lph/father_gill_sighting_papua_new_guinea_1959/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Father Gill Sighting, Papua New Guinea, 1959: r/UFOsSaid tall blonde headed people actually were standing up in the convertible type UFO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Vallee Anatomy of a phenomenon  
-   Link: [https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf](https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf)  
+   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of a phenomenonIndicative of the importance of these sightings is the fact that Maj. Donald E. Kehoe, Ret. U.S.A.F., publicly accused our...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Fact-Checking the History Channel's Project Blue Book Series  
-   Link: [https://www.youtube.com/watch?v=LU1G_8SSquk](https://www.youtube.com/watch?v=LU1G_8SSquk)  
+   Link: <a href="https://www.youtube.com/watch?v=LU1G_8SSquk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LU1G_8SSquk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1cO5K1np2Ig](https://www.youtube.com/watch?v=1cO5K1np2Ig)  
+   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking the History Channel&#x27;s Project Blue Book Series...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Father Gill Encounter: The UFO Case With Too Many Witnesses to Ignore  
-   Link: [https://www.youtube.com/watch?v=ua8MmT4bIHU](https://www.youtube.com/watch?v=ua8MmT4bIHU)  
+   Link: <a href="https://www.youtube.com/watch?v=ua8MmT4bIHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ua8MmT4bIHU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relato de William Gill...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Relato de William Gill  
-   Link: [https://www.youtube.com/watch?v=k0bBSLcsC2U](https://www.youtube.com/watch?v=k0bBSLcsC2U)  
+   Link: <a href="https://www.youtube.com/watch?v=k0bBSLcsC2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k0bBSLcsC2U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>

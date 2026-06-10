@@ -245,7 +245,7 @@ next_link:
   permalink: /tehran-1976/
   short_title: Tehran 1976
   heading_title: Inside the 1976 Tehran UFO Mystery
-date: '2026-06-09 01:30:02 '
+date: '2026-06-10 01:55:26 '
 header:
   og_image: /assets/images/Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257-Illustration-1-social.jpg
   preview_image: /assets/images/Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257-Illustration-1.webp
@@ -290,10 +290,10 @@ Where civilian sightings do coincide with military interest, particularly in sen
 Moreover, military contexts such as heightened readiness around nuclear infrastructure or near contested borders can heighten the sensitivity of radar systems and fighter scrambles, contributing to episodes where **sensor anomalies or unfamiliar signals are logged but not immediately resolvable**. In such environments, the distinction between conventional misidentification and genuinely anomalous data becomes blurred, amplifying the role of military context in shaping Iran’s UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Iranian_military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unmanned aerial vehicles in the Iranian military</span><span class="citation-popover-snippet">Unmanned aerial vehicles in the Iranian military</span></span></span>
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B2u_aNn1_W8" title="UFO Menyerang Jet Tempur Iran? Insiden yang Ditutup Rapat Selama 20 Tahun!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B2u_aNn1_W8" target="_blank" rel="noopener noreferrer">UFO Menyerang Jet Tempur Iran? Insiden yang Ditutup Rapat Selama 20 Tahun!</a></p><p class="youtube-embed-meta">Channel: Tamara Delv &middot; Views: 51.6K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B2u_aNn1_W8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B2u_aNn1_W8">Open on YouTube</a></p></div></div></div>
+
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t8ufOwyJvu0" title="مستند پرنده های ناشناس در آسمان تهران - شهریور ۱۳۵۵" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t8ufOwyJvu0" target="_blank" rel="noopener noreferrer">مستند پرنده های ناشناس در آسمان تهران - شهریور ۱۳۵۵</a></p><p class="youtube-embed-meta">Channel: Téhéranais &middot; Views: 5.2K &middot; Uploaded: June 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t8ufOwyJvu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t8ufOwyJvu0">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wf2ZKmk6Wrc" title="The Tehran Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer">The Tehran Incident</a></p><p class="youtube-embed-meta">Channel: Earth and the Cosmos &middot; Views: 65 &middot; Uploaded: April 2025 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc">Open on YouTube</a></p></div></div></div>
 
 ## Evolving Records and Continued Ambiguity
 
@@ -305,86 +305,44 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 <img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257-Illustration-3-dark.svg" | relative_url }}" alt="Military Context illustration 3" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Iranâ€™s Air Defence Shapes UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Iran’s Air Defence Shapes UFO Reports, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Explains how military organisations assess unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Addresses radar cases, observational data and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly aligns with air-defence, pilot and radar-focused UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Provides context on advanced aerospace technology and military secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -418,75 +376,71 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-context-how-iran-s-air-defence-shapes-ufo-reports-iran-islamic-republic-of-ufo-poster-book-books-series-televis&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -701,46 +655,46 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Iran  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Iran](https://en.wikipedia.org/wiki/UFO_sightings_in_Iran)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Iran</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1976 Tehran UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident](https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Unmanned aerial vehicles in the Iranian military  
-   Link: [https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Iranian_military](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Iranian_military)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Iranian_military" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Iranian_military</a>  
 
 4. <a id="endnote-4"></a>
    Source: ufoac.com  
-   Link: [https://ufoac.com/nsareport1976iran.html](https://ufoac.com/nsareport1976iran.html)  
+   Link: <a href="https://ufoac.com/nsareport1976iran.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/nsareport1976iran.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ACNSA Report. 1976 Tehran UFO incident...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nationalinterest.org  
    Title: The National Interest Spooked: Iranian Pilots' UFO Encounter May Have Been  
-   Link: [https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182](https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182)  
+   Link: <a href="https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooked: Iranian Pilots&#x27; UFO Encounter May Have Been With an American Mach 10 Drone. March 23, 2020. By: David Axe...Read more...</p></details>
    Published: March 23, 2020  
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents](https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: worldbelow.org  
    Title: tehran ufo incident  
-   Link: [https://worldbelow.org/tehran-ufo-incident/](https://worldbelow.org/tehran-ufo-incident/)  
+   Link: <a href="https://worldbelow.org/tehran-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://worldbelow.org/tehran-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Iran UFO Incident: Iranian F-4s Chased a Glowing Object That Disabled Their Weapons—Still Unexplained in 2026January 31, 2026 — 197...</p></details>
    Published: January 31, 2026  
 
 8. <a id="endnote-8"></a>
    Source: theufodatabase.com  
    Title: 1976 tehran ufo incident  
-   Link: [https://theufodatabase.com/incidents/1976-tehran-ufo-incident](https://theufodatabase.com/incidents/1976-tehran-ufo-incident)  
+   Link: <a href="https://theufodatabase.com/incidents/1976-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1976-tehran-ufo-incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO DatabaseSeptember 18, 1976 — 1976 TEHRAN UFO INCIDENT IMAGE: SHARE September 1976 Image: Play Image: Pause 5-minute listen Introd...</p></details>
    Published: September 18, 1976  
 
@@ -748,57 +702,57 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 
 9. <a id="endnote-9"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-civilian-and-military-witness-statements-side-by-s/](https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-civilian-and-military-witness-statements-side-by-s/)  
+   Link: <a href="https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-civilian-and-military-witness-statements-side-by-s/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-civilian-and-military-witness-statements-side-by-s/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran F-4 Phantom UFO Dogfight Incident Civilian And Military Witness Statements Side By Side | MYKSSMarch 27, 2025 — UFO Major Eve...</p></details>
    Published: March 27, 2025  
 
 10. <a id="endnote-10"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-government-investigation-findings-from-1976-review/](https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-government-investigation-findings-from-1976-review/)  
+   Link: <a href="https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-government-investigation-findings-from-1976-review/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-government-investigation-findings-from-1976-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran F-4 Phantom UFO Dogfight Incident Government Investigation Findings From 1976 Reviewed | MYKSSFebruary 3, 2026 — UFO Major Ev...</p></details>
    Published: February 3, 2026  
 
 11. <a id="endnote-11"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-official-press-statements-and-defence-file-disclos/](https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-official-press-statements-and-defence-file-disclos/)  
+   Link: <a href="https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-official-press-statements-and-defence-file-disclos/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1976-tehran-f-4-phantom-ufo-dogfight-incident-official-press-statements-and-defence-file-disclos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran F-4 Phantom UFO Dogfight Incident Official Press Statements And Defence File Disclosures | MYKSSApril 14, 2025 — UFO Major Ev...</p></details>
    Published: April 14, 2025  
 
 12. <a id="endnote-12"></a>
    Source: uforeleases.com  
-   Link: [https://uforeleases.com/topics/dow-modern-uap/dow-uap-d62-mission-report-strait-of-hormuz-september-2020](https://uforeleases.com/topics/dow-modern-uap/dow-uap-d62-mission-report-strait-of-hormuz-september-2020)  
+   Link: <a href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d62-mission-report-strait-of-hormuz-september-2020" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/dow-modern-uap/dow-uap-d62-mission-report-strait-of-hormuz-september-2020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 | UAP Archive - Declassified UFO Files | UAP ArchiveSeptember 16, 2020 — MISSION REPORT DOW-UAP-D62: UAP OBSERVATION, LINK-LOSS EVENTS...</p></details>
    Published: September 16, 2020  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/](https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/)  
+   Link: <a href="https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon on Friday released a video allegedly showing...Repost: @jeremycorbell WeaponizedPodcast.com #ufos #ufo #aliens #alien... i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/](https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH | #Pentagon #UFO files REVEAL #mysterious #UAP...The UFOs were sighted by thousands of people and one was filmed by Iranian TV. Ma...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/](https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nsa.gov  
    Title: Routing and Transmittal Slip from Louis E  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761364/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761364/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761364/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761364/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Foster, DIA with a DIA summary sheet and US Defense Attache report on the sighting of a UFO in Iran on 19 September 1976July 13, 2021 — S...</p></details>
    Published: July 13, 2021  
 
 17. <a id="endnote-17"></a>
    Source: facet.onet.pl  
    Title: pl Irańskie myśliwce ścigają UFO nad instalacjami jądrowymi  
-   Link: [https://facet.onet.pl/strefa-tajemnic/iranskie-mysliwce-scigaja-ufo-nad-instalacjami-jadrowymi-raport-ujawnia-szczegoly/r1jtcmt](https://facet.onet.pl/strefa-tajemnic/iranskie-mysliwce-scigaja-ufo-nad-instalacjami-jadrowymi-raport-ujawnia-szczegoly/r1jtcmt)  
+   Link: <a href="https://facet.onet.pl/strefa-tajemnic/iranskie-mysliwce-scigaja-ufo-nad-instalacjami-jadrowymi-raport-ujawnia-szczegoly/r1jtcmt" target="_blank" rel="noopener noreferrer nofollow">https://facet.onet.pl/strefa-tajemnic/iranskie-mysliwce-scigaja-ufo-nad-instalacjami-jadrowymi-raport-ujawnia-szczegoly/r1jtcmt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Raport ujawnia szczegóły - FacetIRAŃSKIE MYŚLIWCE ŚCIGAJĄ UFO NAD INSTALACJAMI JĄDROWYMI. RAPORT UJAWNIA SZCZEGÓŁY Irańskie myśliwce wdaw...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tvi.show  
    Title: Eyewitnesses included military pilots, radar operators,  
-   Link: [https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident](https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident)  
+   Link: <a href="https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Tehran UFO Incident: Iranian Pilots’ Mysterious Encounter with Unexplained Aerial PhenomenaEYEWITNESS ACCOUNTS AND PILOT EXPERIE...</p></details>

@@ -1185,7 +1185,7 @@ next_link:
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
   short_title: Italy UFOs
-date: '2026-06-09 01:26:12 '
+date: '2026-06-10 01:50:51 '
 header:
   og_image: /assets/images/Egypt_1c39ab-overview-social.jpg
   preview_image: /assets/images/Egypt_1c39ab-overview.webp
@@ -1306,86 +1306,44 @@ Within a country-by-country UFO project, Egypt should be linked naturally to sib
 That makes Egypt valuable, but not in the way sensational accounts suggest. Its importance lies in the collision between ancient-astronaut storytelling and evidence-based investigation. The Egyptian material teaches a simple rule that applies across the whole UFO field: the more famous the setting, the more careful the evidence review must be. A light above the pyramids may be visually unforgettable, but the burden of proof remains exactly the same.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Makes Egypt a Hotspot for UFO Legends?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Makes Egypt a Hotspot for UFO Legends?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Balances sensational claims with investigative methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary archaeological and UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Offers a broader framework for understanding myth, folklore, and UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-        </h4>
-        <p class="fr-book-author">By Erich von DÃ¤niken</p>
-        
-        <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1419,75 +1377,71 @@ That makes Egypt valuable, but not in the way sensational accounts suggest. Its 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Original 90s Visitors Alien UFO Aztec Pyramid Art Poster 1996 mayan"><img src="{{ '/assets/images/marketplace-covers/99345d34588dfdceb2bd.jpg' | relative_url }}" alt="Listing image for Vintage Original 90s Visitors Alien UFO Aztec Pyramid Art Poster 1996 mayan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Original 90s Visitors Alien UFO Aztec Pyramid Art Poster 1996 mayan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pyramid alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: pyramid alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Pyramid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dcb366e71a8863c74566.jpg' | relative_url }}" alt="Listing image for Alien Pyramid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Pyramid Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pyramid alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: pyramid alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for change history - alien pyramid - uf Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63a3d528e7981a9f7337.jpg' | relative_url }}" alt="Listing image for change history - alien pyramid - uf Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">change history - alien pyramid - uf Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pyramid alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: pyramid alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="{{ '/assets/images/marketplace-covers/4fc63dc30a81fc10515f.jpg' | relative_url }}" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pyramid alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: pyramid alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pyramid+alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pyramid alien poster -book -books" data-ebay-reference="what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-pyramid-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-egypt-a-hotspot-for-ufo-what-makes-egypt-a-hotspot-for-ufo-legends-egypt-ufo-poster-book-books-series-televis&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1702,391 +1656,391 @@ That makes Egypt valuable, but not in the way sensational accounts suggest. Its 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s5chap01.htm](https://files.ncas.org/condon/text/s5chap01.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s5chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s5chap01.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Helicopter hieroglyphs  
-   Link: [https://en.wikipedia.org/wiki/Helicopter_hieroglyphs](https://en.wikipedia.org/wiki/Helicopter_hieroglyphs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helicopter_hieroglyphs</a>  
 
 4. <a id="endnote-4"></a>
    Source: archaeology.org  
-   Link: [https://archaeology.org/issues/july-august-2022/features/egypt-wadi-el-jarf-port-papyri/](https://archaeology.org/issues/july-august-2022/features/egypt-wadi-el-jarf-port-papyri/)  
+   Link: <a href="https://archaeology.org/issues/july-august-2022/features/egypt-wadi-el-jarf-port-papyri/" target="_blank" rel="noopener noreferrer nofollow">https://archaeology.org/issues/july-august-2022/features/egypt-wadi-el-jarf-port-papyri/</a>  
 
 5. <a id="endnote-5"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/](https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/)  
+   Link: <a href="https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=29210](https://nuforc.org/sighting/?id=29210)  
+   Link: <a href="https://nuforc.org/sighting/?id=29210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29210</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=163105](https://nuforc.org/sighting/?id=163105)  
+   Link: <a href="https://nuforc.org/sighting/?id=163105" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163105</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186181](https://nuforc.org/sighting/?id=186181)  
+   Link: <a href="https://nuforc.org/sighting/?id=186181" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186181</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191061](https://nuforc.org/sighting/?id=191061)  
+   Link: <a href="https://nuforc.org/sighting/?id=191061" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191061</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/k6tq71/multiple_ufos_seen_over_the_pyramids_in_giza/](https://www.reddit.com/r/UFOs/comments/k6tq71/multiple_ufos_seen_over_the_pyramids_in_giza/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/k6tq71/multiple_ufos_seen_over_the_pyramids_in_giza/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/k6tq71/multiple_ufos_seen_over_the_pyramids_in_giza/</a>  
 
 11. <a id="endnote-11"></a>
    Source: lovin.co  
    Title: Strange Lights Over Egypt Spark Curiosity and Endless Theories  
-   Link: [https://lovin.co/cairo/en/latest/strange-lights-over-egypt-spark-curiosity-and-endless-theories/](https://lovin.co/cairo/en/latest/strange-lights-over-egypt-spark-curiosity-and-endless-theories/)  
+   Link: <a href="https://lovin.co/cairo/en/latest/strange-lights-over-egypt-spark-curiosity-and-endless-theories/" target="_blank" rel="noopener noreferrer nofollow">https://lovin.co/cairo/en/latest/strange-lights-over-egypt-spark-curiosity-and-endless-theories/</a>  
 
 12. <a id="endnote-12"></a>
    Source: newsweek.com  
    Title: Mysterious Pink Orb in Sky over Egypt Sparks Theories  
-   Link: [https://www.newsweek.com/pink-orb-egypt-sky-ufo-theory-1997731](https://www.newsweek.com/pink-orb-egypt-sky-ufo-theory-1997731)  
+   Link: <a href="https://www.newsweek.com/pink-orb-egypt-sky-ufo-theory-1997731" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pink-orb-egypt-sky-ufo-theory-1997731</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 14. <a id="endnote-14"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: thenationalnews.com  
    Title: The National Stargazers in Egypt witness spectacular cosmic displays  
-   Link: [https://www.thenationalnews.com/world/mena/stargazers-in-egypt-witness-spectacular-cosmic-displays-1.609699](https://www.thenationalnews.com/world/mena/stargazers-in-egypt-witness-spectacular-cosmic-displays-1.609699)  
+   Link: <a href="https://www.thenationalnews.com/world/mena/stargazers-in-egypt-witness-spectacular-cosmic-displays-1.609699" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/mena/stargazers-in-egypt-witness-spectacular-cosmic-displays-1.609699</a>  
 
 16. <a id="endnote-16"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
 17. <a id="endnote-17"></a>
    Source: snopes.com  
    Title: egypt air fire ball video  
-   Link: [https://www.snopes.com/fact-check/egypt-air-fire-ball-video/](https://www.snopes.com/fact-check/egypt-air-fire-ball-video/)  
+   Link: <a href="https://www.snopes.com/fact-check/egypt-air-fire-ball-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/egypt-air-fire-ball-video/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=60605](https://nuforc.org/sighting/?id=60605)  
+   Link: <a href="https://nuforc.org/sighting/?id=60605" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=60605</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=128155](https://nuforc.org/sighting/?id=128155)  
+   Link: <a href="https://nuforc.org/sighting/?id=128155" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128155</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/487928085829929/posts/1616875699601823/](https://www.facebook.com/groups/487928085829929/posts/1616875699601823/)  
+   Link: <a href="https://www.facebook.com/groups/487928085829929/posts/1616875699601823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/487928085829929/posts/1616875699601823/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/](https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/)  
+   Link: <a href="https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/</a>  
 
 25. <a id="endnote-25"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 26. <a id="endnote-26"></a>
    Source: cia.gov  
    Title: FOIA CASE LOG CALENDER YE[16111550]  
-   Link: [https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf](https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06741380](https://www.cia.gov/readingroom/document/06741380)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06741380" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741380</a>  
 
 29. <a id="endnote-29"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06741356](https://www.cia.gov/readingroom/document/06741356)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06935701](https://www.cia.gov/readingroom/document/06935701)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
 31. <a id="endnote-31"></a>
    Source: cia.gov  
    Title: FOIA CASE LOG JANUARY MAR[15829364]  
-   Link: [https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20JANUARY-MAR%5B15829364%5D.pdf](https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20JANUARY-MAR%5B15829364%5D.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20JANUARY-MAR%5B15829364%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20JANUARY-MAR%5B15829364%5D.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CY%202007%20CASE%20LOG%5B15829352%5D.pdf](https://www.cia.gov/readingroom/docs/CY%202007%20CASE%20LOG%5B15829352%5D.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CY%202007%20CASE%20LOG%5B15829352%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CY%202007%20CASE%20LOG%5B15829352%5D.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06984635](https://www.cia.gov/readingroom/document/06984635)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06984635" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984635</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/](https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
    Title: i built a searchable archive of 6000 project blue  
-   Link: [https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/](https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
    Title: a 40 meter tictac shaped object detected beneath  
-   Link: [https://www.reddit.com/r/ufo/comments/1nf3haw/a_40_meter_tictac_shaped_object_detected_beneath/](https://www.reddit.com/r/ufo/comments/1nf3haw/a_40_meter_tictac_shaped_object_detected_beneath/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1nf3haw/a_40_meter_tictac_shaped_object_detected_beneath/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1nf3haw/a_40_meter_tictac_shaped_object_detected_beneath/</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/](https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Unexplained/comments/v7ehki/tulli_papyrus_an_ancient_egyptian_document/](https://www.reddit.com/r/Unexplained/comments/v7ehki/tulli_papyrus_an_ancient_egyptian_document/)  
+   Link: <a href="https://www.reddit.com/r/Unexplained/comments/v7ehki/tulli_papyrus_an_ancient_egyptian_document/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/v7ehki/tulli_papyrus_an_ancient_egyptian_document/</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Whatisthis/comments/1lcazq5/2_blue_bright_lights_in_the_sky_during_rocket/](https://www.reddit.com/r/Whatisthis/comments/1lcazq5/2_blue_bright_lights_in_the_sky_during_rocket/)  
+   Link: <a href="https://www.reddit.com/r/Whatisthis/comments/1lcazq5/2_blue_bright_lights_in_the_sky_during_rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Whatisthis/comments/1lcazq5/2_blue_bright_lights_in_the_sky_during_rocket/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
    Title: this is a map of all reported ufo sightings  
-   Link: [https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/](https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AncientCivilizations/comments/1c8vm8z/the_socalled_helicopter_hieroglyphs_at_abydos/](https://www.reddit.com/r/AncientCivilizations/comments/1c8vm8z/the_socalled_helicopter_hieroglyphs_at_abydos/)  
+   Link: <a href="https://www.reddit.com/r/AncientCivilizations/comments/1c8vm8z/the_socalled_helicopter_hieroglyphs_at_abydos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AncientCivilizations/comments/1c8vm8z/the_socalled_helicopter_hieroglyphs_at_abydos/</a>  
 
 43. <a id="endnote-43"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AncientAliens/comments/18iqrnt/do_you_think_aliens_assisted_with_building_the/](https://www.reddit.com/r/AncientAliens/comments/18iqrnt/do_you_think_aliens_assisted_with_building_the/)  
+   Link: <a href="https://www.reddit.com/r/AncientAliens/comments/18iqrnt/do_you_think_aliens_assisted_with_building_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AncientAliens/comments/18iqrnt/do_you_think_aliens_assisted_with_building_the/</a>  
 
 44. <a id="endnote-44"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 46. <a id="endnote-46"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 47. <a id="endnote-47"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/043.html](https://www.archives.gov/research/guide-fed-records/groups/043.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/043.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/043.html</a>  
 
 48. <a id="endnote-48"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/p.html](https://www.archives.gov/research/guide-fed-records/index-alpha/p.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
 
 49. <a id="endnote-49"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html](https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html)  
+   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html</a>  
 
 50. <a id="endnote-50"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html](https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html)  
+   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html</a>  
 
 51. <a id="endnote-51"></a>
    Source: archives.gov  
    Title: directors microfilm roll list  
-   Link: [https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf](https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf)  
+   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/foreign-policy/related-records/rg-169-fea-preliminary-inventory.pdf](https://www.archives.gov/files/research/foreign-policy/related-records/rg-169-fea-preliminary-inventory.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/foreign-policy/related-records/rg-169-fea-preliminary-inventory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/foreign-policy/related-records/rg-169-fea-preliminary-inventory.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf](https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf)  
+   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
 
 54. <a id="endnote-54"></a>
    Source: youtube.com  
    Title: PYRAMID MYTHBUSTING: ancient Egypt, not ancient aliens…  
-   Link: [https://www.youtube.com/watch?v=KjOiTX8INrY](https://www.youtube.com/watch?v=KjOiTX8INrY)  
+   Link: <a href="https://www.youtube.com/watch?v=KjOiTX8INrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KjOiTX8INrY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of UFO&#x27;s FINALLY REVEALED | The Most Authentic UFO Cases In The World...</p></details>
 
 55. <a id="endnote-55"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=M8Rrq2RKXFU](https://www.youtube.com/watch?v=M8Rrq2RKXFU)  
+   Link: <a href="https://www.youtube.com/watch?v=M8Rrq2RKXFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8Rrq2RKXFU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Big Pseudoarcheology Debunk (Graham Hancock, Dan Richards, Jimmy Corsetti)...</p></details>
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JK4Fo6m9C9M](https://www.youtube.com/watch?v=JK4Fo6m9C9M)  
+   Link: <a href="https://www.youtube.com/watch?v=JK4Fo6m9C9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JK4Fo6m9C9M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Evidence in Egyptians&#x27; Tombs? | Ancient Aliens | History...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: youtube.com  
    Title: Alien Evidence in Egyptians' Tombs? | Ancient Aliens | History  
-   Link: [https://www.youtube.com/watch?v=3KlcPiVJX7E](https://www.youtube.com/watch?v=3KlcPiVJX7E)  
+   Link: <a href="https://www.youtube.com/watch?v=3KlcPiVJX7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3KlcPiVJX7E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens... DEBUNKED! | COLOSSAL MYSTERIES...</p></details>
 
 58. <a id="endnote-58"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kMTKcMHsLaQ](https://www.youtube.com/watch?v=kMTKcMHsLaQ)  
+   Link: <a href="https://www.youtube.com/watch?v=kMTKcMHsLaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kMTKcMHsLaQ</a>  
 
 59. <a id="endnote-59"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 60. <a id="endnote-60"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 61. <a id="endnote-61"></a>
    Source: Wikipedia  
    Title: Tulli Papyrus  
-   Link: [https://en.wikipedia.org/wiki/Tulli_Papyrus](https://en.wikipedia.org/wiki/Tulli_Papyrus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tulli_Papyrus</a>  
 
 62. <a id="endnote-62"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: [https://en.wikipedia.org/wiki/Green_fireballs](https://en.wikipedia.org/wiki/Green_fireballs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
 63. <a id="endnote-63"></a>
    Source: Wikipedia  
    Title: Diary of Merer  
-   Link: [https://en.wikipedia.org/wiki/Diary_of_Merer](https://en.wikipedia.org/wiki/Diary_of_Merer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Diary_of_Merer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Diary_of_Merer</a>  
 
 64. <a id="endnote-64"></a>
    Source: Wikipedia  
    Title: Construction of the Egyptian pyramids  
-   Link: [https://en.wikipedia.org/wiki/Construction_of_the_Egyptian_pyramids](https://en.wikipedia.org/wiki/Construction_of_the_Egyptian_pyramids)  
+   Link: <a href="https://en.wikipedia.org/wiki/Construction_of_the_Egyptian_pyramids" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Construction_of_the_Egyptian_pyramids</a>  
 
 65. <a id="endnote-65"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rWwfdzfjFPc](https://www.youtube.com/watch?v=rWwfdzfjFPc)  
+   Link: <a href="https://www.youtube.com/watch?v=rWwfdzfjFPc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rWwfdzfjFPc</a>  
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CR_9Dn-Kx4A](https://www.youtube.com/watch?v=CR_9Dn-Kx4A)  
+   Link: <a href="https://www.youtube.com/watch?v=CR_9Dn-Kx4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CR_9Dn-Kx4A</a>  
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HzAwNhGr02k](https://www.youtube.com/watch?v=HzAwNhGr02k)  
+   Link: <a href="https://www.youtube.com/watch?v=HzAwNhGr02k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HzAwNhGr02k</a>  
 
 68. <a id="endnote-68"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rRe-GmRDir0](https://www.youtube.com/watch?v=rRe-GmRDir0)  
+   Link: <a href="https://www.youtube.com/watch?v=rRe-GmRDir0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rRe-GmRDir0</a>  
 
 69. <a id="endnote-69"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m0qd3plIF1g](https://www.youtube.com/watch?v=m0qd3plIF1g)  
+   Link: <a href="https://www.youtube.com/watch?v=m0qd3plIF1g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m0qd3plIF1g</a>  
 
 70. <a id="endnote-70"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Fj6jaFzzZGc](https://www.youtube.com/watch?v=Fj6jaFzzZGc)  
+   Link: <a href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj6jaFzzZGc</a>  
 
 71. <a id="endnote-71"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qelZ_6Nv0Cs](https://www.youtube.com/watch?v=qelZ_6Nv0Cs)  
+   Link: <a href="https://www.youtube.com/watch?v=qelZ_6Nv0Cs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qelZ_6Nv0Cs</a>  
 
 72. <a id="endnote-72"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pTN2p5nEWuc](https://www.youtube.com/watch?v=pTN2p5nEWuc)  
+   Link: <a href="https://www.youtube.com/watch?v=pTN2p5nEWuc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pTN2p5nEWuc</a>  
 
 73. <a id="endnote-73"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NNmr8fkDzDY](https://www.youtube.com/watch?v=NNmr8fkDzDY)  
+   Link: <a href="https://www.youtube.com/watch?v=NNmr8fkDzDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNmr8fkDzDY</a>  
 
 74. <a id="endnote-74"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sYATTaT2_LU](https://www.youtube.com/watch?v=sYATTaT2_LU)  
+   Link: <a href="https://www.youtube.com/watch?v=sYATTaT2_LU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sYATTaT2_LU</a>  
 
 75. <a id="endnote-75"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 76. <a id="endnote-76"></a>
    Source: historyegypt.org  
    Title: Tulli Papyrus  
-   Link: [https://historyegypt.org/artifacts/tulli-papyrus](https://historyegypt.org/artifacts/tulli-papyrus)  
+   Link: <a href="https://historyegypt.org/artifacts/tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow">https://historyegypt.org/artifacts/tulli-papyrus</a>  
 
 77. <a id="endnote-77"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 78. <a id="endnote-78"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 79. <a id="endnote-79"></a>
    Source: voynich.fandom.com  
    Title: Tulli Papyrus  
-   Link: [https://voynich.fandom.com/wiki/Tulli_Papyrus](https://voynich.fandom.com/wiki/Tulli_Papyrus)  
+   Link: <a href="https://voynich.fandom.com/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://voynich.fandom.com/wiki/Tulli_Papyrus</a>  
 
 ### Additional References
 
 80. <a id="endnote-80"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 81. <a id="endnote-81"></a>
    Source: watchmojo.com  
-   Link: [https://www.watchmojo.com/articles/4-ufo-sightings-from-ancient-times-unveiled](https://www.watchmojo.com/articles/4-ufo-sightings-from-ancient-times-unveiled)  
+   Link: <a href="https://www.watchmojo.com/articles/4-ufo-sightings-from-ancient-times-unveiled" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/4-ufo-sightings-from-ancient-times-unveiled</a>  
 
 82. <a id="endnote-82"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/](https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/</a>  
 
 83. <a id="endnote-83"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWiuxd-DMLB/?hl=en](https://www.instagram.com/reel/DWiuxd-DMLB/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DWiuxd-DMLB/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWiuxd-DMLB/?hl=en</a>  
 
 84. <a id="endnote-84"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a](https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a)  
+   Link: <a href="https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a</a>  
 
 85. <a id="endnote-85"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/5638be273b753253713a478546849e46](https://apnews.com/article/5638be273b753253713a478546849e46)  
+   Link: <a href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/5638be273b753253713a478546849e46</a>  
 
 86. <a id="endnote-86"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DF2u7VTsAxN/](https://www.instagram.com/reel/DF2u7VTsAxN/)  
+   Link: <a href="https://www.instagram.com/reel/DF2u7VTsAxN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DF2u7VTsAxN/</a>  
 
 87. <a id="endnote-87"></a>
    Source: shutterstock.com  
-   Link: [https://www.shutterstock.com/search/aliens-pyramids?page=5](https://www.shutterstock.com/search/aliens-pyramids?page=5)  
+   Link: <a href="https://www.shutterstock.com/search/aliens-pyramids?page=5" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/aliens-pyramids?page=5</a>  
 
 88. <a id="endnote-88"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/futurism/ancient-egyptian-ufo-documentation-tulli-papyrus](https://vocal.media/futurism/ancient-egyptian-ufo-documentation-tulli-papyrus)  
+   Link: <a href="https://vocal.media/futurism/ancient-egyptian-ufo-documentation-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/ancient-egyptian-ufo-documentation-tulli-papyrus</a>  
 
 89. <a id="endnote-89"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ancientnexus/posts/2340686802976809/](https://www.facebook.com/groups/ancientnexus/posts/2340686802976809/)  
+   Link: <a href="https://www.facebook.com/groups/ancientnexus/posts/2340686802976809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2340686802976809/</a>  

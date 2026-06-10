@@ -245,7 +245,7 @@ next_link:
   permalink: /soesterberg/
   short_title: Soesterberg
   heading_title: The Dutch Air Base Case That Would Not Fade
-date: '2026-06-09 01:35:29 '
+date: '2026-06-10 02:01:59 '
 header:
   og_image: /assets/images/Netherlands_Kingdom_d6d70a_meldpunt_report_data_daad9e-Illustration-1-social.jpg
   preview_image: /assets/images/Netherlands_Kingdom_d6d70a_meldpunt_report_data_daad9e-Illustration-1.webp
@@ -460,7 +460,7 @@ A year with 2,000 reports does not automatically contain twice as many unexplain
 
 The Starlink example demonstrates this clearly. A known and documented satellite deployment generated a sudden burst of Dutch UFO reports because many observers encountered an unfamiliar sight simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationthailand.com/international/30369988" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationthailand.com">[nationthailand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationthailand.com</span><span class="citation-popover-title">Close encounters?</span><span class="citation-popover-snippet">SpaceX satellites spark Dutch UFO frenzy25 May 2019 — SpaceX satellites spark Dutch UFO frenzy... Shortly afterwards, Dutch website www...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
-The same principle appears in official investigations elsewhere. Modern UAP reviews frequently find that increased reporting follows improvements in reporting systems rather than increases in extraordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nos.nl/artikel/2544730-pentagon-honderden-nieuwe-meldingen-van-gespotte-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nos.nl">[NOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nos.nl</span><span class="citation-popover-snippet">NOSPentagon: honderden nieuwe meldingen van gespotte ufo&#x27;s16 Nov 2024 — Tussen mei 2023 en juni 2024 zijn 757 nieuwe meldingen bij het Pe...</span></span></span>
+The same principle appears in official investigations elsewhere. Modern UAP reviews frequently find that increased reporting follows improvements in reporting systems rather than increases in extraordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nos.nl/artikel/2544730-pentagon-honderden-nieuwe-meldingen-van-gespotte-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nos.nl">[NOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nos.nl</span><span class="citation-popover-snippet">Pentagon: honderden nieuwe meldingen van gespotte ufo&#x27;s16 Nov 2024 — Tussen mei 2023 en juni 2024 zijn 757 nieuwe meldingen bij het Pe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GyXRO7MR75c" title="Curious Pilot: N661LF Oregon UAP / UFO sighting explained, December 7, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GyXRO7MR75c" target="_blank" rel="noopener noreferrer">Curious Pilot: N661LF Oregon UAP / UFO sighting explained, December 7, 2024</a></p><p class="youtube-embed-meta">Channel: Philip Giacalone &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GyXRO7MR75c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GyXRO7MR75c">Open on YouTube</a></p></div></div></div>
@@ -496,86 +496,44 @@ The database captures several recurring realities:
 For researchers, journalists, and sceptics alike, the archive offers a large-scale record of perception, expectation, and uncertainty. The Dutch UFO story therefore becomes less a catalogue of alien encounters and more a case study in how ordinary objects become extraordinary when viewed under unfamiliar conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=KXZWV6NOuF8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Are UFOs Legitimate Science?</span><span class="citation-popover-snippet">UFO Meldpunt Nederland explanation video [VERKLAARD] UFO Leiden, Zuid-Holland • 21 november 2020 UFO Meldpunt Nederland...</span><span class="citation-popover-meta">Published: november 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-snippet">Stichting SkepsisDaar zijn de ufo&#x27;s weerPogingen van het Nederlandse Ufo-meldpunt om via de Wet Openbaarheid Bestuur meer informatie los...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Most Dutch UFO Reports Become Familiar Objects. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Most Dutch UFO Reports Become Familiar Objects, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on classification and evaluation of reports rather than raw sighting counts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Demonstrates the difference between compelling evidence and simple reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how interpretation shapes reports of unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains satellites, planets, and sky objects frequently misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -609,75 +567,71 @@ For researchers, journalists, and sceptics alike, the archive offers a large-sca
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-t-shirt-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-data-why-most-dutch-ufo-reports-become-familiar-objects-netherlands-kingdom-of-the-ufo-poster-book-books-series-t&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -891,60 +845,60 @@ For researchers, journalists, and sceptics alike, the archive offers a large-sca
 
 1. <a id="endnote-1"></a>
    Source: skepsis.nl  
-   Link: [https://skepsis.nl/ufo-onderzoek/](https://skepsis.nl/ufo-onderzoek/)  
+   Link: <a href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-onderzoek/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stichting SkepsisDaar zijn de ufo&#x27;s weerPogingen van het Nederlandse Ufo-meldpunt om via de Wet Openbaarheid Bestuur meer informatie los...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nationthailand.com  
    Title: Close encounters?  
-   Link: [https://www.nationthailand.com/international/30369988](https://www.nationthailand.com/international/30369988)  
+   Link: <a href="https://www.nationthailand.com/international/30369988" target="_blank" rel="noopener noreferrer nofollow">https://www.nationthailand.com/international/30369988</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX satellites spark Dutch UFO frenzy25 May 2019 — SpaceX satellites spark Dutch UFO frenzy... Shortly afterwards, Dutch website www...</p></details>
    Published: May 2019  
 
 3. <a id="endnote-3"></a>
    Source: nos.nl  
-   Link: [https://nos.nl/artikel/2544730-pentagon-honderden-nieuwe-meldingen-van-gespotte-ufo-s](https://nos.nl/artikel/2544730-pentagon-honderden-nieuwe-meldingen-van-gespotte-ufo-s)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOSPentagon: honderden nieuwe meldingen van gespotte ufo&#x27;s16 Nov 2024 — Tussen mei 2023 en juni 2024 zijn 757 nieuwe meldingen bij het Pe...</p></details>
+   Link: <a href="https://nos.nl/artikel/2544730-pentagon-honderden-nieuwe-meldingen-van-gespotte-ufo-s" target="_blank" rel="noopener noreferrer nofollow">https://nos.nl/artikel/2544730-pentagon-honderden-nieuwe-meldingen-van-gespotte-ufo-s</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon: honderden nieuwe meldingen van gespotte ufo&#x27;s16 Nov 2024 — Tussen mei 2023 en juni 2024 zijn 757 nieuwe meldingen bij het Pe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Are UFOs Legitimate Science?  
-   Link: [http://www.youtube.com/watch?v=KXZWV6NOuF8](http://www.youtube.com/watch?v=KXZWV6NOuF8)  
+   Link: <a href="http://www.youtube.com/watch?v=KXZWV6NOuF8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KXZWV6NOuF8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt Nederland explanation video [VERKLAARD] UFO Leiden, Zuid-Holland • 21 november 2020 UFO Meldpunt Nederland...</p></details>
    Published: november 2020  
 
 5. <a id="endnote-5"></a>
    Source: ufomeldpunt.nl  
    Title: UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland  
-   Link: [https://www.ufomeldpunt.nl/](https://www.ufomeldpunt.nl/)  
+   Link: <a href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>99. Gemiddeld aantal UFO meldingen per maand... 2024, 2023, 2022, 2021, 2020, 2019, 2018...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufomeldpunt.nl  
-   Link: [https://www.ufomeldpunt.nl/?page=2](https://www.ufomeldpunt.nl/?page=2)  
+   Link: <a href="https://www.ufomeldpunt.nl/?page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/?page=2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laatste UFO-meldingen in NederlandAantal meldingen sinds de lancering van het meldpunt in januari 2011. 99. Gemiddeld aantal UFO meldinge...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ufomeldpunt.nl  
-   Link: [https://www.ufomeldpunt.nl/meldingen/noord-holland/zaandam](https://www.ufomeldpunt.nl/meldingen/noord-holland/zaandam)  
+   Link: <a href="https://www.ufomeldpunt.nl/meldingen/noord-holland/zaandam" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/meldingen/noord-holland/zaandam</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandUFO-meldingen uit ZaandamNovember 2024 · 22. Stilstaande sigaar van licht - spontaan zichtbaar · Zaandam, Noord-Hol...</p></details>
    Published: November 2024  
 
 8. <a id="endnote-8"></a>
    Source: ufomeldpunt.nl  
-   Link: [https://www.ufomeldpunt.nl/meldingen/gelderland/harderwijk](https://www.ufomeldpunt.nl/meldingen/gelderland/harderwijk)  
+   Link: <a href="https://www.ufomeldpunt.nl/meldingen/gelderland/harderwijk" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/meldingen/gelderland/harderwijk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandUFO-meldingen uit HarderwijkUFO-meldingen uit Harderwijk · December 2025 · November 2025 · September 2025 · Juni 20...</p></details>
    Published: December 2025  
 
 9. <a id="endnote-9"></a>
    Source: ufomeldpunt.nl  
-   Link: [https://www.ufomeldpunt.nl/meldingen/vorm/lichtflits?page=1&provincie=7](https://www.ufomeldpunt.nl/meldingen/vorm/lichtflits?page=1&provincie=7)  
+   Link: <a href="https://www.ufomeldpunt.nl/meldingen/vorm/lichtflits?page=1&amp;provincie=7" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/meldingen/vorm/lichtflits?page=1&amp;provincie=7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandUFO-meldingen uit Noord-BrabantSeptember 2025 · 14. Lichtflitsen in patroon door de lucht · Helmond, Noord-Brabant...</p></details>
    Published: September 2025  
 
 10. <a id="endnote-10"></a>
    Source: ufomeldpunt.nl  
-   Link: [https://www.ufomeldpunt.nl/meldingen/utrecht/leusden](https://www.ufomeldpunt.nl/meldingen/utrecht/leusden)  
+   Link: <a href="https://www.ufomeldpunt.nl/meldingen/utrecht/leusden" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/meldingen/utrecht/leusden</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandUFO-meldingen uit LeusdenUFO-meldingen uit Leusden · Januari 2026 · September 2025 · Maart 2025 · Februari 2025 · S...</p></details>
    Published: September 2025  
 
@@ -952,50 +906,50 @@ For researchers, journalists, and sceptics alike, the archive offers a large-sca
 
 11. <a id="endnote-11"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/tag/germany/](https://www.euroufo.net/tag/germany/)  
+   Link: <a href="https://www.euroufo.net/tag/germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/germany/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GermanyFor the first time, the world&#x27;s largest civilian UFO organisation, MUFON has agreed to share its European data with EuroUfo.Net. T...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uapcoalitienederland.nl  
-   Link: [https://uapcoalitienederland.nl/pers/persberichten/](https://uapcoalitienederland.nl/pers/persberichten/)  
+   Link: <a href="https://uapcoalitienederland.nl/pers/persberichten/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/pers/persberichten/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PersberichtenWelkom op onze persberichten pagina, jouw toegangspoort tot de meest actuele aankondigingen en formele standpunten van de UA...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/space/con/star/stats.html](https://planet4589.org/space/con/star/stats.html)  
+   Link: <a href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/con/star/stats.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1sMvdE8MfgA](https://www.youtube.com/watch?v=1sMvdE8MfgA)  
+   Link: <a href="https://www.youtube.com/watch?v=1sMvdE8MfgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1sMvdE8MfgA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Mistaken As UFOs Over PittsburghSome people were confused over the lights&#x27; origins. Starlink Satellites Mistaken As U...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blog.seniorennet.be  
-   Link: [https://blog.seniorennet.be/peter2011/archief.php?startdatum=1577833200&stopdatum=1580511600](https://blog.seniorennet.be/peter2011/archief.php?startdatum=1577833200&stopdatum=1580511600)  
+   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1577833200&amp;stopdatum=1580511600" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1577833200&amp;stopdatum=1580511600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The lights were spotted above the Popocatepetl volcano in Mexico; Alien hunters say ET may be...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/author/edoardo/](https://www.euroufo.net/author/edoardo/)  
+   Link: <a href="https://www.euroufo.net/author/edoardo/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/author/edoardo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Author Archives: Edoardo RussoA new joint initiative was launched by EuroUFO.net and UAP Check: Euro Ufo Index, the catalog of reports an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1chwcn6/military_plane_over_the_netherlands_2020_and_a/](https://www.reddit.com/r/UFOs/comments/1chwcn6/military_plane_over_the_netherlands_2020_and_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1chwcn6/military_plane_over_the_netherlands_2020_and_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1chwcn6/military_plane_over_the_netherlands_2020_and_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Plane Over the Netherlands (2020) and a...On March 6th, 1982, over 23,000 people witnessed a cigar UFO hovering over a Brazilia...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: starlink satellites mistaken as ufos over pittsburgh  
-   Link: [https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/](https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/)  
+   Link: <a href="https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 5... Several KDKA viewers reached out to us, wondering if it was a UFO or maybe...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blog.seniorennet.be  
-   Link: [https://blog.seniorennet.be/peter2011/archief.php?startdatum=1572562800&stopdatum=1575154800](https://blog.seniorennet.be/peter2011/archief.php?startdatum=1572562800&stopdatum=1575154800)  
+   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1572562800&amp;stopdatum=1575154800" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1572562800&amp;stopdatum=1575154800</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Vrees van astronomen komt uit: vloot Starlink-satellieten van Elon Musk verstoor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/vDD-D20nfUI](https://www.youtube.com/shorts/vDD-D20nfUI)  
+   Link: <a href="https://www.youtube.com/shorts/vDD-D20nfUI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/vDD-D20nfUI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or UAP&#x27;s. #starlink #uaps #ufos #alienorsatellite. 99. Dislike...</p></details>

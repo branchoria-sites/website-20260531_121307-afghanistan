@@ -214,10 +214,10 @@ breadcrumb_links:
   short_title: Croatia UFOs
 sibling_links:
 - basename: Croatia_d7e045_yugoslav_aviation_ca_d2c52a
-  title: 1970s Aviation Cases | What Croatia’s UFO Records Reveal About Unidentified...
-  permalink: /1970s-aviation-cases/
-  short_title: 1970s Aviation Cases
-  heading_title: How 1970s Aviation Reports Shaped Croatia’s UFO History
+  title: 1970 s Aviation Cases | What Croatia’s UFO Records Reveal About Unidentified...
+  permalink: /1970-s-aviation-cases/
+  short_title: 1970 s Aviation Cases
+  heading_title: How 1970 s Aviation Reports Shaped Croatia’s UFO History
 - basename: Croatia_d7e045_zagreb_drone_crash_61da8d
   title: 2022 Zagreb Drone | What Croatia’s UFO Records Reveal About Unidentified...
   permalink: /2022-zagreb-drone/
@@ -245,7 +245,7 @@ next_link:
   permalink: /research-groups/
   short_title: Research Groups
   heading_title: Croatia’s UFO Researchers and Archival Records
-date: '2026-06-09 01:24:52 '
+date: '2026-06-10 01:49:26 '
 header:
   og_image: /assets/images/Croatia_d7e045_civilian_ufo_reports_550e3e-Illustration-1-social.jpg
   preview_image: /assets/images/Croatia_d7e045_civilian_ufo_reports_550e3e-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Croatia_d7e045_civilian_ufo_reports_550e3e-Illustration-1-
 
 ## Introduction
 
-Modern civilian UFO reporting in [Croatia]({{ 'what-croatias-ufo-records-reveal-about/' | relative_url }}) is less a catalogue of spectacular encounters than a fragmented stream of urban light sightings, Adriatic coastal videos, social-media clips, and entries in international UFO databases. Most reports are brief, weakly documented, and difficult to verify independently. Yet taken together, they reveal how Croatian UFO culture has evolved since the 2000s: from local newspaper anecdotes and late-night radio discussions to smartphone footage, Facebook groups, Reddit threads, and amateur investigation networks.
+Modern civilian UFO reporting in Croatia is less a catalogue of spectacular encounters than a fragmented stream of urban light sightings, Adriatic coastal videos, social-media clips, and entries in international UFO databases. Most reports are brief, weakly documented, and difficult to verify independently. Yet taken together, they reveal how Croatian UFO culture has evolved since the 2000s: from local newspaper anecdotes and late-night radio discussions to smartphone footage, Facebook groups, Reddit threads, and amateur investigation networks.
 
 
 <img src="{{ "/assets/images/Croatia_d7e045_civilian_ufo_reports_550e3e-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_civilian_ufo_reports_550e3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_civilian_ufo_reports_550e3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ Several recurring patterns appear in these reports:
 
 </div>
 
-A major example of how quickly such stories spread occurred during a 2008 Zagreb radio hoax. A Croatian station broadcast false reports of UFO activity over the city in a deliberate parody inspired by “War of the Worlds”. The stunt triggered public confusion and emergency calls before organisers admitted it was fabricated. The episode demonstrated how receptive urban audiences could become when mystery lights were combined with authoritative-sounding media framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/alien-invasion-hoax-exposes-croatia-s-military-hair-tri-5110720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-snippet">GizmodoAlien Invasion Hoax Exposes Croatia&#x27;s Military Hair TriggerDecember 15, 2008 — 15 Dec 2008 — Residents of Zagreb panicked last wee...</span><span class="citation-popover-meta">Published: December 15, 2008</span></span></span>
+A major example of how quickly such stories spread occurred during a 2008 Zagreb radio hoax. A Croatian station broadcast false reports of UFO activity over the city in a deliberate parody inspired by “War of the Worlds”. The stunt triggered public confusion and emergency calls before organisers admitted it was fabricated. The episode demonstrated how receptive urban audiences could become when mystery lights were combined with authoritative-sounding media framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/alien-invasion-hoax-exposes-croatia-s-military-hair-tri-5110720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-snippet">Alien Invasion Hoax Exposes Croatia&#x27;s Military Hair TriggerDecember 15, 2008 — 15 Dec 2008 — Residents of Zagreb panicked last wee...</span><span class="citation-popover-meta">Published: December 15, 2008</span></span></span>
 
 Modern social-media circulation has amplified the same dynamic. Facebook and Reddit posts regularly present short clips of lights over Zagreb, Rijeka, or the Adriatic coast with titles implying “orb formations” or unexplained aerial manoeuvres. Yet detailed review usually reveals major evidential gaps:
 
@@ -311,7 +311,7 @@ Most Croatian civilian UFO videos share the same technical weaknesses seen inter
 
 </div>
 
-A Reddit discussion about alleged “orbs” filmed above the island of Krk became a useful example of crowd-sourced sceptical analysis. Some commenters interpreted the lights as anomalous objects, while others pointed out classic focus-loss behaviour in the camera image, noting that ordinary lights became circular “orbs” once the device lost focus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditUFO orbs over the island of Krk in Croatia 02.12.2024December 3, 2024 — This is not my video but from a person who goes by the name...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+A Reddit discussion about alleged “orbs” filmed above the island of Krk became a useful example of crowd-sourced sceptical analysis. Some commenters interpreted the lights as anomalous objects, while others pointed out classic focus-loss behaviour in the camera image, noting that ordinary lights became circular “orbs” once the device lost focus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UFO orbs over the island of Krk in Croatia 02.12.2024December 3, 2024 — This is not my video but from a person who goes by the name...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 That exchange reflects an important shift in Croatian UFO discourse. Older cases were often filtered through television programmes or local UFO enthusiasts. Modern cases are immediately subjected to online technical criticism by amateur photographers, pilots, drone users, and astronomy enthusiasts.
 
@@ -520,86 +520,44 @@ Several conclusions stand out:
 The Croatian pattern therefore resembles broader European civilian UFO reporting: a mixture of sincere witness testimony, folklore-like storytelling, digital-age amplification, occasional hoaxes, and a small residue of genuinely unexplained observations that remain interesting precisely because the available evidence is incomplete rather than spectacular.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Croatiaâ€™s Modern Civilian UFO Sightings Reviewed. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Croatia’s Modern Civilian UFO Sightings Reviewed, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for civilian sighting analysis and classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows what stronger evidence looks like compared with typical civilian reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Relevant to folklore, interpretation, and recurring sighting themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Useful for understanding perception and pattern recognition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -633,75 +591,71 @@ The Croatian pattern therefore resembles broader European civilian UFO reporting
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-034a02-croatia-s-modern-civilian-ufo-sightings-reviewed-croatia-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -915,108 +869,108 @@ The Croatian pattern therefore resembles broader European civilian UFO reporting
 
 1. <a id="endnote-1"></a>
    Source: gizmodo.com  
-   Link: [https://gizmodo.com/alien-invasion-hoax-exposes-croatia-s-military-hair-tri-5110720](https://gizmodo.com/alien-invasion-hoax-exposes-croatia-s-military-hair-tri-5110720)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GizmodoAlien Invasion Hoax Exposes Croatia&#x27;s Military Hair TriggerDecember 15, 2008 — 15 Dec 2008 — Residents of Zagreb panicked last wee...</p></details>
+   Link: <a href="https://gizmodo.com/alien-invasion-hoax-exposes-croatia-s-military-hair-tri-5110720" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/alien-invasion-hoax-exposes-croatia-s-military-hair-tri-5110720</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Invasion Hoax Exposes Croatia&#x27;s Military Hair TriggerDecember 15, 2008 — 15 Dec 2008 — Residents of Zagreb panicked last wee...</p></details>
    Published: December 15, 2008  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: Yesterday over Croatia, this phenomenon was interesting  
-   Link: [https://www.facebook.com/groups/376355972487572/posts/2134815366641615/](https://www.facebook.com/groups/376355972487572/posts/2134815366641615/)  
+   Link: <a href="https://www.facebook.com/groups/376355972487572/posts/2134815366641615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/376355972487572/posts/2134815366641615/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astonishing formation of 49 UFOs in the night sky... xD: The astonishing UFO video showing 49 tiny craft taking to the night skies in per...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/](https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO orbs over the island of Krk in Croatia 02.12.2024December 3, 2024 — This is not my video but from a person who goes by the name...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO orbs over the island of Krk in Croatia 02.12.2024December 3, 2024 — This is not my video but from a person who goes by the name...</p></details>
    Published: December 3, 2024  
 
 4. <a id="endnote-4"></a>
    Source: ca.finance.yahoo.com  
    Title: Finance UFOs?  
-   Link: [https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html](https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html)  
+   Link: <a href="https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html" target="_blank" rel="noopener noreferrer nofollow">https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious circles appear in the sea off Croatia14 Aug 2014 — The 28 seagrass circles were discovered off Dugi Otok Island in the Adriati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: duap-polaris.hr  
    Title: 101 nickpope  
-   Link: [https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html](https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/%40duap.polaris](https://www.youtube.com/%40duap.polaris)  
+   Link: <a href="https://www.youtube.com/%40duap.polaris" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40duap.polaris</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DUAP Polaris@duap.polaris. 362 subscribers•23 videos. More about this channel...more. More about... UAP / UFO / NLO Witness / Svjedočan...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YbgbviR6NtM](https://www.youtube.com/watch?v=YbgbviR6NtM)  
+   Link: <a href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YbgbviR6NtM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO(orb) sightings above Hvar, Croatia 28.Aug.2016.... flying towards the woods. It was only visible on the camera using... UFO(o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: pan adria pilots written report about 1976 pan  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/](https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/)  
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - Pan Adria pilots written report about 1976 Pan Adria UFO incident in.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100095324142521/posts/in-a-startling-security-breach-a-massive-soviet-era-tu-141-reconnaissance-drone-/1131620873358707/](https://www.facebook.com/100095324142521/posts/in-a-startling-security-breach-a-massive-soviet-era-tu-141-reconnaissance-drone-/1131620873358707/)  
+   Link: <a href="https://www.facebook.com/100095324142521/posts/in-a-startling-security-breach-a-massive-soviet-era-tu-141-reconnaissance-drone-/1131620873358707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/in-a-startling-security-breach-a-massive-soviet-era-tu-141-reconnaissance-drone-/1131620873358707/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>fell looks like a part of an aircraft engine.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=npl7uuMe_u8](https://www.youtube.com/watch?v=npl7uuMe_u8)  
+   Link: <a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Compilation April - July 2013 CROATIA Hrvatska...</p></details>
    Published: July 2013  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Sightings Compilation April  
-   Link: [https://www.youtube.com/watch?v=X6QwOXnUojk](https://www.youtube.com/watch?v=X6QwOXnUojk)  
+   Link: <a href="https://www.youtube.com/watch?v=X6QwOXnUojk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X6QwOXnUojk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Triangle of Pag! Motorcycle adventure towards TET Croatia...</p></details>
    Published: July 2013  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO Triangle of Pag! Motorcycle adventure towards TET Croatia  
-   Link: [https://www.youtube.com/watch?v=TKPSIMEzp9c](https://www.youtube.com/watch?v=TKPSIMEzp9c)  
+   Link: <a href="https://www.youtube.com/watch?v=TKPSIMEzp9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TKPSIMEzp9c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Croatia - Aliens - Križevci - NEW FOOTAGE...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=R5dhT82VAy4](https://www.youtube.com/watch?v=R5dhT82VAy4)  
+   Link: <a href="https://www.youtube.com/watch?v=R5dhT82VAy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R5dhT82VAy4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Na rubu znanosti: NLO i zviždači...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Na rubu znanosti: NLO i zviždači  
-   Link: [https://www.youtube.com/watch?v=uekuEwiWNJo](https://www.youtube.com/watch?v=uekuEwiWNJo)  
+   Link: <a href="https://www.youtube.com/watch?v=uekuEwiWNJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uekuEwiWNJo</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DPJarhCD8UA/](https://www.instagram.com/reel/DPJarhCD8UA/)  
+   Link: <a href="https://www.instagram.com/reel/DPJarhCD8UA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPJarhCD8UA/</a>  
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVZ_Lb2AVGf/](https://www.instagram.com/reel/DVZ_Lb2AVGf/)  
+   Link: <a href="https://www.instagram.com/reel/DVZ_Lb2AVGf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVZ_Lb2AVGf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These mysterious images, reportedly captured from space...DIAMOND UFO CAUGHT ON CAMERA MUŞ Original Footage Quick Analysis Zagreb, Croat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/alienaproject/](https://www.instagram.com/alienaproject/)  
+   Link: <a href="https://www.instagram.com/alienaproject/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/alienaproject/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and delayed responses.... On...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
    Title: DT8mc Ntl ABA  
-   Link: [https://www.instagram.com/p/DT8mcNtlABA/?hl=en](https://www.instagram.com/p/DT8mcNtlABA/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DT8mcNtlABA/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DT8mcNtlABA/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This footage was captured by pilot Jorge Arteaga in 2023 and...This footage was captured by pilot Jorge Arteaga in 2023 and quickly expl...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aol.co.uk  
    Title: UF Os?  
-   Link: [https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html](https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html)  
+   Link: <a href="https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious circles appear in the sea off Croatia14 Aug 2014 — The 28 seagrass circles were discovered off Dugi Otok Island in the Adriati...</p></details>

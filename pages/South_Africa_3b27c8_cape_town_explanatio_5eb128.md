@@ -245,7 +245,7 @@ next_link:
   permalink: /eastern-cape/
   short_title: Eastern Cape
   heading_title: Why the Eastern Cape Keeps Reappearing in UFO Stories
-date: '2026-06-09 01:40:52 '
+date: '2026-06-10 02:08:02 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustrati
 
 ## Introduction
 
-Cape Town has produced some of [South Africa]({{ 'what-really-stands-out-in-south/' | relative_url }})’s most widely shared UFO photographs, but it has also produced some of the country’s clearest examples of how ordinary atmospheric and urban conditions can create extraordinary-looking sights. The city sits between the Atlantic Ocean and steep mountain terrain, creating unusual cloud formations, dramatic lighting effects and strong visual contrasts. When these conditions combine with social media, tourism hotspots and a skyline full of reflections, aircraft lights and event lighting, unusual sightings can quickly become local UFO stories. In several well-known Cape Town cases, the mystery turned out not to be hidden technology or extraterrestrial craft, but weather patterns, mountain-generated clouds and artificial lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span>
+Cape Town has produced some of South Africa’s most widely shared UFO photographs, but it has also produced some of the country’s clearest examples of how ordinary atmospheric and urban conditions can create extraordinary-looking sights. The city sits between the Atlantic Ocean and steep mountain terrain, creating unusual cloud formations, dramatic lighting effects and strong visual contrasts. When these conditions combine with social media, tourism hotspots and a skyline full of reflections, aircraft lights and event lighting, unusual sightings can quickly become local UFO stories. In several well-known Cape Town cases, the mystery turned out not to be hidden technology or extraterrestrial craft, but weather patterns, mountain-generated clouds and artificial lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span>
 
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1-dark.svg" | relative_url }}" alt="Cape Town illustration 1" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ The city therefore occupies a distinctive place in South Africa’s UFO history.
 
 ## Table Mountain and the famous “UFO clouds”
 
-The most famous Cape Town UFO episode occurred in November 2015, when dramatic saucer-shaped clouds appeared above the city and quickly spread across international news outlets and social media. Photographs showed what looked like giant hovering discs suspended over the skyline, leading many online observers to compare them to alien spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-clouds-captured-hovering-over-cape-town-10340129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo clouds captured hovering over cape town 10340129</span><span class="citation-popover-snippet">Sky News&#x27;UFO Clouds&#x27; Captured Hovering Over Cape Town | World...10 Nov 2015 — Residents of Cape Town may have thought they were seeing U...</span></span></span>
+The most famous Cape Town UFO episode occurred in November 2015, when dramatic saucer-shaped clouds appeared above the city and quickly spread across international news outlets and social media. Photographs showed what looked like giant hovering discs suspended over the skyline, leading many online observers to compare them to alien spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-clouds-captured-hovering-over-cape-town-10340129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo clouds captured hovering over cape town 10340129</span><span class="citation-popover-snippet">Sky News&#x27;UFO Clouds&#x27; Captured Hovering Over Cape Town &#124; World...10 Nov 2015 — Residents of Cape Town may have thought they were seeing U...</span></span></span>
 
 The explanation was entirely meteorological.
 
@@ -274,7 +274,7 @@ Several factors make lenticular clouds especially vulnerable to UFO interpretati
 * They can remain apparently motionless for long periods.
 * Their edges often appear sharply defined compared with ordinary clouds.
 * Sunset lighting can create metallic-looking shadows and highlights.
-* They frequently form directly above Table Mountain, giving the illusion of a hovering object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span> ScienceAlert The 2015 photographs became internationally famous precisely because they matched popular expectations of what a UFO should look like. In rea <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[sciencealert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">ScienceAlertThese Spectacular Clouds Over Cape Town Aren&#x27;t UFOs...10 Nov 2015 — Depending on the atmospheric conditions, lenticular clo...</span></span></span> lity, the event demonstrated how a rare but understood atmospheric phenomenon can appear deeply mysterious when viewed without meteorological context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cntraveler.com/stories/2015-11-10/ufo-clouds-spotted-over-cape-town-south-africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cntraveler.com">[Condé Nast Traveler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cntraveler.com</span><span class="citation-popover-title">ufo clouds spotted over cape town south africa</span><span class="citation-popover-snippet">ufo clouds spotted over cape town south africa</span></span></span>
+* They frequently form directly above Table Mountain, giving the illusion of a hovering object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span> ScienceAlert The 2015 photographs became internationally famous precisely because they matched popular expectations of what a UFO should look like. In rea <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[sciencealert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">These Spectacular Clouds Over Cape Town Aren&#x27;t UFOs...10 Nov 2015 — Depending on the atmospheric conditions, lenticular clo...</span></span></span> lity, the event demonstrated how a rare but understood atmospheric phenomenon can appear deeply mysterious when viewed without meteorological context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cntraveler.com/stories/2015-11-10/ufo-clouds-spotted-over-cape-town-south-africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cntraveler.com">[Condé Nast Traveler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cntraveler.com</span><span class="citation-popover-title">ufo clouds spotted over cape town south africa</span><span class="citation-popover-snippet">ufo clouds spotted over cape town south africa</span></span></span>
 
 ### Why Table Mountain is a UFO generator
 
@@ -363,93 +363,51 @@ Cape Town occupies an important place in the broader South African UFO landscape
 
 Many famous UFO stories begin with something genuinely unidentified at the moment of observation. The key question is what happens after investigation. In Cape Town’s best-known examples, follow-up analysis usually points toward identifiable causes such as lenticular clouds, event lighting or other atmospheric and urban effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span>
 
-That does not mean every report is solved immediately. Witnesses often experience real uncertainty, and unusual weather can produce genuinely startling visuals. The significance of the Cape Town cases lies in showing how easily extraordinary-looking sights can emerge from ordinary conditions when mountains, ocean weather, city lights and public attention converge in the same place. In the South African UFO archive, Cape Town is therefore less a centre of enduring mystery than a case study in how spectacular natural and human-made phenomena can become UFO stories before their causes are understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">ScienceAlertThese Spectacular Clouds Over Cape Town Aren&#x27;t UFOs...10 Nov 2015 — Depending on the atmospheric conditions, lenticular clo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span>
+That does not mean every report is solved immediately. Witnesses often experience real uncertainty, and unusual weather can produce genuinely startling visuals. The significance of the Cape Town cases lies in showing how easily extraordinary-looking sights can emerge from ordinary conditions when mountains, ocean weather, city lights and public attention converge in the same place. In the South African UFO archive, Cape Town is therefore less a centre of enduring mystery than a case study in how spectacular natural and human-made phenomena can become UFO stories before their causes are understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">These Spectacular Clouds Over Cape Town Aren&#x27;t UFOs...10 Nov 2015 — Depending on the atmospheric conditions, lenticular clo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8v0k9sGc4nA" title="南アフリカUFO現象の謎を解明：科学的視点から見た目撃報告の真相と、世界が注目する異星文明との接触地点" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8v0k9sGc4nA" target="_blank" rel="noopener noreferrer">南アフリカUFO現象の謎を解明：科学的視点から見た目撃報告の真相と、世界が注目する異星文明との接触地点</a></p><p class="youtube-embed-meta">Channel: LALALA MYSTERY &middot; Views: 11.1K &middot; Uploaded: September 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8v0k9sGc4nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8v0k9sGc4nA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Cape Town UFOs Turn Out to Be Weather. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Cape Town UFOs Turn Out to Be Weather, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Focuses on documented sightings and later explanations, matching the weather-versus-UFO theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Explains how investigators separate strong cases from misidentifications and ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides scientific tools for evaluating unusual sky observations and mistaken interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lou7f1tpERoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weather Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather Flying">Weather Flying</a>
-        </h4>
-        <p class="fr-book-author">By Robert Buck</p>
-        
-        <p class="fr-book-desc">Helps explain atmospheric effects and visual phenomena often mistaken for unusual craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -483,75 +441,71 @@ That does not mean every report is solved immediately. Witnesses often experienc
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-town-when-cape-town-ufos-turn-out-to-be-weather-south-africa-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -765,114 +719,114 @@ That does not mean every report is solved immediately. Witnesses often experienc
 
 1. <a id="endnote-1"></a>
    Source: sciencealert.com  
-   Link: [https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world](https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceAlertThese Spectacular Clouds Over Cape Town Aren&#x27;t UFOs...10 Nov 2015 — Depending on the atmospheric conditions, lenticular clo...</p></details>
+   Link: <a href="https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/these-spectacular-clouds-over-cape-town-aren-t-ufos-but-they-are-out-of-this-world</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These Spectacular Clouds Over Cape Town Aren&#x27;t UFOs...10 Nov 2015 — Depending on the atmospheric conditions, lenticular clo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo clouds captured hovering over cape town 10340129  
-   Link: [https://news.sky.com/story/ufo-clouds-captured-hovering-over-cape-town-10340129](https://news.sky.com/story/ufo-clouds-captured-hovering-over-cape-town-10340129)  
+   Link: <a href="https://news.sky.com/story/ufo-clouds-captured-hovering-over-cape-town-10340129" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-clouds-captured-hovering-over-cape-town-10340129</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky News&#x27;UFO Clouds&#x27; Captured Hovering Over Cape Town | World...10 Nov 2015 — Residents of Cape Town may have thought they were seeing U...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news24.com  
    Title: still no answers on mysterious green ufo lights in cape town 20151130  
-   Link: [https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130](https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130)  
+   Link: <a href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>But nice aliens.&quot; Everyone&#x27;s tweeting about a UFO sighting off Long Street. Please let it be aliens. But nice aliens.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: capetownetc.com  
-   Link: [https://www.capetownetc.com/news/capetonians-left-mystified-by-green-light-in-sky/](https://www.capetownetc.com/news/capetonians-left-mystified-by-green-light-in-sky/)  
+   Link: <a href="https://www.capetownetc.com/news/capetonians-left-mystified-by-green-light-in-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.capetownetc.com/news/capetonians-left-mystified-by-green-light-in-sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cape Town ETCCapetonians left mystified by green light in sky18 Feb 2021 — Unsurprisingly, several users commented that the lights were a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nationalgeographic.com  
    Title: 151109 ufo clouds cape town lenticular clouds weather science  
-   Link: [https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science](https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Technically called “lenticular clouds,” the weird phenomenon...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: timeslive.co.za  
    Title: Times LIVEStill no answers on mysterious green UFO lights in Cape  
-   Link: [https://www.timeslive.co.za/news/south-africa/2015-11-30-still-no-answers-on-mysterious-green-ufo-lights-in-cape-town/](https://www.timeslive.co.za/news/south-africa/2015-11-30-still-no-answers-on-mysterious-green-ufo-lights-in-cape-town/)  
+   Link: <a href="https://www.timeslive.co.za/news/south-africa/2015-11-30-still-no-answers-on-mysterious-green-ufo-lights-in-cape-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeslive.co.za/news/south-africa/2015-11-30-still-no-answers-on-mysterious-green-ufo-lights-in-cape-town/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO) and others blaming a marketing campaign. The South African Astronomical Observatory told News24 its understanding was the lights we...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/strange-clouds-form-cape-town-south-africa/story?id=35085358](https://abcnews.com/Technology/strange-clouds-form-cape-town-south-africa/story?id=35085358)  
+   Link: <a href="https://abcnews.com/Technology/strange-clouds-form-cape-town-south-africa/story?id=35085358" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/strange-clouds-form-cape-town-south-africa/story?id=35085358</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsStrange Clouds Form Over Cape Town, South AfricaCape Town residents captured images of what some refer to as &quot;UFO&quot; shaped clouds...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: businessinsider.com  
    Title: ufo clouds over south africa 2015 11  
-   Link: [https://www.businessinsider.com/ufo-clouds-over-south-africa-2015-11](https://www.businessinsider.com/ufo-clouds-over-south-africa-2015-11)  
+   Link: <a href="https://www.businessinsider.com/ufo-clouds-over-south-africa-2015-11" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/ufo-clouds-over-south-africa-2015-11</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Clouds Over South Africa10 Nov 2015 — As the air passes over this terrain, it cools and condenses into ominous UFO-like shapes, align...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: abc.net.au  
    Title: lenticular ufo clouds over cape town and other weird formations  
-   Link: [https://www.abc.net.au/news/2015-11-10/lenticular-ufo-clouds-over-cape-town-and-other-weird-formations/6926526](https://www.abc.net.au/news/2015-11-10/lenticular-ufo-clouds-over-cape-town-and-other-weird-formations/6926526)  
+   Link: <a href="https://www.abc.net.au/news/2015-11-10/lenticular-ufo-clouds-over-cape-town-and-other-weird-formations/6926526" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2015-11-10/lenticular-ufo-clouds-over-cape-town-and-other-weird-formations/6926526</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds form when high winds blow over rough...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cntraveler.com  
    Title: ufo clouds spotted over cape town south africa  
-   Link: [https://www.cntraveler.com/stories/2015-11-10/ufo-clouds-spotted-over-cape-town-south-africa](https://www.cntraveler.com/stories/2015-11-10/ufo-clouds-spotted-over-cape-town-south-africa)  
+   Link: <a href="https://www.cntraveler.com/stories/2015-11-10/ufo-clouds-spotted-over-cape-town-south-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/stories/2015-11-10/ufo-clouds-spotted-over-cape-town-south-africa</a>  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/99148475798/posts/10153763531600799/](https://www.facebook.com/groups/99148475798/posts/10153763531600799/)  
+   Link: <a href="https://www.facebook.com/groups/99148475798/posts/10153763531600799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/99148475798/posts/10153763531600799/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Bizarre #UFO shaped clouds over #CapeTown...The pictures feature eerie, saucer-shaped puffs that seem to hang over the sky like UFOs. B...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18ym0nn/ufo_cape_town_south_africa/](https://www.reddit.com/r/UFOs/comments/18ym0nn/ufo_cape_town_south_africa/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18ym0nn/ufo_cape_town_south_africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18ym0nn/ufo_cape_town_south_africa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cape Town south africaIf it&#x27;s an alien, maybe they get some strange satisfaction just... r/capetown - Anyone else see the ufo orb in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: africacheck.org  
    Title: lenticular clouds over cape town real photo 5 years old  
-   Link: [https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old](https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old)  
+   Link: <a href="https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old" target="_blank" rel="noopener noreferrer nofollow">https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Lenticular clouds&#x27; over Cape Town real, but photo 5 years...21 Aug 2020 — The photo shows strangely shaped clouds floating above Cape T...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iol.co.za  
    Title: 2015 11 30 twitter abuzz after ufo sighting above city  
-   Link: [https://iol.co.za/capetimes/news/2015-11-30-twitter-abuzz-after-ufo-sighting-above-city/](https://iol.co.za/capetimes/news/2015-11-30-twitter-abuzz-after-ufo-sighting-above-city/)  
+   Link: <a href="https://iol.co.za/capetimes/news/2015-11-30-twitter-abuzz-after-ufo-sighting-above-city/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/capetimes/news/2015-11-30-twitter-abuzz-after-ufo-sighting-above-city/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter abuzz after &#x27;UFO sighting&#x27; above city30 Nov 2015 — Rondebosch resident Muammar Slamdien took to UFO Research of SA&#x27;s (UFORSA) yes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/derekvandamfanpage/posts/have-you-seen-the-alien-space-craft-hovering-over-the-mother-city-today-fear-not/10153057183221249/](https://www.facebook.com/derekvandamfanpage/posts/have-you-seen-the-alien-space-craft-hovering-over-the-mother-city-today-fear-not/10153057183221249/)  
+   Link: <a href="https://www.facebook.com/derekvandamfanpage/posts/have-you-seen-the-alien-space-craft-hovering-over-the-mother-city-today-fear-not/10153057183221249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/derekvandamfanpage/posts/have-you-seen-the-alien-space-craft-hovering-over-the-mother-city-today-fear-not/10153057183221249/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fear not! You are NOT about to be abducted. These are fairly common clouds...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: abc7ny.com  
    Title: ufo shaped clouds appear over south africa  
-   Link: [https://abc7ny.com/post/ufo-shaped-clouds-appear-over-south-africa/1077391/](https://abc7ny.com/post/ufo-shaped-clouds-appear-over-south-africa/1077391/)  
+   Link: <a href="https://abc7ny.com/post/ufo-shaped-clouds-appear-over-south-africa/1077391/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/ufo-shaped-clouds-appear-over-south-africa/1077391/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO&#x27;-shaped clouds appear over South Africa10 Nov 2015 — Cape Town residents were stunned on Sunday when clouds resembling UFOs appeared...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: goodthingsguy.com  
    Title: The Cape Town UFO clouds explained  
-   Link: [https://www.goodthingsguy.com/the-cape-town-ufo-clouds-explained-some-awesome-pics-captured/](https://www.goodthingsguy.com/the-cape-town-ufo-clouds-explained-some-awesome-pics-captured/)  
+   Link: <a href="https://www.goodthingsguy.com/the-cape-town-ufo-clouds-explained-some-awesome-pics-captured/" target="_blank" rel="noopener noreferrer nofollow">https://www.goodthingsguy.com/the-cape-town-ufo-clouds-explained-some-awesome-pics-captured/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>some awesome...9 Nov 2015 — The Cape Town UFO clouds explained… some awesome pics captured... Have you seen the alien space craft hover...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/videos/ufo-clouds-captivate-onlookers/10154204645941509/](https://www.facebook.com/cnn/videos/ufo-clouds-captivate-onlookers/10154204645941509/)  
+   Link: <a href="https://www.facebook.com/cnn/videos/ufo-clouds-captivate-onlookers/10154204645941509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/videos/ufo-clouds-captivate-onlookers/10154204645941509/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ens have been on earth for thousands of years... 11y...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: atlasobscura.com  
    Title: found cloud ufos invade cape town  
-   Link: [https://www.atlasobscura.com/articles/found-cloud-ufos-invade-cape-town](https://www.atlasobscura.com/articles/found-cloud-ufos-invade-cape-town)  
+   Link: <a href="https://www.atlasobscura.com/articles/found-cloud-ufos-invade-cape-town" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/found-cloud-ufos-invade-cape-town</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Found: Cloud UFOs Invade Cape Town10 Nov 2015 — Those who looked up saw huge puffy saucers hovering overhead, their dark underbellies pro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
    Title: Throw back UFO's over Cape Town  
-   Link: [https://www.instagram.com/p/BEc5sMUmFIS/](https://www.instagram.com/p/BEc5sMUmFIS/)  
+   Link: <a href="https://www.instagram.com/p/BEc5sMUmFIS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/BEc5sMUmFIS/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I managed to capture...I managed to capture this rare phenomenon, lenticular clouds that happened over Table Mountain which got me publi...</p></details>

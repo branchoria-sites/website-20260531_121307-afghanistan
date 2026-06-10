@@ -245,7 +245,7 @@ next_link:
   permalink: /official-records-b73568/
   short_title: Official Records
   heading_title: Malawi's Government and UFO Documentation
-date: '2026-06-09 01:32:54 '
+date: '2026-06-10 01:58:26 '
 header:
   og_image: /assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1-social.jpg
   preview_image: /assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1-s
 
 ## Introduction
 
-[Malawi]({{ 'what-are-malawis-documented-ufos-and-sky/' | relative_url }})’s best-documented unexplained objects in the sky are not unidentified craft but scientifically verified meteorites and fireballs. Unlike many UFO reports, these events left physical evidence, generated witness accounts that could be compared against astronomical expectations, and in some cases produced recovered meteorites that were later classified by specialists. The country’s meteorite record stretches back to the nineteenth century and includes both observed falls and recovered finds, while several major fireball events produced dramatic sonic effects that were widely reported across multiple districts. These cases are important because they provide a firm evidential baseline for understanding how extraordinary aerial phenomena are interpreted in Malawi. When bright meteors, explosions, or falling objects are reported, the historical meteorite catalogue offers a natural explanation that is often more strongly supported than speculative UFO narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://meteoritegallery.com/wp-content/uploads/2017/07/MalawiMeteorites.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoritegallery.com">[Meteorite Gallery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoritegallery.com</span><span class="citation-popover-title">Malawi Meteorites</span><span class="citation-popover-snippet">At around 10.30 p.m. on Tuesday 21st January 1969 a brilliant fireball with red, green and yellow tints, crossed southern Malawi...Read...</span><span class="citation-popover-meta">Published: January 1969</span></span></span>
+Malawi’s best-documented unexplained objects in the sky are not unidentified craft but scientifically verified meteorites and fireballs. Unlike many UFO reports, these events left physical evidence, generated witness accounts that could be compared against astronomical expectations, and in some cases produced recovered meteorites that were later classified by specialists. The country’s meteorite record stretches back to the nineteenth century and includes both observed falls and recovered finds, while several major fireball events produced dramatic sonic effects that were widely reported across multiple districts. These cases are important because they provide a firm evidential baseline for understanding how extraordinary aerial phenomena are interpreted in Malawi. When bright meteors, explosions, or falling objects are reported, the historical meteorite catalogue offers a natural explanation that is often more strongly supported than speculative UFO narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://meteoritegallery.com/wp-content/uploads/2017/07/MalawiMeteorites.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoritegallery.com">[Meteorite Gallery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoritegallery.com</span><span class="citation-popover-title">Malawi Meteorites</span><span class="citation-popover-snippet">At around 10.30 p.m. on Tuesday 21st January 1969 a brilliant fireball with red, green and yellow tints, crossed southern Malawi...Read...</span><span class="citation-popover-meta">Published: January 1969</span></span></span>
 
 
 <img src="{{ "/assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1-dark.svg" | relative_url }}" alt="Meteorite Events illustration 1" data-theme-src-dark="{{ "/assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -266,15 +266,15 @@ Several Malawian meteorites have achieved formal recognition through this system
 
 ### Zomba: Malawi’s Earliest Recorded Fall
 
-The most historically important documented fall is the Zomba meteorite. According to the Meteoritical Bulletin database, it fell in 1899 and is classified as an L6 ordinary chondrite, a common stony meteorite type originating from an asteroid parent body. The recovered mass was approximately 7.5 kilograms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=30412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for ZombaZomba; Name: Zomba This is an OFFICIAL meteorite name. Abbreviation: There is no official abbre...</span></span></span>
+The most historically important documented fall is the Zomba meteorite. According to the Meteoritical Bulletin database, it fell in 1899 and is classified as an L6 ordinary chondrite, a common stony meteorite type originating from an asteroid parent body. The recovered mass was approximately 7.5 kilograms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=30412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for ZombaZomba; Name: Zomba This is an OFFICIAL meteorite name. Abbreviation: There is no official abbre...</span></span></span>
 
-The Zomba fall occupies a special place in Malawian meteoritics because it represents one of the earliest scientifically recognised meteorite events in the country. Records compiled in later surveys indicate that the specimen entered colonial geological collections and became part of the foundation for Malawi’s documented meteorite history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/29778489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORmalawi meteorites 1899 - 1981May 29, 1983 — by MJ Crow · 1983 — Savage called it an aerolite composed mainly of olivine and pyroxene...</span><span class="citation-popover-meta">Published: May 29, 1983</span></span></span>
+The Zomba fall occupies a special place in Malawian meteoritics because it represents one of the earliest scientifically recognised meteorite events in the country. Records compiled in later surveys indicate that the specimen entered colonial geological collections and became part of the foundation for Malawi’s documented meteorite history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/29778489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">malawi meteorites 1899 - 1981May 29, 1983 — by MJ Crow · 1983 — Savage called it an aerolite composed mainly of olivine and pyroxene...</span><span class="citation-popover-meta">Published: May 29, 1983</span></span></span>
 
 ### Kota-Kota: A Rare Enstatite Chondrite
 
-Another notable specimen is the Kota-Kota meteorite, sometimes referred to in older literature as the Marimba meteorite. Unlike Zomba, this was classified as an enstatite chondrite, specifically an EH3 meteorite. Such meteorites are comparatively uncommon and are valued because they preserve information about extremely reducing conditions in the early Solar System. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=12351" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Kota-KotaThis is 1 of 2 approved meteorites from Central, Malawi This is 1 of 6 approved meteorites f...</span></span></span>
+Another notable specimen is the Kota-Kota meteorite, sometimes referred to in older literature as the Marimba meteorite. Unlike Zomba, this was classified as an enstatite chondrite, specifically an EH3 meteorite. Such meteorites are comparatively uncommon and are valued because they preserve information about extremely reducing conditions in the early Solar System. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=12351" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for Kota-KotaThis is 1 of 2 approved meteorites from Central, Malawi This is 1 of 6 approved meteorites f...</span></span></span>
 
-The meteorite was reportedly found in 1905 rather than observed during its fall. Although its total known mass was small, the specimen attracted scientific interest because of its unusual composition. Later catalogues continued to recognise it as one of Malawi’s officially approved meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.cfm?ants=&amp;browse=&amp;categ=All&amp;code=15371&amp;country=Malawi&amp;falls=&amp;lrec=100&amp;map=ge&amp;mblist=All&amp;nwas=&amp;phot=no&amp;pnt=Normal+table&amp;rect=&amp;sea=&amp;sfor=names&amp;snew=0&amp;srt=&amp;strewn=no&amp;stype=contains&amp;valids=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for MachingaFALL OF THE MACHINGA, MALAWI, STONY METEORITE. Name: MACHINGA. Place of fall: Close to Mlelem...</span></span></span>
+The meteorite was reportedly found in 1905 rather than observed during its fall. Although its total known mass was small, the specimen attracted scientific interest because of its unusual composition. Later catalogues continued to recognise it as one of Malawi’s officially approved meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.cfm?ants=&amp;browse=&amp;categ=All&amp;code=15371&amp;country=Malawi&amp;falls=&amp;lrec=100&amp;map=ge&amp;mblist=All&amp;nwas=&amp;phot=no&amp;pnt=Normal+table&amp;rect=&amp;sea=&amp;sfor=names&amp;snew=0&amp;srt=&amp;strewn=no&amp;stype=contains&amp;valids=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for MachingaFALL OF THE MACHINGA, MALAWI, STONY METEORITE. Name: MACHINGA. Place of fall: Close to Mlelem...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sW9uNOBJfiw" title="FIREBALLS - Something Changed NEAR EARTH - What They Don’t EXPLAIN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sW9uNOBJfiw" target="_blank" rel="noopener noreferrer">FIREBALLS - Something Changed NEAR EARTH - What They Don’t EXPLAIN</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 79.4K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sW9uNOBJfiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sW9uNOBJfiw">Open on YouTube</a></p></div></div></div>
@@ -291,7 +291,7 @@ The Machinga case is particularly useful when assessing later claims of mysterio
 
 Among Malawi’s most remarkable meteorite events is the Chisenga fall in Chitipa District. Chisenga is classified as a IIIAB iron meteorite, a category produced from the metallic cores of differentiated asteroids. Iron meteorite falls are far less common than ordinary stony meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-16073.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[Mindat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 16073</span><span class="citation-popover-snippet">Kota-Kota meteorite (Marimba meteorite), Nkhotakota...14 Oct 2025 — Kota-Kota meteorite (Marimba meteorite), Nkhotakota, Central Region...</span></span></span>
 
-Witnesses reportedly observed a brilliant atmospheric entry accompanied by explosive sounds before recovery of the meteorite. The specimen's scientific significance extends beyond Malawi because witnessed iron meteorite falls are uncommon globally. Information preserved in mineralogical and meteoritical databases notes that the principal mass remains in Malawi's national collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-263573.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[Mindat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 263573</span><span class="citation-popover-snippet">MindatChisenga meteorite, Chitipa, Northern Region, Malawi9 Aug 2025 — Chisenga is one of the 11 witnessed IIIAB iron falls. IIIAB irons...</span></span></span>
+Witnesses reportedly observed a brilliant atmospheric entry accompanied by explosive sounds before recovery of the meteorite. The specimen's scientific significance extends beyond Malawi because witnessed iron meteorite falls are uncommon globally. Information preserved in mineralogical and meteoritical databases notes that the principal mass remains in Malawi's national collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-263573.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[Mindat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 263573</span><span class="citation-popover-snippet">Chisenga meteorite, Chitipa, Northern Region, Malawi9 Aug 2025 — Chisenga is one of the 11 witnessed IIIAB iron falls. IIIAB irons...</span></span></span>
 
 ## Major Fireball Events Observed Over Malawi
 
@@ -309,7 +309,7 @@ The event remains significant because it demonstrates how natural astronomical p
 
 ### Fireballs Without Recoveries
 
-Historical reviews of Malawian meteorite records also mention additional bright atmospheric events that were observed across wide areas but never produced recovered meteorites. Such cases are common worldwide. Many incoming objects disintegrate completely before reaching the ground, while others may drop small fragments into remote terrain where recovery is unlikely. Meteorite Gallery <span class="citation-chip-wrap"><a class="citation-chip" href="https://oumnh.ox.ac.uk/learn-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oumnh.ox.ac.uk">[Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oumnh.ox.ac.uk</span><span class="citation-popover-snippet">Museum of Natural HistoryMeteorites | Oxford University Museum of Natural HistoryMeteorites are unusual and rare rocks of extraterrestria...</span></span></span>
+Historical reviews of Malawian meteorite records also mention additional bright atmospheric events that were observed across wide areas but never produced recovered meteorites. Such cases are common worldwide. Many incoming objects disintegrate completely before reaching the ground, while others may drop small fragments into remote terrain where recovery is unlikely. Meteorite Gallery <span class="citation-chip-wrap"><a class="citation-chip" href="https://oumnh.ox.ac.uk/learn-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oumnh.ox.ac.uk">[Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oumnh.ox.ac.uk</span><span class="citation-popover-snippet">Museum of Natural HistoryMeteorites &#124; Oxford University Museum of Natural HistoryMeteorites are unusual and rare rocks of extraterrestria...</span></span></span>
 
 In Malawi, mountainous regions, forested areas, and sparsely populated landscapes can make recovery efforts difficult even when witnesses provide approximate directions. As a result, the country's fireball record is probably larger than the number of officially catalogued meteorites suggests.
 
@@ -322,7 +322,7 @@ The recognised Malawian meteorites span several major meteorite classes, illustr
 
 MeteoriteStatusClassificationSignificanceZombaObserved fall (1899)L6 ordinary chondriteEarliest officially recorded Malawian fallKota-KotaFind (1905)EH3 enstatite chondriteRare primitive meteorite typeMachingaObserved fall (1981)L6 ordinary chondriteLarge recovered mass with detailed analysisChisengaObserved fallIIIAB iron meteoriteRare witnessed iron meteorite fall
 
-The predominance of ordinary chondrites is unsurprising. These meteorites constitute the majority of recovered falls worldwide. The presence of both an enstatite chondrite and an iron meteorite, however, gives Malawi's catalogue broader scientific value than its small size might suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-16073.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[Mindat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 16073</span><span class="citation-popover-snippet">Kota-Kota meteorite (Marimba meteorite), Nkhotakota...14 Oct 2025 — Kota-Kota meteorite (Marimba meteorite), Nkhotakota, Central Region...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=30412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for ZombaZomba; Name: Zomba This is an OFFICIAL meteorite name. Abbreviation: There is no official abbre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=12351" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Kota-KotaThis is 1 of 2 approved meteorites from Central, Malawi This is 1 of 6 approved meteorites f...</span></span></span>
+The predominance of ordinary chondrites is unsurprising. These meteorites constitute the majority of recovered falls worldwide. The presence of both an enstatite chondrite and an iron meteorite, however, gives Malawi's catalogue broader scientific value than its small size might suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-16073.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[Mindat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 16073</span><span class="citation-popover-snippet">Kota-Kota meteorite (Marimba meteorite), Nkhotakota...14 Oct 2025 — Kota-Kota meteorite (Marimba meteorite), Nkhotakota, Central Region...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=30412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for ZombaZomba; Name: Zomba This is an OFFICIAL meteorite name. Abbreviation: There is no official abbre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=12351" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for Kota-KotaThis is 1 of 2 approved meteorites from Central, Malawi This is 1 of 6 approved meteorites f...</span></span></span>
 
 ### How Scientists Confirm a Meteorite
 
@@ -357,86 +357,44 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Malawi&#x27;s Confirmed Meteorites and Fireballs. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Malawi&#x27;s Confirmed Meteorites and Fireballs, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
-        
-        <p class="fr-book-desc">Explains meteorite falls, finds, and identification methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides comparison between UFO claims and natural astronomical phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their parent planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/347911-M.jpg" alt="Cover for Meteorites and their parent planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their parent planets">Meteorites and their parent planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
-        
-        <p class="fr-book-desc">First published 1987. Subjects: Meteorites, MÃ©tÃ©orites, Meteorit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fireball+Robert+Matzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fireball on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9424172-M.jpg" alt="Cover for Fireball" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fireball+Robert+Matzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fireball">Fireball</a>
-        </h4>
-        <p class="fr-book-author">By Robert Matzen</p>
-        
-        <p class="fr-book-desc">First published 2013. Subjects: Motion picture actors and actresses, united states, Motion pictures, biography, Motion picture actors and...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fireball+Robert+Matzen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their parent planets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -470,75 +428,71 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufos poster -book -books -dvd" data-ebay-reference="meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufos-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorite-events-c9ad5a-malawi-s-confirmed-meteorites-and-fireballs-malawi-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -752,156 +706,156 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
 
 1. <a id="endnote-1"></a>
    Source: meteoritical.org  
-   Link: [https://meteoritical.org/publications/meteoritical-bulletin](https://meteoritical.org/publications/meteoritical-bulletin)  
+   Link: <a href="https://meteoritical.org/publications/meteoritical-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://meteoritical.org/publications/meteoritical-bulletin</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical SocietyThe Meteoritical BulletinThe Meteoritical Bulletin contains listings of all newly recognized and reclassified meteori...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/metbull.php?code=30412](https://www.lpi.usra.edu/meteor/metbull.php?code=30412)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LPIMeteoritical Bulletin: Entry for ZombaZomba; Name: Zomba This is an OFFICIAL meteorite name. Abbreviation: There is no official abbre...</p></details>
+   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=30412" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=30412</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical Bulletin: Entry for ZombaZomba; Name: Zomba This is an OFFICIAL meteorite name. Abbreviation: There is no official abbre...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/29778489](https://www.jstor.org/stable/29778489)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORmalawi meteorites 1899 - 1981May 29, 1983 — by MJ Crow · 1983 — Savage called it an aerolite composed mainly of olivine and pyroxene...</p></details>
+   Link: <a href="https://www.jstor.org/stable/29778489" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/29778489</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>malawi meteorites 1899 - 1981May 29, 1983 — by MJ Crow · 1983 — Savage called it an aerolite composed mainly of olivine and pyroxene...</p></details>
    Published: May 29, 1983  
 
 4. <a id="endnote-4"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/metbull.php?code=12351](https://www.lpi.usra.edu/meteor/metbull.php?code=12351)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LPIMeteoritical Bulletin: Entry for Kota-KotaThis is 1 of 2 approved meteorites from Central, Malawi This is 1 of 6 approved meteorites f...</p></details>
+   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=12351" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=12351</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical Bulletin: Entry for Kota-KotaThis is 1 of 2 approved meteorites from Central, Malawi This is 1 of 6 approved meteorites f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mindat.org  
    Title: loc 16073  
-   Link: [https://www.mindat.org/loc-16073.html](https://www.mindat.org/loc-16073.html)  
+   Link: <a href="https://www.mindat.org/loc-16073.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/loc-16073.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kota-Kota meteorite (Marimba meteorite), Nkhotakota...14 Oct 2025 — Kota-Kota meteorite (Marimba meteorite), Nkhotakota, Central Region...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ui.adsabs.harvard.edu  
    Title: The fall site is about 7.5 km SW  
-   Link: [https://ui.adsabs.harvard.edu/abs/1984Metic..19...85G/abstract](https://ui.adsabs.harvard.edu/abs/1984Metic..19...85G/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1984Metic..19...85G/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1984Metic..19...85G/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSThe Machinga, Malawi, Meteorite: A Recent L6 FallJune 29, 1984 — by AL Graham · 1984 · Cited by 5 — The Machinga meteorite fell in the...</p></details>
    Published: June 29, 1984  
 
 7. <a id="endnote-7"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/metbull.cfm?ants=&browse=&categ=All&code=15371&country=Malawi&falls=&lrec=100&map=ge&mblist=All&nwas=&phot=no&pnt=Normal+table&rect=&sea=&sfor=names&snew=0&srt=&strewn=no&stype=contains&valids=](https://www.lpi.usra.edu/meteor/metbull.cfm?ants=&browse=&categ=All&code=15371&country=Malawi&falls=&lrec=100&map=ge&mblist=All&nwas=&phot=no&pnt=Normal+table&rect=&sea=&sfor=names&snew=0&srt=&strewn=no&stype=contains&valids=)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LPIMeteoritical Bulletin: Entry for MachingaFALL OF THE MACHINGA, MALAWI, STONY METEORITE. Name: MACHINGA. Place of fall: Close to Mlelem...</p></details>
+   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.cfm?ants=&amp;browse=&amp;categ=All&amp;code=15371&amp;country=Malawi&amp;falls=&amp;lrec=100&amp;map=ge&amp;mblist=All&amp;nwas=&amp;phot=no&amp;pnt=Normal+table&amp;rect=&amp;sea=&amp;sfor=names&amp;snew=0&amp;srt=&amp;strewn=no&amp;stype=contains&amp;valids=" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.cfm?ants=&amp;browse=&amp;categ=All&amp;code=15371&amp;country=Malawi&amp;falls=&amp;lrec=100&amp;map=ge&amp;mblist=All&amp;nwas=&amp;phot=no&amp;pnt=Normal+table&amp;rect=&amp;sea=&amp;sfor=names&amp;snew=0&amp;srt=&amp;strewn=no&amp;stype=contains&amp;valids=</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical Bulletin: Entry for MachingaFALL OF THE MACHINGA, MALAWI, STONY METEORITE. Name: MACHINGA. Place of fall: Close to Mlelem...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mindat.org  
    Title: loc 263573  
-   Link: [https://www.mindat.org/loc-263573.html](https://www.mindat.org/loc-263573.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MindatChisenga meteorite, Chitipa, Northern Region, Malawi9 Aug 2025 — Chisenga is one of the 11 witnessed IIIAB iron falls. IIIAB irons...</p></details>
+   Link: <a href="https://www.mindat.org/loc-263573.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/loc-263573.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chisenga meteorite, Chitipa, Northern Region, Malawi9 Aug 2025 — Chisenga is one of the 11 witnessed IIIAB iron falls. IIIAB irons...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: museum.wales  
    Title: Great Balls of Fire  
-   Link: [https://museum.wales/blog/2312/Great-Balls-of-Fire/](https://museum.wales/blog/2312/Great-Balls-of-Fire/)  
+   Link: <a href="https://museum.wales/blog/2312/Great-Balls-of-Fire/" target="_blank" rel="noopener noreferrer nofollow">https://museum.wales/blog/2312/Great-Balls-of-Fire/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>!9 Mar 2021 — Have you seen the footage of a meteorite fire ball passing through our atmosphere on 28 February? Our team have been workin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Curtin team successfully tracks and recovers a meteorite. What a feeling!  
-   Link: [https://www.youtube.com/watch?v=Ls0QXPpmD2M](https://www.youtube.com/watch?v=Ls0QXPpmD2M)  
+   Link: <a href="https://www.youtube.com/watch?v=Ls0QXPpmD2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ls0QXPpmD2M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FIREBALLS - Something Changed NEAR EARTH - What They Don&#x27;t EXPLAIN...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sW9uNOBJfiw](https://www.youtube.com/watch?v=sW9uNOBJfiw)  
+   Link: <a href="https://www.youtube.com/watch?v=sW9uNOBJfiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sW9uNOBJfiw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seismic sensors track space debris...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: meteoritegallery.com  
    Title: Malawi Meteorites  
-   Link: [https://meteoritegallery.com/wp-content/uploads/2017/07/MalawiMeteorites.pdf](https://meteoritegallery.com/wp-content/uploads/2017/07/MalawiMeteorites.pdf)  
+   Link: <a href="https://meteoritegallery.com/wp-content/uploads/2017/07/MalawiMeteorites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meteoritegallery.com/wp-content/uploads/2017/07/MalawiMeteorites.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At around 10.30 p.m. on Tuesday 21st January 1969 a brilliant fireball with red, green and yellow tints, crossed southern Malawi...Read...</p></details>
    Published: January 1969  
 
 13. <a id="endnote-13"></a>
    Source: meteoritegallery.com  
    Title: kota kota eh3  
-   Link: [https://meteoritegallery.com/kota-kota-eh3/](https://meteoritegallery.com/kota-kota-eh3/)  
+   Link: <a href="https://meteoritegallery.com/kota-kota-eh3/" target="_blank" rel="noopener noreferrer nofollow">https://meteoritegallery.com/kota-kota-eh3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kota-Kota, EH3From Malawi Meteorites, 1899-1981, by M. J. Crow: This specimen came from the mineral collection of Gilbert Gauthier, a wel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oumnh.ox.ac.uk  
-   Link: [https://oumnh.ox.ac.uk/learn-meteorites](https://oumnh.ox.ac.uk/learn-meteorites)  
+   Link: <a href="https://oumnh.ox.ac.uk/learn-meteorites" target="_blank" rel="noopener noreferrer nofollow">https://oumnh.ox.ac.uk/learn-meteorites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Natural HistoryMeteorites | Oxford University Museum of Natural HistoryMeteorites are unusual and rare rocks of extraterrestria...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Meteorite fall  
-   Link: [https://en.wikipedia.org/wiki/Meteorite_fall](https://en.wikipedia.org/wiki/Meteorite_fall)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fallAs of May 2026, the Meteoritical Bulletin Database listed 1,273 observed falls of approved meteorites, most of which ha...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: ares.jsc.nasa.gov  
-   Link: [https://ares.jsc.nasa.gov/meteorite-falls/events/](https://ares.jsc.nasa.gov/meteorite-falls/events/)  
+   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis is recorded as American Meteor Society event number 4942 for 2022.It was a daytime fireball and meteorite fall...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aerolite.org  
-   Link: [https://aerolite.org/gallery-of-meteorites/?srsltid=AfmBOoreQ6RdIAGbZ9iytbbcPXu1W-qcAE4pG20pvRZwbTZIjf1AA7Iq](https://aerolite.org/gallery-of-meteorites/?srsltid=AfmBOoreQ6RdIAGbZ9iytbbcPXu1W-qcAE4pG20pvRZwbTZIjf1AA7Iq)  
+   Link: <a href="https://aerolite.org/gallery-of-meteorites/?srsltid=AfmBOoreQ6RdIAGbZ9iytbbcPXu1W-qcAE4pG20pvRZwbTZIjf1AA7Iq" target="_blank" rel="noopener noreferrer nofollow">https://aerolite.org/gallery-of-meteorites/?srsltid=AfmBOoreQ6RdIAGbZ9iytbbcPXu1W-qcAE4pG20pvRZwbTZIjf1AA7Iq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallery of MeteoritesDiscover our gallery of meteorite photography on Aerolite. If you wish to use any photographs, please contact us. Ce...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: flore.unifi.it  
-   Link: [https://flore.unifi.it/retrieve/c5636c5b-1db3-42c4-9d80-4e1d5bbac4a3/Meteorit%20%20%20Planetary%20Scien%20-%202023%20-%20Morelli%20-%20The%20catalog%20of%20the%20meteorite%20collection%20of%20the%20Italian%20Museum%20of%20Planetary.pdf](https://flore.unifi.it/retrieve/c5636c5b-1db3-42c4-9d80-4e1d5bbac4a3/Meteorit%20%20%20Planetary%20Scien%20-%202023%20-%20Morelli%20-%20The%20catalog%20of%20the%20meteorite%20collection%20of%20the%20Italian%20Museum%20of%20Planetary.pdf)  
+   Link: <a href="https://flore.unifi.it/retrieve/c5636c5b-1db3-42c4-9d80-4e1d5bbac4a3/Meteorit%20%20%20Planetary%20Scien%20-%202023%20-%20Morelli%20-%20The%20catalog%20of%20the%20meteorite%20collection%20of%20the%20Italian%20Museum%20of%20Planetary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flore.unifi.it/retrieve/c5636c5b-1db3-42c4-9d80-4e1d5bbac4a3/Meteorit%20%20%20Planetary%20Scien%20-%202023%20-%20Morelli%20-%20The%20catalog%20of%20the%20meteorite%20collection%20of%20the%20Italian%20Museum%20of%20Planetary.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>catalog of the meteorite collection of the Italian...by M MORELLI · 2023 · Cited by 4 — Abstract–For the first time, this paper presents...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NasaExplorer/posts/1156278937852884/](https://www.facebook.com/groups/NasaExplorer/posts/1156278937852884/)  
+   Link: <a href="https://www.facebook.com/groups/NasaExplorer/posts/1156278937852884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NasaExplorer/posts/1156278937852884/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fall in Malawi, safe storageMalawi Fireball meteorite from Alimajo deposit. Jeff Diamond ▻ Agate Collectors Worldwide. 3y · Pub...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mpic.de  
-   Link: [https://www.mpic.de/4470048/meteoriten](https://www.mpic.de/4470048/meteoriten)  
+   Link: <a href="https://www.mpic.de/4470048/meteoriten" target="_blank" rel="noopener noreferrer nofollow">https://www.mpic.de/4470048/meteoriten</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorites – Witnesses from SpaceMeteorites are impressive witnesses to the formation of the solar system. The name comes from a Greek wo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: geocoleccion.com  
-   Link: [https://www.geocoleccion.com/classification](https://www.geocoleccion.com/classification)  
+   Link: <a href="https://www.geocoleccion.com/classification" target="_blank" rel="noopener noreferrer nofollow">https://www.geocoleccion.com/classification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Classification in The Meteoritical BulletinConditions for meteorites classification in our lab. Get your meteorites submitted to...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: naturalhistory.si.edu  
-   Link: [https://naturalhistory.si.edu/education/teaching-resources/earth-science/meteorites-messengers-outer-space](https://naturalhistory.si.edu/education/teaching-resources/earth-science/meteorites-messengers-outer-space)  
+   Link: <a href="https://naturalhistory.si.edu/education/teaching-resources/earth-science/meteorites-messengers-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://naturalhistory.si.edu/education/teaching-resources/earth-science/meteorites-messengers-outer-space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Natural History MuseumMeteorites: Messengers From Outer SpaceMeteorites are precious rock samples preserving material from th...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PWdya32j0d8](https://www.youtube.com/watch?v=PWdya32j0d8)  
+   Link: <a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWdya32j0d8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball flies across the sky and causes sonic boomA &#x27;daytime fireball&#x27; was caught on video in the sky over South Carolina – causing a so...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=d55iI1_YF7M](https://www.youtube.com/watch?v=d55iI1_YF7M)  
+   Link: <a href="https://www.youtube.com/watch?v=d55iI1_YF7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d55iI1_YF7M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alexis Dunkin for video clip from Star Safari observatory [https://star-safari.nz/](https://star-safari.nz/) Search Organisers Steve Wyn-Harris and Dennis Behan...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/266216552.pdf](https://core.ac.uk/download/pdf/266216552.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/266216552.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/266216552.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As of mid-2010, 13 fragments totaling 215 g have been recovered. Records of the...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: insu.hal.science  
    Title: science The Meteoritical Bulletin, No  
-   Link: [https://insu.hal.science/insu-03863070/document](https://insu.hal.science/insu-03863070/document)  
+   Link: <a href="https://insu.hal.science/insu-03863070/document" target="_blank" rel="noopener noreferrer nofollow">https://insu.hal.science/insu-03863070/document</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>110by J Gattacceca · 2022 · Cited by 43 — It includes 10 falls (Arpu Kuilpu, Djadjarm. Glendale, Kindberg, Madura Cave, Motopi Pan, Orco...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: They Tracked a Meteorite and then Found It in 15 Minutes  
-   Link: [https://www.youtube.com/watch?v=-qPyBxLKMhg](https://www.youtube.com/watch?v=-qPyBxLKMhg)  
+   Link: <a href="https://www.youtube.com/watch?v=-qPyBxLKMhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-qPyBxLKMhg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curtin team successfully tracks and recovers a meteorite. What a feeling...</p></details>

@@ -1185,7 +1185,7 @@ next_link:
   title: South Africa UFOs
   permalink: /what-really-stands-out-in-south/
   short_title: South Africa UFOs
-date: '2026-06-09 01:40:12 '
+date: '2026-06-10 02:07:18 '
 header:
   og_image: /assets/images/Slovenia_d1aa05-overview-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05-overview.webp
@@ -1202,7 +1202,7 @@ The clearest finding is that Slovenia’s UFO file is thin, fragmented and uneve
 
 The strongest recent Slovenian incident is the July 2023 report involving a TUI Airways pilot crossing Slovenian airspace. According to local reporting, the pilot asked air traffic control whether a military aircraft was flying about 40 to 50 miles away in a particular direction. The controller reportedly said there were no reports of military traffic; the pilot then described a bright light that shone towards the aircraft, disappeared, flashed, appeared to move around the sky, and then shone steadily again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.24ur.com/novice/slovenija/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24ur.com">[24ur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24ur.com</span><span class="citation-popover-snippet">Open source on 24ur.com.</span></span></span>
 
-This case stands above most Slovenian sightings for one reason: it is not just a vague social-media clip. It involves a professional pilot, a conversation with air traffic control, and a reported check against known military or aircraft traffic. N1 reported that Slovenia’s air traffic control confirmed the event had been recorded, that no other aircraft reported the phenomenon, and that its radars did not detect an aircraft in the reported direction and altitude. That does not prove an exotic object; it simply means the observation was not matched, in the public account, to an ordinary aircraft return on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malidelnicarji.skupaj.si/aggregator/sources/4?page=50&amp;quicktabs_portalov=4&amp;quicktabs_poslovne_novice=2&amp;quicktabs_tuje_novice_iz_regije=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skupaj.si">[N1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skupaj.si</span><span class="citation-popover-title">si N1 Forbes Slovenija | Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span><span class="citation-popover-snippet">si N1 Forbes Slovenija | Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span></span></span>
+This case stands above most Slovenian sightings for one reason: it is not just a vague social-media clip. It involves a professional pilot, a conversation with air traffic control, and a reported check against known military or aircraft traffic. N1 reported that Slovenia’s air traffic control confirmed the event had been recorded, that no other aircraft reported the phenomenon, and that its radars did not detect an aircraft in the reported direction and altitude. That does not prove an exotic object; it simply means the observation was not matched, in the public account, to an ordinary aircraft return on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malidelnicarji.skupaj.si/aggregator/sources/4?page=50&amp;quicktabs_portalov=4&amp;quicktabs_poslovne_novice=2&amp;quicktabs_tuje_novice_iz_regije=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skupaj.si">[N1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skupaj.si</span><span class="citation-popover-title">si N1 Forbes Slovenija &#124; Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span><span class="citation-popover-snippet">si N1 Forbes Slovenija &#124; Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span></span></span>
 
 The unresolved part is also the weakness. Public reporting does not provide the pilot’s full instrument data, exact sky position, weather context, astronomical checks, independent visual confirmation, or a complete technical report. A bright light seen from an aircraft can be caused by another aircraft at an unexpected angle, satellite flares, planets, lightning-related effects, reflections, drones at lower levels, or errors in perceived distance and motion. The 2023 case is therefore best classified as a credible contested report: worth recording, not solved in the available public record, but far from demonstrating non-human technology.
 
@@ -1217,13 +1217,13 @@ That is a useful example of an evidence gap. A video can look intriguing while s
 Krško also illustrates a second point: official records around sensitive infrastructure are often about ordinary safety events, not UFOs. The plant’s own 2008 archive describes an “unusual event” caused by primary leakage, with shutdown procedures, inspection, repair and no release into the environment. That official record is relevant because it shows what documented incident reporting looks like when a real plant event occurs: dates, times, technical sequence, cause, public-safety assessment and institutional accountability. The UFO-style Krško videos do not come with that level of corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[nek.si]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-title">information on unusual event krsko npp nek slovenia 4 june 2008</span><span class="citation-popover-snippet">information on unusual event krsko npp nek slovenia 4 june 2008</span><span class="citation-popover-meta">Published: june 2008</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pMW7G6qiaPI" title="UFO report. Pilot reports 30-foot triangular figure at 6500 feet. Real ATC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pMW7G6qiaPI" target="_blank" rel="noopener noreferrer">UFO report. Pilot reports 30-foot triangular figure at 6500 feet. Real ATC</a></p><p class="youtube-embed-meta">Channel: You can see ATC &middot; Views: 42.8K &middot; Uploaded: December 2023 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pMW7G6qiaPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pMW7G6qiaPI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7_x0RNrVlhc" title="A spectacular fireball (meteor) above Slovenia (Tomislav Car) /RP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7_x0RNrVlhc" target="_blank" rel="noopener noreferrer">A spectacular fireball (meteor) above Slovenia (Tomislav Car) /RP</a></p><p class="youtube-embed-meta">Channel: Severe Weather Europe &middot; Views: 780.0K &middot; Uploaded: February 2020 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7_x0RNrVlhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7_x0RNrVlhc">Open on YouTube</a></p></div></div></div>
 
 ## Older reports form a scattered local chronology
 
 Slovenia’s older UFO chronology is mostly preserved through newspapers and later media retrospectives. Večer’s “50 years ago” archive recalled a Maribor report in which witnesses described a bright elongated body moving from the Drava area towards Kalvarija, with some residents reportedly using binoculars or observing it with the naked eye. The same retrospective placed the report in a wider Yugoslav wave of sightings, including reports by jet pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vecer.com/v-soboto/pred-50-leti-v-veceru-nlp-nad-mariborom-10255450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vecer.com">[Večer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vecer.com</span><span class="citation-popover-title">Večer Pred 50 leti v Večeru: NLP nad Mariborom</span><span class="citation-popover-snippet">Večer Pred 50 leti v Večeru: NLP nad Mariborom</span></span></span>
 
-In October 2008, Slovenian media covered a small cluster of reported sightings around Šempas, Ajdovščina and Maribor. 24ur framed the follow-up in explicitly investigative terms: what did people actually see, and was it really a UFO? The article itself, however, provides only a brief public-facing summary rather than a technical case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.24ur.com/novice/slovenija/preverjeno-nlp-nad-ajdovscino.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24ur.com">[24ur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24ur.com</span><span class="citation-popover-title">NLP nad Ajdovščino? | 24ur.com</span><span class="citation-popover-snippet">NLP nad Ajdovščino? | 24ur.com</span></span></span>
+In October 2008, Slovenian media covered a small cluster of reported sightings around Šempas, Ajdovščina and Maribor. 24ur framed the follow-up in explicitly investigative terms: what did people actually see, and was it really a UFO? The article itself, however, provides only a brief public-facing summary rather than a technical case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.24ur.com/novice/slovenija/preverjeno-nlp-nad-ajdovscino.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24ur.com">[24ur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24ur.com</span><span class="citation-popover-title">NLP nad Ajdovščino? &#124; 24ur.com</span><span class="citation-popover-snippet">NLP nad Ajdovščino? &#124; 24ur.com</span></span></span>
 
 Maribor continued to appear in later local UFO reporting. In 2021, Ptujinfo/Mariborinfo reported a reader’s claim that several family members had watched a triangular formation with red flashing lights and a bright blue-white light moving unusually above Maribor. The account is vivid and multi-witness within one household, but it remains a witness-and-video media story rather than a corroborated aviation investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ptujinfo.com/novica/lokalno/video-nad-mariborom-nlp-mi-dobro-vemo-kaj-smo-videli-trikotne-oblike-na-visini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ptujinfo.com">[Ptujinfo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ptujinfo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1237,14 +1237,14 @@ Slovenian UFO material separates into three broad quality bands.
 
 **Confirmed but not UFO in the extraordinary sense:** the 2020 Novo Mesto meteorite fall is the best example of an initially spectacular aerial event that became scientifically tractable. Hundreds of people across Slovenia and neighbouring countries saw a bright daytime fireball; dashcams, security cameras and even a cyclist’s helmet camera helped scientists recover meteorites and reconstruct the object’s path from space to southern Slovenia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europlanet.org/dashcam-detective-work-leads-to-recovery-of-space-rocks-from-fireball-over-slovenia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europlanet.org">[europlanet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europlanet.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Credible but unresolved:** the 2023 TUI Airways pilot report belongs here. It has a professional witness and air-traffic-control involvement, yet the public record does not contain enough sensor data to identify the cause. The proper label is “unidentified in available public reporting”, not “confirmed craft”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malidelnicarji.skupaj.si/aggregator/sources/4?page=50&amp;quicktabs_portalov=4&amp;quicktabs_poslovne_novice=2&amp;quicktabs_tuje_novice_iz_regije=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skupaj.si">[N1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skupaj.si</span><span class="citation-popover-title">si N1 Forbes Slovenija | Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span><span class="citation-popover-snippet">si N1 Forbes Slovenija | Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span></span></span>
+**Credible but unresolved:** the 2023 TUI Airways pilot report belongs here. It has a professional witness and air-traffic-control involvement, yet the public record does not contain enough sensor data to identify the cause. The proper label is “unidentified in available public reporting”, not “confirmed craft”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malidelnicarji.skupaj.si/aggregator/sources/4?page=50&amp;quicktabs_portalov=4&amp;quicktabs_poslovne_novice=2&amp;quicktabs_tuje_novice_iz_regije=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skupaj.si">[N1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skupaj.si</span><span class="citation-popover-title">si N1 Forbes Slovenija &#124; Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span><span class="citation-popover-snippet">si N1 Forbes Slovenija &#124; Društvo Mali delničarji Slovenije Forbes Slovenija z rekordno branostjo. Thu, 12/02 ... Sjedinjene Države objavl</span></span></span>
 
 **Low-confidence or contested:** many Slovenian UFO videos and social posts fall into this category. The Krško video reports, the 2021 Maribor triangular-light story and scattered civilian database entries may be sincere, but they lack the independent measurements needed to separate aircraft, drones, satellites, meteorological effects, camera artefacts and misperceived distance from genuinely anomalous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://slovenskenovice.delo.si/bizarno/tuji-medij-nad-nuklearko-krsko-letel-nlp?pv=1a9407a9-14e6-41f7-9eb1-d87620d9ab0d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slovenskenovice.delo.si">[Slovenske Novice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slovenskenovice.delo.si</span><span class="citation-popover-title">Slovenske Novice Tuji medij: nad nuklearko Krško letel NLP?-Slovenske novice</span><span class="citation-popover-snippet">Slovenske Novice Tuji medij: nad nuklearko Krško letel NLP?-Slovenske novice</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ptujinfo.com/novica/lokalno/video-nad-mariborom-nlp-mi-dobro-vemo-kaj-smo-videli-trikotne-oblike-na-visini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ptujinfo.com">[Ptujinfo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ptujinfo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This evidence split is consistent with broader UAP research standards. NASA’s 2023 UAP study stressed that analysis is hampered by poor sensor calibration, missing metadata, lack of multiple measurements and sparse baseline data. Slovenia’s public cases show exactly that problem at country scale: interesting reports, but too little synchronised evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7_x0RNrVlhc" title="A spectacular fireball (meteor) above Slovenia (Tomislav Car) /RP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7_x0RNrVlhc" target="_blank" rel="noopener noreferrer">A spectacular fireball (meteor) above Slovenia (Tomislav Car) /RP</a></p><p class="youtube-embed-meta">Channel: Severe Weather Europe &middot; Views: 780.0K &middot; Uploaded: February 2020 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7_x0RNrVlhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7_x0RNrVlhc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6cuPqf1j0U" title="The Connection Between UAP And Nuclear Sites Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer">The Connection Between UAP And Nuclear Sites Explained</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 7.7K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6cuPqf1j0U">Open on YouTube</a></p></div></div></div>
 
 ## Drones, meteors and mountain weather are the main local confounders
 
@@ -1260,98 +1260,56 @@ Natural phenomena matter as well. The Novo Mesto meteorite fall proves that Slov
 
 Slovenia does not appear to have a mature public UFO archive comparable to France’s official GEIPAN database. The accessible record is instead distributed among local media, international civilian databases and enthusiast projects. NUFORC lists Slovenia as a reporting country and shows recent entries from Mislinja and Ljubljana; its location index gives Slovenia a small total compared with larger European countries. NUFORC is useful as a discovery tool, but it is not an official Slovenian investigative authority and its entries vary greatly in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=82690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-A notable recent development is Revija Misteriji’s 2026 project to collect Slovenian close-encounter testimonies and create what it describes as the first archive of its kind in the country. That may become useful for preserving witness accounts, but its value will depend on method: whether reports record exact time, location, direction, duration, weather, camera originals, witness independence, aircraft checks and follow-up explanations. Without those controls, an archive can preserve folklore and memory without resolving cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misteriji.si/dosje-nlp-ji-na-slovenskem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misteriji.si">[Misteriji]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misteriji.si</span><span class="citation-popover-title">NLP-ji na Slovenskem | Misteriji.si</span><span class="citation-popover-snippet">NLP-ji na Slovenskem | Misteriji.si</span></span></span>
+A notable recent development is Revija Misteriji’s 2026 project to collect Slovenian close-encounter testimonies and create what it describes as the first archive of its kind in the country. That may become useful for preserving witness accounts, but its value will depend on method: whether reports record exact time, location, direction, duration, weather, camera originals, witness independence, aircraft checks and follow-up explanations. Without those controls, an archive can preserve folklore and memory without resolving cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misteriji.si/dosje-nlp-ji-na-slovenskem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misteriji.si">[Misteriji]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misteriji.si</span><span class="citation-popover-title">NLP-ji na Slovenskem &#124; Misteriji.si</span><span class="citation-popover-snippet">NLP-ji na Slovenskem &#124; Misteriji.si</span></span></span>
 
 The most valuable future Slovenian UFO record would link civilian reports to ordinary data sources: flight tracking, radar where available, drone permissions, astronomical checks, weather data, camera metadata and multiple independent witnesses. Until that exists, Slovenia’s UFO record should be read as a living catalogue of reports rather than a body of settled evidence.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6cuPqf1j0U" title="The Connection Between UAP And Nuclear Sites Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer">The Connection Between UAP And Nuclear Sites Explained</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 7.7K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6cuPqf1j0U">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/alwSdtmCXfw" title="UFO OVER KRSKO NUCLEAR POWER PLANT (SLOVENIA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=alwSdtmCXfw" target="_blank" rel="noopener noreferrer">UFO OVER KRSKO NUCLEAR POWER PLANT (SLOVENIA)</a></p><p class="youtube-embed-meta">Channel: UFOSlovenia &middot; Views: 71.3K &middot; Uploaded: October 2008 &middot; Length: 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=alwSdtmCXfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=alwSdtmCXfw">Open on YouTube</a></p></div></div></div>
 
 ## Bottom line for Slovenia
 
 Slovenia’s UFO phenomenon is real as a cultural and reporting pattern, but not strong as proof of extraordinary technology. The best cases involve trained observers or multiple witnesses; the weakest depend on unattributed clips, vague locations or sensational framing. The 2023 pilot report is the most serious recent public incident because it intersects with aviation control and radar checks. The Krško stories are memorable because of the nuclear setting, but their public evidence is much weaker. The 2020 Novo Mesto meteorite fall is the clearest lesson: impressive sky events can be real, dramatic and widely witnessed while still having a natural explanation once enough data are collected.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Stands Out in Slovenia&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Stands Out in Slovenia&#x27;s UFO Record?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for evaluating mixed-quality sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Matches the article&#x27;s focus on credible witnesses and aviation-related cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores unresolved cases and differing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides broad context for how UFO reports are investigated and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1385,75 +1343,71 @@ Slovenia’s UFO phenomenon is real as a cultural and reporting pattern, but not
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-slovenias-ufo-what-really-stands-out-in-slovenia-s-ufo-record-slovenia-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1668,213 +1622,213 @@ Slovenia’s UFO phenomenon is real as a cultural and reporting pattern, but not
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Slovenia  
-   Link: [https://nuforc.org/subndx/?id=cSlovenia](https://nuforc.org/subndx/?id=cSlovenia)  
+   Link: <a href="https://nuforc.org/subndx/?id=cSlovenia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSlovenia</a>  
 
 2. <a id="endnote-2"></a>
    Source: 24ur.com  
-   Link: [https://www.24ur.com/novice/slovenija/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu.html](https://www.24ur.com/novice/slovenija/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu.html)  
+   Link: <a href="https://www.24ur.com/novice/slovenija/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu.html" target="_blank" rel="noopener noreferrer nofollow">https://www.24ur.com/novice/slovenija/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: zadovoljna.si  
    Title: VIDE O: Domačin posnel NLP nad Krškim? | Zadovoljna.si  
-   Link: [https://www.zadovoljna.si/news/video-domacin-posnel-nlp-nad-nuklearko-v-krskem.html](https://www.zadovoljna.si/news/video-domacin-posnel-nlp-nad-nuklearko-v-krskem.html)  
+   Link: <a href="https://www.zadovoljna.si/news/video-domacin-posnel-nlp-nad-nuklearko-v-krskem.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zadovoljna.si/news/video-domacin-posnel-nlp-nad-nuklearko-v-krskem.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: nek.si  
    Title: information on unusual event krsko npp nek slovenia 4 june 2008  
-   Link: [https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008](https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008)  
+   Link: <a href="https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008</a>  
    Published: june 2008  
 
 5. <a id="endnote-5"></a>
    Source: nek.si  
    Title: News | Krško Nuclear Power Plant  
-   Link: [https://www.nek.si/en/news?y=2008](https://www.nek.si/en/news?y=2008)  
+   Link: <a href="https://www.nek.si/en/news?y=2008" target="_blank" rel="noopener noreferrer nofollow">https://www.nek.si/en/news?y=2008</a>  
 
 6. <a id="endnote-6"></a>
    Source: 24ur.com  
    Title: NLP nad Ajdovščino? | 24ur.com  
-   Link: [https://www.24ur.com/novice/slovenija/preverjeno-nlp-nad-ajdovscino.html](https://www.24ur.com/novice/slovenija/preverjeno-nlp-nad-ajdovscino.html)  
+   Link: <a href="https://www.24ur.com/novice/slovenija/preverjeno-nlp-nad-ajdovscino.html" target="_blank" rel="noopener noreferrer nofollow">https://www.24ur.com/novice/slovenija/preverjeno-nlp-nad-ajdovscino.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: ptujinfo.com  
-   Link: [https://ptujinfo.com/novica/lokalno/video-nad-mariborom-nlp-mi-dobro-vemo-kaj-smo-videli-trikotne-oblike-na-visini](https://ptujinfo.com/novica/lokalno/video-nad-mariborom-nlp-mi-dobro-vemo-kaj-smo-videli-trikotne-oblike-na-visini)  
+   Link: <a href="https://ptujinfo.com/novica/lokalno/video-nad-mariborom-nlp-mi-dobro-vemo-kaj-smo-videli-trikotne-oblike-na-visini" target="_blank" rel="noopener noreferrer nofollow">https://ptujinfo.com/novica/lokalno/video-nad-mariborom-nlp-mi-dobro-vemo-kaj-smo-videli-trikotne-oblike-na-visini</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=82690](https://nuforc.org/sighting/?id=82690)  
+   Link: <a href="https://nuforc.org/sighting/?id=82690" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82690</a>  
 
 9. <a id="endnote-9"></a>
    Source: europlanet.org  
-   Link: [https://www.europlanet.org/dashcam-detective-work-leads-to-recovery-of-space-rocks-from-fireball-over-slovenia/](https://www.europlanet.org/dashcam-detective-work-leads-to-recovery-of-space-rocks-from-fireball-over-slovenia/)  
+   Link: <a href="https://www.europlanet.org/dashcam-detective-work-leads-to-recovery-of-space-rocks-from-fireball-over-slovenia/" target="_blank" rel="noopener noreferrer nofollow">https://www.europlanet.org/dashcam-detective-work-leads-to-recovery-of-space-rocks-from-fireball-over-slovenia/</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: sloveniacontrol.si  
    Title: information for uav pilots  
-   Link: [https://www.sloveniacontrol.si/en/public-notifications/information-for-uav-pilots](https://www.sloveniacontrol.si/en/public-notifications/information-for-uav-pilots)  
+   Link: <a href="https://www.sloveniacontrol.si/en/public-notifications/information-for-uav-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.sloveniacontrol.si/en/public-notifications/information-for-uav-pilots</a>  
 
 12. <a id="endnote-12"></a>
    Source: caa.si  
    Title: Geographical restrictions for UAS  
-   Link: [https://www.caa.si/en/geographical-restrictions-for-uas.html](https://www.caa.si/en/geographical-restrictions-for-uas.html)  
+   Link: <a href="https://www.caa.si/en/geographical-restrictions-for-uas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.si/en/geographical-restrictions-for-uas.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 14. <a id="endnote-14"></a>
    Source: misteriji.si  
    Title: NLP-ji na Slovenskem | Misteriji.si  
-   Link: [https://www.misteriji.si/dosje-nlp-ji-na-slovenskem/](https://www.misteriji.si/dosje-nlp-ji-na-slovenskem/)  
+   Link: <a href="https://www.misteriji.si/dosje-nlp-ji-na-slovenskem/" target="_blank" rel="noopener noreferrer nofollow">https://www.misteriji.si/dosje-nlp-ji-na-slovenskem/</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 17. <a id="endnote-17"></a>
    Source: 24ur.com  
    Title: nezemljani v srbiji  
-   Link: [https://www.24ur.com/ekskluziv/zanimivosti/nezemljani-v-srbiji.html](https://www.24ur.com/ekskluziv/zanimivosti/nezemljani-v-srbiji.html)  
+   Link: <a href="https://www.24ur.com/ekskluziv/zanimivosti/nezemljani-v-srbiji.html" target="_blank" rel="noopener noreferrer nofollow">https://www.24ur.com/ekskluziv/zanimivosti/nezemljani-v-srbiji.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: 24ur.com  
    Title: foto in video je bil nlp  
-   Link: [https://www.24ur.com/ekskluziv/zanimivosti/foto-in-video-je-bil-nlp.html](https://www.24ur.com/ekskluziv/zanimivosti/foto-in-video-je-bil-nlp.html)  
+   Link: <a href="https://www.24ur.com/ekskluziv/zanimivosti/foto-in-video-je-bil-nlp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.24ur.com/ekskluziv/zanimivosti/foto-in-video-je-bil-nlp.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: 24ur.com  
    Title: leteči predmet  
-   Link: [https://www.24ur.com/kljucna-beseda/lete%C4%8Di%20predmet?p=4](https://www.24ur.com/kljucna-beseda/lete%C4%8Di%20predmet?p=4)  
+   Link: <a href="https://www.24ur.com/kljucna-beseda/lete%C4%8Di%20predmet?p=4" target="_blank" rel="noopener noreferrer nofollow">https://www.24ur.com/kljucna-beseda/lete%C4%8Di%20predmet?p=4</a>  
 
 20. <a id="endnote-20"></a>
    Source: 24ur.com  
-   Link: [https://www.24ur.com/sveze/6418/](https://www.24ur.com/sveze/6418/)  
+   Link: <a href="https://www.24ur.com/sveze/6418/" target="_blank" rel="noopener noreferrer nofollow">https://www.24ur.com/sveze/6418/</a>  
 
 21. <a id="endnote-21"></a>
    Source: sloveniacontrol.si  
-   Link: [https://www.sloveniacontrol.si/](https://www.sloveniacontrol.si/)  
+   Link: <a href="https://www.sloveniacontrol.si/" target="_blank" rel="noopener noreferrer nofollow">https://www.sloveniacontrol.si/</a>  
 
 22. <a id="endnote-22"></a>
    Source: sloveniacontrol.si  
-   Link: [https://www.sloveniacontrol.si/za-javnost/novice](https://www.sloveniacontrol.si/za-javnost/novice)  
+   Link: <a href="https://www.sloveniacontrol.si/za-javnost/novice" target="_blank" rel="noopener noreferrer nofollow">https://www.sloveniacontrol.si/za-javnost/novice</a>  
 
 23. <a id="endnote-23"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193533](https://nuforc.org/sighting/?id=193533)  
+   Link: <a href="https://nuforc.org/sighting/?id=193533" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193533</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192507](https://nuforc.org/sighting/?id=192507)  
+   Link: <a href="https://nuforc.org/sighting/?id=192507" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192507</a>  
 
 26. <a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=187346](https://nuforc.org/sighting/?id=187346)  
+   Link: <a href="https://nuforc.org/sighting/?id=187346" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187346</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186296](https://nuforc.org/sighting/?id=186296)  
+   Link: <a href="https://nuforc.org/sighting/?id=186296" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186296</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190882](https://nuforc.org/sighting/?id=190882)  
+   Link: <a href="https://nuforc.org/sighting/?id=190882" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190882</a>  
 
 29. <a id="endnote-29"></a>
    Source: times.si  
-   Link: [https://www.times.si/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu--cecad43f2c1f41780ce8662479e77008a1568331](https://www.times.si/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu--cecad43f2c1f41780ce8662479e77008a1568331)  
+   Link: <a href="https://www.times.si/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu--cecad43f2c1f41780ce8662479e77008a1568331" target="_blank" rel="noopener noreferrer nofollow">https://www.times.si/nlp-nad-slovenijo-pilot-porocal-o-svetlih-luceh-ki-so-skakale-po-nebu--cecad43f2c1f41780ce8662479e77008a1568331</a>  
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 31. <a id="endnote-31"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 32. <a id="endnote-32"></a>
    Source: slovenskenovice.delo.si  
    Title: Slovenske Novice Tuji medij: nad nuklearko Krško letel NLP?-Slovenske novice  
-   Link: [https://slovenskenovice.delo.si/bizarno/tuji-medij-nad-nuklearko-krsko-letel-nlp?pv=1a9407a9-14e6-41f7-9eb1-d87620d9ab0d](https://slovenskenovice.delo.si/bizarno/tuji-medij-nad-nuklearko-krsko-letel-nlp?pv=1a9407a9-14e6-41f7-9eb1-d87620d9ab0d)  
+   Link: <a href="https://slovenskenovice.delo.si/bizarno/tuji-medij-nad-nuklearko-krsko-letel-nlp?pv=1a9407a9-14e6-41f7-9eb1-d87620d9ab0d" target="_blank" rel="noopener noreferrer nofollow">https://slovenskenovice.delo.si/bizarno/tuji-medij-nad-nuklearko-krsko-letel-nlp?pv=1a9407a9-14e6-41f7-9eb1-d87620d9ab0d</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/204486930758046/posts/1243081550231907/](https://www.facebook.com/groups/204486930758046/posts/1243081550231907/)  
+   Link: <a href="https://www.facebook.com/groups/204486930758046/posts/1243081550231907/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/204486930758046/posts/1243081550231907/</a>  
 
 34. <a id="endnote-34"></a>
    Source: slovenskenovice.delo.si  
    Title: si Je nad Slovenijo letel NLP?  
-   Link: [https://slovenskenovice.delo.si/novice/svet/je-nad-slovenijo-letel-nlp](https://slovenskenovice.delo.si/novice/svet/je-nad-slovenijo-letel-nlp)  
+   Link: <a href="https://slovenskenovice.delo.si/novice/svet/je-nad-slovenijo-letel-nlp" target="_blank" rel="noopener noreferrer nofollow">https://slovenskenovice.delo.si/novice/svet/je-nad-slovenijo-letel-nlp</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/417754228727420/posts/1654998441669653/](https://www.facebook.com/groups/417754228727420/posts/1654998441669653/)  
+   Link: <a href="https://www.facebook.com/groups/417754228727420/posts/1654998441669653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/417754228727420/posts/1654998441669653/</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Krško Nuclear Power Plant  
-   Link: [https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant</a>  
 
 37. <a id="endnote-37"></a>
    Source: svetloba.si  
-   Link: [https://www.svetloba.si/imenik?p=maribor&page=2](https://www.svetloba.si/imenik?p=maribor&page=2)  
+   Link: <a href="https://www.svetloba.si/imenik?p=maribor&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.svetloba.si/imenik?p=maribor&amp;page=2</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: The Connection Between UAP And Nuclear Sites Explained  
-   Link: [https://www.youtube.com/watch?v=T6cuPqf1j0U](https://www.youtube.com/watch?v=T6cuPqf1j0U)  
+   Link: <a href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T6cuPqf1j0U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Slovenia reconstructs the flight data and air traffic control audio from the July 2023 TUI Airways encounter, directly addressin...</p></details>
    Published: July 2023  
 
 39. <a id="endnote-39"></a>
    Source: n1info.si  
    Title: pilot nad slovenijo opazil nenavadne luci  
-   Link: [https://n1info.si/novice/slovenija/pilot-nad-slovenijo-opazil-nenavadne-luci/](https://n1info.si/novice/slovenija/pilot-nad-slovenijo-opazil-nenavadne-luci/)  
+   Link: <a href="https://n1info.si/novice/slovenija/pilot-nad-slovenijo-opazil-nenavadne-luci/" target="_blank" rel="noopener noreferrer nofollow">https://n1info.si/novice/slovenija/pilot-nad-slovenijo-opazil-nenavadne-luci/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot nad Slovenijo opazil močne luči: &quot;Imam nekoliko nenavadno vprašanje&quot;...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Pilots Witness UFO Flying Over During Landing | What was it?  
-   Link: [https://www.youtube.com/watch?v=418NWvdh-C4](https://www.youtube.com/watch?v=418NWvdh-C4)  
+   Link: <a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=418NWvdh-C4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2cWCOMAl-PY](https://www.youtube.com/watch?v=2cWCOMAl-PY)  
+   Link: <a href="https://www.youtube.com/watch?v=2cWCOMAl-PY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cWCOMAl-PY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Witness UFO Flying Over During Landing | What was it?...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/1377757209114043/posts/a-ufo-lenticular-cloud-formed-over-slovenia-yesterday-as-a-cold-front-was-approa/2812944008928682/](https://www.facebook.com/1377757209114043/posts/a-ufo-lenticular-cloud-formed-over-slovenia-yesterday-as-a-cold-front-was-approa/2812944008928682/)  
+   Link: <a href="https://www.facebook.com/1377757209114043/posts/a-ufo-lenticular-cloud-formed-over-slovenia-yesterday-as-a-cold-front-was-approa/2812944008928682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1377757209114043/posts/a-ufo-lenticular-cloud-formed-over-slovenia-yesterday-as-a-cold-front-was-approa/2812944008928682/</a>  
 
 44. <a id="endnote-44"></a>
    Source: mountwashington.org  
-   Link: [https://mountwashington.org/a-closer-look-at-lenticular-clouds/](https://mountwashington.org/a-closer-look-at-lenticular-clouds/)  
+   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
 
 45. <a id="endnote-45"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2023/07/a-look-into-soviet-unions-intriguing-ufo-history.html](https://www.latest-ufo-sightings.net/2023/07/a-look-into-soviet-unions-intriguing-ufo-history.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2023/07/a-look-into-soviet-unions-intriguing-ufo-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/07/a-look-into-soviet-unions-intriguing-ufo-history.html</a>  
 
 46. <a id="endnote-46"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSXiC2MjqG5/](https://www.instagram.com/p/DSXiC2MjqG5/)  
+   Link: <a href="https://www.instagram.com/p/DSXiC2MjqG5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSXiC2MjqG5/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/severeweatherEU/posts/an-interesting-lenticular-cloud-formation-over-dobova-slovenia-yesterdaythanks-t/2812214159001667/](https://www.facebook.com/severeweatherEU/posts/an-interesting-lenticular-cloud-formation-over-dobova-slovenia-yesterdaythanks-t/2812214159001667/)  
+   Link: <a href="https://www.facebook.com/severeweatherEU/posts/an-interesting-lenticular-cloud-formation-over-dobova-slovenia-yesterdaythanks-t/2812214159001667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/severeweatherEU/posts/an-interesting-lenticular-cloud-formation-over-dobova-slovenia-yesterdaythanks-t/2812214159001667/</a>  

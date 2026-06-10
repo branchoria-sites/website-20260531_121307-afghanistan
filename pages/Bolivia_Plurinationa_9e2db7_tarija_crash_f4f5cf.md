@@ -239,7 +239,7 @@ prev_link:
   permalink: /space-debris/
   short_title: Space Debris
   heading_title: When a UFO Case Becomes Space Junk
-date: '2026-06-09 01:19:17 '
+date: '2026-06-10 01:44:41 '
 header:
   og_image: /assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1-social.jpg
   preview_image: /assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1.webp
@@ -252,7 +252,7 @@ The alleged Tarija UFO crash of May 1978 occupies a unique place in Bolivian UFO
 
 
 <img src="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1-dark.svg" | relative_url }}" alt="Tarija Crash illustration 1" data-theme-src-dark="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike famous crash narratives built around preserved debris or public military files, the Tarija case is strongest as a chain of reports about a fallen object rather than a documented recovery event. The gap between those two things explains why the incident remains both influential and unresolved within Bolivia’s wider UFO tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistarascacielos.com">[Revista Rascacielos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistarascacielos.com</span><span class="citation-popover-snippet">Revista RascacielosMecoya: El misterio sobre un OVNI en Tarija, 1978Jan 13, 2022 — Luego del evento, comenzó el rumor de que la NASA habí...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIABOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...[Sungary] We have received another phone call fron cur audience requesting confirmati...</span></span></span>
+Unlike famous crash narratives built around preserved debris or public military files, the Tarija case is strongest as a chain of reports about a fallen object rather than a documented recovery event. The gap between those two things explains why the incident remains both influential and unresolved within Bolivia’s wider UFO tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistarascacielos.com">[Revista Rascacielos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistarascacielos.com</span><span class="citation-popover-snippet">Revista RascacielosMecoya: El misterio sobre un OVNI en Tarija, 1978Jan 13, 2022 — Luego del evento, comenzó el rumor de que la NASA habí...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...[Sungary] We have received another phone call fron cur audience requesting confirmati...</span></span></span>
 
 ## What contemporary records actually show
 
@@ -274,7 +274,7 @@ Several features nevertheless kept the incident alive:
 
 </div>
 
-Even cautious researchers generally agree that an unusual aerial or atmospheric event was reported in the region. The disagreement begins when later narratives attempt to define what that object actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistarascacielos.com">[Revista Rascacielos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistarascacielos.com</span><span class="citation-popover-snippet">Revista RascacielosMecoya: El misterio sobre un OVNI en Tarija, 1978Jan 13, 2022 — Luego del evento, comenzó el rumor de que la NASA habí...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIABOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...[Sungary] We have received another phone call fron cur audience requesting confirmati...</span></span></span>
+Even cautious researchers generally agree that an unusual aerial or atmospheric event was reported in the region. The disagreement begins when later narratives attempt to define what that object actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistarascacielos.com">[Revista Rascacielos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistarascacielos.com</span><span class="citation-popover-snippet">Revista RascacielosMecoya: El misterio sobre un OVNI en Tarija, 1978Jan 13, 2022 — Luego del evento, comenzó el rumor de que la NASA habí...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...[Sungary] We have received another phone call fron cur audience requesting confirmati...</span></span></span>
 
 ## Why the “crash retrieval” narrative became so powerful
 
@@ -332,7 +332,7 @@ Many dramatic details entered the narrative years later rather than appearing in
 
 </div>
 
-These claims are frequently repeated in modern UFO media, but the evidential support for them is inconsistent and often circular, with later articles citing earlier UFO retellings rather than primary records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoac.com">[ufoac.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoac.com</span><span class="citation-popover-title">the most reliable ufo case in south america. bolivian ufo crash of 1978</span><span class="citation-popover-snippet">Bolivian UFO crash of 1978It is estimated that hundreds or perhaps even thousands of people from Tarija, Bolivia, witnessed the fall of a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/s377pd/the_bolivia_ufo_crash_of_1978_time_for_a_new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the bolivia ufo crash of 1978 time for a new</span><span class="citation-popover-snippet">RedditThe Bolivia “UFO Crash” of 1978: Time for a New...January 13, 2022 — It is estimated that hundreds or maybe even thousands of peop...</span><span class="citation-popover-meta">Published: January 13, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tarija case ufo crash bolivia</span><span class="citation-popover-snippet">As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</span></span></span>
+These claims are frequently repeated in modern UFO media, but the evidential support for them is inconsistent and often circular, with later articles citing earlier UFO retellings rather than primary records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoac.com">[ufoac.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoac.com</span><span class="citation-popover-title">the most reliable ufo case in south america. bolivian ufo crash of 1978</span><span class="citation-popover-snippet">Bolivian UFO crash of 1978It is estimated that hundreds or perhaps even thousands of people from Tarija, Bolivia, witnessed the fall of a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/s377pd/the_bolivia_ufo_crash_of_1978_time_for_a_new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the bolivia ufo crash of 1978 time for a new</span><span class="citation-popover-snippet">The Bolivia “UFO Crash” of 1978: Time for a New...January 13, 2022 — It is estimated that hundreds or maybe even thousands of peop...</span><span class="citation-popover-meta">Published: January 13, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tarija case ufo crash bolivia</span><span class="citation-popover-snippet">As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</span></span></span>
 
 The Tarija case therefore demonstrates a broader problem in Latin American UFO history: later narrative consolidation can make uncertain events appear more documented than they really are.
 
@@ -430,86 +430,44 @@ That expansion does not necessarily mean witnesses invented everything. It means
 For Bolivia, Tarija remains the country’s defining contested UFO case precisely because the evidence is incomplete. Enough survives to prevent easy dismissal, but not enough exists to support the strongest crash-retrieval claims. The enduring mystery lies in that gap.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was Tarija a Crash or a Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was Tarija a Crash or a Legend?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
-        <p class="fr-book-desc">Directly relates to alleged crash and recovery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful for comparing documented incidents with legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Provides tools for assessing crash claims critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
-        
-        <p class="fr-book-desc">Examines how crash stories develop and are debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -543,75 +501,71 @@ For Bolivia, Tarija remains the country’s defining contested UFO case precisel
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/569db291172e7ce323a5.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tarija-crash-was-tarija-a-crash-or-a-legend-bolivia-plurinational-state-of-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -825,138 +779,138 @@ For Bolivia, Tarija remains the country’s defining contested UFO case precisel
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIABOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...[Sungary] We have received another phone call fron cur audience requesting confirmati...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...[Sungary] We have received another phone call fron cur audience requesting confirmati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005515665](https://www.cia.gov/readingroom/document/0005515665)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005515665</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ts that an rnidertified object fell in Fol..vi$.n territory.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: the bolivia ufo crash of 1978 time for a new  
-   Link: [https://www.reddit.com/r/aliens/comments/s377pd/the_bolivia_ufo_crash_of_1978_time_for_a_new/](https://www.reddit.com/r/aliens/comments/s377pd/the_bolivia_ufo_crash_of_1978_time_for_a_new/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Bolivia “UFO Crash” of 1978: Time for a New...January 13, 2022 — It is estimated that hundreds or maybe even thousands of peop...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/s377pd/the_bolivia_ufo_crash_of_1978_time_for_a_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/s377pd/the_bolivia_ufo_crash_of_1978_time_for_a_new/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bolivia “UFO Crash” of 1978: Time for a New...January 13, 2022 — It is estimated that hundreds or maybe even thousands of peop...</p></details>
    Published: January 13, 2022  
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html](https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html)  
+   Link: <a href="https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moon Dust: Beyond RoswellApr 26, 2026 —... UFO Universe and later in 2011 issue of Open Minds: At 4:30 PM on May 6, 1978, a UFO...</p></details>
    Published: May 6, 1978  
 
 5. <a id="endnote-5"></a>
    Source: ufoac.com  
    Title: the most reliable ufo case in south america. bolivian ufo crash of 1978  
-   Link: [https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html](https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html)  
+   Link: <a href="https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivian UFO crash of 1978It is estimated that hundreds or perhaps even thousands of people from Tarija, Bolivia, witnessed the fall of a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/43941612171/posts/10157987939352172/](https://www.facebook.com/groups/43941612171/posts/10157987939352172/)  
+   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10157987939352172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10157987939352172/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook# The Bolivia “UFO Crash” Of 1978: Time For A New...The news from Salta confirms that the artificial satellite fell on Taire Mou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: satobs.org  
    Title: 1979 072B  
-   Link: [https://www.satobs.org/reentry/1979-072B/1979-072B.html](https://www.satobs.org/reentry/1979-072B/1979-072B.html)  
+   Link: <a href="https://www.satobs.org/reentry/1979-072B/1979-072B.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/1979-072B/1979-072B.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-entry Sightings and Debris Recovery of 1979-072BThis little-known UFO case is the first apparent fireball sighting of 1979-072B suffic...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b49ryg/the_place_where_a_tic_tac_supposedly_crashed_in/](https://www.reddit.com/r/UFOs/comments/1b49ryg/the_place_where_a_tic_tac_supposedly_crashed_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b49ryg/the_place_where_a_tic_tac_supposedly_crashed_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b49ryg/the_place_where_a_tic_tac_supposedly_crashed_in/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1978 in...In 1978 in Bolivia near the border with Argentina there was an alleged accident with a tic tac that crashed in the mountains t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/474182682700468/posts/8465537413564915/](https://www.facebook.com/groups/474182682700468/posts/8465537413564915/)  
+   Link: <a href="https://www.facebook.com/groups/474182682700468/posts/8465537413564915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/474182682700468/posts/8465537413564915/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TOUR TO BOLIVIAN UFO CRASH PLACE -. In 1978...Thousands of people from Tarija, Bolivia witnessed a crash of the cylindrical-shaped U...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lanacionmas/posts/-bolivia-vive-una-de-sus-horas-m%C3%A1s-cr%C3%ADticas-con-un-escenario-social-y-pol%C3%ADtico-i/1318316750443249/](https://www.facebook.com/lanacionmas/posts/-bolivia-vive-una-de-sus-horas-m%C3%A1s-cr%C3%ADticas-con-un-escenario-social-y-pol%C3%ADtico-i/1318316750443249/)  
+   Link: <a href="https://www.facebook.com/lanacionmas/posts/-bolivia-vive-una-de-sus-horas-m%C3%A1s-cr%C3%ADticas-con-un-escenario-social-y-pol%C3%ADtico-i/1318316750443249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lanacionmas/posts/-bolivia-vive-una-de-sus-horas-m%C3%A1s-cr%C3%ADticas-con-un-escenario-social-y-pol%C3%ADtico-i/1318316750443249/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ral vowing to “restore democracy,” armored vehicles rammed the...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: revistarascacielos.com  
-   Link: [https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/](https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/)  
+   Link: <a href="https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.revistarascacielos.com/2022/01/13/mecoya-el-misterio-sobre-un-ovni-en-tarija-1978/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revista RascacielosMecoya: El misterio sobre un OVNI en Tarija, 1978Jan 13, 2022 — Luego del evento, comenzó el rumor de que la NASA habí...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: the tarija case ufo crash bolivia  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia](https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journalnews.com.ph  
    Title: I'm skeptical of the claims that Moon Dust  
-   Link: [https://journalnews.com.ph/the-bolivia-ufo-crash-of-1978-time-for-a-new-investigation/](https://journalnews.com.ph/the-bolivia-ufo-crash-of-1978-time-for-a-new-investigation/)  
+   Link: <a href="https://journalnews.com.ph/the-bolivia-ufo-crash-of-1978-time-for-a-new-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/the-bolivia-ufo-crash-of-1978-time-for-a-new-investigation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal News OnlineThe Bolivia “UFO Crash” of 1978: Time for a New...There are rumors, though, that Project Moon Dust recovered more tha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/zone/tarija](https://www.baaa-acro.com/zone/tarija)  
+   Link: <a href="https://www.baaa-acro.com/zone/tarija" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/tarija</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesTarijaCrash of a Cessna 402B near Tarija: 4 killed; Date &amp; Time: Jul 1, 1978; Type of aircraft: Ce...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: transitionaljusticedata.org  
-   Link: [https://transitionaljusticedata.org/en/Americas/Bolivia.html](https://transitionaljusticedata.org/en/Americas/Bolivia.html)  
+   Link: <a href="https://transitionaljusticedata.org/en/Americas/Bolivia.html" target="_blank" rel="noopener noreferrer nofollow">https://transitionaljusticedata.org/en/Americas/Bolivia.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BoliviaThis country page describes, in brief, data that TJET has compiled on regime transitions, intrastate conflict episodes, and transi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: latintimes.com  
    Title: coup plain sight bolivia front line latin americas ideological war 597532  
-   Link: [https://www.latintimes.com/coup-plain-sight-bolivia-front-line-latin-americas-ideological-war-597532](https://www.latintimes.com/coup-plain-sight-bolivia-front-line-latin-americas-ideological-war-597532)  
+   Link: <a href="https://www.latintimes.com/coup-plain-sight-bolivia-front-line-latin-americas-ideological-war-597532" target="_blank" rel="noopener noreferrer nofollow">https://www.latintimes.com/coup-plain-sight-bolivia-front-line-latin-americas-ideological-war-597532</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivia Is the Front Line of Latin America&#x27;s Ideological War19 May 2026 — Former Bolivian President Evo Morales Denounces Alleged CIA Plo...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: abovethenormnews.com  
    Title: 1978 bolivia ufo crash thousands bear witness to mountain collision  
-   Link: [https://www.abovethenormnews.com/2023/09/14/1978-bolivia-ufo-crash-thousands-bear-witness-to-mountain-collision/](https://www.abovethenormnews.com/2023/09/14/1978-bolivia-ufo-crash-thousands-bear-witness-to-mountain-collision/)  
+   Link: <a href="https://www.abovethenormnews.com/2023/09/14/1978-bolivia-ufo-crash-thousands-bear-witness-to-mountain-collision/" target="_blank" rel="noopener noreferrer nofollow">https://www.abovethenormnews.com/2023/09/14/1978-bolivia-ufo-crash-thousands-bear-witness-to-mountain-collision/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1978 Bolivia UFO Crash: Thousands Bear Witness to...14 Sept 2023 — When an unidentified flying object plummeted from the sky and crashed...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: anomalien.com  
    Title: lesser known ufo crash in bolivia witnessed by thousands of people  
-   Link: [https://anomalien.com/lesser-known-ufo-crash-in-bolivia-witnessed-by-thousands-of-people/](https://anomalien.com/lesser-known-ufo-crash-in-bolivia-witnessed-by-thousands-of-people/)  
+   Link: <a href="https://anomalien.com/lesser-known-ufo-crash-in-bolivia-witnessed-by-thousands-of-people/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/lesser-known-ufo-crash-in-bolivia-witnessed-by-thousands-of-people/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesser-Known UFO Crash in Bolivia Witnessed By...12 Mar 2021 — anomalien.com/operation-saucer-commander-who-told-about-ufos-committed-su...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cglj.org  
    Title: iachr applauds bolivias efforts to end impunity through truth commission  
-   Link: [https://cglj.org/2017/09/26/iachr-applauds-bolivias-efforts-to-end-impunity-through-truth-commission/](https://cglj.org/2017/09/26/iachr-applauds-bolivias-efforts-to-end-impunity-through-truth-commission/)  
+   Link: <a href="https://cglj.org/2017/09/26/iachr-applauds-bolivias-efforts-to-end-impunity-through-truth-commission/" target="_blank" rel="noopener noreferrer nofollow">https://cglj.org/2017/09/26/iachr-applauds-bolivias-efforts-to-end-impunity-through-truth-commission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human rights bodies and civil society have called on Bolivia to fulfill its duty owed to both victims...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: undp.org  
    Title: bolivias story conflict dialogue and peacebuilding  
-   Link: [https://www.undp.org/latin-america/publications/bolivias-story-conflict-dialogue-and-peacebuilding](https://www.undp.org/latin-america/publications/bolivias-story-conflict-dialogue-and-peacebuilding)  
+   Link: <a href="https://www.undp.org/latin-america/publications/bolivias-story-conflict-dialogue-and-peacebuilding" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/latin-america/publications/bolivias-story-conflict-dialogue-and-peacebuilding</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivia&#x27;s story of conflict, dialogue and peacebuildingBetween 2006 and late 2008, the discussion and approval of the constitutional proj...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: undp.org  
    Title: bolivias story conflict dialogue and peacebuilding  
-   Link: [https://www.undp.org/publications/bolivias-story-conflict-dialogue-and-peacebuilding](https://www.undp.org/publications/bolivias-story-conflict-dialogue-and-peacebuilding)  
+   Link: <a href="https://www.undp.org/publications/bolivias-story-conflict-dialogue-and-peacebuilding" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/publications/bolivias-story-conflict-dialogue-and-peacebuilding</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivia&#x27;s story of conflict, dialogue and peacebuildingBetween 2006 and late 2008, the discussion and approval of the constitutional proj...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thinkaboutitdocs.com  
    Title: 1978 ufo crash in bolivia witnessed by thousands  
-   Link: [https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/](https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/)  
+   Link: <a href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1978: UFO crash in Bolivia witnessed by thousands23 Jun 2013 — On May 6, 1978, at about 4:15 p.m., something crashed into a mountain near...</p></details>
    Published: May 6, 1978  
 
 23. <a id="endnote-23"></a>
    Source: ain-bolivia.org  
-   Link: [https://ain-bolivia.org/2008/09/bolivian-conflict-chronology-september-12-19/](https://ain-bolivia.org/2008/09/bolivian-conflict-chronology-september-12-19/)  
+   Link: <a href="https://ain-bolivia.org/2008/09/bolivian-conflict-chronology-september-12-19/" target="_blank" rel="noopener noreferrer nofollow">https://ain-bolivia.org/2008/09/bolivian-conflict-chronology-september-12-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d the preliminary agreement to begin talks with the government.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/287537295/The-Bob-Pratt-Files](https://www.scribd.com/document/287537295/The-Bob-Pratt-Files)  
+   Link: <a href="https://www.scribd.com/document/287537295/The-Bob-Pratt-Files" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/287537295/The-Bob-Pratt-Files</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>curred in 1977 and 1978 in an extraordinary UFO flap that...Read more...</p></details>

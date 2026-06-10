@@ -239,7 +239,7 @@ next_link:
   permalink: /records-ddc328/
   short_title: Records
   heading_title: Where Are Moldova's UFO Records?
-date: '2026-06-09 01:38:02 '
+date: '2026-06-10 02:04:45 '
 header:
   og_image: /assets/images/Republic_of_Moldova_a6ad94_war_drone_incursions_896e31-Illustration-1-social.jpg
   preview_image: /assets/images/Republic_of_Moldova_a6ad94_war_drone_incursions_896e31-Illustration-1.webp
@@ -252,13 +252,13 @@ Since Russia’s full-scale invasion of Ukraine, Moldova has repeatedly faced a 
 
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94_war_drone_incursions_896e31-Illustration-1-dark.svg" | relative_url }}" alt="Drone Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94_war_drone_incursions_896e31-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94_war_drone_incursions_896e31-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a different kind of UAP problem. For Moldovan authorities, the key issue is often not whether an object is exotic, but whether it is dangerous. When identification comes late, civilian populations, aviation authorities and emergency services must make decisions under uncertainty. Several incidents since 2023 have involved drone fragments, explosive payloads, temporary airspace restrictions and warnings that objects crossing from the Ukrainian theatre could endanger people on Moldovan territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova police find russian drone fragments near ukraine border 2024 02 11</span><span class="citation-popover-snippet">ReutersMoldova police find Russian drone fragments near Ukraine...11 Feb 2024 — Police on Sunday found fragments of a Russian drone alon...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/fragments-presumed-russian-drone-found-moldova-2024-04-04/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The debris, marked &quot;Heran-2&quot; (an alternate name for the Shahed drones used by Russia in the Ukraine conflict), was found roughly 500 mete...</span></span></span>
+The result is a different kind of UAP problem. For Moldovan authorities, the key issue is often not whether an object is exotic, but whether it is dangerous. When identification comes late, civilian populations, aviation authorities and emergency services must make decisions under uncertainty. Several incidents since 2023 have involved drone fragments, explosive payloads, temporary airspace restrictions and warnings that objects crossing from the Ukrainian theatre could endanger people on Moldovan territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova police find russian drone fragments near ukraine border 2024 02 11</span><span class="citation-popover-snippet">Moldova police find Russian drone fragments near Ukraine...11 Feb 2024 — Police on Sunday found fragments of a Russian drone alon...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/fragments-presumed-russian-drone-found-moldova-2024-04-04/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The debris, marked &quot;Heran-2&quot; (an alternate name for the Shahed drones used by Russia in the Ukraine conflict), was found roughly 500 mete...</span></span></span>
 
 ## Drone Routes from Ukraine
 
 Moldova occupies a vulnerable geographic position between Ukraine and Romania. Russian attacks on Ukrainian infrastructure, particularly around the Danube region and the Odesa area, occur relatively close to Moldovan territory. That proximity means a drone does not need to be deliberately aimed at Moldova to create a security incident there.
 
-Many of the documented incursions have occurred in southern Moldova near the Ukrainian border. In February 2024, Moldovan police found fragments of a Russian drone near Etulia after a Russian attack targeting Ukrainian infrastructure across the border. President Maia Sandu described the discovery as evidence that the war’s dangers were spilling beyond Ukraine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-its-soil-2025-02-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">ReutersRussian drones hit Ukraine port; Moldova says...February 13, 2025 — 13 Feb 2025 — Moldova&#x27;s Foreign Ministry said four Russian dr...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+Many of the documented incursions have occurred in southern Moldova near the Ukrainian border. In February 2024, Moldovan police found fragments of a Russian drone near Etulia after a Russian attack targeting Ukrainian infrastructure across the border. President Maia Sandu described the discovery as evidence that the war’s dangers were spilling beyond Ukraine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-its-soil-2025-02-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Russian drones hit Ukraine port; Moldova says...February 13, 2025 — 13 Feb 2025 — Moldova&#x27;s Foreign Ministry said four Russian dr...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 A second pattern involves drones or missile components that appear to have been diverted by air-defence activity, electronic warfare, navigation failures or fuel depletion. In several cases, debris was discovered after Ukrainian forces were attempting to intercept incoming Russian systems. This makes attribution easier than identification in real time. Authorities often know only after impact or recovery what crossed the border. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This drone malfunctioned and crossed into Moldova during an attack by Russian forces on Ukraine&#x27;s Izmail region. Moldova&#x27;s Foreign Minist...</span></span></span>
 
@@ -273,7 +273,7 @@ The most important aspect of these incidents is not mystery but hazard. Several 
 
 In February 2024, authorities recovered a Shahed-type drone near Etulia and later neutralised approximately 50 kilograms of explosives found inside it. Bomb-disposal teams were required because the drone had crossed into Moldova carrying a live military payload. What began as an unidentified object in the sky became a direct public-safety operation on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This drone malfunctioned and crossed into Moldova during an attack by Russian forces on Ukraine&#x27;s Izmail region. Moldova&#x27;s Foreign Minist...</span></span></span>
 
-Additional drone fragments were found near Etulia and nearby border areas later in 2024. Moldovan authorities repeatedly secured impact zones, restricted access and investigated whether dangerous materials remained in the wreckage. Although some discoveries involved debris that no longer posed an immediate threat, each recovery required authorities to assume the worst until specialists completed inspections. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iranintl.com/en/202404051673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iranintl.com">[2ایران اینترنشنال | Iran International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iranintl.com</span><span class="citation-popover-snippet">ایران اینترنشنال | Iran InternationalFragments of Iranian-Made Russian Drone Found In Moldova5 Apr 2024 — The fragments were found in an...</span></span></span>
+Additional drone fragments were found near Etulia and nearby border areas later in 2024. Moldovan authorities repeatedly secured impact zones, restricted access and investigated whether dangerous materials remained in the wreckage. Although some discoveries involved debris that no longer posed an immediate threat, each recovery required authorities to assume the worst until specialists completed inspections. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iranintl.com/en/202404051673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iranintl.com">[2ایران اینترنشنال &#124; Iran International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iranintl.com</span><span class="citation-popover-snippet">ایران اینترنشنال &#124; Iran InternationalFragments of Iranian-Made Russian Drone Found In Moldova5 Apr 2024 — The fragments were found in an...</span></span></span>
 
 The danger is not limited to drones themselves. Moldova has also dealt with missile debris associated with attacks on Ukraine. Earlier incidents in northern Moldova required controlled detonations after explosive remnants were discovered. In one case, bomb-disposal units dealt with roughly 80 kilograms of explosives recovered from rocket debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This drone malfunctioned and crossed into Moldova during an attack by Russian forces on Ukraine&#x27;s Izmail region. Moldova&#x27;s Foreign Minist...</span></span></span>
 
@@ -296,7 +296,7 @@ Several factors contribute to this problem:
 * **Low-altitude flight:** Systems can travel close to the ground, complicating detection and tracking.
 * **Electronic warfare effects:** Jamming and countermeasures may interfere with normal tracking.
 * **Night operations:** Many attacks occur overnight, reducing opportunities for visual confirmation.
-* **Cross-border complexity:** An object may enter Moldovan airspace only briefly before leaving, crashing or disintegrating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/ukraine-destroys-25-38-drones-russian-attack-air-force-says-2024-07-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">ReutersRussian drone debris found in Romania, NATO says no...July 25, 2024 — 26 Jul 2024 — Ukraine&#x27;s Air Force destroyed 25 Russian dron...</span><span class="citation-popover-meta">Published: July 25, 2024</span></span></span>
+* **Cross-border complexity:** An object may enter Moldovan airspace only briefly before leaving, crashing or disintegrating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/ukraine-destroys-25-38-drones-russian-attack-air-force-says-2024-07-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Russian drone debris found in Romania, NATO says no...July 25, 2024 — 26 Jul 2024 — Ukraine&#x27;s Air Force destroyed 25 Russian dron...</span><span class="citation-popover-meta">Published: July 25, 2024</span></span></span>
 
 </div>
 
@@ -311,7 +311,7 @@ For the public, this creates a recurring pattern. Reports first emerge describin
 
 Moldova’s breakaway region of Transnistria adds another layer of complexity.
 
-Several reported drone incidents in the region have generated immediate disputes over responsibility and authenticity. In March 2024, authorities in Transnistria claimed a drone attack had destroyed a helicopter at a military site. Moldova’s government quickly dismissed the account as an attempt to create panic and destabilisation narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-dismisses-reported-drone-strike-breakaway-enclave-provocation-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Moldova dismisses reported drone strike in breakaway</span><span class="citation-popover-snippet">ReutersMoldova dismisses reported drone strike in breakaway...March 17, 2024 — 17 Mar 2024 — Officials in Moldova&#x27;s pro-Russian, separat...</span><span class="citation-popover-meta">Published: March 17, 2024</span></span></span>
+Several reported drone incidents in the region have generated immediate disputes over responsibility and authenticity. In March 2024, authorities in Transnistria claimed a drone attack had destroyed a helicopter at a military site. Moldova’s government quickly dismissed the account as an attempt to create panic and destabilisation narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-dismisses-reported-drone-strike-breakaway-enclave-provocation-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Moldova dismisses reported drone strike in breakaway</span><span class="citation-popover-snippet">Moldova dismisses reported drone strike in breakaway...March 17, 2024 — 17 Mar 2024 — Officials in Moldova&#x27;s pro-Russian, separat...</span><span class="citation-popover-meta">Published: March 17, 2024</span></span></span>
 
 A separate April 2024 incident involved a reported drone strike on a military facility in the separatist territory. Moldovan officials again urged caution and suggested the possibility of provocation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/breakaway-moldovan-region-says-drone-hit-military-facility-2024-04-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Breakaway Moldovan region says drone hit military facility</span><span class="citation-popover-snippet">The incident occurred six km from the Ukrainian border, where Russia has been waging war for over two years, and follows a similar drone...</span></span></span>
 
@@ -327,7 +327,7 @@ The Moldovan experience demonstrates how the meaning of unidentified aerial phen
 
 Historically, UFO discussions often revolved around unusual [sightings]({{ 'sightings-2cf1d4/' | relative_url }}), witness testimony and speculative explanations. Modern Moldovan cases are different. The central question is usually operational: what entered the airspace, where did it come from, and does it threaten people on the ground?
 
-This shift helps explain why government statements increasingly focus on sovereignty, aviation safety and emergency response rather than mystery. A drone carrying explosives does not become less dangerous because its identity is initially unknown. In fact, uncertainty often increases the danger because authorities must react before they possess complete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This drone malfunctioned and crossed into Moldova during an attack by Russian forces on Ukraine&#x27;s Izmail region. Moldova&#x27;s Foreign Minist...</span></span></span> Reuters The strongest Moldovan incidents therefore sit at the intersection of UAP reporting and national security. They show how a country bordering <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova police find russian drone fragments near ukraine border 2024 02 11</span><span class="citation-popover-snippet">ReutersMoldova police find Russian drone fragments near Ukraine...11 Feb 2024 — Police on Sunday found fragments of a Russian drone alon...</span></span></span> an active war zone can experience repeated encounters with unidentified objects that are eventually traced not to extraordinary phenomena, but to the practical realities of modern drone warfare.
+This shift helps explain why government statements increasingly focus on sovereignty, aviation safety and emergency response rather than mystery. A drone carrying explosives does not become less dangerous because its identity is initially unknown. In fact, uncertainty often increases the danger because authorities must react before they possess complete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This drone malfunctioned and crossed into Moldova during an attack by Russian forces on Ukraine&#x27;s Izmail region. Moldova&#x27;s Foreign Minist...</span></span></span> Reuters The strongest Moldovan incidents therefore sit at the intersection of UAP reporting and national security. They show how a country bordering <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova police find russian drone fragments near ukraine border 2024 02 11</span><span class="citation-popover-snippet">Moldova police find Russian drone fragments near Ukraine...11 Feb 2024 — Police on Sunday found fragments of a Russian drone alon...</span></span></span> an active war zone can experience repeated encounters with unidentified objects that are eventually traced not to extraordinary phenomena, but to the practical realities of modern drone warfare.
 
 ## What These Incidents Reveal About Moldova’s Airspace Future
 
@@ -342,86 +342,44 @@ For the wider [Republic of Moldova]({{ 'republic-of-moldova/' | relative_url }})
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When UAP Means Airspace Danger. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When UAP Means Airspace Danger, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding identification challenges and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how authorities approach uncertain aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Connects unidentified aerial reports with defence and aviation contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Adds real-world context about advanced aerospace technology and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -455,75 +413,71 @@ For the wider [Republic of Moldova]({{ 'republic-of-moldova/' | relative_url }})
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-risk-when-uap-means-airspace-danger-republic-of-moldova-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -738,186 +692,186 @@ For the wider [Republic of Moldova]({{ 'republic-of-moldova/' | relative_url }})
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: moldova police find russian drone fragments near ukraine border 2024 02 11  
-   Link: [https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/](https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersMoldova police find Russian drone fragments near Ukraine...11 Feb 2024 — Police on Sunday found fragments of a Russian drone alon...</p></details>
+   Link: <a href="https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova police find Russian drone fragments near Ukraine...11 Feb 2024 — Police on Sunday found fragments of a Russian drone alon...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/fragments-presumed-russian-drone-found-moldova-2024-04-04/](https://www.reuters.com/world/europe/fragments-presumed-russian-drone-found-moldova-2024-04-04/)  
+   Link: <a href="https://www.reuters.com/world/europe/fragments-presumed-russian-drone-found-moldova-2024-04-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/fragments-presumed-russian-drone-found-moldova-2024-04-04/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The debris, marked &quot;Heran-2&quot; (an alternate name for the Shahed drones used by Russia in the Ukraine conflict), was found roughly 500 mete...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Moldova and the Russo-Ukrainian war  
-   Link: [https://en.wikipedia.org/wiki/Moldova_and_the_Russo-Ukrainian_war](https://en.wikipedia.org/wiki/Moldova_and_the_Russo-Ukrainian_war)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moldova_and_the_Russo-Ukrainian_war" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moldova_and_the_Russo-Ukrainian_war</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova and the Russo-Ukrainian war&quot;Moldova strongly condemns second Russian drone wreckage discovery near Ukraine... &quot;Breakaway Mold...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-its-soil-2025-02-13/](https://www.reuters.com/world/europe/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-its-soil-2025-02-13/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersRussian drones hit Ukraine port; Moldova says...February 13, 2025 — 13 Feb 2025 — Moldova&#x27;s Foreign Ministry said four Russian dr...</p></details>
+   Link: <a href="https://www.reuters.com/world/europe/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-its-soil-2025-02-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-its-soil-2025-02-13/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian drones hit Ukraine port; Moldova says...February 13, 2025 — 13 Feb 2025 — Moldova&#x27;s Foreign Ministry said four Russian dr...</p></details>
    Published: February 13, 2025  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: moldovas sandu says two russian drones exploded moldovan soil 2025 02 13  
-   Link: [https://www.reuters.com/world/europe/moldovas-sandu-says-two-russian-drones-exploded-moldovan-soil-2025-02-13/](https://www.reuters.com/world/europe/moldovas-sandu-says-two-russian-drones-exploded-moldovan-soil-2025-02-13/)  
+   Link: <a href="https://www.reuters.com/world/europe/moldovas-sandu-says-two-russian-drones-exploded-moldovan-soil-2025-02-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldovas-sandu-says-two-russian-drones-exploded-moldovan-soil-2025-02-13/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova&#x27;s Sandu says two Russian drones exploded on...12 Feb 2025 — Moldovan President Maia Sandu said on Thursday that Russian drones v...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/ukraine-destroys-25-38-drones-russian-attack-air-force-says-2024-07-25/](https://www.reuters.com/world/europe/ukraine-destroys-25-38-drones-russian-attack-air-force-says-2024-07-25/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersRussian drone debris found in Romania, NATO says no...July 25, 2024 — 26 Jul 2024 — Ukraine&#x27;s Air Force destroyed 25 Russian dron...</p></details>
+   Link: <a href="https://www.reuters.com/world/europe/ukraine-destroys-25-38-drones-russian-attack-air-force-says-2024-07-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/ukraine-destroys-25-38-drones-russian-attack-air-force-says-2024-07-25/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian drone debris found in Romania, NATO says no...July 25, 2024 — 26 Jul 2024 — Ukraine&#x27;s Air Force destroyed 25 Russian dron...</p></details>
    Published: July 25, 2024  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Violations of non-combatant airspace during the Russo  
-   Link: [https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29](https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2024 — February 10, 2023, Moldova · Russia, A Russian missile violated Moldovan airspace, resulting in the Russian ambassador t...</p></details>
    Published: March 24, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: Moldova dismisses reported drone strike in breakaway  
-   Link: [https://www.reuters.com/world/europe/moldova-dismisses-reported-drone-strike-breakaway-enclave-provocation-2024-03-17/](https://www.reuters.com/world/europe/moldova-dismisses-reported-drone-strike-breakaway-enclave-provocation-2024-03-17/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersMoldova dismisses reported drone strike in breakaway...March 17, 2024 — 17 Mar 2024 — Officials in Moldova&#x27;s pro-Russian, separat...</p></details>
+   Link: <a href="https://www.reuters.com/world/europe/moldova-dismisses-reported-drone-strike-breakaway-enclave-provocation-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-dismisses-reported-drone-strike-breakaway-enclave-provocation-2024-03-17/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova dismisses reported drone strike in breakaway...March 17, 2024 — 17 Mar 2024 — Officials in Moldova&#x27;s pro-Russian, separat...</p></details>
    Published: March 17, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: Breakaway Moldovan region says drone hit military facility  
-   Link: [https://www.reuters.com/world/europe/breakaway-moldovan-region-says-drone-hit-military-facility-2024-04-05/](https://www.reuters.com/world/europe/breakaway-moldovan-region-says-drone-hit-military-facility-2024-04-05/)  
+   Link: <a href="https://www.reuters.com/world/europe/breakaway-moldovan-region-says-drone-hit-military-facility-2024-04-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/breakaway-moldovan-region-says-drone-hit-military-facility-2024-04-05/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident occurred six km from the Ukrainian border, where Russia has been waging war for over two years, and follows a similar drone...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: moldova1.md  
    Title: russian drones over moldova systematic incidents spark national security alarm  
-   Link: [https://moldova1.md/p/72524/russian-drones-over-moldova-systematic-incidents-spark-national-security-alarm](https://moldova1.md/p/72524/russian-drones-over-moldova-systematic-incidents-spark-national-security-alarm)  
+   Link: <a href="https://moldova1.md/p/72524/russian-drones-over-moldova-systematic-incidents-spark-national-security-alarm" target="_blank" rel="noopener noreferrer nofollow">https://moldova1.md/p/72524/russian-drones-over-moldova-systematic-incidents-spark-national-security-alarm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova 1Russian drones over Moldova: Systematic incidents spark...Mar 31, 2026 — Recent incursions of Russian drones into Moldovan airs...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/moldova-says-russian-drones-entered-its-airspace-again-posing-aviation-threat-2025-11-29/](https://www.reuters.com/world/moldova-says-russian-drones-entered-its-airspace-again-posing-aviation-threat-2025-11-29/)  
+   Link: <a href="https://www.reuters.com/world/moldova-says-russian-drones-entered-its-airspace-again-posing-aviation-threat-2025-11-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/moldova-says-russian-drones-entered-its-airspace-again-posing-aviation-threat-2025-11-29/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova says Russian drones entered its airspace again...Nov 29, 2025 — Moldovan authorities said on Saturday that Russian drones had en...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: moldova says two russian decoy drones crashed its territory 2024 11 10  
-   Link: [https://www.reuters.com/world/europe/moldova-says-two-russian-decoy-drones-crashed-its-territory-2024-11-10/](https://www.reuters.com/world/europe/moldova-says-two-russian-decoy-drones-crashed-its-territory-2024-11-10/)  
+   Link: <a href="https://www.reuters.com/world/europe/moldova-says-two-russian-decoy-drones-crashed-its-territory-2024-11-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-says-two-russian-decoy-drones-crashed-its-territory-2024-11-10/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova says two Russian &#x27;decoy&#x27; drones crashed on its...10 Nov 2024 — The drones were found in the northern village of Borosenii Noi an...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: moldova complains unacceptable intrusion russian drone 2025 11 26  
-   Link: [https://www.reuters.com/world/moldova-complains-unacceptable-intrusion-russian-drone-2025-11-26/](https://www.reuters.com/world/moldova-complains-unacceptable-intrusion-russian-drone-2025-11-26/)  
+   Link: <a href="https://www.reuters.com/world/moldova-complains-unacceptable-intrusion-russian-drone-2025-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/moldova-complains-unacceptable-intrusion-russian-drone-2025-11-26/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova complains of unacceptable intrusion of Russian...Nov 26, 2025 — Moldova noted incursions by six Russian drones on Tuesday, inclu...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: live updates ukraine russia us embassy kyiv shuts down 2024 11 20  
-   Link: [https://www.reuters.com/world/live-updates-ukraine-russia-us-embassy-kyiv-shuts-down-2024-11-20/](https://www.reuters.com/world/live-updates-ukraine-russia-us-embassy-kyiv-shuts-down-2024-11-20/)  
+   Link: <a href="https://www.reuters.com/world/live-updates-ukraine-russia-us-embassy-kyiv-shuts-down-2024-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/live-updates-ukraine-russia-us-embassy-kyiv-shuts-down-2024-11-20/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine launched UK cruise missiles into Russia, US shut...21 Nov 2024 — Ukrainian searchlights hunting for drones in the sky over Kyiv...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
    Title: russia launches drone attack kyiv mayor says 2024 10 15  
-   Link: [https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-mayor-says-2024-10-15/](https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-mayor-says-2024-10-15/)  
+   Link: <a href="https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-mayor-says-2024-10-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-mayor-says-2024-10-15/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine attacked by over 130 Russian drones in latest...16 Oct 2024 — Police in neighbouring Moldova said that debris of what appeared t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
    Title: romania says it finds drone fragments near border with ukraine 2024 03 29  
-   Link: [https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/](https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/)  
+   Link: <a href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania says it finds drone fragments near border with...29 Mar 2024 — NATO member Romania said it had found fragments of what appeared...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
    Title: russia calls investigation into dangerous transdniestria drone attack 2024 04 06  
-   Link: [https://www.reuters.com/world/europe/russia-calls-investigation-into-dangerous-transdniestria-drone-attack-2024-04-06/](https://www.reuters.com/world/europe/russia-calls-investigation-into-dangerous-transdniestria-drone-attack-2024-04-06/)  
+   Link: <a href="https://www.reuters.com/world/europe/russia-calls-investigation-into-dangerous-transdniestria-drone-attack-2024-04-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russia-calls-investigation-into-dangerous-transdniestria-drone-attack-2024-04-06/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia calls for probe into Transdniestria drone attack6 Apr 2024 — A kamikaze drone hit a facility belonging to the separatist authority...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: 2025 Russian drone incursion into Poland  
-   Link: [https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland](https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland)  
+   Link: <a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Russian drone incursion into PolandOn 9 September 2025, about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Poland&#x27;s...</p></details>
    Published: September 2025  
 
 19. <a id="endnote-19"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/ukraine-russia-war-latest-news-putin-zelenskyy-ceasefire-nato-visa-live-updates-12541713](https://news.sky.com/story/ukraine-russia-war-latest-news-putin-zelenskyy-ceasefire-nato-visa-live-updates-12541713)  
+   Link: <a href="https://news.sky.com/story/ukraine-russia-war-latest-news-putin-zelenskyy-ceasefire-nato-visa-live-updates-12541713" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ukraine-russia-war-latest-news-putin-zelenskyy-ceasefire-nato-visa-live-updates-12541713</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>war latest: Hypersonic Russian missile has &#x27;...The latest such incident took place today, where an unidentified drone entered Latvia&#x27;s a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb](https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb)  
+   Link: <a href="https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/6727db6d2d3a7617a2e9d79b472aa4fb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This drone malfunctioned and crossed into Moldova during an attack by Russian forces on Ukraine&#x27;s Izmail region. Moldova&#x27;s Foreign Minist...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: iranintl.com  
-   Link: [https://www.iranintl.com/en/202404051673](https://www.iranintl.com/en/202404051673)  
+   Link: <a href="https://www.iranintl.com/en/202404051673" target="_blank" rel="noopener noreferrer nofollow">https://www.iranintl.com/en/202404051673</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ایران اینترنشنال | Iran InternationalFragments of Iranian-Made Russian Drone Found In Moldova5 Apr 2024 — The fragments were found in an...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: apnews.com  
    Title: AP News Moldova: Controlled detonations carried out on rocket debris  
-   Link: [https://apnews.com/article/a1c24d81ae12738b658e6e434bfebb20](https://apnews.com/article/a1c24d81ae12738b658e6e434bfebb20)  
+   Link: <a href="https://apnews.com/article/a1c24d81ae12738b658e6e434bfebb20" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a1c24d81ae12738b658e6e434bfebb20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Approximately 80 kilograms of explosives were identified in the rocket remains, suspected to originate from Russia&#x27;s air attacks on Ukrai...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: english.nv.ua  
-   Link: [https://english.nv.ua/nation/drone-debris-found-near-ukraine-border-in-moldova-50592589.html](https://english.nv.ua/nation/drone-debris-found-near-ukraine-border-in-moldova-50592589.html)  
+   Link: <a href="https://english.nv.ua/nation/drone-debris-found-near-ukraine-border-in-moldova-50592589.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/drone-debris-found-near-ukraine-border-in-moldova-50592589.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>debris found near Ukraine border in Moldova / The...6 days ago — Fragments of an unidentified drone were found in southern Moldova about...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: lemonde.fr  
    Title: moldova temporarily closes airspace after russian drone incursion 6747971 4  
-   Link: [https://www.lemonde.fr/en/international/article/2025/11/29/moldova-temporarily-closes-airspace-after-russian-drone-incursion_6747971_4.html](https://www.lemonde.fr/en/international/article/2025/11/29/moldova-temporarily-closes-airspace-after-russian-drone-incursion_6747971_4.html)  
+   Link: <a href="https://www.lemonde.fr/en/international/article/2025/11/29/moldova-temporarily-closes-airspace-after-russian-drone-incursion_6747971_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/international/article/2025/11/29/moldova-temporarily-closes-airspace-after-russian-drone-incursion_6747971_4.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova temporarily closes airspace after Russian drone...29 Nov 2025 — Moldova shut its skies for just over an hour on Friday night fol...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: londonlovesbusiness.com  
    Title: russian drone violates moldovan airspace in a serious breach of sovereignty  
-   Link: [https://londonlovesbusiness.com/russian-drone-violates-moldovan-airspace-in-a-serious-breach-of-sovereignty/](https://londonlovesbusiness.com/russian-drone-violates-moldovan-airspace-in-a-serious-breach-of-sovereignty/)  
+   Link: <a href="https://londonlovesbusiness.com/russian-drone-violates-moldovan-airspace-in-a-serious-breach-of-sovereignty/" target="_blank" rel="noopener noreferrer nofollow">https://londonlovesbusiness.com/russian-drone-violates-moldovan-airspace-in-a-serious-breach-of-sovereignty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian drone violates Moldovan airspace in a &#x27;serious...14 Mar 2026 — A Russian drone violates Moldovan airspace, marking a serious bre...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: wiky.com  
    Title: russian drones hit ukraine port moldova says drones exploded on its soil  
-   Link: [https://wiky.com/2025/02/13/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-on-its-soil/](https://wiky.com/2025/02/13/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-on-its-soil/)  
+   Link: <a href="https://wiky.com/2025/02/13/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-on-its-soil/" target="_blank" rel="noopener noreferrer nofollow">https://wiky.com/2025/02/13/russian-drones-hit-ukraine-port-moldova-says-drones-exploded-on-its-soil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian drones hit Ukraine port, Moldova says...13 Feb 2025 — Moldovan President Maia Sandu said two Russian drones had h violated Moldo...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: united24media.com  
    Title: explosive drone found in moldova 500 meters from ukraine border 16954  
-   Link: [https://united24media.com/latest-news/explosive-drone-found-in-moldova-500-meters-from-ukraine-border-16954](https://united24media.com/latest-news/explosive-drone-found-in-moldova-500-meters-from-ukraine-border-16954)  
+   Link: <a href="https://united24media.com/latest-news/explosive-drone-found-in-moldova-500-meters-from-ukraine-border-16954" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/latest-news/explosive-drone-found-in-moldova-500-meters-from-ukraine-border-16954</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explosive Drone Found in Moldova 500 Meters From...17 Mar 2026 — A drone containing explosive material was discovered in southern Moldov...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: uk.investing.com  
    Title: fragments of presumed russian drone found in moldova 3418885  
-   Link: [https://uk.investing.com/news/world-news/fragments-of-presumed-russian-drone-found-in-moldova-3418885](https://uk.investing.com/news/world-news/fragments-of-presumed-russian-drone-found-in-moldova-3418885)  
+   Link: <a href="https://uk.investing.com/news/world-news/fragments-of-presumed-russian-drone-found-in-moldova-3418885" target="_blank" rel="noopener noreferrer nofollow">https://uk.investing.com/news/world-news/fragments-of-presumed-russian-drone-found-in-moldova-3418885</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of presumed Russian drone found in Moldova4 Apr 2024 — The fragments were found in an area about 500 metres (1,600 feet) from the border...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/a-russian-drone-launched-during-an-overnight-attack-on-ukraine-crashed-into-a-re/1508913111269671/](https://www.facebook.com/firstpostin/posts/a-russian-drone-launched-during-an-overnight-attack-on-ukraine-crashed-into-a-re/1508913111269671/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/a-russian-drone-launched-during-an-overnight-attack-on-ukraine-crashed-into-a-re/1508913111269671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/a-russian-drone-launched-during-an-overnight-attack-on-ukraine-crashed-into-a-re/1508913111269671/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dential building in eastern Romania, injuring two civilians...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Reuters/posts/moldovan-authorities-said-on-saturday-that-russian-drones-had-entered-the-countr/1402497705074291/](https://www.facebook.com/Reuters/posts/moldovan-authorities-said-on-saturday-that-russian-drones-had-entered-the-countr/1402497705074291/)  
+   Link: <a href="https://www.facebook.com/Reuters/posts/moldovan-authorities-said-on-saturday-that-russian-drones-had-entered-the-countr/1402497705074291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/moldovan-authorities-said-on-saturday-that-russian-drones-had-entered-the-countr/1402497705074291/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>untry&#x27;s airspace, posing a threat to aviation, in the third such...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pDSbz_Sw-p0](https://www.youtube.com/watch?v=pDSbz_Sw-p0)  
+   Link: <a href="https://www.youtube.com/watch?v=pDSbz_Sw-p0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pDSbz_Sw-p0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Poland intercepts Russian drones in airspace | Here&#x27;s what we know...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/moldova-displays-a-crashed-drone-to-the-russian-envoymoldova-crashed-russian-dro/1203415865230919/](https://www.facebook.com/WIONews/posts/moldova-displays-a-crashed-drone-to-the-russian-envoymoldova-crashed-russian-dro/1203415865230919/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/moldova-displays-a-crashed-drone-to-the-russian-envoymoldova-crashed-russian-dro/1203415865230919/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/moldova-displays-a-crashed-drone-to-the-russian-envoymoldova-crashed-russian-dro/1203415865230919/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova displays a crashed drone to the Russian envoy...Moldovan authorities reported that Russian drones entered the country&#x27;s airspace...</p></details>

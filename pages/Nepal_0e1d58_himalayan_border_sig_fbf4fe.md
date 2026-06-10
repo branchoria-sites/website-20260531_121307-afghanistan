@@ -245,7 +245,7 @@ next_link:
   permalink: /gandaki-fireball/
   short_title: Gandaki Fireball
   heading_title: When a Nepal UFO Becomes a Fireball
-date: '2026-06-09 01:35:21 '
+date: '2026-06-10 02:01:51 '
 header:
   og_image: /assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-social.jpg
   preview_image: /assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-so
 
 ## Introduction
 
-[Nepal]({{ 'what-really-happened-in-nepals-ufo/' | relative_url }})’s most persistent UFO stories are difficult to separate from the geography in which they occurred. Many of the country’s best-known sightings came from remote Himalayan districts near international borders, at a time when Cold War intelligence activity, military overflights, satellite launches and limited communications all overlapped. The result is a record that often looks mysterious at first glance but becomes more understandable when mountain conditions and strategic politics are examined together.
+Nepal’s most persistent UFO stories are difficult to separate from the geography in which they occurred. Many of the country’s best-known sightings came from remote Himalayan districts near international borders, at a time when Cold War intelligence activity, military overflights, satellite launches and limited communications all overlapped. The result is a record that often looks mysterious at first glance but becomes more understandable when mountain conditions and strategic politics are examined together.
 
 
 <img src="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-dark.svg" | relative_url }}" alt="Border Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,7 +293,7 @@ The strongest non-extraterrestrial explanations come from Cold War aerospace act
 
 By 1968 both the United States and Soviet Union were conducting intensive satellite, missile and space-launch programmes. Objects re-entering Earth's atmosphere often produced exactly the kind of effects described in Himalayan reports: bright streaks, changing colours, fragmentation, long visible trajectories and delayed sonic booms.
 
-Modern analyses of satellite re-entries show that debris can scatter over large areas and generate multiple witness reports across different regions. To ground observers unfamiliar with such events, a disintegrating spacecraft can appear far stranger than an ordinary meteor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
+Modern analyses of satellite re-entries show that debris can scatter over large areas and generate multiple witness reports across different regions. To ground observers unfamiliar with such events, a disintegrating spacecraft can appear far stranger than an ordinary meteor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
 
 The Pokhara incident is especially interesting because later American records referred not merely to a sighting but to the recovery and shipment of a "space fragment". Declassified communications discussed examination, restoration and transport of recovered material. This language has encouraged speculation about a crash retrieval operation, yet it also points toward a far less sensational possibility: American officials may have believed the object was aerospace debris worth technical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
@@ -371,86 +371,44 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
 <img src="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-3-dark.svg" | relative_url }}" alt="Border Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Were Himalayan UFOs Really Borderland Confusion?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Were Himalayan UFOs Really Borderland Confusion?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers analytical approaches relevant to borderland sightings and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines military observations, official investigations, and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
-        
-        <p class="fr-book-desc">Touches on Cold War technology and military speculation surrounding unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how remote regions generate persistent mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -484,75 +442,71 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-t-shirt-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-t-shirt-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-t-shirt-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-t-shirt-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=border-skies-993570-were-himalayan-ufos-really-borderland-confusion-nepal-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -766,131 +720,131 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.01654](https://arxiv.org/abs/2411.01654)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.01654</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</p></details>
    Published: November 3, 2024  
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100070007 8  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of. t...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of. t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt](https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt)  
+   Link: <a href="https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>he road to utopia.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ia601205.us.archive.org  
    Title: 1947 Roswell Al. INTERVIEW Matilda O Donnell MacElroy  
-   Link: [https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf](https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf)  
+   Link: <a href="https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERVIEW7 Aug 1991 — tens of thousands of reported UFO sightings. A global hysteria has... were killed by disease and war brought upon...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: [https://nepalitimes.com/here-now/ufo-over-pokhara](https://nepalitimes.com/here-now/ufo-over-pokhara)  
+   Link: <a href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/here-now/ufo-over-pokhara</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thehimalayantimes.com  
    Title: The Himalayan Times UFOs over Nepal?  
-   Link: [https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago](https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago)  
+   Link: <a href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kathmandupost.com  
    Title: on ufos and yetis  
-   Link: [https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis](https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis)  
+   Link: <a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories on CIA cover-up about extraterrestrial activity aside...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hindustantimes.com  
    Title: story t KMATr DE37L73Num Bfpxc M  
-   Link: [https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html](https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html)  
+   Link: <a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesCIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: asianage.com  
-   Link: [https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html](https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html)  
+   Link: <a href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>asian6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA report27 Jan 2017 — The CIA documented a total of six UFO sightings over “sout...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: [https://nepalitimes.com/ufo-over-pokhara](https://nepalitimes.com/ufo-over-pokhara)  
+   Link: <a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it could be pieces of satellite, mi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nepalitimes.com  
-   Link: [https://nepalitimes.com/tag/ufo](https://nepalitimes.com/tag/ufo)  
+   Link: <a href="https://nepalitimes.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/tag/ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: #UFO6 Dec 2024 — UFO over Pokhara. Nearly 60 years after a fiery fall of fragments from the sky, the mystery is no closer to being s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nepalitimes.com  
-   Link: [https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position](https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position)  
+   Link: <a href="https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This would put Nepal in a very uneasy and difficult position.&quot; Foreign Minister Chakra Bastola spoke...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: kathmandupost.com  
    Title: on ufos and yetis  
-   Link: [https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE](https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE)  
+   Link: <a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories on CIA cover-up about extraterrestrial activity aside, the...Read more...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blog.seniorennet.be  
-   Link: [https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&stopdatum=1512082800](https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&stopdatum=1512082800)  
+   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&amp;stopdatum=1512082800" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&amp;stopdatum=1512082800</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Close Encounters. US-Navy-UFO. Has planet earth ever had a close encounter with...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
    Title: Comprehensive UFO History Timeline | PDFUfos and Intelligence  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document presents a comprehensive timeline of UFO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ofessed non-interest in UFOs is un-· true.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG](https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG)  
+   Link: <a href="https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Lost CIA Nuclear Device Still Haunts The Himalayas, 60...Climate change could unearth, disturb Cold War-era nuclear waste...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — A declassified memorandum discusses UFOs and covers the visit of Edwin P.... alien and UFO existence at the National Archi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from Agobard of Lyons to the newly appointed...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Secretive CIA Cold War Corona Project | Upscaled Original Footage  
-   Link: [http://www.youtube.com/watch?v=utQFm8IFV9M](http://www.youtube.com/watch?v=utQFm8IFV9M)  
+   Link: <a href="http://www.youtube.com/watch?v=utQFm8IFV9M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=utQFm8IFV9M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1968 Nepal UFO CIA declassified NASA ROVER SPOTS ALIENS | The Proof Is Out There | #Shorts | History HISTORY...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Lc4HZC1G1FY](https://www.youtube.com/watch?v=Lc4HZC1G1FY)  
+   Link: <a href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lc4HZC1G1FY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Khampa Rebellion and CIA&#x27;s Role in Nepal. 03:00 - Local... The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
    Title: Timeline of World Wierdness  
-   Link: [https://www.academia.edu/45497950/Timeline_of_World_Wierdness](https://www.academia.edu/45497950/Timeline_of_World_Wierdness)  
+   Link: <a href="https://www.academia.edu/45497950/Timeline_of_World_Wierdness" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/Timeline_of_World_Wierdness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Timeline of World Wierdness... aliens who crash land on Tibet/China border. Remains discovered in 1938... This project was used to...</p></details>

@@ -239,7 +239,7 @@ prev_link:
   permalink: /official-response/
   short_title: Official Response
   heading_title: Who Investigates Strange Objects in Kenya?
-date: '2026-06-09 01:30:53 '
+date: '2026-06-10 01:56:29 '
 header:
   og_image: /assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-1-social.jpg
   preview_image: /assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-1.webp
@@ -248,15 +248,15 @@ image: /assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-1-soc
 
 ## Introduction
 
-In the context of **[Kenya]({{ 'what-really-fell-from-kenyas-skies/' | relative_url }})’s reported unidentified aerial phenomena (UAP)**, most structured records come not from official government archives but from **citizen‑science and public reporting databases** maintained abroad. These databases compile what everyday observers submit — often single‑witness accounts, informal descriptions, videos or photos — but do **not themselves constitute verified evidence of extraterrestrial craft or unexplained technology**. For Kenya, this means that while several sighting reports appear in global compilations like the **National UFO Reporting Center (NUFORC) database**, their **value for rigorous analysis is limited** without independent verification or corroborative data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+In the context of **Kenya’s reported unidentified aerial phenomena (UAP)**, most structured records come not from official government archives but from **citizen‑science and public reporting databases** maintained abroad. These databases compile what everyday observers submit — often single‑witness accounts, informal descriptions, videos or photos — but do **not themselves constitute verified evidence of extraterrestrial craft or unexplained technology**. For Kenya, this means that while several sighting reports appear in global compilations like the **National UFO Reporting Center (NUFORC) database**, their **value for rigorous analysis is limited** without independent verification or corroborative data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Data illustration 1" data-theme-src-dark="{{ "/assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Public UFO Reporting Databases Are and Are Not
 
-The most widely referenced repository for public UFO sightings worldwide is the **NUFORC database**, operated by the privately run National UFO Reporting Center. NUFORC has been collecting self‑reported sighting accounts since 1974 and offers an online database with thousands of reports, including entries from many countries beyond the United States. It categorises reports by location, date, duration, shape and witness account but **explicitly makes no claims about the validity or explanation of these sightings**. That is, reports are collected and published largely as‑received, with only minimal screening for obvious hoaxes or spam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 191701...</span></span></span>
+The most widely referenced repository for public UFO sightings worldwide is the **NUFORC database**, operated by the privately run National UFO Reporting Center. NUFORC has been collecting self‑reported sighting accounts since 1974 and offers an online database with thousands of reports, including entries from many countries beyond the United States. It categorises reports by location, date, duration, shape and witness account but **explicitly makes no claims about the validity or explanation of these sightings**. That is, reports are collected and published largely as‑received, with only minimal screening for obvious hoaxes or spam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 191701...</span></span></span>
 
-For Kenya, that means sightings are often recorded in the global archive if a witness from Kenya submitted a report, but they remain **unverified by experts** and **lack systematic investigation**. NUFORC itself does not have the resources or mandate to conduct formal field investigation, instrument analysis, or cross‑check with radar or astronomical data. This limits what such database entries can prove beyond “someone reported observing something unusual in the sky.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/organizations/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database National UFO Reporting Center | The UFO Database</span><span class="citation-popover-snippet">The UFO Database National UFO Reporting Center | The UFO Database</span></span></span>
+For Kenya, that means sightings are often recorded in the global archive if a witness from Kenya submitted a report, but they remain **unverified by experts** and **lack systematic investigation**. NUFORC itself does not have the resources or mandate to conduct formal field investigation, instrument analysis, or cross‑check with radar or astronomical data. This limits what such database entries can prove beyond “someone reported observing something unusual in the sky.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/organizations/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database National UFO Reporting Center &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database National UFO Reporting Center &#124; The UFO Database</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_onrUCo5ea0" title="&quot;One in a million&quot; piece of space debris crashes on remote village in Kenya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_onrUCo5ea0" target="_blank" rel="noopener noreferrer">&quot;One in a million&quot; piece of space debris crashes on remote village in Kenya</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.1K &middot; Uploaded: January 2025 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_onrUCo5ea0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_onrUCo5ea0">Open on YouTube</a></p></div></div></div>
@@ -265,9 +265,9 @@ For Kenya, that means sightings are often recorded in the global archive if a wi
 
 A check of the NUFORC archive shows a **handful of Kenya‑related submissions** over time, illustrating the typical level of documentation and the challenges they present for validation:
 
-* **Disk‑shaped object in Murang’a (2016):** A brief amateur video reportedly shows a disc with lights during rainy conditions. NUFORC’s own notes flag the footage as “possible Photoshop creation, we suspect, but cannot be certain,” underlining how the database preserves even doubtful reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=127990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 127990June 24, 2016...</span><span class="citation-popover-meta">Published: June 24, 2016</span></span></span>
-* **Shiny cylindrical object over Nairobi (2020):** One observer reported an immobile cylindrical figure for about an hour, observed through photography. This account lacks independent verification and remains an anecdote in the archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 168782June 22, 2022...</span><span class="citation-popover-meta">Published: June 22, 2022</span></span></span>
-* **Seven‑witness craft off the Kenyan coast (1978/2025 reported):** A more dramatic entry describes multiple observers at sea seeing a disk rise from the ocean and ascend rapidly; although unusual, without corroboration this account remains an unverified narration in NUFORC. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=41473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 41473January 19, 2005...</span><span class="citation-popover-meta">Published: January 19, 2005</span></span></span>
+* **Disk‑shaped object in Murang’a (2016):** A brief amateur video reportedly shows a disc with lights during rainy conditions. NUFORC’s own notes flag the footage as “possible Photoshop creation, we suspect, but cannot be certain,” underlining how the database preserves even doubtful reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=127990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 127990June 24, 2016...</span><span class="citation-popover-meta">Published: June 24, 2016</span></span></span>
+* **Shiny cylindrical object over Nairobi (2020):** One observer reported an immobile cylindrical figure for about an hour, observed through photography. This account lacks independent verification and remains an anecdote in the archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 168782June 22, 2022...</span><span class="citation-popover-meta">Published: June 22, 2022</span></span></span>
+* **Seven‑witness craft off the Kenyan coast (1978/2025 reported):** A more dramatic entry describes multiple observers at sea seeing a disk rise from the ocean and ascend rapidly; although unusual, without corroboration this account remains an unverified narration in NUFORC. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=41473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 41473January 19, 2005...</span><span class="citation-popover-meta">Published: January 19, 2005</span></span></span>
 * **Older Nairobi flash events (2005) and approximate 1987 diamond‑shaped object:** Other archived reports vary in detail and are generally solitary eyewitness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=138234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 138234January 12, 2018 — NUFORC UFO SIGHTING 138234 Occurred: 1987-07-10 20:00 Local - Approximate Reported: 2018-01...</span><span class="citation-popover-meta">Published: January 12, 2018</span></span></span>
 
 Aside from NUFORC, other global UFO databases such as UAP Monitor or independent forums sometimes mention Kenya reports, but often repeat the same informal sightings without additional corroborative sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmonitor.org">[UAP Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmonitor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -282,7 +282,7 @@ At the local level, viral social posts and news stories occasionally highlight �
 To understand what these database entries mean, it helps to distinguish between **recorded sightings** and **evidence of unexplained aerial phenomena**:
 
 * **Eyewitness report ≠ Physical evidence:** Single or even multiple eyewitness accounts, whether published in a database or on social media, do not in themselves confirm a non‑mundane aerial object without corroborating data such as radar tracking, spectroscopy, multiple synchronized videos, or physical traces.
-* **Database inclusion is descriptive, not diagnostic:** Systems like NUFORC catalogue what was reported, not what was verified. Their aim is archiving and transparency of submissions, not confirming extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **Database inclusion is descriptive, not diagnostic:** Systems like NUFORC catalogue what was reported, not what was verified. Their aim is archiving and transparency of submissions, not confirming extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 * **Contextual explanations often exist:** Many purported “UFOs” turn out to be misidentified aircraft, satellites, atmospheric phenomena, astronomical objects or even camera artefacts once analysed scientifically.
 
 For Kenya specifically, the **scarcity of instrumented observations, formal investigations, and corroborative datasets** means that the Kenyan reports in these public repositories remain **weak in evidentiary value**. They are useful for understanding patterns in what people report and how sightings are described, but not for concluding that any particular case represents unexplained physical craft.
@@ -312,92 +312,50 @@ Taken together, this means that while Kenyan sightings appear in global UFO/UAP 
 
 For broader context on reported Kenyan sightings that have spurred public interest, see related pages on **Kenya’s modern reported incidents and investigations**, where notable space debris events and official statements help frame what is unexplained versus what has conventional explanations.
 
-In summary, **Kenyan UFO databases and weak sighting records provide an archive of curious observations but do not by themselves constitute verified evidence of anomalous aerial objects** — they are first‑pass records awaiting stronger corroboration or scientific investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 191701...</span></span></span>
+In summary, **Kenyan UFO databases and weak sighting records provide an archive of curious observations but do not by themselves constitute verified evidence of anomalous aerial objects** — they are first‑pass records awaiting stronger corroboration or scientific investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 191701...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-3-dark.svg" | relative_url }}" alt="Sightings Data illustration 3" data-theme-src-dark="{{ "/assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenya_a84f56_kenya_ufo_databases_ca9e3a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Kenya&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Reliable Are Kenya&#x27;s UFO Reports?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Introduces frameworks for evaluating reports and separating stronger cases from weaker ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Emphasises evidence quality, witness reliability and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses how reports are documented, investigated and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for understanding skepticism, evidence standards and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -431,75 +389,71 @@ In summary, **Kenyan UFO databases and weak sighting records provide an archive 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-data-f697ec-how-reliable-are-kenya-s-ufo-reports-kenya-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -714,132 +668,132 @@ In summary, **Kenyan UFO databases and weak sighting records provide an archive 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191701](https://nuforc.org/sighting/?id=191701)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 191701...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=191701" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191701</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191701...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=127990](https://nuforc.org/sighting/?id=127990)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 127990June 24, 2016...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=127990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=127990</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 127990June 24, 2016...</p></details>
    Published: June 24, 2016  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=168782](https://nuforc.org/sighting/?id=168782)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 168782June 22, 2022...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=168782" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168782</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 168782June 22, 2022...</p></details>
    Published: June 22, 2022  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=41473](https://nuforc.org/sighting/?id=41473)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 41473January 19, 2005...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=41473" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=41473</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 41473January 19, 2005...</p></details>
    Published: January 19, 2005  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=138234](https://nuforc.org/sighting/?id=138234)  
+   Link: <a href="https://nuforc.org/sighting/?id=138234" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=138234</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 138234January 12, 2018 — NUFORC UFO SIGHTING 138234 Occurred: 1987-07-10 20:00 Local - Approximate Reported: 2018-01...</p></details>
    Published: January 12, 2018  
 
 7. <a id="endnote-7"></a>
    Source: uap.gg  
    Title: Gribble. Its primary mission is  
-   Link: [https://uap.gg/sources/organizations/cvPaFV4zWm/the-national-ufo-reporting-center](https://uap.gg/sources/organizations/cvPaFV4zWm/the-national-ufo-reporting-center)  
+   Link: <a href="https://uap.gg/sources/organizations/cvPaFV4zWm/the-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://uap.gg/sources/organizations/cvPaFV4zWm/the-national-ufo-reporting-center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National UFO Reporting Center — UAP.GGImage: Source image THE NATIONAL UFO REPORTING CENTER About The National UFO Reporting Center (...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theufodatabase.com  
    Title: The UFO Database National UFO Reporting Center | The UFO Database  
-   Link: [https://theufodatabase.com/organizations/national-ufo-reporting-center](https://theufodatabase.com/organizations/national-ufo-reporting-center)  
+   Link: <a href="https://theufodatabase.com/organizations/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/national-ufo-reporting-center</a>  
 
 9. <a id="endnote-9"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
 
 10. <a id="endnote-10"></a>
    Source: venasnews.co.ke  
-   Link: [https://venasnews.co.ke/2016/06/23/world-coming-end-see-strange-thing-called-ufo-spotted-muranga-nairobi-photos/](https://venasnews.co.ke/2016/06/23/world-coming-end-see-strange-thing-called-ufo-spotted-muranga-nairobi-photos/)  
+   Link: <a href="https://venasnews.co.ke/2016/06/23/world-coming-end-see-strange-thing-called-ufo-spotted-muranga-nairobi-photos/" target="_blank" rel="noopener noreferrer nofollow">https://venasnews.co.ke/2016/06/23/world-coming-end-see-strange-thing-called-ufo-spotted-muranga-nairobi-photos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venas NewsThe World is Coming To an End! See this strange Thing Called UFO Spotted in Muranga and Nairobi (Photos) - Venas NewsJune 23, 2016...</p></details>
    Published: June 23, 2016  
 
 11. <a id="endnote-11"></a>
    Source: wikidisc.org  
    Title: National UFO Reporting Center (NUFORC) | Wiki Disc  
-   Link: [https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29](https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29)  
+   Link: <a href="https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/National_UFO_Reporting_Center_%28NUFORC%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center (NUFORC) | WikiDiscJanuary 10, 2026 — NATIONAL UFO REPORTING CENTER (NUFORC) [Input] [Input] [Input] Tools...</p></details>
    Published: January 10, 2026  
 
 12. <a id="endnote-12"></a>
    Source: hatch.kookscience.com  
    Title: National UFO Reporting Center (NUFORC)  
-   Link: [https://hatch.kookscience.com/wiki/National_UFO_Reporting_Center_%28NUFORC%29](https://hatch.kookscience.com/wiki/National_UFO_Reporting_Center_%28NUFORC%29)  
+   Link: <a href="https://hatch.kookscience.com/wiki/National_UFO_Reporting_Center_%28NUFORC%29" target="_blank" rel="noopener noreferrer nofollow">https://hatch.kookscience.com/wiki/National_UFO_Reporting_Center_%28NUFORC%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center (NUFORC) - Kook ScienceJuly 30, 2019 — NATIONAL UFO REPORTING CENTER (NUFORC) FROM KOOK SCIENCE National UFO Reporti...</p></details>
    Published: July 30, 2019  
 
 13. <a id="endnote-13"></a>
    Source: ehyeh.one  
-   Link: [https://ehyeh.one/nuforc/](https://ehyeh.one/nuforc/)  
+   Link: <a href="https://ehyeh.one/nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://ehyeh.one/nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gribble, the National UFO Reporting Center (NUFORC) has played a pivotal role as a dedicated institution for receiving, re...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/kenya-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/kenya-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/kenya-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/kenya-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Kenya UFO Sightings &amp; ReportsKENYA UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT KENYA UFO UAP USO SIGHTINGS &amp; CLOSE EN...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nationalpolice.go.ke  
-   Link: [https://www.nationalpolice.go.ke/index.php/reports-0](https://www.nationalpolice.go.ke/index.php/reports-0)  
+   Link: <a href="https://www.nationalpolice.go.ke/index.php/reports-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalpolice.go.ke/index.php/reports-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports | National Police ServiceREPORTS | TITLE | VIEW REPORT --- | --- | --- 1 | Annual Report - 2023 | Annual Report - 2023.pdf (15.69...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nuforc/ufo-sightings/data](https://www.kaggle.com/datasets/nuforc/ufo-sightings/data)  
+   Link: <a href="https://www.kaggle.com/datasets/nuforc/ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nuforc/ufo-sightings/data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsNational UFO Reporting Center (NUFORC) and 1 collaborator · Updated 6 years ago arrow_drop_up[Button: 693] code Code file_do...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/NUFORC/ufo-sightings](https://www.kaggle.com/datasets/NUFORC/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/NUFORC/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/NUFORC/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsUFO SIGHTINGS Reports of unidentified flying object reports in the last century Image UFO SIGHTINGS Data CardCode (206)Discu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/](https://mykss.com/en/)  
+   Link: <a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
 
 19. <a id="endnote-19"></a>
    Source: ufofinder.com  
    Title: Every report enriched with 50+ data points. Professional witnesses. Physic  
-   Link: [https://ufofinder.com/](https://ufofinder.com/)  
+   Link: <a href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finder — 147,890 UFO Reports147,890 documented reports•50+ data points each 0 documented UFO sightings The most complete UFO database...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: newspaceeconomy.ca  
    Title: National UFO Reporting Center (NUFORC): A Hub for UFO and UAP Sightings  
-   Link: [https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/](https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/)  
+   Link: <a href="https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 8, 2026 — New Space EconomyBusiness, Technology, and Trends Friday, May 8, 2026 Sign in / Join Extraterrestrial Life...</p></details>
    Published: May 8, 2026  
 
 21. <a id="endnote-21"></a>
    Source: capitalfm.co.ke  
    Title: KENYA RUTO MPS ACCUSE RIVALS OF PLOTTING MURANG’A CHAOS THAT LEFT  
-   Link: [https://www.capitalfm.co.ke/news/2020/10/ruto-mps-accuse-rivals-of-plotting-muranga-chaos-that-left-one-person-dead/](https://www.capitalfm.co.ke/news/2020/10/ruto-mps-accuse-rivals-of-plotting-muranga-chaos-that-left-one-person-dead/)  
+   Link: <a href="https://www.capitalfm.co.ke/news/2020/10/ruto-mps-accuse-rivals-of-plotting-muranga-chaos-that-left-one-person-dead/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalfm.co.ke/news/2020/10/ruto-mps-accuse-rivals-of-plotting-muranga-chaos-that-left-one-person-dead/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruto MPs accuse rivals of plotting Murang&#x27;a chaos that left one person dead » Capital NewsOctober 4, 2020 — Two people were killed and sc...</p></details>
    Published: October 4, 2020  
 
 22. <a id="endnote-22"></a>
    Source: nationalpolice.go.ke  
-   Link: [https://nationalpolice.go.ke/reports-0](https://nationalpolice.go.ke/reports-0)  
+   Link: <a href="https://nationalpolice.go.ke/reports-0" target="_blank" rel="noopener noreferrer nofollow">https://nationalpolice.go.ke/reports-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports | National Police ServiceREPORTS FacebookTwitterWhatsAppLinkedInTelegram Search [Input] | TITLE | VIEW REPORT --- | --- | --- 1 |...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Massive Mysterious Metal Ring Crashes Into Kenyan Village LIVE Updates | N18G  
-   Link: [https://www.youtube.com/watch?v=2iImHJTh0OM](https://www.youtube.com/watch?v=2iImHJTh0OM)  
+   Link: <a href="https://www.youtube.com/watch?v=2iImHJTh0OM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2iImHJTh0OM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This report from Global News, titled &quot;One in a million&quot; piece of space debris crashes on remote village in Kenya, features on-the-scene f...</p></details>

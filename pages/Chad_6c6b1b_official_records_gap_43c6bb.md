@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-explanations/
   short_title: Sky Explanations
   heading_title: What Natural Events Get Mistaken for UFOs in Chad?
-date: '2026-06-09 01:24:00 '
+date: '2026-06-10 01:48:31 '
 header:
   og_image: /assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-1-social.jpg
   preview_image: /assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-1.webp
@@ -262,12 +262,12 @@ In contrast to some countries that maintain and publish official records of unid
 
 Despite the global interest in UAP phenomena, **no known official government or defence archives from Chad list systematic reports or analyses** of sightings comparable to the Ministry of Defence files in the United Kingdom or the Project Blue Book records in the United States. Governments such as the UK have explicitly collected and released UFO‑related correspondence, scrutiny of policy and public enquiries in national archives; those records form a clear, documented historical footprint of sightings and official responses over decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
 
-By contrast, a search for Chad government documents — for example through archived government sites like the official *Présidence de la République du Tchad* portal — yields no publicly indexed sections on aerospace phenomena or civilian report registries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/lcwaN0028532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Site Officiel de la Présidence de la République du Tchad</span><span class="citation-popover-snippet">The Library of CongressSite Officiel de la Présidence de la République du Tchad - Chad | Library of Congress...</span></span></span> The country’s national archives system, *Le Dépôt national d’archives du Tchad*, was established in the 1960s but early assessments noted that records transfers were often irregular or unsystematic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/outre_0300-9513_1970_num_57_208_1514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">Persée Le Dépôt national d&#x27;archives du Tchad</span><span class="citation-popover-snippet">PerséeLe Dépôt national d&#x27;archives du Tchad - Persée...</span></span></span> This suggests two layers of absence: **no documented formal reporting of UAP events and a general archival fragility that could limit the preservation of any such material if it ever existed**.
+By contrast, a search for Chad government documents — for example through archived government sites like the official *Présidence de la République du Tchad* portal — yields no publicly indexed sections on aerospace phenomena or civilian report registries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/lcwaN0028532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Site Officiel de la Présidence de la République du Tchad</span><span class="citation-popover-snippet">The Library of CongressSite Officiel de la Présidence de la République du Tchad - Chad &#124; Library of Congress...</span></span></span> The country’s national archives system, *Le Dépôt national d’archives du Tchad*, was established in the 1960s but early assessments noted that records transfers were often irregular or unsystematic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/outre_0300-9513_1970_num_57_208_1514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">Persée Le Dépôt national d&#x27;archives du Tchad</span><span class="citation-popover-snippet">PerséeLe Dépôt national d&#x27;archives du Tchad - Persée...</span></span></span> This suggests two layers of absence: **no documented formal reporting of UAP events and a general archival fragility that could limit the preservation of any such material if it ever existed**.
 
 The **lack of official investigation units, specialised civil aviation or defence branches addressing UAPs**, or public datasets — akin to what some other nations maintain — further illustrates that Chad does not have a known institutional framework for capturing or evaluating anomalous aerial reports. Researchers interested in state records usually begin with government archives or freedom‑of‑information releases; for Chad such avenues currently yield nothing that can be cited as a structured record of UFO investigations.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5TuYC-xN3kk" title="Airborne 01.08.16: Clinton UFO Investigation, Concorde Test Pilot Turcat, Another UAV Suit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5TuYC-xN3kk" target="_blank" rel="noopener noreferrer">Airborne 01.08.16: Clinton UFO Investigation, Concorde Test Pilot Turcat, Another UAV Suit</a></p><p class="youtube-embed-meta">Channel: Aero-News Network &middot; Views: 4.9K &middot; Uploaded: January 2016 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5TuYC-xN3kk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5TuYC-xN3kk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rj9v1jyODpc" title="Concord UFO buzzes BBC reporter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rj9v1jyODpc" target="_blank" rel="noopener noreferrer">Concord UFO buzzes BBC reporter</a></p><p class="youtube-embed-meta">Channel: DAVID ZUKES &middot; Views: 15.8K &middot; Uploaded: August 2018 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rj9v1jyODpc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rj9v1jyODpc">Open on YouTube</a></p></div></div></div>
 
 ## How Local Media and Enthusiast Sources Differ in Reliability
 
@@ -275,7 +275,7 @@ In the absence of official records, narratives about unexplained aerial phenomen
 
 For example, in other countries with formal archives, documents include sighting details, responses to public enquiries, and rational explanations where available. The UK’s National Archives holds Ministry of Defence correspondence and public sighting reports which researchers can examine for context, response, and government stance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span> That level of documented context and analytical commentary simply does not exist in Chad’s public record.
 
-Local or hobbyist accounts often circulate without clear sourcing, corroborative data, or expert scrutiny. In academic and archival practice, such limitations are vital: **reports without systematic documentation, timestamps, independent verification, or archival persistence cannot be reliably distinguished from folklore, misidentification, or media storytelling**. This kind of evidence gap is textbook reliability risk in the study of UAP phenomena internationally, as highlighted by institutions that preserve and critique UFO records, noting how ambiguous testimony must be weighed against observational and archival standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports | BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Local or hobbyist accounts often circulate without clear sourcing, corroborative data, or expert scrutiny. In academic and archival practice, such limitations are vital: **reports without systematic documentation, timestamps, independent verification, or archival persistence cannot be reliably distinguished from folklore, misidentification, or media storytelling**. This kind of evidence gap is textbook reliability risk in the study of UAP phenomena internationally, as highlighted by institutions that preserve and critique UFO records, noting how ambiguous testimony must be weighed against observational and archival standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-2-dark.svg" | relative_url }}" alt="Record Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -294,10 +294,10 @@ For the topic of unidentified aerial phenomena in Chad to move beyond anecdote, 
 Without those elements, **the “official record” remains a pattern of silence**, and the reliability problem persists: evidence gaps cannot be conclusively attributed to absence of phenomena or to poor documentation practice. They remain a fundamental uncertainty in understanding what, if anything systematic, is occurring in Chad’s skies.
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2DCgVIARutY" title="Analysis of Concorde UFO footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2DCgVIARutY" target="_blank" rel="noopener noreferrer">Analysis of Concorde UFO footage</a></p><p class="youtube-embed-meta">Channel: Paranormal Uncut &middot; Views: 234 &middot; Uploaded: August 2021 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2DCgVIARutY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2DCgVIARutY">Open on YouTube</a></p></div></div></div>
+
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b1aBidqX_gI" title="Scientist aboard Concord Jet Photograph UFO over Chad, Africa 1973" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b1aBidqX_gI" target="_blank" rel="noopener noreferrer">Scientist aboard Concord Jet Photograph UFO over Chad, Africa 1973</a></p><p class="youtube-embed-meta">Channel: SpaceTimeForum &middot; Views: 1.1K &middot; Uploaded: January 2012 &middot; Length: 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b1aBidqX_gI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b1aBidqX_gI">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rj9v1jyODpc" title="Concord UFO buzzes BBC reporter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rj9v1jyODpc" target="_blank" rel="noopener noreferrer">Concord UFO buzzes BBC reporter</a></p><p class="youtube-embed-meta">Channel: DAVID ZUKES &middot; Views: 15.8K &middot; Uploaded: August 2018 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rj9v1jyODpc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rj9v1jyODpc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Record Gap Matters
 
@@ -309,86 +309,44 @@ In summary, the record gap in Chad is itself a defining aspect of the topic: it 
 <img src="{{ "/assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-3-dark.svg" | relative_url }}" alt="Record Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Are Official Chad UFO Records So Sparse?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Are Official Chad UFO Records So Sparse?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Illustrates how official records are created and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Directly addresses government archives, investigations, and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines transparency, secrecy, and records access issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Emphasizes documented cases and official reporting structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -422,75 +380,71 @@ In summary, the record gap in Chad is itself a defining aspect of the topic: it 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-are-official-chad-ufo-records-so-sparse-chad-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -705,151 +659,151 @@ In summary, the record gap in Chad is itself a defining aspect of the topic: it 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Unidentified flying object  
-   Link: [https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs](https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs)  
+   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports | BritannicaMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/ufos](https://www.archives.gov/news/topics/ufos)  
+   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
    Title: Full text of "Guide to Mysterious and Legendary Creatures"  
-   Link: [https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt](https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO) aliens, but reports died out after a few more weeks. In March 1991, another rash of pig, goose, and chicken killings erupted in Lar...</p></details>
    Published: March 1991  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/AmigaComputing056Jan93/AmigaComputing/AmigaComputing065-Oct93_djvu.txt](https://archive.org/stream/AmigaComputing056Jan93/AmigaComputing/AmigaComputing065-Oct93_djvu.txt)  
+   Link: <a href="https://archive.org/stream/AmigaComputing056Jan93/AmigaComputing/AmigaComputing065-Oct93_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AmigaComputing056Jan93/AmigaComputing/AmigaComputing065-Oct93_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. PRESS | issue 65 @ October 1993 @ £3.99 overseas price £4.25 @ Hfl 1895 Complete...Read more...</p></details>
    Published: October 1993  
 
 8. <a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFOs  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOs - The National Archives...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: loc.gov  
    Title: The Library of Congress Site Officiel de la Présidence de la République du Tchad  
-   Link: [https://www.loc.gov/item/lcwaN0028532/](https://www.loc.gov/item/lcwaN0028532/)  
+   Link: <a href="https://www.loc.gov/item/lcwaN0028532/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/lcwaN0028532/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSite Officiel de la Présidence de la République du Tchad - Chad | Library of Congress...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: persee.fr  
    Title: Persée Le Dépôt national d'archives du Tchad  
-   Link: [https://www.persee.fr/doc/outre_0300-9513_1970_num_57_208_1514](https://www.persee.fr/doc/outre_0300-9513_1970_num_57_208_1514)  
+   Link: <a href="https://www.persee.fr/doc/outre_0300-9513_1970_num_57_208_1514" target="_blank" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/outre_0300-9513_1970_num_57_208_1514</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PerséeLe Dépôt national d&#x27;archives du Tchad - Persée...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: digitallibrary.un.org  
-   Link: [https://digitallibrary.un.org/record/77559](https://digitallibrary.un.org/record/77559)  
+   Link: <a href="https://digitallibrary.un.org/record/77559" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/77559</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>verbale dated 4 February 1985 from the Permanent Mission of Chad to the United Nations addressed to the Secretary-General.February 4, 198...</p></details>
    Published: February 1985  
 
 13. <a id="endnote-13"></a>
    Source: digitallibrary.un.org  
-   Link: [https://digitallibrary.un.org/record/84986](https://digitallibrary.un.org/record/84986)  
+   Link: <a href="https://digitallibrary.un.org/record/84986" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/84986</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TCHAD: MISE EN PLACE D&#x27;UN SYSTÈME D&#x27;ALERTE RAPIDE: CONCLUSIONS ET RECOMMANDATIONS DU PROJET. UNDP; FAO; Chad 1989 DETAILS Symbol *** Ti...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: digitallibrary.un.org  
-   Link: [https://digitallibrary.un.org/record/84986?ln=en](https://digitallibrary.un.org/record/84986?ln=en)  
+   Link: <a href="https://digitallibrary.un.org/record/84986?ln=en" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/84986?ln=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TCHAD: MISE EN PLACE D&#x27;UN SYSTÈME D&#x27;ALERTE RAPIDE: CONCLUSIONS ET RECOMMANDATIONS DU PROJET. UNDP; FAO; Chad 1989 Formats Format |...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: calameo.com  
-   Link: [https://www.calameo.com/books/005862387d9d177a6c130](https://www.calameo.com/books/005862387d9d177a6c130)  
+   Link: <a href="https://www.calameo.com/books/005862387d9d177a6c130" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/005862387d9d177a6c130</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cinéma du Réel 2019Publishing platform for digital magazines, interactive publications and online catalogs. Convert documents to beautifu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: everything.explained.today  
    Title: unidentified aerial phenomena  
-   Link: [https://everything.explained.today/unidentified_aerial_phenomena/](https://everything.explained.today/unidentified_aerial_phenomena/)  
+   Link: <a href="https://everything.explained.today/unidentified_aerial_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/unidentified_aerial_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The total number of sightings since 1947 are 18,500, of which 90% are identifiable.^{[131]} UNITE...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a](https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a)  
+   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary, Chapters 1–5, Annexes A–F), UK Ministry of Defence / Defence Intelligence Staff (DI55) · 2006 · UFO TransparencyMay 15, 2006 — A...</p></details>
    Published: May 15, 2006  
 
 18. <a id="endnote-18"></a>
    Source: seriebox.com  
-   Link: [https://www.seriebox.com/serie/calendrier.php?annee=2021&c=global&ep_status=all%2F1000&mois=11&pays=us&type=all](https://www.seriebox.com/serie/calendrier.php?annee=2021&c=global&ep_status=all%2F1000&mois=11&pays=us&type=all)  
+   Link: <a href="https://www.seriebox.com/serie/calendrier.php?annee=2021&amp;c=global&amp;ep_status=all%2F1000&amp;mois=11&amp;pays=us&amp;type=all" target="_blank" rel="noopener noreferrer nofollow">https://www.seriebox.com/serie/calendrier.php?annee=2021&amp;c=global&amp;ep_status=all%2F1000&amp;mois=11&amp;pays=us&amp;type=all</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Séries Télés » CalendrierUFOS SPOTTED IN FRANCE? (RÉMI GAILLARD) YouTube; 0/2 People&#x27;s Property (Ren... UFO / OVNI (REMI GAILLARD) YouT...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: archives.cinemadureel.org  
-   Link: [https://archives.cinemadureel.org/wp-content/uploads/2023/01/Catalogue-2019.pdf](https://archives.cinemadureel.org/wp-content/uploads/2023/01/Catalogue-2019.pdf)  
+   Link: <a href="https://archives.cinemadureel.org/wp-content/uploads/2023/01/Catalogue-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.cinemadureel.org/wp-content/uploads/2023/01/Catalogue-2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cinemadureel.org41E CINÉMA DU RÉELles gestes, des apparitions d&#x27;ovnis dans le ciel de Mansfield. Historic UFO sightings over Mansfield ar...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades](https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades)  
+   Link: <a href="https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 2011. Photo by Staff/AFP via Getty Images PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES By —...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hansard.parliament.uk  
-   Link: [https://hansard.parliament.uk/Lords/1994-12-07/debates/d5bce38d-2044-4010-a1a4-6429db76afbf/UnidentifiedFlyingObjectsSightingsRecords](https://hansard.parliament.uk/Lords/1994-12-07/debates/d5bce38d-2044-4010-a1a4-6429db76afbf/UnidentifiedFlyingObjectsSightingsRecords)  
+   Link: <a href="https://hansard.parliament.uk/Lords/1994-12-07/debates/d5bce38d-2044-4010-a1a4-6429db76afbf/UnidentifiedFlyingObjectsSightingsRecords" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1994-12-07/debates/d5bce38d-2044-4010-a1a4-6429db76afbf/UnidentifiedFlyingObjectsSightingsRecords</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects: Sightings Records - Hansard - UK ParliamentDecember 7, 1994 — HANSARD The text on this page has been created from Hansard...</p></details>
    Published: December 7, 1994  
 
 23. <a id="endnote-23"></a>
    Source: ndl.ethernet.edu.et  
    Title: ethernet.edu.et Mysterious Creatures: A Guide to Cryptozoology VOLUME I: A–M  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A. Abnauayu 3. Abominable Snowman 4. Abonesi 4. ABSM 4. Abyssal Rainbow Gar 4. Acorn Worm (Giant) 4. Adam-Ayu 4. Adam-Dzhapais 5. Adjulé...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2DCgVIARutY](https://www.youtube.com/watch?v=2DCgVIARutY)  
+   Link: <a href="https://www.youtube.com/watch?v=2DCgVIARutY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2DCgVIARutY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Concorde UFO footageFamous well known footage of the Concorde UFO analysed. Want a platform for others to see your video? sen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Rj9v1jyODpc](https://www.youtube.com/watch?v=Rj9v1jyODpc)  
+   Link: <a href="https://www.youtube.com/watch?v=Rj9v1jyODpc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rj9v1jyODpc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concord UFO buzzes BBC reporterConcord UFO buzzes BBC reporter. 15K views · 7 years ago...more. DAVID ZUKES. 3.63K. Subscribe. 92. Share...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: yumpu.com  
    Title: mysterious creatures a guide to cryptozoology  
-   Link: [https://www.yumpu.com/en/document/view/15743572/mysterious-creatures-a-guide-to-cryptozoology](https://www.yumpu.com/en/document/view/15743572/mysterious-creatures-a-guide-to-cryptozoology)  
+   Link: <a href="https://www.yumpu.com/en/document/view/15743572/mysterious-creatures-a-guide-to-cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/15743572/mysterious-creatures-a-guide-to-cryptozoology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Creatures: A Guide to Cryptozoology5 Jun 2013 — Speke in the Ruwenzori Range, Uganda. Significant sighting: Only one observat...</p></details>

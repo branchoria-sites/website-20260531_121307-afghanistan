@@ -239,7 +239,7 @@ next_link:
   permalink: /eastern-skies/
   short_title: Eastern Skies
   heading_title: Are Eastern Slovakia's UFOs Dark Sky Mysteries?
-date: '2026-06-09 01:40:08 '
+date: '2026-06-10 02:07:13 '
 header:
   og_image: /assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1.webp
@@ -248,25 +248,25 @@ image: /assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1
 
 ## Introduction
 
-The Trnava–Jaslovské Bohunice corridor occupies a special place in Slovak UFO culture. Supporters of the “hotspot” idea argue that an unusual number of reports cluster around the Bohunice nuclear power complex and the wider western Slovak lowlands. Skeptics counter that the area combines exactly the conditions that generate persistent UFO stories: a major strategic installation, bright industrial lighting, frequent atmospheric effects, aviation traffic, media attention and an active local UFO organisation that has collected reports for decades. The result is not a clear record of extraordinary events, but a concentrated debate over how unusual the reports really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+The Trnava–Jaslovské Bohunice corridor occupies a special place in Slovak UFO culture. Supporters of the “hotspot” idea argue that an unusual number of reports cluster around the Bohunice nuclear power complex and the wider western Slovak lowlands. Skeptics counter that the area combines exactly the conditions that generate persistent UFO stories: a major strategic installation, bright industrial lighting, frequent atmospheric effects, aviation traffic, media attention and an active local UFO organisation that has collected reports for decades. The result is not a clear record of extraordinary events, but a concentrated debate over how unusual the reports really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 
 <img src="{{ "/assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1-dark.svg" | relative_url }}" alt="Bohunice Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike some famous international UFO locations, Bohunice is not associated with a large public archive of military documents or independently verified sensor evidence. Most claims circulate through witness testimony, local media accounts and the records maintained by UFO Klub Trnava. That makes the area important for understanding Slovak UFO folklore, while also making it difficult to separate genuinely unexplained observations from stories that grew through repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+Unlike some famous international UFO locations, Bohunice is not associated with a large public archive of military documents or independently verified sensor evidence. Most claims circulate through witness testimony, local media accounts and the records maintained by UFO Klub Trnava. That makes the area important for understanding Slovak UFO folklore, while also making it difficult to separate genuinely unexplained observations from stories that grew through repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 ## Why Bohunice Became Slovakia’s Main UFO Hotspot
 
-Jaslovské Bohunice is best known as the site of [Slovakia]({{ 'what-is-really-behind-slovakias-ufo/' | relative_url }})’s largest nuclear power complex, located in the Trnava District of western Slovakia. The reactors and associated infrastructure dominate the landscape and have long been regarded as strategically important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bohunice_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bohunice Nuclear Power Plant</span><span class="citation-popover-snippet">Bohunice Nuclear Power Plant</span></span></span>
+Jaslovské Bohunice is best known as the site of Slovakia’s largest nuclear power complex, located in the Trnava District of western Slovakia. The reactors and associated infrastructure dominate the landscape and have long been regarded as strategically important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bohunice_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bohunice Nuclear Power Plant</span><span class="citation-popover-snippet">Bohunice Nuclear Power Plant</span></span></span>
 
 That matters because nuclear facilities occupy a unique place in global UFO narratives. Researchers and enthusiasts have repeatedly pointed to perceived concentrations of sightings around atomic installations, while critics note that highly visible, heavily monitored facilities naturally attract attention and generate rumours. Even broad international discussions of UFO reporting acknowledge that atomic and military sites receive disproportionate numbers of reports, though that does not itself prove anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jaslovsk%C3%A9_Bohunice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaslovské Bohunice</span><span class="citation-popover-snippet">Jaslovské BohuniceJaslovské Bohunice is a small village in Slovakia in the Trnava District. [4] It is best known for the nearby Bohuni...</span></span></span>
 
-In Slovakia, the hotspot reputation was strengthened by the presence of UFO Klub Trnava, the country's most visible civilian UFO organisation. Because the club is located in the same region, reports from western Slovakia have often been documented, discussed and preserved more thoroughly than sightings from many other areas. A concentration of records can therefore reflect reporting patterns as much as any unusual activity in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+In Slovakia, the hotspot reputation was strengthened by the presence of UFO Klub Trnava, the country's most visible civilian UFO organisation. Because the club is located in the same region, reports from western Slovakia have often been documented, discussed and preserved more thoroughly than sightings from many other areas. A concentration of records can therefore reflect reporting patterns as much as any unusual activity in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 ## The Nuclear-Plant Hotspot Claim
 
 The strongest argument advanced by hotspot supporters is not a single dramatic case but a recurring pattern of reports around Bohunice across multiple years.
 
-UFO Klub Trnava's catalogue includes several entries associated with Jaslovské Bohunice, including reports from 1991, 1992 and 1993 describing cigar-shaped or triangular objects. The archive presents these as investigated observations, but the publicly accessible summaries are brief and generally lack the kind of supporting material—radar data, authenticated imagery, flight records or independent technical analysis—that would allow outside verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+UFO Klub Trnava's catalogue includes several entries associated with Jaslovské Bohunice, including reports from 1991, 1992 and 1993 describing cigar-shaped or triangular objects. The archive presents these as investigated observations, but the publicly accessible summaries are brief and generally lack the kind of supporting material—radar data, authenticated imagery, flight records or independent technical analysis—that would allow outside verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 A frequently repeated story concerns August 1992, when security personnel allegedly observed an unusual object near the power station. Later retellings describe a large cigar-shaped craft and multiple witnesses. However, the versions available today rely largely on secondary UFO publications and retrospective accounts rather than publicly released official documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufos-over-atomic-plants-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">UF Os over atomic plants</span><span class="citation-popover-snippet">UFOs over atomic plants - Part 3August 23, 2012 — 23 Aug 2012 — Another UFO flap over an atomic power plant occurred in Slovakia in 1992...</span><span class="citation-popover-meta">Published: August 23, 2012</span></span></span>
 
@@ -328,7 +328,7 @@ Strategic infrastructure naturally attracts aircraft traffic, monitoring operati
 <img src="{{ "/assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-3-dark.svg" | relative_url }}" alt="Bohunice Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Selective reporting
 
-The Trnava region possesses something many other Slovak regions lack: a long-running organisation dedicated to collecting UFO reports. Reports therefore have a greater chance of being recorded and remembered. A hotspot in the archive does not automatically mean a hotspot in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+The Trnava region possesses something many other Slovak regions lack: a long-running organisation dedicated to collecting UFO reports. Reports therefore have a greater chance of being recorded and remembered. A hotspot in the archive does not automatically mean a hotspot in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 ### The nuclear association effect
 
@@ -338,97 +338,55 @@ International UFO culture has long linked unidentified objects with atomic facil
 
 The most defensible conclusion is neither outright dismissal nor acceptance.
 
-Several Bohunice-area reports remain unidentified in the narrow sense that no definitive public explanation has been established. Witnesses described unusual lights and objects, and some reports were preserved by investigators who considered them noteworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+Several Bohunice-area reports remain unidentified in the narrow sense that no definitive public explanation has been established. Witnesses described unusual lights and objects, and some reports were preserved by investigators who considered them noteworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 However, the evidence available to the public remains limited. The hotspot claim rests primarily on accumulated testimony rather than on independently verifiable technical data. The alleged fighter-intercept stories are especially difficult to assess because supporting military documentation is not publicly available. Aktuálně.cz - Víte, co se právě děje <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazin.aktualne.cz/mig-29-vs-ufo-utajeny-incident-nad-slovenskem-v-jaslovskych/r~87d5fab27dad11f09af20cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazin.aktualne.cz">[magazin.aktualne.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazin.aktualne.cz</span><span class="citation-popover-snippet">Aktuálně.cz - Víte, co se právě dějeUtajený incident nad Slovenskem v Jaslovských BohunicíchAugust 22, 2025 — 22 Aug 2025 — Nad slovensko...</span><span class="citation-popover-meta">Published: August 22, 2025</span></span></span>
 
-For that reason, Bohunice occupies an unusual position in Slovak UFO history. It is arguably the country's most famous UFO location, yet its reputation depends less on a single well-documented incident than on decades of repeated reports, local investigation and the enduring appeal of the idea that mysterious objects are drawn to strategic nuclear sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trnavske.radio/2022/07/02/ufo-navstevuje-najviac-elektrarne-v-bohuniciach-pripady-riesi-trnavsky-ufo-klub/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trnavske.radio">[trnavske.radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trnavske.radio</span><span class="citation-popover-title">UF O navštevuje najviac elektrárne v Bohuniciach</span><span class="citation-popover-snippet">Prípady...2 Jul 2022 — Údajne našli trosky vesmírnej lode a mŕtve telíčka mimozemšťanov. Ufá však podľa vedúceho UFO klubu Trnava Mirosl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</span></span></span>
+For that reason, Bohunice occupies an unusual position in Slovak UFO history. It is arguably the country's most famous UFO location, yet its reputation depends less on a single well-documented incident than on decades of repeated reports, local investigation and the enduring appeal of the idea that mysterious objects are drawn to strategic nuclear sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trnavske.radio/2022/07/02/ufo-navstevuje-najviac-elektrarne-v-bohuniciach-pripady-riesi-trnavsky-ufo-klub/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trnavske.radio">[trnavske.radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trnavske.radio</span><span class="citation-popover-title">UF O navštevuje najviac elektrárne v Bohuniciach</span><span class="citation-popover-snippet">Prípady...2 Jul 2022 — Údajne našli trosky vesmírnej lode a mŕtve telíčka mimozemšťanov. Ufá však podľa vedúceho UFO klubu Trnava Mirosl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá &#124; UFO, mimozemšťania, paranormálne...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bUzmMEJ76zE" title="UFO klub Trnava. Kruhy v obilí a neznáme objekty. 1992 - 2008." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bUzmMEJ76zE" target="_blank" rel="noopener noreferrer">UFO klub Trnava. Kruhy v obilí a neznáme objekty. 1992 - 2008.</a></p><p class="youtube-embed-meta">Channel: Kybernaut &middot; Views: 10.8K &middot; Uploaded: December 2017 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bUzmMEJ76zE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bUzmMEJ76zE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Bohunice UFO Stories Persist?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Bohunice UFO Stories Persist?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on classification, witness reports and evaluating recurring sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Explores recurring UFO reports near strategic and military-sensitive locations, matching hotspot debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Discusses patterns, unexplained cases and competing interpretations of UFO concentrations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hynek UFO Report">Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Focuses on classification, witness reports and evaluating recurring sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -462,75 +420,71 @@ For that reason, Bohunice occupies an unusual position in Slovak UFO history. It
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bohunice-claims-why-do-bohunice-ufo-stories-persist-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -745,127 +699,127 @@ For that reason, Bohunice occupies an unusual position in Slovak UFO history. It
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bohunice Nuclear Power Plant  
-   Link: [https://en.wikipedia.org/wiki/Bohunice_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Bohunice_Nuclear_Power_Plant)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bohunice_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bohunice_Nuclear_Power_Plant</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Jaslovské Bohunice  
-   Link: [https://en.wikipedia.org/wiki/Jaslovsk%C3%A9_Bohunice](https://en.wikipedia.org/wiki/Jaslovsk%C3%A9_Bohunice)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jaslovsk%C3%A9_Bohunice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jaslovsk%C3%A9_Bohunice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaslovské BohuniceJaslovské Bohunice is a small village in Slovakia in the Trnava District. [4] It is best known for the nearby Bohuni...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites](https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2025 — Both anecdotal observations and statistical studies suggest that UFO reports are more common near military or atomic sit...</p></details>
    Published: March 30, 2025  
 
 4. <a id="endnote-4"></a>
    Source: openminds.tv  
    Title: UF Os over atomic plants  
-   Link: [https://openminds.tv/ufos-over-atomic-plants-part-3/](https://openminds.tv/ufos-over-atomic-plants-part-3/)  
+   Link: <a href="https://openminds.tv/ufos-over-atomic-plants-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/ufos-over-atomic-plants-part-3/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over atomic plants - Part 3August 23, 2012 — 23 Aug 2012 — Another UFO flap over an atomic power plant occurred in Slovakia in 1992...</p></details>
    Published: August 23, 2012  
 
 5. <a id="endnote-5"></a>
    Source: magazin.aktualne.cz  
-   Link: [https://magazin.aktualne.cz/mig-29-vs-ufo-utajeny-incident-nad-slovenskem-v-jaslovskych/r~87d5fab27dad11f09af20cc47ab5f122/](https://magazin.aktualne.cz/mig-29-vs-ufo-utajeny-incident-nad-slovenskem-v-jaslovskych/r~87d5fab27dad11f09af20cc47ab5f122/)  
+   Link: <a href="https://magazin.aktualne.cz/mig-29-vs-ufo-utajeny-incident-nad-slovenskem-v-jaslovskych/r~87d5fab27dad11f09af20cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/mig-29-vs-ufo-utajeny-incident-nad-slovenskem-v-jaslovskych/r~87d5fab27dad11f09af20cc47ab5f122/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aktuálně.cz - Víte, co se právě dějeUtajený incident nad Slovenskem v Jaslovských BohunicíchAugust 22, 2025 — 22 Aug 2025 — Nad slovensko...</p></details>
    Published: August 22, 2025  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of UFO sightings in the Czech Republic  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic](https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic</a>  
 
 7. <a id="endnote-7"></a>
    Source: trnavske.radio  
    Title: UF O navštevuje najviac elektrárne v Bohuniciach  
-   Link: [https://trnavske.radio/2022/07/02/ufo-navstevuje-najviac-elektrarne-v-bohuniciach-pripady-riesi-trnavsky-ufo-klub/](https://trnavske.radio/2022/07/02/ufo-navstevuje-najviac-elektrarne-v-bohuniciach-pripady-riesi-trnavsky-ufo-klub/)  
+   Link: <a href="https://trnavske.radio/2022/07/02/ufo-navstevuje-najviac-elektrarne-v-bohuniciach-pripady-riesi-trnavsky-ufo-klub/" target="_blank" rel="noopener noreferrer nofollow">https://trnavske.radio/2022/07/02/ufo-navstevuje-najviac-elektrarne-v-bohuniciach-pripady-riesi-trnavsky-ufo-klub/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prípady...2 Jul 2022 — Údajne našli trosky vesmírnej lode a mŕtve telíčka mimozemšťanov. Ufá však podľa vedúceho UFO klubu Trnava Mirosl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bUzmMEJ76zE](https://www.youtube.com/watch?v=bUzmMEJ76zE)  
+   Link: <a href="https://www.youtube.com/watch?v=bUzmMEJ76zE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUzmMEJ76zE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pod Kožu #21 – Miroslav Karlík (Ufológ)...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufoklub-trnava.sk  
-   Link: [https://www.ufoklub-trnava.sk/](https://www.ufoklub-trnava.sk/)  
+   Link: <a href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoklub-trnava.sk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub TrnavaUFO klub Trnava: Hlásenia, články, fotografie, videáHlásenia, články, fotografie, videá | UFO, mimozemšťania, paranormálne...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufoklub-trnava.sk  
-   Link: [https://www.ufoklub-trnava.sk/?lokalita=57&strana=pozorovania](https://www.ufoklub-trnava.sk/?lokalita=57&strana=pozorovania)  
+   Link: <a href="https://www.ufoklub-trnava.sk/?lokalita=57&amp;strana=pozorovania" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoklub-trnava.sk/?lokalita=57&amp;strana=pozorovania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub TrnavaPreverené pozorovania UFO klubu TrnavaPreverené pozorovania UFO klubu Trnava · 21.08.1991 - cigárovitý objekt · 21.08.1992...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ufo.klub.trnava/](https://www.facebook.com/ufo.klub.trnava/)  
+   Link: <a href="https://www.facebook.com/ufo.klub.trnava/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufo.klub.trnava/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub TrnavaPozorovali ste UFO, či iný nezvyčajný jav? V tom prípade môžete vyplniť nasledujúci formulár a my sa pokúsime vaše pozorov...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
    Title: DQv Ei6Cj5DK  
-   Link: [https://www.instagram.com/reel/DQvEi6Cj5DK/](https://www.instagram.com/reel/DQvEi6Cj5DK/)  
+   Link: <a href="https://www.instagram.com/reel/DQvEi6Cj5DK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQvEi6Cj5DK/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub Trnava je organizácia, ktorá sa zaoberá...Klub bol založený v roku 1990 a odvtedy usporadúva pravidelné stretnutia, prednášky a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: besoccer.com  
-   Link: [https://www.besoccer.com/team/jaslovske-bohunice](https://www.besoccer.com/team/jaslovske-bohunice)  
+   Link: <a href="https://www.besoccer.com/team/jaslovske-bohunice" target="_blank" rel="noopener noreferrer nofollow">https://www.besoccer.com/team/jaslovske-bohunice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaslovské Bohunice | All the info, news and scoresAccess all the information, results and many more stats regarding Jaslovské Bohunice by...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/explore/locations/269846804/jaslovske-bohunice/](https://www.instagram.com/explore/locations/269846804/jaslovske-bohunice/)  
+   Link: <a href="https://www.instagram.com/explore/locations/269846804/jaslovske-bohunice/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/explore/locations/269846804/jaslovske-bohunice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaslovské Bohunice on Instagram • Photos and VideosJaslovské Bohunice · The simple beauty of the summer sunset in the field full of sunfl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jaslovske-bohunice.sk  
-   Link: [https://www.jaslovske-bohunice.sk/en/](https://www.jaslovske-bohunice.sk/en/)  
+   Link: <a href="https://www.jaslovske-bohunice.sk/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.jaslovske-bohunice.sk/en/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oficiálna stránka obce Jaslovské BohuniceAdress: Námestie sv. Michala 36/10A 919 30 Jaslovské Bohunice. E-mail: starosta@jaslovske-bohuni...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/Tourism-g8012975-Jaslovske_Bohunice_Trnava_Region-Vacations.html](https://www.tripadvisor.co.uk/Tourism-g8012975-Jaslovske_Bohunice_Trnava_Region-Vacations.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/Tourism-g8012975-Jaslovske_Bohunice_Trnava_Region-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g8012975-Jaslovske_Bohunice_Trnava_Region-Vacations.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: azet.sk  
-   Link: [https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/](https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/)  
+   Link: <a href="https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tajomné UFO nad nádržou Vranov: Ani po 38 rokoch...31 Jul 2025 — Tajomné UFO nad nádržou Vranov: Ani po 38 rokoch záhadu nevyriešili, sl...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tripadvisor.com  
    Title: Attractions g8012975 Activities Jaslovske Bohunice Trnava Region  
-   Link: [https://www.tripadvisor.com/Attractions-g8012975-Activities-Jaslovske_Bohunice_Trnava_Region.html](https://www.tripadvisor.com/Attractions-g8012975-Activities-Jaslovske_Bohunice_Trnava_Region.html)  
+   Link: <a href="https://www.tripadvisor.com/Attractions-g8012975-Activities-Jaslovske_Bohunice_Trnava_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attractions-g8012975-Activities-Jaslovske_Bohunice_Trnava_Region.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BEST Things to Do in Jaslovske Bohunice (2026)Top Things to Do in Jaslovske Bohunice · 1. Kostol sv. Michala Archanjela · 2. Kostol s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: krajskelisty.cz  
    Title: Zvědavé UFO kroužilo nad Jaslovskými Bohunicemi  
-   Link: [https://www.krajskelisty.cz/stredocesky-kraj/35037-jak-zvedave-ufo-krouzilo-nad-jaslovskymi-bohunicemi-zahady-zivota.htm](https://www.krajskelisty.cz/stredocesky-kraj/35037-jak-zvedave-ufo-krouzilo-nad-jaslovskymi-bohunicemi-zahady-zivota.htm)  
+   Link: <a href="https://www.krajskelisty.cz/stredocesky-kraj/35037-jak-zvedave-ufo-krouzilo-nad-jaslovskymi-bohunicemi-zahady-zivota.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.krajskelisty.cz/stredocesky-kraj/35037-jak-zvedave-ufo-krouzilo-nad-jaslovskymi-bohunicemi-zahady-zivota.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2026 — Viděli na vlastní oči UFO? Pro možnost, že se nad slovenskou jadernou elektrárnou objevilo něco jiného než jen zmrzlé ledov...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1fal554/for_10_mins_only_national_tv_in_slovakia_showed/](https://www.reddit.com/r/UFOB/comments/1fal554/for_10_mins_only_national_tv_in_slovakia_showed/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1fal554/for_10_mins_only_national_tv_in_slovakia_showed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1fal554/for_10_mins_only_national_tv_in_slovakia_showed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vering near a Nuclear power plant in the Tatra mountains...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mapy.com  
-   Link: [https://mapy.com/en/?id=1015717500&source=osm](https://mapy.com/en/?id=1015717500&source=osm)  
+   Link: <a href="https://mapy.com/en/?id=1015717500&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=1015717500&amp;source=osm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mention of Bohunice appearing in 1113.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: commons.wikimedia.org  
    Title: List of reported UFO sightings  
-   Link: [https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings](https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings)  
+   Link: <a href="https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgUser:Yann/List of reported UFO sightingsThis is a partial list by date of sightings of alleged unidentified flying objects (...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: exutopia.com  
-   Link: [https://www.exutopia.com/chernobyl-ufos-falcon-lake/](https://www.exutopia.com/chernobyl-ufos-falcon-lake/)  
+   Link: <a href="https://www.exutopia.com/chernobyl-ufos-falcon-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.exutopia.com/chernobyl-ufos-falcon-lake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roadside Picnics: Chernobyl UFOs &amp; The Falcon Lake...24 Jan 2021 — In the wake of the 1986 disaster, the Chernobyl Nuclear Power Plant b...</p></details>

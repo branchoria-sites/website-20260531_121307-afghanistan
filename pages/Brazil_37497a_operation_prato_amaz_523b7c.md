@@ -245,7 +245,7 @@ next_link:
   permalink: /ufo-archives/
   short_title: UFO Archives
   heading_title: Exploring Brazil's Arquivo Nacional UFO Archives and Records
-date: '2026-06-09 01:21:28 '
+date: '2026-06-10 01:45:52 '
 header:
   og_image: /assets/images/Brazil_37497a_operation_prato_amaz_523b7c-Illustration-1-social.jpg
   preview_image: /assets/images/Brazil_37497a_operation_prato_amaz_523b7c-Illustration-1.webp
@@ -262,7 +262,7 @@ What separates Operation Prato from many other UFO cases is not simply the stran
 
 ## Why the Amazon Became the Centre of a Military Investigation
 
-The events that triggered Operation Prato unfolded in remote communities along the Pará coastline in northern [Brazil]({{ 'what-brazils-ufo-records-reveal-about/' | relative_url }}), especially around Colares, Vigia, and Santo António do Tauá. During mid-1977, residents increasingly reported nocturnal lights moving silently above rivers, beaches, forests, and fishing settlements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato - Wikipedia, la enciclopedia libreLa Operación prato fue una misión militar ejecutada por la Fuerza Aérea Brasileña (FA...</span></span></span>
+The events that triggered Operation Prato unfolded in remote communities along the Pará coastline in northern Brazil, especially around Colares, Vigia, and Santo António do Tauá. During mid-1977, residents increasingly reported nocturnal lights moving silently above rivers, beaches, forests, and fishing settlements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato - Wikipedia, la enciclopedia libreLa Operación prato fue una misión militar ejecutada por la Fuerza Aérea Brasileña (FA...</span></span></span>
 
 The Amazon delta environment mattered enormously. Many communities had limited electricity, sparse medical infrastructure, and little rapid communication with larger urban centres. Witnesses often observed the sky outdoors during fishing or travel by boat. Stories spread quickly through tightly connected villages, creating an atmosphere where fear and expectation amplified one another.
 
@@ -310,7 +310,7 @@ Military teams also tried to separate mundane explanations from unknown ones. Ce
 
 ### Captain Uyrangê Hollanda’s Role
 
-Captain Hollanda became the public face of Operation Prato decades later, especially after interviews in the 1990s discussing his experiences during the investigation. He described witnessing luminous craft and objects manoeuvring silently over the Amazon. According to later testimony, military observers allegedly photographed phenomena repeatedly during surveillance operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO sightings in BrazilThis was the first operation of the Brazilian Air Force conducted only to investigate UFO-related issues. This...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Most Witnessed UFO Incident in History | Operation Pratoand blood extraction while paralyzed in their beds. The Brazilian Air...</span></span></span>
+Captain Hollanda became the public face of Operation Prato decades later, especially after interviews in the 1990s discussing his experiences during the investigation. He described witnessing luminous craft and objects manoeuvring silently over the Amazon. According to later testimony, military observers allegedly photographed phenomena repeatedly during surveillance operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO sightings in BrazilThis was the first operation of the Brazilian Air Force conducted only to investigate UFO-related issues. This...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Most Witnessed UFO Incident in History &#124; Operation Pratoand blood extraction while paralyzed in their beds. The Brazilian Air...</span></span></span>
 
 Hollanda’s later statements became enormously influential in Brazilian ufology because he appeared more open than many military officers about the emotional impact of the operation. However, his recollections were given years after the events and mixed firsthand observation with interpretation, making them historically important but not automatically definitive evidence.
 
@@ -373,7 +373,7 @@ The surviving documentation includes:
 
 </div>
 
-Brazilian sources and later researchers frequently cite hundreds of photographs and many hours of film captured during the operation, although only a small portion has become publicly accessible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1f2wrry/operation_saucer_when_the_brazilian_government/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditOperation Saucer: When the Brazilian Government...August 28, 2024 — During Operation Saucer, the Brazilian Air Force team managed...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
+Brazilian sources and later researchers frequently cite hundreds of photographs and many hours of film captured during the operation, although only a small portion has become publicly accessible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1f2wrry/operation_saucer_when_the_brazilian_government/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Operation Saucer: When the Brazilian Government...August 28, 2024 — During Operation Saucer, the Brazilian Air Force team managed...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
 The incomplete nature of the archive has fuelled decades of speculation. Some UFO researchers argue additional materials remain classified or lost. Brazilian authorities have generally maintained that the principal files were released through the National Archives and later transparency initiatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO sightings in BrazilThis was the first operation of the Brazilian Air Force conducted only to investigate UFO-related issues. This...</span></span></span>
 
@@ -410,7 +410,7 @@ This ambiguity helped create two competing narratives.
 
 ### The Ufological Interpretation
 
-Within Brazilian ufology, Operation Prato became a landmark case suggesting: <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/gb/podcast/operation-prato-alien-vampires-of-the-amazon/id1631738803?i=1000697836036" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[podcasts.apple.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Prato | Alien Vampires of the Amazon5 Mar 2025 — The Brazilian Air Force responded with Operation Prato (Operation Saucer), documenting h...</span></span></span>
+Within Brazilian ufology, Operation Prato became a landmark case suggesting: <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/gb/podcast/operation-prato-alien-vampires-of-the-amazon/id1631738803?i=1000697836036" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[podcasts.apple.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Prato &#124; Alien Vampires of the Amazon5 Mar 2025 — The Brazilian Air Force responded with Operation Prato (Operation Saucer), documenting h...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -422,7 +422,7 @@ Within Brazilian ufology, Operation Prato became a landmark case suggesting: <sp
 
 </div>
 
-Captain Hollanda’s later interviews strengthened this interpretation considerably. Some researchers viewed his comments as insider confirmation that the military encountered phenomena beyond conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Most Witnessed UFO Incident in History | Operation Pratoand blood extraction while paralyzed in their beds. The Brazilian Air...</span></span></span>
+Captain Hollanda’s later interviews strengthened this interpretation considerably. Some researchers viewed his comments as insider confirmation that the military encountered phenomena beyond conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Most Witnessed UFO Incident in History &#124; Operation Pratoand blood extraction while paralyzed in their beds. The Brazilian Air...</span></span></span>
 
 ### The Sceptical Interpretation
 
@@ -460,7 +460,7 @@ The case also illustrates how state archives can simultaneously clarify and deep
 
 ### The Death of Captain Hollanda
 
-Operation Prato mythology intensified after Captain Hollanda died in 1997, officially ruled a suicide, only months after widely viewed interviews discussing the operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/15r46gz/operation_prato_19771978_investigation_in_brazil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Unclear if it was UFOs or</span><span class="citation-popover-snippet">RedditOperation Prato 1977-1978 investigation in Brazil, UFOs or...August 14, 2023 — SS: A Brazilian investigation into seemingly UFO si...</span><span class="citation-popover-meta">Published: August 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DyHWsqyPvoE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">t. Auto-dubbed. 1.9K views · 2 weeks ago. TIKTAL - CORTES...more...</span></span></span>
+Operation Prato mythology intensified after Captain Hollanda died in 1997, officially ruled a suicide, only months after widely viewed interviews discussing the operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/15r46gz/operation_prato_19771978_investigation_in_brazil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Unclear if it was UFOs or</span><span class="citation-popover-snippet">Operation Prato 1977-1978 investigation in Brazil, UFOs or...August 14, 2023 — SS: A Brazilian investigation into seemingly UFO si...</span><span class="citation-popover-meta">Published: August 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DyHWsqyPvoE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">t. Auto-dubbed. 1.9K views · 2 weeks ago. TIKTAL - CORTES...more...</span></span></span>
 
 For many UFO enthusiasts, the timing appeared suspicious and became woven into broader conspiracy narratives. No verified evidence has emerged linking his death to suppression efforts or classified knowledge, but the association remains deeply embedded in public memory surrounding the case.
 
@@ -498,86 +498,44 @@ For serious researchers, the most credible position is often a narrower one: Ope
 The operation therefore occupies an unusual middle ground in UFO history — neither fully debunked nor conclusively explained. That unresolved tension is precisely why the case continues to attract historians, sceptics, journalists, and UFO investigators nearly half a century after the lights over Colares first appeared.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Unveiling Operation Prato Brazil&#x27;s Amazon UFO Investigation. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Unveiling Operation Prato Brazil&#x27;s Amazon UFO Investigation, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides classification and investigation concepts applicable to witness-heavy cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Connects official witnesses and government handling of UAP reports to the Brazilian military context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
-        
-        <p class="fr-book-desc">Operation Prato is fundamentally about state investigation, field reports, photographs, and declassified material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for interpreting unusual humanoid, light, and community-fear reports without relying only on literalist readings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -611,75 +569,71 @@ The operation therefore occupies an unusual middle ground in UFO history — nei
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operation-prato-unveiling-operation-prato-brazil-s-amazon-ufo-investigation-brazil-ufo-poster-book-books-series-televisi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -894,212 +848,212 @@ The operation therefore occupies an unusual middle ground in UFO history — nei
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Operação Prato  
-   Link: [https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato](https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato)  
+   Link: <a href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2026 — Operation Saucer was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO...</p></details>
    Published: April 1, 2026  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Operação Prato  
-   Link: [https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato)  
+   Link: <a href="https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Operação Prato  
-   Link: [https://es.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato](https://es.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato)  
+   Link: <a href="https://es.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operação Prato - Wikipedia, la enciclopedia libreLa Operación prato fue una misión militar ejecutada por la Fuerza Aérea Brasileña (FA...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xluya-2ov40](https://www.youtube.com/watch?v=xluya-2ov40)  
+   Link: <a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xluya-2ov40</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed UFO Incident in History | Operation Pratoand blood extraction while paralyzed in their beds. The Brazilian Air...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1f2wrry/operation_saucer_when_the_brazilian_government/](https://www.reddit.com/r/HighStrangeness/comments/1f2wrry/operation_saucer_when_the_brazilian_government/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditOperation Saucer: When the Brazilian Government...August 28, 2024 — During Operation Saucer, the Brazilian Air Force team managed...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1f2wrry/operation_saucer_when_the_brazilian_government/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1f2wrry/operation_saucer_when_the_brazilian_government/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Saucer: When the Brazilian Government...August 28, 2024 — During Operation Saucer, the Brazilian Air Force team managed...</p></details>
    Published: August 28, 2024  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Unclear if it was UFOs or  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/15r46gz/operation_prato_19771978_investigation_in_brazil/](https://www.reddit.com/r/HighStrangeness/comments/15r46gz/operation_prato_19771978_investigation_in_brazil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditOperation Prato 1977-1978 investigation in Brazil, UFOs or...August 14, 2023 — SS: A Brazilian investigation into seemingly UFO si...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/15r46gz/operation_prato_19771978_investigation_in_brazil/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/15r46gz/operation_prato_19771978_investigation_in_brazil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Prato 1977-1978 investigation in Brazil, UFOs or...August 14, 2023 — SS: A Brazilian investigation into seemingly UFO si...</p></details>
    Published: August 14, 2023  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil](https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in BrazilThis was the first operation of the Brazilian Air Force conducted only to investigate UFO-related issues. This...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1f20ic8/this_is_an_official_report_from_operation_saucer/](https://www.reddit.com/r/UFOB/comments/1f20ic8/this_is_an_official_report_from_operation_saucer/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1f20ic8/this_is_an_official_report_from_operation_saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1f20ic8/this_is_an_official_report_from_operation_saucer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted a beam of light and bent it 90 degrees and chased a group of fishermen near...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ff71xv/theres_22hrs_of_film_shot_during_the_colares_ufo/](https://www.reddit.com/r/UFOs/comments/1ff71xv/theres_22hrs_of_film_shot_during_the_colares_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ff71xv/theres_22hrs_of_film_shot_during_the_colares_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ff71xv/theres_22hrs_of_film_shot_during_the_colares_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Saucer. It&#x27;s in portuguese but has subtitles. I speak...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: over 1000 people were attacked by ufos in colares  
-   Link: [https://www.reddit.com/r/aliens/comments/1ayb6ss/over_1000_people_were_attacked_by_ufos_in_colares/](https://www.reddit.com/r/aliens/comments/1ayb6ss/over_1000_people_were_attacked_by_ufos_in_colares/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1ayb6ss/over_1000_people_were_attacked_by_ufos_in_colares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ayb6ss/over_1000_people_were_attacked_by_ufos_in_colares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Over 1000 people were attacked&quot; by UFOs in Colares Brazil...The case is called: operation plate. It was investigated by the Brazilian a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/glkneo/i_translated_a_few_hundred_brazilian_air_force/](https://www.reddit.com/r/ufo/comments/glkneo/i_translated_a_few_hundred_brazilian_air_force/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/glkneo/i_translated_a_few_hundred_brazilian_air_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/glkneo/i_translated_a_few_hundred_brazilian_air_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of what might&#x27;ve happened in Magé, but there are forgotten...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/glktr2/hundreds_of_newlytranslated_brazilian_air_force/](https://www.reddit.com/r/aliens/comments/glktr2/hundreds_of_newlytranslated_brazilian_air_force/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/glktr2/hundreds_of_newlytranslated_brazilian_air_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/glktr2/hundreds_of_newlytranslated_brazilian_air_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ountry including some that corroborate sightings seen throughout the world...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1gnbjpd/has_anyone_ever_heard_of_the_colares_ufo_incident/](https://www.reddit.com/r/ufo/comments/1gnbjpd/has_anyone_ever_heard_of_the_colares_ufo_incident/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1gnbjpd/has_anyone_ever_heard_of_the_colares_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1gnbjpd/has_anyone_ever_heard_of_the_colares_ufo_incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with burns, puncture marks, and symptoms like nausea and weakness.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DyHWsqyPvoE](https://www.youtube.com/watch?v=DyHWsqyPvoE)  
+   Link: <a href="https://www.youtube.com/watch?v=DyHWsqyPvoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DyHWsqyPvoE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t. Auto-dubbed. 1.9K views · 2 weeks ago. TIKTAL - CORTES...more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LV1dfq64U6U](https://www.youtube.com/watch?v=LV1dfq64U6U)  
+   Link: <a href="https://www.youtube.com/watch?v=LV1dfq64U6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LV1dfq64U6U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ights in the sky caused injuries, fear, and a military...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ia801509.us.archive.org  
-   Link: [https://ia801509.us.archive.org/13/items/UFODangerZoneBobPrattHowTheyStealOurBloodAndMayKillPeoplePreIceAgeUfoOccupantsAn/UFO%20Danger%20Zone%20-%20Bob%20Pratt%20how%20they%20steal%20our%20blood%20and%20may%20kill%20people%20pre%20ice%20age%20ufo%20occupants%20and%20fake%20extraterrestrial%20%20masquerade%20perhaps%20super%20humans%20born%20from%20our%20stolen%20gametes.pdf](https://ia801509.us.archive.org/13/items/UFODangerZoneBobPrattHowTheyStealOurBloodAndMayKillPeoplePreIceAgeUfoOccupantsAn/UFO%20Danger%20Zone%20-%20Bob%20Pratt%20how%20they%20steal%20our%20blood%20and%20may%20kill%20people%20pre%20ice%20age%20ufo%20occupants%20and%20fake%20extraterrestrial%20%20masquerade%20perhaps%20super%20humans%20born%20from%20our%20stolen%20gametes.pdf)  
+   Link: <a href="https://ia801509.us.archive.org/13/items/UFODangerZoneBobPrattHowTheyStealOurBloodAndMayKillPeoplePreIceAgeUfoOccupantsAn/UFO%20Danger%20Zone%20-%20Bob%20Pratt%20how%20they%20steal%20our%20blood%20and%20may%20kill%20people%20pre%20ice%20age%20ufo%20occupants%20and%20fake%20extraterrestrial%20%20masquerade%20perhaps%20super%20humans%20born%20from%20our%20stolen%20gametes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801509.us.archive.org/13/items/UFODangerZoneBobPrattHowTheyStealOurBloodAndMayKillPeoplePreIceAgeUfoOccupantsAn/UFO%20Danger%20Zone%20-%20Bob%20Pratt%20how%20they%20steal%20our%20blood%20and%20may%20kill%20people%20pre%20ice%20age%20ufo%20occupants%20and%20fake%20extraterrestrial%20%20masquerade%20perhaps%20super%20humans%20born%20from%20our%20stolen%20gametes.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Danger Zone - Bob Pratt how they...Mr. Pratt has gone repeatedly to Brazil, a country he knows well, in search of hard data about the ef...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Operation Prato: Brazil's secret UFO investigation  
-   Link: [https://www.youtube.com/watch?v=F07_G_l-L-A](https://www.youtube.com/watch?v=F07_G_l-L-A)  
+   Link: <a href="https://www.youtube.com/watch?v=F07_G_l-L-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F07_G_l-L-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Colares UFO incident and Operation Saucer...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Colares UFO incident and Operation Saucer  
-   Link: [https://www.youtube.com/watch?v=y7r85Vw8Q54](https://www.youtube.com/watch?v=y7r85Vw8Q54)  
+   Link: <a href="https://www.youtube.com/watch?v=y7r85Vw8Q54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y7r85Vw8Q54</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Prato: The Amazon UFO investigation...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Operation Prato: The Amazon UFO investigation  
-   Link: [https://www.youtube.com/watch?v=K3HjT654W_E](https://www.youtube.com/watch?v=K3HjT654W_E)  
+   Link: <a href="https://www.youtube.com/watch?v=K3HjT654W_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3HjT654W_E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colonel Hollanda and the Chupa-Chupa phenomena...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Colonel Hollanda and the Chupa-Chupa phenomena  
-   Link: [https://www.youtube.com/watch?v=aG-2N0mK9qI](https://www.youtube.com/watch?v=aG-2N0mK9qI)  
+   Link: <a href="https://www.youtube.com/watch?v=aG-2N0mK9qI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG-2N0mK9qI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The official Brazilian Air Force report on the Amazon sightings...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The official Brazilian Air Force report on the Amazon sightings  
-   Link: [https://www.youtube.com/watch?v=Xh0y_P7m4Fk](https://www.youtube.com/watch?v=Xh0y_P7m4Fk)  
+   Link: <a href="https://www.youtube.com/watch?v=Xh0y_P7m4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0y_P7m4Fk</a>  
 
 22. <a id="endnote-22"></a>
    Source: disclosdex.com  
-   Link: [https://disclosdex.com/organizations/brazilian-air-force-official-ufo-investigation](https://disclosdex.com/organizations/brazilian-air-force-official-ufo-investigation)  
+   Link: <a href="https://disclosdex.com/organizations/brazilian-air-force-official-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/organizations/brazilian-air-force-official-ufo-investigation</a>  
 
 23. <a id="endnote-23"></a>
    Source: sosupernaturalpodcast.com  
    Title: alien colares ufo incident  
-   Link: [https://sosupernaturalpodcast.com/alien-colares-ufo-incident/](https://sosupernaturalpodcast.com/alien-colares-ufo-incident/)  
+   Link: <a href="https://sosupernaturalpodcast.com/alien-colares-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-colares-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So Supernatural PodcastALIEN: Colares UFO IncidentIn 1977, on the small island of Colares, Brazil, a series of UFO sightings escalated to...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/q8SvQUGJRr4?is=B9o1SuhdmYiCPvBD](https://youtu.be/q8SvQUGJRr4?is=B9o1SuhdmYiCPvBD)  
+   Link: <a href="https://youtu.be/q8SvQUGJRr4?is=B9o1SuhdmYiCPvBD" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/q8SvQUGJRr4?is=B9o1SuhdmYiCPvBD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Captain Hollanda&#x27;s Full Testimony Operation Saucer 197727 Nov 2025 — Only three months after giving this interview, Captain Hollan...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf](https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsOperação PratoOperação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78, is one of...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gov.br  
    Title: official ufo night in brazil  
-   Link: [https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil](https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil)  
+   Link: <a href="https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Serviços e Informações do BrasilOfficial UFO Night in Brazil20 May 2022 — On May 19, 1986, 21 unidentified flying objects, some of them u...</p></details>
    Published: May 19, 1986  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1572893699951268/posts/1793371427903493/](https://www.facebook.com/groups/1572893699951268/posts/1793371427903493/)  
+   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/1793371427903493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/1793371427903493/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Underreported 1977 UFO encounter in BrazilThe military documented hundreds of photos and hours of footage of strange objects. Witnesses w...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/gb/podcast/operation-prato-alien-vampires-of-the-amazon/id1631738803?i=1000697836036](https://podcasts.apple.com/gb/podcast/operation-prato-alien-vampires-of-the-amazon/id1631738803?i=1000697836036)  
+   Link: <a href="https://podcasts.apple.com/gb/podcast/operation-prato-alien-vampires-of-the-amazon/id1631738803?i=1000697836036" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/operation-prato-alien-vampires-of-the-amazon/id1631738803?i=1000697836036</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prato | Alien Vampires of the Amazon5 Mar 2025 — The Brazilian Air Force responded with Operation Prato (Operation Saucer), documenting h...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: en.clickpetroleoegas.com.br  
-   Link: [https://en.clickpetroleoegas.com.br/Cold-War-and-Alien-Secrets-Former-US-Official-Reveals-Why-Brazil-Covered-Up-UFO-Necklace-Case-and-What-the-Country-Feared-RPC95/](https://en.clickpetroleoegas.com.br/Cold-War-and-Alien-Secrets-Former-US-Official-Reveals-Why-Brazil-Covered-Up-UFO-Necklace-Case-and-What-the-Country-Feared-RPC95/)  
+   Link: <a href="https://en.clickpetroleoegas.com.br/Cold-War-and-Alien-Secrets-Former-US-Official-Reveals-Why-Brazil-Covered-Up-UFO-Necklace-Case-and-What-the-Country-Feared-RPC95/" target="_blank" rel="noopener noreferrer nofollow">https://en.clickpetroleoegas.com.br/Cold-War-and-Alien-Secrets-Former-US-Official-Reveals-Why-Brazil-Covered-Up-UFO-Necklace-Case-and-What-the-Country-Feared-RPC95/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>War and alien secrets: Former US official reveals why...19 May 2025 — Former Pentagon official reveals why Brazil hid results of Operati...</p></details>
    Published: May 2025  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MadieMovies.Hai/posts/mysterious-aerial-encounters-in-brazilbrazil-late-1960s-early-1970sa-declassifie/940915898889303/](https://www.facebook.com/MadieMovies.Hai/posts/mysterious-aerial-encounters-in-brazilbrazil-late-1960s-early-1970sa-declassifie/940915898889303/)  
+   Link: <a href="https://www.facebook.com/MadieMovies.Hai/posts/mysterious-aerial-encounters-in-brazilbrazil-late-1960s-early-1970sa-declassifie/940915898889303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MadieMovies.Hai/posts/mysterious-aerial-encounters-in-brazilbrazil-late-1960s-early-1970sa-declassifie/940915898889303/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Aerial Encounters in Brazil BrazilThe documents were later made public through the efforts of the online archive The Black Vau...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
    Title: the colares incident brazils bizarre encounter with vampire ufos 667736c7b55f  
-   Link: [https://medium.com/%40adrieneadams09/the-colares-incident-brazils-bizarre-encounter-with-vampire-ufos-667736c7b55f](https://medium.com/%40adrieneadams09/the-colares-incident-brazils-bizarre-encounter-with-vampire-ufos-667736c7b55f)  
+   Link: <a href="https://medium.com/%40adrieneadams09/the-colares-incident-brazils-bizarre-encounter-with-vampire-ufos-667736c7b55f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/the-colares-incident-brazils-bizarre-encounter-with-vampire-ufos-667736c7b55f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Colares Incident: Brazil&#x27;s Bizarre Encounter With “...In 1977, the quiet fishing village in Colares, Brazil became the center of one...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: vocal.media  
    Title: what the 1977 colares ufo incident reveals about the secret space program  
-   Link: [https://vocal.media/futurism/what-the-1977-colares-ufo-incident-reveals-about-the-secret-space-program](https://vocal.media/futurism/what-the-1977-colares-ufo-incident-reveals-about-the-secret-space-program)  
+   Link: <a href="https://vocal.media/futurism/what-the-1977-colares-ufo-incident-reveals-about-the-secret-space-program" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/what-the-1977-colares-ufo-incident-reveals-about-the-secret-space-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the 1977 Colares UFO Incident Reveals About the...In November 1977, Brazil&#x27;s Air Force launched Operação Prato (“Operation Plate”)...</p></details>
    Published: November 1977  
 
 33. <a id="endnote-33"></a>
    Source: www1.folha.uol.com.br  
    Title: inside the 70 year military investigation of aliens in brazil.shtml  
-   Link: [https://www1.folha.uol.com.br/internacional/en/brazil/2024/10/inside-the-70-year-military-investigation-of-aliens-in-brazil.shtml](https://www1.folha.uol.com.br/internacional/en/brazil/2024/10/inside-the-70-year-military-investigation-of-aliens-in-brazil.shtml)  
+   Link: <a href="https://www1.folha.uol.com.br/internacional/en/brazil/2024/10/inside-the-70-year-military-investigation-of-aliens-in-brazil.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www1.folha.uol.com.br/internacional/en/brazil/2024/10/inside-the-70-year-military-investigation-of-aliens-in-brazil.shtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the 70-Year Military Investigation of Aliens in Brazil31 Oct 2024 — Documents show that the Air Force was intrigued by the issue, with ac...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: headcountcoffee.com  
    Title: colares 1978 beam reports triggered military operation  
-   Link: [https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOoo5NLJEDGczclKhuDGR7K0uTDEeRLMj1U6zWFux3cYCOzqZycKd](https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOoo5NLJEDGczclKhuDGR7K0uTDEeRLMj1U6zWFux3cYCOzqZycKd)  
+   Link: <a href="https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOoo5NLJEDGczclKhuDGR7K0uTDEeRLMj1U6zWFux3cYCOzqZycKd" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOoo5NLJEDGczclKhuDGR7K0uTDEeRLMj1U6zWFux3cYCOzqZycKd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — Brazil&#x27;s military launched Operação Prato after 1977–1978 beam injury reports on Colares Island, documenting resident testi...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Headquarters Monitor of AF Project Blue Book. UFO investigation, prepared analyses of UFO data for AF, liaison officer between...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: insights.collective-evolution.com  
-   Link: [https://insights.collective-evolution.com/2024/11/26/operacao-prato-brazilian-air-force-ufo-photographs-details-about-the-occupants-inside-them/](https://insights.collective-evolution.com/2024/11/26/operacao-prato-brazilian-air-force-ufo-photographs-details-about-the-occupants-inside-them/)  
+   Link: <a href="https://insights.collective-evolution.com/2024/11/26/operacao-prato-brazilian-air-force-ufo-photographs-details-about-the-occupants-inside-them/" target="_blank" rel="noopener noreferrer nofollow">https://insights.collective-evolution.com/2024/11/26/operacao-prato-brazilian-air-force-ufo-photographs-details-about-the-occupants-inside-them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collective EvolutionOperação Prato: Brazilian Air Force UFO Photographs &amp;...26 Nov 2024 — In 2004 the Brazilian Air Force released offic...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: podcastufo.com  
    Title: brazils official ufo archives  
-   Link: [https://podcastufo.com/brazils-official-ufo-archives/](https://podcastufo.com/brazils-official-ufo-archives/)  
+   Link: <a href="https://podcastufo.com/brazils-official-ufo-archives/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/brazils-official-ufo-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil&#x27;s Official UFO Archives26 Oct 2025 — The First Confidential Inquiry, SIOANI and Operação Prato files were classified for decades...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: paratopia.com.br  
-   Link: [https://paratopia.com.br/wiki/operacaoprato/](https://paratopia.com.br/wiki/operacaoprato/)  
+   Link: <a href="https://paratopia.com.br/wiki/operacaoprato/" target="_blank" rel="noopener noreferrer nofollow">https://paratopia.com.br/wiki/operacaoprato/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiki | Operação PratoEm 1977, na região de Colares, no interior do estado do Pará, moradores relatavam avistamentos de estranhas luzes no...</p></details>

@@ -245,7 +245,7 @@ next_link:
   permalink: /zond-research/
   short_title: Zond Research
   heading_title: Who Kept Ukraine's Civilian UFO Records?
-date: '2026-06-09 01:43:46 '
+date: '2026-06-10 02:11:26 '
 header:
   og_image: /assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1-
 
 ## Introduction
 
-Since Russia’s full-scale invasion in 2022, [Ukraine]({{ 'what-is-really-seen-over-ukraine/' | relative_url }}) has become one of the most difficult environments in the world for identifying objects in the sky. Reports of strange lights, unusual aircraft, unexplained radar tracks, and alleged UFOs have increased, but the most important explanation is often not extraterrestrial mystery. It is wartime confusion. Drones, cruise missiles, ballistic missiles, satellite trains, electronic warfare effects, decoys, thermal-camera artefacts, and fragmented battlefield information all create conditions in which ordinary objects can appear extraordinary.
+Since Russia’s full-scale invasion in 2022, Ukraine has become one of the most difficult environments in the world for identifying objects in the sky. Reports of strange lights, unusual aircraft, unexplained radar tracks, and alleged UFOs have increased, but the most important explanation is often not extraterrestrial mystery. It is wartime confusion. Drones, cruise missiles, ballistic missiles, satellite trains, electronic warfare effects, decoys, thermal-camera artefacts, and fragmented battlefield information all create conditions in which ordinary objects can appear extraordinary.
 
 
 <img src="{{ "/assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1-dark.svg" | relative_url }}" alt="Wartime Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every report is immediately solved. Rather, Ukraine’s wartime experience shows how unidentified objects become security questions. In a combat zone, an object does not need to be alien to be alarming. If soldiers, drone operators, radar crews, or civilians cannot quickly determine whether something is a surveillance platform, a strike drone, a decoy, or a missile, it enters the category of an unidentified threat until proven otherwise. That reality shapes modern Ukrainian UFO reporting far more than classic flying-saucer narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifri.org">[Ifri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifri.org</span><span class="citation-popover-title">Mapping the Mil Tech War: Eight Lessons from Ukraine&#x27;s</span><span class="citation-popover-snippet">IfriMapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</span><span class="citation-popover-meta">Published: February 13, 2026</span></span></span>
+This does not mean every report is immediately solved. Rather, Ukraine’s wartime experience shows how unidentified objects become security questions. In a combat zone, an object does not need to be alien to be alarming. If soldiers, drone operators, radar crews, or civilians cannot quickly determine whether something is a surveillance platform, a strike drone, a decoy, or a missile, it enters the category of an unidentified threat until proven otherwise. That reality shapes modern Ukrainian UFO reporting far more than classic flying-saucer narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifri.org">[Ifri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifri.org</span><span class="citation-popover-title">Mapping the Mil Tech War: Eight Lessons from Ukraine&#x27;s</span><span class="citation-popover-snippet">Mapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</span><span class="citation-popover-meta">Published: February 13, 2026</span></span></span>
 
 ## Why War Makes the Sky Hard to Read
 
@@ -280,7 +280,7 @@ Ukraine's skies contain overlapping layers of activity:
 
 </div>
 
-Many of these objects operate at night, at unusual altitudes, or with deliberately deceptive signatures. Some are designed specifically to confuse defenders. Others appear only briefly on sensors before disappearing into electronic noise or terrain masking. The result is an environment where witnesses often see only fragments of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifri.org">[Ifri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifri.org</span><span class="citation-popover-title">Mapping the Mil Tech War: Eight Lessons from Ukraine&#x27;s</span><span class="citation-popover-snippet">IfriMapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</span><span class="citation-popover-meta">Published: February 13, 2026</span></span></span>
+Many of these objects operate at night, at unusual altitudes, or with deliberately deceptive signatures. Some are designed specifically to confuse defenders. Others appear only briefly on sensors before disappearing into electronic noise or terrain masking. The result is an environment where witnesses often see only fragments of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifri.org">[Ifri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifri.org</span><span class="citation-popover-title">Mapping the Mil Tech War: Eight Lessons from Ukraine&#x27;s</span><span class="citation-popover-snippet">Mapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</span><span class="citation-popover-meta">Published: February 13, 2026</span></span></span>
 
 The psychological context matters as well. During air-raid alerts, people actively scan the sky for threats. Human observers become more attentive but also more likely to interpret ambiguous stimuli as significant. This is a recognised feature of wartime observation and has appeared repeatedly in military history.
 
@@ -332,9 +332,9 @@ Many wartime sky reports involve satellites rather than aircraft.
 
 The rapid expansion of low-Earth-orbit satellite constellations has transformed what ordinary observers see at night. Trains of satellites can appear as organised formations. Bright reflections can resemble moving stars that abruptly appear or disappear. Satellite glints can create short-lived flashes that seem impossible to explain without context.
 
-Starlink is especially important in Ukraine because it became deeply integrated into communications and military operations after 2022. The network's visibility in the night sky has generated numerous civilian reports of unusual lights. Meanwhile, the military significance of Starlink has created a second source of confusion: observers may associate any unusual aerial event with advanced communications systems or secret technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skylinker.io/p/starlink-verification-in-ukraine-achievements-shortcomings-conclusions-eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skylinker.io">[SkyLinker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skylinker.io</span><span class="citation-popover-title">Sky Linker Verification of Starlink in Ukraine</span><span class="citation-popover-snippet">SkyLinkerVerification of Starlink in Ukraine - achievements... - SkyLinkerMarch 13, 2026 — 13 Mar 2026 — How did the blocking of Starlin...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+Starlink is especially important in Ukraine because it became deeply integrated into communications and military operations after 2022. The network's visibility in the night sky has generated numerous civilian reports of unusual lights. Meanwhile, the military significance of Starlink has created a second source of confusion: observers may associate any unusual aerial event with advanced communications systems or secret technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skylinker.io/p/starlink-verification-in-ukraine-achievements-shortcomings-conclusions-eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skylinker.io">[SkyLinker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skylinker.io</span><span class="citation-popover-title">Sky Linker Verification of Starlink in Ukraine</span><span class="citation-popover-snippet">Verification of Starlink in Ukraine - achievements... - SkyLinkerMarch 13, 2026 — 13 Mar 2026 — How did the blocking of Starlin...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 
-Scientific studies have also documented unintended emissions and observational complications associated with large satellite constellations, showing how crowded near-Earth space has become. These effects matter because they increase the number of artificial phenomena that observers may encounter without immediately recognising them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.02831" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Growing Impact of Unintended Starlink Broadband Emission on Radio Astronomy in the SKA-Low Frequency RangeJune 3, 2025...</span><span class="citation-popover-meta">Published: June 3, 2025</span></span></span>
+Scientific studies have also documented unintended emissions and observational complications associated with large satellite constellations, showing how crowded near-Earth space has become. These effects matter because they increase the number of artificial phenomena that observers may encounter without immediately recognising them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.02831" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Growing Impact of Unintended Starlink Broadband Emission on Radio Astronomy in the SKA-Low Frequency RangeJune 3, 2025...</span><span class="citation-popover-meta">Published: June 3, 2025</span></span></span>
 
 In wartime Ukraine, a bright object in the sky no longer competes only with stars and aircraft for identification. It competes with thousands of satellites as well.
 
@@ -344,7 +344,7 @@ In wartime Ukraine, a bright object in the sky no longer competes only with star
 
 One of the most widely discussed wartime UFO stories emerged from a 2022 paper by researchers associated with the Main Astronomical Observatory of the National Academy of Sciences of Ukraine.
 
-The study reported observations of what it called unidentified aerial phenomena, including fast-moving objects labelled “Phantoms”. The claims attracted international attention because some interpretations suggested extremely high speeds and unusual behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.02831" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Growing Impact of Unintended Starlink Broadband Emission on Radio Astronomy in the SKA-Low Frequency RangeJune 3, 2025...</span><span class="citation-popover-meta">Published: June 3, 2025</span></span></span>
+The study reported observations of what it called unidentified aerial phenomena, including fast-moving objects labelled “Phantoms”. The claims attracted international attention because some interpretations suggested extremely high speeds and unusual behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.02831" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Growing Impact of Unintended Starlink Broadband Emission on Radio Astronomy in the SKA-Low Frequency RangeJune 3, 2025...</span><span class="citation-popover-meta">Published: June 3, 2025</span></span></span>
 
 The controversy illustrates how difficult wartime observation can be.
 
@@ -397,92 +397,50 @@ Millions of people are watching the sky. Military units operate extensive sensor
 
 The central lesson is not that Ukraine has produced compelling evidence of alien visitation. The stronger lesson is that modern warfare generates vast numbers of unidentified observations through entirely human mechanisms. Drones imitate other drones. Decoys imitate strike systems. Satellites resemble mysterious formations. Electronic warfare obscures sensor data. Operators see fragments rather than complete events.
 
-In that environment, the category of “unidentified object” expands naturally. The mystery often lies not in the object itself, but in the difficulty of determining what it was before it disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifri.org">[Ifri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifri.org</span><span class="citation-popover-title">Mapping the Mil Tech War: Eight Lessons from Ukraine&#x27;s</span><span class="citation-popover-snippet">IfriMapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</span><span class="citation-popover-meta">Published: February 13, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">This must introduce a lot of noise for any search for objects...Read more...</span></span></span>
+In that environment, the category of “unidentified object” expands naturally. The mystery often lies not in the object itself, but in the difficulty of determining what it was before it disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifri.org">[Ifri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifri.org</span><span class="citation-popover-title">Mapping the Mil Tech War: Eight Lessons from Ukraine&#x27;s</span><span class="citation-popover-snippet">Mapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</span><span class="citation-popover-meta">Published: February 13, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">This must introduce a lot of noise for any search for objects...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-3-dark.svg" | relative_url }}" alt="Wartime Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why War Makes Ukraine&#x27;s Skies Hard To Read. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why War Makes Ukraine&#x27;s Skies Hard To Read, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Helps readers understand advanced aircraft, secrecy, and misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relevant to military observations and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for distinguishing genuine unknowns from observational mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Addresses contemporary military and intelligence reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -516,59 +474,71 @@ In that environment, the category of “unidentified object” expands naturally
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids"><img src="https://i.ebayimg.com/images/g/eXkAAeSwRihpja5M/s-l225.jpg" alt="Listing image for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer">Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-makes-ukraine-s-skies-hard-to-read-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-war-makes-ukraine-s-skies-hard-to-read-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wartime-skies-why-war-makes-ukraine-s-skies-hard-to-read-ukraine-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -783,60 +753,60 @@ In that environment, the category of “unidentified object” expands naturally
 1. <a id="endnote-1"></a>
    Source: ifri.org  
    Title: Mapping the Mil Tech War: Eight Lessons from Ukraine's  
-   Link: [https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf](https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IfriMapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</p></details>
+   Link: <a href="https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifri.org/sites/default/files/2026-02/ifri_tenenbaum_et_al_miltech_war_ukraine_2026_0.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the MilTech War: Eight Lessons from Ukraine&#x27;s...February 13, 2026 — Key takeaways: From 2022 to 2025, counter-drone warfare...</p></details>
    Published: February 13, 2026  
 
 2. <a id="endnote-2"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85](https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85)  
+   Link: <a href="https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/down-to-earth-limits-on-unidentified-aerial-phenomena-in-ukraine-6d8bb9f64f85</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This must introduce a lot of noise for any search for objects...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skylinker.io  
    Title: Sky Linker Verification of Starlink in Ukraine  
-   Link: [https://www.skylinker.io/p/starlink-verification-in-ukraine-achievements-shortcomings-conclusions-eng](https://www.skylinker.io/p/starlink-verification-in-ukraine-achievements-shortcomings-conclusions-eng)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyLinkerVerification of Starlink in Ukraine - achievements... - SkyLinkerMarch 13, 2026 — 13 Mar 2026 — How did the blocking of Starlin...</p></details>
+   Link: <a href="https://www.skylinker.io/p/starlink-verification-in-ukraine-achievements-shortcomings-conclusions-eng" target="_blank" rel="noopener noreferrer nofollow">https://www.skylinker.io/p/starlink-verification-in-ukraine-achievements-shortcomings-conclusions-eng</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Verification of Starlink in Ukraine - achievements... - SkyLinkerMarch 13, 2026 — 13 Mar 2026 — How did the blocking of Starlin...</p></details>
    Published: March 13, 2026  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.02831](https://arxiv.org/abs/2506.02831)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Growing Impact of Unintended Starlink Broadband Emission on Radio Astronomy in the SKA-Low Frequency RangeJune 3, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.02831" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.02831</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Growing Impact of Unintended Starlink Broadband Emission on Radio Astronomy in the SKA-Low Frequency RangeJune 3, 2025...</p></details>
    Published: June 3, 2025  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.07631](https://arxiv.org/abs/2603.07631)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAn Attempt to Search for Unintended Electromagnetic Radiation from Starlink Satellites with the 21 Centimeter Array: Methodology and...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.07631" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.07631</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Attempt to Search for Unintended Electromagnetic Radiation from Starlink Satellites with the 21 Centimeter Array: Methodology and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.17150](https://arxiv.org/abs/2605.17150)  
+   Link: <a href="https://arxiv.org/abs/2605.17150" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17150</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena II  
-   Link: [https://arxiv.org/abs/2211.17085](https://arxiv.org/abs/2211.17085)  
+   Link: <a href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.17085</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of UAP...by BE Zhilyaev · 2022 · Cited by 6 — The Main Astronomical Observatory of NAS of Ukraine conducts an independent stu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: english.nv.ua  
    Title: Air defenses shot down most of the drones, but some hit their targets  
-   Link: [https://english.nv.ua/nation/russian-drone-attack-on-ukraine-ukrainian-armed-forces-neutralize-56-uavs-in-south-and-east-50606335.html](https://english.nv.ua/nation/russian-drone-attack-on-ukraine-ukrainian-armed-forces-neutralize-56-uavs-in-south-and-east-50606335.html)  
+   Link: <a href="https://english.nv.ua/nation/russian-drone-attack-on-ukraine-ukrainian-armed-forces-neutralize-56-uavs-in-south-and-east-50606335.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/russian-drone-attack-on-ukraine-ukrainian-armed-forces-neutralize-56-uavs-in-south-and-east-50606335.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Voice of UkraineRussia launches 67 drones at Ukraine overnight despite its...8 May 2026 — Russia attacked Ukraine with 67 Shahed...</p></details>
    Published: May 2026  
 
 9. <a id="endnote-9"></a>
    Source: livescience.com  
    Title: ukraine uap report debunked  
-   Link: [https://www.livescience.com/ukraine-uap-report-debunked](https://www.livescience.com/ukraine-uap-report-debunked)  
+   Link: <a href="https://www.livescience.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ukraine-uap-report-debunked</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there really UFOs flying over Ukraine?15 Oct 2022 — A recent report about pitch-black &quot;phantom&quot; UFOs in the skies over Ukraine has be...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: english.nv.ua  
    Title: flash says ukraine tracked unidentified object over country in 2023 50606923  
-   Link: [https://english.nv.ua/nation/flash-says-ukraine-tracked-unidentified-object-over-country-in-2023-50606923.html](https://english.nv.ua/nation/flash-says-ukraine-tracked-unidentified-object-over-country-in-2023-50606923.html)  
+   Link: <a href="https://english.nv.ua/nation/flash-says-ukraine-tracked-unidentified-object-over-country-in-2023-50606923.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/flash-says-ukraine-tracked-unidentified-object-over-country-in-2023-50606923.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Voice of UkraineUkraine treats UFO reports as military intelligence amid...11 May 2026 — Defense adviser Serhii Beskrestnov said...</p></details>
    Published: May 2026  
 
@@ -844,54 +814,54 @@ In that environment, the category of “unidentified object” expands naturally
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DY6V7VPqg0O/](https://www.instagram.com/reel/DY6V7VPqg0O/)  
+   Link: <a href="https://www.instagram.com/reel/DY6V7VPqg0O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY6V7VPqg0O/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KGB Leaked UFO Files Russia #ussr #kgb #ufo #alien #...Orange lights were seen... orange orbs and orange UFOs. OCR. KGB Leaked UFO Files...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2022/12/ufos-over-kyiv/](https://skepticalinquirer.org/2022/12/ufos-over-kyiv/)  
+   Link: <a href="https://skepticalinquirer.org/2022/12/ufos-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/12/ufos-over-kyiv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over KyivNASA commissioned a research team to study Unidentified Aerial Phenomena (UAP), observations of events that cannot scientif...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/how-russian-drones-exposed-the-cracks-in-europes-defences-pbf7c67h6](https://www.thetimes.co.uk/article/how-russian-drones-exposed-the-cracks-in-europes-defences-pbf7c67h6)  
+   Link: <a href="https://www.thetimes.co.uk/article/how-russian-drones-exposed-the-cracks-in-europes-defences-pbf7c67h6" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/how-russian-drones-exposed-the-cracks-in-europes-defences-pbf7c67h6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On September 10, 2025, multiple Russian drones, suspected to be Gerbera decoys modeled after Iranian Shaheds, penetrated over 200km into...</p></details>
    Published: September 10, 2025  
 
 14. <a id="endnote-14"></a>
    Source: londonlovesbusiness.com  
-   Link: [https://londonlovesbusiness.com/kyiv-probes-ufo-spotted-by-frontline-drone-unit-amid-fears-of-secret-russian-weapon/](https://londonlovesbusiness.com/kyiv-probes-ufo-spotted-by-frontline-drone-unit-amid-fears-of-secret-russian-weapon/)  
+   Link: <a href="https://londonlovesbusiness.com/kyiv-probes-ufo-spotted-by-frontline-drone-unit-amid-fears-of-secret-russian-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://londonlovesbusiness.com/kyiv-probes-ufo-spotted-by-frontline-drone-unit-amid-fears-of-secret-russian-weapon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kyiv probes &#x27;UFO&#x27; spotted by frontline drone unit amid fears...12 May 2026 — Watch the unsettling Ukraine releases eerie &#x27;UFO&#x27; battlefie...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: universemagazine.com  
    Title: ufos repeatedly spotted over ukraine during the large scale war  
-   Link: [https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoo3l8Cj0p3jeFpSveDd9s24KCKRSdKjDtFPMEtnRb4zcofTbtbp](https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoo3l8Cj0p3jeFpSveDd9s24KCKRSdKjDtFPMEtnRb4zcofTbtbp)  
+   Link: <a href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoo3l8Cj0p3jeFpSveDd9s24KCKRSdKjDtFPMEtnRb4zcofTbtbp" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoo3l8Cj0p3jeFpSveDd9s24KCKRSdKjDtFPMEtnRb4zcofTbtbp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reported UFO sighting should be investigated, especially during wartime. Because each one may turn out to be an example not of alien...R...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/](https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/)  
+   Link: <a href="https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SlappedHam/posts/a-bold-new-study-claims-scientists-have-detected-dark-uaps-these-are-massive-nea/1452208436271389/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These are massive, nearly invisible objects flying faster than sound over Ukraine.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=b611cxpTKyU&vl=en](https://www.youtube.com/watch?v=b611cxpTKyU&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=b611cxpTKyU&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b611cxpTKyU&amp;vl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SEASON 1 (2022) • ALIEN... Are you ready? Ukrainian Military Drone Captures Footage of Bizarre Star-...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nypost.com  
    Title: ukrainian astronomers claim ufos everywhere over kyiv  
-   Link: [https://nypost.com/2022/09/14/ukrainian-astronomers-claim-ufos-everywhere-over-kyiv/](https://nypost.com/2022/09/14/ukrainian-astronomers-claim-ufos-everywhere-over-kyiv/)  
+   Link: <a href="https://nypost.com/2022/09/14/ukrainian-astronomers-claim-ufos-everywhere-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2022/09/14/ukrainian-astronomers-claim-ufos-everywhere-over-kyiv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukrainian astronomers claim UFOs &#x27;everywhere&#x27; over Kyiv14 Sept 2022 — Ukrainian astronomers say the skies over their war-torn country are...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/engineeringexploration/posts/british-military-investigators-reported-that-a-drone-used-in-a-recent-attack-tar/962352446338337/](https://www.facebook.com/engineeringexploration/posts/british-military-investigators-reported-that-a-drone-used-in-a-recent-attack-tar/962352446338337/)  
+   Link: <a href="https://www.facebook.com/engineeringexploration/posts/british-military-investigators-reported-that-a-drone-used-in-a-recent-attack-tar/962352446338337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/british-military-investigators-reported-that-a-drone-used-in-a-recent-attack-tar/962352446338337/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tarlink within a Shahed drone when approached by Newsweek, but...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/](https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/)  
+   Link: <a href="https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090224372366/posts/inside-ukraines-scientific-study-of-ufos-and-anomaliesoften-dismissed-as-science/717359871281486/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ain Astronomical Observatory of Ukraine&#x27;s National Academy of...Read more...</p></details>

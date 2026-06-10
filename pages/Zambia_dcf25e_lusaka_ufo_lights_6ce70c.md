@@ -245,7 +245,7 @@ next_link:
   permalink: /record-gaps-959ac0/
   short_title: Record Gaps
   heading_title: Why Is Zambia's UFO Paper Trail So Thin?
-date: '2026-06-09 01:45:34 '
+date: '2026-06-10 02:13:40 '
 header:
   og_image: /assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1-soci
 
 ## Introduction
 
-Lusaka sits at the centre of [Zambia]({{ 'what-has-zambia-really-seen-in-the-sky/' | relative_url }})’s public UFO record for a simple reason: most of the country’s documented sightings come from the capital, and most involve lights seen at night. That combination creates a persistent problem. Witnesses can clearly see something unusual, but darkness removes many of the details needed for identification. Distance becomes difficult to judge, colours appear exaggerated, and ordinary objects can seem to move in unexpected ways.
+Lusaka sits at the centre of Zambia’s public UFO record for a simple reason: most of the country’s documented sightings come from the capital, and most involve lights seen at night. That combination creates a persistent problem. Witnesses can clearly see something unusual, but darkness removes many of the details needed for identification. Distance becomes difficult to judge, colours appear exaggerated, and ordinary objects can seem to move in unexpected ways.
 
 
 <img src="{{ "/assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1-dark.svg" | relative_url }}" alt="Lusaka Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is that several Lusaka reports remain technically unresolved while also lacking strong evidence for anything extraordinary. The most discussed cases — a multi-witness report from 2012 and a red-light sighting from 2017 — illustrate how urban night skies can produce genuine uncertainty without necessarily pointing to unknown technology. The real story is less about hidden spacecraft and more about the limits of visual observation under difficult conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
+The result is that several Lusaka reports remain technically unresolved while also lacking strong evidence for anything extraordinary. The most discussed cases — a multi-witness report from 2012 and a red-light sighting from 2017 — illustrate how urban night skies can produce genuine uncertainty without necessarily pointing to unknown technology. The real story is less about hidden spacecraft and more about the limits of visual observation under difficult conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown &#124; SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
 
 ## Why Lusaka Produces Zambia’s Most Visible UFO Reports
 
@@ -284,13 +284,13 @@ That pattern appears repeatedly in the small number of publicly accessible Zambi
 
 ## The 2012 Multi-Witness Lusaka Report
 
-The strongest Lusaka case in terms of witness count occurred on 29 February 2012. According to the report, five observers saw what were described as three strange objects for roughly thirty seconds. The witnesses initially noticed what appeared to be stars moving and disappearing. They then observed several objects that seemed aircraft-like, including one displaying blue, orange, and red lights and appearing low enough to create the impression of landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
+The strongest Lusaka case in terms of witness count occurred on 29 February 2012. According to the report, five observers saw what were described as three strange objects for roughly thirty seconds. The witnesses initially noticed what appeared to be stars moving and disappearing. They then observed several objects that seemed aircraft-like, including one displaying blue, orange, and red lights and appearing low enough to create the impression of landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown &#124; SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
 
 What makes this report notable is not the description itself but the tension between two competing facts.
 
 On one hand, multiple witnesses reduce the likelihood that the event was a simple individual misperception. Several people apparently saw the same thing at the same time. Multi-witness cases are generally considered more valuable than single-observer accounts because they offer at least some independent confirmation that an unusual visual event occurred.
 
-On the other hand, the observation lasted only about half a minute and contains almost no technical detail. There are no published photographs, no confirmed flight-path analysis, no exact viewing coordinates, and no detailed witness interviews. The report therefore confirms that something unusual was perceived but does not provide enough information to determine what that object actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
+On the other hand, the observation lasted only about half a minute and contains almost no technical detail. There are no published photographs, no confirmed flight-path analysis, no exact viewing coordinates, and no detailed witness interviews. The report therefore confirms that something unusual was perceived but does not provide enough information to determine what that object actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown &#124; SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K6gpOC4F6FY" title="BREAKING: Massive Fireball Lights Up Europe — Scientists Investigate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K6gpOC4F6FY" target="_blank" rel="noopener noreferrer">BREAKING: Massive Fireball Lights Up Europe — Scientists Investigate</a></p><p class="youtube-embed-meta">Channel: NASA Space News &middot; Views: 29.2K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K6gpOC4F6FY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K6gpOC4F6FY">Open on YouTube</a></p></div></div></div>
@@ -305,11 +305,11 @@ Night-time observation introduces another complication: observers often focus on
 
 A distant aircraft moving towards the observer may seem almost stationary before suddenly appearing to shift position. A bright planet near the horizon can appear larger and stranger than expected. A satellite can seem silent and inexplicably smooth in its motion. The witness sees a light, but the context needed for identification is missing.
 
-The 2012 Lusaka report fits this broader pattern. The coloured lights are memorable, but they are not diagnostic evidence of an unconventional craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
+The 2012 Lusaka report fits this broader pattern. The coloured lights are memorable, but they are not diagnostic evidence of an unconventional craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown &#124; SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
 
 ## The 2017 Red-Light Sighting
 
-A later Lusaka report, logged in July 2017, involved a single observer who described three red lights moving rapidly and silently. The witness initially thought the object might be an aeroplane but later concluded that its movement seemed unusual. The report mentions a triangular or rectangular impression and a zig-zag motion. It also notes that the reported date was approximate rather than certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+A later Lusaka report, logged in July 2017, involved a single observer who described three red lights moving rapidly and silently. The witness initially thought the object might be an aeroplane but later concluded that its movement seemed unusual. The report mentions a triangular or rectangular impression and a zig-zag motion. It also notes that the reported date was approximate rather than certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 This case demonstrates another recurring challenge in UFO investigation: memory reconstruction.
 
@@ -348,7 +348,7 @@ Aircraft are often the first possibility considered because many UFO reports inv
 
 A plane flying towards an observer may appear stationary for a prolonged period because its lateral motion is minimal from that viewpoint. Changes in heading can create the impression of sudden turns. Landing lights can appear much brighter than expected and make altitude estimates unreliable.
 
-The 2012 report's mention of a possible landing impression naturally places aircraft among the leading conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
+The 2012 report's mention of a possible landing impression naturally places aircraft among the leading conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown &#124; SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span>
 
 ### Drones
 
@@ -408,89 +408,47 @@ The Lusaka cases are valuable precisely because they are modest. They show how U
 
 Unlike famous regional cases that involve extensive witness testimony or sustained investigation, the Lusaka reports mostly document fleeting encounters with unusual lights. Their significance lies less in what they prove and more in what they demonstrate about evidence quality. Multi-witness observations can still lack decisive detail. Coloured lights can appear dramatic while remaining difficult to identify. A sighting can be sincere, memorable, and unresolved without becoming evidence for an extraordinary craft.
 
-For Zambia’s public UFO record, that is the central lesson. The mystery often comes not from what was seen, but from how little can be established once the lights disappear into the night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span> 3nuforc.org
+For Zambia’s public UFO record, that is the central lesson. The mystery often comes not from what was seen, but from how little can be established once the lights disappear into the night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">lusaka zambia 2012 dfbaa144</span><span class="citation-popover-snippet">SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown &#124; SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</span></span></span> 3nuforc.org
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Lusaka UFO Reports Stay Unresolved?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Lusaka UFO Reports Stay Unresolved?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses classification problems common in night-light sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses modern unexplained aerial reports and evidence challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines how credible witnesses can report unexplained lights without definitive conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Offers broader frameworks for interpreting unresolved aerial-light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -524,75 +482,71 @@ For Zambia’s public UFO record, that is the central lesson. The mystery often 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lusaka-lights-why-do-lusaka-ufo-reports-stay-unresolved-zambia-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -806,104 +760,104 @@ For Zambia’s public UFO record, that is the central lesson. The mystery often 
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=135340](https://nuforc.org/sighting/?id=135340)  
+   Link: <a href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135340</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 135340NUFORC UFO Sighting 135340 · Occurred: 2017-07-24 18:28 Local - Approximate · Reported: 2017-07-24 13:48 Pacifi...</p></details>
    Published: July 24, 2017  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 17. Curacao, 3. Cyprus, 51. Czec...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: popastro.com  
    Title: Detailed Fireball Reporting Guide  
-   Link: [https://www.popastro.com/meteor/detailed-fireball-reporting-guide/](https://www.popastro.com/meteor/detailed-fireball-reporting-guide/)  
+   Link: <a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor SectionVery few fireballs last more than 5 or 10 seconds, and only man-made re-entry fireballs are likely to last for several tens...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: international.com  
-   Link: [https://www.international.com/](https://www.international.com/)  
+   Link: <a href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.international.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ional durability and pioneering innovation to reduce costs and grow your...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 7. <a id="endnote-7"></a>
    Source: mapuap.com  
    Title: lusaka zambia 2012 dfbaa144  
-   Link: [https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144](https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144)  
+   Link: <a href="https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/lusaka-zambia-2012-dfbaa144</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SENTINELlusaka (zambia) UAP Sighting 2012 — Unknown | SENTINELThree strange and scary objects. Record Data. Date2012-03-01. Duration30 se...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/fireballs/](https://www.imo.net/observations/fireballs/fireballs/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireballs | IMORarely a very large fireball will last 5-10 seconds before it is extinguished. If your ob...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CNEOS - NASAThe accompanying table provides information on the date and time of each fireball event reported by U.S. Government sensors w...</p></details>
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe accompanying table provides information on the date and time of each fireball event reported by U.S. Government sensors w...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/rates/](https://www.imo.net/observations/fireballs/rates/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/rates/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/rates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual and Diurnal Variations in Fireball RatesFireball rates are about three times the rates seen around the autumnal equinox (September...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsGenerally speaking, a fireball must be greater than about magnitude -8 to -10 in order to potentially produce a meteorite fa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/zambiatodayz/posts/dec-nabs-three-03-conmen-in-a-usd100000p-syndicate%F0%9D%90%BF%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%98%F0%9D%91%8E-%F0%9D%90%B9%F0%9D%91%9F%F0%9D%91%96%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%A6-27%F0%9D%91%A1%E2%84%8E-%F0%9D%91%80%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%90%E2%84%8E-2026t/1420940953380027/](https://www.facebook.com/zambiatodayz/posts/dec-nabs-three-03-conmen-in-a-usd100000p-syndicate%F0%9D%90%BF%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%98%F0%9D%91%8E-%F0%9D%90%B9%F0%9D%91%9F%F0%9D%91%96%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%A6-27%F0%9D%91%A1%E2%84%8E-%F0%9D%91%80%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%90%E2%84%8E-2026t/1420940953380027/)  
+   Link: <a href="https://www.facebook.com/zambiatodayz/posts/dec-nabs-three-03-conmen-in-a-usd100000p-syndicate%F0%9D%90%BF%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%98%F0%9D%91%8E-%F0%9D%90%B9%F0%9D%91%9F%F0%9D%91%96%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%A6-27%F0%9D%91%A1%E2%84%8E-%F0%9D%91%80%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%90%E2%84%8E-2026t/1420940953380027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zambiatodayz/posts/dec-nabs-three-03-conmen-in-a-usd100000p-syndicate%F0%9D%90%BF%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%98%F0%9D%91%8E-%F0%9D%90%B9%F0%9D%91%9F%F0%9D%91%96%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%A6-27%F0%9D%91%A1%E2%84%8E-%F0%9D%91%80%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%90%E2%84%8E-2026t/1420940953380027/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Money Laundering Investigations UnitA LUSAKA businessman has been arrested after he stole more than K2 million from the bank after he pur...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/methods/visual-observation/major/observation/](https://www.imo.net/observations/methods/visual-observation/major/observation/)  
+   Link: <a href="https://www.imo.net/observations/methods/visual-observation/major/observation/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/methods/visual-observation/major/observation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The ObservationPersistent train. If you observed a train that persisted after the meteor had disappeared give its duration in seconds. If...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ukfall.org.uk  
-   Link: [https://ukfall.org.uk/](https://ukfall.org.uk/)  
+   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe UK Fireball Alliance (UKFAll) is a collaboration of camera networks that aims to record meteors and fireballs...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-87424](https://sentientorbs.com/explore/sightings/NUFORC-87424)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-87424" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-87424</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First we were... Lusaka (Zambia),, ZambiaFeb 29, 2012 · Circle... Data provenance: This record originates from the National UFO...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: update fireball over europe 8 march 2026at 1855 cet on sunday 8 march a very br  
-   Link: [https://www.facebook.com/EuropeanSpaceAgency/posts/-update-fireball-over-europe-8-march-2026at-1855-cet-on-sunday-8-march-a-very-br/1353829110112505/](https://www.facebook.com/EuropeanSpaceAgency/posts/-update-fireball-over-europe-8-march-2026at-1855-cet-on-sunday-8-march-a-very-br/1353829110112505/)  
+   Link: <a href="https://www.facebook.com/EuropeanSpaceAgency/posts/-update-fireball-over-europe-8-march-2026at-1855-cet-on-sunday-8-march-a-very-br/1353829110112505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EuropeanSpaceAgency/posts/-update-fireball-over-europe-8-march-2026at-1855-cet-on-sunday-8-march-a-very-br/1353829110112505/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: fireball over Europe – 8 March 2026 At 18...The meteor was spotted throughout western Europe, as the International Meteor Organi...</p></details>
    Published: March 2026  
 
 17. <a id="endnote-17"></a>
    Source: universetoday.com  
    Title: sunday mornings european fireball was probably only a few meters in diameter  
-   Link: [https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter](https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter)  
+   Link: <a href="https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunday Morning&#x27;s European Fireball Was Probably Only a...10 Mar 2026 — Multiple mobile phones, dashcams, and dedicated meteor cameras ca...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/](https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fireball glowed for approximately six seconds and left a visible...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sentientorbs.com  
    Title: Fireball type object seen over Zambia last night  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-88809](https://sentientorbs.com/explore/sightings/NUFORC-88809)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Sentient OrbsLast night at 20:00 I saw a light/fireball at a distance of about 5km. Thought it was a star, butit was red and flickering...</p></details>
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-88809" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-88809</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsLast night at 20:00 I saw a light/fireball at a distance of about 5km. Thought it was a star, butit was red and flickering...</p></details>

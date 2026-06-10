@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /guinea-b47b54-index/
 description: Focused pages that expand on What Do UFO Reports in Guinea Really Show?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Guinea_b47b54
 parent_title: What Do UFO Reports in Guinea Really Show?

@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-8eee09/
   short_title: Explanations
   heading_title: Natural and Human Causes Behind Fiji UFO Reports
-date: '2026-06-09 01:26:58 '
+date: '2026-06-10 01:51:41 '
 header:
   og_image: /assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-1-social.jpg
   preview_image: /assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-1.webp
@@ -265,9 +265,9 @@ In this worldview, **spirits and supernatural beings** could move between realms
 
 ## Oral Lore and Community Storytelling
 
-Oral tradition remains a cornerstone of cultural life in Fiji. Tales of **special pathways, spirit realms, and encounters with otherworldly forces** are passed from elders to younger generations, and they help shape local interpretations of any inexplicable event. For instance, narratives about **“mysterious spirit pathways”** that link the earthly world with other realms illustrate how unusual lights or movement in the skies might be framed in spiritual terms rather than technological ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">FOLKLOR E | The little people of the land</span><span class="citation-popover-snippet">FOLKLORE | The little people of the land - Encounter on the mountain - The Fiji TimesApril 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
+Oral tradition remains a cornerstone of cultural life in Fiji. Tales of **special pathways, spirit realms, and encounters with otherworldly forces** are passed from elders to younger generations, and they help shape local interpretations of any inexplicable event. For instance, narratives about **“mysterious spirit pathways”** that link the earthly world with other realms illustrate how unusual lights or movement in the skies might be framed in spiritual terms rather than technological ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">FOLKLOR E &#124; The little people of the land</span><span class="citation-popover-snippet">FOLKLORE &#124; The little people of the land - Encounter on the mountain - The Fiji TimesApril 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
 
-These stories are not static; they evolve as communities discuss, reinterpret, and retell them. In many villages, unusual aerial phenomena are integrated into local narrative landscapes alongside older stories about migration, gods, and ancestors. Occasional reports of strange lights or unidentified aerial objects may be recounted around communal fires or in everyday conversation, not as evidence of alien technology, but as further expressions of the unseen forces that local mythology has long acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fijitimes.com.fj/deubas-totemic-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">Deuba’s totemic history</span><span class="citation-popover-snippet">The Fiji TimesOctober 14, 2024 — DEUBA’S TOTEMIC HISTORY Local News, News, Point of Origin |...</span><span class="citation-popover-meta">Published: October 14, 2024</span></span></span>
+These stories are not static; they evolve as communities discuss, reinterpret, and retell them. In many villages, unusual aerial phenomena are integrated into local narrative landscapes alongside older stories about migration, gods, and ancestors. Occasional reports of strange lights or unidentified aerial objects may be recounted around communal fires or in everyday conversation, not as evidence of alien technology, but as further expressions of the unseen forces that local mythology has long acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fijitimes.com.fj/deubas-totemic-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">Deuba’s totemic history</span><span class="citation-popover-snippet">The Fiji TimesOctober 14, 2024 — DEUBA’S TOTEMIC HISTORY Local News, News, Point of Origin &#124;...</span><span class="citation-popover-meta">Published: October 14, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-2-dark.svg" | relative_url }}" alt="Cultural Context illustration 2" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -295,86 +295,44 @@ In sum, the cultural context of Fiji — shaped by ancestral worship, rich mytho
 <img src="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-3-dark.svg" | relative_url }}" alt="Cultural Context illustration 3" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_folklore_7c46d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Fijian Folklore and Its Influence on UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Fijian Folklore and Its Influence on UFO Sightings, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Examines historical reports interpreted through cultural belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Balances folklore-influenced narratives with modern UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Directly explores the overlap between folklore, myth, and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
-        
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -408,75 +366,71 @@ In sum, the cultural context of Fiji — shaped by ancestral worship, rich mytho
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-fijian-folklore-and-its-influence-on-ufo-sightings-fiji-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -691,121 +645,121 @@ In sum, the cultural context of Fiji — shaped by ancestral worship, rich mytho
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Fijian mythology  
-   Link: [https://en.wikipedia.org/wiki/Fijian_mythology](https://en.wikipedia.org/wiki/Fijian_mythology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fijian_mythology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fijian_mythology</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Religion in Fiji  
-   Link: [https://en.wikipedia.org/wiki/Religion_in_Fiji](https://en.wikipedia.org/wiki/Religion_in_Fiji)  
+   Link: <a href="https://en.wikipedia.org/wiki/Religion_in_Fiji" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Religion_in_Fiji</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ratumaibulu](https://en.wikipedia.org/wiki/Ratumaibulu)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ratumaibulu" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ratumaibulu</a>  
 
 4. <a id="endnote-4"></a>
    Source: fijitimes.com.fj  
    Title: DISCOVERIN G FIJI  
-   Link: [https://www.fijitimes.com.fj/discovering-fiji-the-mysterious-spirit-pathway/](https://www.fijitimes.com.fj/discovering-fiji-the-mysterious-spirit-pathway/)  
+   Link: <a href="https://www.fijitimes.com.fj/discovering-fiji-the-mysterious-spirit-pathway/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/discovering-fiji-the-mysterious-spirit-pathway/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DISCOVERING FIJI - The mysterious spirit pathway - The Fiji TimesMay 11, 2025...</p></details>
    Published: May 11, 2025  
 
 5. <a id="endnote-5"></a>
    Source: fijitimes.com.fj  
    Title: FOLKLOR E | The little people of the land  
-   Link: [https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/](https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/)  
+   Link: <a href="https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOLKLORE | The little people of the land - Encounter on the mountain - The Fiji TimesApril 5, 2026...</p></details>
    Published: April 5, 2026  
 
 6. <a id="endnote-6"></a>
    Source: fijitimes.com.fj  
    Title: Deuba’s totemic history  
-   Link: [https://www.fijitimes.com.fj/deubas-totemic-history/](https://www.fijitimes.com.fj/deubas-totemic-history/)  
+   Link: <a href="https://www.fijitimes.com.fj/deubas-totemic-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/deubas-totemic-history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fiji TimesOctober 14, 2024 — DEUBA’S TOTEMIC HISTORY Local News, News, Point of Origin |...</p></details>
    Published: October 14, 2024  
 
 7. <a id="endnote-7"></a>
    Source: fijitimes.com.fj  
    Title: Discovering Fiji: Fiji's old stone shrines and secret Naga rituals  
-   Link: [https://www.fijitimes.com.fj/discovering-fiji-fijis-old-stone-shrines-and-secret-naga-rituals/](https://www.fijitimes.com.fj/discovering-fiji-fijis-old-stone-shrines-and-secret-naga-rituals/)  
+   Link: <a href="https://www.fijitimes.com.fj/discovering-fiji-fijis-old-stone-shrines-and-secret-naga-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/discovering-fiji-fijis-old-stone-shrines-and-secret-naga-rituals/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fiji TimesOctober 17, 2021 — DISCOVERING FIJI: FIJI’S OLD STONE SHRINES AND SECRET NAGA RITUALS Local News, News |...</p></details>
    Published: October 17, 2021  
 
 8. <a id="endnote-8"></a>
    Source: coralcoastfiji.org  
    Title: Fiji's Coral Coast Myths and legends of the Sigatoka Sand Dunes  
-   Link: [https://www.coralcoastfiji.org/fiji-tradition-culture/myths-and-legends-of-the-sigatoka-sand-dunes](https://www.coralcoastfiji.org/fiji-tradition-culture/myths-and-legends-of-the-sigatoka-sand-dunes)  
+   Link: <a href="https://www.coralcoastfiji.org/fiji-tradition-culture/myths-and-legends-of-the-sigatoka-sand-dunes" target="_blank" rel="noopener noreferrer nofollow">https://www.coralcoastfiji.org/fiji-tradition-culture/myths-and-legends-of-the-sigatoka-sand-dunes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji&#x27;s Coral CoastMyths and legends of the Sigatoka Sand Dunes - Fiji&#x27;s Coral CoastJuly 29, 2012...</p></details>
    Published: July 29, 2012  
 
 9. <a id="endnote-9"></a>
    Source: researchers.westernsydney.edu.au  
-   Link: [https://researchers.westernsydney.edu.au/en/publications/ghost-spirits-and-christian-denominational-politics-a-case-from-f/](https://researchers.westernsydney.edu.au/en/publications/ghost-spirits-and-christian-denominational-politics-a-case-from-f/)  
+   Link: <a href="https://researchers.westernsydney.edu.au/en/publications/ghost-spirits-and-christian-denominational-politics-a-case-from-f/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.westernsydney.edu.au/en/publications/ghost-spirits-and-christian-denominational-politics-a-case-from-f/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Sydney UniversityGhost, spirits and Christian denominational politics: a case from Fiji - Western Sydney University...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/how-ufo-sightings-influence-local-folklore-and-shape-community-legends](https://www.tvi.show/skywatch-files/how-ufo-sightings-influence-local-folklore-and-shape-community-legends)  
+   Link: <a href="https://www.tvi.show/skywatch-files/how-ufo-sightings-influence-local-folklore-and-shape-community-legends" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/how-ufo-sightings-influence-local-folklore-and-shape-community-legends</a>  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: usc.edu.au  
-   Link: [https://www.usc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots/2024/february/driva-qele-stealing-earth-oral-accounts-of-the-volcanic-eruption-of-nabukelevu-mt-washington-kadavu-island-fiji-2500-years-ago](https://www.usc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots/2024/february/driva-qele-stealing-earth-oral-accounts-of-the-volcanic-eruption-of-nabukelevu-mt-washington-kadavu-island-fiji-2500-years-ago)  
+   Link: <a href="https://www.usc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots/2024/february/driva-qele-stealing-earth-oral-accounts-of-the-volcanic-eruption-of-nabukelevu-mt-washington-kadavu-island-fiji-2500-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.usc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots/2024/february/driva-qele-stealing-earth-oral-accounts-of-the-volcanic-eruption-of-nabukelevu-mt-washington-kadavu-island-fiji-2500-years-ago</a>  
 
 12. <a id="endnote-12"></a>
    Source: glitternight.com  
    Title: MYTH S OF FIJI: GODS AND OTHER ENTITIES ON THE SOUL’S JOURNEY | Balladeer's Blog  
-   Link: [https://glitternight.com/2018/11/19/myths-of-fiji-gods-and-other-entities-on-the-souls-journey/](https://glitternight.com/2018/11/19/myths-of-fiji-gods-and-other-entities-on-the-souls-journey/)  
+   Link: <a href="https://glitternight.com/2018/11/19/myths-of-fiji-gods-and-other-entities-on-the-souls-journey/" target="_blank" rel="noopener noreferrer nofollow">https://glitternight.com/2018/11/19/myths-of-fiji-gods-and-other-entities-on-the-souls-journey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHS OF FIJI: GODS AND OTHER ENTITIES ON THE SOUL’S JOURNEY | Balladeer&#x27;s BlogNovember 19, 2018 — November 19, 2018 · 4:38 pm MYTHS OF F...</p></details>
    Published: November 19, 2018  
 
 13. <a id="endnote-13"></a>
    Source: sciety.org  
-   Link: [https://sciety.org/articles/activity/10.31219/osf.io/469mv_v1](https://sciety.org/articles/activity/10.31219/osf.io/469mv_v1)  
+   Link: <a href="https://sciety.org/articles/activity/10.31219/osf.io/469mv_v1" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31219/osf.io/469mv_v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebekah Senanayake Read the full article ABSTRACT Current literature on the transmission of knowledge f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: usc.edu.au  
    Title: A dramatic volcano eruption changed lives in Fiji 2,500 years ago  
-   Link: [https://www.usc.edu.au/about/unisc-news/news-archive/2023/august/a-dramatic-volcano-eruption-changed-lives-in-fiji-2-500-years-ago-100-generations-have-kept-the-story-alive](https://www.usc.edu.au/about/unisc-news/news-archive/2023/august/a-dramatic-volcano-eruption-changed-lives-in-fiji-2-500-years-ago-100-generations-have-kept-the-story-alive)  
+   Link: <a href="https://www.usc.edu.au/about/unisc-news/news-archive/2023/august/a-dramatic-volcano-eruption-changed-lives-in-fiji-2-500-years-ago-100-generations-have-kept-the-story-alive" target="_blank" rel="noopener noreferrer nofollow">https://www.usc.edu.au/about/unisc-news/news-archive/2023/august/a-dramatic-volcano-eruption-changed-lives-in-fiji-2-500-years-ago-100-generations-have-kept-the-story-alive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>100 generations have kept the story alive | UniSC | University of the Sunshine Coast, Queensland, AustraliaA DRAMATIC VOLCANO ERUPTION CH...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: worldmythos.com  
    Title: This character is often associated with crea  
-   Link: [https://worldmythos.com/ulupoka/](https://worldmythos.com/ulupoka/)  
+   Link: <a href="https://worldmythos.com/ulupoka/" target="_blank" rel="noopener noreferrer nofollow">https://worldmythos.com/ulupoka/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ulupoka - World MythosDecember 18, 2024 — by: adminPosted on: 18 de December de 2024 ULUPOKA Ulupoka is a significant figure in Fijian my...</p></details>
    Published: December 18, 2024  
 
 16. <a id="endnote-16"></a>
    Source: tianmu.org  
    Title: His name is Degei, and he is the oldest  
-   Link: [https://tianmu.org/good-work-library/living-traditions/pacific/fijian-religion-the-way-of-the-vanua](https://tianmu.org/good-work-library/living-traditions/pacific/fijian-religion-the-way-of-the-vanua)  
+   Link: <a href="https://tianmu.org/good-work-library/living-traditions/pacific/fijian-religion-the-way-of-the-vanua" target="_blank" rel="noopener noreferrer nofollow">https://tianmu.org/good-work-library/living-traditions/pacific/fijian-religion-the-way-of-the-vanua</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fijian Religion — The Way of the Vanua · Tianmu Anglican ChurchApril 28, 2026 — FIJIAN RELIGION — THE WAY OF THE VANUA ✦ ─── ⟐ ─── ✦ A LI...</p></details>
    Published: April 28, 2026  
 
 17. <a id="endnote-17"></a>
    Source: mythlok.com  
    Title: Passed down through oral traditions  
-   Link: [https://mythlok.com/world-mythologies/oceanian/melanesian/fijian/](https://mythlok.com/world-mythologies/oceanian/melanesian/fijian/)  
+   Link: <a href="https://mythlok.com/world-mythologies/oceanian/melanesian/fijian/" target="_blank" rel="noopener noreferrer nofollow">https://mythlok.com/world-mythologies/oceanian/melanesian/fijian/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fijian Mythology: Gods, Ancestors &amp; Ocean Spirits of the Pacific | MythlokFIJIAN MYTHOLOGY Fijian mythology is a vibrant and deeply spiri...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: worldmythos.com  
    Title: In Fijian lore, Ulu  
-   Link: [https://worldmythos.com/ulupoka-2/](https://worldmythos.com/ulupoka-2/)  
+   Link: <a href="https://worldmythos.com/ulupoka-2/" target="_blank" rel="noopener noreferrer nofollow">https://worldmythos.com/ulupoka-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ulupoka - World MythosDecember 18, 2024 — by: adminPosted on: 18 de December de 2024 ULUPOKA Ulupoka is a significant figure in Fijian my...</p></details>
    Published: December 18, 2024  
 
 19. <a id="endnote-19"></a>
    Source: gofiji.net  
    Title: The sugarcane field  
-   Link: [https://gofiji.net/the-floating-island-of-macuata-fijis-northern-province/](https://gofiji.net/the-floating-island-of-macuata-fijis-northern-province/)  
+   Link: <a href="https://gofiji.net/the-floating-island-of-macuata-fijis-northern-province/" target="_blank" rel="noopener noreferrer nofollow">https://gofiji.net/the-floating-island-of-macuata-fijis-northern-province/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The floating island of Macuata, Fiji’s northern province - GoFijiJuly 20, 2023 — Image THE FLOATING ISLAND OF MACUATA, FIJI’S NORTHERN PR...</p></details>
    Published: July 20, 2023  
 
 20. <a id="endnote-20"></a>
    Source: tropicalfiji.com  
    Title: Fiji: About Fiji  
-   Link: [https://www.tropicalfiji.com/about_fiji/culture/prehistory/](https://www.tropicalfiji.com/about_fiji/culture/prehistory/)  
+   Link: <a href="https://www.tropicalfiji.com/about_fiji/culture/prehistory/" target="_blank" rel="noopener noreferrer nofollow">https://www.tropicalfiji.com/about_fiji/culture/prehistory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This was an island somewhere to the west from where the original migration (migrations) had come. The path taken by the soul was always d...</p></details>

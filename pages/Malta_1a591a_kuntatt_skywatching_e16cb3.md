@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-gap-d7dee9/
   short_title: Records Gap
   heading_title: Why Are Malta UFO Records So Thin?
-date: '2026-06-09 01:33:14 '
+date: '2026-06-10 01:58:49 '
 header:
   og_image: /assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-1-social.jpg
   preview_image: /assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-1-soc
 
 ## Introduction
 
-Kuntatt UFO [Malta]({{ 'what-has-malta-really-seen-in-the-sky/' | relative_url }}) represents one of the most visible examples of how UFO interest in Malta has shifted from isolated sighting reports into organised community activity. Rather than functioning as a formal investigative body, the group operates as a volunteer-led network that encourages people to discuss unusual aerial observations, attend group skywatches, and explore ideas ranging from conventional astronomy to controversial “contact” practices such as CE-5 meditation. In a country where no major state-backed UFO research programme exists, groups like Kuntatt have become informal hubs through which sightings are shared, interpreted, and debated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofmalta.com/article/in-malta-countryside-group-meditates-make-contact-aliens.1112641" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofmalta.com">[Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofmalta.com</span><span class="citation-popover-title">Local proponents of CE-5 hope consciousness can help reach out to UFOs.Read more</span><span class="citation-popover-snippet">Times of MaltaIn Malta&#x27;s countryside, a group meditates to make contact...July 15, 2025 — 14 Jul 2025 — In Malta&#x27;s countryside, a group...</span><span class="citation-popover-meta">Published: July 15, 2025</span></span></span>
+Kuntatt UFO Malta represents one of the most visible examples of how UFO interest in Malta has shifted from isolated sighting reports into organised community activity. Rather than functioning as a formal investigative body, the group operates as a volunteer-led network that encourages people to discuss unusual aerial observations, attend group skywatches, and explore ideas ranging from conventional astronomy to controversial “contact” practices such as CE-5 meditation. In a country where no major state-backed UFO research programme exists, groups like Kuntatt have become informal hubs through which sightings are shared, interpreted, and debated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofmalta.com/article/in-malta-countryside-group-meditates-make-contact-aliens.1112641" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofmalta.com">[Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofmalta.com</span><span class="citation-popover-title">Local proponents of CE-5 hope consciousness can help reach out to UFOs.Read more</span><span class="citation-popover-snippet">Times of MaltaIn Malta&#x27;s countryside, a group meditates to make contact...July 15, 2025 — 14 Jul 2025 — In Malta&#x27;s countryside, a group...</span><span class="citation-popover-meta">Published: July 15, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-1-dark.svg" | relative_url }}" alt="Skywatchers illustration 1" data-theme-src-dark="{{ "/assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -345,86 +345,44 @@ In Malta's broader UFO landscape, Kuntatt UFO Malta illustrates a recurring patt
 <img src="{{ "/assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-3-dark.svg" | relative_url }}" alt="Skywatchers illustration 3" data-theme-src-dark="{{ "/assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malta_1a591a_kuntatt_skywatching_e16cb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Inside Malta&#x27;s Volunteer UFO Skywatching Scene. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Inside Malta&#x27;s Volunteer UFO Skywatching Scene, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
-        
-        <p class="fr-book-desc">Explains how organised UFO groups and public movements develop over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers modern UFO culture, witness networks, and public engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores UFO belief communities and how people interpret unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Directly addresses the social and belief dimensions of UFO communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -458,75 +416,71 @@ In Malta's broader UFO landscape, Kuntatt UFO Malta illustrates a recurring patt
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm"><img src="{{ '/assets/images/marketplace-covers/121a2f6e6feb6cd2220a.jpg' | relative_url }}" alt="Listing image for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skywatchers-inside-malta-s-volunteer-ufo-skywatching-scene-malta-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -740,138 +694,138 @@ In Malta's broader UFO landscape, Kuntatt UFO Malta illustrates a recurring patt
 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kuntattufomalta/?locale=en_GB](https://www.facebook.com/kuntattufomalta/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/kuntattufomalta/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kuntattufomalta/?locale=en_GB</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Malta (@kuntattufomalta)From all of us at Kuntatt UFO Malta, we wish you a day filled with love, laughter, coffee, and hopefully zero...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: Keith Ellul, one of the administrators of Kuntatt  
-   Link: [https://www.facebook.com/kuntattufomalta/posts/keith-ellul-one-of-the-administrators-of-kuntatt-ufo-malta-will-be-appearing-on-/1799759958114319/](https://www.facebook.com/kuntattufomalta/posts/keith-ellul-one-of-the-administrators-of-kuntatt-ufo-malta-will-be-appearing-on-/1799759958114319/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookKeith Ellul, one of the administrators of Kuntatt - UFO MaltaKeith Ellul, one of the administrators of Kuntatt - UFO Malta, will...</p></details>
+   Link: <a href="https://www.facebook.com/kuntattufomalta/posts/keith-ellul-one-of-the-administrators-of-kuntatt-ufo-malta-will-be-appearing-on-/1799759958114319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kuntattufomalta/posts/keith-ellul-one-of-the-administrators-of-kuntatt-ufo-malta-will-be-appearing-on-/1799759958114319/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Ellul, one of the administrators of Kuntatt - UFO MaltaKeith Ellul, one of the administrators of Kuntatt - UFO Malta, will...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kuntattufomalta/posts/sharing-a-nice-experience-lived-by-our-friend-in-valletta-on-24-march-2022-2320/506436011197491/](https://www.facebook.com/kuntattufomalta/posts/sharing-a-nice-experience-lived-by-our-friend-in-valletta-on-24-march-2022-2320/506436011197491/)  
+   Link: <a href="https://www.facebook.com/kuntattufomalta/posts/sharing-a-nice-experience-lived-by-our-friend-in-valletta-on-24-march-2022-2320/506436011197491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kuntattufomalta/posts/sharing-a-nice-experience-lived-by-our-friend-in-valletta-on-24-march-2022-2320/506436011197491/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kuntatt - UFO Malta. Apr 13, 2022󰞋󱟠. 󳄫. Sharing a nice experience lived by our friend in Valletta, on 24 March...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/](https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/)  
+   Link: <a href="https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Malta - CE5 Sky Watch - 8th Meetup eventPublic · Hosted by Kuntatt - UFO Malta, Umberto Calabrese and Keith Ellul · Friday, August 22...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Astronomical Society of Malta  
-   Link: [https://en.wikipedia.org/wiki/The_Astronomical_Society_of_Malta](https://en.wikipedia.org/wiki/The_Astronomical_Society_of_Malta)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Astronomical_Society_of_Malta" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Astronomical_Society_of_Malta</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=en_GB](https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=en_GB</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Malta - CE5 Sky Watch - 8th Meetup eventPublic · Hosted by Kuntatt - UFO Malta, Umberto Calabrese and Keith Ellul · Friday 22 August...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/1348105833515421/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_mechanism=feed_attachment&ref_source=newsfeed](https://www.facebook.com/events/1348105833515421/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_mechanism=feed_attachment&ref_source=newsfeed)  
+   Link: <a href="https://www.facebook.com/events/1348105833515421/?acontext=%7B%22action_history%22%3A%22null%22%7D&amp;ref_mechanism=feed_attachment&amp;ref_source=newsfeed" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/1348105833515421/?acontext=%7B%22action_history%22%3A%22null%22%7D&amp;ref_mechanism=feed_attachment&amp;ref_source=newsfeed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Malta - CE5 Sky Watch - 9th Meetup eventPublic · Hosted by Kuntatt - UFO Malta and Keith Ellul · Saturday, November 8, 2025 at 6:00PM...</p></details>
    Published: November 8, 2025  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=nn_NO](https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=nn_NO)  
+   Link: <a href="https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=nn_NO" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/mi%C4%A1ra-l-fer%C4%A7a-malta/kuntatt-ufo-malta-ce5-sky-watch-8th-meetup-event/1074993554606687/?locale=nn_NO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Malta - CE5 Sky Watch - 8th Meetup eventOffentleg · Hosted by Kuntatt - UFO Malta, Umberto Calabrese and Keith Ellul · Fredag 22. aug...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LovinMalta/posts/videos-sent-to-the-newsroom-show-a-bright-light-streaking-across-the-sky-in-the-/1389395886562259/](https://www.facebook.com/LovinMalta/posts/videos-sent-to-the-newsroom-show-a-bright-light-streaking-across-the-sky-in-the-/1389395886562259/)  
+   Link: <a href="https://www.facebook.com/LovinMalta/posts/videos-sent-to-the-newsroom-show-a-bright-light-streaking-across-the-sky-in-the-/1389395886562259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/videos-sent-to-the-newsroom-show-a-bright-light-streaking-across-the-sky-in-the-/1389395886562259/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1y · Public &amp;middot; ✨ Kuntatt UFO - Malta First Sky Watch Event: Unidentified Orange Orbs ✨ During our first sky watch event...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/timesofmalta/posts/local-proponents-of-ce-5-hope-consciousness-can-help-reach-out-to-ufos/1113755787467237/](https://www.facebook.com/timesofmalta/posts/local-proponents-of-ce-5-hope-consciousness-can-help-reach-out-to-ufos/1113755787467237/)  
+   Link: <a href="https://www.facebook.com/timesofmalta/posts/local-proponents-of-ce-5-hope-consciousness-can-help-reach-out-to-ufos/1113755787467237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofmalta/posts/local-proponents-of-ce-5-hope-consciousness-can-help-reach-out-to-ufos/1113755787467237/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/events/587520014067257/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_mechanism=feed_attachment&ref_source=newsfeed](https://www.facebook.com/events/587520014067257/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_mechanism=feed_attachment&ref_source=newsfeed)  
+   Link: <a href="https://www.facebook.com/events/587520014067257/?acontext=%7B%22action_history%22%3A%22null%22%7D&amp;ref_mechanism=feed_attachment&amp;ref_source=newsfeed" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/587520014067257/?acontext=%7B%22action_history%22%3A%22null%22%7D&amp;ref_mechanism=feed_attachment&amp;ref_source=newsfeed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Malta - CE5 Sky Watch - 5th Meetup eventPublic · Hosted by Kuntatt - UFO Malta, Umberto Calabrese and Keith Ellul · Saturday, Februar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kuntattufomalta/videos/happy-st-patricks-day/1482344489906588/](https://www.facebook.com/kuntattufomalta/videos/happy-st-patricks-day/1482344489906588/)  
+   Link: <a href="https://www.facebook.com/kuntattufomalta/videos/happy-st-patricks-day/1482344489906588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kuntattufomalta/videos/happy-st-patricks-day/1482344489906588/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>filled with good energy, great company, and a touch of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=V4KtJi2H5HA](https://www.youtube.com/watch?v=V4KtJi2H5HA)  
+   Link: <a href="https://www.youtube.com/watch?v=V4KtJi2H5HA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V4KtJi2H5HA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kuntatt - UFO Malta Skywatch and CE5...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: timesofmalta.com  
    Title: Local proponents of CE-5 hope consciousness can help reach out to UFOs.Read more  
-   Link: [https://timesofmalta.com/article/in-malta-countryside-group-meditates-make-contact-aliens.1112641](https://timesofmalta.com/article/in-malta-countryside-group-meditates-make-contact-aliens.1112641)  
+   Link: <a href="https://timesofmalta.com/article/in-malta-countryside-group-meditates-make-contact-aliens.1112641" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/in-malta-countryside-group-meditates-make-contact-aliens.1112641</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of MaltaIn Malta&#x27;s countryside, a group meditates to make contact...July 15, 2025 — 14 Jul 2025 — In Malta&#x27;s countryside, a group...</p></details>
    Published: July 15, 2025  
 
 15. <a id="endnote-15"></a>
    Source: allevents.in  
    Title: All Events Kuntatt  
-   Link: [https://allevents.in/rabat/kuntatt-ufo-malta-ce5-sky-watch-7th-meetup-event/200028340462952](https://allevents.in/rabat/kuntatt-ufo-malta-ce5-sky-watch-7th-meetup-event/200028340462952)  
+   Link: <a href="https://allevents.in/rabat/kuntatt-ufo-malta-ce5-sky-watch-7th-meetup-event/200028340462952" target="_blank" rel="noopener noreferrer nofollow">https://allevents.in/rabat/kuntatt-ufo-malta-ce5-sky-watch-7th-meetup-event/200028340462952</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kuntatt - UFO Malta - CE5 Sky Watch - 7th Meetup event27 Jun 2025 — Kuntatt - UFO Malta - CE5 Sky Watch - 7th Meetup event, Fri, 27 Jun...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: catholicdirectory.com.au  
-   Link: [https://www.catholicdirectory.com.au/deceasedclergy/list](https://www.catholicdirectory.com.au/deceasedclergy/list)  
+   Link: <a href="https://www.catholicdirectory.com.au/deceasedclergy/list" target="_blank" rel="noopener noreferrer nofollow">https://www.catholicdirectory.com.au/deceasedclergy/list</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 May 1964, Rev Ildephonsus Garcia... He studied both at the Malta Seminary and University and was ordained in Malta on...Read more...</p></details>
    Published: May 1964  
 
 17. <a id="endnote-17"></a>
    Source: thebookmark.ie  
-   Link: [https://www.thebookmark.ie/search?srsltid=AfmBOopVGuj9VzUGOEuXYL4HUZtvEnfgfEr8sSvV2Qaa_oEo3eCzbtIW](https://www.thebookmark.ie/search?srsltid=AfmBOopVGuj9VzUGOEuXYL4HUZtvEnfgfEr8sSvV2Qaa_oEo3eCzbtIW)  
+   Link: <a href="https://www.thebookmark.ie/search?srsltid=AfmBOopVGuj9VzUGOEuXYL4HUZtvEnfgfEr8sSvV2Qaa_oEo3eCzbtIW" target="_blank" rel="noopener noreferrer nofollow">https://www.thebookmark.ie/search?srsltid=AfmBOopVGuj9VzUGOEuXYL4HUZtvEnfgfEr8sSvV2Qaa_oEo3eCzbtIW</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bookmark.ie. SearchBestselling Books, Childrens Books, New Releases, Schoolbooks, Stationery, Gifts. Order Online for Delivery or Collect...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
    Title: UF O Malta dwar l-oġġett interplanetari 3I Atlas  
-   Link: [https://www.instagram.com/reel/DNc_cRmJgoa/](https://www.instagram.com/reel/DNc_cRmJgoa/)  
+   Link: <a href="https://www.instagram.com/reel/DNc_cRmJgoa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNc_cRmJgoa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan x&#x27;hinu?...17 Aug 2025 — Il-ħabib tagħna Keith Ellul minn Kuntatt - UFO Malta dwar l-oġġett interplanetari 3I Atlas.... Real UFO in...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ADmFN0pLD4w](https://www.youtube.com/watch?v=ADmFN0pLD4w)  
+   Link: <a href="https://www.youtube.com/watch?v=ADmFN0pLD4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADmFN0pLD4w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ENCOUNTERS OF THE FIFTH KIND | Full UFO Documentary | Alien Contact &amp; CE5 Explained...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: elcv.art.br  
-   Link: [https://elcv.art.br/santoandre/biblioteca/_em_ingles/film_and_cinema_eBooks_collection/The%20Matrix%20in%20Theory.pdf](https://elcv.art.br/santoandre/biblioteca/_em_ingles/film_and_cinema_eBooks_collection/The%20Matrix%20in%20Theory.pdf)  
+   Link: <a href="https://elcv.art.br/santoandre/biblioteca/_em_ingles/film_and_cinema_eBooks_collection/The%20Matrix%20in%20Theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elcv.art.br/santoandre/biblioteca/_em_ingles/film_and_cinema_eBooks_collection/The%20Matrix%20in%20Theory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>perialism of annexing the alien.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: europarl.europa.eu  
    Title: EPRS STU(2024)757798 EN  
-   Link: [https://www.europarl.europa.eu/RegData/etudes/STUD/2024/757798/EPRS_STU%282024%29757798_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/STUD/2024/757798/EPRS_STU%282024%29757798_EN.pdf)  
+   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2024/757798/EPRS_STU%282024%29757798_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2024/757798/EPRS_STU%282024%29757798_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic Freedom Monitor 2023 - European ParliamentAcademic freedom is widely acknowledged both as a fundamental value of present-day hig...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Episodju 87 | Provi ta' UFOs? ma' Keith Ellul | Sayan Cassar  
-   Link: [https://www.youtube.com/watch?v=s9TPcxaKLfk](https://www.youtube.com/watch?v=s9TPcxaKLfk)  
+   Link: <a href="https://www.youtube.com/watch?v=s9TPcxaKLfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9TPcxaKLfk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kif issejjaħ il-UFOs ma&#x27; Keith Ellull | Facebook LIVE 08 (04/07/2024): Sayan Cassar Podcast...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: git.isir.upmc.fr  
    Title: wiki10 31K train map.txt  
-   Link: [https://git.isir.upmc.fr/gerald/poincareclassifierembedding/-/blob/fbc30b52cd799326bbb5b53e382c03a6a21619f9/example/meta/Wiki10-31K_mappings/wiki10-31K_train_map.txt](https://git.isir.upmc.fr/gerald/poincareclassifierembedding/-/blob/fbc30b52cd799326bbb5b53e382c03a6a21619f9/example/meta/Wiki10-31K_mappings/wiki10-31K_train_map.txt)  
+   Link: <a href="https://git.isir.upmc.fr/gerald/poincareclassifierembedding/-/blob/fbc30b52cd799326bbb5b53e382c03a6a21619f9/example/meta/Wiki10-31K_mappings/wiki10-31K_train_map.txt" target="_blank" rel="noopener noreferrer nofollow">https://git.isir.upmc.fr/gerald/poincareclassifierembedding/-/blob/fbc30b52cd799326bbb5b53e382c03a6a21619f9/example/meta/Wiki10-31K_mappings/wiki10-31K_train_map.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>upmc.frwiki10-31K_train_map.txt7 Feb 2019 — A repository for learning Poincaré ball representation for classification...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFO Sighting in Malta?  
-   Link: [https://www.youtube.com/watch?v=VvM74XZPyLM](https://www.youtube.com/watch?v=VvM74XZPyLM)  
+   Link: <a href="https://www.youtube.com/watch?v=VvM74XZPyLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VvM74XZPyLM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episodju 87 | Provi ta&#x27; UFOs? ma&#x27; Keith Ellul | Sayan Cassar is highly relevant because it features an in-depth interview with Keith Ellu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
    Title: AFU Book Library  
-   Link: [https://www.scribd.com/doc/138738940/AFU-Book-Library](https://www.scribd.com/doc/138738940/AFU-Book-Library)  
+   Link: <a href="https://www.scribd.com/doc/138738940/AFU-Book-Library" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/138738940/AFU-Book-Library</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFU Library Acquisitions 1975-2006 | PDFA history of alien presence. Baker, Alan: The encyclopaedia of alien encounters. Baker, Alan: The...</p></details>

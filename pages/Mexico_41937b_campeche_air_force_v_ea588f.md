@@ -245,7 +245,7 @@ next_link:
   permalink: /myths-debunked/
   short_title: Myths Debunked
   heading_title: Which Mexican UFO Stories Have Ordinary Explanations?
-date: '2026-06-09 01:33:36 '
+date: '2026-06-10 01:59:13 '
 header:
   og_image: /assets/images/Mexico_41937b_campeche_air_force_v_ea588f-Illustration-1-social.jpg
   preview_image: /assets/images/Mexico_41937b_campeche_air_force_v_ea588f-Illustration-1.webp
@@ -254,19 +254,19 @@ image: /assets/images/Mexico_41937b_campeche_air_force_v_ea588f-Illustration-1-s
 
 ## Introduction
 
-The 2004 Campeche UFO incident remains one of the most famous military UFO cases ever released by the Mexican government. On 5 March 2004, pilots from the Mexican Air Force recorded multiple bright objects on an infrared camera while conducting a surveillance mission over southern [Mexico]({{ 'what-really-happened-in-mexicos-ufo/' | relative_url }}). The footage quickly became international news because it appeared to show a formation of mysterious aerial objects that could not be seen with the naked eye and seemed to manoeuvre around the aircraft.
+The 2004 Campeche UFO incident remains one of the most famous military UFO cases ever released by the Mexican government. On 5 March 2004, pilots from the Mexican Air Force recorded multiple bright objects on an infrared camera while conducting a surveillance mission over southern Mexico. The footage quickly became international news because it appeared to show a formation of mysterious aerial objects that could not be seen with the naked eye and seemed to manoeuvre around the aircraft.
 
 
 <img src="{{ "/assets/images/Mexico_41937b_campeche_air_force_v_ea588f-Illustration-1-dark.svg" | relative_url }}" alt="Campeche Video illustration 1" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_campeche_air_force_v_ea588f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_campeche_air_force_v_ea588f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Campeche case unusual is not simply the footage itself, but the debate that followed. Supporters presented it as rare military evidence of unidentified craft. Sceptics and aerospace analysts argued that the lights were almost certainly infrared images of gas flares from offshore oil installations in the Bay of Campeche. More than two decades later, the case is still discussed because it sits at the intersection of military testimony, sensor interpretation, and the difficulty of analysing infrared imagery without full contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">WIREDMexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
+What makes the Campeche case unusual is not simply the footage itself, but the debate that followed. Supporters presented it as rare military evidence of unidentified craft. Sceptics and aerospace analysts argued that the lights were almost certainly infrared images of gas flares from offshore oil installations in the Bay of Campeche. More than two decades later, the case is still discussed because it sits at the intersection of military testimony, sensor interpretation, and the difficulty of analysing infrared imagery without full contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">Mexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
 
 ## What the Pilots Recorded
 
-The incident occurred during an anti-drug surveillance flight conducted by the Mexican Air Force. The aircraft was equipped with a STAR SAFIRE II forward-looking infrared (FLIR) system, a thermal imaging device designed to detect heat sources. While flying at roughly 11,500 feet, the crew detected several bright objects through the infrared sensor. Reports stated that as many as eleven luminous targets appeared on the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">WIREDMexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">2004: The Mexican Air Force films Infrared UFOs A now-classic UFO video was taken on the afternoon of March 5, 2004 in southern Mexico, o...</span><span class="citation-popover-meta">Published: March 5, 2004</span></span></span>
+The incident occurred during an anti-drug surveillance flight conducted by the Mexican Air Force. The aircraft was equipped with a STAR SAFIRE II forward-looking infrared (FLIR) system, a thermal imaging device designed to detect heat sources. While flying at roughly 11,500 feet, the crew detected several bright objects through the infrared sensor. Reports stated that as many as eleven luminous targets appeared on the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">Mexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">2004: The Mexican Air Force films Infrared UFOs A now-classic UFO video was taken on the afternoon of March 5, 2004 in southern Mexico, o...</span><span class="citation-popover-meta">Published: March 5, 2004</span></span></span>
 
 One feature that immediately attracted attention was the apparent mismatch between sensors. The infrared camera displayed multiple bright targets, yet only a small number reportedly appeared on radar. Crew members also stated that they could not see corresponding lights through the cockpit windows. This combination created the impression that the aircraft was encountering something unusual that was visible only through specialised equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mydarkpath.com/51-mexicanufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mydarkpath.com">[My Dark Path]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mydarkpath.com</span><span class="citation-popover-title">51 mexicanufo</span><span class="citation-popover-snippet">My Dark PathUFOs are a global phenomenon and today we investigate...On March 5th, 2004, members of Mexican Air Force Squadron 501 filmed...</span></span></span>
 
-When the footage was later released publicly, Mexican television programmes and UFO researchers, especially journalist and UFO promoter Jaime Maussan, presented the video as potentially extraordinary evidence. The fact that the recording came from a military aircraft rather than a civilian witness gave it an aura of official credibility that many previous Mexican UFO stories lacked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of Mexico | Cryptid Wiki</span><span class="citation-popover-snippet">FandomMexican UFOlogist Jaime Maussan interpreted the videotape as &quot;proof of alien visitation&quot;, however science writer and skeptic Michae...</span></span></span>
+When the footage was later released publicly, Mexican television programmes and UFO researchers, especially journalist and UFO promoter Jaime Maussan, presented the video as potentially extraordinary evidence. The fact that the recording came from a military aircraft rather than a civilian witness gave it an aura of official credibility that many previous Mexican UFO stories lacked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of Mexico &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Mexican UFOlogist Jaime Maussan interpreted the videotape as &quot;proof of alien visitation&quot;, however science writer and skeptic Michae...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xWYQRJmx1fs" title="Mexican UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xWYQRJmx1fs" target="_blank" rel="noopener noreferrer">Mexican UFO</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 74.3K &middot; Uploaded: September 2013 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xWYQRJmx1fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xWYQRJmx1fs">Open on YouTube</a></p></div></div></div>
@@ -286,7 +286,7 @@ The Campeche footage contains several characteristics that encouraged extraordin
 * Some seemed to change position relative to one another.
 * The number of visible targets fluctuated during the recording.
 * The crew reported uncertainty about what they were observing.
-* The thermal signatures appeared unusually intense against the surrounding environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">WIREDMexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
+* The thermal signatures appeared unusually intense against the surrounding environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">Mexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
 
 </div>
 
@@ -307,7 +307,7 @@ Several factors strengthened the flare hypothesis:
 * The number and arrangement of heat sources were broadly consistent with offshore oil activity in the region.
 * Infrared sensors are known to detect flare stacks at very long distances.
 * The absence of corresponding visual sightings fits the possibility that only the thermal emissions were prominent.
-* No independent evidence emerged showing physical craft performing manoeuvres beyond known technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Campeche, Mexico &#x27;Infrared UFO&#x27; VideoThe Campeche, Mexico &#x27;Infrared UFO&#x27; Video. Robert Sheaffer. From: Volume 28, N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA125955073&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">GaleMexican Air Force UFO affair: aliens, ball lightning, or flares?by JC Smith · 2004 · Cited by 3 — Unfortunately, the DMSP data did no...</span></span></span>
+* No independent evidence emerged showing physical craft performing manoeuvres beyond known technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Campeche, Mexico &#x27;Infrared UFO&#x27; VideoThe Campeche, Mexico &#x27;Infrared UFO&#x27; Video. Robert Sheaffer. From: Volume 28, N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA125955073&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Mexican Air Force UFO affair: aliens, ball lightning, or flares?by JC Smith · 2004 · Cited by 3 — Unfortunately, the DMSP data did no...</span></span></span>
 
 Later summaries of the incident increasingly described the flare explanation as the most probable resolution. Even many reference works that still list the event as a notable UFO case note that subsequent investigations linked the targets to offshore gas flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
@@ -320,7 +320,7 @@ Although the flare interpretation became the dominant sceptical explanation, it 
 
 Supporters of the UFO interpretation argued that the geometry and apparent movement of the targets did not perfectly match fixed oil platforms. Some pointed to pilot testimony describing objects that seemed to surround or trail the aircraft. Others questioned whether all recorded targets could be matched to known flare locations with sufficient precision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mydarkpath.com/51-mexicanufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mydarkpath.com">[My Dark Path]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mydarkpath.com</span><span class="citation-popover-title">51 mexicanufo</span><span class="citation-popover-snippet">My Dark PathUFOs are a global phenomenon and today we investigate...On March 5th, 2004, members of Mexican Air Force Squadron 501 filmed...</span></span></span>
 
-A recurring issue is the limited public availability of complete flight data. Much of the discussion has relied on released video segments, interviews, and secondary reconstructions rather than a comprehensive package of sensor records, navigation data, radar logs, and technical analyses. Without the full dataset, both sceptical and pro-UFO interpretations have had room to persist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA125955073&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">GaleMexican Air Force UFO affair: aliens, ball lightning, or flares?by JC Smith · 2004 · Cited by 3 — Unfortunately, the DMSP data did no...</span></span></span>
+A recurring issue is the limited public availability of complete flight data. Much of the discussion has relied on released video segments, interviews, and secondary reconstructions rather than a comprehensive package of sensor records, navigation data, radar logs, and technical analyses. Without the full dataset, both sceptical and pro-UFO interpretations have had room to persist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA125955073&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Mexican Air Force UFO affair: aliens, ball lightning, or flares?by JC Smith · 2004 · Cited by 3 — Unfortunately, the DMSP data did no...</span></span></span>
 
 Even researchers who favour conventional explanations often acknowledge that the original crew's confusion was genuine. The pilots were not necessarily misreporting what they saw; rather, they may have been interpreting unfamiliar infrared imagery in real time without immediately recognising a distant industrial source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Campeche, Mexico &#x27;Infrared UFO&#x27; VideoThe Campeche, Mexico &#x27;Infrared UFO&#x27; Video. Robert Sheaffer. From: Volume 28, N...</span></span></span>
 
@@ -330,7 +330,7 @@ Even researchers who favour conventional explanations often acknowledge that the
 
 The long-term importance of the Campeche footage lies less in whether it showed extraterrestrial craft and more in what it demonstrated about evidence assessment.
 
-For UFO advocates, the case showed that military personnel can encounter aerial phenomena that they cannot immediately identify, even when using advanced equipment. The official nature of the recording helped move the discussion beyond simple eyewitness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">WIREDMexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
+For UFO advocates, the case showed that military personnel can encounter aerial phenomena that they cannot immediately identify, even when using advanced equipment. The official nature of the recording helped move the discussion beyond simple eyewitness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mexican air force films ufos</span><span class="citation-popover-snippet">Mexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
 
 For sceptics, Campeche became a textbook example of how sensor data can be misinterpreted. The case highlighted the danger of treating infrared imagery as self-explanatory. A bright target on a thermal display does not automatically reveal its distance, altitude, speed, or physical nature. Without broader situational information, ordinary heat sources can appear extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Campeche, Mexico &#x27;Infrared UFO&#x27; VideoThe Campeche, Mexico &#x27;Infrared UFO&#x27; Video. Robert Sheaffer. From: Volume 28, N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2004/09/22164651/p36.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Prometheus Books, 1998). His Web page for UFOs and other skeptical subjects is at www.debunker.com. &quot; * *.Read more...</span></span></span>
 
@@ -348,86 +348,44 @@ However, the case has never completely disappeared from UFO discussions because 
 That combination of impressive imagery and a plausible mundane explanation is precisely why the Campeche video remains one of the most enduring UFO cases in modern Mexican history. It is remembered not because it conclusively proved anything extraordinary, but because it demonstrated how difficult it can be to distinguish between a genuine mystery and a misunderstood heat source when technology, perception, and expectation collide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Campeche, Mexico &#x27;Infrared UFO&#x27; VideoThe Campeche, Mexico &#x27;Infrared UFO&#x27; Video. Robert Sheaffer. From: Volume 28, N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2004/09/22164651/p36.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Prometheus Books, 1998). His Web page for UFOs and other skeptical subjects is at www.debunker.com. &quot; * *.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was the Campeche UFO Video Just Flares?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was the Campeche UFO Video Just Flares?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines case evaluation and official explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for evaluating military and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Covers government and military involvement in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages critical assessment of extraordinary claims and imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -461,75 +419,71 @@ That combination of impressive imagery and a plausible mundane explanation is pr
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campeche-video-was-the-campeche-ufo-video-just-flares-mexico-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -744,153 +698,153 @@ That combination of impressive imagery and a plausible mundane explanation is pr
 1. <a id="endnote-1"></a>
    Source: wired.com  
    Title: mexican air force films ufos  
-   Link: [https://www.wired.com/2004/05/mexican-air-force-films-ufos/](https://www.wired.com/2004/05/mexican-air-force-films-ufos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDMexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</p></details>
+   Link: <a href="https://www.wired.com/2004/05/mexican-air-force-films-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2004/05/mexican-air-force-films-ufos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican Air Force Films UFOs12 May 2004 — The lights were filmed on March 5 by pilots using infrared equipment. They appeared to be...</p></details>
    Published: May 2004  
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: Bad UFOs: Critical Thinking about UFO Claims  
-   Link: [https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html](https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html)  
+   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2004: The Mexican Air Force films Infrared UFOs A now-classic UFO video was taken on the afternoon of March 5, 2004 in southern Mexico, o...</p></details>
    Published: March 5, 2004  
 
 3. <a id="endnote-3"></a>
    Source: cryptidz.fandom.com  
    Title: Alien Sightings of Mexico | Cryptid Wiki  
-   Link: [https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Mexico](https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Mexico)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FandomMexican UFOlogist Jaime Maussan interpreted the videotape as &quot;proof of alien visitation&quot;, however science writer and skeptic Michae...</p></details>
+   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Mexico</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican UFOlogist Jaime Maussan interpreted the videotape as &quot;proof of alien visitation&quot;, however science writer and skeptic Michae...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2004/09/22164651/p36.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2004/09/22164651/p36.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2004/09/22164651/p36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2004/09/22164651/p36.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Prometheus Books, 1998). His Web page for UFOs and other skeptical subjects is at www.debunker.com. &quot; * *.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: go.gale.com  
-   Link: [https://go.gale.com/ps/i.do?id=GALE%7CA125955073&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1](https://go.gale.com/ps/i.do?id=GALE%7CA125955073&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GaleMexican Air Force UFO affair: aliens, ball lightning, or flares?by JC Smith · 2004 · Cited by 3 — Unfortunately, the DMSP data did no...</p></details>
+   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA125955073&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA125955073&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican Air Force UFO affair: aliens, ball lightning, or flares?by JC Smith · 2004 · Cited by 3 — Unfortunately, the DMSP data did no...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Mexico  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico](https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in MexicoThis is a list of alleged sightings of unidentified flying objects or UFOs in Mexico. Contents. 1 1883; 2 1974...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Mysterious UFOs Filmed Over Mexico | Mexico Contact Point | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=LDA3JQyG3c0](https://www.youtube.com/watch?v=LDA3JQyG3c0)  
+   Link: <a href="https://www.youtube.com/watch?v=LDA3JQyG3c0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LDA3JQyG3c0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican UFO...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Mexican UFO  
-   Link: [https://www.youtube.com/watch?v=xWYQRJmx1fs](https://www.youtube.com/watch?v=xWYQRJmx1fs)  
+   Link: <a href="https://www.youtube.com/watch?v=xWYQRJmx1fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWYQRJmx1fs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Signs Of Alien Life Scientists Discovered In Mexico...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/](https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/)  
+   Link: <a href="https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2004/09/the-campeche-mexico-infrared-ufo-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Campeche, Mexico &#x27;Infrared UFO&#x27; VideoThe Campeche, Mexico &#x27;Infrared UFO&#x27; Video. Robert Sheaffer. From: Volume 28, N...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mydarkpath.com  
    Title: 51 mexicanufo  
-   Link: [https://www.mydarkpath.com/51-mexicanufo](https://www.mydarkpath.com/51-mexicanufo)  
+   Link: <a href="https://www.mydarkpath.com/51-mexicanufo" target="_blank" rel="noopener noreferrer nofollow">https://www.mydarkpath.com/51-mexicanufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My Dark PathUFOs are a global phenomenon and today we investigate...On March 5th, 2004, members of Mexican Air Force Squadron 501 filmed...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video of March 5, 2004, turned out to be just a couple of far-off oil rig flares enhanced by an infrared camera (see...Read more...</p></details>
    Published: March 5, 2004  
 
 14. <a id="endnote-14"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-10.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-10.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flawed and FraudMexican Infrared UFO video illustrates once again the inabil- ity of the UFO movement to perform critical thinking. Notes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-26.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-26.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-26.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research Laboratory and the. Office of Naval Research (see www.... Mexico &#x27;infrared. UFO&#x27; video...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-07.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-07.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-07.pdf</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: mexican air force ufo incident 2004 the infrared encounter over campecheon march  
-   Link: [https://www.facebook.com/BladeBallQH/posts/mexican-air-force-ufo-incident-2004-the-infrared-encounter-over-campecheon-march/943265191987707/](https://www.facebook.com/BladeBallQH/posts/mexican-air-force-ufo-incident-2004-the-infrared-encounter-over-campecheon-march/943265191987707/)  
+   Link: <a href="https://www.facebook.com/BladeBallQH/posts/mexican-air-force-ufo-incident-2004-the-infrared-encounter-over-campecheon-march/943265191987707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BladeBallQH/posts/mexican-air-force-ufo-incident-2004-the-infrared-encounter-over-campecheon-march/943265191987707/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican Air Force UFO Incident (2004)Okpanachi Elvis Sunday ▻ UFO, Aliens, Moon, Mars, Paranormal &amp; Conspiracies R Us! 1y · Public · UFOs...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: Greek Universities Addressing the Issue of Climate Change  
-   Link: [https://www.researchgate.net/profile/Constantina_Skanavis/publication/317400010_Greek_Universities_Addressing_the_Issue_of_Climate_Change/links/5fb187a8a6fdcc9ae0580b88/Greek-Universities-Addressing-the-Issue-of-Climate-Change.pdf](https://www.researchgate.net/profile/Constantina_Skanavis/publication/317400010_Greek_Universities_Addressing_the_Issue_of_Climate_Change/links/5fb187a8a6fdcc9ae0580b88/Greek-Universities-Addressing-the-Issue-of-Climate-Change.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Constantina_Skanavis/publication/317400010_Greek_Universities_Addressing_the_Issue_of_Climate_Change/links/5fb187a8a6fdcc9ae0580b88/Greek-Universities-Addressing-the-Issue-of-Climate-Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Constantina_Skanavis/publication/317400010_Greek_Universities_Addressing_the_Issue_of_Climate_Change/links/5fb187a8a6fdcc9ae0580b88/Greek-Universities-Addressing-the-Issue-of-Climate-Change.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Change Research at Universities27 Dec 2013 — Many universities across the world perform state-of-the art research on matters rela...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: 11 ufos filmed by mexican air force march 5th 2004  
-   Link: [https://www.reddit.com/r/UFOs/comments/1386uj9/11_ufos_filmed_by_mexican_air_force_march_5th_2004/](https://www.reddit.com/r/UFOs/comments/1386uj9/11_ufos_filmed_by_mexican_air_force_march_5th_2004/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1386uj9/11_ufos_filmed_by_mexican_air_force_march_5th_2004/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1386uj9/11_ufos_filmed_by_mexican_air_force_march_5th_2004/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On March 5th 2004, Mexican air force pilot conducting over Campeche Mexico, caught on camera 11 orb shaped UFOs flying around...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>power down again moved father 2004 led play council research off german television given way you 2000 region military established politic...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tvi.show  
    Title: the 2004 mexican air force ufo video analysis  
-   Link: [https://www.tvi.show/skywatch-files/the-2004-mexican-air-force-ufo-video-analysis](https://www.tvi.show/skywatch-files/the-2004-mexican-air-force-ufo-video-analysis)  
+   Link: <a href="https://www.tvi.show/skywatch-files/the-2004-mexican-air-force-ufo-video-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-2004-mexican-air-force-ufo-video-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 May 2025 — Explore the 2004 Mexican Air Force UFO video capturing 11 mysterious objects over Campeche... (UFOs) using infrared equipme...</p></details>
    Published: May 2025  
 
 22. <a id="endnote-22"></a>
    Source: abc.net.au  
    Title: mexico air force video creates ufo stir  
-   Link: [https://www.abc.net.au/news/2004-05-12/mexico-air-force-video-creates-ufo-stir/1974376](https://www.abc.net.au/news/2004-05-12/mexico-air-force-video-creates-ufo-stir/1974376)  
+   Link: <a href="https://www.abc.net.au/news/2004-05-12/mexico-air-force-video-creates-ufo-stir/1974376" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2004-05-12/mexico-air-force-video-creates-ufo-stir/1974376</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 May 2004 — The Mexican Air Force has released footage of what a UFO expert said were 11 unidentified flying objects (UFOs) picked up b...</p></details>
    Published: May 2004  
 
 23. <a id="endnote-23"></a>
    Source: listverse.com  
    Title: the top 10 military ufo sightings that remain unexplained  
-   Link: [https://listverse.com/2025/07/30/the-top-10-military-ufo-sightings-that-remain-unexplained/](https://listverse.com/2025/07/30/the-top-10-military-ufo-sightings-that-remain-unexplained/)  
+   Link: <a href="https://listverse.com/2025/07/30/the-top-10-military-ufo-sightings-that-remain-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://listverse.com/2025/07/30/the-top-10-military-ufo-sightings-that-remain-unexplained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2004, the Mexican Air Force captured some intriguing infrared footage over Campeche&#x27;s eastern coast.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/33352049/THE_NATURE_OF_UFO_EVIDENCE_TWO_VIEWS](https://www.academia.edu/33352049/THE_NATURE_OF_UFO_EVIDENCE_TWO_VIEWS)  
+   Link: <a href="https://www.academia.edu/33352049/THE_NATURE_OF_UFO_EVIDENCE_TWO_VIEWS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33352049/THE_NATURE_OF_UFO_EVIDENCE_TWO_VIEWS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ded our skies for the first time…officially...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cbsnews.com  
    Title: the odd truth may 13 2004  
-   Link: [https://www.cbsnews.com/news/the-odd-truth-may-13-2004/](https://www.cbsnews.com/news/the-odd-truth-may-13-2004/)  
+   Link: <a href="https://www.cbsnews.com/news/the-odd-truth-may-13-2004/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/the-odd-truth-may-13-2004/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Odd Truth, May 13, 200414 May 2004 — The tape was filmed March 5 by air force pilots using a video camera equipped with an infrared l...</p></details>
    Published: May 2004  
 
 26. <a id="endnote-26"></a>
    Source: newyorker.com  
    Title: whats the deal with ufos  
-   Link: [https://www.newyorker.com/culture/annals-of-inquiry/whats-the-deal-with-ufos](https://www.newyorker.com/culture/annals-of-inquiry/whats-the-deal-with-ufos)  
+   Link: <a href="https://www.newyorker.com/culture/annals-of-inquiry/whats-the-deal-with-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/annals-of-inquiry/whats-the-deal-with-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the Deal with U.F.O.s?7 Sept 2025 — A third video, known as FLIR, was taken in 2004 from an aircraft in California. Navy pilots in...</p></details>

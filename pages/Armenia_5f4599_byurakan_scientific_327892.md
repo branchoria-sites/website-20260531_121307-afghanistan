@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap/
   short_title: Records Gap
   heading_title: Why Armenia's UFO Record Is So Patchy
-date: '2026-06-09 01:13:05 '
+date: '2026-06-10 01:38:32 '
 header:
   og_image: /assets/images/Armenia_5f4599_byurakan_scientific_327892-Illustration-1-social.jpg
   preview_image: /assets/images/Armenia_5f4599_byurakan_scientific_327892-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Armenia_5f4599_byurakan_scientific_327892-Illustration-1-s
 
 ## Introduction
 
-**Byurakan Astrophysical Observatory** is [Armenia]({{ 'what-really-explains-armenias-ufo/' | relative_url }})’s premier centre for professional astronomical research and sky observation, historically rooted in deep‑space science and public sky literacy rather than investigations of unidentified aerial phenomena. While Armenia lacks a formal UAP (Unidentified Aerial Phenomena) programme, Byurakan’s scientific expertise and observational infrastructure occasionally intersect with public reports of unusual sky lights. This page explains **how the observatory functions**, how **local scientific checks distinguish ordinary sky phenomena from misinterpretation**, and what role, if any, Byurakan has played in assessing anomalous sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Byurakan_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Byurakan Observatory</span><span class="citation-popover-snippet">Byurakan Observatory</span></span></span>
+**Byurakan Astrophysical Observatory** is Armenia’s premier centre for professional astronomical research and sky observation, historically rooted in deep‑space science and public sky literacy rather than investigations of unidentified aerial phenomena. While Armenia lacks a formal UAP (Unidentified Aerial Phenomena) programme, Byurakan’s scientific expertise and observational infrastructure occasionally intersect with public reports of unusual sky lights. This page explains **how the observatory functions**, how **local scientific checks distinguish ordinary sky phenomena from misinterpretation**, and what role, if any, Byurakan has played in assessing anomalous sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Byurakan_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Byurakan Observatory</span><span class="citation-popover-snippet">Byurakan Observatory</span></span></span>
 
 
 <img src="{{ "/assets/images/Armenia_5f4599_byurakan_scientific_327892-Illustration-1-dark.svg" | relative_url }}" alt="Byurakan illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_byurakan_scientific_327892-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_byurakan_scientific_327892-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -319,86 +319,44 @@ In this way, Byurakan’s presence in Armenia acts as a **quality filter on sigh
 In Armenia, unusual airborne light sightings are not subject to a national UAP office, but **Byurakan Astrophysical Observatory—as the country’s leading astronomical institution—provides the primary scientific lens for interpreting such phenomena**. Its reviews emphasise conventional explanations rooted in atmospheric and celestial physics, resisting speculative leaps to craft‑based interpretations. Whether educating the public, commenting on media reports, or nurturing a culture of systematic sky observation, Byurakan’s role in local scientific checks is **pragmatic, evidence‑centred, and anchored in astrophysical expertise**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Byurakan_Conference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Byurakan Conference</span><span class="citation-popover-snippet">Byurakan Conference</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Who Checks Strange Lights Over Armenia?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Who Checks Strange Lights Over Armenia?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains how scientists evaluate extraordinary claims and distinguish observation from misinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides accessible context for astronomical phenomena often mistaken for unusual objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Explores how unusual aerial reports are investigated and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Explains common astronomical misconceptions and visual misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -432,75 +390,71 @@ In Armenia, unusual airborne light sightings are not subject to a national UAP o
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=byurakan-who-checks-strange-lights-over-armenia-armenia-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -715,142 +669,142 @@ In Armenia, unusual airborne light sightings are not subject to a national UAP o
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Byurakan Observatory  
-   Link: [https://en.wikipedia.org/wiki/Byurakan_Observatory](https://en.wikipedia.org/wiki/Byurakan_Observatory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Byurakan_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Byurakan_Observatory</a>  
 
 2. <a id="endnote-2"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/papers/byurakan-astrophysical-observatory-bao-current-activities-1x23mcsf](https://scispace.com/papers/byurakan-astrophysical-observatory-bao-current-activities-1x23mcsf)  
+   Link: <a href="https://scispace.com/papers/byurakan-astrophysical-observatory-bao-current-activities-1x23mcsf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/byurakan-astrophysical-observatory-bao-current-activities-1x23mcsf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SciSpace(PDF) Byurakan Astrophysical Observatory (BAO): current...The Byurakan Observatory has been recognized as one of the main center...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bao.am  
-   Link: [https://www.bao.am/](https://www.bao.am/)  
+   Link: <a href="https://www.bao.am/" target="_blank" rel="noopener noreferrer nofollow">https://www.bao.am/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BYURAKAN ASTROPHYSICAL OBSERVATORYIts main scientific research field is the instability phenomena of the Universe. More...... The Byurak...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Byurakan Conference  
-   Link: [https://en.wikipedia.org/wiki/Byurakan_Conference](https://en.wikipedia.org/wiki/Byurakan_Conference)  
+   Link: <a href="https://en.wikipedia.org/wiki/Byurakan_Conference" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Byurakan_Conference</a>  
 
 5. <a id="endnote-5"></a>
    Source: byurakan.am  
-   Link: [https://byurakan.am/](https://byurakan.am/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan — A Village Above the WorldAragatsotn · Armenia · On the slopes of Mount Aragats A VILLAGE Above the World Ancient churches, sta...</p></details>
+   Link: <a href="https://byurakan.am/" target="_blank" rel="noopener noreferrer nofollow">https://byurakan.am/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Village Above the WorldAragatsotn · Armenia · On the slopes of Mount Aragats A VILLAGE Above the World Ancient churches, sta...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bao.am  
    Title: BYURAKA N ASTROPHYSICAL OBSERVATORYBYURAKAN ASTROPHYSICAL OBSERVATORY AFTER V  
-   Link: [https://www.bao.am/about/important_facts.php](https://www.bao.am/about/important_facts.php)  
+   Link: <a href="https://www.bao.am/about/important_facts.php" target="_blank" rel="noopener noreferrer nofollow">https://www.bao.am/about/important_facts.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A. AMBARTSUMIAN (NATIONAL VALUE) Վ․ Հ․ ՀԱՄԲԱՐՁՈՒՄՅԱՆԻ ԱՆՎԱՆ ԲՅՈՒՐԱԿԱՆԻ ԱՍՏՂԱԴԻՏԱՐԱՆ (ԱԶԳԱՅԻՆ ԱՐԺԵՔ) | ՀԱՅ ENG MOST IMPORTANT FACTS ABOUT BYU...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bao.am  
-   Link: [https://www.bao.am/about/about/about.php](https://www.bao.am/about/about/about.php)  
+   Link: <a href="https://www.bao.am/about/about/about.php" target="_blank" rel="noopener noreferrer nofollow">https://www.bao.am/about/about/about.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Astrophysical Observatory (BAO) was founded in 1946 on the initiative of academician Victor Ambartsumian, who became the first d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bao.am  
    Title: BYURAKA N ASTROPHYSICAL OBSERVATORYBYURAKAN ASTROPHYSICAL OBSERVATORY AFTER V  
-   Link: [https://www.bao.am/about/history.php](https://www.bao.am/about/history.php)  
+   Link: <a href="https://www.bao.am/about/history.php" target="_blank" rel="noopener noreferrer nofollow">https://www.bao.am/about/history.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A. AMBARTSUMIAN (NATIONAL VALUE) Վ․ Հ․ ՀԱՄԲԱՐՁՈՒՄՅԱՆԻ ԱՆՎԱՆ ԲՅՈՒՐԱԿԱՆԻ ԱՍՏՂԱԴԻՏԱՐԱՆ (ԱԶԳԱՅԻՆ ԱՐԺԵՔ) | ՀԱՅ ENG HISTORY OF THE BYURAKAN ASTROP...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: news.am  
-   Link: [https://news.am/en/news/109251](https://news.am/en/news/109251)  
+   Link: <a href="https://news.am/en/news/109251" target="_blank" rel="noopener noreferrer nofollow">https://news.am/en/news/109251</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsByurakan Observatory calls UFOs seen in Armenia &#x27;optical...June 12, 2012 — 12 Jun 2012 — Byurakan Observatory calls UFOs see...</p></details>
    Published: June 12, 2012  
 
 10. <a id="endnote-10"></a>
    Source: armenianexplorer.com  
    Title: a visit to byurakan astrophysical observatory  
-   Link: [https://www.armenianexplorer.com/article/a-visit-to-byurakan-astrophysical-observatory](https://www.armenianexplorer.com/article/a-visit-to-byurakan-astrophysical-observatory)  
+   Link: <a href="https://www.armenianexplorer.com/article/a-visit-to-byurakan-astrophysical-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.armenianexplorer.com/article/a-visit-to-byurakan-astrophysical-observatory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Astrophysical Observatory | Armenian ExplorerBYURAKAN ASTROPHYSICAL OBSERVATORY This article provides a brief overview for those...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: askyerevan.am  
    Title: Byurakan Astrophysical Observatory  
-   Link: [https://askyerevan.am/en/sights/byurakan-observatory](https://askyerevan.am/en/sights/byurakan-observatory)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AskYerevanImage: Byurakan Astrophysical Observatory BYURAKAN ASTROPHYSICAL OBSERVATORY 📍 Location Aragatsotn Province, Byurakan, 0213 🗂️...</p></details>
+   Link: <a href="https://askyerevan.am/en/sights/byurakan-observatory" target="_blank" rel="noopener noreferrer nofollow">https://askyerevan.am/en/sights/byurakan-observatory</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Byurakan Astrophysical Observatory BYURAKAN ASTROPHYSICAL OBSERVATORY 📍 Location Aragatsotn Province, Byurakan, 0213 🗂️...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wikimapia.org  
    Title: Byurakan Astrophysical Observatory  
-   Link: [https://wikimapia.org/32138028/Byurakan-Astrophysical-Observatory](https://wikimapia.org/32138028/Byurakan-Astrophysical-Observatory)  
+   Link: <a href="https://wikimapia.org/32138028/Byurakan-Astrophysical-Observatory" target="_blank" rel="noopener noreferrer nofollow">https://wikimapia.org/32138028/Byurakan-Astrophysical-Observatory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ByurakanByurakan Astrophysical Observatory (Byurakan) Armenia / Aragatsotn / Byurakan museum, observatory, astronomical, astrophysics, sc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: silkroadarmenia.am  
    Title: byurakan observatory  
-   Link: [https://silkroadarmenia.am/byurakan-observatory/](https://silkroadarmenia.am/byurakan-observatory/)  
+   Link: <a href="https://silkroadarmenia.am/byurakan-observatory/" target="_blank" rel="noopener noreferrer nofollow">https://silkroadarmenia.am/byurakan-observatory/</a>  
 
 14. <a id="endnote-14"></a>
    Source: silkroadarmenia.am  
    Title: byurakan observatory  
-   Link: [https://silkroadarmenia.am/byurakan-observatory/?lang=de](https://silkroadarmenia.am/byurakan-observatory/?lang=de)  
+   Link: <a href="https://silkroadarmenia.am/byurakan-observatory/?lang=de" target="_blank" rel="noopener noreferrer nofollow">https://silkroadarmenia.am/byurakan-observatory/?lang=de</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Observatorium | Silk Road ArmeniaBYURAKAN OBSERVATORIUM Image Das Byurakan Astrophysical Observatorium (BAO) wurde 1946 auf Init...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: silkroadarmenia.am  
    Title: Il est sit  
-   Link: [https://silkroadarmenia.am/byurakan-observatory/?lang=fr](https://silkroadarmenia.am/byurakan-observatory/?lang=fr)  
+   Link: <a href="https://silkroadarmenia.am/byurakan-observatory/?lang=fr" target="_blank" rel="noopener noreferrer nofollow">https://silkroadarmenia.am/byurakan-observatory/?lang=fr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Observatory | Silk Road ArmeniaBYURAKAN OBSERVATORY Image L’Observatoire astrophysique de Byurakan (BAO) a été fondé en 1946 par...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: aras.am  
-   Link: [https://www.aras.am/BAO/BAO.html](https://www.aras.am/BAO/BAO.html)  
+   Link: <a href="https://www.aras.am/BAO/BAO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aras.am/BAO/BAO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Astrophysical ObservatoryBYURAKAN ASTROPHYSICAL OBSERVATORY The modern astronomy in Armenia begins with the foundation of the By...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: livetheworld.com  
-   Link: [https://www.livetheworld.com//post/byurakan-observatory-the-universe-from-armenia-5jq2](https://www.livetheworld.com//post/byurakan-observatory-the-universe-from-armenia-5jq2)  
+   Link: <a href="https://www.livetheworld.com//post/byurakan-observatory-the-universe-from-armenia-5jq2" target="_blank" rel="noopener noreferrer nofollow">https://www.livetheworld.com//post/byurakan-observatory-the-universe-from-armenia-5jq2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan observatory: The universe from ArmeniaHere you can not only explore** the universe from Armenia** but will also learn who and ho...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: astrotourism.aras.am  
-   Link: [https://astrotourism.aras.am/sites/modern_observatories.php](https://astrotourism.aras.am/sites/modern_observatories.php)  
+   Link: <a href="https://astrotourism.aras.am/sites/modern_observatories.php" target="_blank" rel="noopener noreferrer nofollow">https://astrotourism.aras.am/sites/modern_observatories.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TourismMODERN OBSERVATORIES ARMENIA BYURAKAN ASTROPHYSICAL OBSERVATORY Byurakan Astrophysical Observatory is a modern astronomical center...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: atlasobscura.com  
    Title: BYURAKAN, ARMENIA Added By Ani Djaferian Image Byurakan observatory. Konstantin  
-   Link: [https://www.atlasobscura.com/places/byurakan-observatory](https://www.atlasobscura.com/places/byurakan-observatory)  
+   Link: <a href="https://www.atlasobscura.com/places/byurakan-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/byurakan-observatory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Observatory in ByurakanAugust 18, 2017 — BYURAKAN OBSERVATORY ARMENIA&#x27;S PREMIER CENTER OF ASTROPHYSICAL RESEARCH WAS ESTABLISHED...</p></details>
    Published: August 18, 2017  
 
 20. <a id="endnote-20"></a>
    Source: horizonweekly.ca  
    Title: the soviet era conference in armenia on communicating with aliens  
-   Link: [https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/](https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/)  
+   Link: <a href="https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The soviet-era conference in Armenia on communicating...4 Aug 2017 — The first major international conference dedicated to communicating...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: armenia-spirit.com  
    Title: Byurakan Observatory: stargazing on Aragats | armenia-spirit.com  
-   Link: [https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/](https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/)  
+   Link: <a href="https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2026 — BYURAKAN OBSERVATORY: STARGAZING ON ARAGATS · Last updated 2026-05-16 Image: Byurakan Observatory: stargazing on Aragats Q...</p></details>
    Published: May 16, 2026  
 
 22. <a id="endnote-22"></a>
    Source: hetq.am  
    Title: The Byurakan Observatory: Armenia’s Scientific Crown Jewel  
-   Link: [https://hetq.am/en/article/86749](https://hetq.am/en/article/86749)  
+   Link: <a href="https://hetq.am/en/article/86749" target="_blank" rel="noopener noreferrer nofollow">https://hetq.am/en/article/86749</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 21, 2018 — Marine Martirosyan Vahe Sarukhanyan 2018-03-21 00:03:00 THE BYURAKAN OBSERVATORY: ARMENIA’S SCIENTIFIC CROWN JEWEL MARIN...</p></details>
    Published: March 21, 2018  
 
 23. <a id="endnote-23"></a>
    Source: allegralaboratory.net  
-   Link: [https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/](https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/)  
+   Link: <a href="https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>entists gathered for the “All-Soviet Conference on Extraterrestrial...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/acisarmenia/posts/year-9-to-11-recently-visited-the-byurakan-astrophysical-observatory-for-an-insp/1972594766919692/](https://www.facebook.com/acisarmenia/posts/year-9-to-11-recently-visited-the-byurakan-astrophysical-observatory-for-an-insp/1972594766919692/)  
+   Link: <a href="https://www.facebook.com/acisarmenia/posts/year-9-to-11-recently-visited-the-byurakan-astrophysical-observatory-for-an-insp/1972594766919692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/acisarmenia/posts/year-9-to-11-recently-visited-the-byurakan-astrophysical-observatory-for-an-insp/1972594766919692/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(1947), more than 1,000 flare stars, dozens of supernovae, hundreds...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: armenianweekly.com  
    Title: armenian observatory transformed into art space  
-   Link: [https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/](https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/)  
+   Link: <a href="https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/" target="_blank" rel="noopener noreferrer nofollow">https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet Armenian Observatory that Held First Conference on...18 Dec 2017 — The Byurakan Astrophysical Observatory (BAO) was founded in 19...</p></details>

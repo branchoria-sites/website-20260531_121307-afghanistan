@@ -1185,7 +1185,7 @@ next_link:
   title: Swiss UFOs
   permalink: /what-is-switzerlands-ufo-record-really/
   short_title: Swiss UFOs
-date: '2026-06-09 01:41:27 '
+date: '2026-06-10 02:08:43 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad-overview-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad-overview.webp
@@ -1234,7 +1234,7 @@ Polonnaruwa stands out for three reasons: witness volume, repeated clustering of
 
 The region also has a separate tourism mythology around Danigala, often called “Alien Mountain” in travel writing because of its circular shape and local UFO rumours. Travel and attraction sites describe Danigala near Aralaganwila in Polonnaruwa district as an unusual semi-circular rock associated with recent UFO-sighting stories, but those pages tend to use the UFO theme as local colour rather than as verified incident reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakpura.com">[Lakpura®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakpura.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is where Sri Lanka’s UFO record needs careful separation. [Polonnaruwa 2002]({{ 'polonnaruwa-wave/' | relative_url }}) is a reported sighting wave. Danigala is a landscape and folklore/tourism node. The 2012 Polonnaruwa meteorite controversy is a separate astrobiology claim, not a classic UFO sighting, though it often gets pulled into the same “aliens in Sri Lanka” conversation.
+This is where Sri Lanka’s UFO record needs careful separation. Polonnaruwa 2002 is a reported sighting wave. Danigala is a landscape and folklore/tourism node. The 2012 Polonnaruwa meteorite controversy is a separate astrobiology claim, not a classic UFO sighting, though it often gets pulled into the same “aliens in Sri Lanka” conversation.
 
 ## The 2004 “doughnut” case: the clearest debunking trail
 
@@ -1307,86 +1307,44 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
 <img src="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-3-dark.svg" | relative_url }}" alt="What Is Sri Lanka&#x27;s UFO Record Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Sri Lanka&#x27;s UFO Record Really Showing?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Sri Lanka&#x27;s UFO Record Really Showing?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps frame recurring witness-based cases and classification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful for comparing official and civilian UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating national UFO records and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Places Sri Lanka&#x27;s smaller archive into a wider international context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1420,75 +1378,71 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-t-shirt-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-t-shirt-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-t-shirt-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-t-shirt-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lankas-ufo-record-really-what-is-sri-lanka-s-ufo-record-really-showing-sri-lanka-ufo-poster-book-books-serie&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1703,218 +1657,218 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Sri Lanka UFO Register no 02"  
-   Link: [https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt](https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
 
 2. <a id="endnote-2"></a>
    Source: archive.roar.media  
    Title: Media Archive Roar Media Archive  
-   Link: [https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings](https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings)  
+   Link: <a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
 
 3. <a id="endnote-3"></a>
    Source: english.lankapuvath.lk  
    Title: Lanka Puvath No evidence to prove UFO sighted in Sri Lanka  
-   Link: [https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/](https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/)  
+   Link: <a href="https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow">https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/</a>  
 
 4. <a id="endnote-4"></a>
    Source: lakpura.com  
-   Link: [https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn](https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn)  
+   Link: <a href="https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn" target="_blank" rel="noopener noreferrer nofollow">https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn</a>  
 
 5. <a id="endnote-5"></a>
    Source: accimt.ac.lk  
    Title: space applications  
-   Link: [https://www.accimt.ac.lk/space-applications/](https://www.accimt.ac.lk/space-applications/)  
+   Link: <a href="https://www.accimt.ac.lk/space-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/space-applications/</a>  
 
 6. <a id="endnote-6"></a>
    Source: accimt.ac.lk  
-   Link: [https://www.accimt.ac.lk/astronomy/](https://www.accimt.ac.lk/astronomy/)  
+   Link: <a href="https://www.accimt.ac.lk/astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/astronomy/</a>  
 
 7. <a id="endnote-7"></a>
    Source: accimt.ac.lk  
    Title: solar radio bursts  
-   Link: [https://www.accimt.ac.lk/solar-radio-bursts/](https://www.accimt.ac.lk/solar-radio-bursts/)  
+   Link: <a href="https://www.accimt.ac.lk/solar-radio-bursts/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/solar-radio-bursts/</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1303.1845](https://arxiv.org/abs/1303.1845)  
+   Link: <a href="https://arxiv.org/abs/1303.1845" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1303.1845</a>  
 
 9. <a id="endnote-9"></a>
    Source: panspermia.org  
    Title: [PDF] Polonnaruwa Stones Revisited – Evidence for Non-Terrestrial Life  
-   Link: [https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf](https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf)  
+   Link: <a href="https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: accimt.ac.lk  
    Title: A Rare Celestial Event: Total Lunar Eclipse Over Sri Lanka  
-   Link: [https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/](https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/)  
+   Link: <a href="https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/</a>  
 
 11. <a id="endnote-11"></a>
    Source: accimt.ac.lk  
    Title: Type III Solar radio burst detected by the CALLISTO system at Arthur  
-   Link: [https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/](https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/)  
+   Link: <a href="https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/</a>  
 
 12. <a id="endnote-12"></a>
    Source: accimt.ac.lk  
-   Link: [https://www.accimt.ac.lk/2021/09/](https://www.accimt.ac.lk/2021/09/)  
+   Link: <a href="https://www.accimt.ac.lk/2021/09/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/2021/09/</a>  
 
 13. <a id="endnote-13"></a>
    Source: panspermia.org  
-   Link: [https://www.panspermia.org/presidentialsupport.pdf](https://www.panspermia.org/presidentialsupport.pdf)  
+   Link: <a href="https://www.panspermia.org/presidentialsupport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.panspermia.org/presidentialsupport.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
    Title: [PDF] THE POLONNARUWA METEORITE: OXYGEN ISOTOPE  
-   Link: [https://arxiv.org/pdf/1303.1845](https://arxiv.org/pdf/1303.1845)  
+   Link: <a href="https://arxiv.org/pdf/1303.1845" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1303.1845</a>  
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
    Title: [PDF] FOSSIL DIATOMS IN A NEW CARBONACEOUS METEORITE  
-   Link: [https://arxiv.org/pdf/1303.2398](https://arxiv.org/pdf/1303.2398)  
+   Link: <a href="https://arxiv.org/pdf/1303.2398" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1303.2398</a>  
 
 16. <a id="endnote-16"></a>
    Source: accimt.ac.lk  
-   Link: [https://www.accimt.ac.lk/](https://www.accimt.ac.lk/)  
+   Link: <a href="https://www.accimt.ac.lk/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/</a>  
 
 17. <a id="endnote-17"></a>
    Source: accimt.ac.lk  
    Title: Category: Slider  
-   Link: [https://www.accimt.ac.lk/category/slider/](https://www.accimt.ac.lk/category/slider/)  
+   Link: <a href="https://www.accimt.ac.lk/category/slider/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/slider/</a>  
 
 18. <a id="endnote-18"></a>
    Source: accimt.ac.lk  
    Title: Category: News and Events  
-   Link: [https://www.accimt.ac.lk/category/blog/](https://www.accimt.ac.lk/category/blog/)  
+   Link: <a href="https://www.accimt.ac.lk/category/blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/blog/</a>  
 
 19. <a id="endnote-19"></a>
    Source: accimt.ac.lk  
-   Link: [https://www.accimt.ac.lk/exoplanets/](https://www.accimt.ac.lk/exoplanets/)  
+   Link: <a href="https://www.accimt.ac.lk/exoplanets/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/exoplanets/</a>  
 
 20. <a id="endnote-20"></a>
    Source: accimt.ac.lk  
-   Link: [https://www.accimt.ac.lk/accimt-space-application-program/](https://www.accimt.ac.lk/accimt-space-application-program/)  
+   Link: <a href="https://www.accimt.ac.lk/accimt-space-application-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/accimt-space-application-program/</a>  
 
 21. <a id="endnote-21"></a>
    Source: accimt.ac.lk  
    Title: boxed homepage  
-   Link: [https://www.accimt.ac.lk/boxed-homepage/](https://www.accimt.ac.lk/boxed-homepage/)  
+   Link: <a href="https://www.accimt.ac.lk/boxed-homepage/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/boxed-homepage/</a>  
 
 22. <a id="endnote-22"></a>
    Source: accimt.ac.lk  
    Title: [PDF] Detecting the disappearing frames of the Baily's beads  
-   Link: [https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf](https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf)  
+   Link: <a href="https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: accimt.ac.lk  
-   Link: [https://www.accimt.ac.lk/timeline/](https://www.accimt.ac.lk/timeline/)  
+   Link: <a href="https://www.accimt.ac.lk/timeline/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/timeline/</a>  
 
 24. <a id="endnote-24"></a>
    Source: accimt.ac.lk  
    Title: Space Consultancies  
-   Link: [https://www.accimt.ac.lk/space-consultancies/](https://www.accimt.ac.lk/space-consultancies/)  
+   Link: <a href="https://www.accimt.ac.lk/space-consultancies/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/space-consultancies/</a>  
 
 25. <a id="endnote-25"></a>
    Source: accimt.ac.lk  
    Title: News and Events – Page 4  
-   Link: [https://www.accimt.ac.lk/category/blog/page/4/](https://www.accimt.ac.lk/category/blog/page/4/)  
+   Link: <a href="https://www.accimt.ac.lk/category/blog/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/blog/page/4/</a>  
 
 26. <a id="endnote-26"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 27. <a id="endnote-27"></a>
    Source: shu.ac.uk  
-   Link: [https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives](https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives)  
+   Link: <a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
 
 28. <a id="endnote-28"></a>
    Source: sundaytimes.lk  
-   Link: [https://www.sundaytimes.lk/981206/plus9.html](https://www.sundaytimes.lk/981206/plus9.html)  
+   Link: <a href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/981206/plus9.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: timesofindia.indiatimes.com  
    Title: The Times of India UFO in Lanka? Clarke says no way  
-   Link: [https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms](https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms</a>  
 
 30. <a id="endnote-30"></a>
    Source: dailymirror.lk  
    Title: Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne  
-   Link: [https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638](https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638)  
+   Link: <a href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638</a>  
 
 31. <a id="endnote-31"></a>
    Source: dailymirror.lk  
    Title: Daily Mirror Frequent influx of purported UFO footage: Professor Jayaratne  
-   Link: [https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360](https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360)  
+   Link: <a href="https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360</a>  
 
 32. <a id="endnote-32"></a>
    Source: sundaytimes.lk  
-   Link: [https://www.sundaytimes.lk/110306/Timestwo/t2_12.html](https://www.sundaytimes.lk/110306/Timestwo/t2_12.html)  
+   Link: <a href="https://www.sundaytimes.lk/110306/Timestwo/t2_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/110306/Timestwo/t2_12.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUADgMRjexY/](https://www.instagram.com/p/DUADgMRjexY/)  
+   Link: <a href="https://www.instagram.com/p/DUADgMRjexY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUADgMRjexY/</a>  
 
 34. <a id="endnote-34"></a>
    Source: dailymirror.lk  
    Title: UF O spotted in several areas: Prof. Jayaratne  
-   Link: [https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590](https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590)  
+   Link: <a href="https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590</a>  
 
 35. <a id="endnote-35"></a>
    Source: x.com  
-   Link: [https://x.com/SriLankaTweet/status/1269629181299773442?lang=en](https://x.com/SriLankaTweet/status/1269629181299773442?lang=en)  
+   Link: <a href="https://x.com/SriLankaTweet/status/1269629181299773442?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SriLankaTweet/status/1269629181299773442?lang=en</a>  
 
 36. <a id="endnote-36"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract](https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Chandra Wickramasinghe  
-   Link: [https://en.wikipedia.org/wiki/Chandra_Wickramasinghe](https://en.wikipedia.org/wiki/Chandra_Wickramasinghe)  
+   Link: <a href="https://en.wikipedia.org/wiki/Chandra_Wickramasinghe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chandra_Wickramasinghe</a>  
 
 38. <a id="endnote-38"></a>
    Source: sundaytimes.lk  
-   Link: [https://www.sundaytimes.lk/980510/plusm.html](https://www.sundaytimes.lk/980510/plusm.html)  
+   Link: <a href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980510/plusm.html</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Did Aliens Leave This Behind in Sri Lanka? | Ancient Aliens  
-   Link: [https://www.youtube.com/watch?v=43LJLvMov_g](https://www.youtube.com/watch?v=43LJLvMov_g)  
+   Link: <a href="https://www.youtube.com/watch?v=43LJLvMov_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43LJLvMov_g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Danigala Circular Rock | Alien Mountain | Polonnaruwa  
-   Link: [https://www.youtube.com/watch?v=9EmNlmC5Czk](https://www.youtube.com/watch?v=9EmNlmC5Czk)  
+   Link: <a href="https://www.youtube.com/watch?v=9EmNlmC5Czk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EmNlmC5Czk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO named &#x27;WTF&#x27; to bash the Indian Ocean | European Space Agency...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: most.gov.lk  
-   Link: [https://most.gov.lk/web/index.php?Itemid=107&catid=9&id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&lang=en&option=com_content&view=article](https://most.gov.lk/web/index.php?Itemid=107&catid=9&id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&lang=en&option=com_content&view=article)  
+   Link: <a href="https://most.gov.lk/web/index.php?Itemid=107&amp;catid=9&amp;id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&amp;lang=en&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://most.gov.lk/web/index.php?Itemid=107&amp;catid=9&amp;id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&amp;lang=en&amp;option=com_content&amp;view=article</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/](https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/)  
+   Link: <a href="https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/858531771724167/posts/1973637153546951/](https://www.facebook.com/groups/858531771724167/posts/1973637153546951/)  
+   Link: <a href="https://www.facebook.com/groups/858531771724167/posts/1973637153546951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/858531771724167/posts/1973637153546951/</a>  
 
 44. <a id="endnote-44"></a>
    Source: fantasiatours.com  
-   Link: [https://www.fantasiatours.com/activities/view-detailed-activity/335](https://www.fantasiatours.com/activities/view-detailed-activity/335)  
+   Link: <a href="https://www.fantasiatours.com/activities/view-detailed-activity/335" target="_blank" rel="noopener noreferrer nofollow">https://www.fantasiatours.com/activities/view-detailed-activity/335</a>  
 
 45. <a id="endnote-45"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUADwITDJ0e/](https://www.instagram.com/p/DUADwITDJ0e/)  
+   Link: <a href="https://www.instagram.com/p/DUADwITDJ0e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUADwITDJ0e/</a>  
 
 46. <a id="endnote-46"></a>
    Source: travelblog.org  
-   Link: [https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619](https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619)  
+   Link: <a href="https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619" target="_blank" rel="noopener noreferrer nofollow">https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/277933739075780/posts/820400364829112/](https://www.facebook.com/groups/277933739075780/posts/820400364829112/)  
+   Link: <a href="https://www.facebook.com/groups/277933739075780/posts/820400364829112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/277933739075780/posts/820400364829112/</a>  
 
 48. <a id="endnote-48"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439](https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439)  
+   Link: <a href="https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439</a>  

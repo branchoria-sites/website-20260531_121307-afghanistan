@@ -239,7 +239,7 @@ prev_link:
   permalink: /sightings-gap/
   short_title: Sightings Gap
   heading_title: Why Are There So Few Recorded UFO Reports?
-date: '2026-06-09 01:33:30 '
+date: '2026-06-10 01:59:06 '
 header:
   og_image: /assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration
 
 ## Introduction
 
-The Richat Structure, often called the “Eye of the Sahara” or “Eye of Africa”, is one of [Mauritania]({{ 'why-are-mauritanias-ufo-records-so/' | relative_url }})’s most recognisable landmarks. Visible from space as a vast set of concentric rings in the Adrar region, it has become a recurring subject in UFO culture, ancient-civilisation theories, and online speculation about extraterrestrial intervention. Yet despite its prominence in mystery-focused media, the scientific explanation for the formation is well established: geologists identify it as a deeply eroded geological dome shaped by uplift, igneous activity, and millions of years of erosion rather than any artificial or extraterrestrial process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Richat Structure in Mauritania</span><span class="citation-popover-snippet">NASA ScienceRichat Structure in Mauritania - Earth ObservatoryAlthough it resembles an impact crater, the RichatStructure formed when a v...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/richat-structure-mauritania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-space.europa.eu">[EU Space Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-space.europa.eu</span><span class="citation-popover-snippet">EU Space PolicyThe Richat Structure, Mauritania | EU Space PolicyOnce believed to be an impact crater, it is now recognised as a deeply e...</span></span></span>
+The Richat Structure, often called the “Eye of the Sahara” or “Eye of Africa”, is one of Mauritania’s most recognisable landmarks. Visible from space as a vast set of concentric rings in the Adrar region, it has become a recurring subject in UFO culture, ancient-civilisation theories, and online speculation about extraterrestrial intervention. Yet despite its prominence in mystery-focused media, the scientific explanation for the formation is well established: geologists identify it as a deeply eroded geological dome shaped by uplift, igneous activity, and millions of years of erosion rather than any artificial or extraterrestrial process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Richat Structure in Mauritania</span><span class="citation-popover-snippet">NASA ScienceRichat Structure in Mauritania - Earth ObservatoryAlthough it resembles an impact crater, the RichatStructure formed when a v...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/richat-structure-mauritania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-space.europa.eu">[EU Space Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-space.europa.eu</span><span class="citation-popover-snippet">EU Space PolicyThe Richat Structure, Mauritania &#124; EU Space PolicyOnce believed to be an impact crater, it is now recognised as a deeply e...</span></span></span>
 
 
 <img src="{{ "/assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-1-dark.svg" | relative_url }}" alt="The Richat Structure, Often Called The “Eye Of The Sahara” Or “Eye... illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ The Richat Structure occupies an unusual place in Mauritania’s UFO-related fol
 
 ## Why the Eye of the Sahara Looks Unnatural
 
-The Richat Structure sits in north-western Mauritania near Ouadane and spans roughly 40–50 kilometres in diameter. From the ground it appears as a series of ridges and depressions, but from aircraft and satellites it resembles a giant eye or target pattern carved into the desert. Astronauts have used it as a visual landmark since the earliest space missions because of its distinctive shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Applications/Observing_the_Earth/The_Richat_structure_Mauritania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - The Richat structure, Mauritania12 Nov 2004 — The 50-km-diameter circular Richat structure is one of those geo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Richat-Structure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Richat Structure</span><span class="citation-popover-snippet">Encyclopedia BritannicaRichat Structure | Photos, Size, Artifacts, &amp; ElevationNov 22, 2024 — The Richat Structure is a large geographic f...</span></span></span>
+The Richat Structure sits in north-western Mauritania near Ouadane and spans roughly 40–50 kilometres in diameter. From the ground it appears as a series of ridges and depressions, but from aircraft and satellites it resembles a giant eye or target pattern carved into the desert. Astronauts have used it as a visual landmark since the earliest space missions because of its distinctive shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Applications/Observing_the_Earth/The_Richat_structure_Mauritania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - The Richat structure, Mauritania12 Nov 2004 — The 50-km-diameter circular Richat structure is one of those geo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Richat-Structure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Richat Structure</span><span class="citation-popover-snippet">Encyclopedia BritannicaRichat Structure &#124; Photos, Size, Artifacts, &amp; ElevationNov 22, 2024 — The Richat Structure is a large geographic f...</span></span></span>
 
 Several features make the formation especially attractive to mystery narratives:
 
@@ -313,7 +313,7 @@ The Atlantis narrative frequently overlaps with UFO mythology in several ways:
 
 This blending of themes is important because it shifts the discussion from geology into a broader mythology that combines archaeology, pseudohistory, and extraterrestrial speculation.
 
-However, critics note a major evidential problem: there is no archaeological evidence demonstrating that a large urban civilisation existed within the Richat Structure in the manner described by Atlantis theories. Researchers examining the area have identified prehistoric artefacts and evidence of human activity, but not remains of an advanced lost city. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geographical.co.uk/science-environment/phenomena-the-eye-of-the-sahara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geographical.co.uk">[Geographical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geographical.co.uk</span><span class="citation-popover-title">Geographical Phenomena: The Eye of the Sahara</span><span class="citation-popover-snippet">GeographicalPhenomena: The Eye of the Sahara - GeographicalFeb 21, 2024 — Beyond its geological wonders, the Richat Structure holds... c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthlymission.com/eye-of-the-sahara-richat-structure-lost-city-of-atlantis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthlymission.com">[Earthly Mission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthlymission.com</span><span class="citation-popover-snippet">Could the &#x27;Eye of the Sahara&#x27; Be the Lost City of Atlantis?Most importantly, there is absolutely no archaeological evidence of a city in...</span></span></span>
+However, critics note a major evidential problem: there is no archaeological evidence demonstrating that a large urban civilisation existed within the Richat Structure in the manner described by Atlantis theories. Researchers examining the area have identified prehistoric artefacts and evidence of human activity, but not remains of an advanced lost city. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geographical.co.uk/science-environment/phenomena-the-eye-of-the-sahara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geographical.co.uk">[Geographical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geographical.co.uk</span><span class="citation-popover-title">Geographical Phenomena: The Eye of the Sahara</span><span class="citation-popover-snippet">Phenomena: The Eye of the Sahara - GeographicalFeb 21, 2024 — Beyond its geological wonders, the Richat Structure holds... c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthlymission.com/eye-of-the-sahara-richat-structure-lost-city-of-atlantis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthlymission.com">[Earthly Mission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthlymission.com</span><span class="citation-popover-snippet">Could the &#x27;Eye of the Sahara&#x27; Be the Lost City of Atlantis?Most importantly, there is absolutely no archaeological evidence of a city in...</span></span></span>
 
 
 <img src="{{ "/assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-2-dark.svg" | relative_url }}" alt="The Richat Structure, Often Called The “Eye Of The Sahara” Or “Eye... illustration 2" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35_richat_structure_ufo_7da1db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -389,89 +389,47 @@ The Eye of the Sahara occupies a symbolic role in discussions of unexplained phe
 
 Yet the site's real significance may be the opposite of what many UFO theories suggest. Rather than demonstrating evidence of extraterrestrial intervention, the Richat Structure shows how easily extraordinary natural geology can be transformed into mythology. Its concentric rings are genuine, unusual, and visually spectacular—but the available evidence points to deep geological time, not alien engineering.
 
-In that sense, the Richat Structure serves as one of the clearest examples within Mauritania of the gap between mystery-driven interpretation and evidence-based explanation. The formation remains remarkable precisely because nature produced something that appears, at first glance, too extraordinary to be natural. Yet decades of geological investigation have consistently reinforced the conclusion that the Eye of the Sahara is a product of Earth's own history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Richat Structure in Mauritania</span><span class="citation-popover-snippet">NASA ScienceRichat Structure in Mauritania - Earth ObservatoryAlthough it resembles an impact crater, the RichatStructure formed when a v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X14000971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe “eye of Africa” (Richat dome, Mauritania): An isolated...by G Matton · 2014 · Cited by 28 — The Richat complex appears...</span></span></span>
+In that sense, the Richat Structure serves as one of the clearest examples within Mauritania of the gap between mystery-driven interpretation and evidence-based explanation. The formation remains remarkable precisely because nature produced something that appears, at first glance, too extraordinary to be natural. Yet decades of geological investigation have consistently reinforced the conclusion that the Eye of the Sahara is a product of Earth's own history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Richat Structure in Mauritania</span><span class="citation-popover-snippet">NASA ScienceRichat Structure in Mauritania - Earth ObservatoryAlthough it resembles an impact crater, the RichatStructure formed when a v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X14000971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The “eye of Africa” (Richat dome, Mauritania): An isolated...by G Matton · 2014 · Cited by 28 — The Richat complex appears...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Does the Eye of the Sahara Inspire UFO Theories?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Does the Eye of the Sahara Inspire UFO Theories?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a contrast between evidence-based UFO investigation and speculative interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
-        
-        <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Magicians+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magicians of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10219666-M.jpg" alt="Cover for Magicians of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Magicians+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magicians of the gods">Magicians of the gods</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
-        
-        <p class="fr-book-desc">First published 2015. Subjects: Comets, Lost continents, Collisions with Earth, Ancient Civilization, Civilization, ancient.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Magicians+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Magicians+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magicians of the gods</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -505,75 +463,71 @@ In that sense, the Richat Structure serves as one of the clearest examples withi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-richat-structure-often-called-the-why-does-the-eye-of-the-sahara-inspire-ufo-theories-maurit-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -788,160 +742,160 @@ In that sense, the Richat Structure serves as one of the clearest examples withi
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Richat Structure in Mauritania  
-   Link: [https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/](https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/richat-structure-in-mauritania-2861/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceRichat Structure in Mauritania - Earth ObservatoryAlthough it resembles an impact crater, the RichatStructure formed when a v...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How old is the Eye of Africa?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0024493724002111](https://www.sciencedirect.com/science/article/pii/S0024493724002111)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0024493724002111" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0024493724002111</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A polyphase history...by F Jourdan · 2024 · Cited by 2 — The annular Richat Structure, in Mauritania, is among the most striking geologi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: Richat Structure  
-   Link: [https://www.britannica.com/place/Richat-Structure](https://www.britannica.com/place/Richat-Structure)  
+   Link: <a href="https://www.britannica.com/place/Richat-Structure" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Richat-Structure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRichat Structure | Photos, Size, Artifacts, &amp; ElevationNov 22, 2024 — The Richat Structure is a large geographic f...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/earth/earth-observatory/richat-structure-92071/](https://science.nasa.gov/earth/earth-observatory/richat-structure-92071/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/richat-structure-92071/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/richat-structure-92071/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceRichat StructureThis circular geologic feature is thought to be caused by an uplifted dome—geologists would classify it as a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: discoveryuk.com  
-   Link: [https://www.discoveryuk.com/mysteries/the-eye-of-the-sahara-richat-structure-and-the-atlantis-mystery/](https://www.discoveryuk.com/mysteries/the-eye-of-the-sahara-richat-structure-and-the-atlantis-mystery/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-eye-of-the-sahara-richat-structure-and-the-atlantis-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-eye-of-the-sahara-richat-structure-and-the-atlantis-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKThe Eye of the Sahara: Richat Structure and the Atlantis...26 Mar 2026 — Instead, the evidence was more benign, it was an up...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Sources and Literary Form of Plato's Atlantis Narrative, in: Edwin S.Read more  
-   Link: [https://en.wikipedia.org/wiki/Proposed_locations_for_Atlantis](https://en.wikipedia.org/wiki/Proposed_locations_for_Atlantis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Proposed_locations_for_Atlantis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proposed_locations_for_Atlantis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed locations for AtlantisMarch 5, 2026 — The Richat Structure in Mauritania has also been proposed as the site of Atlantis...</p></details>
    Published: March 5, 2026  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1464343X14000971](https://www.sciencedirect.com/science/article/abs/pii/S1464343X14000971)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe “eye of Africa” (Richat dome, Mauritania): An isolated...by G Matton · 2014 · Cited by 28 — The Richat complex appears...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X14000971" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1464343X14000971</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The “eye of Africa” (Richat dome, Mauritania): An isolated...by G Matton · 2014 · Cited by 28 — The Richat complex appears...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: eyeing the richat structure  
-   Link: [https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/](https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Richat StructureApr 16, 2026 — The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Richat Structure  
-   Link: [https://en.wikipedia.org/wiki/Richat_Structure](https://en.wikipedia.org/wiki/Richat_Structure)  
+   Link: <a href="https://en.wikipedia.org/wiki/Richat_Structure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richat_Structure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richat StructureIt is an eroded geological dome, 40 kilometres (25 mi) in diameter caused by a subsurface igneous intrusion deforming...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: eu-space.europa.eu  
-   Link: [https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/richat-structure-mauritania](https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/richat-structure-mauritania)  
+   Link: <a href="https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/richat-structure-mauritania" target="_blank" rel="noopener noreferrer nofollow">https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/richat-structure-mauritania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Space PolicyThe Richat Structure, Mauritania | EU Space PolicyOnce believed to be an impact crater, it is now recognised as a deeply e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/Applications/Observing_the_Earth/The_Richat_structure_Mauritania](https://www.esa.int/Applications/Observing_the_Earth/The_Richat_structure_Mauritania)  
+   Link: <a href="https://www.esa.int/Applications/Observing_the_Earth/The_Richat_structure_Mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Applications/Observing_the_Earth/The_Richat_structure_Mauritania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - The Richat structure, Mauritania12 Nov 2004 — The 50-km-diameter circular Richat structure is one of those geo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wildmanlife.com  
-   Link: [https://www.wildmanlife.com/eye-of-the-sahara-geology-guelb-er-richat/](https://www.wildmanlife.com/eye-of-the-sahara-geology-guelb-er-richat/)  
+   Link: <a href="https://www.wildmanlife.com/eye-of-the-sahara-geology-guelb-er-richat/" target="_blank" rel="noopener noreferrer nofollow">https://www.wildmanlife.com/eye-of-the-sahara-geology-guelb-er-richat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wild Man LifeThe Eye of the Sahara: the Geology of Guelb er RichatJan 7, 2026 — The Eye of the Sahara, or Guelb er Richat, is a massive e...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/ESA_Multimedia/Images/2026/04/Richat_structure_Mauritania](https://www.esa.int/ESA_Multimedia/Images/2026/04/Richat_structure_Mauritania)  
+   Link: <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Richat_structure_Mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Images/2026/04/Richat_structure_Mauritania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Richat structure, MauritaniaThe Eye of the Sahara is now thought to be an eroded geological dome, sculpted by...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: usgs.gov  
    Title: richat structure  
-   Link: [https://www.usgs.gov/media/images/richat-structure](https://www.usgs.gov/media/images/richat-structure)  
+   Link: <a href="https://www.usgs.gov/media/images/richat-structure" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/images/richat-structure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Geological Survey1 Jan 2001 — Detailed Description. The so-called Richat Structure is a geological formation in the Maur Adrar Deser...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: earthlymission.com  
-   Link: [https://earthlymission.com/eye-of-the-sahara-richat-structure-lost-city-of-atlantis/](https://earthlymission.com/eye-of-the-sahara-richat-structure-lost-city-of-atlantis/)  
+   Link: <a href="https://earthlymission.com/eye-of-the-sahara-richat-structure-lost-city-of-atlantis/" target="_blank" rel="noopener noreferrer nofollow">https://earthlymission.com/eye-of-the-sahara-richat-structure-lost-city-of-atlantis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Could the &#x27;Eye of the Sahara&#x27; Be the Lost City of Atlantis?Most importantly, there is absolutely no archaeological evidence of a city in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: geographical.co.uk  
    Title: Geographical Phenomena: The Eye of the Sahara  
-   Link: [https://geographical.co.uk/science-environment/phenomena-the-eye-of-the-sahara](https://geographical.co.uk/science-environment/phenomena-the-eye-of-the-sahara)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeographicalPhenomena: The Eye of the Sahara - GeographicalFeb 21, 2024 — Beyond its geological wonders, the Richat Structure holds... c...</p></details>
+   Link: <a href="https://geographical.co.uk/science-environment/phenomena-the-eye-of-the-sahara" target="_blank" rel="noopener noreferrer nofollow">https://geographical.co.uk/science-environment/phenomena-the-eye-of-the-sahara</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phenomena: The Eye of the Sahara - GeographicalFeb 21, 2024 — Beyond its geological wonders, the Richat Structure holds... c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: geologyin.com  
-   Link: [https://www.geologyin.com/2022/11/richat-structure-geological-wonder-in.html](https://www.geologyin.com/2022/11/richat-structure-geological-wonder-in.html)  
+   Link: <a href="https://www.geologyin.com/2022/11/richat-structure-geological-wonder-in.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geologyin.com/2022/11/richat-structure-geological-wonder-in.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eye of The Sahara: Richat StructureThe Richat Structure is a deeply eroded dome that exposes layers of sedimentary rocks that are up...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/media/images/richat-structure-mauritania](https://www.usgs.gov/media/images/richat-structure-mauritania)  
+   Link: <a href="https://www.usgs.gov/media/images/richat-structure-mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/images/richat-structure-mauritania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richat Structure, Mauritania | U.S. Geological SurveyThe Eye of the Sahara, also known as the Richat Structure or Guelb er Richat, is a s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: the Richat Structure  
-   Link: [https://www.instagram.com/p/DWu0JNLDkCQ/](https://www.instagram.com/p/DWu0JNLDkCQ/)  
+   Link: <a href="https://www.instagram.com/p/DWu0JNLDkCQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWu0JNLDkCQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Also known as the Eye of the Sahara...This massive circular formation sits deep in the Sahara Desert in Mauritania. It stretches about 4...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: cotswoldoutdoor.com  
-   Link: [https://www.cotswoldoutdoor.com/the-eye-of-the-sahara.html](https://www.cotswoldoutdoor.com/the-eye-of-the-sahara.html)  
+   Link: <a href="https://www.cotswoldoutdoor.com/the-eye-of-the-sahara.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswoldoutdoor.com/the-eye-of-the-sahara.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eye of the SaharaWhile the Richat Structure is primarily composed of sedimentary rocks, there is evidence of igneous activity and hyd...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/geology/comments/1my0qkg/eye_of_the_sahara_unique_geological_formation_in/](https://www.reddit.com/r/geology/comments/1my0qkg/eye_of_the_sahara_unique_geological_formation_in/)  
+   Link: <a href="https://www.reddit.com/r/geology/comments/1my0qkg/eye_of_the_sahara_unique_geological_formation_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1my0qkg/eye_of_the_sahara_unique_geological_formation_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye of the Sahara, unique geological formation in MauritaniaKnown as the Richat Structure, it is located in the vast Sahara Desert in Mau...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/149844915349213/posts/2439464973053851/](https://www.facebook.com/groups/149844915349213/posts/2439464973053851/)  
+   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2439464973053851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2439464973053851/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Richat Structure: A Geological Formation, Not AtlantisThe mystery of the Richat Structure has finally been solved... and it&#x27;s not Atl...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: piatraonline.com  
    Title: discover the natural stone wonders richat structure or the eye of the sahara  
-   Link: [https://www.piatraonline.com/blog/discover-the-natural-stone-wonders-richat-structure-or-the-eye-of-the-sahara](https://www.piatraonline.com/blog/discover-the-natural-stone-wonders-richat-structure-or-the-eye-of-the-sahara)  
+   Link: <a href="https://www.piatraonline.com/blog/discover-the-natural-stone-wonders-richat-structure-or-the-eye-of-the-sahara" target="_blank" rel="noopener noreferrer nofollow">https://www.piatraonline.com/blog/discover-the-natural-stone-wonders-richat-structure-or-the-eye-of-the-sahara</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover the Natural Stone Wonders: Richat Structure or...Nov 14, 2023 — The &#x27;Richat&#x27; structure, the name by which the &#x27;eye&#x27; is known in...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iuZpxQg3LII](https://www.youtube.com/watch?v=iuZpxQg3LII)  
+   Link: <a href="https://www.youtube.com/watch?v=iuZpxQg3LII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iuZpxQg3LII</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Mysteries of the Richat StructureDiscover the Mysteries of the Eye of the Sahara! 👁️ In this video, we delve into the enigm...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CopernicusEU/posts/%EF%B8%8F-the-richat-structure-a-striking-circular-geological-formation-in-the-sahara-de/1234485962053713/](https://www.facebook.com/CopernicusEU/posts/%EF%B8%8F-the-richat-structure-a-striking-circular-geological-formation-in-the-sahara-de/1234485962053713/)  
+   Link: <a href="https://www.facebook.com/CopernicusEU/posts/%EF%B8%8F-the-richat-structure-a-striking-circular-geological-formation-in-the-sahara-de/1234485962053713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CopernicusEU/posts/%EF%B8%8F-the-richat-structure-a-striking-circular-geological-formation-in-the-sahara-de/1234485962053713/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ded geological dome located in the Adrar Plateau of Mauritania.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Evidence From The Ground That The Richat Structure Is Atlantis  
-   Link: [http://www.youtube.com/watch?v=b4mv9znfJkE](http://www.youtube.com/watch?v=b4mv9znfJkE)  
+   Link: <a href="http://www.youtube.com/watch?v=b4mv9znfJkE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=b4mv9znfJkE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Randall Carlson clip on the Richat Structure breaks down the mainstream scientific evaluation of the landmark, explaining how geolog...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40leemcqueen3/yes-the-richat-structure-was-the-central-city-of-atlantis-91022a15e600](https://medium.com/%40leemcqueen3/yes-the-richat-structure-was-the-central-city-of-atlantis-91022a15e600)  
+   Link: <a href="https://medium.com/%40leemcqueen3/yes-the-richat-structure-was-the-central-city-of-atlantis-91022a15e600" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40leemcqueen3/yes-the-richat-structure-was-the-central-city-of-atlantis-91022a15e600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ose as a dome from underground about 100 million years ago.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mapy.com  
-   Link: [https://mapy.com/en/?id=1230536553&source=osm](https://mapy.com/en/?id=1230536553&source=osm)  
+   Link: <a href="https://mapy.com/en/?id=1230536553&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=1230536553&amp;source=osm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a circular geological formation approximately 50 km...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DM28n9IPbkl/?hl=en-gb](https://www.instagram.com/reel/DM28n9IPbkl/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DM28n9IPbkl/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM28n9IPbkl/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richat Structure measures forty kilometers across with perfect...</p></details>

@@ -239,7 +239,7 @@ prev_link:
   permalink: /regional-patterns-00386e/
   short_title: Regional Patterns
   heading_title: How Geography Shapes UFO Sightings in Guyana
-date: '2026-06-09 01:28:42 '
+date: '2026-06-10 01:53:40 '
 header:
   og_image: /assets/images/Guyana_bc88a2_guyana_ufo_chronolog_632d7e-Illustration-1-social.jpg
   preview_image: /assets/images/Guyana_bc88a2_guyana_ufo_chronolog_632d7e-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Guyana_bc88a2_guyana_ufo_chronolog_632d7e-Illustration-1-s
 
 ## Introduction
 
-This chronology organises the known reports of unidentified flying object (UFO) sightings and related encounters within **[Guyana]({{ 'what-we-know-about-ufo-sightings-in/' | relative_url }})’s national context**, drawing primarily on publicly accessible databases such as the **National UFO Reporting Center (NUFORC)** and available news coverage. Over several decades, witnesses from interior river regions to urban Georgetown have described luminous objects, unusual aerial manoeuvres, and other anomalous phenomena. The record is **sparse and uneven**, with incidents typically remaining unverified and lacking official investigation data, but nonetheless offers a diachronic view of how such claims have emerged in different settings across the country.[thephenomenon.app]
+This chronology organises the known reports of unidentified flying object (UFO) sightings and related encounters within **Guyana’s national context**, drawing primarily on publicly accessible databases such as the **National UFO Reporting Center (NUFORC)** and available news coverage. Over several decades, witnesses from interior river regions to urban Georgetown have described luminous objects, unusual aerial manoeuvres, and other anomalous phenomena. The record is **sparse and uneven**, with incidents typically remaining unverified and lacking official investigation data, but nonetheless offers a diachronic view of how such claims have emerged in different settings across the country.[thephenomenon.app]
 
 
 <img src="{{ "/assets/images/Guyana_bc88a2_guyana_ufo_chronolog_632d7e-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_guyana_ufo_chronolog_632d7e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_guyana_ufo_chronolog_632d7e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -307,86 +307,44 @@ Across decades of reports, several patterns emerge:
 The chronology of reported UFO sightings in Guyana remains limited in number and depth but reflects a longitudinal pattern of civilian reports spanning inland rivers, rural sky events, and urban environments. From the interior New River report in 1971 to the Georgetown photographic account of 2012 and the Port Kaituma curiosity in 2016, the evidence base consists predominantly of witness narratives rather than corroborated sensor or investigative data. Each case contributes to the broader portrait of how aerial anomalies are perceived and recorded within the country, but none stands as independently confirmed beyond witness testimony within the available public record.[thephenomenon.app]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Chronology of UFO Sightings Across Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Chronology of UFO Sightings Across Guyana, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains patterns and categories found across sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides notable documented cases that help contextualise national sighting histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Places reported sightings within a broader historical tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Provides a wider historical framework for understanding national UFO chronologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -420,75 +378,71 @@ The chronology of reported UFO sightings in Guyana remains limited in number and
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-chronology-of-ufo-sightings-across-guyana-guyana-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -703,76 +657,76 @@ The chronology of reported UFO sightings in Guyana remains limited in number and
 1. <a id="endnote-1"></a>
    Source: thephenomenon.app  
    Title: The Phenomenon | Guyana  
-   Link: [https://thephenomenon.app/guyana/](https://thephenomenon.app/guyana/)  
+   Link: <a href="https://thephenomenon.app/guyana/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/guyana/</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Highlighted NUFORC Reports  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| 02/10/2016 05:15 | Lebanon | OR | USA | Orb | Large circular craft flew silently over man walking his dog. | 02/11/2016 | Y | Open! |...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>02/10/2016 05:15 | Lebanon | OR | USA | Orb | Large circular craft flew silently over man walking his dog. | 02/11/2016 | Y | Open! |...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/2016posts/](https://nuforc.org/2016posts/)  
+   Link: <a href="https://nuforc.org/2016posts/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2016posts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2016 Posts | NUFORCDecember 31, 2016 — 2016 POSTS * December 31, 2016 Compendium of all posts from 2016 NUFORC HOMEPAGE UPDATED ON FRIDAY...</p></details>
    Published: December 31, 2016  
 
 5. <a id="endnote-5"></a>
    Source: thephenomenon.app  
    Title: Port-of-Spain (Trinidad/Tobago), Trinidad and Tobago Diamond [Button: View  
-   Link: [https://thephenomenon.app/trinidad-and-tobago/](https://thephenomenon.app/trinidad-and-tobago/)  
+   Link: <a href="https://thephenomenon.app/trinidad-and-tobago/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/trinidad-and-tobago/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Trinidad and TobagoApril 21, 2014 — 03.06.2013 NUFORC_96561 Strange glowing diamond-shaped object seen in night sky over...</p></details>
    Published: April 21, 2014  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=95513](https://nuforc.org/sighting/?id=95513)  
+   Link: <a href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=95513</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 95513February 4, 2013 — NUFORC UFO SIGHTING 95513 Occurred: 2012-12-24 18:45 Local Reported: 2012-12-25 20:55 Pacific...</p></details>
    Published: December 24, 2012  
 
 7. <a id="endnote-7"></a>
    Source: thephenomenon.app  
-   Link: [https://thephenomenon.app/jamaica/](https://thephenomenon.app/jamaica/)  
+   Link: <a href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/jamaica/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Jamaica[Button: View Details] NUFORC_105973 NUFORC UFO Sighting 105973 Occurred: 2013-12-12 21:00 Local - Approximate Re...</p></details>
    Published: December 12, 2013  
 
 8. <a id="endnote-8"></a>
    Source: thephenomenon.app  
    Title: Caribbean Sea (Curacao), Curacao Sphere [Button: View  
-   Link: [https://thephenomenon.app/caribbean-sea/](https://thephenomenon.app/caribbean-sea/)  
+   Link: <a href="https://thephenomenon.app/caribbean-sea/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/caribbean-sea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Caribbean Sea04.07.2012 NUFORC_149759 A bright orange-red sphere, like Sun, raised above the ocean, stayed on 5 degrees...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: stabroeknews.com  
    Title: Stabroek News GDF probing sighting of mystery plane over Port Kaituma  
-   Link: [https://www.stabroeknews.com/2016/11/02/news/guyana/gdf-probing-sighting-mystery-plane-port-kaituma/?noamp=mobile](https://www.stabroeknews.com/2016/11/02/news/guyana/gdf-probing-sighting-mystery-plane-port-kaituma/?noamp=mobile)  
+   Link: <a href="https://www.stabroeknews.com/2016/11/02/news/guyana/gdf-probing-sighting-mystery-plane-port-kaituma/?noamp=mobile" target="_blank" rel="noopener noreferrer nofollow">https://www.stabroeknews.com/2016/11/02/news/guyana/gdf-probing-sighting-mystery-plane-port-kaituma/?noamp=mobile</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stabroek NewsGDF probing sighting of mystery plane over Port Kaituma - Stabroek NewsNovember 2, 2016...</p></details>
    Published: November 2, 2016  
 
 10. <a id="endnote-10"></a>
    Source: stabroeknews.com  
    Title: Stabroek News Mystery aircraft causes concern at Port Kaituma  
-   Link: [https://www.stabroeknews.com/2016/11/01/news/guyana/mystery-aircraft-causes-concern-port-kaituma/](https://www.stabroeknews.com/2016/11/01/news/guyana/mystery-aircraft-causes-concern-port-kaituma/)  
+   Link: <a href="https://www.stabroeknews.com/2016/11/01/news/guyana/mystery-aircraft-causes-concern-port-kaituma/" target="_blank" rel="noopener noreferrer nofollow">https://www.stabroeknews.com/2016/11/01/news/guyana/mystery-aircraft-causes-concern-port-kaituma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery aircraft causes concern at Port Kaituma - Stabroek NewsNovember 1, 2016 — Guyana News MYSTERY AIRCRAFT CAUSES CONCERN AT PORT KAI...</p></details>
    Published: November 1, 2016  
 
 11. <a id="endnote-11"></a>
    Source: suanchinyeo.github.io  
    Title: UFO REPORTS OVER TIME Reports of UFO sightings increased dramatically around  
-   Link: [https://suanchinyeo.github.io/2018-07-02/ufo2](https://suanchinyeo.github.io/2018-07-02/ufo2)  
+   Link: <a href="https://suanchinyeo.github.io/2018-07-02/ufo2" target="_blank" rel="noopener noreferrer nofollow">https://suanchinyeo.github.io/2018-07-02/ufo2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO sighting reports, Part II: Exploratory Data visualisations · suanchinyeoJuly 2, 2018 — All visualizations produced with Seabor...</p></details>
    Published: July 2, 2018  
 
 12. <a id="endnote-12"></a>
    Source: ufo-hunters.com  
-   Link: [https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006](https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006)  
+   Link: <a href="https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and growing GUYANA Sighted on Friday 24. February 2006 Reported on Friday 03. March 2006 Shape: C...</p></details>
    Published: February 2006  
 
@@ -780,57 +734,57 @@ The chronology of reported UFO sightings in Guyana remains limited in number and
 
 13. <a id="endnote-13"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-55426](https://sentientorbs.com/explore/sightings/NUFORC-55426)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Sentient OrbsFebruary 24, 2007 — A UFO WHICH CAME TO A SUDDEN STOP OVER THE CITY WITHOUT TURNING, WENT THE OPPOSITE DIRECTION. EVENT DA...</p></details>
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-55426" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-55426</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsFebruary 24, 2007 — A UFO WHICH CAME TO A SUDDEN STOP OVER THE CITY WITHOUT TURNING, WENT THE OPPOSITE DIRECTION. EVENT DA...</p></details>
    Published: February 24, 2007  
 
 14. <a id="endnote-14"></a>
    Source: ufot.tech  
-   Link: [https://www.ufot.tech/](https://www.ufot.tech/)  
+   Link: <a href="https://www.ufot.tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufot.tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Tracker — Live NUFORC Sighting MapNUFORC +− Image: UFO TrackerUFO Tracker 6,000 sightings shown Shape[Select] Country[Select] Year Ra...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blog.seniorennet.be  
-   Link: [https://www.blog.seniorennet.be/peter2011/archief.php?ID=1359318](https://www.blog.seniorennet.be/peter2011/archief.php?ID=1359318)  
+   Link: <a href="https://www.blog.seniorennet.be/peter2011/archief.php?ID=1359318" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.seniorennet.be/peter2011/archief.php?ID=1359318</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART, ARCHEOLOGIE, OUDHEIDKUNDE, SF-SNUFJES EN ANDERE ESOTERISCHE WETENSCHAPPEN - DE ALL...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ufotimelineproject.com  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: Alien nation: Mo D releases final UFO files | Ministry of Defence | The Guardian  
-   Link: [https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files](https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files)  
+   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph: National Archives/PA A letter from a schoolchild in Altrincham, released with the MoD&#x27;s UFO files. Photograp...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aidanjreid.github.io  
    Title: UF O Data UFO SIGHTINGS THE TRUTH ISN'T OUT THERE  
-   Link: [https://aidanjreid.github.io/UFO-Sightings-Database/index.html](https://aidanjreid.github.io/UFO-Sightings-Database/index.html)  
+   Link: <a href="https://aidanjreid.github.io/UFO-Sightings-Database/index.html" target="_blank" rel="noopener noreferrer nofollow">https://aidanjreid.github.io/UFO-Sightings-Database/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IT&#x27;S IN HERE... This page presents a snapshot of the accumulated UFO data across one year (August 2016 - August 2017) as gathered by the...</p></details>
    Published: August 2016  
 
 19. <a id="endnote-19"></a>
    Source: sweetstudy.com  
    Title: ufo sightings large csv 7128093  
-   Link: [https://www.sweetstudy.com/files/ufo-sightings-large-csv-7128093](https://www.sweetstudy.com/files/ufo-sightings-large-csv-7128093)  
+   Link: <a href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-7128093" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/ufo-sightings-large-csv-7128093</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Python/data processing | Computer Science homework help12/28/2012 17:00 | lewiston | id | us | circle | 300.0 | 5 minutes | Large floatin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=r1uXSVrgwkU](https://www.youtube.com/watch?v=r1uXSVrgwkU)  
+   Link: <a href="https://www.youtube.com/watch?v=r1uXSVrgwkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1uXSVrgwkU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 10 UFO Sightings That Were Confirmed by Multiple Governments...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mobilenapps.com  
    Title: ufo sightings 2016  
-   Link: [https://www.mobilenapps.com/articles/20494/20161021/ufo-sightings-2016.htm](https://www.mobilenapps.com/articles/20494/20161021/ufo-sightings-2016.htm)  
+   Link: <a href="https://www.mobilenapps.com/articles/20494/20161021/ufo-sightings-2016.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilenapps.com/articles/20494/20161021/ufo-sightings-2016.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That Still Have No ExplanationOctober 21, 2016 — UFO SIGHTINGS 2016: RECORDED EVENTS SINCE SEPT. THAT STILL HAVE NO EXPLANATION By C Prakash...</p></details>
    Published: October 21, 2016  
 
 22. <a id="endnote-22"></a>
    Source: waterufo.net  
-   Link: [https://www.waterufo.net/19731979/19731979HtmlText1.htm](https://www.waterufo.net/19731979/19731979HtmlText1.htm)  
+   Link: <a href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.waterufo.net/19731979/19731979HtmlText1.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Water UFO Sightings 1973 -1979UFOCAT PRN – NONE South America – Venezuela La Guaira Latitude 10-36 N, Longitude 66-56 W (D-M) Reference...</p></details>

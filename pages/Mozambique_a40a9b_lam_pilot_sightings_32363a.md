@@ -239,7 +239,7 @@ prev_link:
   permalink: /bilene-story/
   short_title: Bilene Story
   heading_title: How Strong Is the Bilene Landing Story?
-date: '2026-06-09 01:34:56 '
+date: '2026-06-10 02:01:25 '
 header:
   og_image: /assets/images/Mozambique_a40a9b_lam_pilot_sightings_32363a-Illustration-1-social.jpg
   preview_image: /assets/images/Mozambique_a40a9b_lam_pilot_sightings_32363a-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Mozambique_a40a9b_lam_pilot_sightings_32363a-Illustration-
 
 ## Introduction
 
-Reports of **unidentified aerial phenomena (UAP)** involving commercial aircraft crews in [Mozambique]({{ 'what-really-survives-in-mozambiques-ufo/' | relative_url }}) are extremely limited in the official record, but a persistent narrative exists in secondary UFO sources about sightings linked to LAM (Linhas Aéreas de Moçambique) Boeing 737 flights. This page examines the **claim clusters involving Mozambique’s national airline, its Boeing 737 jets, and what pilot‑witness accounts have reported over Beira and other routes**. We’ll focus on the strongest testimony often cited in ufology compilations, place it in context with what verifiable aviation documentation exists, and explain why, in the absence of official flight logs or credible aviation communications transcripts, these reports remain unresolved and anecdotal rather than confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">UFO Newsclipping Service 1988 04 no 225</span><span class="citation-popover-snippet">Project AquariusU.F.O. NEWSCLIPPING SERVICEAugust 19, 2024...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
+Reports of **unidentified aerial phenomena (UAP)** involving commercial aircraft crews in Mozambique are extremely limited in the official record, but a persistent narrative exists in secondary UFO sources about sightings linked to LAM (Linhas Aéreas de Moçambique) Boeing 737 flights. This page examines the **claim clusters involving Mozambique’s national airline, its Boeing 737 jets, and what pilot‑witness accounts have reported over Beira and other routes**. We’ll focus on the strongest testimony often cited in ufology compilations, place it in context with what verifiable aviation documentation exists, and explain why, in the absence of official flight logs or credible aviation communications transcripts, these reports remain unresolved and anecdotal rather than confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">UFO Newsclipping Service 1988 04 no 225</span><span class="citation-popover-snippet">Project AquariusU.F.O. NEWSCLIPPING SERVICEAugust 19, 2024...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Mozambique_a40a9b_lam_pilot_sightings_32363a-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Mozambique_a40a9b_lam_pilot_sightings_32363a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mozambique_a40a9b_lam_pilot_sightings_32363a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -257,13 +257,13 @@ Reports of **unidentified aerial phenomena (UAP)** involving commercial aircraft
 One of the most frequently referenced LAM‑linked sightings in the UFO literature is an **incident dated 11–12 February 1988 near Beira, Mozambique**, where a **Boeing 737 crew reportedly observed an unidentified object with intense lights**. According to secondary UFO chronologies:
 
 * The object was said to have **hovered over the Indian Ocean near Beira, emitting very bright lights** arranged in a triangular configuration. Crew accounts quoted in later UFO compilations describe seeing three strong lights forming a triangle on the object’s surface, visible to the captain, co‑pilot, and a cabin crew member. Passengers were also said to have observed the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo.com.br/ufos-sobre-a-frica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.com.br">[UFO Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.com.br</span><span class="citation-popover-title">UFO Magazine UFOs sobre a África</span><span class="citation-popover-snippet">UFO MagazineUFOs sobre a África - Revista UFO...</span></span></span>
-* This sighting appears in multiple UFO collections, including *The 1988 UFO Chronology*, which notes that a **pilot saw a hovering object with intense lights resembling searchlights, which then climbed vertically out of sight**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/chronos/1988fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe 1988 UFO ChronologyJuly 15, 2008...</span><span class="citation-popover-meta">Published: July 15, 2008</span></span></span>
+* This sighting appears in multiple UFO collections, including *The 1988 UFO Chronology*, which notes that a **pilot saw a hovering object with intense lights resembling searchlights, which then climbed vertically out of sight**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/chronos/1988fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1988 UFO ChronologyJuly 15, 2008...</span><span class="citation-popover-meta">Published: July 15, 2008</span></span></span>
 
 The attraction of this report in UFO literature stems from the professional witness — a commercial pilot — and the multiple onboard observers. In ufologist circles, such witness settings are often regarded as relatively high‑credibility compared with lone civilian sightings, on the assumption that trained observers can provide more precise descriptions.
 
 ### Lack of Corroborating Aviation Records
 
-Despite these vivid secondary narratives, **no primary aviation records, air traffic control tapes, official incident reports, or flight deck voice recordings related to this 1988 event are publicly available**. Aviation accident and incident databases (such as the Bureau of Aircraft Accidents Archives) list some LAM Boeing 737 accidents and mishaps from the era, but none explicitly reference any UAP encounter at Beira in 1988.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baaa-acro.com/operator/linhas-aereas-de-mocambique-lam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[Bureau of Aircraft Accidents Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-title">Bureau of Aircraft Accidents Archives Linhas Aéreas de Moçambique</span><span class="citation-popover-snippet">Bureau of Aircraft Accidents ArchivesLinhas Aéreas de Moçambique - LAM | Bureau of Aircraft Accidents Archives...</span></span></span>
+Despite these vivid secondary narratives, **no primary aviation records, air traffic control tapes, official incident reports, or flight deck voice recordings related to this 1988 event are publicly available**. Aviation accident and incident databases (such as the Bureau of Aircraft Accidents Archives) list some LAM Boeing 737 accidents and mishaps from the era, but none explicitly reference any UAP encounter at Beira in 1988.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baaa-acro.com/operator/linhas-aereas-de-mocambique-lam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[Bureau of Aircraft Accidents Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-title">Bureau of Aircraft Accidents Archives Linhas Aéreas de Moçambique</span><span class="citation-popover-snippet">Bureau of Aircraft Accidents ArchivesLinhas Aéreas de Moçambique - LAM &#124; Bureau of Aircraft Accidents Archives...</span></span></span>
 
 Because of this, while the anecdote persists in UFO archives, **it is not traceable to an official interaction between the aircraft crew and aviation authorities**, nor to any declassified report from Mozambique’s civil aviation body. As a result, the event exists mainly in the UFO secondary literature and lacks the underlying operational documentation that would be required for formal aviation investigation or scientific evaluation.
 
@@ -274,7 +274,7 @@ Because of this, while the anecdote persists in UFO archives, **it is not tracea
 
 Beyond the 1988 Beira story, some ufology sources also reference an older episode involving a Boeing 737 on a Mozambique coastal flight:
 
-* A **1973 report** is sometimes cited in UFO literature claiming that a LAM Boeing 737 en route between Beira and Lourenço Marques (now Maputo) was followed by an unidentified object for about 20 minutes at cruise altitude. This account names a flight crew and indicates a pursuit with changing lights and movements relative to the airliner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/430988839/MUFON-UFO-Journal-February-1988" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">MUFON UFO Journal</span><span class="citation-popover-snippet">ScribdMUFON UFO Journal - February 1988 | PDF | Alien Abduction | HypnosisFebruary 1, 1988...</span><span class="citation-popover-meta">Published: February 1, 1988</span></span></span>
+* A **1973 report** is sometimes cited in UFO literature claiming that a LAM Boeing 737 en route between Beira and Lourenço Marques (now Maputo) was followed by an unidentified object for about 20 minutes at cruise altitude. This account names a flight crew and indicates a pursuit with changing lights and movements relative to the airliner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/430988839/MUFON-UFO-Journal-February-1988" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">MUFON UFO Journal</span><span class="citation-popover-snippet">MUFON UFO Journal - February 1988 &#124; PDF &#124; Alien Abduction &#124; HypnosisFebruary 1, 1988...</span><span class="citation-popover-meta">Published: February 1, 1988</span></span></span>
 
 These early reports appear mainly in lists and compilations of UFO sightings rather than in aviation archives. Like the 1988 case, **no corroborating official flight plan logs, ATC transcripts, or Mozambican civil aviation authority records have been made publicly available to substantiate these accounts**.
 
@@ -284,13 +284,13 @@ These early reports appear mainly in lists and compilations of UFO sightings rat
 
 Aviation incident reporting is a well‑defined process: crews file **Mandatory Occurrence Reports (MORs)** after any in‑flight anomaly or safety breach, and air traffic control logs and radar data are retained for review. In Mozambique, as in other ICAO member states, these processes would involve the national civil aviation authority and potentially airline safety departments. However:
 
-* There is **no accessible database or released MOR** regarding any LAM Boeing 737 interaction with a UAP near Beira in 1988 or earlier. The existing aviation record for LAM Boeing 737s focuses on safety incidents like runway excursions and maintenance‑related events, not UAP encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeroinside.com/8876/lam-b737-at-tete-on-jan-5th-2017-radome-structural-failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeroinside.com">[AeroInside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeroinside.com</span><span class="citation-popover-title">lam b737 at tete on jan 5th 2017 radome structural failure</span><span class="citation-popover-snippet">AeroInsideLAM B737 at Tete on Jan 5th 2017, radome structural failure - AeroInsideJanuary 10, 2017...</span><span class="citation-popover-meta">Published: January 10, 2017</span></span></span>
+* There is **no accessible database or released MOR** regarding any LAM Boeing 737 interaction with a UAP near Beira in 1988 or earlier. The existing aviation record for LAM Boeing 737s focuses on safety incidents like runway excursions and maintenance‑related events, not UAP encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeroinside.com/8876/lam-b737-at-tete-on-jan-5th-2017-radome-structural-failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeroinside.com">[AeroInside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeroinside.com</span><span class="citation-popover-title">lam b737 at tete on jan 5th 2017 radome structural failure</span><span class="citation-popover-snippet">LAM B737 at Tete on Jan 5th 2017, radome structural failure - AeroInsideJanuary 10, 2017...</span><span class="citation-popover-meta">Published: January 10, 2017</span></span></span>
 * Secondary sources that recount pilot‑witness testimonies are generally based on hearsay or post‑fact compilation, without documentation from flight crews, airline internal reports, or ATC logs.
 
 This gap between published anecdotes in UFO literature and verifiable aviation records means that **from an evidence‑quality perspective, pilot reports about unusual lights over Mozambique remain unverified and uncorroborated**. Without access to disciplined aviation data streams or declassified pilot reports, these cases cannot be elevated above the “anecdotal” level in scientific or aeronautical assessment.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uz-sX024Dsk" title="UFO Hearing Live: Bombshell video shows US military’s missile bounce off UAP in stunning new footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uz-sX024Dsk" target="_blank" rel="noopener noreferrer">UFO Hearing Live: Bombshell video shows US military’s missile bounce off UAP in stunning new footage</a></p><p class="youtube-embed-meta">Channel: Mint &middot; Views: 3.4K &middot; Uploaded: May 2026 &middot; Length: 6 hours 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uz-sX024Dsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uz-sX024Dsk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_EcPNI9P8Y" title="Navy Pilot’s Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_EcPNI9P8Y" target="_blank" rel="noopener noreferrer">Navy Pilot’s Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus &middot; Views: 3.7K &middot; Uploaded: May 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_EcPNI9P8Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_EcPNI9P8Y">Open on YouTube</a></p></div></div></div>
 
 ## What Aviation Records Could Confirm
 
@@ -325,7 +325,7 @@ Professional aircrew testimony is valuable because pilots are trained observers 
 In the Mozambique context, the absence of supporting data means that while the LAM Boeing 737 pilot reports include interesting detail in UFO narratives, they **do not constitute confirmed aerial phenomena by official aviation standards**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">UFO Newsclipping Service 1988 04 no 225</span><span class="citation-popover-snippet">Project AquariusU.F.O. NEWSCLIPPING SERVICEAugust 19, 2024...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Km6tgYaNcD0" title="Bizarre Light Disappears Over the Pacific (S5) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer">Bizarre Light Disappears Over the Pacific (S5) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 30.5K &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Km6tgYaNcD0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer">Bizarre Light Disappears Over the Pacific (S5) | The Proof Is Out There | History</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer">Bizarre Light Disappears Over the Pacific (S5) | The Proof Is Out There | History</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Km6tgYaNcD0">Open on YouTube</a></p></div></div></div>
 
 ## Tying the Reports to Mozambique’s Broader UFO Record
 
@@ -334,86 +334,44 @@ Within the broader Mozambique UFO record, the LAM Boeing 737 pilot sightings occ
 Future access to declassified civil or airline records from Mozambique might clarify these accounts, but at present, the evidence base outside of secondary sources remains too thin to draw firm conclusions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Did Mozambique&#x27;s Airline Crews Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Did Mozambique&#x27;s Airline Crews Really See?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly aligns with airline crew sightings and aviation witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines how UFO reports are evaluated and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Relevant to questions about aviation logs, investigations, and government evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides tools for assessing pilot testimony and observation quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -447,75 +405,71 @@ Future access to declassified civil or airline records from Mozambique might cla
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-52e6fb-what-did-mozambique-s-airline-crews-really-see-mozambique-ufo-poster-book-books-series-television-g&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -729,116 +683,116 @@ Future access to declassified civil or airline records from Mozambique might cla
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1988fullrep.htm](https://www.nicap.org/chronos/1988fullrep.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPThe 1988 UFO ChronologyJuly 15, 2008...</p></details>
+   Link: <a href="https://www.nicap.org/chronos/1988fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1988fullrep.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1988 UFO ChronologyJuly 15, 2008...</p></details>
    Published: July 15, 2008  
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
    Title: MUFON UFO Journal  
-   Link: [https://www.scribd.com/document/430988839/MUFON-UFO-Journal-February-1988](https://www.scribd.com/document/430988839/MUFON-UFO-Journal-February-1988)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdMUFON UFO Journal - February 1988 | PDF | Alien Abduction | HypnosisFebruary 1, 1988...</p></details>
+   Link: <a href="https://www.scribd.com/document/430988839/MUFON-UFO-Journal-February-1988" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/430988839/MUFON-UFO-Journal-February-1988</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON UFO Journal - February 1988 | PDF | Alien Abduction | HypnosisFebruary 1, 1988...</p></details>
    Published: February 1, 1988  
 
 3. <a id="endnote-3"></a>
    Source: aeroinside.com  
    Title: lam b737 at tete on jan 5th 2017 radome structural failure  
-   Link: [https://www.aeroinside.com/8876/lam-b737-at-tete-on-jan-5th-2017-radome-structural-failure](https://www.aeroinside.com/8876/lam-b737-at-tete-on-jan-5th-2017-radome-structural-failure)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AeroInsideLAM B737 at Tete on Jan 5th 2017, radome structural failure - AeroInsideJanuary 10, 2017...</p></details>
+   Link: <a href="https://www.aeroinside.com/8876/lam-b737-at-tete-on-jan-5th-2017-radome-structural-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroinside.com/8876/lam-b737-at-tete-on-jan-5th-2017-radome-structural-failure</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LAM B737 at Tete on Jan 5th 2017, radome structural failure - AeroInsideJanuary 10, 2017...</p></details>
    Published: January 10, 2017  
 
 4. <a id="endnote-4"></a>
    Source: projectaquarius.mufon.com  
    Title: UFO Newsclipping Service 1988 04 no 225  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf](https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1988-04-no-225.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project AquariusU.F.O. NEWSCLIPPING SERVICEAugust 19, 2024...</p></details>
    Published: August 19, 2024  
 
 5. <a id="endnote-5"></a>
    Source: ufo.com.br  
    Title: UFO Magazine UFOs sobre a África  
-   Link: [https://ufo.com.br/ufos-sobre-a-frica/](https://ufo.com.br/ufos-sobre-a-frica/)  
+   Link: <a href="https://ufo.com.br/ufos-sobre-a-frica/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/ufos-sobre-a-frica/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO MagazineUFOs sobre a África - Revista UFO...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: baaa-acro.com  
    Title: Bureau of Aircraft Accidents Archives Linhas Aéreas de Moçambique  
-   Link: [https://www.baaa-acro.com/operator/linhas-aereas-de-mocambique-lam/](https://www.baaa-acro.com/operator/linhas-aereas-de-mocambique-lam/)  
+   Link: <a href="https://www.baaa-acro.com/operator/linhas-aereas-de-mocambique-lam/" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/operator/linhas-aereas-de-mocambique-lam/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesLinhas Aéreas de Moçambique - LAM | Bureau of Aircraft Accidents Archives...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/city/maputo?page=1](https://www.baaa-acro.com/city/maputo?page=1)  
+   Link: <a href="https://www.baaa-acro.com/city/maputo?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/city/maputo?page=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesMAPUTO CRASH OF A BOEING 737-2B1 IN QUELIMANE Date &amp; Time: Mar 28, 1983 Type of aircraft: Boeing 737...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: projectaquarius.mufon.com  
-   Link: [https://projectaquarius.mufon.com/](https://projectaquarius.mufon.com/)  
+   Link: <a href="https://projectaquarius.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Providing MUFON Members with multiple forms of historical printed materials like magazine articles and newsp...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: airlive.net  
-   Link: [https://airlive.net/emergency/2017/01/06/breaking-lam-tm136-boeing-737-700-collided-with-a-drone-on-approach-to-tete-mozambique/](https://airlive.net/emergency/2017/01/06/breaking-lam-tm136-boeing-737-700-collided-with-a-drone-on-approach-to-tete-mozambique/)  
+   Link: <a href="https://airlive.net/emergency/2017/01/06/breaking-lam-tm136-boeing-737-700-collided-with-a-drone-on-approach-to-tete-mozambique/" target="_blank" rel="noopener noreferrer nofollow">https://airlive.net/emergency/2017/01/06/breaking-lam-tm136-boeing-737-700-collided-with-a-drone-on-approach-to-tete-mozambique/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING LAM #TM136 Boeing 737-700 was hit by an external body on approach to Tete, MozambiqueJanuary 6, 2017 — BREAKING LAM #TM136 BOEIN...</p></details>
    Published: January 6, 2017  
 
 10. <a id="endnote-10"></a>
    Source: simpleflying.com  
-   Link: [https://simpleflying.com/lam-mozambique-boeing-737-cabin-depressurization-incident/](https://simpleflying.com/lam-mozambique-boeing-737-cabin-depressurization-incident/)  
+   Link: <a href="https://simpleflying.com/lam-mozambique-boeing-737-cabin-depressurization-incident/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/lam-mozambique-boeing-737-cabin-depressurization-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LAM Mozambique Boeing 737 Returns To Maputo After Cabin Depressurization IncidentNovember 13, 2023 — LAM MOZAMBIQUE BOEING 737 RETURNS TO...</p></details>
    Published: November 13, 2023  
 
 11. <a id="endnote-11"></a>
    Source: arstechnica.com  
    Title: LA M Mozambique Airlines took damage while landing, may have hit a drone  
-   Link: [https://arstechnica.com/tech-policy/2017/01/lam-mozambique-airlines-took-damage-while-landing-may-have-hit-a-drone/](https://arstechnica.com/tech-policy/2017/01/lam-mozambique-airlines-took-damage-while-landing-may-have-hit-a-drone/)  
+   Link: <a href="https://arstechnica.com/tech-policy/2017/01/lam-mozambique-airlines-took-damage-while-landing-may-have-hit-a-drone/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2017/01/lam-mozambique-airlines-took-damage-while-landing-may-have-hit-a-drone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LAM Mozambique Airlines took damage while landing, may have hit a drone - Ars TechnicaJanuary 7, 2017 — Unfriendly skies LAM MOZAMBIQUE A...</p></details>
    Published: January 7, 2017  
 
 12. <a id="endnote-12"></a>
    Source: where-is-area-51.com  
-   Link: [https://www.where-is-area-51.com/real_ufo.html](https://www.where-is-area-51.com/real_ufo.html)  
+   Link: <a href="https://www.where-is-area-51.com/real_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.where-is-area-51.com/real_ufo.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However pilots have been reluctant to report their sightings for fear of ridicule or possible rejection of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fortune.com  
    Title: Mozambique Airliner Boeing 737 Jet Didn't Actually Collide With Drone | Fortune  
-   Link: [https://fortune.com/2017/01/08/drone-collides-with-airliner/](https://fortune.com/2017/01/08/drone-collides-with-airliner/)  
+   Link: <a href="https://fortune.com/2017/01/08/drone-collides-with-airliner/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2017/01/08/drone-collides-with-airliner/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Morris January 8, 2017, 11:23 AM ET Add us on Image: Drone in Flight Drone in Flight Photo: Richard Newstead—Getty Images/...</p></details>
    Published: January 8, 2017  
 
 14. <a id="endnote-14"></a>
    Source: latimes.com  
    Title: Plane Maneuvered to Avoid Object: Pilot Recounts Sighting Enormous UFO  
-   Link: [https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html](https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times Archives Jan. 1, 1987 12 AM PT United Press International ANCHORAGE — A veteran pilot whose UFO sighting was con...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mentourpilot.com  
    Title: INCIDEN T: 737 Cockpit Window Shattered At Altitude!  
-   Link: [https://mentourpilot.com/incident-737-cockpit-window-shattered-at-altitude/](https://mentourpilot.com/incident-737-cockpit-window-shattered-at-altitude/)  
+   Link: <a href="https://mentourpilot.com/incident-737-cockpit-window-shattered-at-altitude/" target="_blank" rel="noopener noreferrer nofollow">https://mentourpilot.com/incident-737-cockpit-window-shattered-at-altitude/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mentour PilotJune 10, 2021 — NEWS INCIDENT: 737 COCKPIT WINDOW SHATTERED AT ALTITUDE! By Spyros Georgilidakis | June 10, 2021 * * * * A L...</p></details>
    Published: June 10, 2021  
 
 16. <a id="endnote-16"></a>
    Source: skeptic.org.uk  
    Title: from the archives the 1988 nullarbor ufo mystery solved  
-   Link: [https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/](https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/)  
+   Link: <a href="https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brunt 5th December 1989 AUTHOR A.T. Brunt A. T. Brunt is former Regional Director of the South Australian Bureau of Meteorology...</p></details>
    Published: December 1989  
 
 17. <a id="endnote-17"></a>
    Source: travelradar.aero  
    Title: LA M Boeing 737 Overshoots Runway in Quelimane  
-   Link: [https://travelradar.aero/lam-boeing-737-overshoots-runway-in-quelimane/](https://travelradar.aero/lam-boeing-737-overshoots-runway-in-quelimane/)  
+   Link: <a href="https://travelradar.aero/lam-boeing-737-overshoots-runway-in-quelimane/" target="_blank" rel="noopener noreferrer nofollow">https://travelradar.aero/lam-boeing-737-overshoots-runway-in-quelimane/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LAM Boeing 737 Overshoots Runway in Quelimane - Travel Radar - Aviation NewsFebruary 28, 2021 — LAM BOEING 737 OVERSHOOTS RUNWAY IN QUELI...</p></details>
    Published: February 28, 2021  
 
 18. <a id="endnote-18"></a>
    Source: upinthesky.nl  
    Title: ‘Drone beschadigt LAM 737 tijdens landing’  
-   Link: [https://www.upinthesky.nl/2017/01/08/drone-beschadigt-lam-737-tijdens-landing/](https://www.upinthesky.nl/2017/01/08/drone-beschadigt-lam-737-tijdens-landing/)  
+   Link: <a href="https://www.upinthesky.nl/2017/01/08/drone-beschadigt-lam-737-tijdens-landing/" target="_blank" rel="noopener noreferrer nofollow">https://www.upinthesky.nl/2017/01/08/drone-beschadigt-lam-737-tijdens-landing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 8, 2017 — ‘DRONE BESCHADIGT LAM 737 TIJDENS LANDING’ Door Michiel Stol8 januari 2017, 14:42 • Update 11 januari 2017, 16:50 Leest...</p></details>
    Published: January 8, 2017  

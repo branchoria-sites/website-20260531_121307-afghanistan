@@ -1185,7 +1185,7 @@ next_link:
   title: Saudi UFOs
   permalink: /what-really-explains-saudi-arabias-ufo/
   short_title: Saudi UFOs
-date: '2026-06-09 01:33:17 '
+date: '2026-06-10 01:58:52 '
 header:
   og_image: /assets/images/Marshall_Islands_ccbdc0-overview-social.jpg
   preview_image: /assets/images/Marshall_Islands_ccbdc0-overview.webp
@@ -1194,7 +1194,7 @@ image: /assets/images/Marshall_Islands_ccbdc0-overview-social.jpg
 
 ## Why the Marshall Islands produce unusual sky reports
 
-The Marshall Islands are an unusually sensitive setting for aerial-phenomena claims because several different histories overlap there. Bikini Atoll and other Marshallese sites were used for U.S. nuclear testing from 1946 to 1958, including 67 tests in the Marshall Islands area and 23 at Bikini Atoll, according to Nuclear Princeton’s historical summary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuclearprinceton.princeton.edu/pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearprinceton.princeton.edu">[Nuclear Princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearprinceton.princeton.edu</span><span class="citation-popover-title">Nuclear Princeton The Pacific | Nuclear Princeton</span><span class="citation-popover-snippet">Nuclear Princeton The Pacific | Nuclear Princeton</span></span></span> Operation Crossroads, the 1946 Bikini test series, was heavily filmed and photographed, which means later viewers sometimes examine archival footage for anomalies rather than relying on live witness reports. The Atomic Heritage Foundation describes Crossroads as a 1946 U.S. nuclear-weapons test series at Bikini involving the Able and Baker shots, designed to study nuclear effects on naval warships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Operation Crossroads</span><span class="citation-popover-snippet">Nuclear Museum Operation Crossroads</span></span></span>
+The Marshall Islands are an unusually sensitive setting for aerial-phenomena claims because several different histories overlap there. Bikini Atoll and other Marshallese sites were used for U.S. nuclear testing from 1946 to 1958, including 67 tests in the Marshall Islands area and 23 at Bikini Atoll, according to Nuclear Princeton’s historical summary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuclearprinceton.princeton.edu/pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearprinceton.princeton.edu">[Nuclear Princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearprinceton.princeton.edu</span><span class="citation-popover-title">Nuclear Princeton The Pacific &#124; Nuclear Princeton</span><span class="citation-popover-snippet">Nuclear Princeton The Pacific &#124; Nuclear Princeton</span></span></span> Operation Crossroads, the 1946 Bikini test series, was heavily filmed and photographed, which means later viewers sometimes examine archival footage for anomalies rather than relying on live witness reports. The Atomic Heritage Foundation describes Crossroads as a 1946 U.S. nuclear-weapons test series at Bikini involving the Able and Baker shots, designed to study nuclear effects on naval warships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Operation Crossroads</span><span class="citation-popover-snippet">Nuclear Museum Operation Crossroads</span></span></span>
 
 
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0-overview.webp" | relative_url }}" alt="Overview image for What Really Explains Marshall Islands UFO..." loading="eager" decoding="sync" fetchpriority="high">
@@ -1289,91 +1289,49 @@ The strongest cross-branch comparison is with other island and military-range lo
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0-Illustration-3-dark.svg" | relative_url }}" alt="What Really Explains Marshall Islands UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Marshall_Islands_ccbdc0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Marshall_Islands_ccbdc0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for the Marshall Islands UFO record
 
-The Marshall Islands have a small but distinctive UFO record. The most visible claims cluster around Bikini nuclear-test footage and Kwajalein missile-range observations, not around a broad national pattern of public sightings. The best-supported facts are conventional but important: Bikini was a major nuclear-test site, Kwajalein is a major missile and space test range, and missile activity connected to Kwajalein has produced strange-looking lights that have been reported as UFOs elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuclearprinceton.princeton.edu/pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearprinceton.princeton.edu">[Nuclear Princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearprinceton.princeton.edu</span><span class="citation-popover-title">Nuclear Princeton The Pacific | Nuclear Princeton</span><span class="citation-popover-snippet">Nuclear Princeton The Pacific | Nuclear Princeton</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Marshall Islands have a small but distinctive UFO record. The most visible claims cluster around Bikini nuclear-test footage and Kwajalein missile-range observations, not around a broad national pattern of public sightings. The best-supported facts are conventional but important: Bikini was a major nuclear-test site, Kwajalein is a major missile and space test range, and missile activity connected to Kwajalein has produced strange-looking lights that have been reported as UFOs elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuclearprinceton.princeton.edu/pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearprinceton.princeton.edu">[Nuclear Princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearprinceton.princeton.edu</span><span class="citation-popover-title">Nuclear Princeton The Pacific &#124; Nuclear Princeton</span><span class="citation-popover-snippet">Nuclear Princeton The Pacific &#124; Nuclear Princeton</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The 1977 Kwajalein sighting remains the most straightforward local unresolved report in the open civilian record. The Bikini film claim is more visually provocative but weaker as evidence because it depends on later interpretation of edited archival footage and contains a dating inconsistency. No currently accessible official or civilian source establishes a Marshall Islands UFO case as confirmed non-human technology, and the better reading is cautious: sparse reports, high aerospace activity, several plausible conventional mechanisms, and a few unresolved claims that would require original records to assess properly.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Explains Marshall Islands UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Explains Marshall Islands UFO Reports?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
-        
-        <p class="fr-book-desc">Useful for placing Marshall Islands cases within global UFO reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating sparse and military-linked UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
-        
-        <p class="fr-book-desc">Provides context for military and nuclear infrastructure often linked to UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides background on aerospace culture and high-speed flight operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1407,75 +1365,71 @@ The 1977 Kwajalein sighting remains the most straightforward local unresolved re
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-marshall-islands-what-really-explains-marshall-islands-ufo-reports-marshall-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1690,203 +1644,203 @@ The 1977 Kwajalein sighting remains the most straightforward local unresolved re
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Marshall Islands  
-   Link: [https://nuforc.org/subndx/?id=cMarshall_Islands](https://nuforc.org/subndx/?id=cMarshall_Islands)  
+   Link: <a href="https://nuforc.org/subndx/?id=cMarshall_Islands" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cMarshall_Islands</a>  
 
 2. <a id="endnote-2"></a>
    Source: ll.mit.edu  
-   Link: [https://www.ll.mit.edu/about/facilities/reagan-test-site](https://www.ll.mit.edu/about/facilities/reagan-test-site)  
+   Link: <a href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/about/facilities/reagan-test-site</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuclearprinceton.princeton.edu  
    Title: Nuclear Princeton The Pacific | Nuclear Princeton  
-   Link: [https://nuclearprinceton.princeton.edu/pacific](https://nuclearprinceton.princeton.edu/pacific)  
+   Link: <a href="https://nuclearprinceton.princeton.edu/pacific" target="_blank" rel="noopener noreferrer nofollow">https://nuclearprinceton.princeton.edu/pacific</a>  
 
 4. <a id="endnote-4"></a>
    Source: smdc.army.mil  
-   Link: [https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS%20-%20TC%20-%200226_09.pdf?ver=pqyd4IQE4wzZsySvEf7G7Q%3D%3D](https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS%20-%20TC%20-%200226_09.pdf?ver=pqyd4IQE4wzZsySvEf7G7Q%3D%3D)  
+   Link: <a href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS%20-%20TC%20-%200226_09.pdf?ver=pqyd4IQE4wzZsySvEf7G7Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS%20-%20TC%20-%200226_09.pdf?ver=pqyd4IQE4wzZsySvEf7G7Q%3D%3D</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=163458](https://nuforc.org/sighting/?id=163458)  
+   Link: <a href="https://nuforc.org/sighting/?id=163458" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163458</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181320](https://nuforc.org/sighting/?id=181320)  
+   Link: <a href="https://nuforc.org/sighting/?id=181320" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181320</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=189516](https://nuforc.org/sighting/?id=189516)  
+   Link: <a href="https://nuforc.org/sighting/?id=189516" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189516</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25161](https://nuforc.org/sighting/?id=25161)  
+   Link: <a href="https://nuforc.org/sighting/?id=25161" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25161</a>  
 
 9. <a id="endnote-9"></a>
    Source: dvidshub.net  
    Title: armys reagan test site supports missile test  
-   Link: [https://www.dvidshub.net/news/403807/armys-reagan-test-site-supports-missile-test](https://www.dvidshub.net/news/403807/armys-reagan-test-site-supports-missile-test)  
+   Link: <a href="https://www.dvidshub.net/news/403807/armys-reagan-test-site-supports-missile-test" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/403807/armys-reagan-test-site-supports-missile-test</a>  
 
 10. <a id="endnote-10"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=5458](https://nuforc.org/sighting/?id=5458)  
+   Link: <a href="https://nuforc.org/sighting/?id=5458" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=5458</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25168](https://nuforc.org/sighting/?id=25168)  
+   Link: <a href="https://nuforc.org/sighting/?id=25168" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25168</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/Photos/igphoto/2002191715/](https://www.war.gov/Multimedia/Photos/igphoto/2002191715/)  
+   Link: <a href="https://www.war.gov/Multimedia/Photos/igphoto/2002191715/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2002191715/</a>  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/?releaseDate=Release](https://www.war.gov/ufo/?releaseDate=Release)  
+   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
 24. <a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 25. <a id="endnote-25"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
 26. <a id="endnote-26"></a>
    Source: ahf.nuclearmuseum.org  
    Title: Nuclear Museum Operation Crossroads  
-   Link: [https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/](https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/)  
+   Link: <a href="https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nps.gov  
    Title: marshall islands  
-   Link: [https://www.nps.gov/articles/000/marshall-islands.htm](https://www.nps.gov/articles/000/marshall-islands.htm)  
+   Link: <a href="https://www.nps.gov/articles/000/marshall-islands.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/000/marshall-islands.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Ronald Reagan Space and Missile Test Range  
-   Link: [https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range](https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Operation Crossroads  
-   Link: [https://en.wikipedia.org/wiki/Operation_Crossroads](https://en.wikipedia.org/wiki/Operation_Crossroads)  
+   Link: <a href="https://en.wikipedia.org/wiki/Operation_Crossroads" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Crossroads</a>  
 
 31. <a id="endnote-31"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/news/printable/475677](https://www.dvidshub.net/news/printable/475677)  
+   Link: <a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
 
 32. <a id="endnote-32"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/publication/issues/75574](https://www.dvidshub.net/publication/issues/75574)  
+   Link: <a href="https://www.dvidshub.net/publication/issues/75574" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/publication/issues/75574</a>  
 
 33. <a id="endnote-33"></a>
    Source: thebikiniproject.org  
    Title: operation crossroads  
-   Link: [https://thebikiniproject.org/operation-crossroads/](https://thebikiniproject.org/operation-crossroads/)  
+   Link: <a href="https://thebikiniproject.org/operation-crossroads/" target="_blank" rel="noopener noreferrer nofollow">https://thebikiniproject.org/operation-crossroads/</a>  
 
 34. <a id="endnote-34"></a>
    Source: ahf.nuclearmuseum.org  
    Title: marshall islands  
-   Link: [https://ahf.nuclearmuseum.org/ahf/location/marshall-islands/](https://ahf.nuclearmuseum.org/ahf/location/marshall-islands/)  
+   Link: <a href="https://ahf.nuclearmuseum.org/ahf/location/marshall-islands/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/location/marshall-islands/</a>  
 
 35. <a id="endnote-35"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: [https://discovery.nationalarchives.gov.uk/browse/r/h/C12738112](https://discovery.nationalarchives.gov.uk/browse/r/h/C12738112)  
+   Link: <a href="https://discovery.nationalarchives.gov.uk/browse/r/h/C12738112" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/browse/r/h/C12738112</a>  
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Nuclear Ghost Fleet Of Bikini Atoll: PART 1  
-   Link: [https://www.youtube.com/watch?v=e5bKzTbHu4A](https://www.youtube.com/watch?v=e5bKzTbHu4A)  
+   Link: <a href="https://www.youtube.com/watch?v=e5bKzTbHu4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e5bKzTbHu4A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reagan Test Site, Omelek Island, Kwajalein Atoll...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: str.llnl.gov  
-   Link: [https://str.llnl.gov/sites/str/files/2024-04/06.19.4.pdf](https://str.llnl.gov/sites/str/files/2024-04/06.19.4.pdf)  
+   Link: <a href="https://str.llnl.gov/sites/str/files/2024-04/06.19.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://str.llnl.gov/sites/str/files/2024-04/06.19.4.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: America's Favourite Missile Test Site is No Longer Playing Ball  
-   Link: [https://www.youtube.com/watch?v=r0kx7dHXEgk](https://www.youtube.com/watch?v=r0kx7dHXEgk)  
+   Link: <a href="https://www.youtube.com/watch?v=r0kx7dHXEgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r0kx7dHXEgk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gigantic Ship Graveyard Of Operation Crossroads...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Reagan Test Site, Omelek Island, Kwajalein Atoll  
-   Link: [https://www.youtube.com/watch?v=vIiHLlQSeRc](https://www.youtube.com/watch?v=vIiHLlQSeRc)  
+   Link: <a href="https://www.youtube.com/watch?v=vIiHLlQSeRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vIiHLlQSeRc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Favourite Missile Test Site is No Longer Playing Ball...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP](https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/plymouthlive/videos/mysterious-lights-hovering-over-south-west-explained/849939537563021/](https://www.facebook.com/plymouthlive/videos/mysterious-lights-hovering-over-south-west-explained/849939537563021/)  
+   Link: <a href="https://www.facebook.com/plymouthlive/videos/mysterious-lights-hovering-over-south-west-explained/849939537563021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/plymouthlive/videos/mysterious-lights-hovering-over-south-west-explained/849939537563021/</a>  
 
 43. <a id="endnote-43"></a>
    Source: usni.org  
-   Link: [https://www.usni.org/magazines/proceedings/2006/july/america-crossroads-60-years-later](https://www.usni.org/magazines/proceedings/2006/july/america-crossroads-60-years-later)  
+   Link: <a href="https://www.usni.org/magazines/proceedings/2006/july/america-crossroads-60-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/2006/july/america-crossroads-60-years-later</a>  
 
 44. <a id="endnote-44"></a>
    Source: nautilus.org  
-   Link: [https://nautilus.org/wp-content/uploads/2011/04/Chasing-Gravitys-Rainbow-PDF.pdf](https://nautilus.org/wp-content/uploads/2011/04/Chasing-Gravitys-Rainbow-PDF.pdf)  
+   Link: <a href="https://nautilus.org/wp-content/uploads/2011/04/Chasing-Gravitys-Rainbow-PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/wp-content/uploads/2011/04/Chasing-Gravitys-Rainbow-PDF.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/657286187686005/posts/7298687683545789/](https://www.facebook.com/groups/657286187686005/posts/7298687683545789/)  
+   Link: <a href="https://www.facebook.com/groups/657286187686005/posts/7298687683545789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/657286187686005/posts/7298687683545789/</a>  

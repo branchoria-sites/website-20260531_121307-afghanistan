@@ -245,7 +245,7 @@ next_link:
   permalink: /missing-reports/
   short_title: Missing Reports
   heading_title: Why Are Kiribati UFO Reports So Rare?
-date: '2026-06-09 01:31:03 '
+date: '2026-06-10 01:56:40 '
 header:
   og_image: /assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1-social.jpg
   preview_image: /assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1
 
 ## Introduction
 
-Any attempt to assess UFO claims in [Kiribati]({{ 'what-is-really-known-about-kiribati-ufos/' | relative_url }}) quickly runs into a practical problem: not all parts of the country are equally observable. A report from South Tarawa, where much of the national population lives, can potentially be checked against multiple witnesses, local authorities, shipping activity, aircraft routes, and communications networks. A claim from an uninhabited Phoenix Island may have no independent witnesses at all. That difference matters more in Kiribati than in many countries because its three island groups are spread across a vast area of the central Pacific and have sharply different population patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati | Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
+Any attempt to assess UFO claims in Kiribati quickly runs into a practical problem: not all parts of the country are equally observable. A report from South Tarawa, where much of the national population lives, can potentially be checked against multiple witnesses, local authorities, shipping activity, aircraft routes, and communications networks. A claim from an uninhabited Phoenix Island may have no independent witnesses at all. That difference matters more in Kiribati than in many countries because its three island groups are spread across a vast area of the central Pacific and have sharply different population patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1-dark.svg" | relative_url }}" alt="Island Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,19 +290,19 @@ Another factor is geography itself. Most Gilbert Islands settlements are low-lyi
 
 ## Kiritimati and the Line Islands
 
-The Line Islands create a different evidence environment. They are much more dispersed, and only a few islands are inhabited. Kiritimati (Christmas Island), the largest coral atoll in the world, is by far the most significant population centre in the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati | Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
+The Line Islands create a different evidence environment. They are much more dispersed, and only a few islands are inhabited. Kiritimati (Christmas Island), the largest coral atoll in the world, is by far the most significant population centre in the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
 
 A sighting reported from Kiritimati would generally be more useful to investigators than a report from many other eastern islands because there are permanent residents, conservation personnel, visitors, and some transport connections. The island's size and ecological importance also mean that scientific and environmental teams periodically operate there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://panorama.solutions/en/solution/conservation-and-protection-seabirds-kiritimati-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panorama.solutions">[panorama.solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panorama.solutions</span><span class="citation-popover-title">conservation and protection seabirds kiritimati island</span><span class="citation-popover-snippet">The conservation and protection of seabirds in Kiritimati...20 Jun 2023 — The island is a key biodiversity area for many global importan...</span></span></span>
 
-At the same time, the Line Islands are remote enough that unusual claims can spread without immediate verification. This became clear in the viral [Starbuck Island]({{ 'starbuck-claim/' | relative_url }}) story.
+At the same time, the Line Islands are remote enough that unusual claims can spread without immediate verification. This became clear in the viral Starbuck Island story.
 
 ### Why the Starbuck Island claim spread
 
-Starbuck Island lies in the Southern Line Islands and has no permanent population. Its isolation made it an ideal setting for speculation when satellite imagery began circulating online that supposedly showed a crashed UFO. The image appeared mysterious because viewers saw an unusual shape in a location that few people could personally inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/356725/what-is-on-starbuck-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-snippet">SnopesThe Starbuck Island Google Earth TikTok Video, Explained15 Jul 2021 — Starbuck Island was featured on Google Earth and some thought...</span></span></span>
+Starbuck Island lies in the Southern Line Islands and has no permanent population. Its isolation made it an ideal setting for speculation when satellite imagery began circulating online that supposedly showed a crashed UFO. The image appeared mysterious because viewers saw an unusual shape in a location that few people could personally inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/356725/what-is-on-starbuck-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-snippet">The Starbuck Island Google Earth TikTok Video, Explained15 Jul 2021 — Starbuck Island was featured on Google Earth and some thought...</span></span></span>
 
 The problem for the UFO interpretation is that the strongest available evidence points toward ordinary structures rather than an anomalous craft.
 
-Investigations and follow-up analysis connected the visible feature to man-made remains already visible in expedition footage from the island. National Geographic material from scientific visits showed stone and structural features in the same general area, while independent online investigators and discussion forums largely concluded that the imagery reflected old construction remains rather than a crash site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/356725/what-is-on-starbuck-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-snippet">SnopesThe Starbuck Island Google Earth TikTok Video, Explained15 Jul 2021 — Starbuck Island was featured on Google Earth and some thought...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-title">Your Tango Is There A UFO On Starbuck Island?</span><span class="citation-popover-snippet">Debunking The Viral...May 28, 2022 — 28 May 2022 — There doesn&#x27;t appear to be a UFO on Starbuck Island, according to research. National...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWhile browsing Google Earth, I stumble upon an Island...It&#x27;s known as the Starbuck Island UFO, but it&#x27;s most likely the remnants o...</span></span></span> The Starbuck Island episode illustrates an important Line Islands pattern: remote geography can make satellite-image claims appear stronger than they really are. When ground access is difficult, viewers may mistake a lack of immediate verification for evidence of a mystery.
+Investigations and follow-up analysis connected the visible feature to man-made remains already visible in expedition footage from the island. National Geographic material from scientific visits showed stone and structural features in the same general area, while independent online investigators and discussion forums largely concluded that the imagery reflected old construction remains rather than a crash site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/356725/what-is-on-starbuck-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-snippet">The Starbuck Island Google Earth TikTok Video, Explained15 Jul 2021 — Starbuck Island was featured on Google Earth and some thought...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-title">Your Tango Is There A UFO On Starbuck Island?</span><span class="citation-popover-snippet">Debunking The Viral...May 28, 2022 — 28 May 2022 — There doesn&#x27;t appear to be a UFO on Starbuck Island, according to research. National...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">While browsing Google Earth, I stumble upon an Island...It&#x27;s known as the Starbuck Island UFO, but it&#x27;s most likely the remnants o...</span></span></span> The Starbuck Island episode illustrates an important Line Islands pattern: remote geography can make satellite-image claims appear stronger than they really are. When ground access is difficult, viewers may mistake a lack of immediate verification for evidence of a mystery.
 
 
 <img src="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-2-dark.svg" | relative_url }}" alt="Island Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,7 +329,7 @@ If the Gilbert Islands are the most checkable part of Kiribati and the inhabited
 
 The Phoenix group is one of the most remote island chains in the Pacific. Most islands are uninhabited, and the region is protected through the Phoenix Islands Protected Area (PIPA), a vast conservation zone recognised internationally for its ecological significance. UNESCO and Kiribati conservation authorities describe the area as one of the world's largest marine protected regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[unesco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-title">World Heritage Centre Phoenix Islands Protected Area</span><span class="citation-popover-snippet">UNESCO World Heritage CentrePhoenix Islands Protected Area - World Heritage - UNESCOThe property encompasses the Phoenix Island Group, on...</span></span></span> World Heritage Centre <span class="citation-chip-wrap"><a class="citation-chip" href="https://icriforum.org/phoenix-islands-protected-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icriforum.org">[ICRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icriforum.org</span><span class="citation-popover-title">phoenix islands protected area</span><span class="citation-popover-snippet">ICRI8 Jan 2012 — The property encompasses the Phoenix Island Group, one of three island groups in Kiribati, and is the largest designated...</span></span></span>
 
-Management documents repeatedly emphasise how isolated the islands are. Apart from Kanton Atoll, which hosts only a small caretaker population, the islands generally lack permanent residents. Access is controlled through permits and conservation regulations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pipap.sprep.org/content/phoenix-islands-protected-area-management-plan-2015-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pipap.sprep.org">[pipap.sprep.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pipap.sprep.org</span><span class="citation-popover-snippet">The Phoenix Islands Protected Area Management Plan 2015The largest atoll, Kanton, is 1,750 km (1,087 miles) from the Kiribati capital Tarawa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melad.gov.ki/images/pipa/Permit_and_Guidelines/PIPA_Visitors_Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melad.gov.ki">[2melad.gov.ki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melad.gov.ki</span><span class="citation-popover-title">pipa implementation office</span><span class="citation-popover-snippet">MELADINTRODUCTION - The Phoenix Islands Protected Area (PIPA) was created for the preservation of its pristine natural resources.Read more...</span></span></span>
+Management documents repeatedly emphasise how isolated the islands are. Apart from Kanton Atoll, which hosts only a small caretaker population, the islands generally lack permanent residents. Access is controlled through permits and conservation regulations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pipap.sprep.org/content/phoenix-islands-protected-area-management-plan-2015-2020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pipap.sprep.org">[pipap.sprep.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pipap.sprep.org</span><span class="citation-popover-snippet">The Phoenix Islands Protected Area Management Plan 2015The largest atoll, Kanton, is 1,750 km (1,087 miles) from the Kiribati capital Tarawa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melad.gov.ki/images/pipa/Permit_and_Guidelines/PIPA_Visitors_Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melad.gov.ki">[2melad.gov.ki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melad.gov.ki</span><span class="citation-popover-title">pipa implementation office</span><span class="citation-popover-snippet">INTRODUCTION - The Phoenix Islands Protected Area (PIPA) was created for the preservation of its pristine natural resources.Read more...</span></span></span>
 
 For UFO investigations, this has major consequences.
 
@@ -376,86 +376,44 @@ This does not mean a remote-island report is automatically false. It means the b
 <img src="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-3-dark.svg" | relative_url }}" alt="Island Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Would Kiribati UFO Claims Be Checkable?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Would Kiribati UFO Claims Be Checkable?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for evaluating how location affects the reliability of sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Provides context for assessing isolated reports from remote areas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines credible reporting conditions and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Explores how unexplained stories spread and gain traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -489,75 +447,71 @@ This does not mean a remote-island report is automatically false. It means the b
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-checks-where-would-kiribati-ufo-claims-be-checkable-kiribati-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -771,165 +725,165 @@ This does not mean a remote-island report is automatically false. It means the b
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Kiribati](https://en.wikipedia.org/wiki/Kiribati)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kiribati</a>  
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Kiribati](https://www.britannica.com/place/Kiribati)  
+   Link: <a href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kiribati</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaKiribati | Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kiribatitourism.gov.ki  
-   Link: [https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/](https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/)  
+   Link: <a href="https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati TourismAbout Kiribati – Kiribati For TravellersKiribati consists of 33 coral islands divided among three island groups: the Gilb...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nso.gov.ki  
    Title: kiribati 2020 2021 population and housing census data  
-   Link: [https://nso.gov.ki/census/kiribati-2020-2021-population-and-housing-census-data/](https://nso.gov.ki/census/kiribati-2020-2021-population-and-housing-census-data/)  
+   Link: <a href="https://nso.gov.ki/census/kiribati-2020-2021-population-and-housing-census-data/" target="_blank" rel="noopener noreferrer nofollow">https://nso.gov.ki/census/kiribati-2020-2021-population-and-housing-census-data/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati 2020-2021 Population and Housing Census data29 Nov 2021 — Kiribati 2020-2021 Population and Housing Census data November 29th, 2...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: panorama.solutions  
    Title: conservation and protection seabirds kiritimati island  
-   Link: [https://panorama.solutions/en/solution/conservation-and-protection-seabirds-kiritimati-island](https://panorama.solutions/en/solution/conservation-and-protection-seabirds-kiritimati-island)  
+   Link: <a href="https://panorama.solutions/en/solution/conservation-and-protection-seabirds-kiritimati-island" target="_blank" rel="noopener noreferrer nofollow">https://panorama.solutions/en/solution/conservation-and-protection-seabirds-kiritimati-island</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The conservation and protection of seabirds in Kiritimati...20 Jun 2023 — The island is a key biodiversity area for many global importan...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: snopes.com  
-   Link: [https://www.snopes.com/articles/356725/what-is-on-starbuck-island/](https://www.snopes.com/articles/356725/what-is-on-starbuck-island/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SnopesThe Starbuck Island Google Earth TikTok Video, Explained15 Jul 2021 — Starbuck Island was featured on Google Earth and some thought...</p></details>
+   Link: <a href="https://www.snopes.com/articles/356725/what-is-on-starbuck-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/356725/what-is-on-starbuck-island/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Starbuck Island Google Earth TikTok Video, Explained15 Jul 2021 — Starbuck Island was featured on Google Earth and some thought...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: yourtango.com  
    Title: Your Tango Is There A UFO On Starbuck Island?  
-   Link: [https://www.yourtango.com/news/ufo-starbuck-island-claim](https://www.yourtango.com/news/ufo-starbuck-island-claim)  
+   Link: <a href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.yourtango.com/news/ufo-starbuck-island-claim</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking The Viral...May 28, 2022 — 28 May 2022 — There doesn&#x27;t appear to be a UFO on Starbuck Island, according to research. National...</p></details>
    Published: May 28, 2022  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/](https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhile browsing Google Earth, I stumble upon an Island...It&#x27;s known as the Starbuck Island UFO, but it&#x27;s most likely the remnants o...</p></details>
+   Link: <a href="https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>While browsing Google Earth, I stumble upon an Island...It&#x27;s known as the Starbuck Island UFO, but it&#x27;s most likely the remnants o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: whc.unesco.org  
    Title: World Heritage Centre Phoenix Islands Protected Area  
-   Link: [https://whc.unesco.org/en/list/1325/](https://whc.unesco.org/en/list/1325/)  
+   Link: <a href="https://whc.unesco.org/en/list/1325/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1325/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO World Heritage CentrePhoenix Islands Protected Area - World Heritage - UNESCOThe property encompasses the Phoenix Island Group, on...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: icriforum.org  
    Title: phoenix islands protected area  
-   Link: [https://icriforum.org/phoenix-islands-protected-area/](https://icriforum.org/phoenix-islands-protected-area/)  
+   Link: <a href="https://icriforum.org/phoenix-islands-protected-area/" target="_blank" rel="noopener noreferrer nofollow">https://icriforum.org/phoenix-islands-protected-area/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRI8 Jan 2012 — The property encompasses the Phoenix Island Group, one of three island groups in Kiribati, and is the largest designated...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Phoenix Islands Protected Area  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area](https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Islands Protected AreaThe Phoenix Islands Protected Area (PIPA) is located in the Republic of Kiribati... The area was offici...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pipap.sprep.org  
-   Link: [https://pipap.sprep.org/content/phoenix-islands-protected-area-management-plan-2015-2020](https://pipap.sprep.org/content/phoenix-islands-protected-area-management-plan-2015-2020)  
+   Link: <a href="https://pipap.sprep.org/content/phoenix-islands-protected-area-management-plan-2015-2020" target="_blank" rel="noopener noreferrer nofollow">https://pipap.sprep.org/content/phoenix-islands-protected-area-management-plan-2015-2020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Islands Protected Area Management Plan 2015The largest atoll, Kanton, is 1,750 km (1,087 miles) from the Kiribati capital Tarawa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: melad.gov.ki  
    Title: pipa implementation office  
-   Link: [https://www.melad.gov.ki/images/pipa/Permit_and_Guidelines/PIPA_Visitors_Guidelines.pdf](https://www.melad.gov.ki/images/pipa/Permit_and_Guidelines/PIPA_Visitors_Guidelines.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MELADINTRODUCTION - The Phoenix Islands Protected Area (PIPA) was created for the preservation of its pristine natural resources.Read more...</p></details>
+   Link: <a href="https://www.melad.gov.ki/images/pipa/Permit_and_Guidelines/PIPA_Visitors_Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.melad.gov.ki/images/pipa/Permit_and_Guidelines/PIPA_Visitors_Guidelines.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCTION - The Phoenix Islands Protected Area (PIPA) was created for the preservation of its pristine natural resources.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kiribati-data.sprep.org  
    Title: phoenix islands protected area regulations  
-   Link: [https://kiribati-data.sprep.org/dataset/phoenix-islands-protected-area-regulations](https://kiribati-data.sprep.org/dataset/phoenix-islands-protected-area-regulations)  
+   Link: <a href="https://kiribati-data.sprep.org/dataset/phoenix-islands-protected-area-regulations" target="_blank" rel="noopener noreferrer nofollow">https://kiribati-data.sprep.org/dataset/phoenix-islands-protected-area-regulations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 25, 2021 — The objectives of these regulations are to; prescribe a protected area for the terrestrial and marine resources of the Pho...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sprep.org  
    Title: invasive species threaten globally important seabirds in kiribati  
-   Link: [https://www.sprep.org/news/invasive-species-threaten-globally-important-seabirds-in-kiribati](https://www.sprep.org/news/invasive-species-threaten-globally-important-seabirds-in-kiribati)  
+   Link: <a href="https://www.sprep.org/news/invasive-species-threaten-globally-important-seabirds-in-kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.sprep.org/news/invasive-species-threaten-globally-important-seabirds-in-kiribati</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasive Species Threaten Globally Important Seabirds in...8 Apr 2020 — Kiribati is currently addressing some of the issues associated w...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: palmscheme.gov.au  
-   Link: [https://www.palmscheme.gov.au/sites/default/files/2022-04/PALM%20scheme%20country%20fact%20sheet%20-%20Kiribati.pdf](https://www.palmscheme.gov.au/sites/default/files/2022-04/PALM%20scheme%20country%20fact%20sheet%20-%20Kiribati.pdf)  
+   Link: <a href="https://www.palmscheme.gov.au/sites/default/files/2022-04/PALM%20scheme%20country%20fact%20sheet%20-%20Kiribati.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.palmscheme.gov.au/sites/default/files/2022-04/PALM%20scheme%20country%20fact%20sheet%20-%20Kiribati.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Country fact sheet KiribatiKiribati&#x27;s atolls cover a total 811 km2 of land distributed over 3.5 million km2 of ocean – an area the size o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of islands of Kiribati  
-   Link: [https://en.wikipedia.org/wiki/List_of_islands_of_Kiribati](https://en.wikipedia.org/wiki/List_of_islands_of_Kiribati)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_islands_of_Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_islands_of_Kiribati</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of islands of KiribatiThese islands are dispersed throughout the three island groups that form Kiribati: the Gilbert Islands; th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: alanbaskanligi.gov.tr  
-   Link: [https://www.alanbaskanligi.gov.tr/evrak/1/Phoen%C4%B1x%20Islands%20Protected%20Area%20Management%20Plan.pdf](https://www.alanbaskanligi.gov.tr/evrak/1/Phoen%C4%B1x%20Islands%20Protected%20Area%20Management%20Plan.pdf)  
+   Link: <a href="https://www.alanbaskanligi.gov.tr/evrak/1/Phoen%C4%B1x%20Islands%20Protected%20Area%20Management%20Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alanbaskanligi.gov.tr/evrak/1/Phoen%C4%B1x%20Islands%20Protected%20Area%20Management%20Plan.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PIPA regulations should mention no others permits to be given without consultation between MFMRD and PIPA-MC. d...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: worldatlas.com  
-   Link: [https://www.worldatlas.com/maps/kiribati](https://www.worldatlas.com/maps/kiribati)  
+   Link: <a href="https://www.worldatlas.com/maps/kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.worldatlas.com/maps/kiribati</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maps &amp; Facts23 Nov 2020 — Covering a total land area of 811 sq.km (313 sq mi), the widely scattered nation of Kiribati comprises of 32 at...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: relief.unboundmedicine.com  
-   Link: [https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=5+age+children+under+underweight+years](https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=5+age+children+under+underweight+years)  
+   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=5+age+children+under+underweight+years" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=5+age+children+under+underweight+years</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gilbert Islands became a British protectorate in 1892 and a colony in 1915; they were captured by the Japanese in the Pacific War in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: relief.unboundmedicine.com  
-   Link: [https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=15-24+ages+unemployment%2C+youth](https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=15-24+ages+unemployment%2C+youth)  
+   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=15-24+ages+unemployment%2C+youth" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563125/all/Kiribati?q=15-24+ages+unemployment%2C+youth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The US relinquished all claims to...Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: cepf.net  
-   Link: [https://www.cepf.net/resources/documents/biosecurity-guidelines-phoenix-islands-kiribati](https://www.cepf.net/resources/documents/biosecurity-guidelines-phoenix-islands-kiribati)  
+   Link: <a href="https://www.cepf.net/resources/documents/biosecurity-guidelines-phoenix-islands-kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.cepf.net/resources/documents/biosecurity-guidelines-phoenix-islands-kiribati</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biosecurity Guidelines for the Phoenix Islands, KiribatiThe total grant envelope is approximately US$6 million, and focuses on three main...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gsapskills.org  
-   Link: [https://gsapskills.org/resources/the-conservation-and-protection-of-seabirds-in-kiritimati-island/](https://gsapskills.org/resources/the-conservation-and-protection-of-seabirds-in-kiritimati-island/)  
+   Link: <a href="https://gsapskills.org/resources/the-conservation-and-protection-of-seabirds-in-kiritimati-island/" target="_blank" rel="noopener noreferrer nofollow">https://gsapskills.org/resources/the-conservation-and-protection-of-seabirds-in-kiritimati-island/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GSAP SKILLS Online Knowledge PlatformThe conservation and protection of seabirds in Kiritimati Island.The island is a key biodiversity ar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: whoi.edu  
-   Link: [https://www.whoi.edu/ocean-learning-hub/multimedia/haven-for-seabirds/](https://www.whoi.edu/ocean-learning-hub/multimedia/haven-for-seabirds/)  
+   Link: <a href="https://www.whoi.edu/ocean-learning-hub/multimedia/haven-for-seabirds/" target="_blank" rel="noopener noreferrer nofollow">https://www.whoi.edu/ocean-learning-hub/multimedia/haven-for-seabirds/</a>  
 
 25. <a id="endnote-25"></a>
    Source: atlapedia.com  
-   Link: [https://www.atlapedia.com/online/countries/kiribati.htm](https://www.atlapedia.com/online/countries/kiribati.htm)  
+   Link: <a href="https://www.atlapedia.com/online/countries/kiribati.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atlapedia.com/online/countries/kiribati.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KiribatiAdditionally, the three island groups cover an area of 3 million Sq Km (1.1 million Sq Mi) with the Gilbert Island group consisti...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: statoids.com  
-   Link: [https://statoids.com/uki.html](https://statoids.com/uki.html)  
+   Link: <a href="https://statoids.com/uki.html" target="_blank" rel="noopener noreferrer nofollow">https://statoids.com/uki.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati Island GroupsKiribati is divided into three island groups. They have no administrative function, but serve as a convenient geogr...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: electricscotland.com  
-   Link: [https://www.electricscotland.com/independence/sip/Kiribati.htm](https://www.electricscotland.com/independence/sip/Kiribati.htm)  
+   Link: <a href="https://www.electricscotland.com/independence/sip/Kiribati.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.electricscotland.com/independence/sip/Kiribati.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KiribatiThere are three groups of islands: 17 Gilbert Islands (including Banaba), eight Line Islands and eight Phoenix Islands. The north...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: kiribati.tradeportal.org  
-   Link: [https://kiribati.tradeportal.org/Home/DownloadFile?filePath=%2Fmedia%2FPhoenic+Islands+Protected+Area+Regulation.pdf&l=gl](https://kiribati.tradeportal.org/Home/DownloadFile?filePath=%2Fmedia%2FPhoenic+Islands+Protected+Area+Regulation.pdf&l=gl)  
+   Link: <a href="https://kiribati.tradeportal.org/Home/DownloadFile?filePath=%2Fmedia%2FPhoenic+Islands+Protected+Area+Regulation.pdf&amp;l=gl" target="_blank" rel="noopener noreferrer nofollow">https://kiribati.tradeportal.org/Home/DownloadFile?filePath=%2Fmedia%2FPhoenic+Islands+Protected+Area+Regulation.pdf&amp;l=gl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>islands protected area regulationsThe objective of these Regulations is to prescribe a protected area for the terrestrial and marine reso...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: fao.org  
-   Link: [https://www.fao.org/4/ad672e/ad672e10.htm](https://www.fao.org/4/ad672e/ad672e10.htm)  
+   Link: <a href="https://www.fao.org/4/ad672e/ad672e10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.fao.org/4/ad672e/ad672e10.htm</a>  
 
 30. <a id="endnote-30"></a>
    Source: abc.net.au  
-   Link: [https://www.abc.net.au/ra/pacific/places/country/kiribati.htm](https://www.abc.net.au/ra/pacific/places/country/kiribati.htm)  
+   Link: <a href="https://www.abc.net.au/ra/pacific/places/country/kiribati.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/ra/pacific/places/country/kiribati.htm</a>  
 
 31. <a id="endnote-31"></a>
    Source: pacificclimatechangescience.org  
    Title: Volume 2: Country Reports | Chapter 6: Kiribati The estimated  
-   Link: [https://www.pacificclimatechangescience.org/wp-content/uploads/2013/09/Kiribati.pdf](https://www.pacificclimatechangescience.org/wp-content/uploads/2013/09/Kiribati.pdf)  
+   Link: <a href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/09/Kiribati.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificclimatechangescience.org/wp-content/uploads/2013/09/Kiribati.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2010 population was 100 835 (Kiribati. Country Statistics, SOPAC, 2010) and the capital of Kiribati is South Tarawa in the Gilbert Island...</p></details>

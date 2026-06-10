@@ -239,7 +239,7 @@ prev_link:
   permalink: /official-checks/
   short_title: Official Checks
   heading_title: Where Would Togo UFO Records Be Found?
-date: '2026-06-09 01:42:36 '
+date: '2026-06-10 02:10:04 '
 header:
   og_image: /assets/images/Togo_30949d_thin_ufo_record_707de9-Illustration-1-social.jpg
   preview_image: /assets/images/Togo_30949d_thin_ufo_record_707de9-Illustration-1.webp
@@ -260,7 +260,7 @@ Most countries with substantial UFO histories have several layers of documentati
 
 The Lomé coastal case from 1974 dominates discussion because there are so few other widely circulated Togolese reports. Once a single case becomes the main reference point, every later mention reinforces its visibility. A reader moving through UFO databases can encounter the same incident in multiple places and mistake catalogue repetition for a broader national pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia600600.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia600600.us.archive.org</span><span class="citation-popover-snippet">Internet ArchiveTHE DEFINITIVE CASEBOOKMany UFO cases are solved in the first investigation, indeed some. 90-95 per cent of cases are ide...</span></span></span>
 
-This effect is amplified by the way international UFO catalogues operate. Large databases often collect older reports from magazines, correspondence networks, and previous catalogues. The presence of a case in several databases does not necessarily mean several investigations occurred. Sometimes it means one report was copied through multiple generations of UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaA lengthy article from the book, Flying Saucer Fantasia...This article presents various accounts of UFO and alien encounters, e...</span></span></span>
+This effect is amplified by the way international UFO catalogues operate. Large databases often collect older reports from magazines, correspondence networks, and previous catalogues. The presence of a case in several databases does not necessarily mean several investigations occurred. Sometimes it means one report was copied through multiple generations of UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A lengthy article from the book, Flying Saucer Fantasia...This article presents various accounts of UFO and alien encounters, e...</span></span></span>
 
 For Togo, that distinction is especially important because there is little publicly accessible evidence of an extensive local reporting culture that would independently confirm or challenge the better-known cases.
 
@@ -271,7 +271,7 @@ For Togo, that distinction is especially important because there is little publi
 
 Several factors help explain why Togo's UFO archive remained thin.
 
-**Limited institutional investigation.** Unlike countries that at various times created official UFO study programmes or released investigative records, there is little evidence of a sustained Togolese governmental effort devoted to UFO reporting. Without formal collection systems, many reports would never enter a durable archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaProceedings of the Sign Historical Group UFO History...January 1, 1999 — Dominique Weinstein has been compiling an “Aircraft UFO...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
+**Limited institutional investigation.** Unlike countries that at various times created official UFO study programmes or released investigative records, there is little evidence of a sustained Togolese governmental effort devoted to UFO reporting. Without formal collection systems, many reports would never enter a durable archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Proceedings of the Sign Historical Group UFO History...January 1, 1999 — Dominique Weinstein has been compiling an “Aircraft UFO...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
 
 **Weak preservation of local media records.** Historical UFO research often depends on newspapers, radio reports, police logs, and regional archives. In countries where these records are incomplete, difficult to access, or poorly digitised, older sightings become difficult to verify decades later.
 
@@ -339,89 +339,47 @@ The absence of such material does not erase the Lomé case or other catalogue en
 
 The most revealing fact about Togo's UFO history may be the scarcity of the record itself. The country illustrates how UFO narratives can become highly visible without becoming highly documented.
 
-In practical terms, the Togolese archive functions less as a large body of evidence and more as a reminder about evidence quality. A small number of reports, repeated across decades of catalogues and summaries, can generate a sense of depth that exceeds the underlying documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia600600.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia600600.us.archive.org</span><span class="citation-popover-snippet">Internet ArchiveTHE DEFINITIVE CASEBOOKMany UFO cases are solved in the first investigation, indeed some. 90-95 per cent of cases are ide...</span></span></span> Academia That does not make the surviving cases worthless. It means they should be read with unusual attention to sourcing <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaA lengthy article from the book, Flying Saucer Fantasia...This article presents various accounts of UFO and alien encounters, e...</span></span></span>, independence, and provenance. For Togo, the central question is often not whether a UFO was seen, but how much of the story can still be traced back to verifiable records rather than to the echo of repeated retellings.
+In practical terms, the Togolese archive functions less as a large body of evidence and more as a reminder about evidence quality. A small number of reports, repeated across decades of catalogues and summaries, can generate a sense of depth that exceeds the underlying documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia600600.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia600600.us.archive.org</span><span class="citation-popover-snippet">Internet ArchiveTHE DEFINITIVE CASEBOOKMany UFO cases are solved in the first investigation, indeed some. 90-95 per cent of cases are ide...</span></span></span> Academia That does not make the surviving cases worthless. It means they should be read with unusual attention to sourcing <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A lengthy article from the book, Flying Saucer Fantasia...This article presents various accounts of UFO and alien encounters, e...</span></span></span>, independence, and provenance. For Togo, the central question is often not whether a UFO was seen, but how much of the story can still be traced back to verifiable records rather than to the echo of repeated retellings.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Are Togo UFO Reports So Scarce?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Are Togo UFO Reports So Scarce?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Shows the difference between large documented case sets and thin records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Ideal for understanding how sparse records should be interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Provides broader context for modern UFO reporting and discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides standards for evaluating evidence and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -455,75 +413,71 @@ In practical terms, the Togolese archive functions less as a large body of evide
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-record-e0622a-why-are-togo-ufo-reports-so-scarce-togo-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -737,94 +691,94 @@ In practical terms, the Togolese archive functions less as a large body of evide
 
 1. <a id="endnote-1"></a>
    Source: ia600600.us.archive.org  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveTHE DEFINITIVE CASEBOOKMany UFO cases are solved in the first investigation, indeed some. 90-95 per cent of cases are ide...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700](https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaA lengthy article from the book, Flying Saucer Fantasia...This article presents various accounts of UFO and alien encounters, e...</p></details>
+   Link: <a href="https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12531317/A_lengthy_article_from_the_book_Flying_Saucer_Fantasia_Issue_3_February_2005_UFO_and_Alien_Encounters_from_around_the_globe_236_printed_pages_pp_465_700</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A lengthy article from the book, Flying Saucer Fantasia...This article presents various accounts of UFO and alien encounters, e...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop](https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaProceedings of the Sign Historical Group UFO History...January 1, 1999 — Dominique Weinstein has been compiling an “Aircraft UFO...</p></details>
+   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the Sign Historical Group UFO History...January 1, 1999 — Dominique Weinstein has been compiling an “Aircraft UFO...</p></details>
    Published: January 1, 1999  
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from Agobard of Lyons to the newly appointed...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/34922952/John_Keels_Anomaly_Newsletter_With_an_Appendix_of_Curiosities_and_Oddities_from_Mr_Keel_s_Pen_including_Notes_Articles_and_Research_Tools](https://www.academia.edu/34922952/John_Keels_Anomaly_Newsletter_With_an_Appendix_of_Curiosities_and_Oddities_from_Mr_Keel_s_Pen_including_Notes_Articles_and_Research_Tools)  
+   Link: <a href="https://www.academia.edu/34922952/John_Keels_Anomaly_Newsletter_With_an_Appendix_of_Curiosities_and_Oddities_from_Mr_Keel_s_Pen_including_Notes_Articles_and_Research_Tools" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34922952/John_Keels_Anomaly_Newsletter_With_an_Appendix_of_Curiosities_and_Oddities_from_Mr_Keel_s_Pen_including_Notes_Articles_and_Research_Tools</a>  
 
 6. <a id="endnote-6"></a>
    Source: ia803102.us.archive.org  
    Title: Official UFO Feb1977 text  
-   Link: [https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf](https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf)  
+   Link: <a href="https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Feb 1977Can Contact UFOs -. Are You One? Interview With. Dr. J. Allen Hynek. First Pictures Of. Alien Spacecraft. SMs...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm. Includes bibliographic references and index. ISBN 1-57859-029...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/techgnosis-myth-magic-and-mysticism-in-the-age-of-information-9781583949313-9781583949306-1583949313.html](https://dokumen.pub/download/techgnosis-myth-magic-and-mysticism-in-the-age-of-information-9781583949313-9781583949306-1583949313.html)  
+   Link: <a href="https://dokumen.pub/download/techgnosis-myth-magic-and-mysticism-in-the-age-of-information-9781583949313-9781583949306-1583949313.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/techgnosis-myth-magic-and-mysticism-in-the-age-of-information-9781583949313-9781583949306-1583949313.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TechGnosis... reported incidents of near-death experiences, spirit encounters, and UFO abductions. At the other end of the cultural spect...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: on this day in 1955 an incredible stand off with extraterrestrials allegedly hap  
-   Link: [https://www.facebook.com/92.5WBKR/posts/on-this-day-in-1955-an-incredible-stand-off-with-extraterrestrials-allegedly-hap/785468876916808/](https://www.facebook.com/92.5WBKR/posts/on-this-day-in-1955-an-incredible-stand-off-with-extraterrestrials-allegedly-hap/785468876916808/)  
+   Link: <a href="https://www.facebook.com/92.5WBKR/posts/on-this-day-in-1955-an-incredible-stand-off-with-extraterrestrials-allegedly-hap/785468876916808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/92.5WBKR/posts/on-this-day-in-1955-an-incredible-stand-off-with-extraterrestrials-allegedly-hap/785468876916808/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1955, an incredible stand-off with...Mystery Syndicate ▻ Alien &amp; UFO Evidence. 3y · Public · It seems we&#x27;ve got a mystery...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: avalonlibrary.net  
-   Link: [https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf](https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volu~e 2: Catalogue of Cases. by. Tho~as E. Bullard. Bloo~ington, Indiana. For. The Fund for UFO Research. 1987. Page...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/617328327480084/posts/807849341761314/](https://www.facebook.com/groups/617328327480084/posts/807849341761314/)  
+   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/807849341761314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/807849341761314/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 29th, 1989 / Case Review The Belgian UFO wave was a series of purported sightings of triangular UFOs in Belgium...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: the vilvoorde humanoid encounter from the ufo insight archives belgium  
-   Link: [https://www.facebook.com/ufoinsightcom/posts/the-vilvoorde-humanoid-encounter-from-the-ufo-insight-archives-belgium/1994113430752650/](https://www.facebook.com/ufoinsightcom/posts/the-vilvoorde-humanoid-encounter-from-the-ufo-insight-archives-belgium/1994113430752650/)  
+   Link: <a href="https://www.facebook.com/ufoinsightcom/posts/the-vilvoorde-humanoid-encounter-from-the-ufo-insight-archives-belgium/1994113430752650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/the-vilvoorde-humanoid-encounter-from-the-ufo-insight-archives-belgium/1994113430752650/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vilvoorde #Humanoid Encounter From the UFO Insight...Belgian UFO incident: Between November 1989 and April 1990, many citizens and p...</p></details>
    Published: November 1989  
 
 13. <a id="endnote-13"></a>
    Source: scispace.com  
    Title: investigating the challenges in enforcing international 51gbzierca  
-   Link: [https://scispace.com/pdf/investigating-the-challenges-in-enforcing-international-51gbzierca.pdf](https://scispace.com/pdf/investigating-the-challenges-in-enforcing-international-51gbzierca.pdf)  
+   Link: <a href="https://scispace.com/pdf/investigating-the-challenges-in-enforcing-international-51gbzierca.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/investigating-the-challenges-in-enforcing-international-51gbzierca.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>case of aliens. As part of its national sovereignty, a state was always entitled to demand respect for its own nationals abroad as any...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/452809253/Physical-Traces-pdf](https://www.scribd.com/document/452809253/Physical-Traces-pdf)  
+   Link: <a href="https://www.scribd.com/document/452809253/Physical-Traces-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452809253/Physical-Traces-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>definite physical changes in the immediate vicinity of a UFO sighting have b een recorded...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/](https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre encounter he had with a UFO and three aliens who offered him pancakes.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html](https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html)  
+   Link: <a href="https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bductions are aliens performing experiments on humans, and that there is a...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>published in 1974 and The Hynek UFO Report, published in 2020. these...Read more...</p></details>

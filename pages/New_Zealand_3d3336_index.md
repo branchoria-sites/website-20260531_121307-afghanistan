@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-zealand-3d3336-index/
 description: Focused pages that expand on What New Zealand's UFO Files Really Show.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: New_Zealand_3d3336
 parent_title: What New Zealand's UFO Files Really Show

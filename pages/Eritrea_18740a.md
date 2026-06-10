@@ -1185,7 +1185,7 @@ next_link:
   title: Uruguay UFOs
   permalink: /what-uruguays-ufo-files-really-show/
   short_title: Uruguay UFOs
-date: '2026-06-09 01:29:05 '
+date: '2026-06-10 01:54:23 '
 header:
   og_image: /assets/images/Eritrea_18740a-overview-social.jpg
   preview_image: /assets/images/Eritrea_18740a-overview.webp
@@ -1200,7 +1200,7 @@ The best way to read Eritrea’s UFO material is therefore not as a catalogue of
 <img src="{{ "/assets/images/Eritrea_18740a-overview.webp" | relative_url }}" alt="Overview image for What UFOs Have Been Reported in Eritrea and..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Eritrea’s UFO record is so thin
 
-A national UFO chronology usually depends on three things: open local reporting, aviation or military disclosure, and enough independent witnesses or investigators to compare accounts. Eritrea has very little of that in public view. Reporters Without Borders says all independent media have been banned since 2001, no foreign or national media are authorised to operate freely, and the state-controlled outlets are overseen by the Ministry of Information. It also notes that surveillance and fear limit ordinary public expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-title">Reporters Without Borders Eritrea | RSF</span><span class="citation-popover-snippet">Reporters Without Borders Eritrea | RSF</span></span></span>
+A national UFO chronology usually depends on three things: open local reporting, aviation or military disclosure, and enough independent witnesses or investigators to compare accounts. Eritrea has very little of that in public view. Reporters Without Borders says all independent media have been banned since 2001, no foreign or national media are authorised to operate freely, and the state-controlled outlets are overseen by the Ministry of Information. It also notes that surveillance and fear limit ordinary public expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-title">Reporters Without Borders Eritrea &#124; RSF</span><span class="citation-popover-snippet">Reporters Without Borders Eritrea &#124; RSF</span></span></span>
 
 That [information environment]({{ 'information-environment/' | relative_url }}) makes Eritrea different from countries where UFO cases are debated in newspapers, parliamentary files, air-traffic documents, police logs, or civilian research archives. A sighting in Eritrea may be witnessed locally, but it is much less likely to become a durable public record with date, location, weather, witness names, photographs, official response, and later correction. The result is a distorted record: a few dramatic stories travel through diaspora forums, paranormal websites, Reddit posts, and Facebook pages, while quieter mundane explanations rarely get preserved.
 
@@ -1243,7 +1243,7 @@ Sparse evidence does not mean every claim is false. It means the default explana
 
 **Space debris and rocket re-entry** are also plausible for slow, fragmenting, horizontal lights. Re-entries are especially confusing because they may last longer than a typical meteor and appear to move steadily across the sky. The European Space Agency notes that large objects re-enter the atmosphere regularly, and public re-entry forecasts are now tracked internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[reentry.esoc.esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Aircraft and military activity** deserve attention because Eritrea sits on the Red Sea corridor and has a history of strategic military importance. SKYbrary lists Eritrea within the ICAO Africa-Indian Ocean region and identifies Asmara International as a territory airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Eritrea | SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Eritrea | SKYbrary Aviation Safety</span></span></span> Eritrea also has Red Sea ports and has been tied to regional security concerns; U.S. security reporting notes that the government keeps a particularly tight hold on security in Asmara, Massawa, and Keren. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osac.gov/Country/Eritrea/Content/Detail/Report/4f8eb3c2-9eef-4a6e-baea-1c2ca21b80d4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osac.gov">[OSAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osac.gov</span><span class="citation-popover-title">Eritrea Country Security Report</span><span class="citation-popover-snippet">Eritrea Country Security Report</span></span></span> Lights from aircraft, military exercises, drones, flares, or distant activity over the Red Sea could be misread, especially where open aviation data are limited.
+**Aircraft and military activity** deserve attention because Eritrea sits on the Red Sea corridor and has a history of strategic military importance. SKYbrary lists Eritrea within the ICAO Africa-Indian Ocean region and identifies Asmara International as a territory airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Eritrea &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Eritrea &#124; SKYbrary Aviation Safety</span></span></span> Eritrea also has Red Sea ports and has been tied to regional security concerns; U.S. security reporting notes that the government keeps a particularly tight hold on security in Asmara, Massawa, and Keren. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osac.gov/Country/Eritrea/Content/Detail/Report/4f8eb3c2-9eef-4a6e-baea-1c2ca21b80d4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osac.gov">[OSAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osac.gov</span><span class="citation-popover-title">Eritrea Country Security Report</span><span class="citation-popover-snippet">Eritrea Country Security Report</span></span></span> Lights from aircraft, military exercises, drones, flares, or distant activity over the Red Sea could be misread, especially where open aviation data are limited.
 
 **Rumour under censorship** is a final explanation, not for the sky event itself but for the record that survives. In a restricted information environment, a strange story may spread without correction, while the official or technical explanation never reaches the same audience.
 
@@ -1305,86 +1305,44 @@ That makes Eritrea a cautionary page in any country-by-country UFO archive. It s
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What UFOs Have Been Reported in Eritrea and Why Evidence Is Sparse. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What UFOs Have Been Reported in Eritrea and Why Evidence Is Sparse, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for assessing limited evidence cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Examines how local stories become part of larger UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating sparse and international UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Explains how unexplained claims persist in public culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1418,75 +1376,71 @@ That makes Eritrea a cautionary page in any country-by-country UFO archive. It s
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufos-have-been-reported-in-what-ufos-have-been-reported-in-eritrea-and-why-evidence-is-spar-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1700,218 +1654,218 @@ That makes Eritrea a cautionary page in any country-by-country UFO archive. It s
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: ufo fireball destroys eritrean village in 197050  
-   Link: [https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/](https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/)  
+   Link: <a href="https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DigitalEritrea/comments/1jzfup6/ufo_fireball_destroys_eritrean_village_in_197050/</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: the shocking destruction of an ethiopian village  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/](https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
 
 5. <a id="endnote-5"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: [https://history.state.gov/historicaldocuments/frus1969-76ve06/d147](https://history.state.gov/historicaldocuments/frus1969-76ve06/d147)  
+   Link: <a href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d147" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve06/d147</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/photo.php?fbid=353794511479816&id=100064651746858&set=a.643281327836920](https://www.facebook.com/photo.php?fbid=353794511479816&id=100064651746858&set=a.643281327836920)  
+   Link: <a href="https://www.facebook.com/photo.php?fbid=353794511479816&amp;id=100064651746858&amp;set=a.643281327836920" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=353794511479816&amp;id=100064651746858&amp;set=a.643281327836920</a>  
 
 7. <a id="endnote-7"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Eritrea UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/node/44081/printable/print](https://aerospace.org/node/44081/printable/print)  
+   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
 9. <a id="endnote-9"></a>
    Source: reentry.esoc.esa.int  
-   Link: [https://reentry.esoc.esa.int/](https://reentry.esoc.esa.int/)  
+   Link: <a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
 
 10. <a id="endnote-10"></a>
    Source: skybrary.aero  
    Title: Eritrea | SKYbrary Aviation Safety  
-   Link: [https://skybrary.aero/territories/eritrea](https://skybrary.aero/territories/eritrea)  
+   Link: <a href="https://skybrary.aero/territories/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/territories/eritrea</a>  
 
 11. <a id="endnote-11"></a>
    Source: osac.gov  
    Title: Eritrea Country Security Report  
-   Link: [https://www.osac.gov/Country/Eritrea/Content/Detail/Report/4f8eb3c2-9eef-4a6e-baea-1c2ca21b80d4](https://www.osac.gov/Country/Eritrea/Content/Detail/Report/4f8eb3c2-9eef-4a6e-baea-1c2ca21b80d4)  
+   Link: <a href="https://www.osac.gov/Country/Eritrea/Content/Detail/Report/4f8eb3c2-9eef-4a6e-baea-1c2ca21b80d4" target="_blank" rel="noopener noreferrer nofollow">https://www.osac.gov/Country/Eritrea/Content/Detail/Report/4f8eb3c2-9eef-4a6e-baea-1c2ca21b80d4</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/](https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/)  
+   Link: <a href="https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1kiqkq6/hundreds_of_eyewitnesses_have_seen_a_mysterious/](https://www.reddit.com/r/ufo/comments/1kiqkq6/hundreds_of_eyewitnesses_have_seen_a_mysterious/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1kiqkq6/hundreds_of_eyewitnesses_have_seen_a_mysterious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1kiqkq6/hundreds_of_eyewitnesses_have_seen_a_mysterious/</a>  
 
 14. <a id="endnote-14"></a>
    Source: state.gov  
-   Link: [https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/eritrea](https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/eritrea)  
+   Link: <a href="https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/eritrea</a>  
 
 15. <a id="endnote-15"></a>
    Source: intelligence.gov  
-   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+   Link: <a href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/](https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/)  
+   Link: <a href="https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spaceXverse/posts/3747911192180545/](https://www.facebook.com/groups/spaceXverse/posts/3747911192180545/)  
+   Link: <a href="https://www.facebook.com/groups/spaceXverse/posts/3747911192180545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceXverse/posts/3747911192180545/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: another ufo mysterious fireball seen falling from skyunidentified object believ  
-   Link: [https://www.facebook.com/VINOLatest/posts/-another-ufo-mysterious-fireball-seen-falling-from-skyunidentified-object-believ/2739293752828074/](https://www.facebook.com/VINOLatest/posts/-another-ufo-mysterious-fireball-seen-falling-from-skyunidentified-object-believ/2739293752828074/)  
+   Link: <a href="https://www.facebook.com/VINOLatest/posts/-another-ufo-mysterious-fireball-seen-falling-from-skyunidentified-object-believ/2739293752828074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VINOLatest/posts/-another-ufo-mysterious-fireball-seen-falling-from-skyunidentified-object-believ/2739293752828074/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/](https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/)  
+   Link: <a href="https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theweathernetworkCAN/posts/what-did-we-see-in-the-sky-on-tuesday-night-a-ufo-a-bizarre-meteor-fireball-here/1178316647669955/](https://www.facebook.com/theweathernetworkCAN/posts/what-did-we-see-in-the-sky-on-tuesday-night-a-ufo-a-bizarre-meteor-fireball-here/1178316647669955/)  
+   Link: <a href="https://www.facebook.com/theweathernetworkCAN/posts/what-did-we-see-in-the-sky-on-tuesday-night-a-ufo-a-bizarre-meteor-fireball-here/1178316647669955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theweathernetworkCAN/posts/what-did-we-see-in-the-sky-on-tuesday-night-a-ufo-a-bizarre-meteor-fireball-here/1178316647669955/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/berhane.habtemariam.52/videos/asmara-to-nasa-why-eritreas-rise-is-reshaping-the-horn-of-africa-18-may-2026afri/2230889297648257/](https://www.facebook.com/berhane.habtemariam.52/videos/asmara-to-nasa-why-eritreas-rise-is-reshaping-the-horn-of-africa-18-may-2026afri/2230889297648257/)  
+   Link: <a href="https://www.facebook.com/berhane.habtemariam.52/videos/asmara-to-nasa-why-eritreas-rise-is-reshaping-the-horn-of-africa-18-may-2026afri/2230889297648257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/berhane.habtemariam.52/videos/asmara-to-nasa-why-eritreas-rise-is-reshaping-the-horn-of-africa-18-may-2026afri/2230889297648257/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/whatthefacttttt/videos/mysterious-disc-shaped-object-appearing-near-a-hidden-cave-has-sparked-intense-o/1282701627398928/](https://www.facebook.com/whatthefacttttt/videos/mysterious-disc-shaped-object-appearing-near-a-hidden-cave-has-sparked-intense-o/1282701627398928/)  
+   Link: <a href="https://www.facebook.com/whatthefacttttt/videos/mysterious-disc-shaped-object-appearing-near-a-hidden-cave-has-sparked-intense-o/1282701627398928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/videos/mysterious-disc-shaped-object-appearing-near-a-hidden-cave-has-sparked-intense-o/1282701627398928/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: hunting ufos around the worldonthisday on december 17 1969 us secretary of air f  
-   Link: [https://www.facebook.com/Media.India.Group/videos/hunting-ufos-around-the-worldonthisday-on-december-17-1969-us-secretary-of-air-f/2072831476868372/](https://www.facebook.com/Media.India.Group/videos/hunting-ufos-around-the-worldonthisday-on-december-17-1969-us-secretary-of-air-f/2072831476868372/)  
+   Link: <a href="https://www.facebook.com/Media.India.Group/videos/hunting-ufos-around-the-worldonthisday-on-december-17-1969-us-secretary-of-air-f/2072831476868372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Media.India.Group/videos/hunting-ufos-around-the-worldonthisday-on-december-17-1969-us-secretary-of-air-f/2072831476868372/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/moieritrea/posts/training-for-members-of-asmara-international-airportthe-eritrean-aviation-school/1174061618159150/](https://www.facebook.com/moieritrea/posts/training-for-members-of-asmara-international-airportthe-eritrean-aviation-school/1174061618159150/)  
+   Link: <a href="https://www.facebook.com/moieritrea/posts/training-for-members-of-asmara-international-airportthe-eritrean-aviation-school/1174061618159150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moieritrea/posts/training-for-members-of-asmara-international-airportthe-eritrean-aviation-school/1174061618159150/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/guwasot/posts/262905853853833/](https://www.facebook.com/groups/guwasot/posts/262905853853833/)  
+   Link: <a href="https://www.facebook.com/groups/guwasot/posts/262905853853833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/guwasot/posts/262905853853833/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/moieritrea/posts/ona-and-beskedira-massacres-rememberedthe-54th-anniversary-of-the-ona-and-besked/922675003297814/](https://www.facebook.com/moieritrea/posts/ona-and-beskedira-massacres-rememberedthe-54th-anniversary-of-the-ona-and-besked/922675003297814/)  
+   Link: <a href="https://www.facebook.com/moieritrea/posts/ona-and-beskedira-massacres-rememberedthe-54th-anniversary-of-the-ona-and-besked/922675003297814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moieritrea/posts/ona-and-beskedira-massacres-rememberedthe-54th-anniversary-of-the-ona-and-besked/922675003297814/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/128544650914320/posts/2409665716135524/](https://www.facebook.com/groups/128544650914320/posts/2409665716135524/)  
+   Link: <a href="https://www.facebook.com/groups/128544650914320/posts/2409665716135524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/128544650914320/posts/2409665716135524/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EriXpress/posts/on-a-thursday-morning-37-years-ago-the-small-village-of-sheeb-in-the-eastern-low/1263748642423935/](https://www.facebook.com/EriXpress/posts/on-a-thursday-morning-37-years-ago-the-small-village-of-sheeb-in-the-eastern-low/1263748642423935/)  
+   Link: <a href="https://www.facebook.com/EriXpress/posts/on-a-thursday-morning-37-years-ago-the-small-village-of-sheeb-in-the-eastern-low/1263748642423935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EriXpress/posts/on-a-thursday-morning-37-years-ago-the-small-village-of-sheeb-in-the-eastern-low/1263748642423935/</a>  
 
 29. <a id="endnote-29"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/database/countries/E3](https://aviation-safety.net/database/countries/E3)  
+   Link: <a href="https://aviation-safety.net/database/countries/E3" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/database/countries/E3</a>  
 
 30. <a id="endnote-30"></a>
    Source: esa.int  
-   Link: [https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn](https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn)  
+   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
 
 31. <a id="endnote-31"></a>
    Source: igat.icao.int  
    Title: int ICA O Training  
-   Link: [https://igat.icao.int/ated/trainingcatalogue/Profile/1317](https://igat.icao.int/ated/trainingcatalogue/Profile/1317)  
+   Link: <a href="https://igat.icao.int/ated/trainingcatalogue/Profile/1317" target="_blank" rel="noopener noreferrer nofollow">https://igat.icao.int/ated/trainingcatalogue/Profile/1317</a>  
 
 32. <a id="endnote-32"></a>
    Source: rsf.org  
    Title: Reporters Without Borders Eritrea | RSF  
-   Link: [https://rsf.org/en/country/eritrea](https://rsf.org/en/country/eritrea)  
+   Link: <a href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/eritrea</a>  
 
 33. <a id="endnote-33"></a>
    Source: hrw.org  
    Title: Human Rights Watch Hear No Evil: Forced Labor and Corporate Responsibility  
-   Link: [https://www.hrw.org/report/2013/01/15/hear-no-evil/forced-labor-and-corporate-responsibility-eritreas-mining-sector](https://www.hrw.org/report/2013/01/15/hear-no-evil/forced-labor-and-corporate-responsibility-eritreas-mining-sector)  
+   Link: <a href="https://www.hrw.org/report/2013/01/15/hear-no-evil/forced-labor-and-corporate-responsibility-eritreas-mining-sector" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/report/2013/01/15/hear-no-evil/forced-labor-and-corporate-responsibility-eritreas-mining-sector</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Asmara](https://en.wikipedia.org/wiki/Asmara)  
+   Link: <a href="https://en.wikipedia.org/wiki/Asmara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asmara</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Kagnew Station  
-   Link: [https://en.wikipedia.org/wiki/Kagnew_Station](https://en.wikipedia.org/wiki/Kagnew_Station)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kagnew_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kagnew_Station</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Eritrean War of Independence  
-   Link: [https://en.wikipedia.org/wiki/Eritrean_War_of_Independence](https://en.wikipedia.org/wiki/Eritrean_War_of_Independence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eritrean_War_of_Independence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eritrean_War_of_Independence</a>  
 
 37. <a id="endnote-37"></a>
    Source: iusecclesiae.it  
-   Link: [https://www.iusecclesiae.it/issue/view/73/63](https://www.iusecclesiae.it/issue/view/73/63)  
+   Link: <a href="https://www.iusecclesiae.it/issue/view/73/63" target="_blank" rel="noopener noreferrer nofollow">https://www.iusecclesiae.it/issue/view/73/63</a>  
 
 38. <a id="endnote-38"></a>
    Source: smartraveller.gov.au  
-   Link: [https://www.smartraveller.gov.au/destinations/africa/eritrea](https://www.smartraveller.gov.au/destinations/africa/eritrea)  
+   Link: <a href="https://www.smartraveller.gov.au/destinations/africa/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://www.smartraveller.gov.au/destinations/africa/eritrea</a>  
 
 39. <a id="endnote-39"></a>
    Source: safeairspace.net  
-   Link: [https://safeairspace.net/eritrea/](https://safeairspace.net/eritrea/)  
+   Link: <a href="https://safeairspace.net/eritrea/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/eritrea/</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFO Crash Retrieval  
-   Link: [https://www.youtube.com/watch?v=CBKYNwC-bjs](https://www.youtube.com/watch?v=CBKYNwC-bjs)  
+   Link: <a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CBKYNwC-bjs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: [https://www.youtube.com/watch?v=StHCSSjbn44](https://www.youtube.com/watch?v=StHCSSjbn44)  
+   Link: <a href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=StHCSSjbn44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: [https://www.youtube.com/watch?v=u4v6rSzXPjU](https://www.youtube.com/watch?v=u4v6rSzXPjU)  
+   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon UFO Documentary | Talking Strange...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100130004-9](https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100130004-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100130004-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100130004-9</a>  
 
 44. <a id="endnote-44"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100130004-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100130004-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100130004-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100130004-9.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp78-01634r000400120001-4](https://www.cia.gov/readingroom/document/cia-rdp78-01634r000400120001-4)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp78-01634r000400120001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78-01634r000400120001-4</a>  
 
 46. <a id="endnote-46"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5](https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5</a>  
 
 47. <a id="endnote-47"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp79-01055a000300020001-5](https://www.cia.gov/readingroom/document/cia-rdp79-01055a000300020001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79-01055a000300020001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79-01055a000300020001-5</a>  
 
 48. <a id="endnote-48"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp05s02029r000300980002-5](https://www.cia.gov/readingroom/document/cia-rdp05s02029r000300980002-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp05s02029r000300980002-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp05s02029r000300980002-5</a>  
 
 49. <a id="endnote-49"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp85-00988r000700010001-4](https://www.cia.gov/readingroom/document/cia-rdp85-00988r000700010001-4)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp85-00988r000700010001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp85-00988r000700010001-4</a>  

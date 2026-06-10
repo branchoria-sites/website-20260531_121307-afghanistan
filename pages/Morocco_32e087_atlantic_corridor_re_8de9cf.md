@@ -245,7 +245,7 @@ next_link:
   permalink: /rocket-debris/
   short_title: Rocket Debris
   heading_title: Was Morocco's Famous UFO Space Junk?
-date: '2026-06-09 01:34:49 '
+date: '2026-06-10 02:01:17 '
 header:
   og_image: /assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-1-social.jpg
   preview_image: /assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-1.webp
@@ -254,19 +254,19 @@ image: /assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-1-
 
 ## Introduction
 
-[Morocco]({{ 'moroccos-ufo-mystery-and-its-best/' | relative_url }})’s modern UFO map looks uneven not because unusual aerial reports occur only in a few places, but because reporting, documentation and investigation are concentrated in a narrow band of the country. Most publicly accessible reports come from the Atlantic corridor stretching through Agadir, El Jadida, Casablanca, Rabat and Kenitra, while large parts of the interior and eastern regions contribute comparatively little to international databases. The result is a record that can easily be mistaken for a geographic pattern when it is often a reporting pattern instead.
+Morocco’s modern UFO map looks uneven not because unusual aerial reports occur only in a few places, but because reporting, documentation and investigation are concentrated in a narrow band of the country. Most publicly accessible reports come from the Atlantic corridor stretching through Agadir, El Jadida, Casablanca, Rabat and Kenitra, while large parts of the interior and eastern regions contribute comparatively little to international databases. The result is a record that can easily be mistaken for a geographic pattern when it is often a reporting pattern instead.
 
 
 <img src="{{ "/assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-1-dark.svg" | relative_url }}" alt="Reports Today illustration 1" data-theme-src-dark="{{ "/assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Morocco lacks the dense network of civilian investigators, university researchers and public reporting mechanisms found in some countries. As a result, many sightings enter the historical record only if they occur near major population centres, attract media attention, or are submitted to foreign databases. The available evidence suggests that Morocco's UFO geography reflects population density, internet access, media visibility and institutional gaps at least as much as any underlying distribution of unusual aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Morocco/comments/1awjtbb/ufo_organisation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO organisation: r/Morocco</span><span class="citation-popover-snippet">RedditUFO organisation: r/MoroccoFebruary 21, 2024 — Is there any organisation in Morocco that studies UFO observations... UFOs in Moro...</span><span class="citation-popover-meta">Published: February 21, 2024</span></span></span>
+This matters because Morocco lacks the dense network of civilian investigators, university researchers and public reporting mechanisms found in some countries. As a result, many sightings enter the historical record only if they occur near major population centres, attract media attention, or are submitted to foreign databases. The available evidence suggests that Morocco's UFO geography reflects population density, internet access, media visibility and institutional gaps at least as much as any underlying distribution of unusual aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Morocco/comments/1awjtbb/ufo_organisation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO organisation: r/Morocco</span><span class="citation-popover-snippet">UFO organisation: r/MoroccoFebruary 21, 2024 — Is there any organisation in Morocco that studies UFO observations... UFOs in Moro...</span><span class="citation-popover-meta">Published: February 21, 2024</span></span></span>
 
 ## Why Sightings Cluster Near the Atlantic Corridor
 
 The strongest concentration of Moroccan UFO reporting lies along the country's Atlantic urban axis. This is not surprising when viewed through the wider demographics of Morocco. Casablanca, Rabat, Kenitra, El Jadida and Agadir contain large shares of the country's urban population, media infrastructure and internet-connected observers.
 
-The most famous Moroccan UFO episode, the nationwide sighting of September 1976, also followed this broad corridor. Official reports received by the Royal Gendarmerie came from Agadir, Essaouira, Casablanca, Rabat, Kenitra and other locations aligned with western Morocco. Witnesses across these areas described a luminous object travelling generally along the Atlantic side of the country. Later analysis linked the event to the re-entry of Soviet [rocket debris]({{ 'rocket-debris/' | relative_url }}), but the geography of the reports remains important because it demonstrates where observational networks were strongest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">WikiLeaksCable: 1976RABAT05209_b... (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BENSLIMANE, THE GENDARMERIE HA...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat_ref/Oberg/760919-morocco.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Overhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">760919 morocco</span><span class="citation-popover-snippet">Satellites OverheadMorocco – September 19, 1976SIGHTINGS WERE REPORTED FROM AGADIR, KALAA-SRAGHNA. ESSAOUIRA, CASABLANCA, RABAT, KENITRA...</span></span></span>
+The most famous Moroccan UFO episode, the nationwide sighting of September 1976, also followed this broad corridor. Official reports received by the Royal Gendarmerie came from Agadir, Essaouira, Casablanca, Rabat, Kenitra and other locations aligned with western Morocco. Witnesses across these areas described a luminous object travelling generally along the Atlantic side of the country. Later analysis linked the event to the re-entry of Soviet [rocket debris]({{ 'rocket-debris/' | relative_url }}), but the geography of the reports remains important because it demonstrates where observational networks were strongest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">Cable: 1976RABAT05209_b... (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BENSLIMANE, THE GENDARMERIE HA...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat_ref/Oberg/760919-morocco.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Overhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">760919 morocco</span><span class="citation-popover-snippet">Satellites OverheadMorocco – September 19, 1976SIGHTINGS WERE REPORTED FROM AGADIR, KALAA-SRAGHNA. ESSAOUIRA, CASABLANCA, RABAT, KENITRA...</span></span></span>
 
-More recent reports submitted to international databases show the same tendency. Publicly accessible entries frequently originate from Casablanca, the Casablanca-Settat region, Agadir or nearby coastal areas. Examples include reports from Casablanca, Maarif, Bir Jdid and El Jadida that entered the National UFO Reporting Center database. These cases vary greatly in quality and are not independent confirmations of unusual phenomena, but they illustrate where reports are most likely to be recorded and preserved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationNUFORC Reports by Location; Montenegro, 3; Moon, 2; Morocco, 27; Myanmar, 2.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=28970" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 28970August 20, 2023 — 3 Jun 2003 — Reported: 2003-05-28 12:54 Pacific Duration: less than a minute. No of obse...</span><span class="citation-popover-meta">Published: May 28, 2003</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=177108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 177108Reported: 2023-07-29 07:56 Pacific Duration: 5 mins. No of observers: 1. Location: Maarif, Casablanca-Settat, M...</span><span class="citation-popover-meta">Published: July 29, 2023</span></span></span>
+More recent reports submitted to international databases show the same tendency. Publicly accessible entries frequently originate from Casablanca, the Casablanca-Settat region, Agadir or nearby coastal areas. Examples include reports from Casablanca, Maarif, Bir Jdid and El Jadida that entered the National UFO Reporting Center database. These cases vary greatly in quality and are not independent confirmations of unusual phenomena, but they illustrate where reports are most likely to be recorded and preserved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Montenegro, 3; Moon, 2; Morocco, 27; Myanmar, 2.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=28970" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 28970August 20, 2023 — 3 Jun 2003 — Reported: 2003-05-28 12:54 Pacific Duration: less than a minute. No of obse...</span><span class="citation-popover-meta">Published: May 28, 2003</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=177108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 177108Reported: 2023-07-29 07:56 Pacific Duration: 5 mins. No of observers: 1. Location: Maarif, Casablanca-Settat, M...</span><span class="citation-popover-meta">Published: July 29, 2023</span></span></span>
 
 The concentration therefore reflects several overlapping factors:
 
@@ -334,7 +334,7 @@ The observation made by researchers familiar with Moroccan ufology is therefore 
 
 The 1976 event demonstrates why investigation quality matters more than raw report numbers.
 
-At the time, the sightings appeared impressive because observers across widely separated regions described similar characteristics. The event generated official concern at high levels of government and even prompted inquiries to the United States. Yet later orbital reconstruction linked the sightings to a specific Soviet rocket-body re-entry, transforming a major UFO episode into a probable aerospace event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">WikiLeaksCable: 1976RABAT05209_b... (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BENSLIMANE, THE GENDARMERIE HA...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreignpolicy.com">[Foreign Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreignpolicy.com</span><span class="citation-popover-title">wikileaked the soviet space junk that became a moroccan ufo</span><span class="citation-popover-snippet">Foreign PolicyWikiLeaked: The Soviet space junk that became a...11 Apr 2013 — WikiLeaked: The Soviet space junk that became a Moroccan U...</span></span></span>
+At the time, the sightings appeared impressive because observers across widely separated regions described similar characteristics. The event generated official concern at high levels of government and even prompted inquiries to the United States. Yet later orbital reconstruction linked the sightings to a specific Soviet rocket-body re-entry, transforming a major UFO episode into a probable aerospace event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">Cable: 1976RABAT05209_b... (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BENSLIMANE, THE GENDARMERIE HA...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreignpolicy.com">[Foreign Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreignpolicy.com</span><span class="citation-popover-title">wikileaked the soviet space junk that became a moroccan ufo</span><span class="citation-popover-snippet">Foreign PolicyWikiLeaked: The Soviet space junk that became a...11 Apr 2013 — WikiLeaked: The Soviet space junk that became a Moroccan U...</span></span></span>
 
 Many modern reports lack the documentation needed for a comparable review. A single witness observing an orb over Casablanca or a light over Agadir may be recording a genuine observation, but without supporting evidence there is often no way to distinguish between:
 
@@ -350,7 +350,7 @@ Many modern reports lack the documentation needed for a comparable review. A sin
 
 </div>
 
-The El Jadida report later marked as a probable Starlink observation illustrates how additional analysis can dramatically change an initial UFO interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 1899478 Jun 2025 — Reported: 2025-05-28 17:35 Pacific Duration: 10 min. No of observers: 30. Location: El Jadid...</span><span class="citation-popover-meta">Published: May 28, 2025</span></span></span>
+The El Jadida report later marked as a probable Starlink observation illustrates how additional analysis can dramatically change an initial UFO interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1899478 Jun 2025 — Reported: 2025-05-28 17:35 Pacific Duration: 10 min. No of observers: 30. Location: El Jadid...</span><span class="citation-popover-meta">Published: May 28, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-3-dark.svg" | relative_url }}" alt="Reports Today illustration 3" data-theme-src-dark="{{ "/assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morocco_32e087_atlantic_corridor_re_8de9cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,7 +358,7 @@ The El Jadida report later marked as a probable Starlink observation illustrates
 
 For Morocco, the central research problem is not a shortage of sightings but a shortage of systematic documentation. The Atlantic corridor dominates the visible record because it contains the country's largest urban centres and the observers most likely to report events. Meanwhile, vast areas of the country remain underrepresented in public databases.
 
-As a result, readers should be cautious when interpreting Moroccan sighting maps. Clusters around Casablanca, Rabat, Kenitra or Agadir do not automatically indicate hotspots of unusual activity. They may instead reveal where witnesses have the greatest ability to report, publish and preserve what they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 19483329 Dec 2025 — NUFORC UFO Sighting 194833. Occurred: 2023-09-05 15:00 Local... Location: Agadir,, Morocco Loca...</span><span class="citation-popover-meta">Published: September 5, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationNUFORC Reports by Location; Montenegro, 3; Moon, 2; Morocco, 27; Myanmar, 2.Read more...</span></span></span>
+As a result, readers should be cautious when interpreting Moroccan sighting maps. Clusters around Casablanca, Rabat, Kenitra or Agadir do not automatically indicate hotspots of unusual activity. They may instead reveal where witnesses have the greatest ability to report, publish and preserve what they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 19483329 Dec 2025 — NUFORC UFO Sighting 194833. Occurred: 2023-09-05 15:00 Local... Location: Agadir,, Morocco Loca...</span><span class="citation-popover-meta">Published: September 5, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Montenegro, 3; Moon, 2; Morocco, 27; Myanmar, 2.Read more...</span></span></span>
 
 Within the broader Moroccan UFO record, this reporting imbalance is one of the most important facts to understand. The country's best-known case survived because official institutions documented it. Most modern cases do not receive comparable scrutiny. Until more consistent local investigation exists, Morocco's UFO geography will continue to reflect gaps in reporting infrastructure as much as it reflects events in the sky.
 
@@ -367,86 +367,44 @@ Within the broader Moroccan UFO record, this reporting imbalance is one of the m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Morocco&#x27;s UFO Map Looks So Uneven. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Morocco&#x27;s UFO Map Looks So Uneven, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for analysing reporting patterns and sighting distributions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Examines historical patterns in aerial reports across regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for credible reporting versus anecdotal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding regional clusters and cultural transmission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -480,75 +438,71 @@ Within the broader Moroccan UFO record, this reporting imbalance is one of the m
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-today-why-morocco-s-ufo-map-looks-so-uneven-morocco-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -763,147 +717,147 @@ Within the broader Moroccan UFO record, this reporting imbalance is one of the m
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: UFO organisation: r/Morocco  
-   Link: [https://www.reddit.com/r/Morocco/comments/1awjtbb/ufo_organisation/](https://www.reddit.com/r/Morocco/comments/1awjtbb/ufo_organisation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO organisation: r/MoroccoFebruary 21, 2024 — Is there any organisation in Morocco that studies UFO observations... UFOs in Moro...</p></details>
+   Link: <a href="https://www.reddit.com/r/Morocco/comments/1awjtbb/ufo_organisation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Morocco/comments/1awjtbb/ufo_organisation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO organisation: r/MoroccoFebruary 21, 2024 — Is there any organisation in Morocco that studies UFO observations... UFOs in Moro...</p></details>
    Published: February 21, 2024  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationNUFORC Reports by Location; Montenegro, 3; Moon, 2; Morocco, 27; Myanmar, 2.Read more...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Montenegro, 3; Moon, 2; Morocco, 27; Myanmar, 2.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wikileaks.org  
    Title: 1976RABAT05209 b  
-   Link: [https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html](https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiLeaksCable: 1976RABAT05209_b... (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BENSLIMANE, THE GENDARMERIE HA...</p></details>
+   Link: <a href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1976RABAT05209_b... (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BENSLIMANE, THE GENDARMERIE HA...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=28970](https://nuforc.org/sighting/?id=28970)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 28970August 20, 2023 — 3 Jun 2003 — Reported: 2003-05-28 12:54 Pacific Duration: less than a minute. No of obse...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=28970" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28970</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 28970August 20, 2023 — 3 Jun 2003 — Reported: 2003-05-28 12:54 Pacific Duration: less than a minute. No of obse...</p></details>
    Published: May 28, 2003  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=177108](https://nuforc.org/sighting/?id=177108)  
+   Link: <a href="https://nuforc.org/sighting/?id=177108" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177108</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 177108Reported: 2023-07-29 07:56 Pacific Duration: 5 mins. No of observers: 1. Location: Maarif, Casablanca-Settat, M...</p></details>
    Published: July 29, 2023  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190921](https://nuforc.org/sighting/?id=190921)  
+   Link: <a href="https://nuforc.org/sighting/?id=190921" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190921</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19092113 Jul 2025 — Reported: 2025-07-11 16:46 Pacific Duration: 40 minutes ongoing. No of observers: 1. Location: Bi...</p></details>
    Published: July 11, 2025  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=189947](https://nuforc.org/sighting/?id=189947)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 1899478 Jun 2025 — Reported: 2025-05-28 17:35 Pacific Duration: 10 min. No of observers: 30. Location: El Jadid...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=189947" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189947</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1899478 Jun 2025 — Reported: 2025-05-28 17:35 Pacific Duration: 10 min. No of observers: 30. Location: El Jadid...</p></details>
    Published: May 28, 2025  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 26, 2026 — The National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Washington State...</p></details>
    Published: March 26, 2026  
 
 9. <a id="endnote-9"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed to hel...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ovni-maroc.blogspot.com  
    Title: Ovni Maroc1  
-   Link: [https://ovni-maroc.blogspot.com/p/ouvrage-lhistoire-des-ovnis-au-maroc.html](https://ovni-maroc.blogspot.com/p/ouvrage-lhistoire-des-ovnis-au-maroc.html)  
+   Link: <a href="https://ovni-maroc.blogspot.com/p/ouvrage-lhistoire-des-ovnis-au-maroc.html" target="_blank" rel="noopener noreferrer nofollow">https://ovni-maroc.blogspot.com/p/ouvrage-lhistoire-des-ovnis-au-maroc.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUVRAGE &quot;L&#x27;HISTOIRE DES OVNIS AU MAROC&quot;... ufo-sightings-in-morocco-in-1967/ Document Défense Américaine: http... Maroc - Communiqué pa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=194833](https://nuforc.org/sighting/?id=194833)  
+   Link: <a href="https://nuforc.org/sighting/?id=194833" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194833</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19483329 Dec 2025 — NUFORC UFO Sighting 194833. Occurred: 2023-09-05 15:00 Local... Location: Agadir,, Morocco Loca...</p></details>
    Published: September 5, 2023  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaThis is a list of alleged sightings of unidentified flying objects (UFO) in Africa. Contents. 1 Algeria; 2 Bots...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Morocco/comments/15c31jp/theyre_like_5_dots_in_morocco_does_anyone_recall/](https://www.reddit.com/r/Morocco/comments/15c31jp/theyre_like_5_dots_in_morocco_does_anyone_recall/)  
+   Link: <a href="https://www.reddit.com/r/Morocco/comments/15c31jp/theyre_like_5_dots_in_morocco_does_anyone_recall/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Morocco/comments/15c31jp/theyre_like_5_dots_in_morocco_does_anyone_recall/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re like 5 dots in Morocco, does anyone recall an event...They&#x27;re like 5 dots in Morocco, does anyone recall an event where UFOs wer...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: satobs.org  
    Title: 760919 morocco  
-   Link: [https://satobs.org/seesat_ref/Oberg/760919-morocco.pdf](https://satobs.org/seesat_ref/Oberg/760919-morocco.pdf)  
+   Link: <a href="https://satobs.org/seesat_ref/Oberg/760919-morocco.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/Oberg/760919-morocco.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadMorocco – September 19, 1976SIGHTINGS WERE REPORTED FROM AGADIR, KALAA-SRAGHNA. ESSAOUIRA, CASABLANCA, RABAT, KENITRA...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: satobs.org  
-   Link: [https://satobs.org/seesat/Oct-2012/0047.html](https://satobs.org/seesat/Oct-2012/0047.html)  
+   Link: <a href="https://satobs.org/seesat/Oct-2012/0047.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0047.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moroccan UFO of Sep 1976 Correlates With Sate5 Oct 2012 — Moroccan UFO of Sep 1976 Correlates With Satellite Re-entry · Previous message...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: foreignpolicy.com  
    Title: wikileaked the soviet space junk that became a moroccan ufo  
-   Link: [https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/](https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/)  
+   Link: <a href="https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign PolicyWikiLeaked: The Soviet space junk that became a...11 Apr 2013 — WikiLeaked: The Soviet space junk that became a Moroccan U...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/ma](https://enigmalabs.io/explore/ma)  
+   Link: <a href="https://enigmalabs.io/explore/ma" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ma</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUFO Sightings in MoroccoExplore UFO &amp; UAP sightings in Morocco. Discover sighting maps, historical and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: astronautix.com  
-   Link: [https://www.astronautix.com/g/giantufoovetwocontinents.html](https://www.astronautix.com/g/giantufoovetwocontinents.html)  
+   Link: <a href="https://www.astronautix.com/g/giantufoovetwocontinents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/g/giantufoovetwocontinents.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant UFO Over Two ContinentsAnother major factor is that there are too many UFO reports to be handled by the handful of qualified part-t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings](https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFROC UFO SIGHTINGSContains the full URL linking to the detailed UFO sighting report on the NUFORC website. This allows users to view th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Challenge.maroc/posts/ovni-entre-science-et-myst%C3%A8re-au-maroc-avec-les-r%C3%A9v%C3%A9lations-du-congr%C3%A8s-am%C3%A9ricain/982120313933051/](https://www.facebook.com/Challenge.maroc/posts/ovni-entre-science-et-myst%C3%A8re-au-maroc-avec-les-r%C3%A9v%C3%A9lations-du-congr%C3%A8s-am%C3%A9ricain/982120313933051/)  
+   Link: <a href="https://www.facebook.com/Challenge.maroc/posts/ovni-entre-science-et-myst%C3%A8re-au-maroc-avec-les-r%C3%A9v%C3%A9lations-du-congr%C3%A8s-am%C3%A9ricain/982120313933051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Challenge.maroc/posts/ovni-entre-science-et-myst%C3%A8re-au-maroc-avec-les-r%C3%A9v%C3%A9lations-du-congr%C3%A8s-am%C3%A9ricain/982120313933051/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI: Entre science et mystère au Maroc 🛸 Avec les...Selon le National UFO Reporting Center - une base de données en ligne des prétendu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217](https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217)  
+   Link: <a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tehran IncidentThis was the first major reported sighting of a UFO in Iran. It also coincided with another major sighting in Morocco whic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005516149](https://www.cia.gov/readingroom/document/0005516149)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005516149" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516149</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Document Type: FOIA. Keywords: UFO SPECIAL COLLECTION. Collection: FOIA Collection. Document...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/cia-declassifies-hundreds-secret-1950s-x-files-ufo-sightings-around-world-1541299](https://www.ibtimes.co.uk/cia-declassifies-hundreds-secret-1950s-x-files-ufo-sightings-around-world-1541299)  
+   Link: <a href="https://www.ibtimes.co.uk/cia-declassifies-hundreds-secret-1950s-x-files-ufo-sightings-around-world-1541299" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/cia-declassifies-hundreds-secret-1950s-x-files-ufo-sightings-around-world-1541299</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA declassifies hundreds of secret 1950s &#x27;X-files&#x27; on UFO...1 Feb 2016 — The documents detail various UFO sightings around the globe an...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hespresseng/videos/unidentified-flying-object-flies-over-morocco/1749360845990038/](https://www.facebook.com/hespresseng/videos/unidentified-flying-object-flies-over-morocco/1749360845990038/)  
+   Link: <a href="https://www.facebook.com/hespresseng/videos/unidentified-flying-object-flies-over-morocco/1749360845990038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hespresseng/videos/unidentified-flying-object-flies-over-morocco/1749360845990038/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moroccan sky, sparking speculations on whether it&#x27;s a meteor or a rocket launch. #Morocco #UFO #Meteor #CMI #HespressEng &amp;middot; Reda Ay...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: uapcheck.com  
    Title: uap in africa books and publications from the black continent  
-   Link: [https://www.uapcheck.com/news/id/2705/uap-in-africa-books-and-publications-from-the-black-continent/](https://www.uapcheck.com/news/id/2705/uap-in-africa-books-and-publications-from-the-black-continent/)  
+   Link: <a href="https://www.uapcheck.com/news/id/2705/uap-in-africa-books-and-publications-from-the-black-continent/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2705/uap-in-africa-books-and-publications-from-the-black-continent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP in Africa: Books and Publications from the Black...23 Jul 2024 — The first book about UFOs in Africa was published as early as 1955...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nhregister.com  
    Title: The Navy says those UFO videos are real 14449261  
-   Link: [https://www.nhregister.com/news/article/The-Navy-says-those-UFO-videos-are-real-14449261.php](https://www.nhregister.com/news/article/The-Navy-says-those-UFO-videos-are-real-14449261.php)  
+   Link: <a href="https://www.nhregister.com/news/article/The-Navy-says-those-UFO-videos-are-real-14449261.php" target="_blank" rel="noopener noreferrer nofollow">https://www.nhregister.com/news/article/The-Navy-says-those-UFO-videos-are-real-14449261.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy has confirmed that three online videos purportedly showing UFOs are genuine. The Navy says the videos, taken by Navy pilots, show...</p></details>

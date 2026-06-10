@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-checks-3278e7/
   short_title: Sky Checks
   heading_title: How to Check Vanuatu Moving Lights
-date: '2026-06-09 01:44:56 '
+date: '2026-06-10 02:12:45 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1-social.jp
 
 ## Introduction
 
-Anyone looking for a [Vanuatu]({{ 'what-really-explains-vanuatus-strange/' | relative_url }}) equivalent of the United States’ UAP archive or the United Kingdom’s Ministry of Defence UFO files quickly runs into a basic problem: there is very little to find. Public records in Vanuatu are rich in areas such as volcanology, weather monitoring, disaster response and aviation safety, but there is no known public national archive dedicated to UFO or UAP investigations. That absence shapes nearly every discussion of unusual aerial reports in the country.
+Anyone looking for a Vanuatu equivalent of the United States’ UAP archive or the United Kingdom’s Ministry of Defence UFO files quickly runs into a basic problem: there is very little to find. Public records in Vanuatu are rich in areas such as volcanology, weather monitoring, disaster response and aviation safety, but there is no known public national archive dedicated to UFO or UAP investigations. That absence shapes nearly every discussion of unusual aerial reports in the country.
 
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -281,7 +281,7 @@ This matters because many of the country's most visually dramatic phenomena orig
 
 When residents report strange lights near volcanic regions such as Epi, Ambrym or Tanna, the most detailed official records available are usually hazard bulletins, volcanic monitoring updates and scientific observations rather than UFO investigation files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span>
 
-Civil aviation records present a similar pattern. Vanuatu's aviation framework focuses on flight operations, safety regulation and incident management. Publicly available aviation material does not reveal a dedicated UFO reporting programme, publicly searchable UAP database or specialist investigative office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caav.vu/civil-aviation-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caav.vu">[caav.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caav.vu</span><span class="citation-popover-title">Civil Aviation Act</span><span class="citation-popover-snippet">CAAV8 Aug 2023 — Civil Aviation Act [CAP.258] · LAWS OF THE REPUBLIC OF VANUATU · CONSOLIDATED EDITION 2021 · CHAPTER 258 · CIVIL AVIATIO...</span></span></span>
+Civil aviation records present a similar pattern. Vanuatu's aviation framework focuses on flight operations, safety regulation and incident management. Publicly available aviation material does not reveal a dedicated UFO reporting programme, publicly searchable UAP database or specialist investigative office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caav.vu/civil-aviation-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caav.vu">[caav.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caav.vu</span><span class="citation-popover-title">Civil Aviation Act</span><span class="citation-popover-snippet">8 Aug 2023 — Civil Aviation Act [CAP.258] · LAWS OF THE REPUBLIC OF VANUATU · CONSOLIDATED EDITION 2021 · CHAPTER 258 · CIVIL AVIATIO...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3o6HARPVkaE" title="A mess and a hospital in Espiritu Santo, Vanuatu during World War II. HD Stock Footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3o6HARPVkaE" target="_blank" rel="noopener noreferrer">A mess and a hospital in Espiritu Santo, Vanuatu during World War II. HD Stock Footage</a></p><p class="youtube-embed-meta">Channel: CriticalPast &middot; Views: 5.4K &middot; Uploaded: May 2014 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3o6HARPVkaE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3o6HARPVkaE">Open on YouTube</a></p></div></div></div>
@@ -333,7 +333,7 @@ This creates a recurring pattern:
 
 </div>
 
-The reported strange light seen from parts of Epi illustrates the problem. Public discussion exists, and the observation became locally notable. Yet the surviving record is extremely thin compared with the documentation available for the nearby submarine volcanic activity monitored by scientists and government agencies. Researchers therefore possess detailed geological records but only fragmentary sighting records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe residents of Epi Island in the South and West have...Chad Buchanan ▻ Latest UFO Sightings. 1y · Public · Last winter my frie...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span>
+The reported strange light seen from parts of Epi illustrates the problem. Public discussion exists, and the observation became locally notable. Yet the surviving record is extremely thin compared with the documentation available for the nearby submarine volcanic activity monitored by scientists and government agencies. Researchers therefore possess detailed geological records but only fragmentary sighting records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The residents of Epi Island in the South and West have...Chad Buchanan ▻ Latest UFO Sightings. 1y · Public · Last winter my frie...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span>
 
 From a historical perspective, this means that future investigators may know far more about volcanic conditions on a given night than about what witnesses actually believed they saw.
 
@@ -378,14 +378,14 @@ Researchers studying a reported sighting in Vanuatu can frequently access:
 * VMGD volcanic bulletins.
 * Geohazard monitoring information.
 * Weather records.
-* Public aviation regulations and operational data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caav.vu/fligth-safety/flight-operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caav.vu">[caav.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caav.vu</span><span class="citation-popover-title">Flight Operations</span><span class="citation-popover-snippet">CAAV12 Dec 2022 — Flight Operations is a vital division of CAAV&#x27;s Aviation Safety and Security Regulations department. Its operational re...</span></span></span>
+* Public aviation regulations and operational data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caav.vu/fligth-safety/flight-operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caav.vu">[caav.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caav.vu</span><span class="citation-popover-title">Flight Operations</span><span class="citation-popover-snippet">12 Dec 2022 — Flight Operations is a vital division of CAAV&#x27;s Aviation Safety and Security Regulations department. Its operational re...</span></span></span>
 * News coverage of eruptions, storms or unusual environmental events.
 
 </div>
 
 These sources do not prove a UFO explanation or a conventional explanation. They provide context that helps narrow possibilities.
 
-For example, documented volcanic unrest, ash emissions or submarine activity may explain reports of glowing horizons or unusual lights near active zones. Likewise, known aircraft routes, satellites or atmospheric effects can sometimes account for observations that initially appeared mysterious. The key point is that the supporting records often exist, but they belong to hazard monitoring and aviation systems rather than UFO archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caav.vu/fligth-safety/flight-operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caav.vu">[caav.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caav.vu</span><span class="citation-popover-title">Flight Operations</span><span class="citation-popover-snippet">CAAV12 Dec 2022 — Flight Operations is a vital division of CAAV&#x27;s Aviation Safety and Security Regulations department. Its operational re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span>
+For example, documented volcanic unrest, ash emissions or submarine activity may explain reports of glowing horizons or unusual lights near active zones. Likewise, known aircraft routes, satellites or atmospheric effects can sometimes account for observations that initially appeared mysterious. The key point is that the supporting records often exist, but they belong to hazard monitoring and aviation systems rather than UFO archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caav.vu/fligth-safety/flight-operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caav.vu">[caav.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caav.vu</span><span class="citation-popover-title">Flight Operations</span><span class="citation-popover-snippet">12 Dec 2022 — Flight Operations is a vital division of CAAV&#x27;s Aviation Safety and Security Regulations department. Its operational re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jK8pFfuwHYw" title="Trump Releases New UFO Files LIVE: US Jet Shoots Down Mystery UFO | Vantage LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jK8pFfuwHYw" target="_blank" rel="noopener noreferrer">Trump Releases New UFO Files LIVE: US Jet Shoots Down Mystery UFO | Vantage LIVE</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 2.7K &middot; Uploaded: May 2026 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jK8pFfuwHYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jK8pFfuwHYw">Open on YouTube</a></p></div></div></div>
@@ -409,86 +409,44 @@ That shifts the burden of interpretation. Extraordinary claims are harder to ver
 The strongest conclusion supported by the current evidence is therefore modest. Vanuatu possesses abundant official documentation of hazards that can produce unusual visual phenomena, but very little evidence of a dedicated UFO-recording system. The country's UFO history is defined less by secret files than by missing files: a landscape where reports occasionally surface, yet the institutions most capable of preserving them were built to monitor volcanoes, weather and risk rather than unidentified objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mocca.gov.vu/index.php/departments/department-of-meteorology-geo-hazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mocca.gov.vu">[mocca.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mocca.gov.vu</span><span class="citation-popover-title">department of meteorology geo hazards</span><span class="citation-popover-snippet">Department of Meteorology &amp; Geo-Hazards16 Nov 2021 — The Vanuatu Meteorology and Geo-Hazards Department (VMGD) has a vision to be a world...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mocca.gov.vu/index.php/departments/department-of-meteorology-geo-hazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mocca.gov.vu">[mocca.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mocca.gov.vu</span><span class="citation-popover-title">department of meteorology geo hazards</span><span class="citation-popover-snippet">Department of Meteorology &amp; Geo-Hazards16 Nov 2021 — The Vanuatu Meteorology and Geo-Hazards Department (VMGD) has a vision to be a world...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Vanuatu Has So Few UFO Files. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Vanuatu Has So Few UFO Files, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses evidence, case files and the limits of UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful comparison point for understanding why some countries have extensive UFO files and others do not.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines documented cases and official reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides context on how different countries and archives are represented in UFO literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -522,75 +480,71 @@ The strongest conclusion supported by the current evidence is therefore modest. 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-f983d7-why-vanuatu-has-so-few-ufo-files-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -804,147 +758,147 @@ The strongest conclusion supported by the current evidence is therefore modest. 
 
 1. <a id="endnote-1"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/geohazards](https://www.vmgd.gov.vu/geohazards)  
+   Link: <a href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in real-time (or near real-time)Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/](https://www.vmgd.gov.vu/)  
+   Link: <a href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanuatu Meteorology and Geohazards DepartmentWeather forecasts, severe weather warnings, weather observations and climate updates for Van...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mocca.gov.vu  
    Title: Meteorology, Geological Hazards and Climate Change Act 2016  
-   Link: [https://mocca.gov.vu/images/publications/legislation/VMGD/Meteorology%2C%20Geological%20Hazards%20and%20Climate%20Change%20Act%202016.pdf](https://mocca.gov.vu/images/publications/legislation/VMGD/Meteorology%2C%20Geological%20Hazards%20and%20Climate%20Change%20Act%202016.pdf)  
+   Link: <a href="https://mocca.gov.vu/images/publications/legislation/VMGD/Meteorology%2C%20Geological%20Hazards%20and%20Climate%20Change%20Act%202016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mocca.gov.vu/images/publications/legislation/VMGD/Meteorology%2C%20Geological%20Hazards%20and%20Climate%20Change%20Act%202016.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>REPUBLIC OF VANUATU. Assent: 26/01/2017. Commencement: 01/02/2017. METEOROLOGY, GEOLOGICAL HAZARDS AND CLIMATECHANGE.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mocca.gov.vu  
    Title: department of meteorology geo hazards  
-   Link: [https://mocca.gov.vu/index.php/departments/department-of-meteorology-geo-hazards](https://mocca.gov.vu/index.php/departments/department-of-meteorology-geo-hazards)  
+   Link: <a href="https://mocca.gov.vu/index.php/departments/department-of-meteorology-geo-hazards" target="_blank" rel="noopener noreferrer nofollow">https://mocca.gov.vu/index.php/departments/department-of-meteorology-geo-hazards</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Meteorology &amp; Geo-Hazards16 Nov 2021 — The Vanuatu Meteorology and Geo-Hazards Department (VMGD) has a vision to be a world...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: caav.vu  
    Title: Civil Aviation Act  
-   Link: [https://caav.vu/civil-aviation-act/](https://caav.vu/civil-aviation-act/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAAV8 Aug 2023 — Civil Aviation Act [CAP.258] · LAWS OF THE REPUBLIC OF VANUATU · CONSOLIDATED EDITION 2021 · CHAPTER 258 · CIVIL AVIATIO...</p></details>
+   Link: <a href="https://caav.vu/civil-aviation-act/" target="_blank" rel="noopener noreferrer nofollow">https://caav.vu/civil-aviation-act/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aug 2023 — Civil Aviation Act [CAP.258] · LAWS OF THE REPUBLIC OF VANUATU · CONSOLIDATED EDITION 2021 · CHAPTER 258 · CIVIL AVIATIO...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: caav.vu  
    Title: Flight Operations  
-   Link: [https://caav.vu/fligth-safety/flight-operations/](https://caav.vu/fligth-safety/flight-operations/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAAV12 Dec 2022 — Flight Operations is a vital division of CAAV&#x27;s Aviation Safety and Security Regulations department. Its operational re...</p></details>
+   Link: <a href="https://caav.vu/fligth-safety/flight-operations/" target="_blank" rel="noopener noreferrer nofollow">https://caav.vu/fligth-safety/flight-operations/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Dec 2022 — Flight Operations is a vital division of CAAV&#x27;s Aviation Safety and Security Regulations department. Its operational re...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO) and... Records Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archives...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of De...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports, correspondence and parliamentary business (1950-1995). Search Discovery, our catalogue in DEFE, AIR, FCO and BJ for records...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO) and unidentified anomalous phenomena (UAP) investigations, sightings, and reporting... UFOs (National Archives Identifier: 4816164...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/](https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe residents of Epi Island in the South and West have...Chad Buchanan ▻ Latest UFO Sightings. 1y · Public · Last winter my frie...</p></details>
+   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The residents of Epi Island in the South and West have...Chad Buchanan ▻ Latest UFO Sightings. 1y · Public · Last winter my frie...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanuatu UFO Sightings and Experience ReportsWe are working as quickly as possible to add all received Vanuatu UFO and alien contact exper...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: www.gov.uk Safety and security  
-   Link: [https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security](https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security)  
+   Link: <a href="https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and security - Vanuatu travel adviceMonitor local news and check World Meteorological Organization weather reports for Vanuatu and the Va...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
    Title: Fortean Times 06.2021 djvu.txt  
-   Link: [https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt](https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt)  
+   Link: <a href="https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Fortean Times 2021&quot;... UFOs and other strange phenomena as he never mentioned the subject in... UFO SIGHTINGS UP Canadian...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/](https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/)  
+   Link: <a href="https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nothing out of the ordinary. But out between...UFO sighting off Okinawa, Japan coast. Last Light Archive ▻ UFO, Aliens, Other Planets an...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: fyi.org.nz  
-   Link: [https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications](https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications)  
+   Link: <a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure of Civil Aviation Authority&#x27;s UAP/UFO Handling...14 Feb 2024 — Request access to any documents, reports, or records held by t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ubuy.vu  
-   Link: [https://www.ubuy.vu/fr/product/1CEH0DJGG-ufo-drawings-from-the-national-archives-four-corners-irregulars](https://www.ubuy.vu/fr/product/1CEH0DJGG-ufo-drawings-from-the-national-archives-four-corners-irregulars)  
+   Link: <a href="https://www.ubuy.vu/fr/product/1CEH0DJGG-ufo-drawings-from-the-national-archives-four-corners-irregulars" target="_blank" rel="noopener noreferrer nofollow">https://www.ubuy.vu/fr/product/1CEH0DJGG-ufo-drawings-from-the-national-archives-four-corners-irregulars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Drawings from the National Archives (Four VanuatuUFO Enthusiasts. Individuals passionate about UFOs will appreciate the unique histor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and paranormal events for w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoqKZhX_KfVEMiYGfApAJAwDPfqZlTP5IKukwrwyFWMSgJeyxZ4c](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoqKZhX_KfVEMiYGfApAJAwDPfqZlTP5IKukwrwyFWMSgJeyxZ4c)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoqKZhX_KfVEMiYGfApAJAwDPfqZlTP5IKukwrwyFWMSgJeyxZ4c" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoqKZhX_KfVEMiYGfApAJAwDPfqZlTP5IKukwrwyFWMSgJeyxZ4c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The government&#x27;s approach to UFOs has undergone a remarkable transformation since the...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: (PDF) A global picture of unidentified anomalous phenomena  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFOs spotted in UK in just two years. — all the unexplained sightings mapped. The Express. [https://www.express.co.uk/news/weird/1814016/u...&quot;](https://www.express.co.uk/news/weird/1814016/u...&quot;)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-pacific-theater-island-representations-of-world-war-ii-4ng0c24use.pdf](https://scispace.com/pdf/the-pacific-theater-island-representations-of-world-war-ii-4ng0c24use.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-pacific-theater-island-representations-of-world-war-ii-4ng0c24use.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-pacific-theater-island-representations-of-world-war-ii-4ng0c24use.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pacific Theater: Island Representations of World War IIThe daily entries consist primarily of a running record of reports...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: [https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/](https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/)  
+   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2018 — On 8 March I returned to Kew to present a public lecture on completion of my research into the extensive British Government...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: myfivethings.com  
    Title: james fox unidentified aerial phenomena ufos  
-   Link: [https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/](https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/)  
+   Link: <a href="https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Fox: Unidentified Aerial Phenomena20 Jan 2022 — In this 90-minute session, I&#x27;ll share with you: The remarkable, consistent, and sti...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theparisreview.org  
    Title: ufo drawings from the national archives  
-   Link: [https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/](https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/)  
+   Link: <a href="https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2018/03/12/ufo-drawings-from-the-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Mar 2018 — In the UK, some believe the Ministry of Defense operates a &quot;secret army against the aliens&quot; to remove evidence of UFO visit...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pacificmet.net  
    Title: PMC 3 WP 4.18 Vanuatu Country Report  
-   Link: [https://www.pacificmet.net/sites/default/files/inline-files/documents/PMC-3%20WP%204.18_Vanuatu%20Country%20Report.pdf](https://www.pacificmet.net/sites/default/files/inline-files/documents/PMC-3%20WP%204.18_Vanuatu%20Country%20Report.pdf)  
+   Link: <a href="https://www.pacificmet.net/sites/default/files/inline-files/documents/PMC-3%20WP%204.18_Vanuatu%20Country%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificmet.net/sites/default/files/inline-files/documents/PMC-3%20WP%204.18_Vanuatu%20Country%20Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanuatu Meteorology and Geo-Hazards Country Report7 Mar 2015 — VMGD works to achieve its vision by being a fully professional institution...</p></details>

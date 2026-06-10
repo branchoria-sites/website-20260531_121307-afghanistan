@@ -239,7 +239,7 @@ prev_link:
   permalink: /sky-cameras/
   short_title: Sky Cameras
   heading_title: How UAE Sky Cameras Check the Rumors
-date: '2026-06-09 01:44:09 '
+date: '2026-06-10 02:11:53 '
 header:
   og_image: /assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-1-social.jpg
   preview_image: /assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-1.webp
@@ -344,86 +344,44 @@ The development of national monitoring systems has strengthened that process. Ne
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When UAE UFOs Are Space Debris. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When UAE UFOs Are Space Debris, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for distinguishing astronomical events from unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides broader context for unresolved versus identified events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Directly addresses phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages evidence-based interpretation of dramatic sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -457,59 +415,71 @@ The development of national monitoring systems has strengthened that process. Ne
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade DIY Solar Satellite Model for Home Decor"><img src="https://i.ebayimg.com/images/g/2IQAAOSwrCdoAi2j/s-l225.jpg" alt="Listing image for Handmade DIY Solar Satellite Model for Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Handmade DIY Solar Satellite Model for Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="https://i.ebayimg.com/images/g/o8UAAeSwIJ9pOcZJ/s-l225.jpg" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="when-uae-ufos-are-space-debris-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-debris-fe3650-when-uae-ufos-are-space-debris-united-arab-emirates-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -724,134 +694,134 @@ The development of national monitoring systems has strengthened that process. Ne
 1. <a id="endnote-1"></a>
    Source: watchers.news  
    Title: sl 4 rocket body reentry dubai uae  
-   Link: [https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/](https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/)  
+   Link: <a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — An atmospheric reentry of a Russian SL-4 rocket body created a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/article/what-does-reentry-look-like](https://aerospace.org/article/what-does-reentry-look-like)  
+   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: astronomycenter.net  
-   Link: [https://astronomycenter.net/uacn/index.html?l=en](https://astronomycenter.net/uacn/index.html?l=en)  
+   Link: <a href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/uacn/index.html?l=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: watchers.news  
    Title: uae meteor detecting stations  
-   Link: [https://watchers.news/2016/11/15/uae-meteor-detecting-stations/](https://watchers.news/2016/11/15/uae-meteor-detecting-stations/)  
+   Link: <a href="https://watchers.news/2016/11/15/uae-meteor-detecting-stations/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2016/11/15/uae-meteor-detecting-stations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>now in operation15 Nov 2016 — Three stations for detecting meteors in the United Arab Emirates are now operational, the UAE Space Agency...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.gov.ae  
    Title: the uae meteor monitoring network  
-   Link: [https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network](https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network)  
+   Link: <a href="https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>وكالة الإمارات للفضاءThe UAE Meteor Monitoring Network16 Apr 2026 — The purpose of the project is to monitor the sky for any type of spac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sharjah.ac.ae  
-   Link: [https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN](https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN)  
+   Link: <a href="https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN" target="_blank" rel="noopener noreferrer nofollow">https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SharjahUAEMMNIt is designed to monitor the skies over the UAE for space debris, including both human-made objects like sate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: research.uaeu.ac.ae  
    Title: observations of fireballs with the uae meteor monitoring network  
-   Link: [https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/](https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/)  
+   Link: <a href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: khaleejtimes.com  
    Title: so what whizzed past the dubai sky on monday night  
-   Link: [https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night](https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night)  
+   Link: <a href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thenationalnews.com  
-   Link: [https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894](https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894)  
+   Link: <a href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: khaleejtimes.com  
    Title: another satellite entry over uae skies likely today  
-   Link: [https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1](https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1)  
+   Link: <a href="https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesAnother satellite entry over UAE skies likely today23 Oct 2017 — &quot;An expired satellite is expected to enter the atmosphere a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: research.uaeu.ac.ae  
    Title: fireballs captured by the uae meteor monitoring network  
-   Link: [https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/](https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/)  
+   Link: <a href="https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: khaleejtimes.com  
    Title: The International Astronomy Centre shared images of the fireball.Read more  
-   Link: [https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky](https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky)  
+   Link: <a href="https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesLook: UAE skies light up as rare fireball blazes trail22 Feb 2023 — A rare bright meteor blazed through the UAE skies in the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network](https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network)  
+   Link: <a href="https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gh the seventies and eighties, the &quot;European work&quot; is the last one...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: khaleejtimes.com  
    Title: look mysterious fireball spotted in uae skies  
-   Link: [https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies](https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies)  
+   Link: <a href="https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Look: Mysterious fireball spotted in UAE skies9 Jan 2021 — “The fireball was filmed by a special network of sophisticated astronomical ca...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: room.eu.com  
-   Link: [https://room.eu.com/article/uae-meteor-and-debris-monitoring-network](https://room.eu.com/article/uae-meteor-and-debris-monitoring-network)  
+   Link: <a href="https://room.eu.com/article/uae-meteor-and-debris-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://room.eu.com/article/uae-meteor-and-debris-monitoring-network</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Room The Space Journal of AsgardiaUAE meteor and debris monitoring networkThe UAE Meteor Monitoring Network (UAEMMN) with a mission to mo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: unoosa.org  
-   Link: [https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf](https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf)  
+   Link: <a href="https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAE Meteor Monitoring NetworkA fireball is a bright meteor, its peak magnitude is brighter than Venus. • A super bolide is a very bri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/](https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/)  
+   Link: <a href="https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y, offering a breathtaking view under moonless, dark skies.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/](https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/)  
+   Link: <a href="https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es/pyrotechnics attached to them and you&#x27;re pointing in exactly...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gulfnews.com  
-   Link: [https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170](https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170)  
+   Link: <a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Light streaking through Dubai&#x27;s night sky: Meteorite or...1 Nov 2018 — Dr Nora Al Saeed explaining the vantage point from where the Emir...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: publications.space.gov.ae  
-   Link: [https://publications.space.gov.ae/ar/publications?keyword=DEM](https://publications.space.gov.ae/ar/publications?keyword=DEM)  
+   Link: <a href="https://publications.space.gov.ae/ar/publications?keyword=DEM" target="_blank" rel="noopener noreferrer nofollow">https://publications.space.gov.ae/ar/publications?keyword=DEM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>planet Earth. These can be natural...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: gulfnews.com  
    Title: Gulf News Fireball in the UAE?  
-   Link: [https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814](https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814)  
+   Link: <a href="https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a meteor, just space junk1 Nov 2018 — Hassan Al Hariri, CEO of Dubai Astronomy Group, told the media on Tuesday that the fireball was...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: 🌍 When the sky falls  
-   Link: [https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/](https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/)  
+   Link: <a href="https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmos 482, a Soviet-era spacecraft...🌍 When the sky falls - Cosmos 482, a Soviet-era spacecraft (a carrier bus and lander probe) - re-e...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Coverage of Space Debris Event. Dubai Astronomy Group Press Conference  
-   Link: [https://www.youtube.com/watch?v=TpPx9ApDFGQ](https://www.youtube.com/watch?v=TpPx9ApDFGQ)  
+   Link: <a href="https://www.youtube.com/watch?v=TpPx9ApDFGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpPx9ApDFGQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Fireballs Spotted From Space Explained | WION Podcast...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1T4WTfhCrkQ](https://www.youtube.com/watch?v=1T4WTfhCrkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage of Space Debris Event. Dubai Astronomy Group Press Conference - Khaleej Times...</p></details>
    Published: October 2017  

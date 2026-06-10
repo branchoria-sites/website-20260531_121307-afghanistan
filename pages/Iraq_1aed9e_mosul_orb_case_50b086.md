@@ -245,7 +245,7 @@ next_link:
   permalink: /official-reports/
   short_title: Official Reports
   heading_title: What Do Iraq’s Official Military UAP Reports Reveal?
-date: '2026-06-09 01:30:05 '
+date: '2026-06-10 01:55:29 '
 header:
   og_image: /assets/images/Iraq_1aed9e_mosul_orb_case_50b086-Illustration-1-social.jpg
   preview_image: /assets/images/Iraq_1aed9e_mosul_orb_case_50b086-Illustration-1.webp
@@ -258,13 +258,13 @@ The “Mosul Orb” became one of the most discussed Iraq-related UFO cases of t
 
 
 <img src="{{ "/assets/images/Iraq_1aed9e_mosul_orb_case_50b086-Illustration-1-dark.svg" | relative_url }}" alt="Mosul Orb illustration 1" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_mosul_orb_case_50b086-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_mosul_orb_case_50b086-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Mosul Orb important is not that it proves an extraordinary claim. It does not. Rather, it demonstrates how limited military imagery can become a major public mystery when the underlying sensor data, flight information and intelligence analysis remain classified or unavailable. The case sits at the intersection of warfare, surveillance technology, government secrecy and modern UFO media culture. Fox News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesCadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span>
+What makes the Mosul Orb important is not that it proves an extraordinary claim. It does not. Rather, it demonstrates how limited military imagery can become a major public mystery when the underlying sensor data, flight information and intelligence analysis remain classified or unavailable. The case sits at the intersection of warfare, surveillance technology, government secrecy and modern UFO media culture. Fox News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Cadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span>
 
 ## Why a Sighting Over Mosul Drew Attention
 
-In April 2016, Mosul was one of the most intensely monitored cities in Iraq. The city remained under Islamic State control, and coalition aircraft, intelligence platforms and reconnaissance systems were constantly collecting imagery. Military surveillance in such environments was designed to detect threats ranging from vehicles and militants to drones and balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesCadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span>
+In April 2016, Mosul was one of the most intensely monitored cities in Iraq. The city remained under Islamic State control, and coalition aircraft, intelligence platforms and reconnaissance systems were constantly collecting imagery. Military surveillance in such environments was designed to detect threats ranging from vehicles and militants to drones and balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Cadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span>
 
-This context matters because the Mosul Orb was not presented as a civilian eyewitness report. According to accounts later published by journalists Jeremy Corbell and George Knapp, the image originated from an intelligence-reconnaissance platform and was included in a classified briefing associated with the Pentagon's former Unidentified Aerial Phenomena Task Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/news/ufo-sighting-iraq-investigated-us-military-421209-20230125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">ufo sighting iraq investigated us military 421209 20230125</span><span class="citation-popover-snippet">UNILADPossible UFO sighting in Iraq is being &#x27;investigated by US...25 Jan 2023 — The image was captured in April 2016 by a US intelligen...</span><span class="citation-popover-meta">Published: April 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesCadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span> That distinction immediately gave the case greater public credibility than a typical UFO photograph. Supporters argued that military personnel had access to additional sensor information and therefore would have been unlikely to misidentify something obvious. Critics responded that the public was not seeing the full data package and therefore could not independently evaluate the event. Both positions depended heavily on information that remained unavailable.
+This context matters because the Mosul Orb was not presented as a civilian eyewitness report. According to accounts later published by journalists Jeremy Corbell and George Knapp, the image originated from an intelligence-reconnaissance platform and was included in a classified briefing associated with the Pentagon's former Unidentified Aerial Phenomena Task Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/news/ufo-sighting-iraq-investigated-us-military-421209-20230125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">ufo sighting iraq investigated us military 421209 20230125</span><span class="citation-popover-snippet">Possible UFO sighting in Iraq is being &#x27;investigated by US...25 Jan 2023 — The image was captured in April 2016 by a US intelligen...</span><span class="citation-popover-meta">Published: April 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Cadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span> That distinction immediately gave the case greater public credibility than a typical UFO photograph. Supporters argued that military personnel had access to additional sensor information and therefore would have been unlikely to misidentify something obvious. Critics responded that the public was not seeing the full data package and therefore could not independently evaluate the event. Both positions depended heavily on information that remained unavailable.
 
 ## What the Public Actually Saw
 
@@ -291,7 +291,7 @@ Those limitations became central to the debate. Without range data, even basic q
 
 Public discussion intensified when a short video clip associated with the image emerged later. Reporting described the footage as approximately four seconds long and originating from the same 2016 event. The clip appeared to show the orb moving laterally across the camera's field of view while maintaining a stable appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">Captured in 2016 by a US MC-12 surveillance aircraft over Mosul, Iraq, the four-second declassified footage shows a metallic spherical ob...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arabnews.com/node/2238211/amp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-snippet">Arab NewsSuspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul...24 Jan 2023 — It&#x27;s a brief video, maybe four seconds, where this orb o...</span></span></span>
 
-Supporters of the anomaly interpretation highlighted claims that the object appeared to move without obvious signs of conventional flight and maintained its position relative to the sensor view. Critics argued that apparent motion in airborne surveillance footage can be misleading because camera movement, aircraft motion and parallax effects can create dramatic visual impressions even when an object is drifting slowly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/13068p3/was_that_a_mosul_orb_or_the_new_aaro_orb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Was that a Mosul orb (or the new AARO orb)?</span><span class="citation-popover-snippet">RedditWas that a Mosul orb (or the new AARO orb)?April 27, 2023 — New UFO image declassified by Department of Defense. The image of a met...</span><span class="citation-popover-meta">Published: April 27, 2023</span></span></span>
+Supporters of the anomaly interpretation highlighted claims that the object appeared to move without obvious signs of conventional flight and maintained its position relative to the sensor view. Critics argued that apparent motion in airborne surveillance footage can be misleading because camera movement, aircraft motion and parallax effects can create dramatic visual impressions even when an object is drifting slowly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/13068p3/was_that_a_mosul_orb_or_the_new_aaro_orb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Was that a Mosul orb (or the new AARO orb)?</span><span class="citation-popover-snippet">Was that a Mosul orb (or the new AARO orb)?April 27, 2023 — New UFO image declassified by Department of Defense. The image of a met...</span><span class="citation-popover-meta">Published: April 27, 2023</span></span></span>
 
 The released clip did not provide enough contextual information to resolve that disagreement.
 
@@ -325,7 +325,7 @@ This is a recurring problem in military UAP cases. Public audiences often see th
 
 ### The Balloon Hypothesis
 
-Among sceptical investigators, the most common explanation has been that the orb may have been a balloon, particularly a reflective metallic balloon. Discussion forums and technical analysis communities have repeatedly pointed to the possibility that a lightweight object drifting through monitored airspace could appear unusual when viewed through a high-zoom surveillance system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1bdby68/aaro_report_volume_i_where_are_the_orbs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AARO Report Volume I</span><span class="citation-popover-snippet">r/UFOsMarch 12, 2024 —... Mosul orb&quot; UAP incident: “This is a spherical orb, metallic, in the Middle East, 2022”. “This is a typical exa...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">middle east 2022 mq 9 observed apparent spherical uap via aaro.12932</span><span class="citation-popover-snippet">MetabunkMiddle East 2022 MQ-9 Observed Apparent Spherical UAP...22 Apr 2023 — This clip seems to show a very similar phenomenon [to the...</span></span></span>
+Among sceptical investigators, the most common explanation has been that the orb may have been a balloon, particularly a reflective metallic balloon. Discussion forums and technical analysis communities have repeatedly pointed to the possibility that a lightweight object drifting through monitored airspace could appear unusual when viewed through a high-zoom surveillance system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1bdby68/aaro_report_volume_i_where_are_the_orbs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AARO Report Volume I</span><span class="citation-popover-snippet">r/UFOsMarch 12, 2024 —... Mosul orb&quot; UAP incident: “This is a spherical orb, metallic, in the Middle East, 2022”. “This is a typical exa...</span><span class="citation-popover-meta">Published: March 12, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">middle east 2022 mq 9 observed apparent spherical uap via aaro.12932</span><span class="citation-popover-snippet">Middle East 2022 MQ-9 Observed Apparent Spherical UAP...22 Apr 2023 — This clip seems to show a very similar phenomenon [to the...</span></span></span>
 
 Several factors support that possibility:
 
@@ -437,89 +437,47 @@ For Iraq specifically, where conflict-zone surveillance generates enormous quant
 
 The lasting significance of the Mosul Orb is less about what it was than about what the case reveals regarding modern UAP investigations.
 
-It shows how a single image can become globally recognised when it emerges from military intelligence channels. It demonstrates the limits of public analysis when metadata and sensor records remain unavailable. It highlights the growing role of journalists, podcasts and Freedom of Information requests in shaping UFO discourse. And it illustrates how official acknowledgement of an unidentified object can coexist with an absence of evidence for exotic technology. Apple Podcasts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesCadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span> More than a decade after the image was reportedly captured over Mosul, the object remains publicly unresolved. The strongest evidence supports only a narrow conclusion: a real object was apparently recorded by military surveillance equipment over northern Iraq, but the public record remains too incomplete to determine with confidence whether it was an ordinary airborne object, a sensor-identification failure or something genuinely unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">New UFO image declassified by Department of Defense</span><span class="citation-popover-snippet">The image of a metallic looking orb flying over Mosul, Iraq was, captured in April 2016 by a US spy plane, and was included in a classifi...</span><span class="citation-popover-meta">Published: April 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/mosul-orb-us-silent-ufo-filmed-military-iraq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">mosul orb us silent ufo filmed military iraq</span><span class="citation-popover-snippet">Fox News&#x27;Mosul Orb&#x27;: US silent on UFO filmed by military over IraqFeb 18, 2023 — A metallic-looking orb was filmed by a US military spy p...</span></span></span>
+It shows how a single image can become globally recognised when it emerges from military intelligence channels. It demonstrates the limits of public analysis when metadata and sensor records remain unavailable. It highlights the growing role of journalists, podcasts and Freedom of Information requests in shaping UFO discourse. And it illustrates how official acknowledgement of an unidentified object can coexist with an absence of evidence for exotic technology. Apple Podcasts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Cadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</span></span></span> More than a decade after the image was reportedly captured over Mosul, the object remains publicly unresolved. The strongest evidence supports only a narrow conclusion: a real object was apparently recorded by military surveillance equipment over northern Iraq, but the public record remains too incomplete to determine with confidence whether it was an ordinary airborne object, a sensor-identification failure or something genuinely unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">New UFO image declassified by Department of Defense</span><span class="citation-popover-snippet">The image of a metallic looking orb flying over Mosul, Iraq was, captured in April 2016 by a US spy plane, and was included in a classifi...</span><span class="citation-popover-meta">Published: April 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/mosul-orb-us-silent-ufo-filmed-military-iraq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">mosul orb us silent ufo filmed military iraq</span><span class="citation-popover-snippet">Fox News&#x27;Mosul Orb&#x27;: US silent on UFO filmed by military over IraqFeb 18, 2023 — A metallic-looking orb was filmed by a US military spy p...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Did the Mosul Orb Capture Public Attention?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Did the Mosul Orb Capture Public Attention?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on evidence-based military and government UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Military imagery and intelligence themes closely parallel the Mosul Orb discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding evidence limitations and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Explores intelligence-community engagement with anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -553,75 +511,71 @@ It shows how a single image can become globally recognised when it emerges from 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mosul-orb-how-did-the-mosul-orb-capture-public-attention-iraq-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -835,187 +789,187 @@ It shows how a single image can become globally recognised when it emerges from 
 
 1. <a id="endnote-1"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/](https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesCadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</p></details>
+   Link: <a href="https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/risasarachan/2023/02/07/cadence13-weaponized-podcast-explores-the-unknown-with-investigative-reporters-jeremy-corbell-and-george-knapp/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cadence13 &#x27;Weaponized&#x27; Podcast Explores The Unknown...Feb 7, 2023 — Corbell and Knapp broke the news on the first episode (release...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Produ...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unilad.com  
    Title: ufo sighting iraq investigated us military 421209 20230125  
-   Link: [https://www.unilad.com/news/ufo-sighting-iraq-investigated-us-military-421209-20230125](https://www.unilad.com/news/ufo-sighting-iraq-investigated-us-military-421209-20230125)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNILADPossible UFO sighting in Iraq is being &#x27;investigated by US...25 Jan 2023 — The image was captured in April 2016 by a US intelligen...</p></details>
+   Link: <a href="https://www.unilad.com/news/ufo-sighting-iraq-investigated-us-military-421209-20230125" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/ufo-sighting-iraq-investigated-us-military-421209-20230125</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Possible UFO sighting in Iraq is being &#x27;investigated by US...25 Jan 2023 — The image was captured in April 2016 by a US intelligen...</p></details>
    Published: April 2016  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Was that a Mosul orb (or the new AARO orb)?  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/13068p3/was_that_a_mosul_orb_or_the_new_aaro_orb/](https://www.reddit.com/r/skinwalkerranch/comments/13068p3/was_that_a_mosul_orb_or_the_new_aaro_orb/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWas that a Mosul orb (or the new AARO orb)?April 27, 2023 — New UFO image declassified by Department of Defense. The image of a met...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/13068p3/was_that_a_mosul_orb_or_the_new_aaro_orb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/13068p3/was_that_a_mosul_orb_or_the_new_aaro_orb/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Was that a Mosul orb (or the new AARO orb)?April 27, 2023 — New UFO image declassified by Department of Defense. The image of a met...</p></details>
    Published: April 27, 2023  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: middle east 2022 mq 9 observed apparent spherical uap via aaro.12932  
-   Link: [https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/](https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkMiddle East 2022 MQ-9 Observed Apparent Spherical UAP...22 Apr 2023 — This clip seems to show a very similar phenomenon [to the...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East 2022 MQ-9 Observed Apparent Spherical UAP...22 Apr 2023 — This clip seems to show a very similar phenomenon [to the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: page 2  
-   Link: [https://www.metabunk.org/threads/mosul-sphere.12850/page-2](https://www.metabunk.org/threads/mosul-sphere.12850/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/mosul-sphere.12850/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/mosul-sphere.12850/page-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mosul &quot;Sphere&quot; | Page 224 Jan 2023 — The MX-25 is the larger variant of the MX-15 that was used to capture the Aguadilla &#x27;UAP&#x27; (the numbe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: AARO Report Volume I  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bdby68/aaro_report_volume_i_where_are_the_orbs/](https://www.reddit.com/r/UFOs/comments/1bdby68/aaro_report_volume_i_where_are_the_orbs/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bdby68/aaro_report_volume_i_where_are_the_orbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bdby68/aaro_report_volume_i_where_are_the_orbs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsMarch 12, 2024 —... Mosul orb&quot; UAP incident: “This is a spherical orb, metallic, in the Middle East, 2022”. “This is a typical exa...</p></details>
    Published: March 12, 2024  
 
 8. <a id="endnote-8"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/](https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/)  
+   Link: <a href="https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured in 2016 by a US MC-12 surveillance aircraft over Mosul, Iraq, the four-second declassified footage shows a metallic spherical ob...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/return-of-the-mosul-orb-uap-and-what-it/id1664299388?i=1000715338664&l=ar](https://podcasts.apple.com/us/podcast/return-of-the-mosul-orb-uap-and-what-it/id1664299388?i=1000715338664&l=ar)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/return-of-the-mosul-orb-uap-and-what-it/id1664299388?i=1000715338664&amp;l=ar" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/return-of-the-mosul-orb-uap-and-what-it/id1664299388?i=1000715338664&amp;l=ar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsReturn Of The Mosul Orb UAPIn this episode of WEAPONIZED, Jeremy and George revisit the Mosul Orb UAP case, unveil the full...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1fhgw9z/theory_the_top_image_is_the_costa_rica_ufo_the/](https://www.reddit.com/r/HighStrangeness/comments/1fhgw9z/theory_the_top_image_is_the_costa_rica_ufo_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1fhgw9z/theory_the_top_image_is_the_costa_rica_ufo_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1fhgw9z/theory_the_top_image_is_the_costa_rica_ufo_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The image of a metallic looking orb flying over Mosul, Iraq was, captured in April 2016...Read more...</p></details>
    Published: April 2016  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: New UFO image declassified by Department of Defense  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/](https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The image of a metallic looking orb flying over Mosul, Iraq was, captured in April 2016 by a US spy plane, and was included in a classifi...</p></details>
    Published: April 2016  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lpcaho/jeremy_corbell_speaking_about_the_mosul_orb_case/](https://www.reddit.com/r/UFOs/comments/1lpcaho/jeremy_corbell_speaking_about_the_mosul_orb_case/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lpcaho/jeremy_corbell_speaking_about_the_mosul_orb_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lpcaho/jeremy_corbell_speaking_about_the_mosul_orb_case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e loud. To fight for your birthright to know the truth...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DLk8nQShinV/](https://www.instagram.com/reel/DLk8nQShinV/)  
+   Link: <a href="https://www.instagram.com/reel/DLk8nQShinV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLk8nQShinV/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DURATION - The video is 4 seconds long. The UAP is seen “moving with purpose” in a...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arabnews.com  
-   Link: [https://www.arabnews.com/node/2238211/amp](https://www.arabnews.com/node/2238211/amp)  
+   Link: <a href="https://www.arabnews.com/node/2238211/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/amp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arab NewsSuspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul...24 Jan 2023 — It&#x27;s a brief video, maybe four seconds, where this orb o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: foxnews.com  
    Title: mosul orb us silent ufo filmed military iraq  
-   Link: [https://www.foxnews.com/us/mosul-orb-us-silent-ufo-filmed-military-iraq](https://www.foxnews.com/us/mosul-orb-us-silent-ufo-filmed-military-iraq)  
+   Link: <a href="https://www.foxnews.com/us/mosul-orb-us-silent-ufo-filmed-military-iraq" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/mosul-orb-us-silent-ufo-filmed-military-iraq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox News&#x27;Mosul Orb&#x27;: US silent on UFO filmed by military over IraqFeb 18, 2023 — A metallic-looking orb was filmed by a US military spy p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arabnews.com  
-   Link: [https://www.arabnews.com/node/2238211/%7B%7B](https://www.arabnews.com/node/2238211/%7B%7B)  
+   Link: <a href="https://www.arabnews.com/node/2238211/%7B%7B" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/%7B%7B</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arab NewsSuspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul...24 Jan 2023 — The US military is investigating an “unidentified flying...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nypost.com  
    Title: possible ufo caught on camera flying over iraqi city of mosul in 2016  
-   Link: [https://nypost.com/2023/01/24/possible-ufo-caught-on-camera-flying-over-iraqi-city-of-mosul-in-2016/](https://nypost.com/2023/01/24/possible-ufo-caught-on-camera-flying-over-iraqi-city-of-mosul-in-2016/)  
+   Link: <a href="https://nypost.com/2023/01/24/possible-ufo-caught-on-camera-flying-over-iraqi-city-of-mosul-in-2016/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/01/24/possible-ufo-caught-on-camera-flying-over-iraqi-city-of-mosul-in-2016/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostPossible UFO caught on camera flying over Iraqi city of...24 Jan 2023 — The image was obtained by “Weaponized” podcasters...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/](https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/)  
+   Link: <a href="https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The four-second clip shows a mysterious metallic spherical object moving steadily without dropping altitude. Obtained through a Freedom o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: houstonherald.com  
    Title: pentagon releases video of ufos over conflict zones  
-   Link: [https://houstonherald.com/2023/04/pentagon-releases-video-of-ufos-over-conflict-zones/](https://houstonherald.com/2023/04/pentagon-releases-video-of-ufos-over-conflict-zones/)  
+   Link: <a href="https://houstonherald.com/2023/04/pentagon-releases-video-of-ufos-over-conflict-zones/" target="_blank" rel="noopener noreferrer nofollow">https://houstonherald.com/2023/04/pentagon-releases-video-of-ufos-over-conflict-zones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Houston HeraldPentagon releases video of UFOs over conflict zones27 Apr 2023 — The footage of the UFO flying over the Middle East in 2022...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/footage-of-ufos-over-conflict-zones-seen-for-first-time-this-is-a-devastating](https://www.foxnews.com/us/footage-of-ufos-over-conflict-zones-seen-for-first-time-this-is-a-devastating)  
+   Link: <a href="https://www.foxnews.com/us/footage-of-ufos-over-conflict-zones-seen-for-first-time-this-is-a-devastating" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/footage-of-ufos-over-conflict-zones-seen-for-first-time-this-is-a-devastating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsFootage of UFOs over conflict zones seen for first timeApr 20, 2023 — Video of a UFO in Mosul, Iraq, released to the public for t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thesun.ie  
    Title: first ever vid of mosul orb ufo  
-   Link: [https://www.thesun.ie/news/15472375/first-ever-vid-of-mosul-orb-ufo/](https://www.thesun.ie/news/15472375/first-ever-vid-of-mosul-orb-ufo/)  
+   Link: <a href="https://www.thesun.ie/news/15472375/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/15472375/first-ever-vid-of-mosul-orb-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First ever bombshell vid of infamous &#x27;Mosul orb&#x27; UFO is...2 Jul 2025 — THE first ever bombshell footage of the infamous “Mosul orb” UFO...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: english.alarabiya.net  
-   Link: [https://english.alarabiya.net/News/middle-east/2023/01/25/UFO-like-orb-spotted-flying-over-Iraq-s-Mosul-in-2016-image-released-by-US-officials](https://english.alarabiya.net/News/middle-east/2023/01/25/UFO-like-orb-spotted-flying-over-Iraq-s-Mosul-in-2016-image-released-by-US-officials)  
+   Link: <a href="https://english.alarabiya.net/News/middle-east/2023/01/25/UFO-like-orb-spotted-flying-over-Iraq-s-Mosul-in-2016-image-released-by-US-officials" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/News/middle-east/2023/01/25/UFO-like-orb-spotted-flying-over-Iraq-s-Mosul-in-2016-image-released-by-US-officials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Arabiya EnglishUFO-like orb spotted flying over Iraq&#x27;s Mosul in 2016 image...25 Jan 2023 — A 2016 image of a UFO-like object spotted...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: arabnews.com  
    Title: middle east  
-   Link: [https://www.arabnews.com/node/2238211/middle-east](https://www.arabnews.com/node/2238211/middle-east)  
+   Link: <a href="https://www.arabnews.com/node/2238211/middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul...24 Jan 2023 — The US military is investigating an “unidentified flying orb” aft...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-vRcwnzvxos](https://www.youtube.com/watch?v=-vRcwnzvxos)  
+   Link: <a href="https://www.youtube.com/watch?v=-vRcwnzvxos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-vRcwnzvxos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bombshell vid of MYSTERY &#x27;UFO orb&#x27; captured by US spy camThis is the moment a mysterious shining orb flies under a US spy plane as it gat...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=y5pjvPGN2BM](https://www.youtube.com/watch?v=y5pjvPGN2BM)  
+   Link: <a href="https://www.youtube.com/watch?v=y5pjvPGN2BM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y5pjvPGN2BM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE &quot;MOSUL ORB” UAP / NEW CIA FILMED UFO FOOTAGEA brief video maybe 4 seconds where this orb or this metallic looking ball runs alongside...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: allarab.news  
    Title: us drone operating in middle east spots mysterious orb  
-   Link: [https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/](https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/)  
+   Link: <a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All Arab NewsUS drone operating in Middle East spots mysterious orb20 Apr 2023 — A “Reaper” drone, being operated in the Middle East by t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/smooth-metallic-sphere-seen-floating-in-the-sky-has-drawn-comparisons-to-what-is/921845584168197/](https://www.facebook.com/ancientwhispers/posts/smooth-metallic-sphere-seen-floating-in-the-sky-has-drawn-comparisons-to-what-is/921845584168197/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/smooth-metallic-sphere-seen-floating-in-the-sky-has-drawn-comparisons-to-what-is/921845584168197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/smooth-metallic-sphere-seen-floating-in-the-sky-has-drawn-comparisons-to-what-is/921845584168197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ic sphere trailing a reconnaissance aircraft over Mosul, Iraq—has...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: globalplayer.com  
    Title: WEAPONIZE D with Jeremy Corbell & George Knapp  
-   Link: [https://www.globalplayer.com/podcasts/42L3FD/](https://www.globalplayer.com/podcasts/42L3FD/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L3FD/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L3FD/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP transparency? In this episode of WEAPONIZED, Jeremy and George revisit the Mosul Orb UAP case, unveil the full video clip, and speak...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: latintimes.com  
-   Link: [https://www.latintimes.com/ufo-spotted-flying-over-iraqi-city-2016-first-ever-public-footage-taken-us-spy-541606](https://www.latintimes.com/ufo-spotted-flying-over-iraqi-city-2016-first-ever-public-footage-taken-us-spy-541606)  
+   Link: <a href="https://www.latintimes.com/ufo-spotted-flying-over-iraqi-city-2016-first-ever-public-footage-taken-us-spy-541606" target="_blank" rel="noopener noreferrer nofollow">https://www.latintimes.com/ufo-spotted-flying-over-iraqi-city-2016-first-ever-public-footage-taken-us-spy-541606</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It was obtained by journalists Jeremy Corbell and George Knapp.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/altasworldnews/posts/new-pentagon-ufo-files-reveal-near-miss-encounter-with-mysterious-super-heated-o/122127531213094319/](https://www.facebook.com/altasworldnews/posts/new-pentagon-ufo-files-reveal-near-miss-encounter-with-mysterious-super-heated-o/122127531213094319/)  
+   Link: <a href="https://www.facebook.com/altasworldnews/posts/new-pentagon-ufo-files-reveal-near-miss-encounter-with-mysterious-super-heated-o/122127531213094319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/altasworldnews/posts/new-pentagon-ufo-files-reveal-near-miss-encounter-with-mysterious-super-heated-o/122127531213094319/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rge Knapp and Jeremy Corbell have released military...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: indy100.com  
    Title: mosul ufo iraq orb image 2673039578  
-   Link: [https://www.indy100.com/science-tech/mosul-ufo-iraq-orb-image-2673039578](https://www.indy100.com/science-tech/mosul-ufo-iraq-orb-image-2673039578)  
+   Link: <a href="https://www.indy100.com/science-tech/mosul-ufo-iraq-orb-image-2673039578" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/mosul-ufo-iraq-orb-image-2673039578</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A classified &#x27;UFO&#x27; recording has been released – and it is...9 Jul 2025 — A video recording of a “metallic-looking ball” running alongsi...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: videos.space.com  
    Title: orb shaped ufo seen over iraq in stunning video released by pentagon  
-   Link: [https://videos.space.com/m/Sv26TjtV/orb-shaped-ufo-seen-over-iraq-in-stunning-video-released-by-pentagon?list=9wzCTV4g](https://videos.space.com/m/Sv26TjtV/orb-shaped-ufo-seen-over-iraq-in-stunning-video-released-by-pentagon?list=9wzCTV4g)  
+   Link: <a href="https://videos.space.com/m/Sv26TjtV/orb-shaped-ufo-seen-over-iraq-in-stunning-video-released-by-pentagon?list=9wzCTV4g" target="_blank" rel="noopener noreferrer nofollow">https://videos.space.com/m/Sv26TjtV/orb-shaped-ufo-seen-over-iraq-in-stunning-video-released-by-pentagon?list=9wzCTV4g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 min. The US Pentagon has released video of an orb-shaped UFO flying over Iraq...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hi-s84uJZHw](https://www.youtube.com/watch?v=hi-s84uJZHw)  
+   Link: <a href="https://www.youtube.com/watch?v=hi-s84uJZHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hi-s84uJZHw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orb-shaped UFO seen over Iraq in stunning video released by Pentagon...</p></details>

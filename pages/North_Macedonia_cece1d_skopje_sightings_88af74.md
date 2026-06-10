@@ -239,7 +239,7 @@ prev_link:
   permalink: /official-files-8ffb40/
   short_title: Official Files
   heading_title: Are There Official UFO Files to Check?
-date: '2026-06-09 01:36:15 '
+date: '2026-06-10 02:02:47 '
 header:
   og_image: /assets/images/North_Macedonia_cece1d_skopje_sightings_88af74-Illustration-1-social.jpg
   preview_image: /assets/images/North_Macedonia_cece1d_skopje_sightings_88af74-Illustration-1.webp
@@ -248,17 +248,17 @@ image: /assets/images/North_Macedonia_cece1d_skopje_sightings_88af74-Illustratio
 
 ## Introduction
 
-Skopje stands out in [North Macedonia]({{ 'what-is-really-in-north-macedonias-ufo/' | relative_url }})’s UFO record for a simple reason: most of the country’s publicly accessible reports originate in or around the capital. Yet the city’s reputation as the country's main UFO hotspot should not be confused with the existence of a strong evidential case. The best-known Skopje incidents remain thinly documented witness reports, media stories, and database entries rather than investigated events supported by radar records, multiple independent datasets, or official findings.
+Skopje stands out in North Macedonia’s UFO record for a simple reason: most of the country’s publicly accessible reports originate in or around the capital. Yet the city’s reputation as the country's main UFO hotspot should not be confused with the existence of a strong evidential case. The best-known Skopje incidents remain thinly documented witness reports, media stories, and database entries rather than investigated events supported by radar records, multiple independent datasets, or official findings.
 
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d_skopje_sightings_88af74-Illustration-1-dark.svg" | relative_url }}" alt="Skopje Cases illustration 1" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_skopje_sightings_88af74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_skopje_sightings_88af74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Two cases dominate discussion. The first is a 2006 report of an orange-red triangular object allegedly observed over the Skopje area and later entered into the National UFO Reporting Center (NUFORC) database. The second is a 2018 local-media story involving a glowing red object seen above Bardovci, a suburb on the north-western edge of the city. Together they illustrate both why Skopje generates most of North Macedonia’s UFO narratives and why those narratives remain difficult to verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 5200630 Oct 2006 — There was just one object, it&#x27;s shape was triangle with same shadow under the triange, it wa...</span></span></span>
+Two cases dominate discussion. The first is a 2006 report of an orange-red triangular object allegedly observed over the Skopje area and later entered into the National UFO Reporting Center (NUFORC) database. The second is a 2018 local-media story involving a glowing red object seen above Bardovci, a suburb on the north-western edge of the city. Together they illustrate both why Skopje generates most of North Macedonia’s UFO narratives and why those narratives remain difficult to verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 5200630 Oct 2006 — There was just one object, it&#x27;s shape was triangle with same shadow under the triange, it wa...</span></span></span>
 
 ## The 2006 NUFORC Triangle Report
 
-Among publicly accessible reports connected to North Macedonia, the 13 August 2006 Skopje sighting is arguably the most cited. The report, preserved in the NUFORC archive, describes a single orange-red triangular object observed at night. According to the witness submission, the object was visible for several minutes and was reportedly seen from locations around 18 kilometres apart. The report also claimed that local television stations covered the event and possessed photographs or video material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Among publicly accessible reports connected to North Macedonia, the 13 August 2006 Skopje sighting is arguably the most cited. The report, preserved in the NUFORC archive, describes a single orange-red triangular object observed at night. According to the witness submission, the object was visible for several minutes and was reportedly seen from locations around 18 kilometres apart. The report also claimed that local television stations covered the event and possessed photographs or video material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
-What makes this case noteworthy is not the amount of evidence but the amount of detail compared with other Macedonian reports. The witness provided a shape, colour, approximate duration, and the assertion of multiple observers. In a country with relatively few publicly archived UFO accounts, that alone places it near the top of the available record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCObject was boomerang shaped, it had big white lights and it moved very fast from. 08/13/2018 - Skopje, Butel Municipality, Macedoni...</span></span></span>
+What makes this case noteworthy is not the amount of evidence but the amount of detail compared with other Macedonian reports. The witness provided a shape, colour, approximate duration, and the assertion of multiple observers. In a country with relatively few publicly archived UFO accounts, that alone places it near the top of the available record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Object was boomerang shaped, it had big white lights and it moved very fast from. 08/13/2018 - Skopje, Butel Municipality, Macedoni...</span></span></span>
 
 The weaknesses are equally important:
 
@@ -276,9 +276,9 @@ As a result, the case occupies an unusual middle ground. It is more substantial 
 
 ### How unusual was the reported triangle?
 
-Triangular UFO descriptions are common in international reporting databases. Researchers who analyse large collections of witness reports regularly find triangles among the most frequently reported shapes. That fact does not validate any individual sighting, but it does show that the Skopje account follows a familiar pattern rather than presenting a uniquely Macedonian anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/shape/triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">SENTINELTriangle-Shaped UAP / UFO Sightings | SENTINEL UAP Tracker7867 documented triangle-shaped UAP sightings. Large, silent, low-flyin...</span></span></span>
+Triangular UFO descriptions are common in international reporting databases. Researchers who analyse large collections of witness reports regularly find triangles among the most frequently reported shapes. That fact does not validate any individual sighting, but it does show that the Skopje account follows a familiar pattern rather than presenting a uniquely Macedonian anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/shape/triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">SENTINELTriangle-Shaped UAP / UFO Sightings &#124; SENTINEL UAP Tracker7867 documented triangle-shaped UAP sightings. Large, silent, low-flyin...</span></span></span>
 
-The orange-red colouring described in the report is similarly common in civilian UFO databases. Such colours can be associated with a wide range of ordinary sources, including aircraft lights, atmospheric scattering, drones, lanterns, and bright astronomical or meteor events, depending on viewing conditions. The available public information does not permit a confident identification in the Skopje case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">RedditI analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span>
+The orange-red colouring described in the report is similarly common in civilian UFO databases. Such colours can be associated with a wide range of ordinary sources, including aircraft lights, atmospheric scattering, drones, lanterns, and bright astronomical or meteor events, depending on viewing conditions. The available public information does not permit a confident identification in the Skopje case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rvTv4i9u9A0" title="Red Ball 12 Levels in 2:29.903 FWR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rvTv4i9u9A0" target="_blank" rel="noopener noreferrer">Red Ball 12 Levels in 2:29.903 FWR</a></p><p class="youtube-embed-meta">Channel: Niftski &middot; Views: 36.0K &middot; Uploaded: November 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rvTv4i9u9A0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rvTv4i9u9A0">Open on YouTube</a></p></div></div></div>
@@ -362,86 +362,44 @@ That makes Skopje important within the North Macedonian UFO landscape while simu
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Skopje UFO Reports Stand Out?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Skopje UFO Reports Stand Out?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Shows how sightings are recorded, investigated, and archived.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful for comparing witness reports with stronger historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides benchmarks for evaluating local witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports evidence-based analysis of witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -475,75 +433,71 @@ That makes Skopje important within the North Macedonian UFO landscape while simu
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skopje-cases-why-do-skopje-ufo-reports-stand-out-north-macedonia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -757,159 +711,159 @@ That makes Skopje important within the North Macedonian UFO landscape while simu
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=52006](https://nuforc.org/sighting/?id=52006)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 5200630 Oct 2006 — There was just one object, it&#x27;s shape was triangle with same shadow under the triange, it wa...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52006</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 5200630 Oct 2006 — There was just one object, it&#x27;s shape was triangle with same shadow under the triange, it wa...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mapuap.com  
-   Link: [https://mapuap.com/sightings/shape/triangle](https://mapuap.com/sightings/shape/triangle)  
+   Link: <a href="https://mapuap.com/sightings/shape/triangle" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sightings/shape/triangle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SENTINELTriangle-Shaped UAP / UFO Sightings | SENTINEL UAP Tracker7867 documented triangle-shaped UAP sightings. Large, silent, low-flyin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: [https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29](https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</p></details>
    Published: July 10, 2023  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/gallery/](https://nuforc.org/gallery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCObject was boomerang shaped, it had big white lights and it moved very fast from. 08/13/2018 - Skopje, Butel Municipality, Macedoni...</p></details>
+   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Object was boomerang shaped, it had big white lights and it moved very fast from. 08/13/2018 - Skopje, Butel Municipality, Macedoni...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=136101](https://nuforc.org/sighting/?id=136101)  
+   Link: <a href="https://nuforc.org/sighting/?id=136101" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=136101</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 136101NUFORC UFO Sighting 136101 · Occurred: 2017-09-09 21:37 Local · Reported: 2017-09-09 20:37 Pacific · Duration...</p></details>
    Published: September 9, 2017  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: 2025 best ufos  
-   Link: [https://nuforc.org/2025-best-ufos/](https://nuforc.org/2025-best-ufos/)  
+   Link: <a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — Several sightings included vivid lights, color changes, or sudden accelerat...</p></details>
    Published: May 2025  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 121; USA - Alaska, 676; USA - Alabama, 1526; USA - Arkansas...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196778](https://nuforc.org/sighting/?id=196778)  
+   Link: <a href="https://nuforc.org/sighting/?id=196778" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196778</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19677829 Mar 2026 — Ten years after the turn of the 20th century, everyone in a border village was disturbed, as the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
    Title: 929 new ufo reports posted  
-   Link: [https://nuforc.org/929-new-ufo-reports-posted/](https://nuforc.org/929-new-ufo-reports-posted/)  
+   Link: <a href="https://nuforc.org/929-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/929-new-ufo-reports-posted/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The reports range from recent sightings to recollections of events that happened as far back as 1960.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=56789](https://nuforc.org/sighting/?id=56789)  
+   Link: <a href="https://nuforc.org/sighting/?id=56789" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56789</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 56789My brother was traveling south on 41 when he spotted a black triangular object to the left (east of his location...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=71357](https://nuforc.org/sighting/?id=71357)  
+   Link: <a href="https://nuforc.org/sighting/?id=71357" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=71357</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 71357Bright white lights in a diamond formation changing into a square shape.No noise. Bright white lights in a diamo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=121393](https://nuforc.org/sighting/?id=121393)  
+   Link: <a href="https://nuforc.org/sighting/?id=121393" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=121393</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 121393Triangle Characteristics: Aura or haze around object. Large triangular shaped object, estimated to be 500-750 f...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=42806](https://nuforc.org/sighting/?id=42806)  
+   Link: <a href="https://nuforc.org/sighting/?id=42806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42806</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42806NUFORC UFO Sighting 42806. Occurred: 1979-06-15 00:00 Local - Approximate Reported: 2005-03-08 10:19 Pacific Dur...</p></details>
    Published: March 8, 2005  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=11073](https://nuforc.org/sighting/?id=11073)  
+   Link: <a href="https://nuforc.org/sighting/?id=11073" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11073</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 11073The shape, like I&#x27;ve stated before, was an oddly irregular boomerang shape. I say boomerang for loss of any othe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseCalifornia combined more triangle sightings than the second and third most sightin...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/98365998/2019_1_MK01KA203060269_ADHOC_Accessible_and_Digitalized_Cultural_Heritage_for_persons_with_disabilities_](https://www.academia.edu/98365998/2019_1_MK01KA203060269_ADHOC_Accessible_and_Digitalized_Cultural_Heritage_for_persons_with_disabilities_)  
+   Link: <a href="https://www.academia.edu/98365998/2019_1_MK01KA203060269_ADHOC_Accessible_and_Digitalized_Cultural_Heritage_for_persons_with_disabilities_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/98365998/2019_1_MK01KA203060269_ADHOC_Accessible_and_Digitalized_Cultural_Heritage_for_persons_with_disabilities_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessible and Digitalized Cultural Heritage for persons...1 Feb 2025 — The general goal of this project is to bring archaeological cult...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406](https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406)  
+   Link: <a href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>github.comnuforc_reports.csv · GitHub&quot;I&#x27;m familiar with all the fakery and UFO sightings and Ive never seen a ET... Seen large transluce...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/153583266/Biblioteka-na-Evro-Balkan](https://www.scribd.com/document/153583266/Biblioteka-na-Evro-Balkan)  
+   Link: <a href="https://www.scribd.com/document/153583266/Biblioteka-na-Evro-Balkan" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/153583266/Biblioteka-na-Evro-Balkan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biblioteka Na Evro-Balkan | PDF | Feminism | Gender StudiesBiblioteka na Evro-Balkan - Free download as PDF File (.pdf), Text File (.txt)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: yumpu.com  
    Title: avtor naslov the east asian miracle economic growth and public  
-   Link: [https://www.yumpu.com/en/document/view/5644034/avtor-naslov-the-east-asian-miracle-economic-growth-and-public-](https://www.yumpu.com/en/document/view/5644034/avtor-naslov-the-east-asian-miracle-economic-growth-and-public-)  
+   Link: <a href="https://www.yumpu.com/en/document/view/5644034/avtor-naslov-the-east-asian-miracle-economic-growth-and-public-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/5644034/avtor-naslov-the-east-asian-miracle-economic-growth-and-public-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>avtor naslov The East Asian Miracle, economic growth and...8 Dec 2012 — avtor naslov The East Asian Miracle, economic growth and public...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: Veles Through the Past — The Vardar and the River Boats  
-   Link: [https://www.facebook.com/macedoniapast/posts/veles-through-the-past-the-vardar-and-the-river-boats-veles-vardar-macedoniathro/122157930182978092/](https://www.facebook.com/macedoniapast/posts/veles-through-the-past-the-vardar-and-the-river-boats-veles-vardar-macedoniathro/122157930182978092/)  
+   Link: <a href="https://www.facebook.com/macedoniapast/posts/veles-through-the-past-the-vardar-and-the-river-boats-veles-vardar-macedoniathro/122157930182978092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/macedoniapast/posts/veles-through-the-past-the-vardar-and-the-river-boats-veles-vardar-macedoniathro/122157930182978092/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skopje, near Zlokućani and Bardovci, is the Macedonian ancient city of Skupi. This is where Skopje started. The city of Skopje gained its...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: longmontleader.com  
-   Link: [https://www.longmontleader.com/local-news/longmonts-ufo-files-national-database-details-decades-of-strange-sightings-12258660](https://www.longmontleader.com/local-news/longmonts-ufo-files-national-database-details-decades-of-strange-sightings-12258660)  
+   Link: <a href="https://www.longmontleader.com/local-news/longmonts-ufo-files-national-database-details-decades-of-strange-sightings-12258660" target="_blank" rel="noopener noreferrer nofollow">https://www.longmontleader.com/local-news/longmonts-ufo-files-national-database-details-decades-of-strange-sightings-12258660</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and lasted about 20 minutes. The witness described the object as a “perfect sphere”...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-brief-but-startling-sighting-was-reported-over-new-bern-when-a-witness-claimed/1491442512982383/](https://www.facebook.com/HiddenFactsss/posts/a-brief-but-startling-sighting-was-reported-over-new-bern-when-a-witness-claimed/1491442512982383/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-brief-but-startling-sighting-was-reported-over-new-bern-when-a-witness-claimed/1491442512982383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-brief-but-startling-sighting-was-reported-over-new-bern-when-a-witness-claimed/1491442512982383/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o remain in view only briefly before accelerating in a direct line—...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: #Greek inscription from the city of Styverra  
-   Link: [https://www.facebook.com/groups/852847715448660/posts/1541249409941817/](https://www.facebook.com/groups/852847715448660/posts/1541249409941817/)  
+   Link: <a href="https://www.facebook.com/groups/852847715448660/posts/1541249409941817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852847715448660/posts/1541249409941817/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Important...#Greek inscription from the city of Styverra. Important archaeological find is also the statue of the goddess Nike. This val...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scribd.com  
    Title: UF O Sightings in the UK  
-   Link: [https://www.scribd.com/doc/61826569/UFOReports2006WholeoftheUK](https://www.scribd.com/doc/61826569/UFOReports2006WholeoftheUK)  
+   Link: <a href="https://www.scribd.com/doc/61826569/UFOReports2006WholeoftheUK" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/61826569/UFOReports2006WholeoftheUK</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in the UK - 2006 Report | PDFThis document contains a list of UFO sighting reports from 2006. Each entry includes the date...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scribd.com  
    Title: KOKINO WEB 02 04 2018  
-   Link: [https://www.scribd.com/document/478748348/KOKINO-WEB-02-04-2018](https://www.scribd.com/document/478748348/KOKINO-WEB-02-04-2018)  
+   Link: <a href="https://www.scribd.com/document/478748348/KOKINO-WEB-02-04-2018" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/478748348/KOKINO-WEB-02-04-2018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kokino-Web-02 04 2018 | PDF | Moon | Mycenaean GreeceKOKINO-WEB-02_04_2018 - Free download as PDF File (.pdf), Text File (.txt) or read o...</p></details>

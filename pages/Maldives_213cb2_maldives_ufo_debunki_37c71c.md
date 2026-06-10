@@ -243,7 +243,7 @@ next_link:
   permalink: /local-light-phenomena/
   short_title: Local Light Phenomena
   heading_title: Historical Anecdotes and Strange Lights Across Maldives Atolls
-date: '2026-06-09 01:35:45 '
+date: '2026-06-10 02:02:17 '
 header:
   og_image: /assets/images/Maldives_213cb2_maldives_ufo_debunki_37c71c-Illustration-1-social.jpg
   preview_image: /assets/images/Maldives_213cb2_maldives_ufo_debunki_37c71c-Illustration-1.webp
@@ -252,7 +252,7 @@ image: /assets/images/Maldives_213cb2_maldives_ufo_debunki_37c71c-Illustration-1
 
 ## Introduction
 
-Official records concerning UFOs or unidentified aerial phenomena (UAP) in the [Maldives]({{ 'maldives/' | relative_url }}) are notable primarily for their absence. Unlike some countries that maintain reporting systems, investigative units, archived case files, or declassified records, the Maldives has no publicly known national UFO reporting body, no dedicated investigative programme, and no recognised governmental archive of unexplained aerial sightings. The result is a very limited evidentiary landscape in which most claims remain anecdotal, receive only brief scrutiny through aviation or police channels, or are ultimately explained through conventional causes. Available evidence suggests that the country's UFO record is defined less by unresolved mysteries than by a lack of formal reporting infrastructure and a tendency toward sceptical interpretation when unusual sightings are examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
+Official records concerning UFOs or unidentified aerial phenomena (UAP) in the [Maldives]({{ 'maldives/' | relative_url }}) are notable primarily for their absence. Unlike some countries that maintain reporting systems, investigative units, archived case files, or declassified records, the Maldives has no publicly known national UFO reporting body, no dedicated investigative programme, and no recognised governmental archive of unexplained aerial sightings. The result is a very limited evidentiary landscape in which most claims remain anecdotal, receive only brief scrutiny through aviation or police channels, or are ultimately explained through conventional causes. Available evidence suggests that the country's UFO record is defined less by unresolved mysteries than by a lack of formal reporting infrastructure and a tendency toward sceptical interpretation when unusual sightings are examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
 
 
 <img src="{{ "/assets/images/Maldives_213cb2_maldives_ufo_debunki_37c71c-Illustration-1-dark.svg" | relative_url }}" alt="Investigations &amp; illustration 1" data-theme-src-dark="{{ "/assets/images/Maldives_213cb2_maldives_ufo_debunki_37c71c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maldives_213cb2_maldives_ufo_debunki_37c71c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -312,11 +312,11 @@ However, investigators emphasised caution, noting that marine debris can origina
 
 ## The Role of Global Databases
 
-The lack of a national reporting system is reflected in international UFO databases. One of the largest contemporary UFO reporting platforms records zero submitted sightings from the Maldives, despite maintaining a large global database of reports from other countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
+The lack of a national reporting system is reflected in international UFO databases. One of the largest contemporary UFO reporting platforms records zero submitted sightings from the Maldives, despite maintaining a large global database of reports from other countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
 
-The long-running National UFO Reporting Center (NUFORC) maintains a country index for Maldives, but the country's presence within global reporting systems remains extremely limited compared with nations that possess active reporting cultures or established investigative communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cMaldives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Country MaldivesData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search. NUFOR...</span></span></span>
+The long-running National UFO Reporting Center (NUFORC) maintains a country index for Maldives, but the country's presence within global reporting systems remains extremely limited compared with nations that possess active reporting cultures or established investigative communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cMaldives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Country MaldivesData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search. NUFOR...</span></span></span>
 
-This reporting gap creates a self-reinforcing cycle. Few reports enter international databases, which in turn reduces analytical attention, comparative research, and opportunities for independent verification. The result is not evidence that unusual events never occur in the Maldives, but rather that very few observations become part of a documented evidentiary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
+This reporting gap creates a self-reinforcing cycle. Few reports enter international databases, which in turn reduces analytical attention, comparative research, and opportunities for independent verification. The result is not evidence that unusual events never occur in the Maldives, but rather that very few observations become part of a documented evidentiary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K4SiqjS28ZE" title="Let&#x27;s Talk About the New UFO Files Released by The Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer">Let&#x27;s Talk About the New UFO Files Released by The Government</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 172.0K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K4SiqjS28ZE">Open on YouTube</a></p></div></div></div>
@@ -327,7 +327,7 @@ A useful way to understand the Maldivian record is to separate reports according
 
 ### Confirmed Cases
 
-There are no widely accepted Maldivian UFO cases supported by multiple forms of independent evidence such as radar data, sensor records, physical evidence, and corroborated witness testimony. Publicly accessible records do not contain a confirmed unexplained aerial phenomenon linked to the Maldives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
+There are no widely accepted Maldivian UFO cases supported by multiple forms of independent evidence such as radar data, sensor records, physical evidence, and corroborated witness testimony. Publicly accessible records do not contain a confirmed unexplained aerial phenomenon linked to the Maldives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xrFdHO7FH8w" title="The Donald Trump Interview - IMPAULSIVE EP. 418" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xrFdHO7FH8w" target="_blank" rel="noopener noreferrer">The Donald Trump Interview - IMPAULSIVE EP. 418</a></p><p class="youtube-embed-meta">Channel: IMPAULSIVE &middot; Views: 7.2M &middot; Uploaded: June 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xrFdHO7FH8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xrFdHO7FH8w">Open on YouTube</a></p></div></div></div>
@@ -346,89 +346,47 @@ Most reported aerial anomalies associated with the Maldives fall into this categ
 
 The central fact about UFO reporting in the Maldives is not the existence of a large body of unexplained incidents but the absence of the institutional structures that would allow such incidents to be systematically recorded and analysed. Official responses have consistently prioritised radar data, aviation records, and physical evidence. When these sources fail to support a claim, authorities have generally favoured sceptical or conventional interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://foreign.gov.mv/index.php/en/media-center/news/mndf-issues-statement-in-connection-to-the-missing-malaysian-airline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreign.gov.mv">[Ministry of Foreign Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreign.gov.mv</span><span class="citation-popover-title">mndf issues statement in connection to the missing malaysian airline</span><span class="citation-popover-snippet">18 March 2014; The Maldives... Furthermore, no trace of the MH 370 Airline has been found from the data scrutinized thus far from radars...</span><span class="citation-popover-meta">Published: March 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://maldivesindependent.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maldivesindependent.com">[Maldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maldivesindependent.com</span><span class="citation-popover-snippet">Maldives IndependentKudahuvadhoo islanders spotted low-flying mystery aircraft...18 Mar 2014 — Residents of Kudahuvadhoo in Dhaal atoll...</span></span></span>
 
-Consequently, the Maldivian UFO record remains extremely limited. The few notable cases are either disputed, unverified, or explained through ordinary causes, and no substantial archive of official investigations exists to suggest a broader pattern of unexplained aerial phenomena within the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
+Consequently, the Maldivian UFO record remains extremely limited. The few notable cases are either disputed, unverified, or explained through ordinary causes, and no substantial archive of official investigations exists to suggest a broader pattern of unexplained aerial phenomena within the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Official Records, Skeptical Analysis, and UFO Reporting in Maldives. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Official Records, Skeptical Analysis, and UFO Reporting in Maldives, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines modern reporting systems, records, and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Relevant to evidence assessment and classification of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Directly relevant to how governments investigate aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits discussion of official reporting systems and government responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -462,75 +420,71 @@ Consequently, the Maldivian UFO record remains extremely limited. The few notabl
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-t-shirt-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-t-shirt-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-t-shirt-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-t-shirt-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-official-records-skeptical-analysis-and-ufo-reporting-in-maldives-maldives-ufo-poster-book-books-series-t&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -744,108 +698,108 @@ Consequently, the Maldivian UFO record remains extremely limited. The few notabl
 
 1. <a id="endnote-1"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/mv](https://enigmalabs.io/explore/mv)  
+   Link: <a href="https://enigmalabs.io/explore/mv" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/mv</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUFO Sightings in MaldivesExplore UFO &amp; UAP sightings in Maldives. Discover sighting maps, historical a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: malaysiakini.com  
-   Link: [https://www.malaysiakini.com/news/257506](https://www.malaysiakini.com/news/257506)  
+   Link: <a href="https://www.malaysiakini.com/news/257506" target="_blank" rel="noopener noreferrer nofollow">https://www.malaysiakini.com/news/257506</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No plane picked up on Maldivian military radar19 Mar 2014 — MH370 Military radar in the Maldives did not pick up any trace of missing Mal...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=cMaldives](https://nuforc.org/subndx/?id=cMaldives)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for Country MaldivesData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search. NUFOR...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=cMaldives" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cMaldives</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country MaldivesData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search. NUFOR...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: foreign.gov.mv  
    Title: mndf issues statement in connection to the missing malaysian airline  
-   Link: [https://foreign.gov.mv/index.php/en/media-center/news/mndf-issues-statement-in-connection-to-the-missing-malaysian-airline](https://foreign.gov.mv/index.php/en/media-center/news/mndf-issues-statement-in-connection-to-the-missing-malaysian-airline)  
+   Link: <a href="https://foreign.gov.mv/index.php/en/media-center/news/mndf-issues-statement-in-connection-to-the-missing-malaysian-airline" target="_blank" rel="noopener noreferrer nofollow">https://foreign.gov.mv/index.php/en/media-center/news/mndf-issues-statement-in-connection-to-the-missing-malaysian-airline</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 March 2014; The Maldives... Furthermore, no trace of the MH 370 Airline has been found from the data scrutinized thus far from radars...</p></details>
    Published: March 2014  
 
 5. <a id="endnote-5"></a>
    Source: maldivesindependent.com  
-   Link: [https://maldivesindependent.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268](https://maldivesindependent.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268)  
+   Link: <a href="https://maldivesindependent.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268" target="_blank" rel="noopener noreferrer nofollow">https://maldivesindependent.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maldives IndependentKudahuvadhoo islanders spotted low-flying mystery aircraft...18 Mar 2014 — Residents of Kudahuvadhoo in Dhaal atoll...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: maldivesindependent.com  
-   Link: [https://maldivesindependent.com/politics/mh370-sightings-in-maldives-are-not-true-reports-malaysian-defence-minister-80362](https://maldivesindependent.com/politics/mh370-sightings-in-maldives-are-not-true-reports-malaysian-defence-minister-80362)  
+   Link: <a href="https://maldivesindependent.com/politics/mh370-sightings-in-maldives-are-not-true-reports-malaysian-defence-minister-80362" target="_blank" rel="noopener noreferrer nofollow">https://maldivesindependent.com/politics/mh370-sightings-in-maldives-are-not-true-reports-malaysian-defence-minister-80362</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maldives IndependentMH370 sightings in Maldives are not true, reports...19 Mar 2014 — MH370 sightings in Maldives are not true, reports...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: maldivesindependent.com  
    Title: maldives islanders report mh370 plane debris 116267  
-   Link: [https://maldivesindependent.com/society/maldives-islanders-report-mh370-plane-debris-116267](https://maldivesindependent.com/society/maldives-islanders-report-mh370-plane-debris-116267)  
+   Link: <a href="https://maldivesindependent.com/society/maldives-islanders-report-mh370-plane-debris-116267" target="_blank" rel="noopener noreferrer nofollow">https://maldivesindependent.com/society/maldives-islanders-report-mh370-plane-debris-116267</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maldives Civil Aviation Authority (MCAU) and the police have started collaborating with the...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore](https://enigmalabs.io/explore)  
+   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Around the WorldCombined with 270K+ sighting reports from publicly available sources, Enigma is the largest queryable histo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/](https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs collects videos submitted by people who...UFO sightings &#x27;not necessarily about aliens.&#x27; How a... Enigma Labs | Report a UFO...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100069734686119/posts/revisiting-the-kudahuvadhoo-sightings-could-mh370-have-flown-over-the-maldiveson/993751912959289/](https://www.facebook.com/100069734686119/posts/revisiting-the-kudahuvadhoo-sightings-could-mh370-have-flown-over-the-maldiveson/993751912959289/)  
+   Link: <a href="https://www.facebook.com/100069734686119/posts/revisiting-the-kudahuvadhoo-sightings-could-mh370-have-flown-over-the-maldiveson/993751912959289/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100069734686119/posts/revisiting-the-kudahuvadhoo-sightings-could-mh370-have-flown-over-the-maldiveson/993751912959289/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MH370 Kudahuvadhoo TheoryGiven the lack of definitive evidence, the Kudahuvadhoo sightings remain a point of contention in the ongoing my...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/maldives-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/maldives-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/maldives-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/maldives-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maldives UFO Sightings and Experience ReportsWe are working as quickly as possible to add all received Maldives UFO and alien contact exp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: albaniandailynews.com  
-   Link: [https://albaniandailynews.com/news/us-government-releases-ufo-sighting-reports-orbs-swarming-in-all-directions](https://albaniandailynews.com/news/us-government-releases-ufo-sighting-reports-orbs-swarming-in-all-directions)  
+   Link: <a href="https://albaniandailynews.com/news/us-government-releases-ufo-sighting-reports-orbs-swarming-in-all-directions" target="_blank" rel="noopener noreferrer nofollow">https://albaniandailynews.com/news/us-government-releases-ufo-sighting-reports-orbs-swarming-in-all-directions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Government Releases UFO Sighting Reports: Orbs...6 days ago — The Pentagon has released scores of UFO files, with descriptions of rep...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: minivannewsarchive.com  
-   Link: [https://minivannewsarchive.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268](https://minivannewsarchive.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268)  
+   Link: <a href="https://minivannewsarchive.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268" target="_blank" rel="noopener noreferrer nofollow">https://minivannewsarchive.com/society/kudahuvadhoo-islanders-spotted-low-lying-mystery-aircraft-in-hours-after-mh370-disappearance-80268</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kudahuvadhoo islanders spotted low-flying mystery aircraft...18 Mar 2014 — Residents of Kudahuvadhoo in Dhaal atoll have reported seeing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/](https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The story I heard from multiple outside sources but believed by insiders was it was a coordinated attack by Enigma and...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/world/asia/islanders-saw-low-flying-jumbo-jet-the-same-day-mh370-plane-disappeared-a110631.html](https://www.independent.co.uk/news/world/asia/islanders-saw-low-flying-jumbo-jet-the-same-day-mh370-plane-disappeared-a110631.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/asia/islanders-saw-low-flying-jumbo-jet-the-same-day-mh370-plane-disappeared-a110631.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/asia/islanders-saw-low-flying-jumbo-jet-the-same-day-mh370-plane-disappeared-a110631.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote islanders saw &#x27;low-flying jumbo jet&#x27; on the day...4 Apr 2015 — Inhabitants of the remote island of Kudahuvadhoo in the Indian Oce...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nypost.com  
    Title: ufo tracker app spots thousands of mysterious underwater objects off us shores  
-   Link: [https://nypost.com/2026/05/14/us-news/ufo-tracker-app-spots-thousands-of-mysterious-underwater-objects-off-us-shores/](https://nypost.com/2026/05/14/us-news/ufo-tracker-app-spots-thousands-of-mysterious-underwater-objects-off-us-shores/)  
+   Link: <a href="https://nypost.com/2026/05/14/us-news/ufo-tracker-app-spots-thousands-of-mysterious-underwater-objects-off-us-shores/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/14/us-news/ufo-tracker-app-spots-thousands-of-mysterious-underwater-objects-off-us-shores/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of mysterious underwater UFOs spotted off US...14 May 2026 — A UFO tracker app, Enigma, has recorded thousands of mysterious u...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: vir.com.vn  
    Title: malaysia rejects reports of possible mh370 sighting in maldives 26506  
-   Link: [https://vir.com.vn/malaysia-rejects-reports-of-possible-mh370-sighting-in-maldives-26506.html](https://vir.com.vn/malaysia-rejects-reports-of-possible-mh370-sighting-in-maldives-26506.html)  
+   Link: <a href="https://vir.com.vn/malaysia-rejects-reports-of-possible-mh370-sighting-in-maldives-26506.html" target="_blank" rel="noopener noreferrer nofollow">https://vir.com.vn/malaysia-rejects-reports-of-possible-mh370-sighting-in-maldives-26506.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia rejects reports of possible MH370 sighting in...20 Mar 2014 — &quot;Based on the monitoring up to date, no indication of flight MH37...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: international.astroawani.com  
    Title: mh370 no malaysian aircraft detected radar maldivian army 32112  
-   Link: [https://international.astroawani.com/malaysia-news/mh370-no-malaysian-aircraft-detected-radar-maldivian-army-32112](https://international.astroawani.com/malaysia-news/mh370-no-malaysian-aircraft-detected-radar-maldivian-army-32112)  
+   Link: <a href="https://international.astroawani.com/malaysia-news/mh370-no-malaysian-aircraft-detected-radar-maldivian-army-32112" target="_blank" rel="noopener noreferrer nofollow">https://international.astroawani.com/malaysia-news/mh370-no-malaysian-aircraft-detected-radar-maldivian-army-32112</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWANI InternationalMH370: No Malaysian aircraft detected by radar- Maldivian army19 Mar 2014 — The Maldives National Defence Force (MNDF)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>

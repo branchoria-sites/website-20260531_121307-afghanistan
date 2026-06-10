@@ -1185,7 +1185,7 @@ next_link:
   title: Norway UFOs
   permalink: /what-makes-norways-ufo-record-different/
   short_title: Norway UFOs
-date: '2026-06-09 01:32:11 '
+date: '2026-06-10 01:57:47 '
 header:
   og_image: /assets/images/Liechtenstein_b0ddce-overview-social.jpg
   preview_image: /assets/images/Liechtenstein_b0ddce-overview.webp
@@ -1200,7 +1200,7 @@ Liechtenstein is small enough that even a modest evidence gap matters. Official 
 <img src="{{ "/assets/images/Liechtenstein_b0ddce-overview.webp" | relative_url }}" alt="Overview image for What Makes Liechtenstein&#x27;s UFO Story..." loading="eager" decoding="sync" fetchpriority="high">
 That does not mean unusual aerial observations never occur. It means the evidential baseline is fragile. A light seen from Balzers, Triesen, Vaduz, Schaan, Eschen, or Mauren can cross national borders in seconds, and the same object may be part of a Swiss, Austrian, German, or wider European sky event rather than a specifically Liechtenstein incident. The National UFO Reporting Center’s public location index lists many countries and gives nearby counts for Austria, Switzerland and others, but Liechtenstein does not appear as a separate listed country entry in the visible index; that absence is useful, but it is not proof that no residents have ever submitted reports elsewhere or under neighbouring locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-The country’s aviation administration also complicates any search for “national UFO files”. Liechtenstein’s own civil aviation page says its Office of Structural Engineering and Spatial Planning handles civil aviation matters, including drone-ban exemptions around government buildings, parliament buildings and Vaduz Castle, and landing permits for foreign military and state aircraft. It also states that Swiss aviation legislation is applied in Liechtenstein and enforced by Swiss authorities, with the Swiss Federal Office of Civil Aviation acting as the competent aviation authority. That makes [aviation records]({{ 'official-records-2a07b6/' | relative_url }}) a cross-border subject rather than a purely domestic Liechtenstein archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">Civil Aviation</span><span class="citation-popover-snippet">Civil Aviation</span></span></span>
+The country’s aviation administration also complicates any search for “national UFO files”. Liechtenstein’s own civil aviation page says its Office of Structural Engineering and Spatial Planning handles civil aviation matters, including drone-ban exemptions around government buildings, parliament buildings and Vaduz Castle, and landing permits for foreign military and state aircraft. It also states that Swiss aviation legislation is applied in Liechtenstein and enforced by Swiss authorities, with the Swiss Federal Office of Civil Aviation acting as the competent aviation authority. That makes aviation records a cross-border subject rather than a purely domestic Liechtenstein archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">Civil Aviation</span><span class="citation-popover-snippet">Civil Aviation</span></span></span>
 
 ## A Short Chronology of the Best-Supported Material
 
@@ -1234,7 +1234,7 @@ For Liechtenstein, evidence quality varies sharply by type.
 
 **Debunked or conventionally explained claims** include some “strange light” episodes where the explanation is a meteor, satellite train, rocket-stage debris, or re-entry. The 2015 meteor report and the 2026 re-entry explanation show the pattern clearly: a dramatic observation can be real, widely noticed and initially mysterious without being anomalous in the stronger sense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
 
-**Weak evidence** includes generic UFO-database pages that invite Liechtenstein reports but provide little or no verifiable local detail. Such pages may be useful as reporting portals, but they should not be treated as national archives unless they provide dates, places, witness descriptions, original submissions and a clear review standard. NUFORC is more transparent about its own limitations, stating that its reports are public and reviewed, but also that it makes no claims as to their validity and that most are posted in the witness’s own words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+**Weak evidence** includes generic UFO-database pages that invite Liechtenstein reports but provide little or no verifiable local detail. Such pages may be useful as reporting portals, but they should not be treated as national archives unless they provide dates, places, witness descriptions, original submissions and a clear review standard. NUFORC is more transparent about its own limitations, stating that its reports are public and reviewed, but also that it makes no claims as to their validity and that most are posted in the witness’s own words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJy8GCuRfY4" title="Ancient Aliens: Prince Philip&#x27;s Secret UFO Investigation (Season 18) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJy8GCuRfY4" target="_blank" rel="noopener noreferrer">Ancient Aliens: Prince Philip&#x27;s Secret UFO Investigation (Season 18) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 737.9K &middot; Uploaded: February 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJy8GCuRfY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJy8GCuRfY4">Open on YouTube</a></p></div></div></div>
@@ -1285,86 +1285,44 @@ What remains unknown is whether there are unpublished police notes, private witn
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Makes Liechtenstein&#x27;s UFO Story Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Makes Liechtenstein&#x27;s UFO Story Unusual?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a structured approach to sparse national sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful comparative reading on documented versus undocumented UFO histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Helps place Liechtenstein&#x27;s sparse record in a wider international context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Fits a page focused on unusual national UFO narratives and cultural context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1398,75 +1356,71 @@ What remains unknown is whether there are unpublished police notes, private witn
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-liechtensteins-ufo-story-what-makes-liechtenstein-s-ufo-story-unusual-liechtenstein-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1681,239 +1635,239 @@ What remains unknown is whether there are unpublished police notes, private witn
 1. <a id="endnote-1"></a>
    Source: swissinfo.ch  
    Title: SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand  
-   Link: [https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790](https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790)  
+   Link: <a href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790</a>  
 
 2. <a id="endnote-2"></a>
    Source: llv.li  
    Title: Civil Aviation  
-   Link: [https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation](https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation)  
+   Link: <a href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation</a>  
 
 3. <a id="endnote-3"></a>
    Source: statistikportal.li  
    Title: 102.2026.01.1 02 liechtenstein in figures 2026  
-   Link: [https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf](https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf)  
+   Link: <a href="https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: bayefsky.com  
    Title: Microsoft Word  
-   Link: [https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf](https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf)  
+   Link: <a href="https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 6. <a id="endnote-6"></a>
    Source: vaterland.li  
    Title: online Meteor kommt der Schweiz ganz nahe  
-   Link: [https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429](https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429)  
+   Link: <a href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429</a>  
 
 7. <a id="endnote-7"></a>
    Source: vaterland.li  
    Title: online Mysteriöse Flugobjektsichtung am Freitag  
-   Link: [https://www.vaterland.li/liechtenstein/gesellschaft/mysterioese-flugobjektsichtung-am-freitag-art-728245](https://www.vaterland.li/liechtenstein/gesellschaft/mysterioese-flugobjektsichtung-am-freitag-art-728245)  
+   Link: <a href="https://www.vaterland.li/liechtenstein/gesellschaft/mysterioese-flugobjektsichtung-am-freitag-art-728245" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/liechtenstein/gesellschaft/mysterioese-flugobjektsichtung-am-freitag-art-728245</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 10. <a id="endnote-10"></a>
    Source: llv.li  
-   Link: [https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf](https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf)  
+   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: llv.li  
    Title: brochure lt<liechtenstein in zahlen 2025>gt is published  
-   Link: [https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published](https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published)  
+   Link: <a href="https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published</a>  
 
 12. <a id="endnote-12"></a>
    Source: llv.li  
    Title: 40900 persons in the citizen population  
-   Link: [https://www.llv.li/en/news/40900-persons-in-the-citizen-population](https://www.llv.li/en/news/40900-persons-in-the-citizen-population)  
+   Link: <a href="https://www.llv.li/en/news/40900-persons-in-the-citizen-population" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/en/news/40900-persons-in-the-citizen-population</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=v](https://nuforc.org/subndx/?id=v)  
+   Link: <a href="https://nuforc.org/subndx/?id=v" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=v</a>  
 
 16. <a id="endnote-16"></a>
    Source: statistikportal.li  
    Title: 103.2025.01.1 01 liechtenstein in figures 2025  
-   Link: [https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2025/01/1/103.2025.01.1_01_liechtenstein-in-figures-2025.pdf](https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2025/01/1/103.2025.01.1_01_liechtenstein-in-figures-2025.pdf)  
+   Link: <a href="https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2025/01/1/103.2025.01.1_01_liechtenstein-in-figures-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2025/01/1/103.2025.01.1_01_liechtenstein-in-figures-2025.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: statistikportal.li  
    Title: 103.2024.01.1 01 liechtenstein in figures 2024  
-   Link: [https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2024/01/1/103.2024.01.1_01_liechtenstein-in-figures-2024.pdf](https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2024/01/1/103.2024.01.1_01_liechtenstein-in-figures-2024.pdf)  
+   Link: <a href="https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2024/01/1/103.2024.01.1_01_liechtenstein-in-figures-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2024/01/1/103.2024.01.1_01_liechtenstein-in-figures-2024.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: swissinfo.ch  
    Title: liechtenstein das etwas andere frauenstimmrecht  
-   Link: [https://www.swissinfo.ch/ger/politics/liechtenstein_das-etwas-andere-frauenstimmrecht/46420194](https://www.swissinfo.ch/ger/politics/liechtenstein_das-etwas-andere-frauenstimmrecht/46420194)  
+   Link: <a href="https://www.swissinfo.ch/ger/politics/liechtenstein_das-etwas-andere-frauenstimmrecht/46420194" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/ger/politics/liechtenstein_das-etwas-andere-frauenstimmrecht/46420194</a>  
 
 19. <a id="endnote-19"></a>
    Source: swissinfo.ch  
    Title: Gesellschaft Archives  
-   Link: [https://www.swissinfo.ch/ger/topic/gesellschaft/page/128/](https://www.swissinfo.ch/ger/topic/gesellschaft/page/128/)  
+   Link: <a href="https://www.swissinfo.ch/ger/topic/gesellschaft/page/128/" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/ger/topic/gesellschaft/page/128/</a>  
 
 20. <a id="endnote-20"></a>
    Source: swissinfo.ch  
    Title: liechtenstein o príncipe caçador de discos voadores  
-   Link: [https://www.swissinfo.ch/por/culture/liechtenstein_o-pr%C3%ADncipe-ca%C3%A7ador-de-discos-voadores/45799684](https://www.swissinfo.ch/por/culture/liechtenstein_o-pr%C3%ADncipe-ca%C3%A7ador-de-discos-voadores/45799684)  
+   Link: <a href="https://www.swissinfo.ch/por/culture/liechtenstein_o-pr%C3%ADncipe-ca%C3%A7ador-de-discos-voadores/45799684" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/por/culture/liechtenstein_o-pr%C3%ADncipe-ca%C3%A7ador-de-discos-voadores/45799684</a>  
 
 21. <a id="endnote-21"></a>
    Source: 2009-2017.state.gov  
-   Link: [https://2009-2017.state.gov/outofdate/bgn/liechtenstein/14622.htm](https://2009-2017.state.gov/outofdate/bgn/liechtenstein/14622.htm)  
+   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/liechtenstein/14622.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/liechtenstein/14622.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: vaterland.li  
    Title: bis zu 140 sternschnuppen pro stunde art 283359  
-   Link: [https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/bis-zu-140-sternschnuppen-pro-stunde-art-283359](https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/bis-zu-140-sternschnuppen-pro-stunde-art-283359)  
+   Link: <a href="https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/bis-zu-140-sternschnuppen-pro-stunde-art-283359" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/bis-zu-140-sternschnuppen-pro-stunde-art-283359</a>  
 
 23. <a id="endnote-23"></a>
    Source: vaterland.li  
-   Link: [https://www.vaterland.li/?ressort%253Dhome%2526source%253Dsda%2526id%253D159175=](https://www.vaterland.li/?ressort%253Dhome%2526source%253Dsda%2526id%253D159175=)  
+   Link: <a href="https://www.vaterland.li/?ressort%253Dhome%2526source%253Dsda%2526id%253D159175=" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/?ressort%253Dhome%2526source%253Dsda%2526id%253D159175=</a>  
 
 24. <a id="endnote-24"></a>
    Source: vaterland.li  
-   Link: [https://www.vaterland.li/?ressort=](https://www.vaterland.li/?ressort=)  
+   Link: <a href="https://www.vaterland.li/?ressort=" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/?ressort=</a>  
 
 25. <a id="endnote-25"></a>
    Source: vaterland.li  
-   Link: [https://www.vaterland.li/?id%253D29177%2526source%253Dlv%2526ressort%253Dhome=](https://www.vaterland.li/?id%253D29177%2526source%253Dlv%2526ressort%253Dhome=)  
+   Link: <a href="https://www.vaterland.li/?id%253D29177%2526source%253Dlv%2526ressort%253Dhome=" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/?id%253D29177%2526source%253Dlv%2526ressort%253Dhome=</a>  
 
 26. <a id="endnote-26"></a>
    Source: vaterland.li  
    Title: spacex bringt us militaersatelliten ins all art 364270  
-   Link: [https://www.vaterland.li/international/wirtschaft/international/spacex-bringt-us-militaersatelliten-ins-all-art-364270](https://www.vaterland.li/international/wirtschaft/international/spacex-bringt-us-militaersatelliten-ins-all-art-364270)  
+   Link: <a href="https://www.vaterland.li/international/wirtschaft/international/spacex-bringt-us-militaersatelliten-ins-all-art-364270" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/international/wirtschaft/international/spacex-bringt-us-militaersatelliten-ins-all-art-364270</a>  
 
 27. <a id="endnote-27"></a>
    Source: vaterland.li  
    Title: swissloop stellt claude nicollier vor art 389624  
-   Link: [https://www.vaterland.li/international/wirtschaft/international/swissloop-stellt-claude-nicollier-vor-art-389624](https://www.vaterland.li/international/wirtschaft/international/swissloop-stellt-claude-nicollier-vor-art-389624)  
+   Link: <a href="https://www.vaterland.li/international/wirtschaft/international/swissloop-stellt-claude-nicollier-vor-art-389624" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/international/wirtschaft/international/swissloop-stellt-claude-nicollier-vor-art-389624</a>  
 
 28. <a id="endnote-28"></a>
    Source: vaterland.li  
    Title: obama weiter vertrauen in raumfahrt art 93815  
-   Link: [https://www.vaterland.li/international/obama-weiter-vertrauen-in-raumfahrt-art-93815](https://www.vaterland.li/international/obama-weiter-vertrauen-in-raumfahrt-art-93815)  
+   Link: <a href="https://www.vaterland.li/international/obama-weiter-vertrauen-in-raumfahrt-art-93815" target="_blank" rel="noopener noreferrer nofollow">https://www.vaterland.li/international/obama-weiter-vertrauen-in-raumfahrt-art-93815</a>  
 
 29. <a id="endnote-29"></a>
    Source: vaduz.li  
    Title: Nr. 30 September 2002  
-   Link: [https://www.vaduz.li/application/files/4016/0806/6087/Nr._30_-_September_2002.pdf](https://www.vaduz.li/application/files/4016/0806/6087/Nr._30_-_September_2002.pdf)  
+   Link: <a href="https://www.vaduz.li/application/files/4016/0806/6087/Nr._30_-_September_2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vaduz.li/application/files/4016/0806/6087/Nr._30_-_September_2002.pdf</a>  
    Published: September 2002  
 
 30. <a id="endnote-30"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/anzeiger1899germuoft/anzeiger1899germuoft_djvu.txt](https://archive.org/stream/anzeiger1899germuoft/anzeiger1899germuoft_djvu.txt)  
+   Link: <a href="https://archive.org/stream/anzeiger1899germuoft/anzeiger1899germuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anzeiger1899germuoft/anzeiger1899germuoft_djvu.txt</a>  
 
 31. <a id="endnote-31"></a>
    Source: space.com  
    Title: perseid meteor shower 2026 guide  
-   Link: [https://www.space.com/perseid-meteor-shower-2026-guide](https://www.space.com/perseid-meteor-shower-2026-guide)  
+   Link: <a href="https://www.space.com/perseid-meteor-shower-2026-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/perseid-meteor-shower-2026-guide</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Liechtenstein](https://en.wikipedia.org/wiki/Liechtenstein)  
+   Link: <a href="https://en.wikipedia.org/wiki/Liechtenstein" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Liechtenstein</a>  
 
 33. <a id="endnote-33"></a>
    Source: eliechtensteinensia.li  
-   Link: [https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2017/files/images/2017-08-11_006_vbhp_4c_2017-08-11.tif/full.pdf?divID=LOG_0003](https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2017/files/images/2017-08-11_006_vbhp_4c_2017-08-11.tif/full.pdf?divID=LOG_0003)  
+   Link: <a href="https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2017/files/images/2017-08-11_006_vbhp_4c_2017-08-11.tif/full.pdf?divID=LOG_0003" target="_blank" rel="noopener noreferrer nofollow">https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2017/files/images/2017-08-11_006_vbhp_4c_2017-08-11.tif/full.pdf?divID=LOG_0003</a>  
 
 34. <a id="endnote-34"></a>
    Source: eliechtensteinensia.li  
-   Link: [https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2014/files/images/2014-04-02_024_vbhp_4c_2014-04-02.tif/full.pdf?divID=LOG_0003](https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2014/files/images/2014-04-02_024_vbhp_4c_2014-04-02.tif/full.pdf?divID=LOG_0003)  
+   Link: <a href="https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2014/files/images/2014-04-02_024_vbhp_4c_2014-04-02.tif/full.pdf?divID=LOG_0003" target="_blank" rel="noopener noreferrer nofollow">https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2014/files/images/2014-04-02_024_vbhp_4c_2014-04-02.tif/full.pdf?divID=LOG_0003</a>  
 
 35. <a id="endnote-35"></a>
    Source: austria-forum.org  
    Title: Hans-Adam II  
-   Link: [https://austria-forum.org/af/AustriaWiki/Hans-Adam_II](https://austria-forum.org/af/AustriaWiki/Hans-Adam_II)  
+   Link: <a href="https://austria-forum.org/af/AustriaWiki/Hans-Adam_II" target="_blank" rel="noopener noreferrer nofollow">https://austria-forum.org/af/AustriaWiki/Hans-Adam_II</a>  
 
 36. <a id="endnote-36"></a>
    Source: destatis.de  
-   Link: [https://www.destatis.de/Europa/EN/Country/EFTA-countries/Liechtenstein.html](https://www.destatis.de/Europa/EN/Country/EFTA-countries/Liechtenstein.html)  
+   Link: <a href="https://www.destatis.de/Europa/EN/Country/EFTA-countries/Liechtenstein.html" target="_blank" rel="noopener noreferrer nofollow">https://www.destatis.de/Europa/EN/Country/EFTA-countries/Liechtenstein.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: macrotrends.net  
-   Link: [https://www.macrotrends.net/global-metrics/countries/lie/liechtenstein/population](https://www.macrotrends.net/global-metrics/countries/lie/liechtenstein/population)  
+   Link: <a href="https://www.macrotrends.net/global-metrics/countries/lie/liechtenstein/population" target="_blank" rel="noopener noreferrer nofollow">https://www.macrotrends.net/global-metrics/countries/lie/liechtenstein/population</a>  
 
 38. <a id="endnote-38"></a>
    Source: geofactbook.com  
-   Link: [https://geofactbook.com/countries/liechtenstein](https://geofactbook.com/countries/liechtenstein)  
+   Link: <a href="https://geofactbook.com/countries/liechtenstein" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/liechtenstein</a>  
 
 39. <a id="endnote-39"></a>
    Source: spacevalley.ch  
-   Link: [https://spacevalley.ch/](https://spacevalley.ch/)  
+   Link: <a href="https://spacevalley.ch/" target="_blank" rel="noopener noreferrer nofollow">https://spacevalley.ch/</a>  
 
 40. <a id="endnote-40"></a>
    Source: tradingeconomics.com  
-   Link: [https://tradingeconomics.com/liechtenstein/population](https://tradingeconomics.com/liechtenstein/population)  
+   Link: <a href="https://tradingeconomics.com/liechtenstein/population" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/liechtenstein/population</a>  
 
 41. <a id="endnote-41"></a>
    Source: ourworldindata.org  
-   Link: [https://ourworldindata.org/profile/population-demography/liechtenstein](https://ourworldindata.org/profile/population-demography/liechtenstein)  
+   Link: <a href="https://ourworldindata.org/profile/population-demography/liechtenstein" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/profile/population-demography/liechtenstein</a>  
 
 42. <a id="endnote-42"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Prince Philip's Secret UFO Investigation (Season 18) | History  
-   Link: [https://www.youtube.com/watch?v=MJy8GCuRfY4](https://www.youtube.com/watch?v=MJy8GCuRfY4)  
+   Link: <a href="https://www.youtube.com/watch?v=MJy8GCuRfY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJy8GCuRfY4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Queen Was Into Crop Circles&quot; | Documentary Explores Royals Fascination With UFO&#x27;s And Aliens...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SGoFFEInFyQ](https://www.youtube.com/watch?v=SGoFFEInFyQ)  
+   Link: <a href="https://www.youtube.com/watch?v=SGoFFEInFyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGoFFEInFyQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Secrets They Tried to Hide | The Proof Is Out There | History...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BvvHyt_faa0](https://www.youtube.com/watch?v=BvvHyt_faa0)  
+   Link: <a href="https://www.youtube.com/watch?v=BvvHyt_faa0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BvvHyt_faa0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE KING OF UFOs Official Trailer (2024) Documentary...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=szGw3MxzY0k](https://www.youtube.com/watch?v=szGw3MxzY0k)  
+   Link: <a href="https://www.youtube.com/watch?v=szGw3MxzY0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=szGw3MxzY0k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The King Of UFOs FULL DOCUMENTARY | Royal Family Documentaries | Dan Costello | The Dock...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DMFEeEZqMvE/](https://www.instagram.com/p/DMFEeEZqMvE/)  
+   Link: <a href="https://www.instagram.com/p/DMFEeEZqMvE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMFEeEZqMvE/</a>  
 
 48. <a id="endnote-48"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs](https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs)  
+   Link: <a href="https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sthlmsf/posts/150kr/1005872955134802/](https://www.facebook.com/sthlmsf/posts/150kr/1005872955134802/)  
+   Link: <a href="https://www.facebook.com/sthlmsf/posts/150kr/1005872955134802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sthlmsf/posts/150kr/1005872955134802/</a>  
 
 50. <a id="endnote-50"></a>
    Source: bautzenerbote.de  
-   Link: [https://www.bautzenerbote.de/570-ps-beschlagnahmter-ferrari-soll-tschechischer-polizei-bei-verfolgungsjagden-helfen/](https://www.bautzenerbote.de/570-ps-beschlagnahmter-ferrari-soll-tschechischer-polizei-bei-verfolgungsjagden-helfen/)  
+   Link: <a href="https://www.bautzenerbote.de/570-ps-beschlagnahmter-ferrari-soll-tschechischer-polizei-bei-verfolgungsjagden-helfen/" target="_blank" rel="noopener noreferrer nofollow">https://www.bautzenerbote.de/570-ps-beschlagnahmter-ferrari-soll-tschechischer-polizei-bei-verfolgungsjagden-helfen/</a>  
 
 51. <a id="endnote-51"></a>
    Source: portugalresident.com  
-   Link: [https://www.portugalresident.com/sv/air-force-alert-for-ufo/](https://www.portugalresident.com/sv/air-force-alert-for-ufo/)  
+   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
 52. <a id="endnote-52"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTiK2vujUVG/](https://www.instagram.com/p/DTiK2vujUVG/)  
+   Link: <a href="https://www.instagram.com/p/DTiK2vujUVG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTiK2vujUVG/</a>  

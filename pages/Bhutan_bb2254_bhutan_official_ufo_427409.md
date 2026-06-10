@@ -239,7 +239,7 @@ prev_link:
   permalink: /explanations-debunking/
   short_title: Explanations & Debunking
   heading_title: Possible Explanations for UFO Sightings in Bhutan
-date: '2026-06-09 01:18:47 '
+date: '2026-06-10 01:44:12 '
 header:
   og_image: /assets/images/Bhutan_bb2254_bhutan_official_ufo_427409-Illustration-1-social.jpg
   preview_image: /assets/images/Bhutan_bb2254_bhutan_official_ufo_427409-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Bhutan_bb2254_bhutan_official_ufo_427409-Illustration-1-so
 
 ## Introduction
 
-[Bhutan]({{ 'what-do-ufo-sightings-in-bhutan-really/' | relative_url }})’s UFO record is defined less by a large body of sightings than by the absence of one. Unlike the United States, United Kingdom or France, Bhutan has never developed a public archive of unidentified aerial phenomena, released military investigation files, or acknowledged a dedicated state programme examining UFO reports. Nearly all serious discussion of Bhutan in the UFO literature traces back to a single declassified CIA document from 1968 that grouped Bhutan with neighbouring Himalayan regions during a short cluster of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP81R00560R000100070007 8</span><span class="citation-popover-snippet">CIACIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">; PDF icon CIA-RDP81R00560R000100070007-8.pdf, 384.24 KB...Read more...</span></span></span>
+Bhutan’s UFO record is defined less by a large body of sightings than by the absence of one. Unlike the United States, United Kingdom or France, Bhutan has never developed a public archive of unidentified aerial phenomena, released military investigation files, or acknowledged a dedicated state programme examining UFO reports. Nearly all serious discussion of Bhutan in the UFO literature traces back to a single declassified CIA document from 1968 that grouped Bhutan with neighbouring Himalayan regions during a short cluster of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP81R00560R000100070007 8</span><span class="citation-popover-snippet">CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">; PDF icon CIA-RDP81R00560R000100070007-8.pdf, 384.24 KB...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Bhutan_bb2254_bhutan_official_ufo_427409-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_bhutan_official_ufo_427409-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_bhutan_official_ufo_427409-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ A short-lived unexplained sky report would therefore be unlikely to generate a l
 The lack of records is not itself evidence of suppression. In Bhutan’s case, it more plausibly reflects state scale, administrative priorities and limited technical monitoring capability during the relevant period.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VSOzBMjww9o" title="Why Congress Is Seriously Investigating UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VSOzBMjww9o" target="_blank" rel="noopener noreferrer">Why Congress Is Seriously Investigating UFOs</a></p><p class="youtube-embed-meta">Channel: Astrum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VSOzBMjww9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VSOzBMjww9o">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
 
 ### No public FOIA tradition or declassification culture
 
@@ -360,7 +360,7 @@ The Nepal branch of the same 1968 reporting became more famous because it includ
 That difference partly explains why Bhutan never developed a continuing UFO folklore around the incident. The archival footprint was simply too thin.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
 
 ## Comparing Bhutan with neighbouring regions
 
@@ -425,86 +425,44 @@ That leaves Bhutan with an unusually sparse but unusually traceable record:
 In practical terms, Bhutan’s UFO history is therefore less a catalogue of encounters than a case study in how archival survival shapes public memory. Without the CIA Reading Room release, the [1968 Thimphu sighting]({{ '1968-thimphu-sighting/' | relative_url }}) would likely have disappeared almost entirely from the historical record.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Bhutan UFOs in CIA Archives and Public Records. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Bhutan UFOs in CIA Archives and Public Records, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides structure for assessing official reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Directly relevant to government archives and UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on official testimony and documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
-        
-        <p class="fr-book-desc">Offers comparison with countries that maintained UFO files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -538,75 +496,71 @@ In practical terms, Bhutan’s UFO history is therefore less a catalogue of enco
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-ffaabe-bhutan-ufos-in-cia-archives-and-public-records-bhutan-ufo-poster-book-books-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -821,124 +775,124 @@ In practical terms, Bhutan’s UFO history is therefore less a catalogue of enco
 1. <a id="endnote-1"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100070007 8  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIACIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>; PDF icon CIA-RDP81R00560R000100070007-8.pdf, 384.24 KB...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2020/07/mysterious-ufo-activities-in-the-himalayas.html](https://www.latest-ufo-sightings.net/2020/07/mysterious-ufo-activities-in-the-himalayas.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2020/07/mysterious-ufo-activities-in-the-himalayas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2020/07/mysterious-ufo-activities-in-the-himalayas.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsMysterious UFO Activities in the Himalayas21 Jul 2020 — This time a bluish UFO was reported in Thimpu, the Bhutan cap...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.state.gov  
    Title: Office of the Historian337  
-   Link: [https://history.state.gov/historicaldocuments/frus1964-68v30/d337](https://history.state.gov/historicaldocuments/frus1964-68v30/d337)  
+   Link: <a href="https://history.state.gov/historicaldocuments/frus1964-68v30/d337" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1964-68v30/d337</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memorandum for the Special GroupSummary—The CIA Tibetan Activity consists of political action, propaganda, and paramilitary activity. The...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp79r01012a014100030001-3](https://www.cia.gov/readingroom/document/cia-rdp79r01012a014100030001-3)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79r01012a014100030001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79r01012a014100030001-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ds; Document Number (FOIA) /ESDN (CREST):. CIA-...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Tashichho Dzong  
-   Link: [https://en.wikipedia.org/wiki/Tashichho_Dzong](https://en.wikipedia.org/wiki/Tashichho_Dzong)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tashichho_Dzong" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tashichho_Dzong</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hindustantimes.com  
    Title: story t KMATr DE37L73Num Bfpxc M  
-   Link: [https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html](https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html)  
+   Link: <a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesCIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: [https://nepalitimes.com/ufo-over-pokhara](https://nepalitimes.com/ufo-over-pokhara)  
+   Link: <a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newsbytesapp.com  
-   Link: [https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story](https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story)  
+   Link: <a href="https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story" target="_blank" rel="noopener noreferrer nofollow">https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recently released CIA documents reveal UFO sightings...28 Jan 2017 — A recently released 1968 CIA report detailed six UFO sightings over...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: myufophotos.com  
    Title: Unidentified flying objects were observed over  
-   Link: [https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/](https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/)  
+   Link: <a href="https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My UFO PhotosBhutan UFO files (disclosure documents) ~ UFO archivesMay 27, 2018 — A report dating back to April 1968 from the Central Int...</p></details>
    Published: May 27, 2018  
 
 12. <a id="endnote-12"></a>
    Source: deccanchronicle.com  
    Title: Deccan Chronicle UFOs in India?  
-   Link: [https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html](https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html)  
+   Link: <a href="https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA report lists not 1 but 3 sightings28 Jan 2017 — The CIA documented a total of six UFO sightings over “south Ladakh, north east Nepal...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/places/asia/nepal-and-bhutan-political-geography/bhutan](https://www.encyclopedia.com/places/asia/nepal-and-bhutan-political-geography/bhutan)  
+   Link: <a href="https://www.encyclopedia.com/places/asia/nepal-and-bhutan-political-geography/bhutan" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/places/asia/nepal-and-bhutan-political-geography/bhutan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BhutanThe capital city of Bhutan, Thimphu, is located in the west central part of the country. TOPOGRAPHY. Bhutan is a mountainous countr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoo_aMSQyot7Ov_0QrUqaqFfHu7oMc2S3jQI883upAIm5agHOpcs](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoo_aMSQyot7Ov_0QrUqaqFfHu7oMc2S3jQI883upAIm5agHOpcs)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoo_aMSQyot7Ov_0QrUqaqFfHu7oMc2S3jQI883upAIm5agHOpcs" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-evidence-declassified?srsltid=AfmBOoo_aMSQyot7Ov_0QrUqaqFfHu7oMc2S3jQI883upAIm5agHOpcs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Declassified: Shocking Pentagon SecretsPentagon UFO secrets revealed: Declassified evidence shows craft with impossible tech...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVorasBEcS5/](https://www.instagram.com/p/DVorasBEcS5/)  
+   Link: <a href="https://www.instagram.com/p/DVorasBEcS5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVorasBEcS5/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO maps reveal as much about people as skies...The U.S. government has made public 162 newly declassified UFO related files, giving peo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 17. <a id="endnote-17"></a>
    Source: ibtimes.co.in  
    Title: declassified cia documents reveal 6 ufo sightings india nepal bhutan 713983  
-   Link: [https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983](https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983)  
+   Link: <a href="https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaDeclassified CIA documents reveal 6 UFO sightings in...29 Jan 2017 — CIA filed a report in the April of 1968 detailing at l...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: itechpost.com  
    Title: released declassified cia documents revealed 6 ufo sightings india bhutan  
-   Link: [https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm](https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm)  
+   Link: <a href="https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Released Declassified CIA documents reveals 6 UFO...30 Jan 2017 — The recently released CIA declassified documents revealed six UFO sigh...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: evrimagaci.org  
    Title: pentagon releases trove of ufo files to public 539494  
-   Link: [https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOoopSTGpcL1GshxhYwtmAnzvNfHbY10RTgR12tt5L6SPySelsaCn](https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOoopSTGpcL1GshxhYwtmAnzvNfHbY10RTgR12tt5L6SPySelsaCn)  
+   Link: <a href="https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOoopSTGpcL1GshxhYwtmAnzvNfHbY10RTgR12tt5L6SPySelsaCn" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOoopSTGpcL1GshxhYwtmAnzvNfHbY10RTgR12tt5L6SPySelsaCn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Trove Of UFO Files To Public8 May 2026 — Decades of government records, videos, and eyewitness accounts on unidentified...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: sikhim.blogspot.com  
-   Link: [https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html](https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html)  
+   Link: <a href="https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html" target="_blank" rel="noopener noreferrer nofollow">https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>196825 Jun 2018 — The report mentions the UFO activity of February-March 1968 in India/Nepal/Bhutan/China. The sightings at Sikkim were...</p></details>
    Published: March 1968  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: I saw this pole today in Bhutan  
-   Link: [https://www.facebook.com/groups/553313185526424/posts/1673805870143811/](https://www.facebook.com/groups/553313185526424/posts/1673805870143811/)  
+   Link: <a href="https://www.facebook.com/groups/553313185526424/posts/1673805870143811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/553313185526424/posts/1673805870143811/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not even in the ground.Released Declassified CIA documents reveals 6 UFO Sightings In India, Bhutan And Nepal... Buddha Dordenma in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: weirdest things you have heard  
-   Link: [https://www.reddit.com/r/bhutan/comments/1rl9pqe/weirdest_things_you_have_heard/](https://www.reddit.com/r/bhutan/comments/1rl9pqe/weirdest_things_you_have_heard/)  
+   Link: <a href="https://www.reddit.com/r/bhutan/comments/1rl9pqe/weirdest_things_you_have_heard/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bhutan/comments/1rl9pqe/weirdest_things_you_have_heard/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/bhutan[https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf)... The most weirdest thing that I have heard about Bhuta...</p></details>

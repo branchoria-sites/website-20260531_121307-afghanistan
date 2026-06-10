@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ukraine-c951ec-index/
 description: Focused pages that expand on What Is Really Seen Over Ukraine?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Ukraine_c951ec
 parent_title: What Is Really Seen Over Ukraine?

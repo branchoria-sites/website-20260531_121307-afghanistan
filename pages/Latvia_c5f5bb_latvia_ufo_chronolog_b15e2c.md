@@ -22,12 +22,12 @@ permalink: /sightings-timeline-cd0e16/
 sidebar_expanded_urls:
 - /what-has-latvia-really-seen-in-the-sky/
 nav_short_title: Sightings Timeline
-title: 'Latvia''s UFO Sightings: From 19th Century to Today'
-title_full: 'Latvia''s UFO Sightings: From 19th Century to Today | Latvia UFOs'
+title: 'Latvia''s UFO Sightings: From 19 th Century to Today'
+title_full: 'Latvia''s UFO Sightings: From 19 th Century to Today | Latvia UFOs'
 display_title_short: Sightings Timeline
 display_title: Sightings Timeline
-heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
-page_heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
+heading_title: 'Latvia''s UFO Sightings: From 19 th Century to Today'
+page_heading_title: 'Latvia''s UFO Sightings: From 19 th Century to Today'
 source_count: 33
 infographic_count: 3
 planned_sections:
@@ -245,7 +245,7 @@ next_link:
   permalink: /ufology-groups/
   short_title: Ufology Groups
   heading_title: Inside Latvia's UFO Research Communities
-date: '2026-06-09 01:31:32 '
+date: '2026-06-10 01:57:12 '
 header:
   og_image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-social.jpg
   preview_image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-s
 
 ## Introduction
 
-[Latvia]({{ 'what-has-latvia-really-seen-in-the-sky/' | relative_url }})’s UFO history is not defined by a single famous encounter but by a scattered chain of reports stretching from disputed nineteenth-century claims to modern airspace alerts involving drones and military monitoring. The country’s record combines folklore-era observations, Soviet-period stories, post-independence civilian sightings and, increasingly, official reports of unidentified aerial objects near Latvia’s eastern borders. The result is a timeline that reveals as much about changing technology, politics and public perception as it does about unexplained sightings themselves.
+Latvia’s UFO history is not defined by a single famous encounter but by a scattered chain of reports stretching from disputed nineteenth-century claims to modern airspace alerts involving drones and military monitoring. The country’s record combines folklore-era observations, Soviet-period stories, post-independence civilian sightings and, increasingly, official reports of unidentified aerial objects near Latvia’s eastern borders. The result is a timeline that reveals as much about changing technology, politics and public perception as it does about unexplained sightings themselves.
 
 
 <img src="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Most Latvian UFO cases remain poorly documented. Many survive only through witness testimony, local media reports or international databases such as the National UFO Reporting Center (NUFORC). Few include radar records, military documentation or independently verified imagery. Recent incidents differ sharply from earlier reports because they involve state security institutions, NATO air surveillance systems and investigations into drones crossing Baltic airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Most Latvian UFO cases remain poorly documented. Many survive only through witness testimony, local media reports or international databases such as the National UFO Reporting Center (NUFORC). Few include radar records, military documentation or independently verified imagery. Recent incidents differ sharply from earlier reports because they involve state security institutions, NATO air surveillance systems and investigations into drones crossing Baltic airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## Historical and Early Reports
 
@@ -276,7 +276,7 @@ During the Soviet period, reports of unusual aerial phenomena circulated private
 
 Some accounts from the 1960s through the 1980s appeared later in private catalogues or were submitted retrospectively to international databases. These reports often lack precise dates, locations or supporting evidence, making them difficult to evaluate decades later.
 
-A notable example preserved in modern reporting databases is a sighting allegedly occurring in 1985 near the Latvian-Lithuanian region. As with many Cold War-era reports, the surviving description is brief and cannot be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+A notable example preserved in modern reporting databases is a sighting allegedly occurring in 1985 near the Latvian-Lithuanian region. As with many Cold War-era reports, the surviving description is brief and cannot be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## The Post-Soviet Wave of Civilian Sightings
 
@@ -286,7 +286,7 @@ Following Latvia’s restoration of independence in 1991, public discussion of a
 
 One frequently cited case is a July 1991 report from Ķekava. Although the event allegedly occurred during the final Soviet period, the report was filed much later. The delay creates obvious reliability issues because memories can change significantly over time.
 
-Another early database entry concerns a June 1993 sighting in Rīga. Like many reports from the period, the account describes unusual lights rather than a structured craft. The lack of photographs, radar data or official investigation means the case remains an unidentified observation rather than a confirmed anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Another early database entry concerns a June 1993 sighting in Rīga. Like many reports from the period, the account describes unusual lights rather than a structured craft. The lack of photographs, radar data or official investigation means the case remains an unidentified observation rather than a confirmed anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ### The Sigulda triangle of 2005
 
@@ -294,7 +294,7 @@ Among Latvia’s better-known civilian reports is an October 2005 sighting near 
 
 Witnesses described what initially appeared to be falling stars followed by a silent triangular arrangement of lights moving rapidly through the sky. Triangle-shaped UFO reports are common internationally, particularly since the late twentieth century, making the Sigulda case notable within Latvia but not unique in a broader European context.
 
-No official evidence emerged to support extraordinary interpretations. The report nevertheless became one of the most frequently referenced Latvian entries in international UFO databases because it included multiple observers and a relatively detailed description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+No official evidence emerged to support extraordinary interpretations. The report nevertheless became one of the most frequently referenced Latvian entries in international UFO databases because it included multiple observers and a relatively detailed description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QMif68C3KVA" title="Safe skies: NATO Air Policing – the Baltic States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QMif68C3KVA" target="_blank" rel="noopener noreferrer">Safe skies: NATO Air Policing – the Baltic States</a></p><p class="youtube-embed-meta">Channel: NATO &middot; Views: 9.5K &middot; Uploaded: July 2021 &middot; Length: 1 minute 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QMif68C3KVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QMif68C3KVA">Open on YouTube</a></p></div></div></div>
@@ -305,7 +305,7 @@ A widely discussed report from August 2008 described six to ten pulsating lights
 
 Witnesses claimed the objects moved in a loose triangular pattern and remained visible for several minutes. Reports of grouped lights are notoriously difficult to assess because they can involve aircraft formations, satellites, atmospheric effects, lanterns or observational errors.
 
-No corroborating military or aviation data became public. As a result, the event remains a notable witness report rather than a documented unexplained aerial incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+No corroborating military or aviation data became public. As a result, the event remains a notable witness report rather than a documented unexplained aerial incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ### Liepāja and western Latvia reports, 2009–2013
 
@@ -320,7 +320,7 @@ Several additional entries appeared during the late 2000s and early 2010s:
 
 </div>
 
-Many such observations may have astronomical or atmospheric explanations. Fireballs, meteor activity, aircraft landing lights and satellite reflections have historically accounted for large numbers of reports throughout Northern Europe. Nevertheless, these entries demonstrate that sightings were not confined to the capital and occurred across multiple Latvian regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Many such observations may have astronomical or atmospheric explanations. Fireballs, meteor activity, aircraft landing lights and satellite reflections have historically accounted for large numbers of reports throughout Northern Europe. Nevertheless, these entries demonstrate that sightings were not confined to the capital and occurred across multiple Latvian regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## UFOlats and Latvia's Civilian Investigation Culture
 
@@ -340,7 +340,7 @@ As a result, many Latvian cases survive only through local research networks, me
 
 A 2018 report from Saldus described a triangular object or formation. Triangle sightings continued to appear despite major changes in aerial technology.
 
-Researchers increasingly note that modern drone formations, commercial aircraft lighting systems and high-visibility navigation lights can generate observations that resemble classic UFO descriptions. Without supporting evidence, the Saldus case remains unresolved but not necessarily extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Researchers increasingly note that modern drone formations, commercial aircraft lighting systems and high-visibility navigation lights can generate observations that resemble classic UFO descriptions. Without supporting evidence, the Saldus case remains unresolved but not necessarily extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ### Turlava report, 2022
 
@@ -348,7 +348,7 @@ A 2022 sighting near Turlava involved reports of a disc-like lighted object.
 
 The timing is significant. By 2022, consumer drones, satellite constellations and military aerial activity had become much more common throughout Europe. This broader technological environment makes interpretation of modern sightings more complicated than comparisons with older reports might suggest.
 
-The Turlava case attracted interest among UFO enthusiasts but did not produce publicly available evidence sufficient to move it beyond the category of an unidentified witness observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The Turlava case attracted interest among UFO enthusiasts but did not produce publicly available evidence sufficient to move it beyond the category of an unidentified witness observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I4qTpa7ZyTI" title="Ukraine Targets Russia, But Its Drones End Up Hitting NATO Countries | Firstpost America | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I4qTpa7ZyTI" target="_blank" rel="noopener noreferrer">Ukraine Targets Russia, But Its Drones End Up Hitting NATO Countries | Firstpost America | N18G</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 19.1K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I4qTpa7ZyTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I4qTpa7ZyTI">Open on YouTube</a></p></div></div></div>
@@ -383,7 +383,7 @@ The most dramatic sequence of recent unidentified-object incidents occurred duri
 
 Latvian military authorities detected multiple drones entering national airspace from the direction of Russia. Initial uncertainty meant the objects effectively qualified as unidentified aerial threats until their probable origin could be assessed. Authorities issued alerts, NATO aircraft were scrambled and schools in some eastern districts temporarily closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Baltic nations seek more NATO defence as drone hits Latvian oil tanks</span><span class="citation-popover-snippet">One drone exploded at an oil storage facility in Rezekne, damaging four empty tanks, though no casualties were reported. The drones were...</span></span></span>
 
-One drone exploded at an oil storage facility near Rēzekne, damaging empty tanks. Officials later stated that the drones were most likely Ukrainian systems that had gone off course during attacks directed toward Russia, although authorities initially examined several possible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Russia says Latvia risks retaliation over Ukraine drone plans</span><span class="citation-popover-snippet">ReutersRussia says Latvia risks retaliation over Ukraine drone plansMay 19, 2026 — 1 day ago — Latvia issued a first air threat alert ​ov...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+One drone exploded at an oil storage facility near Rēzekne, damaging empty tanks. Officials later stated that the drones were most likely Ukrainian systems that had gone off course during attacks directed toward Russia, although authorities initially examined several possible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Russia says Latvia risks retaliation over Ukraine drone plans</span><span class="citation-popover-snippet">Russia says Latvia risks retaliation over Ukraine drone plansMay 19, 2026 — 1 day ago — Latvia issued a first air threat alert ​ov...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xbnh_Wgar6k" title="UFO Formations in Latvia &amp; Lithuania&#x27; 1983 &amp; 1985 / Real Sighting / Animation by Nick Lido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xbnh_Wgar6k" target="_blank" rel="noopener noreferrer">UFO Formations in Latvia &amp; Lithuania&#x27; 1983 &amp; 1985 / Real Sighting / Animation by Nick Lido</a></p><p class="youtube-embed-meta">Channel: Nick Lido &middot; Views: 8.2K &middot; Uploaded: March 2010 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xbnh_Wgar6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xbnh_Wgar6k">Open on YouTube</a></p></div></div></div>
@@ -392,7 +392,7 @@ One drone exploded at an oil storage facility near Rēzekne, damaging empty tank
 
 Unlike traditional UFO sightings, the 2026 incidents produced immediate political consequences.
 
-Questions emerged about warning systems, air-defence readiness and Latvia’s ability to detect and intercept incoming aerial objects. Public debate eventually contributed to a wider political crisis and changes within the government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">euronewsLate warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...6 days ago — A series of drones crossed into its airspace, sparking...</span></span></span>
+Questions emerged about warning systems, air-defence readiness and Latvia’s ability to detect and intercept incoming aerial objects. Public debate eventually contributed to a wider political crisis and changes within the government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">Late warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...6 days ago — A series of drones crossed into its airspace, sparking...</span></span></span>
 
 The episode demonstrates how the concept of an unidentified flying object has shifted in Latvia. The central question is no longer whether a strange light might represent an unknown craft, but whether unidentified aerial objects constitute a security threat requiring military response.
 
@@ -415,86 +415,44 @@ Viewed as a whole, Latvia’s UFO chronology falls into three distinct eras.
 The overall record suggests that Latvia has experienced a steady stream of unidentified aerial reports rather than a concentrated wave of extraordinary incidents. The most consequential events in recent years have been those where unidentified objects became identified drones, revealing real-world security concerns rather than evidence of extraterrestrial visitation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Latvia&#x27;s UFO Sightings From 19th Century to Today. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Latvia&#x27;s UFO Sightings From 19 th Century to Today, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers comparative case material across decades.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides structure for interpreting historical and modern cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Adds historical context to changing official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Connects historical reports with modern UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -528,75 +486,71 @@ The overall record suggests that Latvia has experienced a steady stream of unide
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books" data-ebay-reference="sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19th-century-to-today-latvia-vintage-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-timeline-cd0e16-latvia-s-ufo-sightings-from-19-th-century-to-today-latvia-ufo-poster-book-books-series-televis&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -811,111 +765,111 @@ The overall record suggests that Latvia has experienced a steady stream of unide
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/](https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/)  
+   Link: <a href="https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latvian officials believe the drone, which was of the Iranian-designed Shahed type, likely strayed into Latvian airspace while en route t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: eng.lsm.lv  
-   Link: [https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/](https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/)  
+   Link: <a href="https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>that crashed in Latvia confirmed as UkrainianThe authorities in Latvia have confirmed that a drone that crashed in the east of the countr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
    Title: Baltic nations seek more NATO defence as drone hits Latvian oil tanks  
-   Link: [https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/](https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One drone exploded at an oil storage facility in Rezekne, damaging four empty tanks, though no casualties were reported. The drones were...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: euronews.com  
-   Link: [https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed](https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>euronewsLate warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...6 days ago — A series of drones crossed into its airspace, sparking...</p></details>
+   Link: <a href="https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Late warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...6 days ago — A series of drones crossed into its airspace, sparking...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
    Title: Russia says Latvia risks retaliation over Ukraine drone plans  
-   Link: [https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/](https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersRussia says Latvia risks retaliation over Ukraine drone plansMay 19, 2026 — 1 day ago — Latvia issued a first air threat alert ​ov...</p></details>
+   Link: <a href="https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia says Latvia risks retaliation over Ukraine drone plansMay 19, 2026 — 1 day ago — Latvia issued a first air threat alert ​ov...</p></details>
    Published: May 19, 2026  
 
 7. <a id="endnote-7"></a>
    Source: eng.lsm.lv  
-   Link: [https://eng.lsm.lv/article/society/defence/15.05.2026-another-airspace-alert-issued-in-eastern-latvia-over-drone-activity.a647221/](https://eng.lsm.lv/article/society/defence/15.05.2026-another-airspace-alert-issued-in-eastern-latvia-over-drone-activity.a647221/)  
+   Link: <a href="https://eng.lsm.lv/article/society/defence/15.05.2026-another-airspace-alert-issued-in-eastern-latvia-over-drone-activity.a647221/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/15.05.2026-another-airspace-alert-issued-in-eastern-latvia-over-drone-activity.a647221/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>airspace alert issued in eastern Latvia over drone...Latvia&#x27;s National Armed Forces (NBS) issued another air emergency alert in the earl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: denmark reopens airports after drone disruption 2025 09 25  
-   Link: [https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/](https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/)  
+   Link: <a href="https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denmark links drone sorties to state actor, Latvia says25 Sept 2025 — Denmark reported to NATO allies that unspecified &quot;state actors&quot; wer...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mod.gov.lv  
-   Link: [https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory](https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory)  
+   Link: <a href="https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aizsardzības ministrijaUnmanned aerial vehicles from russia enter Latvian airspace8 May 2026 — During the incident, two foreign drones cr...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Latvia](https://en.wikipedia.org/wiki/Latvia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Latvia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Latvia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latviaa country in the Baltic region of Northern Europe. It is one of the three Baltic states, along with Estonia to the north and Lit...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: kyivpost.com  
-   Link: [https://www.kyivpost.com/post/76312](https://www.kyivpost.com/post/76312)  
+   Link: <a href="https://www.kyivpost.com/post/76312" target="_blank" rel="noopener noreferrer nofollow">https://www.kyivpost.com/post/76312</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Jets Scrambled After Unidentified Drone Breaches...3 days ago — On May 7, a major diplomatic row erupted after two stray, explosive...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/](https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/)  
+   Link: <a href="https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostLatvian government collapses amid dispute over breaches...3 hours ago — Latvia&#x27;s government collapsed on Thursday ove...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29](https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>↑ &quot;Latvia says Russian drone that violated airspace came through Belarus&quot;. Politico Europe. September 8, 2024. Retrieved September 9, 202...</p></details>
    Published: September 8, 2024  
 
 14. <a id="endnote-14"></a>
    Source: meduza.io  
-   Link: [https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns](https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns)  
+   Link: <a href="https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns" target="_blank" rel="noopener noreferrer nofollow">https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>try, three drones crossed into Latvian airspace from Russia: two came down on...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news.inbox.eu  
-   Link: [https://news.inbox.eu/150avxs-europe-is-preparing-divisions-to-defend-latvia-the-us-has-decided-to-cut-back-on-nato-media?language=en](https://news.inbox.eu/150avxs-europe-is-preparing-divisions-to-defend-latvia-the-us-has-decided-to-cut-back-on-nato-media?language=en)  
+   Link: <a href="https://news.inbox.eu/150avxs-europe-is-preparing-divisions-to-defend-latvia-the-us-has-decided-to-cut-back-on-nato-media?language=en" target="_blank" rel="noopener noreferrer nofollow">https://news.inbox.eu/150avxs-europe-is-preparing-divisions-to-defend-latvia-the-us-has-decided-to-cut-back-on-nato-media?language=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is preparing divisions to defend Latvia. The US has decided to cut back on NATO - media...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pravda.com.ua  
-   Link: [https://www.pravda.com.ua/eng/news/2026/05/17/8035031/](https://www.pravda.com.ua/eng/news/2026/05/17/8035031/)  
+   Link: <a href="https://www.pravda.com.ua/eng/news/2026/05/17/8035031/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2026/05/17/8035031/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>so warned about a possible threat in the airspace over the Krāslava, Ludza, Balvi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: 2026 Ukrainian drone incursions into Baltic states  
-   Link: [https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_Baltic_states](https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_Baltic_states)  
+   Link: <a href="https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_Baltic_states" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_Baltic_states</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Ukrainian drone incursions into Baltic statesIn March and May 2026, several Ukrainian or suspected Ukrainian military drones ente...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: eurointegration.com.ua  
-   Link: [https://www.eurointegration.com.ua/eng/news/2026/05/14/7237565/](https://www.eurointegration.com.ua/eng/news/2026/05/14/7237565/)  
+   Link: <a href="https://www.eurointegration.com.ua/eng/news/2026/05/14/7237565/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurointegration.com.ua/eng/news/2026/05/14/7237565/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two of them struck an oil depot, which fortunately turned out to...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYg9mC5OylB/](https://www.instagram.com/p/DYg9mC5OylB/)  
+   Link: <a href="https://www.instagram.com/p/DYg9mC5OylB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYg9mC5OylB/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Armed Forces of Latvia have declared a...Drones crash into NATO territory, prompting Latvia to scramble fighter jets...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hindustantimes/videos/watch-ukraines-drone-war-is-reportedly-spilling-beyond-russia-with-alleged-uav-i/2375419606296817/](https://www.facebook.com/hindustantimes/videos/watch-ukraines-drone-war-is-reportedly-spilling-beyond-russia-with-alleged-uav-i/2375419606296817/)  
+   Link: <a href="https://www.facebook.com/hindustantimes/videos/watch-ukraines-drone-war-is-reportedly-spilling-beyond-russia-with-alleged-uav-i/2375419606296817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hindustantimes/videos/watch-ukraines-drone-war-is-reportedly-spilling-beyond-russia-with-alleged-uav-i/2375419606296817/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ide Latvia. Yet another alleged friendly fire incident involving...</p></details>

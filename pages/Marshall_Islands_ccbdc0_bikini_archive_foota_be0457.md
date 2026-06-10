@@ -239,7 +239,7 @@ next_link:
   permalink: /kwajalein/
   short_title: Kwajalein
   heading_title: Are Kwajalein UFOs Really Missile Range Lights?
-date: '2026-06-09 01:33:18 '
+date: '2026-06-10 01:58:53 '
 header:
   og_image: /assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-1-social.jpg
   preview_image: /assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illust
 
 ## Introduction
 
-Claims that archival nuclear‑test film from **Bikini Atoll** shows unidentified flying objects (UFOs, or UAPs) emerged primarily from fringe internet discussion and individual UFO‑report databases rather than from official analysis or peer‑reviewed research. These claims centre on old footage of the United States’ first post‑war nuclear tests in **Operation Crossroads** at Bikini in 1946 — especially the **Able** and **Baker** explosions — where some viewers believe they see unexpected objects near mushroom clouds or interacting with test clouds. However, historians and analysts emphasise that the historical film was shot for weapons effects documentation and that apparent “objects” in that footage are better understood as either film artefacts, conventional craft connected with the tests, or misinterpretations of atmospheric and imaging noise rather than firm evidence of non‑human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditUAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
+Claims that archival nuclear‑test film from **Bikini Atoll** shows unidentified flying objects (UFOs, or UAPs) emerged primarily from fringe internet discussion and individual UFO‑report databases rather than from official analysis or peer‑reviewed research. These claims centre on old footage of the United States’ first post‑war nuclear tests in **Operation Crossroads** at Bikini in 1946 — especially the **Able** and **Baker** explosions — where some viewers believe they see unexpected objects near mushroom clouds or interacting with test clouds. However, historians and analysts emphasise that the historical film was shot for weapons effects documentation and that apparent “objects” in that footage are better understood as either film artefacts, conventional craft connected with the tests, or misinterpretations of atmospheric and imaging noise rather than firm evidence of non‑human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
 
 
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-1-dark.svg" | relative_url }}" alt="Bikini Footage illustration 1" data-theme-src-dark="{{ "/assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ Claims that archival nuclear‑test film from **Bikini Atoll** shows unidentifie
 
 During July 1946, the U.S. military conducted **Operation Crossroads**, a pair of nuclear tests at Bikini designed to measure the effects of atomic blasts on naval vessels. Two detonations — **Able**, dropped from a B‑29 aircraft, and **Baker**, an underwater explosion — were extensively filmed from multiple angles by aircraft, ships, and cameras positioned around the lagoon. The Crossroads films were official scientific documentation, preserved in the U.S. National Archives and later declassified; they have been repurposed in cultural works including documentary shorts and experimental films focusing on the Baker explosion’s slow‑motion imagery.[Wikipedia]
 
-Historical footage shows dramatic water columns, shockwaves, and the resulting mushroom clouds rising over the lagoon, often with ships and aircraft appearing in the frame for scientific observation. Modern archival releases from the National Security Archive include unedited reels of both Able and Baker shots, showing the plume development and related effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive.gwu.edu/briefing-book/environmental-diplomacy-nuclear-vault/2016-07-22/bikini-bomb-tests-july-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">bikini bomb tests july 1946</span><span class="citation-popover-snippet">National Security ArchiveBikini A-Bomb Tests July 1946 | National Security Archive22 Jul 2016 — Declassified Documents, Films and Photogr...</span><span class="citation-popover-meta">Published: july 1946</span></span></span>
+Historical footage shows dramatic water columns, shockwaves, and the resulting mushroom clouds rising over the lagoon, often with ships and aircraft appearing in the frame for scientific observation. Modern archival releases from the National Security Archive include unedited reels of both Able and Baker shots, showing the plume development and related effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive.gwu.edu/briefing-book/environmental-diplomacy-nuclear-vault/2016-07-22/bikini-bomb-tests-july-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">bikini bomb tests july 1946</span><span class="citation-popover-snippet">National Security ArchiveBikini A-Bomb Tests July 1946 &#124; National Security Archive22 Jul 2016 — Declassified Documents, Films and Photogr...</span><span class="citation-popover-meta">Published: july 1946</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2ZtmxNoZrQ" title="Nuked: once a paradise, now a nuclear wasteland | Featured Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2ZtmxNoZrQ" target="_blank" rel="noopener noreferrer">Nuked: once a paradise, now a nuclear wasteland | Featured Documentary</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 50.0K &middot; Uploaded: December 2025 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2ZtmxNoZrQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2ZtmxNoZrQ">Open on YouTube</a></p></div></div></div>
@@ -265,7 +265,7 @@ Historical footage shows dramatic water columns, shockwaves, and the resulting m
 
 The UFO‑connected claims about Bikini footage are rooted in discussions among aerial‑phenomena enthusiasts rather than formal investigations. One example referenced by the **National UFO Reporting Center** (NUFORC) involves a 2024 report suggesting that three disc‑shaped objects appear moving near a mushroom cloud in **Trinity and Beyond**, a documentary that uses archival nuclear test footage. The NUFORC note cites unclear objects seen in a segment described by the reporter, but this description stems from film interpretation rather than raw original data.[NUFORC]
 
-Similarly, online threads have drawn attention to old Crossroads clips where small “objects” appear in the sky near detonations. Discussions on platforms like Reddit highlight users pointing out three white shapes moving beside the mushroom cloud, but these accounts acknowledge that the footage’s resolution and age make reliable interpretation difficult. Critics in those communities have suggested conventional explanations, such as early unmanned drones used to fly into or near clouds for measurement, imperfections in 1940s film emulsion, or birds caught in the frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditUAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
+Similarly, online threads have drawn attention to old Crossroads clips where small “objects” appear in the sky near detonations. Discussions on platforms like Reddit highlight users pointing out three white shapes moving beside the mushroom cloud, but these accounts acknowledge that the footage’s resolution and age make reliable interpretation difficult. Critics in those communities have suggested conventional explanations, such as early unmanned drones used to fly into or near clouds for measurement, imperfections in 1940s film emulsion, or birds caught in the frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
 
 No peer‑reviewed study supports the interpretation of such objects as non‑human vehicles. Cinematic and documentary reuses of Crossroads footage — including in art films like Bruce Conner’s *Crossroads* or popular media — do not validate anomalous object claims but rather reflect the visual power of the imagery.[Wikipedia]
 
@@ -284,7 +284,7 @@ In other words, although mid‑20th‑century nuclear tests like those at Bikini
 
 Three key factors weaken the claim that Bikini test footage offers UFO evidence:
 
-* **Film quality and era limitations:** Crossroads was filmed with 1940s technology. Grain, scratches, and frame artefacts in archival footage can produce visual anomalies that appear object‑like but are not actual physical objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditUAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
+* **Film quality and era limitations:** Crossroads was filmed with 1940s technology. Grain, scratches, and frame artefacts in archival footage can produce visual anomalies that appear object‑like but are not actual physical objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -297,95 +297,53 @@ Three key factors weaken the claim that Bikini test footage offers UFO evidence:
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-3-dark.svg" | relative_url }}" alt="Bikini Footage illustration 3" data-theme-src-dark="{{ "/assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Marshall_Islands_ccbdc0_bikini_archive_foota_be0457-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How This Fits Marshall Islands UFO Discourse
 
-Discussion of Bikini nuclear‑test footage as UFO evidence fits within the broader [Marshall Islands]({{ 'what-really-explains-marshall-islands/' | relative_url }}) UFO narrative because it demonstrates how **archival material of historically significant events can be re‑interpreted** by some as supporting anomalous phenomena. The Marshall Islands’ role in U.S. nuclear testing means there is a large corpus of dramatic visual material that, when stripped of context and analysed in isolation, can be fertile ground for speculation. But within careful historical and technical framing, these film clips do not meet the evidentiary standard required to substantiate claims of non‑human craft.
+Discussion of Bikini nuclear‑test footage as UFO evidence fits within the broader Marshall Islands UFO narrative because it demonstrates how **archival material of historically significant events can be re‑interpreted** by some as supporting anomalous phenomena. The Marshall Islands’ role in U.S. nuclear testing means there is a large corpus of dramatic visual material that, when stripped of context and analysed in isolation, can be fertile ground for speculation. But within careful historical and technical framing, these film clips do not meet the evidentiary standard required to substantiate claims of non‑human craft.
 
-In summary, while observers occasionally point to shapes in the archival test films as UFO evidence, these interpretations are not corroborated by rigorous analysis and are better understood as misread artifacts of older filming techniques or conventional aerial objects in the test environment. At present, there is **no verified evidence** that nuclear‑test footage from Bikini Atoll shows genuine unexplained aerial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditUAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
+In summary, while observers occasionally point to shapes in the archival test films as UFO evidence, these interpretations are not corroborated by rigorous analysis and are better understood as misread artifacts of older filming techniques or conventional aerial objects in the test environment. At present, there is **no verified evidence** that nuclear‑test footage from Bikini Atoll shows genuine unexplained aerial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VftGzqbMsYc" title="What Went Wrong During the Bikini Atoll Nuclear Tests: The Controversial Operation Crossroads" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VftGzqbMsYc" target="_blank" rel="noopener noreferrer">What Went Wrong During the Bikini Atoll Nuclear Tests: The Controversial Operation Crossroads</a></p><p class="youtube-embed-meta">Channel: Geopop, everyday science &middot; Views: 1.5K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VftGzqbMsYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VftGzqbMsYc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Do Bikini Nuclear Test Films Show UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Do Bikini Nuclear Test Films Show UFOs?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
-        
-        <p class="fr-book-desc">Provides historical context for archival-film UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful for understanding how alleged evidence in imagery is evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Examines how classified projects and archival footage can fuel speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
-        
-        <p class="fr-book-desc">Provides authoritative background on nuclear weapons testing and related documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -419,75 +377,71 @@ In summary, while observers occasionally point to shapes in the archival test fi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bikini-footage-do-bikini-nuclear-test-films-show-ufos-marshall-islands-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -701,153 +655,153 @@ In summary, while observers occasionally point to shapes in the archival test fi
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/](https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k5o7os/uap_spotted_in_archival_bikini_atoll_nuclear_test/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Spotted in Archival Bikini Atoll Nuclear Test FootageI came across this old footage of a nuclear test at Bikini Atoll from Oper...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Operation Crossroads  
-   Link: [https://en.wikipedia.org/wiki/Operation_Crossroads](https://en.wikipedia.org/wiki/Operation_Crossroads)  
+   Link: <a href="https://en.wikipedia.org/wiki/Operation_Crossroads" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Crossroads</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>was a pair of nuclear weapon tests conducted by the United States at Bikini Atoll in mid-1946. They were the first nuclear weapon tests...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181320](https://nuforc.org/sighting/?id=181320)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 181320May 5, 2024...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=181320" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181320</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 181320May 5, 2024...</p></details>
    Published: May 5, 2024  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Crossroads (1976 film)  
-   Link: [https://en.wikipedia.org/wiki/Crossroads_%281976_film%29](https://en.wikipedia.org/wiki/Crossroads_%281976_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Crossroads_%281976_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crossroads_%281976_film%29</a>  
 
 5. <a id="endnote-5"></a>
    Source: phys.org  
-   Link: [https://phys.org/news/2025-10-mysterious-transient-sky-linked-nuclear.html](https://phys.org/news/2025-10-mysterious-transient-sky-linked-nuclear.html)  
+   Link: <a href="https://phys.org/news/2025-10-mysterious-transient-sky-linked-nuclear.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-10-mysterious-transient-sky-linked-nuclear.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious transient objects in sky linked to nuclear testing...October 27, 2025 — 27 Oct 2025 — They found that transients were 45% mor...</p></details>
    Published: October 27, 2025  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 05/23/2026 22:20, Boyd; Open, 05/23/2026 20:02, Herat; Open, 05/23/2026 13:50, Cocoa Beac...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Californi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://www.nuforc.org/subndx?id=e194408](https://www.nuforc.org/subndx?id=e194408)  
+   Link: <a href="https://www.nuforc.org/subndx?id=e194408" target="_blank" rel="noopener noreferrer nofollow">https://www.nuforc.org/subndx?id=e194408</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 194408NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us... NUFORC Reports for...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nsarchive.gwu.edu  
    Title: bikini bomb tests july 1946  
-   Link: [https://nsarchive.gwu.edu/briefing-book/environmental-diplomacy-nuclear-vault/2016-07-22/bikini-bomb-tests-july-1946](https://nsarchive.gwu.edu/briefing-book/environmental-diplomacy-nuclear-vault/2016-07-22/bikini-bomb-tests-july-1946)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/environmental-diplomacy-nuclear-vault/2016-07-22/bikini-bomb-tests-july-1946" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/environmental-diplomacy-nuclear-vault/2016-07-22/bikini-bomb-tests-july-1946</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveBikini A-Bomb Tests July 1946 | National Security Archive22 Jul 2016 — Declassified Documents, Films and Photogr...</p></details>
    Published: july 1946  
 
 13. <a id="endnote-13"></a>
    Source: digitaljournal.com  
    Title: National Security Archives declassified  
-   Link: [https://www.digitaljournal.com/world/declassified-film-reveals-true-scale-of-a-bomb-tests-on-bikini/article/472113](https://www.digitaljournal.com/world/declassified-film-reveals-true-scale-of-a-bomb-tests-on-bikini/article/472113)  
+   Link: <a href="https://www.digitaljournal.com/world/declassified-film-reveals-true-scale-of-a-bomb-tests-on-bikini/article/472113" target="_blank" rel="noopener noreferrer nofollow">https://www.digitaljournal.com/world/declassified-film-reveals-true-scale-of-a-bomb-tests-on-bikini/article/472113</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Bikini Atoll A-Bomb test films released by National Security - Digital JournalAugust 9, 2016 — NEW BIKINI ATOLL A-BOMB TEST FILMS REL...</p></details>
    Published: August 9, 2016  
 
 14. <a id="endnote-14"></a>
    Source: ahf.nuclearmuseum.org  
    Title: operation crossroads  
-   Link: [https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/](https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/)  
+   Link: <a href="https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/operation-crossroads/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WarrenGeorge CowanThomas O. JonesFay Cunningham Date: Tuesday, July 1, 2014 Image: Bikini Test Operation Cross...</p></details>
    Published: July 1, 2014  
 
 15. <a id="endnote-15"></a>
    Source: sonicbomb.com  
-   Link: [https://www.sonicbomb.com/crossroads.html](https://www.sonicbomb.com/crossroads.html)  
+   Link: <a href="https://www.sonicbomb.com/crossroads.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sonicbomb.com/crossroads.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instrumentation was installed on top of steel towers erected on various islands surroundin...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: bikiniatoll.info  
-   Link: [https://www.bikiniatoll.info/nuclear-testing-at-bikini-atoll/](https://www.bikiniatoll.info/nuclear-testing-at-bikini-atoll/)  
+   Link: <a href="https://www.bikiniatoll.info/nuclear-testing-at-bikini-atoll/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikiniatoll.info/nuclear-testing-at-bikini-atoll/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bikini Atoll Nuclear Tests | Atomic Veterans Cancer Benefit ProgramNUCLEAR TESTING AT BIKINI ATOLL Atomic Veterans Receive $100,000 for C...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/artanddesign/2015/jun/15/bruce-conner-crossroads-1976-nuclear-test-film-rapture](https://www.theguardian.com/artanddesign/2015/jun/15/bruce-conner-crossroads-1976-nuclear-test-film-rapture)  
+   Link: <a href="https://www.theguardian.com/artanddesign/2015/jun/15/bruce-conner-crossroads-1976-nuclear-test-film-rapture" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2015/jun/15/bruce-conner-crossroads-1976-nuclear-test-film-rapture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 15, 2015 — Image: A clip from Bruce Conner’s Crossroads [Input] Nuclear sublime … a still from Bruce Conner’s Crossroads View image...</p></details>
    Published: June 15, 2015  
 
 18. <a id="endnote-18"></a>
    Source: film.iwmcollections.org.uk  
-   Link: [https://film.iwmcollections.org.uk/news/95](https://film.iwmcollections.org.uk/news/95)  
+   Link: <a href="https://film.iwmcollections.org.uk/news/95" target="_blank" rel="noopener noreferrer nofollow">https://film.iwmcollections.org.uk/news/95</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iwmcollections.org.ukCurator&#x27;s Choice: Nuclear testing at Bikini Atoll | IWM FilmJuly 28, 2025 — CURATOR&#x27;S CHOICE: NUCLEAR TESTING AT BIK...</p></details>
    Published: July 28, 2025  
 
 19. <a id="endnote-19"></a>
    Source: livescience.com  
    Title: Doomsday Films: Footage of Nuclear-Weapons Tests Declassified | Live Science  
-   Link: [https://www.livescience.com/58289-historic-footage-of-nuclear-weapons-tests-released.html](https://www.livescience.com/58289-historic-footage-of-nuclear-weapons-tests-released.html)  
+   Link: <a href="https://www.livescience.com/58289-historic-footage-of-nuclear-weapons-tests-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/58289-historic-footage-of-nuclear-weapons-tests-released.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 16, 2017 — DOOMSDAY FILMS: FOOTAGE OF NUCLEAR-WEAPONS TESTS DECLASSIFIED Image: Kacey Deamer&#x27;s avatar By Kacey Deamer published 16...</p></details>
    Published: March 16, 2017  
 
 20. <a id="endnote-20"></a>
    Source: criticalpast.com  
    Title: 65675079525 Baker nuclear bomb test Bikini Atoll Aomoen Island target ships  
-   Link: [https://www.criticalpast.com/video/65675079525_Baker-nuclear-bomb-test_Bikini-Atoll_Aomoen-Island_target-ships](https://www.criticalpast.com/video/65675079525_Baker-nuclear-bomb-test_Bikini-Atoll_Aomoen-Island_target-ships)  
+   Link: <a href="https://www.criticalpast.com/video/65675079525_Baker-nuclear-bomb-test_Bikini-Atoll_Aomoen-Island_target-ships" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalpast.com/video/65675079525_Baker-nuclear-bomb-test_Bikini-Atoll_Aomoen-Island_target-ships</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HD Stock Video Footage - Baker nuclear bomb test detonates “Helen of Bikini” on Aomoen Island (Bikini Atoll)July 25, 1946 — BAKER NUCLEAR...</p></details>
    Published: July 25, 1946  
 
 21. <a id="endnote-21"></a>
    Source: rt.com  
    Title: Bikini Atoll nuke test video declassified on 70th anniversary — RT USA News  
-   Link: [https://www.rt.com/usa/355426-bikini-nuclear-test-video/](https://www.rt.com/usa/355426-bikini-nuclear-test-video/)  
+   Link: <a href="https://www.rt.com/usa/355426-bikini-nuclear-test-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/usa/355426-bikini-nuclear-test-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 10, 2016 — BIKINI ATOLL NUKE TEST VIDEO DECLASSIFIED ON 70TH ANNIVERSARY Published 10 Aug, 2016 16:08 | Updated 10 Aug, 2016 16:11...</p></details>
    Published: August 10, 2016  
 
 22. <a id="endnote-22"></a>
    Source: realclearhistory.com  
    Title: Hydrogen Bomb Blast in Bikini Atoll | Video | Real Clear History  
-   Link: [https://www.realclearhistory.com/video/2016/03/01/hydrogen_bomb_blast_in_bikini_atoll.html](https://www.realclearhistory.com/video/2016/03/01/hydrogen_bomb_blast_in_bikini_atoll.html)  
+   Link: <a href="https://www.realclearhistory.com/video/2016/03/01/hydrogen_bomb_blast_in_bikini_atoll.html" target="_blank" rel="noopener noreferrer nofollow">https://www.realclearhistory.com/video/2016/03/01/hydrogen_bomb_blast_in_bikini_atoll.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hydrogen Bomb Blast in Bikini Atoll | Video | RealClearHistoryMarch 1, 2016 — Image Back to Videos HYDROGEN BOMB BLAST IN BIKINI ATOLL By...</p></details>
    Published: March 1, 2016  
 
 23. <a id="endnote-23"></a>
    Source: commons.wikimedia.org  
    Title: Other resolutions: 320 × 180 pixels | 640 × 360 pixels | 1,  
-   Link: [https://commons.wikimedia.org/wiki/File%3ABaker_Shot.ogv](https://commons.wikimedia.org/wiki/File%3ABaker_Shot.ogv)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABaker_Shot.ogv" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABaker_Shot.ogv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Baker Shot.ogv - Wikimedia CommonsJuly 25, 1946 — FILE:BAKER SHOT.OGV * File * Discussion * TimedText [Input] English *...</p></details>
    Published: July 25, 1946  
 
 24. <a id="endnote-24"></a>
    Source: historyinpieces.com  
    Title: Nuclear Tests at Bikini Atoll and Nevada Testing Ground  
-   Link: [https://historyinpieces.com/video/footage/nuclear-tests-bikini-atoll-nevada-testing-ground](https://historyinpieces.com/video/footage/nuclear-tests-bikini-atoll-nevada-testing-ground)  
+   Link: <a href="https://historyinpieces.com/video/footage/nuclear-tests-bikini-atoll-nevada-testing-ground" target="_blank" rel="noopener noreferrer nofollow">https://historyinpieces.com/video/footage/nuclear-tests-bikini-atoll-nevada-testing-ground</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoDecember 31, 1968 — History in Pieces NUCLEAR TESTS AT BIKINI ATOLL AND NEVADA TESTING GROUND by David Coleman High speed film foota...</p></details>
    Published: December 31, 1968  
 
 25. <a id="endnote-25"></a>
    Source: maritime-executive.com  
    Title: 70 Years Ago: A-Bombs Tested on Ships at Bikini Atoll  
-   Link: [https://maritime-executive.com/article/video-bikini-atoll-70-years-later](https://maritime-executive.com/article/video-bikini-atoll-70-years-later)  
+   Link: <a href="https://maritime-executive.com/article/video-bikini-atoll-70-years-later" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/article/video-bikini-atoll-70-years-later</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2016 — 70 YEARS AGO: A-BOMBS TESTED ON SHIPS AT BIKINI ATOLL Published Aug 1, 2016 9:12 PM by Paul Benecki To commemorate the s...</p></details>
    Published: August 1, 2016  

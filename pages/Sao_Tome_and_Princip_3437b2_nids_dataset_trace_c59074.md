@@ -239,7 +239,7 @@ prev_link:
   permalink: /island-skies/
   short_title: Island Skies
   heading_title: Why Island Skies Create Ambiguous UFO Reports
-date: '2026-06-09 01:39:14 '
+date: '2026-06-10 02:06:12 '
 header:
   og_image: /assets/images/Sao_Tome_and_Princip_3437b2_nids_dataset_trace_c59074-Illustration-1-social.jpg
   preview_image: /assets/images/Sao_Tome_and_Princip_3437b2_nids_dataset_trace_c59074-Illustration-1.webp
@@ -294,86 +294,44 @@ Instead, it operates at a much higher level of abstraction. The evidence chain c
 3. Later researchers incorporated that information into global UAP datasets.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Does the One UFO Dataset Entry Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Does the One UFO Dataset Entry Prove?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Illustrates the difference between catalogued cases and minimal entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to interpreting datasets, case counts and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides examples of cases supported by stronger documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how sparse records gain significance over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -407,75 +365,71 @@ Instead, it operates at a much higher level of abstraction. The evidence chain c
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm"><img src="{{ '/assets/images/marketplace-covers/121a2f6e6feb6cd2220a.jpg' | relative_url }}" alt="Listing image for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-trace-what-does-the-one-ufo-dataset-entry-prove-sao-tome-and-principe-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -784,117 +738,117 @@ That distinction is important for the wider study of UFO claims in São Tomé an
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A global picture of unidentified anomalous phenomena  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A global picture of unidentified anomalous phenomenaDecember 29, 2023 — This paper reviews the publicly available infor...</p></details>
    Published: December 29, 2023  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374023706_THE_NINTH_DIMENSION_OF_NATIONAL_CULTURE_UNPACKING_CROSS-CULTURAL_COMMUNICATION_STYLES](https://www.researchgate.net/publication/374023706_THE_NINTH_DIMENSION_OF_NATIONAL_CULTURE_UNPACKING_CROSS-CULTURAL_COMMUNICATION_STYLES)  
+   Link: <a href="https://www.researchgate.net/publication/374023706_THE_NINTH_DIMENSION_OF_NATIONAL_CULTURE_UNPACKING_CROSS-CULTURAL_COMMUNICATION_STYLES" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374023706_THE_NINTH_DIMENSION_OF_NATIONAL_CULTURE_UNPACKING_CROSS-CULTURAL_COMMUNICATION_STYLES</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Ninth Dimension of National Culture: Unpacking...25 Mar 2026 — This article aims to study the communication styles among diffe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/298501511_Cross-cultural_management_in_practice_Culture_and_negotiated_meanings](https://www.researchgate.net/publication/298501511_Cross-cultural_management_in_practice_Culture_and_negotiated_meanings)  
+   Link: <a href="https://www.researchgate.net/publication/298501511_Cross-cultural_management_in_practice_Culture_and_negotiated_meanings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/298501511_Cross-cultural_management_in_practice_Culture_and_negotiated_meanings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Cross-cultural management in practicePDF | This is a unique, alternative view of culture that has both practical and theoretical si...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/282359371_Using_Cultural_Archetypes_in_Cross-cultural_Management_Studies](https://www.researchgate.net/publication/282359371_Using_Cultural_Archetypes_in_Cross-cultural_Management_Studies)  
+   Link: <a href="https://www.researchgate.net/publication/282359371_Using_Cultural_Archetypes_in_Cross-cultural_Management_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282359371_Using_Cultural_Archetypes_in_Cross-cultural_Management_Studies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The use of cultural archetypes represents a configuration approach to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/249921379_A_cross-cultural_management_system_The_Ubuntu_Company_as_paradigm](https://www.researchgate.net/publication/249921379_A_cross-cultural_management_system_The_Ubuntu_Company_as_paradigm)  
+   Link: <a href="https://www.researchgate.net/publication/249921379_A_cross-cultural_management_system_The_Ubuntu_Company_as_paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249921379_A_cross-cultural_management_system_The_Ubuntu_Company_as_paradigm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nced by individual initiative and judgement; western style disciplined labour...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258154097_From_the_Atlantic_to_the_Pacific_Century_Cross-Cultural_Management_Reviewed](https://www.researchgate.net/publication/258154097_From_the_Atlantic_to_the_Pacific_Century_Cross-Cultural_Management_Reviewed)  
+   Link: <a href="https://www.researchgate.net/publication/258154097_From_the_Atlantic_to_the_Pacific_Century_Cross-Cultural_Management_Reviewed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258154097_From_the_Atlantic_to_the_Pacific_Century_Cross-Cultural_Management_Reviewed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Atlantic to the Pacific Century: Cross-Cultural...PDF | This article reviews the areas of comparative and cross-cultural manage...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 364547689 Cross cultural Knowledge Management  
-   Link: [https://www.researchgate.net/publication/364547689_Cross-cultural_Knowledge_Management](https://www.researchgate.net/publication/364547689_Cross-cultural_Knowledge_Management)  
+   Link: <a href="https://www.researchgate.net/publication/364547689_Cross-cultural_Knowledge_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364547689_Cross-cultural_Knowledge_Management</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Cross-cultural Knowledge Management24 Feb 2026 — PDF | On Oct 14, 2022, Jacky Hong and others published Cross-cultural Knowledge Ma...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/256404410_Problems_in_Cross-Cultural_Contact_A_Literature_Review](https://www.researchgate.net/publication/256404410_Problems_in_Cross-Cultural_Contact_A_Literature_Review)  
+   Link: <a href="https://www.researchgate.net/publication/256404410_Problems_in_Cross-Cultural_Contact_A_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256404410_Problems_in_Cross-Cultural_Contact_A_Literature_Review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Problems in Cross-Cultural Contact: A Literature ReviewAn examination is undertaken of literature bearing on the matter of misunderstandi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/280915365_Are_Scores_on_Hofstede%27s_Dimensions_of_National_Culture_Stable_over_Time_A_Cohort_Analysis](https://www.researchgate.net/publication/280915365_Are_Scores_on_Hofstede%27s_Dimensions_of_National_Culture_Stable_over_Time_A_Cohort_Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/280915365_Are_Scores_on_Hofstede%27s_Dimensions_of_National_Culture_Stable_over_Time_A_Cohort_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280915365_Are_Scores_on_Hofstede%27s_Dimensions_of_National_Culture_Stable_over_Time_A_Cohort_Analysis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Are Scores on Hofstede&#x27;s Dimensions of National...Hofstede&#x27;s framework, which is based on survey data collected in the late 1960s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/247723809_Value_Hierarchies_Across_Cultures](https://www.researchgate.net/publication/247723809_Value_Hierarchies_Across_Cultures)  
+   Link: <a href="https://www.researchgate.net/publication/247723809_Value_Hierarchies_Across_Cultures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247723809_Value_Hierarchies_Across_Cultures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Value Hierarchies Across CulturesTo explain the pan-cultural hierarchy, the authors discuss its adaptive functions in meeting the r...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: National Institute for Discovery Science | Mystery Wire  
-   Link: [https://www.youtube.com/watch?v=ds1sQRhwkJc](https://www.youtube.com/watch?v=ds1sQRhwkJc)  
+   Link: <a href="https://www.youtube.com/watch?v=ds1sQRhwkJc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ds1sQRhwkJc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm Kelleher...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: research.bangor.ac.uk  
-   Link: [https://research.bangor.ac.uk/files/40350350/Perez_Robles_PhD.pdf](https://research.bangor.ac.uk/files/40350350/Perez_Robles_PhD.pdf)  
+   Link: <a href="https://research.bangor.ac.uk/files/40350350/Perez_Robles_PhD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.bangor.ac.uk/files/40350350/Perez_Robles_PhD.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bangor.ac.ukEvolution, split ratings, and market impact within the insuraby S Perez-Robles · Cited by 2 — The primary aims of the researc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: documents1.worldbank.org  
    Title: [Sao Tome and Principe](&#123;&#123; 'sao-tome-and-principe/' | relative_url &#125;&#125;) Digital Sao Tome and Principe Project.txt  
-   Link: [https://documents1.worldbank.org/curated/en/779811655323104127/txt/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.txt](https://documents1.worldbank.org/curated/en/779811655323104127/txt/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.txt)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/779811655323104127/txt/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/779811655323104127/txt/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Documents &amp; ReportsTo improve equity and sustainability of telecommunications services between the islands of São Tomé and Príncipe, and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/6154359/Bottlenose_dolphin_Tursiops_truncatus_at_S%C3%A3o_Tom%C3%A9_Island_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_relative_abundance_site_fidelity_and_social_structure](https://www.academia.edu/6154359/Bottlenose_dolphin_Tursiops_truncatus_at_S%C3%A3o_Tom%C3%A9_Island_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_relative_abundance_site_fidelity_and_social_structure)  
+   Link: <a href="https://www.academia.edu/6154359/Bottlenose_dolphin_Tursiops_truncatus_at_S%C3%A3o_Tom%C3%A9_Island_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_relative_abundance_site_fidelity_and_social_structure" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6154359/Bottlenose_dolphin_Tursiops_truncatus_at_S%C3%A3o_Tom%C3%A9_Island_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_relative_abundance_site_fidelity_and_social_structure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ica): species, sightings and abundance, local human activities and conservation.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: geofactbook.com  
    Title: armed forces personnel total  
-   Link: [https://geofactbook.com/countries/sao-tome-and-principe/armed-forces-personnel-total](https://geofactbook.com/countries/sao-tome-and-principe/armed-forces-personnel-total)  
+   Link: <a href="https://geofactbook.com/countries/sao-tome-and-principe/armed-forces-personnel-total" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/sao-tome-and-principe/armed-forces-personnel-total</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome and Principe Total Armed Forces Personnel (...7 Apr 2026 — Sao Tome and Principe&#x27;s total armed forces personnel (ppp) in 1999 i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: data.unaids.org  
    Title: surveillancestandards en  
-   Link: [https://data.unaids.org/publications/irc-pub04/surveillancestandards_en.pdf](https://data.unaids.org/publications/irc-pub04/surveillancestandards_en.pdf)  
+   Link: <a href="https://data.unaids.org/publications/irc-pub04/surveillancestandards_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.unaids.org/publications/irc-pub04/surveillancestandards_en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tome and Principe. Senegal. Seychelles. Sierra Leone. South Africa. Swaziland... Performs the major tasks in survey and ce...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: globalpeatlands.org  
    Title: peatland assessment  
-   Link: [https://globalpeatlands.org/sites/default/files/2022-12/peatland_assessment.pdf](https://globalpeatlands.org/sites/default/files/2022-12/peatland_assessment.pdf)  
+   Link: <a href="https://globalpeatlands.org/sites/default/files/2022-12/peatland_assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalpeatlands.org/sites/default/files/2022-12/peatland_assessment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Peatlands Assessment19 Dec 2022 —... data are fully explained in Annex III. Production of the Global Peatland Map 2.0. This publi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ll.mit.edu  
-   Link: [https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset)  
+   Link: <a href="https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.edu1999 DARPA Intrusion Detection Evaluation DatasetThere were two parts to the 1999 DARPA Intrusion Detection Evaluation: an off-lin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims  
-   Link: [https://www.youtube.com/watch?v=p_tOpf5QGjg](https://www.youtube.com/watch?v=p_tOpf5QGjg)  
+   Link: <a href="https://www.youtube.com/watch?v=p_tOpf5QGjg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p_tOpf5QGjg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire with George Knapp and Ron Futrell - Skinwalker Ranch - Episode 2...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Mystery Wire with George Knapp and Ron Futrell  
-   Link: [https://www.youtube.com/watch?v=4kBMkRaKBC4](https://www.youtube.com/watch?v=4kBMkRaKBC4)  
+   Link: <a href="https://www.youtube.com/watch?v=4kBMkRaKBC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kBMkRaKBC4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Update with Eric W. Davis...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Researching the Paranormal with Colm Kelleher  
-   Link: [https://www.youtube.com/watch?v=8xXGe6NaU4M](https://www.youtube.com/watch?v=8xXGe6NaU4M)  
+   Link: <a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims...</p></details>

@@ -239,7 +239,7 @@ next_link:
   permalink: /gaborone-lights/
   short_title: Gaborone Lights
   heading_title: Why Do Mysterious Lights Appear Over Gaborone?
-date: '2026-06-09 01:21:09 '
+date: '2026-06-10 01:45:33 '
 header:
   og_image: /assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1-social.jpg
   preview_image: /assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1-soc
 
 ## Introduction
 
-When a brilliant fireball crossed the evening sky over [Botswana]({{ 'what-does-botswanas-ufo-record-really/' | relative_url }}) on 2 June 2018, many observers initially described it in the language often attached to UFO sightings: a glowing object, a sudden flash, and a dramatic aerial explosion. Within hours, however, astronomers had identified the cause. The object was asteroid 2018 LA, a small near-Earth asteroid that had actually been detected in space before impact. Its disintegration over southern Africa became one of the clearest examples in Botswana of a spectacular sky event that briefly generated UFO-style interpretations before being explained through astronomy and meteorite science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/news/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[2NASA Jet Propulsion Laboratory (JPL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">tiny asteroid discovered saturday disintegrates hours later over southern africa</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Tiny Asteroid Discovered Saturday Disintegrates Hours Later...Jun 3, 2018 — That was a slightly larg...</span></span></span>
+When a brilliant fireball crossed the evening sky over Botswana on 2 June 2018, many observers initially described it in the language often attached to UFO sightings: a glowing object, a sudden flash, and a dramatic aerial explosion. Within hours, however, astronomers had identified the cause. The object was asteroid 2018 LA, a small near-Earth asteroid that had actually been detected in space before impact. Its disintegration over southern Africa became one of the clearest examples in Botswana of a spectacular sky event that briefly generated UFO-style interpretations before being explained through astronomy and meteorite science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/news/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[2NASA Jet Propulsion Laboratory (JPL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">tiny asteroid discovered saturday disintegrates hours later over southern africa</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Tiny Asteroid Discovered Saturday Disintegrates Hours Later...Jun 3, 2018 — That was a slightly larg...</span></span></span>
 
 
 <img src="{{ "/assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1-dark.svg" | relative_url }}" alt="Asteroid Events illustration 1" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -268,7 +268,7 @@ Unlike many older UFO reports, however, 2018 LA did not remain ambiguous for lon
 
 The object itself was small, estimated at roughly 1.5 to 3.8 metres in diameter. Although tiny by asteroid standards, it was large enough to produce an exceptionally bright bolide — a meteor fireball caused by an object exploding in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2018_LA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2018 LA</span><span class="citation-popover-snippet">2018 LA</span></span></span>
 
-Researchers later reconstructed the event in considerable detail. According to scientific studies, the asteroid entered the atmosphere at around 17 kilometres per second and fragmented violently above the Central Kalahari region. The main flare reached extreme brightness, with some analyses estimating a magnitude near -23, brighter than the full Moon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assa.saao.ac.za">[ASSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assa.saao.ac.za</span><span class="citation-popover-title">the botswana super bolide and meteorites from asteroid 2018 la</span><span class="citation-popover-snippet">Botswana super-bolide and meteorites from asteroid...Discovered just a few hours earlier, asteroid 2018 LA entered earth&#x27;s atmosphere at...</span></span></span>
+Researchers later reconstructed the event in considerable detail. According to scientific studies, the asteroid entered the atmosphere at around 17 kilometres per second and fragmented violently above the Central Kalahari region. The main flare reached extreme brightness, with some analyses estimating a magnitude near -23, brighter than the full Moon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assa.saao.ac.za">[ASSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assa.saao.ac.za</span><span class="citation-popover-title">the botswana super bolide and meteorites from asteroid 2018 la</span><span class="citation-popover-snippet">Botswana super-bolide and meteorites from asteroid...Discovered just a few hours earlier, asteroid 2018 LA entered earth&#x27;s atmosphere at...</span></span></span>
 
 Several factors made the spectacle particularly vulnerable to UFO-style interpretation in the first minutes after impact:
 
@@ -292,7 +292,7 @@ In Botswana’s case, the scientific timeline became available unusually quickly
 
 ## Why the Event Was Scientifically Important
 
-The Botswana impact became historically significant for planetary defence research. It was only the second asteroid ever detected in space before impact over land with recoverable meteorites later found on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/20210015467" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerThe Impact and Recovery of Asteroid 2018 LAby P Jenniskens · 2021 · Cited by 51 — The June 2, 2018 impact of...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span>
+The Botswana impact became historically significant for planetary defence research. It was only the second asteroid ever detected in space before impact over land with recoverable meteorites later found on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/20210015467" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerThe Impact and Recovery of Asteroid 2018 LAby P Jenniskens · 2021 · Cited by 51 — The June 2, 2018 impact of...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span>
 
 That distinction transformed the event from a brief public spectacle into a major international scientific investigation. Researchers combined:
 
@@ -307,7 +307,7 @@ That distinction transformed the event from a brief public spectacle into a majo
 
 </div>
 
-This level of evidence is extremely unusual in meteor events. Normally, meteorites are found first and their parent asteroid remains unknown. In the Botswana case, scientists could trace fragments back to a specific object observed in space before atmospheric entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/20210015467" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerThe Impact and Recovery of Asteroid 2018 LAby P Jenniskens · 2021 · Cited by 51 — The June 2, 2018 impact of...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span>
+This level of evidence is extremely unusual in meteor events. Normally, meteorites are found first and their parent asteroid remains unknown. In the Botswana case, scientists could trace fragments back to a specific object observed in space before atmospheric entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/20210015467" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerThe Impact and Recovery of Asteroid 2018 LAby P Jenniskens · 2021 · Cited by 51 — The June 2, 2018 impact of...</span><span class="citation-popover-meta">Published: June 2, 2018</span></span></span>
 
 The incident therefore became a model case for distinguishing between genuine astronomical events and speculative UFO interpretations. The same visual phenomenon that might once have become a long-running mystery was instead documented almost end-to-end by modern observation systems.
 
@@ -323,7 +323,7 @@ These recoveries were important for two reasons.
 
 First, they confirmed beyond doubt that the fireball was a natural asteroid impact event rather than an unexplained aerial object. Physical samples linked directly to the observed trajectory removed much of the ambiguity that surrounds many UFO claims.
 
-Second, the meteorites themselves provided scientific insight into the asteroid’s origin. Studies classified the fragments as HED meteorites — material associated with the large asteroid Vesta in the asteroid belt. Researchers concluded that 2018 LA likely originated from Vesta millions of years ago before eventually entering an Earth-crossing orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.05997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe impact and recovery of asteroid 2018 LA...</span></span></span> 3seti.org 3Sci.News: Breaking Science News
+Second, the meteorites themselves provided scientific insight into the asteroid’s origin. Studies classified the fragments as HED meteorites — material associated with the large asteroid Vesta in the asteroid belt. Researchers concluded that 2018 LA likely originated from Vesta millions of years ago before eventually entering an Earth-crossing orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.05997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2018 LA...</span></span></span> 3seti.org 3Sci.News: Breaking Science News
 
 The recovery effort also demonstrated Botswana’s growing role in international planetary science. The Central Kalahari’s dry conditions and sparse population helped preserve fragments and improved the chances of successful recovery.
 
@@ -380,86 +380,44 @@ Rather than weakening interest in Botswana’s UFO history, the asteroid episode
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Did Asteroid 2018 LA Spark UFO Reports in Botswana?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Did Asteroid 2018 LA Spark UFO Reports in Botswana?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Gives the wider UFO-reporting framework for cases later explained as natural or astronomical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides broader context on how credible witnesses report aerial anomalies, even when some events prove conventional.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains how extraordinary sky claims can be tested against astronomy, evidence, and misperception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
-        
-        <p class="fr-book-desc">Directly supports the asteroid-impact and meteorite-recovery angle of 2018 LA.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -493,75 +451,71 @@ Rather than weakening interest in Botswana’s UFO history, the asteroid episode
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO ANTARCTICA Travel Poster, Sci-fi Alien UFO Wall Art, UAP Crash Decor"><img src="{{ '/assets/images/marketplace-covers/f67ec1c632652051d068.jpg' | relative_url }}" alt="Listing image for Vintage UFO ANTARCTICA Travel Poster, Sci-fi Alien UFO Wall Art, UAP Crash Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO ANTARCTICA Travel Poster, Sci-fi Alien UFO Wall Art, UAP Crash Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster â€“ Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster â€“ Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster â€“ Retro Alien Encounter Scene</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-t-shirt-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-t-shirt-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-t-shirt-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-t-shirt-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=asteroid-events-how-did-asteroid-2018-la-spark-ufo-reports-in-botswana-botswana-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -775,100 +729,100 @@ Rather than weakening interest in Botswana’s UFO history, the asteroid episode
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7611328/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact and recovery of asteroid 2018 LA - PMCby P Jenniskens · 2021 · Cited by 56 — The June 2, 2018, impact of asteroid 2018 LA o...</p></details>
    Published: June 2, 2018  
 
 2. <a id="endnote-2"></a>
    Source: jpl.nasa.gov  
    Title: tiny asteroid discovered saturday disintegrates hours later over southern africa  
-   Link: [https://www.jpl.nasa.gov/news/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/](https://www.jpl.nasa.gov/news/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/)  
+   Link: <a href="https://www.jpl.nasa.gov/news/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Tiny Asteroid Discovered Saturday Disintegrates Hours Later...Jun 3, 2018 — That was a slightly larg...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: tiny asteroid discovered saturday disintegrates hours later over southern africa  
-   Link: [https://www.nasa.gov/solar-system/asteroids/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/](https://www.nasa.gov/solar-system/asteroids/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/)  
+   Link: <a href="https://www.nasa.gov/solar-system/asteroids/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/asteroids/tiny-asteroid-discovered-saturday-disintegrates-hours-later-over-southern-africa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Asteroid Discovered Saturday Disintegrates Hours...3 Jun 2018 — A boulder-sized asteroid designated 2018 LA was discovered Saturday...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: assa.saao.ac.za  
    Title: the botswana super bolide and meteorites from asteroid 2018 la  
-   Link: [https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/](https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/)  
+   Link: <a href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Botswana super-bolide and meteorites from asteroid...Discovered just a few hours earlier, asteroid 2018 LA entered earth&#x27;s atmosphere at...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: asteroid 2018 la  
-   Link: [https://science.nasa.gov/photojournal/asteroid-2018-la/](https://science.nasa.gov/photojournal/asteroid-2018-la/)  
+   Link: <a href="https://science.nasa.gov/photojournal/asteroid-2018-la/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/asteroid-2018-la/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceAsteroid 2018 LAJun 3, 2018 — About 8 hours after they were taken, the asteroid entered Earth&#x27;s atmosphere and disintegrated...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 2018 LA  
-   Link: [https://en.wikipedia.org/wiki/2018_LA](https://en.wikipedia.org/wiki/2018_LA)  
+   Link: <a href="https://en.wikipedia.org/wiki/2018_LA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2018_LA</a>  
 
 7. <a id="endnote-7"></a>
    Source: sci.news  
-   Link: [https://www.sci.news/space/2018-la-asteroid-06070.html](https://www.sci.news/space/2018-la-asteroid-06070.html)  
+   Link: <a href="https://www.sci.news/space/2018-la-asteroid-06070.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/space/2018-la-asteroid-06070.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science News2018 LA: Boulder-Sized Asteroid Disintegrates over...6 Jun 2018 — A 6-foot (2 m) wide asteroid called 2018 LA disin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2105.05997](https://arxiv.org/abs/2105.05997)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe impact and recovery of asteroid 2018 LA...</p></details>
+   Link: <a href="https://arxiv.org/abs/2105.05997" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.05997</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact and recovery of asteroid 2018 LA...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20210015467](https://ntrs.nasa.gov/citations/20210015467)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20210015467" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20210015467</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerThe Impact and Recovery of Asteroid 2018 LAby P Jenniskens · 2021 · Cited by 51 — The June 2, 2018 impact of...</p></details>
    Published: June 2, 2018  
 
 10. <a id="endnote-10"></a>
    Source: seti.org  
-   Link: [https://www.seti.org/news/fragment-of-impacting-asteroid-recovered-in-botswana/](https://www.seti.org/news/fragment-of-impacting-asteroid-recovered-in-botswana/)  
+   Link: <a href="https://www.seti.org/news/fragment-of-impacting-asteroid-recovered-in-botswana/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/fragment-of-impacting-asteroid-recovered-in-botswana/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fragment of Impacting Asteroid Recovered In BotswanaThis small asteroid was discovered in space by the University of Arizona&#x27;s Catalina S...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: seti.org  
    Title: asteroid that hit botswana in 2018 likely came from vesta  
-   Link: [https://www.seti.org/news/asteroid-that-hit-botswana-in-2018-likely-came-from-vesta/](https://www.seti.org/news/asteroid-that-hit-botswana-in-2018-likely-came-from-vesta/)  
+   Link: <a href="https://www.seti.org/news/asteroid-that-hit-botswana-in-2018-likely-came-from-vesta/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/asteroid-that-hit-botswana-in-2018-likely-came-from-vesta/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASTEROID THAT HIT BOTSWANA IN 2018 LIKELY CAME...22 Apr 2021 — Fragment of asteroid 2018 LA recovered in Central Kalahari Game Reserve i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sci.news  
    Title: asteroid 2018 la vesta 09609  
-   Link: [https://www.sci.news/space/asteroid-2018-la-vesta-09609.html](https://www.sci.news/space/asteroid-2018-la-vesta-09609.html)  
+   Link: <a href="https://www.sci.news/space/asteroid-2018-la-vesta-09609.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/space/asteroid-2018-la-vesta-09609.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsAsteroid 2018 LA Likely Came from Vesta, Researchers Say30 Apr 2021 — 2018 LA, a 1.5-m-wide asteroid that disintegra...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: 41106 meteorites from botswana fireball found asteroid 2018 la  
-   Link: [https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html](https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html)  
+   Link: <a href="https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smacking int...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: neo.ssa.esa.int  
-   Link: [https://neo.ssa.esa.int/past-impactors/2018la](https://neo.ssa.esa.int/past-impactors/2018la)  
+   Link: <a href="https://neo.ssa.esa.int/past-impactors/2018la" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/past-impactors/2018la</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>esa.int2018 LA - NEO - NEOCCThe meteoroid was discovered at 08:22 UTC on 2 June 2018 by the Mount Lemmon Survey and impacted the atmosphe...</p></details>
    Published: June 2018  
 
 15. <a id="endnote-15"></a>
    Source: wits.ac.za  
    Title: fragment of impacting asteroid recovered in botswana  
-   Link: [https://www.wits.ac.za/news/latest-news/research-news/2018/2018-06/fragment-of-impacting-asteroid-recovered-in-botswana.html](https://www.wits.ac.za/news/latest-news/research-news/2018/2018-06/fragment-of-impacting-asteroid-recovered-in-botswana.html)  
+   Link: <a href="https://www.wits.ac.za/news/latest-news/research-news/2018/2018-06/fragment-of-impacting-asteroid-recovered-in-botswana.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wits.ac.za/news/latest-news/research-news/2018/2018-06/fragment-of-impacting-asteroid-recovered-in-botswana.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is one of the fragments of asteroid 2018 LA which collided with Earth on...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: amsmeteors.org  
    Title: asteroid spotted hours before impact with atmosphere over botswana  
-   Link: [https://www.amsmeteors.org/2018/06/asteroid-spotted-hours-before-impact-with-atmosphere-over-botswana/](https://www.amsmeteors.org/2018/06/asteroid-spotted-hours-before-impact-with-atmosphere-over-botswana/)  
+   Link: <a href="https://www.amsmeteors.org/2018/06/asteroid-spotted-hours-before-impact-with-atmosphere-over-botswana/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2018/06/asteroid-spotted-hours-before-impact-with-atmosphere-over-botswana/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAsteroid spotted hours before impact with atmosphere over...4 Jun 2018 — Asteroid 2018 LA (previously known as ZL...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: authors.library.caltech.edu  
    Title: zr7yh emm58  
-   Link: [https://authors.library.caltech.edu/records/zr7yh-emm58](https://authors.library.caltech.edu/records/zr7yh-emm58)  
+   Link: <a href="https://authors.library.caltech.edu/records/zr7yh-emm58" target="_blank" rel="noopener noreferrer nofollow">https://authors.library.caltech.edu/records/zr7yh-emm58</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact and recovery of asteroid 2018 LAby P Jenniskens · Cited by 51 — The June 2, 2018 impact of asteroid 2018 LA over Botswana is only...</p></details>
    Published: June 2, 2018  
 
@@ -877,58 +831,58 @@ Rather than weakening interest in Botswana’s UFO history, the asteroid episode
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: asteroid fragments recovered in ckgr botswanaasteroids are minor planets especia  
-   Link: [https://www.facebook.com/TheGazettebw/posts/asteroid-fragments-recovered-in-ckgr-botswanaasteroids-are-minor-planets-especia/10155909324482620/](https://www.facebook.com/TheGazettebw/posts/asteroid-fragments-recovered-in-ckgr-botswanaasteroids-are-minor-planets-especia/10155909324482620/)  
+   Link: <a href="https://www.facebook.com/TheGazettebw/posts/asteroid-fragments-recovered-in-ckgr-botswanaasteroids-are-minor-planets-especia/10155909324482620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheGazettebw/posts/asteroid-fragments-recovered-in-ckgr-botswanaasteroids-are-minor-planets-especia/10155909324482620/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASTEROID FRAGMENTS RECOVERED IN CKGR...Fragment of asteroid 2018 LA recovered in the Central Kalahari Game Reserve in central Botswana...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SETIInstitute/photos/a-meteorite-was-found-in-botswanas-central-kalahari-game-reserve-ckgr-that-is-a-/10156340092890535/](https://www.facebook.com/SETIInstitute/photos/a-meteorite-was-found-in-botswanas-central-kalahari-game-reserve-ckgr-that-is-a-/10156340092890535/)  
+   Link: <a href="https://www.facebook.com/SETIInstitute/photos/a-meteorite-was-found-in-botswanas-central-kalahari-game-reserve-ckgr-that-is-a-/10156340092890535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/photos/a-meteorite-was-found-in-botswanas-central-kalahari-game-reserve-ckgr-that-is-a-/10156340092890535/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SETI InstituteA meteorite was found in Botswana&#x27;s Central Kalahari Game Reserve (CKGR) that is a fragment of asteroid 2018 LA. This small...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: gizmodo.com  
    Title: meteorite hunters find remains of last months botswana 1827459103  
-   Link: [https://gizmodo.com/meteorite-hunters-find-remains-of-last-months-botswana-1827459103](https://gizmodo.com/meteorite-hunters-find-remains-of-last-months-botswana-1827459103)  
+   Link: <a href="https://gizmodo.com/meteorite-hunters-find-remains-of-last-months-botswana-1827459103" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/meteorite-hunters-find-remains-of-last-months-botswana-1827459103</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite Hunters Find Remains of Last Month&#x27;s Botswana...9 Jul 2018 — Last month, a fireball lit up the skies over Botswana just hours...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: skyatnightmagazine.com  
    Title: meteorite found after asteroid seen falling to earth  
-   Link: [https://www.skyatnightmagazine.com/news/meteorite-found-after-asteroid-seen-falling-to-earth](https://www.skyatnightmagazine.com/news/meteorite-found-after-asteroid-seen-falling-to-earth)  
+   Link: <a href="https://www.skyatnightmagazine.com/news/meteorite-found-after-asteroid-seen-falling-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/meteorite-found-after-asteroid-seen-falling-to-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jul 2018 — Seconds after the asteroid passed through the atmosphere an explosion was witnessed over Botswana as the meteor fireball hur...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: earthsky.org  
    Title: asteroid 2018 la fragments meteorites south africa  
-   Link: [https://earthsky.org/human-world/asteroid-2018-la-fragments-meteorites-south-africa/](https://earthsky.org/human-world/asteroid-2018-la-fragments-meteorites-south-africa/)  
+   Link: <a href="https://earthsky.org/human-world/asteroid-2018-la-fragments-meteorites-south-africa/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/human-world/asteroid-2018-la-fragments-meteorites-south-africa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fragments of asteroid 2018 LA found in Botswana9 Jul 2018 — Bottom line: Researchers have found meteorite fragments of asteroid 2018 LA i...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: helsinki.fi  
    Title: asteroid hit botswana 2018 likely came vesta  
-   Link: [https://www.helsinki.fi/en/news/mathematics-and-science/asteroid-hit-botswana-2018-likely-came-vesta](https://www.helsinki.fi/en/news/mathematics-and-science/asteroid-hit-botswana-2018-likely-came-vesta)  
+   Link: <a href="https://www.helsinki.fi/en/news/mathematics-and-science/asteroid-hit-botswana-2018-likely-came-vesta" target="_blank" rel="noopener noreferrer nofollow">https://www.helsinki.fi/en/news/mathematics-and-science/asteroid-hit-botswana-2018-likely-came-vesta</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of HelsinkiAsteroid that hit Botswana in 2018 likely came from Vesta24 Apr 2021 — The small asteroid that impacted Botswana, c...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: news.westernu.ca  
    Title: ca Botswana asteroid likely came from Vesta  
-   Link: [https://news.westernu.ca/2021/04/botswana-asteroid/](https://news.westernu.ca/2021/04/botswana-asteroid/)  
+   Link: <a href="https://news.westernu.ca/2021/04/botswana-asteroid/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2021/04/botswana-asteroid/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>asteroid likely came from Vesta - Western News23 Apr 2021 — Fragment of asteroid 2018 LA recovered in Central Kalahari Game Reserve in ce...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ucdavis.edu  
    Title: fragments 2018 botswana fireball came vesta  
-   Link: [https://www.ucdavis.edu/blog/fragments-2018-botswana-fireball-came-vesta](https://www.ucdavis.edu/blog/fragments-2018-botswana-fireball-came-vesta)  
+   Link: <a href="https://www.ucdavis.edu/blog/fragments-2018-botswana-fireball-came-vesta" target="_blank" rel="noopener noreferrer nofollow">https://www.ucdavis.edu/blog/fragments-2018-botswana-fireball-came-vesta</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fragments of 2018 Botswana Fireball Came From Vesta23 Apr 2021 — An asteroid that exploded over Botswana in 2018 likely came from Vesta...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: popularmechanics.com  
    Title: meteor la 2018 africa recover  
-   Link: [https://www.popularmechanics.com/space/telescopes/a22090260/meteor-la-2018-africa-recover/](https://www.popularmechanics.com/space/telescopes/a22090260/meteor-la-2018-africa-recover/)  
+   Link: <a href="https://www.popularmechanics.com/space/telescopes/a22090260/meteor-la-2018-africa-recover/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/telescopes/a22090260/meteor-la-2018-africa-recover/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For Just 2nd Time Ever, Meteor Hunters Recover Chunks...9 Jul 2018 — Witnesses reported loud explosions and video caught a meteoroid fir...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: fragment of impacting asteroid recovered in botswanafyi press release from seti  
-   Link: [https://www.facebook.com/BotswanaGovernment/posts/fragment-of-impacting-asteroid-recovered-in-botswanafyi-press-release-from-seti-/1745721055510545/](https://www.facebook.com/BotswanaGovernment/posts/fragment-of-impacting-asteroid-recovered-in-botswanafyi-press-release-from-seti-/1745721055510545/)  
+   Link: <a href="https://www.facebook.com/BotswanaGovernment/posts/fragment-of-impacting-asteroid-recovered-in-botswanafyi-press-release-from-seti-/1745721055510545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BotswanaGovernment/posts/fragment-of-impacting-asteroid-recovered-in-botswanafyi-press-release-from-seti-/1745721055510545/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SETI Institute Astronomers have uncovered...Read more...</p></details>

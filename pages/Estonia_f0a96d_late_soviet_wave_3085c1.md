@@ -31,8 +31,8 @@ page_heading_title: Why Estonia's Classic UFO Wave Still Matters
 source_count: 32
 infographic_count: 3
 planned_sections:
-- Key late 1980s locations and reports
-- Early 1990s peak in notifications
+- Key late 1980 s locations and reports
+- Early 1990 s peak in notifications
 - Close encounters as folklore and memory
 focal_unit_type: event_time_window
 topic_lens: historical_comparative
@@ -239,7 +239,7 @@ prev_link:
   permalink: /merivalja/
   short_title: Merivalja
   heading_title: Why Merivalja Became Estonia's UFO Landmark
-date: '2026-06-09 01:26:37 '
+date: '2026-06-10 01:51:19 '
 header:
   og_image: /assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-1-social.jpg
   preview_image: /assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-1.webp
@@ -248,13 +248,13 @@ image: /assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-1-soci
 
 ## Introduction
 
-The **late‑Soviet sighting wave and close‑encounter lore in [Estonia]({{ 'what-really-shapes-estonias-ufo-record/' | relative_url }})** refers to a clustered period of reported unidentified flying object (UFO) phenomena and extraordinary contact narratives that captured public imagination in the late 1980s and early 1990s. This wave is distinctive in Estonia’s anomalous‑experience tradition for combining a spike in reported sightings with a number of incidents framed by witnesses as **close encounters**, sometimes involving humanoid entities and physical interactions. While none of these episodes has been verified as non‑terrestrial technology, many remain embedded in local UFO lore and have been documented by enthusiasts and folklorists alike.
+The **late‑Soviet sighting wave and close‑encounter lore in Estonia** refers to a clustered period of reported unidentified flying object (UFO) phenomena and extraordinary contact narratives that captured public imagination in the late 1980s and early 1990s. This wave is distinctive in Estonia’s anomalous‑experience tradition for combining a spike in reported sightings with a number of incidents framed by witnesses as **close encounters**, sometimes involving humanoid entities and physical interactions. While none of these episodes has been verified as non‑terrestrial technology, many remain embedded in local UFO lore and have been documented by enthusiasts and folklorists alike.
 
 
 <img src="{{ "/assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-1-dark.svg" | relative_url }}" alt="Sighting Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why This Period Is Central to Estonian UFO History
 
-During the late 1980s and early 1990s, Estonia — still formally part of the Soviet Union until 1991 — saw a noticeable increase in people coming forward with dramatic UFO reports. According to Estonian ufologist Igor Volke, a long‑term collector of anomalous reports, this era represented a **“high period” of notifications** for Estonian observers, roughly concentrated around **1988–1992**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeter.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeter.err.ee</span><span class="citation-popover-title">igor volke on ufo t nainud kolmel korral</span><span class="citation-popover-snippet">ERRIgor Volke on UFO-t näinud kolmel korral | Arhiiv | ERRJune 12, 2017...</span><span class="citation-popover-meta">Published: June 12, 2017</span></span></span>
+During the late 1980s and early 1990s, Estonia — still formally part of the Soviet Union until 1991 — saw a noticeable increase in people coming forward with dramatic UFO reports. According to Estonian ufologist Igor Volke, a long‑term collector of anomalous reports, this era represented a **“high period” of notifications** for Estonian observers, roughly concentrated around **1988–1992**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeter.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeter.err.ee</span><span class="citation-popover-title">igor volke on ufo t nainud kolmel korral</span><span class="citation-popover-snippet">Igor Volke on UFO-t näinud kolmel korral &#124; Arhiiv &#124; ERRJune 12, 2017...</span><span class="citation-popover-meta">Published: June 12, 2017</span></span></span>
 
 Several factors made this period fertile ground for such reports: public curiosity stirred by global UFO discussions, loosening information controls in the Soviet media environment, and the emergence of private [collectors]({{ 'collectors/' | relative_url }}) such as Volke’s group, which actively recorded and circulated testimonies. These reports ranged from bright lights in the sky to accounts of beings and apparent physical contact, forming a rich body of folklore shaped by personal narratives and media transmission.
 
@@ -284,7 +284,7 @@ Multiple sightings in rural areas described **short, grey figures in silvery clo
 
 One of the more elaborate narratives involves a woman at home being confronted by **very tall humanoid visitors** who reportedly walked through walls and attempted to take her along on a journey through space. This account includes extended sequences of alleged alien interaction and dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[Para-web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-These stories often feature motifs familiar from global UFO folklore: hovering lights, humanoid figures, attempts at communication or abduction, and unusual physical sensations. While enthusiast records document them as part of Estonia’s anomalous narrative tradition, they remain unverified as physical events and are best understood as **localised lore** that reflects the cultural context of the late Soviet transition period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[Folklore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">FolkloreMare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</span></span></span>
+These stories often feature motifs familiar from global UFO folklore: hovering lights, humanoid figures, attempts at communication or abduction, and unusual physical sensations. While enthusiast records document them as part of Estonia’s anomalous narrative tradition, they remain unverified as physical events and are best understood as **localised lore** that reflects the cultural context of the late Soviet transition period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[Folklore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Mare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ConVOxd2j9k" title="Unsolved Alien Mysteries | Soviet Ancient Aliens: The Petrozavodsk Case | Documentary | Free Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ConVOxd2j9k" target="_blank" rel="noopener noreferrer">Unsolved Alien Mysteries | Soviet Ancient Aliens: The Petrozavodsk Case | Documentary | Free Movie</a></p><p class="youtube-embed-meta">Channel: V Movies &middot; Views: 186.5K &middot; Uploaded: February 2023 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ConVOxd2j9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ConVOxd2j9k">Open on YouTube</a></p></div></div></div>
@@ -293,7 +293,7 @@ These stories often feature motifs familiar from global UFO folklore: hovering l
 
 In ufology, **close encounters** are defined by the proximity and nature of human experience with an unidentified phenomenon. Early classifications by J. Allen Hynek grouped sightings by proximity, with close encounters implying direct witness contact at reduced distances that purportedly minimise misidentification of ordinary aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
-Estonian accounts from this era often include **hybrid lore elements** — combining atmospheric or sighting claims with narrative features that resemble classic close‑encounter stories found in global UFO literature. Particularly in cases involving perceived entity contact, the emphasis is more on storytelling and personal experience than on corroborated sensory data. Folklorist Mare Kõiva’s work suggests that such encounters in Estonia are shaped by cultural and media influences as much as by witness reports, with community transmission and interpretation reinforcing certain narrative patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[Folklore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">FolkloreMare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</span></span></span>
+Estonian accounts from this era often include **hybrid lore elements** — combining atmospheric or sighting claims with narrative features that resemble classic close‑encounter stories found in global UFO literature. Particularly in cases involving perceived entity contact, the emphasis is more on storytelling and personal experience than on corroborated sensory data. Folklorist Mare Kõiva’s work suggests that such encounters in Estonia are shaped by cultural and media influences as much as by witness reports, with community transmission and interpretation reinforcing certain narrative patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[Folklore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Mare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LvE6Hb2-9Kw" title="Igor Volke: Estonian ufo news 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LvE6Hb2-9Kw" target="_blank" rel="noopener noreferrer">Igor Volke: Estonian ufo news 2016</a></p><p class="youtube-embed-meta">Channel: Shadow Camera &middot; Views: 1.6K &middot; Uploaded: May 2016 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LvE6Hb2-9Kw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LvE6Hb2-9Kw">Open on YouTube</a></p></div></div></div>
@@ -307,7 +307,7 @@ While these late‑Soviet reports have not yielded evidence that meets scientifi
 
 * **Cultural resonance:** The narratives reflect how people in the late Soviet era processed uncertainty and fascination with the unknown.
 * **Documented testimonies:** Collections by groups such as AKRAK and later EUFON preserved these stories for posterity, giving them a rooted place in Estonia’s anomalous chronicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Igor_Volke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Igor Volke</span><span class="citation-popover-snippet">Igor Volke</span></span></span>
-* **Folkloric integration:** Over time, such reports become woven into broader local lore, reviewed by folklorists as expressions of social imagination rather than physical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[Folklore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">FolkloreMare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</span></span></span>
+* **Folkloric integration:** Over time, such reports become woven into broader local lore, reviewed by folklorists as expressions of social imagination rather than physical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[Folklore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Mare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</span></span></span>
 
 Contemporary discussion increasingly treats these episodes as *anomalous folklore* — valuable for understanding societal perceptions of the unknown but not indicative of verified extraterrestrial visitation. Their staying power in narratives and media underscores how personal testimony and cultural context shape UFO lore long after the initial reports.
 
@@ -315,86 +315,44 @@ Contemporary discussion increasingly treats these episodes as *anomalous folklor
 <img src="{{ "/assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-2-dark.svg" | relative_url }}" alt="Sighting Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d_late_soviet_wave_3085c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Estonia&#x27;s Classic UFO Wave Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Estonia&#x27;s Classic UFO Wave Still Matters, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding sighting classifications and close-encounter narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating witness reports and national UFO waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Connects UFO waves, folklore, witness narratives and cultural memory in a way that fits Estonia&#x27;s late-Soviet reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores how extraordinary-belief systems form around anomalous experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -428,75 +386,71 @@ Contemporary discussion increasingly treats these episodes as *anomalous folklor
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-wave-why-estonia-s-classic-ufo-wave-still-matters-estonia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -711,34 +665,34 @@ Contemporary discussion increasingly treats these episodes as *anomalous folklor
 1. <a id="endnote-1"></a>
    Source: eeter.err.ee  
    Title: igor volke on ufo t nainud kolmel korral  
-   Link: [https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral](https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERRIgor Volke on UFO-t näinud kolmel korral | Arhiiv | ERRJune 12, 2017...</p></details>
+   Link: <a href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow">https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Igor Volke on UFO-t näinud kolmel korral | Arhiiv | ERRJune 12, 2017...</p></details>
    Published: June 12, 2017  
 
 2. <a id="endnote-2"></a>
    Source: para-web.org  
-   Link: [https://www.para-web.org/showthread.php?tid=4729](https://www.para-web.org/showthread.php?tid=4729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Para-webEstonian UFO-cases15 Feb 2010 — [http://www.ufoinfo.com/sightings/estonia/052826.shtml](http://www.ufoinfo.com/sightings/estonia/052826.shtml). Vajangu... Haimre crossroad - UFO and ali...</p></details>
+   Link: <a href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/showthread.php?tid=4729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estonian UFO-cases15 Feb 2010 — [http://www.ufoinfo.com/sightings/estonia/052826.shtml](http://www.ufoinfo.com/sightings/estonia/052826.shtml). Vajangu... Haimre crossroad - UFO and ali...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: folklore.ee  
-   Link: [https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html](https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FolkloreMare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</p></details>
+   Link: <a href="https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/rl/pubte/ee/cf/cf/19.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mare KõivaSOME ASPECTS OF UFO-LORE · MATERIAL · INFLUENCES OF MASS MEDIA · ORAL UFO-LORE IN ESTONIA · RECURRING ENCOUNTERS WITH A...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: [https://en.wikipedia.org/wiki/Close_encounter](https://en.wikipedia.org/wiki/Close_encounter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Igor Volke  
-   Link: [https://en.wikipedia.org/wiki/Igor_Volke](https://en.wikipedia.org/wiki/Igor_Volke)  
+   Link: <a href="https://en.wikipedia.org/wiki/Igor_Volke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Igor_Volke</a>  
 
 6. <a id="endnote-6"></a>
    Source: psican.org  
    Title: PSICA N  
-   Link: [https://www.psican.org/index.php/ufological-information/753-1989-the-fall-of-the-iron-curtain-and-the-return-of-the-humanoids](https://www.psican.org/index.php/ufological-information/753-1989-the-fall-of-the-iron-curtain-and-the-return-of-the-humanoids)  
+   Link: <a href="https://www.psican.org/index.php/ufological-information/753-1989-the-fall-of-the-iron-curtain-and-the-return-of-the-humanoids" target="_blank" rel="noopener noreferrer nofollow">https://www.psican.org/index.php/ufological-information/753-1989-the-fall-of-the-iron-curtain-and-the-return-of-the-humanoids</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viytna, Estonia Date: October 1989 Time: evening A 10-year old boy, Raido, was reportedly visited by several entities that penetrated int...</p></details>
    Published: October 1989  
 
@@ -746,60 +700,60 @@ Contemporary discussion increasingly treats these episodes as *anomalous folklor
 
 7. <a id="endnote-7"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/research](https://uapmonitor.org/research)  
+   Link: <a href="https://uapmonitor.org/research" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/](https://mykss.com/en/)  
+   Link: <a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
 
 10. <a id="endnote-10"></a>
    Source: ufomagazines.com  
-   Link: [https://www.ufomagazines.com/ufo-information-ufo-information-1980-no-02/](https://www.ufomagazines.com/ufo-information-ufo-information-1980-no-02/)  
+   Link: <a href="https://www.ufomagazines.com/ufo-information-ufo-information-1980-no-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ufo-information-ufo-information-1980-no-02/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In April 1977, a UFO landing involving humanoids was reported in the Viljandi district. A more detailed account...</p></details>
    Published: April 1977  
 
 11. <a id="endnote-11"></a>
    Source: discoveryuk.com  
    Title: The Belgian UFO Wave: Close Encounter or Mass Hysteria?  
-   Link: [https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/](https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSeptember 3, 2024 — THE BELGIAN UFO WAVE: CLOSE ENCOUNTER OR MASS HYSTERIA? Between November 1989 and March 1990 all over Bel...</p></details>
    Published: September 3, 2024  
 
 12. <a id="endnote-12"></a>
    Source: stena.ee  
    Title: vstrecha letevshego v tallin samoleta s nlo v 1985 godu  
-   Link: [https://www.stena.ee/blog/vstrecha-letevshego-v-tallin-samoleta-s-nlo-v-1985-godu](https://www.stena.ee/blog/vstrecha-letevshego-v-tallin-samoleta-s-nlo-v-1985-godu)  
+   Link: <a href="https://www.stena.ee/blog/vstrecha-letevshego-v-tallin-samoleta-s-nlo-v-1985-godu" target="_blank" rel="noopener noreferrer nofollow">https://www.stena.ee/blog/vstrecha-letevshego-v-tallin-samoleta-s-nlo-v-1985-godu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Встреча летевшего в Таллин самолета с НЛО в 1985 году | STENA.eeMarch 1, 2015 — ВСТРЕЧА ЛЕТЕВШЕГО В ТАЛЛИН САМОЛЕТА С НЛО В 1985 ГОДУ Опу...</p></details>
    Published: March 1, 2015  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Soviet Ancient Aliens: The Petrozavodsk Case | Documentary | Free Movie  
-   Link: [https://www.youtube.com/watch?v=ConVOxd2j9k](https://www.youtube.com/watch?v=ConVOxd2j9k)  
+   Link: <a href="https://www.youtube.com/watch?v=ConVOxd2j9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ConVOxd2j9k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To grasp the full historical atmosphere of the regional phenomenon, 6 UFO Mysteries as the Soviet Union Collapsed explores documented clo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: csmonitor.com  
    Title: Flying saucers -- or Soviet satellites?  
-   Link: [https://www.csmonitor.com/1982/0609/060949.html](https://www.csmonitor.com/1982/0609/060949.html)  
+   Link: <a href="https://www.csmonitor.com/1982/0609/060949.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/1982/0609/060949.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 1982 — FLYING SAUCERS -- OR SOVIET SATELLITES? * By Robert C. Cowen Natural science editor of The Christian Science Monitor June...</p></details>
    Published: June 9, 1982  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check  
-   Link: [https://www.youtube.com/watch?v=-LSUrmfl46E](https://www.youtube.com/watch?v=-LSUrmfl46E)  
+   Link: <a href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LSUrmfl46E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO files smuggled out of Russia released | Jesse Weber Live...</p></details>

@@ -239,7 +239,7 @@ next_link:
   permalink: /sky-causes-78a0b2/
   short_title: Sky Causes
   heading_title: When Pacific UFOs Are Space Debris
-date: '2026-06-09 01:34:09 '
+date: '2026-06-10 01:59:45 '
 header:
   og_image: /assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-1-social.jpg
   preview_image: /assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-1.webp
@@ -248,13 +248,13 @@ image: /assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Il
 
 ## Introduction
 
-Nan Madol is a remarkable archaeological complex of artificial islets and stone architecture off **Pohnpei** in the *Federated States of Micronesia*. Its unique setting — a series of over 90 constructed islets linked by tidal canals — naturally invites wonder and speculation. In fringe literature and popular media, this wonder has often been reframed as an extraterrestrial puzzle, with some suggesting its scale and engineering defy explanation by human builders. But how do these alien‑linked claims stack up against mainstream archaeological research? The evidence consistently supports a human origin rooted in the social and technological capacities of Pohnpeian societies between AD 1100 and 1600, while the alien hypotheses remain unsubstantiated and inconsistent with established science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Nan-Madol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Nan Madol | Description &amp; Facts | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Nan Madol | Description &amp; Facts | Britannica</span></span></span>
+Nan Madol is a remarkable archaeological complex of artificial islets and stone architecture off **Pohnpei** in the *Federated States of Micronesia*. Its unique setting — a series of over 90 constructed islets linked by tidal canals — naturally invites wonder and speculation. In fringe literature and popular media, this wonder has often been reframed as an extraterrestrial puzzle, with some suggesting its scale and engineering defy explanation by human builders. But how do these alien‑linked claims stack up against mainstream archaeological research? The evidence consistently supports a human origin rooted in the social and technological capacities of Pohnpeian societies between AD 1100 and 1600, while the alien hypotheses remain unsubstantiated and inconsistent with established science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Nan-Madol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Nan Madol &#124; Description &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Nan Madol &#124; Description &amp; Facts &#124; Britannica</span></span></span>
 
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-1-dark.svg" | relative_url }}" alt="Nan Madol illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Nan Madol and the Origins of the Alien Claims
 
-Nan Madol’s striking visual impact — massive basalt columns some weighing many tonnes arranged in intricate canal‑lined platforms — has been fertile ground for speculative narratives. Popular shows like *Ancient Aliens* broadcast claims that the site’s stones, some weighing tens of tonnes, demand technologies beyond human prehistory, hinting instead at extraterrestrial involvement. Clips circulating on platforms such as YouTube attest to these sensational narratives tailored for entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=v2Sy318SN5M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Ancient Aliens: Otherworldly Structure Found on Nan Madol (Season 15) | History - YouTubeJune 2, 2022...</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
+Nan Madol’s striking visual impact — massive basalt columns some weighing many tonnes arranged in intricate canal‑lined platforms — has been fertile ground for speculative narratives. Popular shows like *Ancient Aliens* broadcast claims that the site’s stones, some weighing tens of tonnes, demand technologies beyond human prehistory, hinting instead at extraterrestrial involvement. Clips circulating on platforms such as YouTube attest to these sensational narratives tailored for entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=v2Sy318SN5M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Ancient Aliens: Otherworldly Structure Found on Nan Madol (Season 15) &#124; History - YouTubeJune 2, 2022...</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
 
 Fringe websites amplify these ideas by framing Nan Madol as a “mystery” or “enigma” that archaeology purportedly cannot explain, occasionally invoking lost continents or non‑human builders. Such interpretations often lack grounding in rigorous research and are widely categorised as pseudoscience because they are not based on testable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crystalinks.com/NanMadol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[crystalinks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-title">Nan Madol</span><span class="citation-popover-snippet">Crystalinks...</span></span></span>
 
@@ -267,11 +267,11 @@ Importantly, these associative claims are not part of any credible archaeologica
 
 Archaeological research paints a concrete picture of human ingenuity and organisation behind Nan Madol’s construction:
 
-* **Chronology and human activity:** Excavations and dating methods, including high‑precision uranium‑thorium (^230Th/U) coral dating, indicate that monumental construction began around AD 1180–1200, within the broader context of Pohnpeian habitation that extends back several centuries earlier. This places the primary building activities squarely within the historical period of the *Saudeleur* dynasty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEarliest direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using...</span></span></span>
+* **Chronology and human activity:** Excavations and dating methods, including high‑precision uranium‑thorium (^230Th/U) coral dating, indicate that monumental construction began around AD 1180–1200, within the broader context of Pohnpeian habitation that extends back several centuries earlier. This places the primary building activities squarely within the historical period of the *Saudeleur* dynasty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Earliest direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using...</span></span></span>
 * **Material sourcing and transport:** Chemical analyses such as X‑ray fluorescence (XRF) studies demonstrate that the basalt used in Nan Madol’s structures originated from local geological sources on Pohnpei. These findings show that builders quarried stone on the island and transported it across the lagoon — an impressive but feasible task given canoe technology and organised labour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificarchaeology.org">[pacificarchaeology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificarchaeology.org</span><span class="citation-popover-snippet">urnal of Pacific ArchaeologyDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
-* **Engineering methods:** Archaeological interpretations, informed by both field surveys and experimental work, suggest that Pohnpeians used a combination of ropes, levers, and careful planning to move and position heavy stones. The walls rely on interlocking placement and the weight of basalt with coral fill rather than mortar, revealing practical engineering strategies suited to local resources and needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts5.4: Nan Madol- “In the space between things”</span><span class="citation-popover-snippet">Humanities LibreTexts5.4: Nan Madol- “In the space between things” - Humanities LibreTextsFebruary 24, 2023...</span><span class="citation-popover-meta">Published: February 24, 2023</span></span></span>
+* **Engineering methods:** Archaeological interpretations, informed by both field surveys and experimental work, suggest that Pohnpeians used a combination of ropes, levers, and careful planning to move and position heavy stones. The walls rely on interlocking placement and the weight of basalt with coral fill rather than mortar, revealing practical engineering strategies suited to local resources and needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts5.4: Nan Madol- “In the space between things”</span><span class="citation-popover-snippet">ities LibreTexts5.4: Nan Madol- “In the space between things” - Humanities LibreTextsFebruary 24, 2023...</span><span class="citation-popover-meta">Published: February 24, 2023</span></span></span>
 * **Cultural context:** Nan Madol was the ceremonial and political centre of the Saudeleur dynasty, a culturally and administratively complex society. Its layout of residential, religious, and mortuary spaces reflects indigenous social organisation rather than exotic or external design principles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/places/nan-madol.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Nan Madol (U.S. National Park Service</span><span class="citation-popover-snippet">National Park ServiceNan Madol (U.S. National Park Service)January 6, 2020...</span><span class="citation-popover-meta">Published: January 6, 2020</span></span></span>
-* **Landscape studies:** Modern remote sensing such as LiDAR surveys has revealed water management systems and agricultural features connected to the Nan Madol landscape, underscoring the integrated nature of Pohnpeian engineering rather than isolated “mysteries.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2072-4292/11/18/2152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIAirborne LiDAR Reveals a Vast Archaeological Landscape at the Nan Madol World Heritage Site | MDPISeptember 16, 2019...</span><span class="citation-popover-meta">Published: September 16, 2019</span></span></span>
+* **Landscape studies:** Modern remote sensing such as LiDAR surveys has revealed water management systems and agricultural features connected to the Nan Madol landscape, underscoring the integrated nature of Pohnpeian engineering rather than isolated “mysteries.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2072-4292/11/18/2152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Airborne LiDAR Reveals a Vast Archaeological Landscape at the Nan Madol World Heritage Site &#124; MDPISeptember 16, 2019...</span><span class="citation-popover-meta">Published: September 16, 2019</span></span></span>
 
 Taken together, these lines of evidence support a human explanation rooted in the known history, economy, and social complexity of Pohnpei rather than any need for non‑terrestrial agents.
 
@@ -295,94 +295,52 @@ It is also worth noting that critics of fringe interpretations have described so
 
 ## Human Capacity, Not Extraterrestrial Agency
 
-The archaeological record firmly situates Nan Madol within the human history of Micronesia. Skilled quarrying, transport of basalt via watercraft, organised labour under a hierarchical society, and coherent architectural strategies all explain the site’s construction without invoking speculative mechanisms. Scientific dating methods and material studies align the site with known human activity and technologies of the region’s past. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEarliest direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using...</span></span></span>
+The archaeological record firmly situates Nan Madol within the human history of Micronesia. Skilled quarrying, transport of basalt via watercraft, organised labour under a hierarchical society, and coherent architectural strategies all explain the site’s construction without invoking speculative mechanisms. Scientific dating methods and material studies align the site with known human activity and technologies of the region’s past. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Earliest direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using...</span></span></span>
 
-Fringe alien claims — while popular in certain media circles — lack empirical backing, do not appear in peer‑reviewed research on Nan Madol, and are not necessary to explain how this extraordinary site came to be. The mystery lies not in *who* built it, but in appreciating the full complexity of human achievement that created it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Nan-Madol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Nan Madol | Description &amp; Facts | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Nan Madol | Description &amp; Facts | Britannica</span></span></span>
+Fringe alien claims — while popular in certain media circles — lack empirical backing, do not appear in peer‑reviewed research on Nan Madol, and are not necessary to explain how this extraordinary site came to be. The mystery lies not in *who* built it, but in appreciating the full complexity of human achievement that created it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Nan-Madol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Nan Madol &#124; Description &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Nan Madol &#124; Description &amp; Facts &#124; Britannica</span></span></span>
 
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-3-dark.svg" | relative_url }}" alt="Nan Madol illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_nan_madol_alien_clai_6ff982-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did Aliens Build Nan Madol?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did Aliens Build Nan Madol?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how cultural environments shape anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for evaluating extraordinary claims about ancient sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
-        
-        <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+the+ancient+Maya+Henderson%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of the ancient Maya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/564897-M.jpg" alt="Cover for The world of the ancient Maya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world+of+the+ancient+Maya+Henderson%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of the ancient Maya">The world of the ancient Maya</a>
-        </h4>
-        <p class="fr-book-author">By Henderson, John S.</p>
-        
-        <p class="fr-book-desc">First published 1981. Subjects: Mayas, Civilization, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world+of+the+ancient+Maya+Henderson%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -416,59 +374,71 @@ Fringe alien claims — while popular in certain media circles — lack empirica
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nan Madol / Micronesia Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/u3gAAeSwlutpZiO0/s-l225.jpg" alt="Listing image for Nan Madol / Micronesia Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer">Nan Madol / Micronesia Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nan Madol print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nan Madol print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lost City of Stone : The Story of Nan Madol, the &quot;Atlantis&quot; of the Pacific by..."><img src="https://i.ebayimg.com/images/g/9H4AAeSwFCdp7-Hu/s-l225.jpg" alt="Listing image for Lost City of Stone : The Story of Nan Madol, the &quot;Atlantis&quot; of the Pacific by..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer">Lost City of Stone : The Story of Nan Madol, the &quot;Atlantis&quot; of the Pacific by...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nan Madol print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nan Madol print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nan Madol Ruins Micronesia Postcard Venice of Pacific Ponape Dick Merritt"><img src="https://i.ebayimg.com/images/g/4HcAAeSwz6BpuIRT/s-l225.jpg" alt="Listing image for Nan Madol Ruins Micronesia Postcard Venice of Pacific Ponape Dick Merritt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer">Nan Madol Ruins Micronesia Postcard Venice of Pacific Ponape Dick Merritt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nan Madol print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nan Madol print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nan+Madol+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aliens-build-nan-madol-nan-madol-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nan Madol print" data-ebay-reference="did-aliens-build-nan-madol-nan-madol-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nan-madol-did-aliens-build-nan-madol-micronesia-federated-states-of-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -683,144 +653,144 @@ Fringe alien claims — while popular in certain media circles — lack empirica
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Nan Madol | Description & Facts | Britannica  
-   Link: [https://www.britannica.com/place/Nan-Madol](https://www.britannica.com/place/Nan-Madol)  
+   Link: <a href="https://www.britannica.com/place/Nan-Madol" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nan-Madol</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Nan Madol  
-   Link: [https://en.wikipedia.org/wiki/Nan_Madol](https://en.wikipedia.org/wiki/Nan_Madol)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nan_Madol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nan_Madol</a>  
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v2Sy318SN5M](https://www.youtube.com/watch?v=v2Sy318SN5M)  
+   Link: <a href="https://www.youtube.com/watch?v=v2Sy318SN5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v2Sy318SN5M</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Otherworldly Structure Found on Nan Madol (Season 15) | History - YouTubeJune 2, 2022...</p></details>
    Published: June 2, 2022  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=80a2_dslsbs](https://www.youtube.com/watch?v=80a2_dslsbs)  
+   Link: <a href="https://www.youtube.com/watch?v=80a2_dslsbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=80a2_dslsbs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Decoding the Strange ALIEN Secrets of Nan Madol | History - YouTube...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: crystalinks.com  
    Title: Nan Madol  
-   Link: [https://www.crystalinks.com/NanMadol](https://www.crystalinks.com/NanMadol)  
+   Link: <a href="https://www.crystalinks.com/NanMadol" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/NanMadol</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crystalinks...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0033589416300436](https://www.sciencedirect.com/science/article/pii/S0033589416300436)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEarliest direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0033589416300436</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earliest direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pacificarchaeology.org  
-   Link: [https://pacificarchaeology.org/index.php/journal/article/view/68](https://pacificarchaeology.org/index.php/journal/article/view/68)  
+   Link: <a href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow">https://pacificarchaeology.org/index.php/journal/article/view/68</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>urnal of Pacific ArchaeologyDecember 30, 2011...</p></details>
    Published: December 30, 2011  
 
 8. <a id="endnote-8"></a>
    Source: human.libretexts.org  
    Title: Humanities Libre Texts5.4: Nan Madol- “In the space between things”  
-   Link: [https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things](https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanities LibreTexts5.4: Nan Madol- “In the space between things” - Humanities LibreTextsFebruary 24, 2023...</p></details>
+   Link: <a href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts5.4: Nan Madol- “In the space between things” - Humanities LibreTextsFebruary 24, 2023...</p></details>
    Published: February 24, 2023  
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-4292/11/18/2152](https://www.mdpi.com/2072-4292/11/18/2152)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIAirborne LiDAR Reveals a Vast Archaeological Landscape at the Nan Madol World Heritage Site | MDPISeptember 16, 2019...</p></details>
+   Link: <a href="https://www.mdpi.com/2072-4292/11/18/2152" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/11/18/2152</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airborne LiDAR Reveals a Vast Archaeological Landscape at the Nan Madol World Heritage Site | MDPISeptember 16, 2019...</p></details>
    Published: September 16, 2019  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: What Have We Learned About Nan Madol? | Ep.18  
-   Link: [https://www.youtube.com/watch?v=P4s_QihEf9E](https://www.youtube.com/watch?v=P4s_QihEf9E)  
+   Link: <a href="https://www.youtube.com/watch?v=P4s_QihEf9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P4s_QihEf9E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 I Watched Ancient Apocalypse So You Don&#x27;t Have To (Part 1)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: I Watched Ancient Apocalypse So You Don't Have To (Part 1)  
-   Link: [https://www.youtube.com/watch?v=-iCIZQX9i1A](https://www.youtube.com/watch?v=-iCIZQX9i1A)  
+   Link: <a href="https://www.youtube.com/watch?v=-iCIZQX9i1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-iCIZQX9i1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Marine Archaeology Is Rewriting Nan Madol&#x27;s Mysterious Ruins...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Marine Archaeology Is Rewriting Nan Madol's Mysterious Ruins  
-   Link: [https://www.youtube.com/watch?v=qxPaYCHBD4Y](https://www.youtube.com/watch?v=qxPaYCHBD4Y)  
+   Link: <a href="https://www.youtube.com/watch?v=qxPaYCHBD4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qxPaYCHBD4Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Debunking the New &quot;Ancient Aliens: Origins&quot; Part 2 | Miniminuteman | The Chill Zone Reacts...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vdLwl7MjsX0](https://www.youtube.com/watch?v=vdLwl7MjsX0)  
+   Link: <a href="https://www.youtube.com/watch?v=vdLwl7MjsX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vdLwl7MjsX0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Ancient Aliens: Decoding the Strange ALIEN Secrets of Nan Madol | History...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nps.gov  
    Title: National Park Service Nan Madol (U.S. National Park Service)  
-   Link: [https://www.nps.gov/places/nan-madol.htm](https://www.nps.gov/places/nan-madol.htm)  
+   Link: <a href="https://www.nps.gov/places/nan-madol.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/places/nan-madol.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceNan Madol (U.S. National Park Service)January 6, 2020...</p></details>
    Published: January 6, 2020  
 
 15. <a id="endnote-15"></a>
    Source: metmuseum.org  
    Title: Jennifer Wagelie  
-   Link: [https://www.metmuseum.org/en/essays/nan-madol](https://www.metmuseum.org/en/essays/nan-madol)  
+   Link: <a href="https://www.metmuseum.org/en/essays/nan-madol" target="_blank" rel="noopener noreferrer nofollow">https://www.metmuseum.org/en/essays/nan-madol</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nan Madol - The Metropolitan Museum of ArtOctober 1, 2002 — NAN MADOL The highly stratified social system at Nan Madol is the earliest kn...</p></details>
    Published: October 1, 2002  
 
 16. <a id="endnote-16"></a>
    Source: megalithicbuilders.com  
    Title: Nan Madol  
-   Link: [https://www.megalithicbuilders.com/asia/micronesia/pohnpei-nan-madol/nan-madol-pohnpei-micronesia](https://www.megalithicbuilders.com/asia/micronesia/pohnpei-nan-madol/nan-madol-pohnpei-micronesia)  
+   Link: <a href="https://www.megalithicbuilders.com/asia/micronesia/pohnpei-nan-madol/nan-madol-pohnpei-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.megalithicbuilders.com/asia/micronesia/pohnpei-nan-madol/nan-madol-pohnpei-micronesia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pohnpei, MicronesiaHISTORICAL TIMELINE ORIGINS AND EARLY CONSTRUCTION (10TH–12TH CENTURIES) Image: Nan Madol Pohnpei MicronesiaArchaeolog...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pages.uoregon.edu  
    Title: Nan Madol  
-   Link: [https://pages.uoregon.edu/wsayres/pohnpei/NanMadol.html](https://pages.uoregon.edu/wsayres/pohnpei/NanMadol.html)  
+   Link: <a href="https://pages.uoregon.edu/wsayres/pohnpei/NanMadol.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.uoregon.edu/wsayres/pohnpei/NanMadol.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MadolNan Madol, Madolenihmw, Pohnpei * * * | View of Nan Madol islet complex. Computer based reconstruction of main islets and features...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/quaternary-research/article/earliest-direct-evidence-of-monument-building-at-the-archaeological-site-of-nan-madol-pohnpei-micronesia-identified-using-230thu-coral-dating-and-geochemical-sourcing-of-megalithic-architectural-stone/0338E86D312973BA0B32D56A5D297FAF](https://www.cambridge.org/core/journals/quaternary-research/article/earliest-direct-evidence-of-monument-building-at-the-archaeological-site-of-nan-madol-pohnpei-micronesia-identified-using-230thu-coral-dating-and-geochemical-sourcing-of-megalithic-architectural-stone/0338E86D312973BA0B32D56A5D297FAF)  
+   Link: <a href="https://www.cambridge.org/core/journals/quaternary-research/article/earliest-direct-evidence-of-monument-building-at-the-archaeological-site-of-nan-madol-pohnpei-micronesia-identified-using-230thu-coral-dating-and-geochemical-sourcing-of-megalithic-architectural-stone/0338E86D312973BA0B32D56A5D297FAF" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/quaternary-research/article/earliest-direct-evidence-of-monument-building-at-the-archaeological-site-of-nan-madol-pohnpei-micronesia-identified-using-230thu-coral-dating-and-geochemical-sourcing-of-megalithic-architectural-stone/0338E86D312973BA0B32D56A5D297FAF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l dating and geochemical sourcing of megalithic architectural stone | Quaternary Research | Cambridge CoreJanuary 20, 2017 — EARLIEST DIR...</p></details>
    Published: January 20, 2017  
 
 19. <a id="endnote-19"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/items/d7185280-e420-4b9a-8812-3eef59317d31](https://www.repository.cam.ac.uk/items/d7185280-e420-4b9a-8812-3eef59317d31)  
+   Link: <a href="https://www.repository.cam.ac.uk/items/d7185280-e420-4b9a-8812-3eef59317d31" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/d7185280-e420-4b9a-8812-3eef59317d31</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using Th-230/U coral dating...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: experts.umn.edu  
    Title: earliest direct evidence of monument building at the archaeologic  
-   Link: [https://experts.umn.edu/en/publications/earliest-direct-evidence-of-monument-building-at-the-archaeologic](https://experts.umn.edu/en/publications/earliest-direct-evidence-of-monument-building-at-the-archaeologic)  
+   Link: <a href="https://experts.umn.edu/en/publications/earliest-direct-evidence-of-monument-building-at-the-archaeologic" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/earliest-direct-evidence-of-monument-building-at-the-archaeologic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>direct evidence of monument building at the archaeological site of Nan Madol (Pohnpei, Micronesia) identified using &gt;230&gt;Th/U coral datin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: arstechnica.com  
    Title: enigmatic canal filled ruins may have been above water when built  
-   Link: [https://arstechnica.com/science/2022/12/enigmatic-canal-filled-ruins-may-have-been-above-water-when-built/](https://arstechnica.com/science/2022/12/enigmatic-canal-filled-ruins-may-have-been-above-water-when-built/)  
+   Link: <a href="https://arstechnica.com/science/2022/12/enigmatic-canal-filled-ruins-may-have-been-above-water-when-built/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2022/12/enigmatic-canal-filled-ruins-may-have-been-above-water-when-built/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigmatic canal-filled ruins may have been above water when built - Ars TechnicaDecember 21, 2022 — That sinking feeling ENIGMATIC CANAL...</p></details>
    Published: December 21, 2022  
 
 22. <a id="endnote-22"></a>
    Source: smithsonianmag.com  
    Title: Nan Madol: The City Built on Coral Reefs  
-   Link: [https://www.smithsonianmag.com/history/nan-madol-the-city-built-on-coral-reefs-147288758/](https://www.smithsonianmag.com/history/nan-madol-the-city-built-on-coral-reefs-147288758/)  
+   Link: <a href="https://www.smithsonianmag.com/history/nan-madol-the-city-built-on-coral-reefs-147288758/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/nan-madol-the-city-built-on-coral-reefs-147288758/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 3, 2009 — NAN MADOL: THE CITY BUILT ON CORAL REEFS ONE OF THE OLDEST ARCHAEOLOGICAL SITES NOT ON A HERITAGE LIST, THIS PACIFIC S...</p></details>
    Published: November 3, 2009  
 
 23. <a id="endnote-23"></a>
    Source: iarii.org  
    Title: Stephen Athens, Ph.D. Investigations  
-   Link: [https://iarii.org/research/monumental-architecture-of-nan-madol/](https://iarii.org/research/monumental-architecture-of-nan-madol/)  
+   Link: <a href="https://iarii.org/research/monumental-architecture-of-nan-madol/" target="_blank" rel="noopener noreferrer nofollow">https://iarii.org/research/monumental-architecture-of-nan-madol/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monumental Architecture of Nan Madol – IARII (International Archaeological Research Institute, Inc.)MONUMENTAL ARCHITECTURE OF NAN MADOL...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hpo.pohnpeistate.gov.fm  
    Title: nan madol site  
-   Link: [https://hpo.pohnpeistate.gov.fm/nan-madol-site/](https://hpo.pohnpeistate.gov.fm/nan-madol-site/)  
+   Link: <a href="https://hpo.pohnpeistate.gov.fm/nan-madol-site/" target="_blank" rel="noopener noreferrer nofollow">https://hpo.pohnpeistate.gov.fm/nan-madol-site/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Madol Site – Pohnpei State Historic Preservation OfficeNAN MADOL SITE Nan Madol is an archaeological site and a national historic landmar...</p></details>

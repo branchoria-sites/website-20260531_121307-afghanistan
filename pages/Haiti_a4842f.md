@@ -1185,7 +1185,7 @@ next_link:
   title: Kuwait UAP
   permalink: /what-really-happened-in-kuwaits-ufo/
   short_title: Kuwait UAP
-date: '2026-06-09 01:29:12 '
+date: '2026-06-10 01:54:31 '
 header:
   og_image: /assets/images/Haiti_a4842f-overview-social.jpg
   preview_image: /assets/images/Haiti_a4842f-overview.webp
@@ -1310,86 +1310,44 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Haiti&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Haiti&#x27;s UFO Record?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how sightings are evaluated and categorised.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Provides context for military-era cases like Haiti&#x27;s Blue Book file.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on stronger documented cases and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for examining witness reports, folklore and disputed claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1423,75 +1381,71 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien ReAction Figure Xenomorph 4.5â€� Super7 Carded Horror Collectible"><img src="{{ '/assets/images/marketplace-covers/85fb37b1cada82644d30.jpg' | relative_url }}" alt="Listing image for Alien ReAction Figure Xenomorph 4.5â€� Super7 Carded Horror Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien ReAction Figure Xenomorph 4.5â€� Super7 Carded Horror Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Predator Style Alien Hunter â€“ Large 3D Printed Collectible Figure â€“ PLA+"><img src="{{ '/assets/images/marketplace-covers/a1fa8aa8a762971e3ca8.jpg' | relative_url }}" alt="Listing image for Predator Style Alien Hunter â€“ Large 3D Printed Collectible Figure â€“ PLA+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Predator Style Alien Hunter â€“ Large 3D Printed Collectible Figure â€“ PLA+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Action Figure Red Xenomorph Collectible Vintage Toy"><img src="{{ '/assets/images/marketplace-covers/221948472b8900f94ac2.jpg' | relative_url }}" alt="Listing image for Alien Action Figure Red Xenomorph Collectible Vintage Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Action Figure Red Xenomorph Collectible Vintage Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haitis-ufo-what-really-happened-in-haiti-s-ufo-record-haiti-ufo-poster-book-books-series-televis&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1705,201 +1659,201 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
 
 1. <a id="endnote-1"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/13488](https://bluebookfiles.org/doc/13488)  
+   Link: <a href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/13488</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Haiti  
-   Link: [https://nuforc.org/subndx/?id=cHaiti](https://nuforc.org/subndx/?id=cHaiti)  
+   Link: <a href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cHaiti</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 4. <a id="endnote-4"></a>
    Source: cmns.umd.edu  
-   Link: [https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti](https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti)  
+   Link: <a href="https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti" target="_blank" rel="noopener noreferrer nofollow">https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: files.bluebookfiles.org  
-   Link: [https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf](https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=80468](https://nuforc.org/sighting/?id=80468)  
+   Link: <a href="https://nuforc.org/sighting/?id=80468" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80468</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=52646](https://nuforc.org/sighting/?id=52646)  
+   Link: <a href="https://nuforc.org/sighting/?id=52646" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52646</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=52674](https://nuforc.org/sighting/?id=52674)  
+   Link: <a href="https://nuforc.org/sighting/?id=52674" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52674</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=133754](https://nuforc.org/sighting/?id=133754)  
+   Link: <a href="https://nuforc.org/sighting/?id=133754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133754</a>  
 
 11. <a id="endnote-11"></a>
    Source: snopes.com  
    Title: ufos over haiti  
-   Link: [https://www.snopes.com/fact-check/ufos-over-haiti/](https://www.snopes.com/fact-check/ufos-over-haiti/)  
+   Link: <a href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufos-over-haiti/</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: [https://www.faa.gov/newsroom/statements/general-statements](https://www.faa.gov/newsroom/statements/general-statements)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: us faa extends haiti capital flight restrictions until march 2026 2025 09 05  
-   Link: [https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/](https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/</a>  
    Published: march 2026  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/still-pictures-342](https://www.archives.gov/research/topics/uaps/still-pictures-342)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: lp gwb ndc foia log 2014 2022 redacted  
-   Link: [https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf](https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: [https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf](https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt](https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt)  
+   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
    Title: 1962 08 8723210 Port au Prince Haiti  
-   Link: [https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti](https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti)  
+   Link: <a href="https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti</a>  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/bluebook/1960s.zip/](https://archive.org/download/bluebook/1960s.zip/)  
+   Link: <a href="https://archive.org/download/bluebook/1960s.zip/" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bluebook/1960s.zip/</a>  
 
 23. <a id="endnote-23"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt](https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt)  
+   Link: <a href="https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt</a>  
 
 24. <a id="endnote-24"></a>
    Source: jpl.nasa.gov  
    Title: pia12498 aster captures clear sky image of haiti earthquake region  
-   Link: [https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/](https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/)  
+   Link: <a href="https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/</a>  
 
 25. <a id="endnote-25"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 26. <a id="endnote-26"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 28. <a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 29. <a id="endnote-29"></a>
    Source: latimes.com  
    Title: la xpm 2007 aug 22 et ufo22 story  
-   Link: [https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html](https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: mysterioustimes.co.uk  
    Title: Mysterious Times August – Today in UFO history  
-   Link: [https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/](https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/)  
+   Link: <a href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Barzolff](https://en.wikipedia.org/wiki/Barzolff)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barzolff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barzolff</a>  
 
 33. <a id="endnote-33"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 34. <a id="endnote-34"></a>
    Source: netflix.com  
-   Link: [https://www.netflix.com/ht/title/81018709](https://www.netflix.com/ht/title/81018709)  
+   Link: <a href="https://www.netflix.com/ht/title/81018709" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/ht/title/81018709</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: 4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History  
-   Link: [https://www.youtube.com/watch?v=RmwukR8_4v8](https://www.youtube.com/watch?v=RmwukR8_4v8)  
+   Link: <a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmwukR8_4v8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, drones, mystery sightings: What government reports, NASA, and investigators say...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jZHy9ASOj8w](https://www.youtube.com/watch?v=jZHy9ASOj8w)  
+   Link: <a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jZHy9ASOj8w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Interview USAF (1966)...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/](https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/)  
+   Link: <a href="https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/</a>  
 
 39. <a id="endnote-39"></a>
    Source: watchmojo.com  
-   Link: [https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes](https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes)  
+   Link: <a href="https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/](https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/)  
+   Link: <a href="https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/</a>  
 
 41. <a id="endnote-41"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/852968363/23-F-0922-4](https://www.scribd.com/document/852968363/23-F-0922-4)  
+   Link: <a href="https://www.scribd.com/document/852968363/23-F-0922-4" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852968363/23-F-0922-4</a>  
 
 42. <a id="endnote-42"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alien-hoaxes-that-went-viral](https://spyscape.com/article/alien-hoaxes-that-went-viral)  
+   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
 44. <a id="endnote-44"></a>
    Source: excellencerhum.com  
-   Link: [https://www.excellencerhum.com/en/283-rum?page=132](https://www.excellencerhum.com/en/283-rum?page=132)  
+   Link: <a href="https://www.excellencerhum.com/en/283-rum?page=132" target="_blank" rel="noopener noreferrer nofollow">https://www.excellencerhum.com/en/283-rum?page=132</a>  

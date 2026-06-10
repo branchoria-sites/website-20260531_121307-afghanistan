@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nigeria-9742d0-index/
 description: Focused pages that expand on What Do Nigeria's UFO Reports Really Show?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Nigeria_9742d0
 parent_title: What Do Nigeria's UFO Reports Really Show?

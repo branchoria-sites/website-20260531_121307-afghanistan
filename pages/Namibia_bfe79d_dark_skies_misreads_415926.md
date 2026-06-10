@@ -245,7 +245,7 @@ next_link:
   permalink: /space-ball/
   short_title: Space Ball
   heading_title: Was Namibia's Space Ball Really From Space?
-date: '2026-06-09 01:43:55 '
+date: '2026-06-10 02:11:36 '
 header:
   og_image: /assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-social.jpg
   preview_image: /assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-s
 
 ## Introduction
 
-[Namibia]({{ 'what-is-really-behind-namibias-ufo/' | relative_url }})’s UFO stories often sound more convincing because the country offers some of the clearest night-sky conditions on Earth. Vast desert horizons, extremely low light pollution, dry air, and sparse settlement make stars, satellites, meteors, planets, and distant aircraft appear unusually bright and dramatic. In many parts of the world, these objects are softened by haze, city glow, or obstructed horizons. In Namibia, they can appear startlingly vivid, creating the impression that something extraordinary is happening overhead.
+Namibia’s UFO stories often sound more convincing because the country offers some of the clearest night-sky conditions on Earth. Vast desert horizons, extremely low light pollution, dry air, and sparse settlement make stars, satellites, meteors, planets, and distant aircraft appear unusually bright and dramatic. In many parts of the world, these objects are softened by haze, city glow, or obstructed horizons. In Namibia, they can appear startlingly vivid, creating the impression that something extraordinary is happening overhead.
 
 
 <img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-dark.svg" | relative_url }}" alt="Dark Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -316,7 +316,7 @@ A witness seeing an unusually bright object rising or setting may reasonably con
 
 Many famous UFO reports worldwide occur in isolated environments at night. Namibia's deserts naturally create those conditions.
 
-In a city, a strange light is one unusual stimulus among many. In a silent desert landscape, the same light can become the dominant feature of the entire environment. Witnesses often describe feelings of awe, unease, or astonishment when viewing the night sky under pristine conditions. Those emotional reactions are genuine, but they can influence how an event is remembered and described afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/space/comments/1n4l4uu/180_degree_view_from_namibia_one_of_the_darkest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit180 degree view from Namibia, one of the darkest skies in...August 31, 2025 — The sky is roughly 42 minutes of exposure time, and...</span><span class="citation-popover-meta">Published: August 31, 2025</span></span></span>
+In a city, a strange light is one unusual stimulus among many. In a silent desert landscape, the same light can become the dominant feature of the entire environment. Witnesses often describe feelings of awe, unease, or astonishment when viewing the night sky under pristine conditions. Those emotional reactions are genuine, but they can influence how an event is remembered and described afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/space/comments/1n4l4uu/180_degree_view_from_namibia_one_of_the_darkest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">180 degree view from Namibia, one of the darkest skies in...August 31, 2025 — The sky is roughly 42 minutes of exposure time, and...</span><span class="citation-popover-meta">Published: August 31, 2025</span></span></span>
 
 ## Common Objects Seen in Pristine Darkness
 
@@ -326,7 +326,7 @@ Most unexplained lights reported in Namibia fit categories that astronomers, sat
 
 Under dark Namibian skies, satellites are often visible to the naked eye as steady moving points of light. They usually travel smoothly across the sky without blinking.
 
-Because observers may not expect to see so many satellites, they can be mistaken for controlled craft. Modern satellite constellations have increased the number of visible objects in orbit, particularly during the hours after sunset and before sunrise. Astronomical studies note that numerous satellites can be visible from dark locations under suitable lighting conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOn the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</span></span></span>
+Because observers may not expect to see so many satellites, they can be mistaken for controlled craft. Modern satellite constellations have increased the number of visible objects in orbit, particularly during the hours after sunset and before sunrise. Astronomical studies note that numerous satellites can be visible from dark locations under suitable lighting conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</span></span></span>
 
 Common clues that an object is a satellite include:
 
@@ -365,7 +365,7 @@ Witnesses frequently interpret these events as crashing spacecraft or unusual ae
 
 One of the most useful Namibian examples involves the so-called "[space ball]({{ 'space-ball/' | relative_url }})" discovered in northern Namibia in 2011.
 
-The metallic sphere attracted international attention because it appeared mysterious and initially lacked a clear explanation. However, investigators quickly focused on a far more ordinary possibility: space debris from a rocket or satellite system. Reports described a hollow welded metal sphere consistent with pressure vessels used in aerospace hardware rather than anything suggesting an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theworld.org">[The World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theworld.org</span><span class="citation-popover-title">alien space ball drops namibian grassland nasa alerted video</span><span class="citation-popover-snippet">The World from PRX&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Spa...</span></span></span> from PRX
+The metallic sphere attracted international attention because it appeared mysterious and initially lacked a clear explanation. However, investigators quickly focused on a far more ordinary possibility: space debris from a rocket or satellite system. Reports described a hollow welded metal sphere consistent with pressure vessels used in aerospace hardware rather than anything suggesting an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theworld.org">[The World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theworld.org</span><span class="citation-popover-title">alien space ball drops namibian grassland nasa alerted video</span><span class="citation-popover-snippet">The World from PRX&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Spa...</span></span></span> from PRX
 
 This case illustrates an important distinction. An object can be genuinely unidentified at first without being evidence of extraterrestrial technology.
 
@@ -452,86 +452,44 @@ The lesson is not that every sighting is mistaken. Rather, Namibia demonstrates 
 In that sense, Namibia's deserts function almost like a natural laboratory. They reveal how satellites, meteors, planets, atmospheric effects, and occasional space debris can appear astonishingly unusual when viewed under some of the darkest skies on Earth. The result is a setting where UFO reports feel especially persuasive even when the underlying cause is ultimately terrestrial or astronomical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrfhideout.com/astronomy-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrfhideout.com">[nrfhideout.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrfhideout.com</span><span class="citation-popover-snippet">AstronomyNamibia is famous in astronomy circles as being an excellent location for viewing the night sky. In part this is because it is c...</span></span></span> 3namibrand.com <span class="citation-chip-wrap"><a class="citation-chip" href="https://nadeet.org/international-dark-sky-reserve" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nadeet.org">[3nadeet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nadeet.org</span><span class="citation-popover-snippet">International Dark Sky ReserveDue to minimal light interference and lack of water moisture, the NamibRand Nature Reserve (NRNR) offers on...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Dark Skies Make UFOs More Convincing. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Dark Skies Make UFOs More Convincing, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains observation and identification challenges central to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a benchmark for comparing extraordinary claims with documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers identify stars, planets, satellites, and other common sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Shows how ordinary celestial objects can appear dramatic under dark skies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -565,59 +523,71 @@ In that sense, Namibia's deserts function almost like a natural laboratory. They
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="https://i.ebayimg.com/images/g/Lv0AAeSwAehpCnKm/s-l225.jpg" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="https://i.ebayimg.com/images/g/ARYAAeSwHpZpCoPf/s-l225.jpg" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="https://i.ebayimg.com/images/g/aykAAOSwi~plwBNt/s-l225.jpg" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dark-skies-make-ufos-more-convincing-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="when-dark-skies-make-ufos-more-convincing-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-when-dark-skies-make-ufos-more-convincing-namibia-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -831,118 +801,118 @@ In that sense, Namibia's deserts function almost like a natural laboratory. They
 
 1. <a id="endnote-1"></a>
    Source: namibrand.com  
-   Link: [https://www.namibrand.com/dark-sky.html](https://www.namibrand.com/dark-sky.html)  
+   Link: <a href="https://www.namibrand.com/dark-sky.html" target="_blank" rel="noopener noreferrer nofollow">https://www.namibrand.com/dark-sky.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark SkyThe NamibRand Nature Reserve has been designated a Gold Tier International Dark Sky Reserve by the International Darks Sky Associ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: darksky.org  
    Title: namibrand dark sky reserve  
-   Link: [https://darksky.org/places/namibrand-dark-sky-reserve/](https://darksky.org/places/namibrand-dark-sky-reserve/)  
+   Link: <a href="https://darksky.org/places/namibrand-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/namibrand-dark-sky-reserve/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DarkSky InternationalNamibRand Nature Reserve24 Apr 2015 — Namibiaʼs NamibRand Nature Reserve, one of Africaʼs largest private nature res...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nadeet.org  
-   Link: [https://nadeet.org/international-dark-sky-reserve](https://nadeet.org/international-dark-sky-reserve)  
+   Link: <a href="https://nadeet.org/international-dark-sky-reserve" target="_blank" rel="noopener noreferrer nofollow">https://nadeet.org/international-dark-sky-reserve</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Dark Sky ReserveDue to minimal light interference and lack of water moisture, the NamibRand Nature Reserve (NRNR) offers on...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nrfhideout.com  
-   Link: [https://www.nrfhideout.com/astronomy-2/](https://www.nrfhideout.com/astronomy-2/)  
+   Link: <a href="https://www.nrfhideout.com/astronomy-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrfhideout.com/astronomy-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AstronomyNamibia is famous in astronomy circles as being an excellent location for viewing the night sky. In part this is because it is c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/1n4l4uu/180_degree_view_from_namibia_one_of_the_darkest/](https://www.reddit.com/r/space/comments/1n4l4uu/180_degree_view_from_namibia_one_of_the_darkest/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit180 degree view from Namibia, one of the darkest skies in...August 31, 2025 — The sky is roughly 42 minutes of exposure time, and...</p></details>
+   Link: <a href="https://www.reddit.com/r/space/comments/1n4l4uu/180_degree_view_from_namibia_one_of_the_darkest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1n4l4uu/180_degree_view_from_namibia_one_of_the_darkest/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>180 degree view from Namibia, one of the darkest skies in...August 31, 2025 — The sky is roughly 42 minutes of exposure time, and...</p></details>
    Published: August 31, 2025  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.01992](https://arxiv.org/abs/2003.01992)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOn the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</p></details>
+   Link: <a href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.01992</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.19722](https://arxiv.org/abs/2403.19722)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSatellite Visibility During the April 2024 Total Eclipse...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.19722" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.19722</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Visibility During the April 2024 Total Eclipse...</p></details>
    Published: April 2024  
 
 8. <a id="endnote-8"></a>
    Source: popastro.com  
    Title: meteor section reports 2008  
-   Link: [https://www.popastro.com/meteor/meteor-section-reports-2008/](https://www.popastro.com/meteor/meteor-section-reports-2008/)  
+   Link: <a href="https://www.popastro.com/meteor/meteor-section-reports-2008/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/meteor-section-reports-2008/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Shower Reports · Fireball Reports · Impact Events · Obituary. This page contains links to the SPA&#x27;s archived Electronic News...Re...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: 14028 namibia space ball orbital debris  
-   Link: [https://www.space.com/14028-namibia-space-ball-orbital-debris.html](https://www.space.com/14028-namibia-space-ball-orbital-debris.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</p></details>
+   Link: <a href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14028-namibia-space-ball-orbital-debris.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: namibrand.com  
-   Link: [https://www.namibrand.com/](https://www.namibrand.com/)  
+   Link: <a href="https://www.namibrand.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibrand.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The NamibRand Nature Reserve recognizes the importance and the value of keeping the night sky dark. The concept ties in well with our...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theworld.org  
    Title: alien space ball drops namibian grassland nasa alerted video  
-   Link: [https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video](https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video)  
+   Link: <a href="https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The World from PRX&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Spa...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: flyedelweiss.com  
-   Link: [https://www.flyedelweiss.com/us/en/destinations/windhoek/tips-stargazing.html](https://www.flyedelweiss.com/us/en/destinations/windhoek/tips-stargazing.html)  
+   Link: <a href="https://www.flyedelweiss.com/us/en/destinations/windhoek/tips-stargazing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.flyedelweiss.com/us/en/destinations/windhoek/tips-stargazing.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EdelweissThe best places for stargazing in NamibiaAfrica&#x27;s first International Dark Sky Reserve is located in southern Namibia. There are...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wolwedans.com  
-   Link: [https://www.wolwedans.com/namibrand/namibrand-nature-reserve-is-africas-only-international-dark-sky-reserve/](https://www.wolwedans.com/namibrand/namibrand-nature-reserve-is-africas-only-international-dark-sky-reserve/)  
+   Link: <a href="https://www.wolwedans.com/namibrand/namibrand-nature-reserve-is-africas-only-international-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://www.wolwedans.com/namibrand/namibrand-nature-reserve-is-africas-only-international-dark-sky-reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NamibRand is Africa&#x27;s only International Dark Sky ReserveNamibia&#x27;s NamibRand Nature Reserve, one of Africa&#x27;s largest private nature reser...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arideden.org  
-   Link: [https://www.arideden.org/commerce/wolwedans-collection/star-beds](https://www.arideden.org/commerce/wolwedans-collection/star-beds)  
+   Link: <a href="https://www.arideden.org/commerce/wolwedans-collection/star-beds" target="_blank" rel="noopener noreferrer nofollow">https://www.arideden.org/commerce/wolwedans-collection/star-beds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarbedsNamibia is renowned for its ideal star-gazing conditions – and nowhere more so than NamibRand Nature Reserve, which is actually t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: desert-tracks.com  
    Title: namib desert night sky stargazing in the namibrand nature reserve  
-   Link: [https://desert-tracks.com/travel-guide/namib-desert-night-sky-stargazing-in-the-namibrand-nature-reserve/](https://desert-tracks.com/travel-guide/namib-desert-night-sky-stargazing-in-the-namibrand-nature-reserve/)  
+   Link: <a href="https://desert-tracks.com/travel-guide/namib-desert-night-sky-stargazing-in-the-namibrand-nature-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://desert-tracks.com/travel-guide/namib-desert-night-sky-stargazing-in-the-namibrand-nature-reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Namib Desert Night Sky Stargazing in the NamibRand...9 Nov 2024 — The NamibRand Nature Reserve, a Gold Tier International Dark Sky Reser...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: quietparks.org  
    Title: Quiet Parks International The Namib Rand Nature Reserve, Namibia  
-   Link: [https://www.quietparks.org/the-namibrand-nature-reserve-namibia-africas-first-wilderness-quiet-park](https://www.quietparks.org/the-namibrand-nature-reserve-namibia-africas-first-wilderness-quiet-park)  
+   Link: <a href="https://www.quietparks.org/the-namibrand-nature-reserve-namibia-africas-first-wilderness-quiet-park" target="_blank" rel="noopener noreferrer nofollow">https://www.quietparks.org/the-namibrand-nature-reserve-namibia-africas-first-wilderness-quiet-park</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quiet Parks InternationalThe NamibRand Nature Reserve, Namibia - Africa&#x27;s First...In May 2012, the International Dark Sky Association de...</p></details>
    Published: May 2012  
 
 17. <a id="endnote-17"></a>
    Source: naturalworldsafaris.com  
-   Link: [https://www.naturalworldsafaris.com/africa/namibia/stories-and-inspiration/stargazing-in-namibia](https://www.naturalworldsafaris.com/africa/namibia/stories-and-inspiration/stargazing-in-namibia)  
+   Link: <a href="https://www.naturalworldsafaris.com/africa/namibia/stories-and-inspiration/stargazing-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalworldsafaris.com/africa/namibia/stories-and-inspiration/stargazing-in-namibia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazing in NamibiaNamibia is home to some of the darkest and clearest night skies on Earth, offering a world-class stargazing experien...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: namibian.com.na  
    Title: when space touches earth the meteorite that refuses to get hot  
-   Link: [https://www.namibian.com.na/when-space-touches-earth-the-meteorite-that-refuses-to-get-hot/](https://www.namibian.com.na/when-space-touches-earth-the-meteorite-that-refuses-to-get-hot/)  
+   Link: <a href="https://www.namibian.com.na/when-space-touches-earth-the-meteorite-that-refuses-to-get-hot/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibian.com.na/when-space-touches-earth-the-meteorite-that-refuses-to-get-hot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When space touches Earth: The meteorite that refuses to...4 Dec 2025 — On a scorching summer afternoon at Grootfontein, Namibia, a curio...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/](https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/)  
+   Link: <a href="https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ted the undivided attention of a number of residents late on Thursday afternoon.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: alpha-lyrae.co.uk  
    Title: stargazing in the namibrand nature reserve part 1  
-   Link: [https://alpha-lyrae.co.uk/2016/10/16/stargazing-in-the-namibrand-nature-reserve-part-1/](https://alpha-lyrae.co.uk/2016/10/16/stargazing-in-the-namibrand-nature-reserve-part-1/)  
+   Link: <a href="https://alpha-lyrae.co.uk/2016/10/16/stargazing-in-the-namibrand-nature-reserve-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://alpha-lyrae.co.uk/2016/10/16/stargazing-in-the-namibrand-nature-reserve-part-1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2016 — Not only is just about naked eye visible under a dark sky if you know where to look and hence one of the brightest galaxies...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/Attraction_Review-g293821-d478180-Reviews-NamibRand_Nature_Reserve-Windhoek_Khomas_Region.html](https://www.tripadvisor.com/Attraction_Review-g293821-d478180-Reviews-NamibRand_Nature_Reserve-Windhoek_Khomas_Region.html)  
+   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g293821-d478180-Reviews-NamibRand_Nature_Reserve-Windhoek_Khomas_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g293821-d478180-Reviews-NamibRand_Nature_Reserve-Windhoek_Khomas_Region.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is utterly beautiful, and the solitude is a deeply spiritual...Read more...</p></details>

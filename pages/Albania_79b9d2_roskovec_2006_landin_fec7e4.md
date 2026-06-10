@@ -239,7 +239,7 @@ prev_link:
   permalink: /post-1990-sightings/
   short_title: Post 1990 Sightings
   heading_title: What Are the Most Documented Albanian UFO Events Since 1990?
-date: '2026-06-09 01:10:02 '
+date: '2026-06-10 01:34:58 '
 header:
   og_image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-social.jpg
   preview_image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1.webp
@@ -323,86 +323,44 @@ In sum, the Roskovec 2006 incident stands as a **local cultural report of an all
 As with many such UFO landing narratives, the Roskovec case illustrates the gap between **vivid personal testimony and corroborated empirical evidence**. Without independent documentation from the time of the event, contemporaneous measurements, or third‑party forensic reporting, the incident remains a **contested local claim rather than an established physical encounter**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did a UFO Land in Roskovec in 2006?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did a UFO Land in Roskovec in 2006?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains encounter categories and investigative approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides standards for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader context for recurring landing and witness traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -436,75 +394,71 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roskovec-2006-did-a-ufo-land-in-roskovec-in-2006-albania-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -719,86 +673,86 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Albania  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Albania](https://en.wikipedia.org/wiki/UFO_sightings_in_Albania)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Albania</a>  
 
 2. <a id="endnote-2"></a>
    Source: gazetaexpress.com  
-   Link: [https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/](https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/)  
+   Link: <a href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow">https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
    Title: Ufot ne toke  
-   Link: [http://www.youtube.com/watch?v=Wa-spCETGuk](http://www.youtube.com/watch?v=Wa-spCETGuk)  
+   Link: <a href="http://www.youtube.com/watch?v=Wa-spCETGuk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wa-spCETGuk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Albania - Documenting the Unexplained...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: UFO sightings in Albania  
-   Link: [http://www.youtube.com/watch?v=zR27tQ3y4Hk](http://www.youtube.com/watch?v=zR27tQ3y4Hk)  
+   Link: <a href="http://www.youtube.com/watch?v=zR27tQ3y4Hk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zR27tQ3y4Hk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Sightings and Witness Testimony...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: periskopi.com  
-   Link: [https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/](https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/)  
+   Link: <a href="https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/" target="_blank" rel="noopener noreferrer nofollow">https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesAuthor Ben Shehu, in the novel &quot;They Shouldn&#x27;t Know&quot; deals with many aspects of the arrival of UFOs and the landing of aliens i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: periskopi.com  
-   Link: [https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/](https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/)  
+   Link: <a href="https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesTHE UNEXPLAINED MYSTERIES THAT SHOCKED ALBANIANS, FROM UFOS TO GHOSTS (PHOTO) Image: The unexplained mysteries that shocked Alb...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: koha.net  
    Title: UF Os in Albania under the surveillance of the State Security since the 60s  
-   Link: [https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60](https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60)  
+   Link: <a href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Albania under the surveillance of the State Security since the 60s - KOHA.netMarch 2, 2017 — The Albanian officer even learns fro...</p></details>
    Published: March 2, 2017  
 
 8. <a id="endnote-8"></a>
    Source: voxnews.al  
    Title: ufo ne roskovec fotografi nxjerr pamjet femija qe e pa u tramuatizua i48451  
-   Link: [https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451](https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451)  
+   Link: <a href="https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451" target="_blank" rel="noopener noreferrer nofollow">https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Roskovec, photographer reveals footage: Child who saw him was traumatized for six months, said he was a......September 17, 2023 —...</p></details>
    Published: September 17, 2023  
 
 9. <a id="endnote-9"></a>
    Source: alb365.com  
    Title: Ngjarja shqiptare e pashpjeguar: UFO në Roskovec  
-   Link: [https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/](https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/)  
+   Link: <a href="https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/" target="_blank" rel="noopener noreferrer nofollow">https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alb365 NEWSMay 18, 2022 — NGJARJA SHQIPTARE E PASHPJEGUAR: UFO NË ROSKOVEC alb365 May 18, 2022 0 52 3 minutes read Image: Ufo1 Në një koh...</p></details>
    Published: May 18, 2022  
 
 10. <a id="endnote-10"></a>
    Source: alfapress.al  
    Title: The strangest mysteries in Albania  
-   Link: [https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870](https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870)  
+   Link: <a href="https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870" target="_blank" rel="noopener noreferrer nofollow">https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MISTERE&amp;KURIOZITETEJune 15, 2022 — THE STRANGEST MYSTERIES IN ALBANIA Image 2022-06-15 14:42:14 / MISTERE&amp;KURIOZITETE ALFA PRESS Image: T...</p></details>
    Published: June 15, 2022  
 
 11. <a id="endnote-11"></a>
    Source: gazetadita.al  
    Title: UF O në Roskovec?!  
-   Link: [https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/](https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/)  
+   Link: <a href="https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/" target="_blank" rel="noopener noreferrer nofollow">https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit fotografi, tregon ngjarjen e vitit 2006 dhe nxjerr pamjet - Gazeta DitaSeptember 18, 2023 — UFO NË ROSKOVEC?! HABIT FOTOGRAFI, TREG...</p></details>
    Published: September 18, 2023  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Investigating UAP Sightings and Witness Testimony  
-   Link: [http://www.youtube.com/watch?v=F31086Qv5yU](http://www.youtube.com/watch?v=F31086Qv5yU)  
+   Link: <a href="http://www.youtube.com/watch?v=F31086Qv5yU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F31086Qv5yU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident Roskovec 2006 Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006) RTV KLAN...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre  
-   Link: [http://www.youtube.com/watch?v=-Ly7HZwNI3U](http://www.youtube.com/watch?v=-Ly7HZwNI3U)  
+   Link: <a href="http://www.youtube.com/watch?v=-Ly7HZwNI3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-Ly7HZwNI3U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A janë ulur UFO-t në Roskovec?! Dëshmia tronditëse e fotografit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=52006](https://nuforc.org/sighting/?id=52006)  
+   Link: <a href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 52006October 30, 2006 — NUFORC UFO SIGHTING 52006 Occurred: 2006-08-13 23:30 Local (8.13.2006) Reported: 2006-08-13 1...</p></details>
    Published: August 13, 2006  

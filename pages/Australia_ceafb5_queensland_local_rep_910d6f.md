@@ -245,7 +245,7 @@ next_link:
   permalink: /valentich/
   short_title: Valentich
   heading_title: 'The Valentich Case: UFO Mystery or Aviation Tragedy?'
-date: '2026-06-09 01:13:51 '
+date: '2026-06-10 01:39:14 '
 header:
   og_image: /assets/images/Australia_ceafb5_queensland_local_rep_910d6f-Illustration-1-social.jpg
   preview_image: /assets/images/Australia_ceafb5_queensland_local_rep_910d6f-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Australia_ceafb5_queensland_local_rep_910d6f-Illustration-
 
 ## Introduction
 
-Queensland occupies a special place in [Australia]({{ 'what-really-happened-in-australias-ufo/' | relative_url }})’s UFO history because it combines two very different traditions of unexplained aerial phenomena. One is the classic mid-20th century “flying saucer” era, centred on the famous Tully saucer nest of 1966. The other is an ongoing stream of regional reports involving lights, glowing orbs, hovering objects and strange sky activity from places such as the Fraser Coast, Bundaberg and western Queensland.
+Queensland occupies a special place in Australia’s UFO history because it combines two very different traditions of unexplained aerial phenomena. One is the classic mid-20th century “flying saucer” era, centred on the famous Tully saucer nest of 1966. The other is an ongoing stream of regional reports involving lights, glowing orbs, hovering objects and strange sky activity from places such as the Fraser Coast, Bundaberg and western Queensland.
 
 
 <img src="{{ "/assets/images/Australia_ceafb5_queensland_local_rep_910d6f-Illustration-1-dark.svg" | relative_url }}" alt="Queensland illustration 1" data-theme-src-dark="{{ "/assets/images/Australia_ceafb5_queensland_local_rep_910d6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australia_ceafb5_queensland_local_rep_910d6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -370,7 +370,7 @@ For many residents and travellers, the lights feel uncanny because they occur in
 
 ### Scientific explanations versus mystery narratives
 
-Unlike many UFO cases, Min Min lights have attracted sustained scientific investigation. Research from the University of Queensland proposed that at least some sightings result from atmospheric refraction known as a Fata Morgana mirage, in which distant light sources become distorted by temperature inversions over hot ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">NewsUQ scientist unlocks secret of Min Min lights - UQ News27 Mar 2003 — “The Min Min light occurs when light, from a natural or man-made...</span></span></span>
+Unlike many UFO cases, Min Min lights have attracted sustained scientific investigation. Research from the University of Queensland proposed that at least some sightings result from atmospheric refraction known as a Fata Morgana mirage, in which distant light sources become distorted by temperature inversions over hot ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uq.edu.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uq.edu.au</span><span class="citation-popover-title">News UQ scientist unlocks secret of Min Min lights</span><span class="citation-popover-snippet">UQ scientist unlocks secret of Min Min lights - UQ News27 Mar 2003 — “The Min Min light occurs when light, from a natural or man-made...</span></span></span>
 
 This explanation fits several characteristics commonly reported by witnesses:
 
@@ -424,86 +424,44 @@ Over time, the distinction between verified event and regional legend often beco
 Queensland therefore occupies an unusual position within Australia’s broader UFO history. It is not simply a collection of unexplained sightings. It is a region where folklore, landscape, witness testimony and modern media repeatedly combine to keep UFO narratives alive across generations.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Queensland Keeps Producing UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Queensland Keeps Producing UFO Stories, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Places Queensland sightings within wider reporting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Matches discussion of local sightings and recurring reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Helps explain natural sky phenomena often reported as UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for understanding folklore, perception, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -537,75 +495,71 @@ Queensland therefore occupies an unusual position within Australia’s broader U
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie- UK7 Iron on Sew on Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/459edd979de57481c2bb.jpg' | relative_url }}" alt="Listing image for Alien Movie- UK7 Iron on Sew on Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Movie- UK7 Iron on Sew on Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Embroidery Patch Iron Or Sewn On"><img src="{{ '/assets/images/marketplace-covers/ebfabc2ced200bfb4958.jpg' | relative_url }}" alt="Listing image for Alien Space Embroidery Patch Iron Or Sewn On" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Embroidery Patch Iron Or Sewn On</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Crew Uniform Embroidered Iron On Patch. Size 100mm x 80mm."><img src="{{ '/assets/images/marketplace-covers/d164c7f41cb40643fe07.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Crew Uniform Embroidered Iron On Patch. Size 100mm x 80mm." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Crew Uniform Embroidered Iron On Patch. Size 100mm x 80mm.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge"><img src="{{ '/assets/images/marketplace-covers/2e8368c072143378fdb0.jpg' | relative_url }}" alt="Listing image for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="queensland-why-queensland-keeps-producing-ufo-stories-australia-alien-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=queensland-why-queensland-keeps-producing-ufo-stories-australia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -820,166 +774,166 @@ Queensland therefore occupies an unusual position within Australia’s broader U
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: [https://en.wikipedia.org/wiki/Crop_circle](https://en.wikipedia.org/wiki/Crop_circle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop circleThe most famous case is the 1966 Tully &quot;saucer nest&quot;, when a farmer said he witnessed a saucer-shaped craft rise 9 or 12 m...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: flickr.com  
    Title: Unidentifiable Flying Objects  
-   Link: [https://www.flickr.com/photos/queenslandstatearchives/50704411782](https://www.flickr.com/photos/queenslandstatearchives/50704411782)  
+   Link: <a href="https://www.flickr.com/photos/queenslandstatearchives/50704411782" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/queenslandstatearchives/50704411782</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer Nests are reported to have been found in the Tully district.... flattened in a clockwise direction and surrounded by healthy gree...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Min Min light  
-   Link: [https://en.wikipedia.org/wiki/Min_Min_light](https://en.wikipedia.org/wiki/Min_Min_light)  
+   Link: <a href="https://en.wikipedia.org/wiki/Min_Min_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Min_Min_light</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Min Min lightAnother district where Min Min lights are often reported is Yunta, South Australia, which is centred within a low-lying b...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: uforq.org  
    Title: UFO Research Queensland  
-   Link: [https://uforq.org/2000-2010/](https://uforq.org/2000-2010/)  
+   Link: <a href="https://uforq.org/2000-2010/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/2000-2010/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia2000 – 2009The pattern of sightings ran as follows: 2000 – 14 sighting reports; 2001 – 51 reports; 2002 – 85; 2003 – 64; 2004 –...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in Australia  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Australia](https://en.wikipedia.org/wiki/UFO_sightings_in_Australia)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Australia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Australia19 January 1966, a farmer from Tully, Queensland reported seeing a large saucer... &quot;The Tully Saucer Nest...</p></details>
    Published: January 1966  
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
    Title: Australian Flying Saucer Review 1966 11 no 9 UFOIC djvu.txt  
-   Link: [https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt](https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>turned brown in about three days. The Tully “nest” reeds died and turned brown within one day, or more precisely, in about 12 hours. Repe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: australiangeographic.com.au  
    Title: saucer serial hysteria the case of the tully crop circle  
-   Link: [https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/](https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/)  
+   Link: <a href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicSaucer hysteria: The case of the Tully crop circle21 Sept 2020 — The Tully saucer nest heralded the start of the wor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: abc.net.au  
    Title: min min lights seen in outback  
-   Link: [https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058](https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058)  
+   Link: <a href="https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsThe mysterious phenomenon of Min Min lights29 Sept 2018 — The lights have been described by witnesses as floating, fast-moving ba...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: slq.qld.gov.au  
-   Link: [https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals](https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals)  
+   Link: <a href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicals2 Jul 2015 — They suggested it would take approxima...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: abc.net.au  
    Title: sugar cane farm ufo mystery expanse podcast series uncropped  
-   Link: [https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256](https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256)  
+   Link: <a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsTully&#x27;s cane farm crop circles and an enduring 58yo UFO...23 Nov 2024 — In 1966 a salt-of-the-earth banana farmer saw something...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: abc.net.au  
    Title: reporting on taboo topics of ufos and crop circles  
-   Link: [https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618](https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618)  
+   Link: <a href="https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-12-16/reporting-on-taboo-topics-of-ufos-and-crop-circles/104711618</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That sighting set off a chain of events...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: couriermail.com.au  
-   Link: [https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207](https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207)  
+   Link: <a href="https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 18, 2025, several people observed unexplained moving lights that vanished suddenly. Such phenomena have been recorded since J...</p></details>
    Published: November 18, 2025  
 
 13. <a id="endnote-13"></a>
    Source: couriermail.com.au  
    Title: The Courier-Mail WATCH: Drones, planets or UFOs?  
-   Link: [https://www.couriermail.com.au/news/queensland/fraser-coast/experts-weigh-in-on-fraser-coast-ufos/news-story/00583caa1e2169d06ec7d5df3879e58c](https://www.couriermail.com.au/news/queensland/fraser-coast/experts-weigh-in-on-fraser-coast-ufos/news-story/00583caa1e2169d06ec7d5df3879e58c)  
+   Link: <a href="https://www.couriermail.com.au/news/queensland/fraser-coast/experts-weigh-in-on-fraser-coast-ufos/news-story/00583caa1e2169d06ec7d5df3879e58c" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/queensland/fraser-coast/experts-weigh-in-on-fraser-coast-ufos/news-story/00583caa1e2169d06ec7d5df3879e58c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Odd objects light up Qld skiesIn recent weeks, residents of Hervey Bay and Maryborough on Australia&#x27;s Fraser Coast have captured and shar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: australiangeographic.com.au  
    Title: the min min mystery  
-   Link: [https://www.australiangeographic.com.au/blogs/dr-karl-need-to-know/2018/08/the-min-min-mystery/](https://www.australiangeographic.com.au/blogs/dr-karl-need-to-know/2018/08/the-min-min-mystery/)  
+   Link: <a href="https://www.australiangeographic.com.au/blogs/dr-karl-need-to-know/2018/08/the-min-min-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/blogs/dr-karl-need-to-know/2018/08/the-min-min-mystery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Aug 2018 — A typical Min Min light is circular, about one-quarter the size of the full Moon and has fuzzy, moving edges, like a buzzing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: couriermail.com.au  
    Title: The Courier-Mail Outback UFOs?  
-   Link: [https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67](https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67)  
+   Link: <a href="https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/could-these-mysterious-lights-in-north-west-qld-be-the-min-min/news-story/a29a6689cffa7ec0b078dffe91d4eb67</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious lights baffle residents out westLeanne Kum Sing, a Mount Isa resident, has filmed mysterious lights on the outskirts of the to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blogs.archives.qld.gov.au  
-   Link: [https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/](https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/)  
+   Link: <a href="https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.archives.qld.gov.au/2025/11/21/queenslands-x-files-ufo-sightings-in-north-queensland/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from the ArchivesQueensland&#x27;s X-Files: UFO sightings in North Queensland21 Nov 2025 — A flurry of strange sightings occurred in t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: AB C News  
-   Link: [https://www.facebook.com/abcnews.au/posts/in-1966-a-salt-of-the-earth-banana-farmer-saw-something-he-couldnt-explain-that-/1138347824313153/](https://www.facebook.com/abcnews.au/posts/in-1966-a-salt-of-the-earth-banana-farmer-saw-something-he-couldnt-explain-that-/1138347824313153/)  
+   Link: <a href="https://www.facebook.com/abcnews.au/posts/in-1966-a-salt-of-the-earth-banana-farmer-saw-something-he-couldnt-explain-that-/1138347824313153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/in-1966-a-salt-of-the-earth-banana-farmer-saw-something-he-couldnt-explain-that-/1138347824313153/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News - FacebookOther than being part of the “nest”, the only unusual thing about the reeds was that they turned brown in about 8 hour...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ebsco.com  
    Title: crop circle  
-   Link: [https://www.ebsco.com/research-starters/history/crop-circle](https://www.ebsco.com/research-starters/history/crop-circle)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/crop-circle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/crop-circle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersIn 1966, a farmer in Tully, Queensland, Australia, claimed to have seen an... saucer &quot;nest.&quot; By the mid-1970s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uforq.org  
    Title: the tully saucer nest  
-   Link: [https://uforq.org/the-tully-saucer-nest/](https://uforq.org/the-tully-saucer-nest/)  
+   Link: <a href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/the-tully-saucer-nest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19669 Mar 2026 — Dedicated to all the witnesses who have experienced something unfathomable before the world was ready to know. The Tully...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb](https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Perth on Instagram: &quot;&quot;It looked like they were in a triangle...Matt Woods from the Perth Observatory say the reports extend far beyo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/australia/comments/xuxhhr/have_you_seen_min_min_lights/](https://www.reddit.com/r/australia/comments/xuxhhr/have_you_seen_min_min_lights/)  
+   Link: <a href="https://www.reddit.com/r/australia/comments/xuxhhr/have_you_seen_min_min_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/australia/comments/xuxhhr/have_you_seen_min_min_lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen min min lights?: r/australiaMin Min lights are a mysterious phenomenon reported in the Australian outback, described as gl...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1q4fue1/minmin_lights_what_are_they/](https://www.reddit.com/r/UFOs/comments/1q4fue1/minmin_lights_what_are_they/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1q4fue1/minmin_lights_what_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q4fue1/minmin_lights_what_are_they/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minmin lights? What are they?: r/UFOsMin Min lights are a mysterious phenomenon reported in the Australian outback, described as glowing...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: believepod.com  
-   Link: [https://believepod.com/the-tully-saucer-nest-an-unsolved-ufo-enigma/](https://believepod.com/the-tully-saucer-nest-an-unsolved-ufo-enigma/)  
+   Link: <a href="https://believepod.com/the-tully-saucer-nest-an-unsolved-ufo-enigma/" target="_blank" rel="noopener noreferrer nofollow">https://believepod.com/the-tully-saucer-nest-an-unsolved-ufo-enigma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully Saucer Nest: An Unsolved UFO EnigmaHe discovered a circular area in the lagoon, devoid of reeds and rotating slowly. Later, the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OutbackWay1/posts/-have-you-seen-the-min-min-light-not-everyone-who-visits-boulia-knows-what-the-m/1215180920658001/](https://www.facebook.com/OutbackWay1/posts/-have-you-seen-the-min-min-light-not-everyone-who-visits-boulia-knows-what-the-m/1215180920658001/)  
+   Link: <a href="https://www.facebook.com/OutbackWay1/posts/-have-you-seen-the-min-min-light-not-everyone-who-visits-boulia-knows-what-the-m/1215180920658001/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OutbackWay1/posts/-have-you-seen-the-min-min-light-not-everyone-who-visits-boulia-knows-what-the-m/1215180920658001/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook✨ Have you seen the Min Min Light? Not everyone who...The most widely accepted scientific explanation is that they are a form of...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/uyQMToXPO0I](https://www.youtube.com/shorts/uyQMToXPO0I)  
+   Link: <a href="https://www.youtube.com/shorts/uyQMToXPO0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/uyQMToXPO0I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aussie UFO sighting | Uncropped | ABC AustraliaA UFO sighting in far north Queensland set off an international hoax, but it came from...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tntmagazine.com  
-   Link: [https://www.tntmagazine.com/archive/close-encounters-we-go-ufo-spotting-in-the-northern-territory/](https://www.tntmagazine.com/archive/close-encounters-we-go-ufo-spotting-in-the-northern-territory/)  
+   Link: <a href="https://www.tntmagazine.com/archive/close-encounters-we-go-ufo-spotting-in-the-northern-territory/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/close-encounters-we-go-ufo-spotting-in-the-northern-territory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien meeting. UFO mentalists meet up once a month in Sydney to compare extra-terrestrial notes...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: journalnews.com.ph  
    Title: saucer serial hysteria the case of the tully crop circle  
-   Link: [https://journalnews.com.ph/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/](https://journalnews.com.ph/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/)  
+   Link: <a href="https://journalnews.com.ph/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/saucer-serial-hysteria-the-case-of-the-tully-crop-circle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucer serial hysteria: The case of the Tully crop circle21 Sept 2020 — The Tully saucer nest heralded the start of the worldwide phenome...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/](https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/)  
+   Link: <a href="https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSToowoomba/posts/60-years-ago-this-month-the-worlds-attention-turned-to-tully-in-far-north-queens/882280357493048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as that they turned brown in about 8 hours, whereas reeds uprooted...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: news.uq.edu.au  
    Title: News UQ scientist unlocks secret of Min Min lights  
-   Link: [https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights](https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsUQ scientist unlocks secret of Min Min lights - UQ News27 Mar 2003 — “The Min Min light occurs when light, from a natural or man-made...</p></details>
+   Link: <a href="https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights" target="_blank" rel="noopener noreferrer nofollow">https://news.uq.edu.au/2003-03-27-uq-scientist-unlocks-secret-min-min-lights</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UQ scientist unlocks secret of Min Min lights - UQ News27 Mar 2003 — “The Min Min light occurs when light, from a natural or man-made...</p></details>

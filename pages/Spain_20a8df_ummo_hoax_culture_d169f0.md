@@ -239,7 +239,7 @@ prev_link:
   permalink: /manises/
   short_title: Manises
   heading_title: Was Manises Spain's Strongest UFO Case?
-date: '2026-06-09 01:41:21 '
+date: '2026-06-10 02:08:37 '
 header:
   og_image: /assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-1-socia
 
 ## Introduction
 
-The Ummo affair is one of the most important reasons [Spain]({{ 'spains-ufo-files-mystery-evidence-and/' | relative_url }})’s UFO history cannot be understood only through military archives and unexplained sightings. For nearly three decades, thousands of pages of alleged extraterrestrial communications circulated among Spanish and French UFO enthusiasts, complete with technical diagrams, invented science, photographs, symbols, and claims of contact with visitors from a distant planet called Ummo. Many believers treated the material as evidence of a genuine alien presence. Later investigations, however, increasingly pointed toward a sophisticated human fabrication centred on Spanish contact networks and the activities of José Luis Jordán Peña. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
+The Ummo affair is one of the most important reasons Spain’s UFO history cannot be understood only through military archives and unexplained sightings. For nearly three decades, thousands of pages of alleged extraterrestrial communications circulated among Spanish and French UFO enthusiasts, complete with technical diagrams, invented science, photographs, symbols, and claims of contact with visitors from a distant planet called Ummo. Many believers treated the material as evidence of a genuine alien presence. Later investigations, however, increasingly pointed toward a sophisticated human fabrication centred on Spanish contact networks and the activities of José Luis Jordán Peña. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
 
 
 <img src="{{ "/assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-1-dark.svg" | relative_url }}" alt="Ummo Hoax illustration 1" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -304,7 +304,7 @@ Investigators noted several recurring problems:
 * The supposedly alien material reflected contemporary human knowledge more than genuinely unknown science.
 * The language and concepts often appeared rooted in European intellectual culture.
 * Witness accounts and documentary claims sometimes conflicted.
-* Physical evidence remained weak despite decades of extraordinary assertions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/57380934/Ummo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdThe Ummo Affair: Alien Communication Claims | PDFUmmoism describes claims from the 1960s-1970s of communication from aliens from th...</span></span></span>
+* Physical evidence remained weak despite decades of extraordinary assertions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/57380934/Ummo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">The Ummo Affair: Alien Communication Claims &#124; PDFUmmoism describes claims from the 1960s-1970s of communication from aliens from th...</span></span></span>
 
 </div>
 
@@ -324,7 +324,7 @@ Many UFO researchers were not merely collecting reports; they were active partic
 
 ### The authority of technical language
 
-Ummo demonstrated how scientific vocabulary can create an illusion of credibility. The letters often sounded analytical and sophisticated, yet complexity alone is not evidence. Later critics argued that many readers confused elaborate presentation with proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/964199581/Stefano-Breccia-Roberto-Pinotti-MASS-CONTACTS-ITALIAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Stefano Breccia Roberto Pinotti MASS CONTACTS ITALIAN</span><span class="citation-popover-snippet">ScribdThe Ummo Affair: UFO Hoax Unveiled | PDFJan 22, 2026 — It reveals that the Ummo affair is a hoax created by psychologist Jose Luis...</span></span></span>
+Ummo demonstrated how scientific vocabulary can create an illusion of credibility. The letters often sounded analytical and sophisticated, yet complexity alone is not evidence. Later critics argued that many readers confused elaborate presentation with proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/964199581/Stefano-Breccia-Roberto-Pinotti-MASS-CONTACTS-ITALIAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Stefano Breccia Roberto Pinotti MASS CONTACTS ITALIAN</span><span class="citation-popover-snippet">The Ummo Affair: UFO Hoax Unveiled &#124; PDFJan 22, 2026 — It reveals that the Ummo affair is a hoax created by psychologist Jose Luis...</span></span></span>
 
 ### The attraction of a complete worldview
 
@@ -341,7 +341,7 @@ One of the strongest lessons from Ummo is that exposing a hoax does not automati
 
 Spain's UFO record contains very different categories of cases. Some involve military pilots, radar operators, or air-traffic incidents preserved in official archives. Others involve cultural phenomena that spread through media, contact networks, and popular imagination.
 
-Ummo belongs firmly in the second category. It is not remembered because it produced strong physical evidence. It is remembered because it became a large-scale demonstration of how UFO narratives can grow, accumulate authority, and resist correction. The affair developed alongside the same national UFO culture that produced interest in the Canary Islands incidents, the [Manises]({{ 'manises/' | relative_url }}) case, and other famous Spanish reports, but it followed a very different path. Instead of beginning with an unexplained aerial event and moving toward investigation, Ummo grew through documents, symbolism, and community belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurehk.com">[DisclosureHK — UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurehk.com</span><span class="citation-popover-snippet">DisclosureHK — UFO/UAP Research &amp; NewsThe 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien...The 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien Correspo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurehk.com">[UAP Research &amp; News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurehk.com</span><span class="citation-popover-snippet">DisclosureHK — UFO/UAP Research &amp; NewsThe 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien...The 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien Correspo...</span></span></span>
+Ummo belongs firmly in the second category. It is not remembered because it produced strong physical evidence. It is remembered because it became a large-scale demonstration of how UFO narratives can grow, accumulate authority, and resist correction. The affair developed alongside the same national UFO culture that produced interest in the Canary Islands incidents, the [Manises]({{ 'manises/' | relative_url }}) case, and other famous Spanish reports, but it followed a very different path. Instead of beginning with an unexplained aerial event and moving toward investigation, Ummo grew through documents, symbolism, and community belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurehk.com">[DisclosureHK — UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurehk.com</span><span class="citation-popover-snippet">UFO/UAP Research &amp; NewsThe 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien...The 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien Correspo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurehk.com">[UAP Research &amp; News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurehk.com</span><span class="citation-popover-snippet">UFO/UAP Research &amp; NewsThe 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien...The 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien Correspo...</span></span></span>
 
 For historians of Spanish ufology, that distinction is crucial. A declassified military report may show what officials investigated. Ummo shows how a society constructs and sustains extraordinary claims even when the evidential foundation remains weak.
 
@@ -364,86 +364,44 @@ Several lessons stand out:
 <img src="{{ "/assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-3-dark.svg" | relative_url }}" alt="Ummo Hoax illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_ummo_hoax_culture_d169f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Ummo Became Spain&#x27;s Great UFO Hoax. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Ummo Became Spain&#x27;s Great UFO Hoax, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for separating evidence from cultural interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Directly explores hoaxes, belief systems, and UFO mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines manipulation, belief formation, and contactee movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=They+Knew+Too+Much+about+Flying+Saucers+by+Gray+Barker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Knew Too Much about Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Knew+Too+Much+about+Flying+Saucers+by+Gray+Barker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Knew Too Much about Flying Saucers">They Knew Too Much about Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Gray Barker</p>
-        
-        <p class="fr-book-desc">Shows how UFO legends and narratives become embedded in popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Knew+Too+Much+about+Flying+Saucers+by+Gray+Barker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Messengers+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Messengers of Deception</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -477,75 +435,71 @@ Several lessons stand out:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ummo-hoax-how-ummo-became-spain-s-great-ufo-hoax-spain-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -760,132 +714,132 @@ Several lessons stand out:
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Planetary objects proposed in religion, astrology, ufology and pseudoscience  
-   Link: [https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience](https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience</a>  
 
 2. <a id="endnote-2"></a>
    Source: strangemag.com  
-   Link: [https://www.strangemag.com/ummo.html](https://www.strangemag.com/ummo.html)  
+   Link: <a href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/ummo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tual mastermind of the hoax.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ummo HoaxThe messages from Ummo intersected with a series of UFO sightings that began on February 6, 1966. Several people saw the saucer...</p></details>
    Published: February 6, 1966  
 
 4. <a id="endnote-4"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/57380934/Ummo](https://www.scribd.com/document/57380934/Ummo)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdThe Ummo Affair: Alien Communication Claims | PDFUmmoism describes claims from the 1960s-1970s of communication from aliens from th...</p></details>
+   Link: <a href="https://www.scribd.com/document/57380934/Ummo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/57380934/Ummo</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ummo Affair: Alien Communication Claims | PDFUmmoism describes claims from the 1960s-1970s of communication from aliens from th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: disclosurehk.com  
-   Link: [https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/](https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DisclosureHK — UFO/UAP Research &amp; NewsThe 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien...The 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien Correspo...</p></details>
+   Link: <a href="https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://disclosurehk.com/blog/ufo-filler-68-ummo-hoax/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Research &amp; NewsThe 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien...The 1967 Ummo Hoax: Spain&#x27;s Elaborate Alien Correspo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
    Title: Stefano Breccia Roberto Pinotti MASS CONTACTS ITALIAN  
-   Link: [https://www.scribd.com/document/964199581/Stefano-Breccia-Roberto-Pinotti-MASS-CONTACTS-ITALIAN](https://www.scribd.com/document/964199581/Stefano-Breccia-Roberto-Pinotti-MASS-CONTACTS-ITALIAN)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdThe Ummo Affair: UFO Hoax Unveiled | PDFJan 22, 2026 — It reveals that the Ummo affair is a hoax created by psychologist Jose Luis...</p></details>
+   Link: <a href="https://www.scribd.com/document/964199581/Stefano-Breccia-Roberto-Pinotti-MASS-CONTACTS-ITALIAN" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964199581/Stefano-Breccia-Roberto-Pinotti-MASS-CONTACTS-ITALIAN</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ummo Affair: UFO Hoax Unveiled | PDFJan 22, 2026 — It reveals that the Ummo affair is a hoax created by psychologist Jose Luis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/403617468/Abducciones-por-Ballester-Olmos-pdf](https://www.scribd.com/document/403617468/Abducciones-por-Ballester-Olmos-pdf)  
+   Link: <a href="https://www.scribd.com/document/403617468/Abducciones-por-Ballester-Olmos-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/403617468/Abducciones-por-Ballester-Olmos-pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It finds that they can be attributed to hoaxes... Ballester-Olmos is a well-known Spanish UFO...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/686422019/Ummo-2](https://www.scribd.com/document/686422019/Ummo-2)  
+   Link: <a href="https://www.scribd.com/document/686422019/Ummo-2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/686422019/Ummo-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 pages. Understanding UAP: Definitions... UFO Observation Patterns Analysis. 14 pages. Contact with Itibi-Ra Beings. PDF.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: [https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html](https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html)  
+   Link: <a href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magonia MagazineUMMO: The Planet of the Anonymous CorrespondentsThe so called “UMMO affair”, the most important contribution of Spain to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: inexplicata.blogspot.com  
    Title: ummo harmless prank or hoax of century  
-   Link: [https://inexplicata.blogspot.com/2008/08/ummo-harmless-prank-or-hoax-of-century.html](https://inexplicata.blogspot.com/2008/08/ummo-harmless-prank-or-hoax-of-century.html)  
+   Link: <a href="https://inexplicata.blogspot.com/2008/08/ummo-harmless-prank-or-hoax-of-century.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2008/08/ummo-harmless-prank-or-hoax-of-century.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and paranormal cases from Spain, South America and the Caribbean... The UMMO phenomenon can lay claim to being the longest-running h...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: inexplicata.blogspot.com  
    Title: ummo at bay jose luis jordan pea  
-   Link: [https://inexplicata.blogspot.com/2006/11/ummo-at-bay-jose-luis-jordan-pea.html](https://inexplicata.blogspot.com/2006/11/ummo-at-bay-jose-luis-jordan-pea.html)  
+   Link: <a href="https://inexplicata.blogspot.com/2006/11/ummo-at-bay-jose-luis-jordan-pea.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2006/11/ummo-at-bay-jose-luis-jordan-pea.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO phenomenon, the OVNI phenomenon, Unidentified Flying Objects, it&#x27;s all a hoax. Ufologists do not...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: The Ummo Affair  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/](https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A very complicated UFO hoax during...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 2mo ago...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: farahsufos.blogspot.com  
    Title: ummo letters  
-   Link: [https://farahsufos.blogspot.com/2008/01/ummo-letters.html](https://farahsufos.blogspot.com/2008/01/ummo-letters.html)  
+   Link: <a href="https://farahsufos.blogspot.com/2008/01/ummo-letters.html" target="_blank" rel="noopener noreferrer nofollow">https://farahsufos.blogspot.com/2008/01/ummo-letters.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UMMO LETTERS by Farah YurdozuJan 23, 2008 — One of the most important witnesses was psychiatrist Jordan Peña who took the object&#x27;s pi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: xufos.com  
    Title: ummo letters  
-   Link: [https://xufos.com/ummo-letters.php](https://xufos.com/ummo-letters.php)  
+   Link: <a href="https://xufos.com/ummo-letters.php" target="_blank" rel="noopener noreferrer nofollow">https://xufos.com/ummo-letters.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ummo Letters: Spain&#x27;s Decades-Long Extraterrestrial...Beginning in 1966, hundreds of detailed letters and phone calls arrived in Spa...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TheWhyFiles/comments/1lhapjf/letters_from_the_people_of_ummo/](https://www.reddit.com/r/TheWhyFiles/comments/1lhapjf/letters_from_the_people_of_ummo/)  
+   Link: <a href="https://www.reddit.com/r/TheWhyFiles/comments/1lhapjf/letters_from_the_people_of_ummo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/1lhapjf/letters_from_the_people_of_ummo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Letters from the People of Ummo: r/TheWhyFiles... hoax, but inconsistencies left some convinced it was genuine alien contact. The Ummo c...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ispcjournal.org  
-   Link: [https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf](https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf)  
+   Link: <a href="https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PHILOSOPHY &amp; COSMOLOGYSpain reported receiving letters and documents allegedly sent by extraterrestrials, including... Aliens or hoax? F...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: encyclopediastrange.com  
-   Link: [https://encyclopediastrange.com/2024/11/30/the-enigma-of-the-ummo-case-letters-from-the-stars-or-a-complex-hoax/](https://encyclopediastrange.com/2024/11/30/the-enigma-of-the-ummo-case-letters-from-the-stars-or-a-complex-hoax/)  
+   Link: <a href="https://encyclopediastrange.com/2024/11/30/the-enigma-of-the-ummo-case-letters-from-the-stars-or-a-complex-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediastrange.com/2024/11/30/the-enigma-of-the-ummo-case-letters-from-the-stars-or-a-complex-hoax/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Ummo Case: Letters from the Stars or a...30 Nov 2024 — The Enigma of the Ummo Case: Letters from the Stars or a Comple...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24156503103957657/](https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24156503103957657/)  
+   Link: <a href="https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24156503103957657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24156503103957657/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at is the granddaddy of all the &quot;government has a UFO/alien bodies&quot;...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/physicsisfun109/posts/729182329760614/](https://www.facebook.com/groups/physicsisfun109/posts/729182329760614/)  
+   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/729182329760614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/729182329760614/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ummo letters describe extraterrestrial civilization and technology.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: the mystery of the ummo letters from a supposedly  
-   Link: [https://www.reddit.com/r/UFOs/comments/tgei72/the_mystery_of_the_ummo_letters_from_a_supposedly/](https://www.reddit.com/r/UFOs/comments/tgei72/the_mystery_of_the_ummo_letters_from_a_supposedly/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/tgei72/the_mystery_of_the_ummo_letters_from_a_supposedly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tgei72/the_mystery_of_the_ummo_letters_from_a_supposedly/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jose Luis Jordan Pena claimed in 1992 that he did it in order to prove that people were more prone to paranoia than psychologists at the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: foro3d.com  
    Title: the ummo case the ufo hoax that fascinated spain  
-   Link: [https://foro3d.com/en/2026/january/the-ummo-case-the-ufo-hoax-that-fascinated-spain.html](https://foro3d.com/en/2026/january/the-ummo-case-the-ufo-hoax-that-fascinated-spain.html)  
+   Link: <a href="https://foro3d.com/en/2026/january/the-ummo-case-the-ufo-hoax-that-fascinated-spain.html" target="_blank" rel="noopener noreferrer nofollow">https://foro3d.com/en/2026/january/the-ummo-case-the-ufo-hoax-that-fascinated-spain.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ummo Case: The UFO Hoax That Fascinated Spain5 Jan 2026 — In the 1960s and 70s, Spain experienced a unique UFO phenomenon. A group re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
    Title: Alien Life Forms and analyze all data gathered from that endeavor.Read more  
-   Link: [https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt](https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt)  
+   Link: <a href="https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;354868604 Ufo Contact From Planet Ummo Pdf&quot;The press reported this affair, but this was a UFO story beyond lots of other...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: horrorstory.com  
    Title: The Scariest UFO Hoax—or Alien Invasion?  
-   Link: [https://horrorstory.com/episode/the-scariest-ufo-hoax-or-alien-invasion-the-ummo-letters](https://horrorstory.com/episode/the-scariest-ufo-hoax-or-alien-invasion-the-ummo-letters)  
+   Link: <a href="https://horrorstory.com/episode/the-scariest-ufo-hoax-or-alien-invasion-the-ummo-letters" target="_blank" rel="noopener noreferrer nofollow">https://horrorstory.com/episode/the-scariest-ufo-hoax-or-alien-invasion-the-ummo-letters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(The Ummo Letters)26 Sept 2024 — Were these letters the beginning of genuine extraterrestrial contact, or part of one of the most elabora...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1lti7ix/the_ummo_letters_and_a_hollywood_cult_that_came/](https://www.reddit.com/r/aliens/comments/1lti7ix/the_ummo_letters_and_a_hollywood_cult_that_came/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lti7ix/the_ummo_letters_and_a_hollywood_cult_that_came/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lti7ix/the_ummo_letters_and_a_hollywood_cult_that_came/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens - KGB Documents about suppressed history of Earth and...Read more...</p></details>

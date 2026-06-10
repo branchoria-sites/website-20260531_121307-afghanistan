@@ -235,7 +235,7 @@ prev_link:
   permalink: /paramaribo/
   short_title: Paramaribo
   heading_title: Why Paramaribo Dominates Suriname UFO Reports
-date: '2026-06-09 01:41:56 '
+date: '2026-06-10 02:09:19 '
 header:
   og_image: /assets/images/Suriname_b17fc6_suriname_ufo_reporti_ae54e6-Illustration-1-social.jpg
   preview_image: /assets/images/Suriname_b17fc6_suriname_ufo_reporti_ae54e6-Illustration-1.webp
@@ -244,12 +244,10 @@ image: /assets/images/Suriname_b17fc6_suriname_ufo_reporti_ae54e6-Illustration-1
 
 ## Introduction
 
-The central problem with [Suriname]({{ 'what-surinames-ufo-stories-really-show/' | relative_url }})’s UFO record is not an excess of extraordinary evidence but a shortage of verifiable documentation. Most publicly known cases come from a small network of enthusiasts, scattered witness submissions, newspaper coverage, and later academic discussion. That does not make every report unreliable, but it does mean that readers must distinguish between three different things: the existence of reports, the quality of the evidence behind those reports, and the claims later built around them.
+Suriname’s UFO reporting scene was unusually visible for a country of its size because a local reporting point emerged after a widely discussed 2009 sighting, and because researcher Tanya Wijngaarde later examined the phenomenon as a cultural and social subject. The result is a body of material that is useful for understanding how UFO narratives circulate in Suriname, while offering relatively little in the way of independently confirmed anomalous events. Pure <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">H. RamsoedhTussen 2009 en 2015 werden ruim tachtig ufo&#x27;s gemeld bij het Surinaamse ufo-meldpunt. Het organiseerde eens per jaar een lezin...</span></span></span>
 
 
 <img src="{{ "/assets/images/Suriname_b17fc6_suriname_ufo_reporti_ae54e6-Illustration-1-dark.svg" | relative_url }}" alt="Suriname UFO reporting illustration 1" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_suriname_ufo_reporti_ae54e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_suriname_ufo_reporti_ae54e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Suriname’s UFO reporting scene was unusually visible for a country of its size because a local reporting point emerged after a widely discussed 2009 sighting, and because researcher Tanya Wijngaarde later examined the phenomenon as a cultural and social subject. The result is a body of material that is useful for understanding how UFO narratives circulate in Suriname, while offering relatively little in the way of independently confirmed anomalous events. Pure <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">H. RamsoedhTussen 2009 en 2015 werden ruim tachtig ufo&#x27;s gemeld bij het Surinaamse ufo-meldpunt. Het organiseerde eens per jaar een lezin...</span></span></span>
-
 ## The Surinamese UFO Reporting Network Was Small but Active
 
 The best-documented reporting organisation in Suriname was the national UFO reporting point established after publicity surrounding sightings in 2009. References to the group appear in both academic work and later commentary discussing the growth of local UFO interest. Between 2009 and 2015, more than eighty UFO reports were reportedly submitted to the Surinamese reporting centre. The organisation also held annual lectures and occasional film screenings, attracting audiences that reportedly averaged around eighty attendees, although the core community appears to have consisted of roughly twenty to twenty-five regular participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware Tijd, pp ...Read more</span></span></span>
@@ -281,12 +279,12 @@ As a result, newspaper coverage generally confirms that a sighting was reported,
 
 ### International UFO Databases
 
-Suriname appears only sparsely in international databases. The National UFO Reporting Center (NUFORC), one of the largest civilian UFO archives, contains only a small number of Suriname-related entries. These records preserve reports that might otherwise disappear, but they depend heavily on self-submitted testimony and usually lack independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCUFO Sightings Map | NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
+Suriname appears only sparsely in international databases. The National UFO Reporting Center (NUFORC), one of the largest civilian UFO archives, contains only a small number of Suriname-related entries. These records preserve reports that might otherwise disappear, but they depend heavily on self-submitted testimony and usually lack independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
 
 A key reliability issue is that NUFORC archives reports rather than certifying them. Presence in the database should therefore be understood as documentation of a claim, not validation of a claim.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ### Academic and Cultural Analysis
 
@@ -314,7 +312,7 @@ Strong UFO cases typically benefit from at least one of the following:
 
 Most publicly known Suriname reports lack these supporting layers.
 
-For example, one NUFORC case from [Paramaribo]({{ 'paramaribo/' | relative_url }}) describes a triangular object observed for less than a minute while the witness was stargazing. The report contains a narrative description but no supporting imagery, instrumentation, or independent confirmation. Another entry describing unusual coloured lights contains internal inconsistencies regarding the number of observers involved. Such reports may reflect genuine observations, but they remain weak evidence because investigators cannot meaningfully test them after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=p250810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Date Posted 250810NUFORC Reports for Date Posted 250810; Open, 07/25/2025 23:06, Paramaribo; Open. 07/21/2025...</span></span></span>
+For example, one NUFORC case from [Paramaribo]({{ 'paramaribo/' | relative_url }}) describes a triangular object observed for less than a minute while the witness was stargazing. The report contains a narrative description but no supporting imagery, instrumentation, or independent confirmation. Another entry describing unusual coloured lights contains internal inconsistencies regarding the number of observers involved. Such reports may reflect genuine observations, but they remain weak evidence because investigators cannot meaningfully test them after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=p250810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Date Posted 250810NUFORC Reports for Date Posted 250810; Open, 07/25/2025 23:06, Paramaribo; Open. 07/21/2025...</span></span></span>
 
 This does not mean the witnesses were dishonest. It means the reports are difficult to verify.
 
@@ -324,7 +322,7 @@ This does not mean the witnesses were dishonest. It means the reports are diffic
 
 Several reports gained attention because multiple residents appeared to observe unusual lights during the same period.
 
-One example discussed in later academic treatment involved a cluster of reports from a middle-class neighbourhood in Paramaribo. According to published discussion of the case, callers reported UFOs flying over the area and local attention escalated quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqChD-vNbWPynqdQzxl7Yx_q5FbTapSAuOD5KrUCyROJebMMQ7W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">BrillChapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — All reports came from the middle-class neighbourhood Elisabeths...</span></span></span>
+One example discussed in later academic treatment involved a cluster of reports from a middle-class neighbourhood in Paramaribo. According to published discussion of the case, callers reported UFOs flying over the area and local attention escalated quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqChD-vNbWPynqdQzxl7Yx_q5FbTapSAuOD5KrUCyROJebMMQ7W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — All reports came from the middle-class neighbourhood Elisabeths...</span></span></span>
 
 Cases like this illustrate a recurring challenge in UFO research: social amplification.
 
@@ -405,90 +403,48 @@ The strongest conclusion supported by available sources is that Suriname develop
 The reporting centre established after 2009 appears to have collected a meaningful number of sightings and created a focal point for discussion. Academic work confirms that UFO narratives became socially significant enough to warrant serious cultural analysis. At the same time, the underlying case evidence remains thin: most reports rely on eyewitness testimony, official corroboration is scarce, and independently verifiable documentation is limited. Pure <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">H. RamsoedhTussen 2009 en 2015 werden ruim tachtig ufo&#x27;s gemeld bij het Surinaamse ufo-meldpunt. Het organiseerde eens per jaar een lezin...</span></span></span> For readers navigating the wider Suriname UFO record, the most reliable question is not whether extraterrestrial craft were present, but how reports were collected, interpreted, and circulated. On that question, the available evidence is considerably stronger than it is for the extraordinary claims themselves.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7jcBGLIpus" title="Explained: New Navy UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer">Explained: New Navy UFO Videos</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7jcBGLIpus">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Suriname UFO Sources?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Reliable Are Suriname UFO Sources?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Discusses investigation methods and reliability issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly addresses source quality, witnesses, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides frameworks for judging weak or incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Useful for understanding how UFO archives and reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -522,75 +478,71 @@ The reporting centre established after 2009 appears to have collected a meaningf
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suriname-ufo-reporting-how-reliable-are-suriname-ufo-sources-suriname-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -805,103 +757,103 @@ The reporting centre established after 2009 appears to have collected a meaningf
 1. <a id="endnote-1"></a>
    Source: hindorama.com  
    Title: UFO's boven Suriname  
-   Link: [https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/](https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/)  
+   Link: <a href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow">https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>H. RamsoedhTussen 2009 en 2015 werden ruim tachtig ufo&#x27;s gemeld bij het Surinaamse ufo-meldpunt. Het organiseerde eens per jaar een lezin...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: brill.com  
-   Link: [https://brill.com/display/book/9789004513877/BP000024.xml?language=en&srsltid=AfmBOoqChD-vNbWPynqdQzxl7Yx_q5FbTapSAuOD5KrUCyROJebMMQ7W](https://brill.com/display/book/9789004513877/BP000024.xml?language=en&srsltid=AfmBOoqChD-vNbWPynqdQzxl7Yx_q5FbTapSAuOD5KrUCyROJebMMQ7W)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrillChapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — All reports came from the middle-class neighbourhood Elisabeths...</p></details>
+   Link: <a href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqChD-vNbWPynqdQzxl7Yx_q5FbTapSAuOD5KrUCyROJebMMQ7W" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqChD-vNbWPynqdQzxl7Yx_q5FbTapSAuOD5KrUCyROJebMMQ7W</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — All reports came from the middle-class neighbourhood Elisabeths...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCUFO Sightings Map | NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</p></details>
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</p></details>
    Published: December 18, 2023  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=p250810](https://nuforc.org/subndx/?id=p250810)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for Date Posted 250810NUFORC Reports for Date Posted 250810; Open, 07/25/2025 23:06, Paramaribo; Open. 07/21/2025...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=p250810" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p250810</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Date Posted 250810NUFORC Reports for Date Posted 250810; Open, 07/25/2025 23:06, Paramaribo; Open. 07/21/2025...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200511](https://nuforc.org/subndx/?id=e200511)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200511</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 200511NUFORC Reports for Month 200511.; Open, 11/30/2005 22:00, Wanamassa; Open, 11/30/2005 20:00, Avondale...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200308](https://nuforc.org/subndx/?id=e200308)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200308" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 200308NUFORC Reports for Month 200308.; Open, 08/31/2003 22:00, Ajijic (Mexico); Open, 08/31/2003 21:50, Oakla...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=post](https://nuforc.org/ndx/?id=post)  
+   Link: <a href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=post</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Date Posted2005-12-16, 581. 2005-11-08, 112. 2005-11-03, 252. 2005-10-20, 167. 2005-10-11, 802... 2003-12-19, 191. 200...</p></details>
    Published: November 8, 2005  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=p030610](https://nuforc.org/subndx/?id=p030610)  
+   Link: <a href="https://nuforc.org/subndx/?id=p030610" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p030610</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>; Open, 06/09/2003 22:00, Hixson; Open, 06/09/2003 12:35, Lenexa; Open, 06/09/2003 11:35, Lee&#x27;s Summit; Open, 06/09/2003 07...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: apt-browse.org  
-   Link: [https://www.apt-browse.org/browse/debian/wheezy/main/all/frogdata/0.3-2/file/etc/frog/ner.data.10paxes](https://www.apt-browse.org/browse/debian/wheezy/main/all/frogdata/0.3-2/file/etc/frog/ner.data.10paxes)  
+   Link: <a href="https://www.apt-browse.org/browse/debian/wheezy/main/all/frogdata/0.3-2/file/etc/frog/ner.data.10paxes" target="_blank" rel="noopener noreferrer nofollow">https://www.apt-browse.org/browse/debian/wheezy/main/all/frogdata/0.3-2/file/etc/frog/ner.data.10paxes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/etc/frog/ner.data.10paxesThis file is indexed. /etc/frog/ner.data.10paxes is in frogdata 0.3-2. This file is owned by root:root, with mo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: publicdata.canterbury.ac.nz  
    Title: canterbury.ac.nz Dutch.Aranea.DI M=500.SG=1.HS=1.IT E R=25.txt  
-   Link: [https://publicdata.canterbury.ac.nz/Research/NZILBB/jonathandunn/Frontiers_in_AI/2.Code_c2xg/c2xg/data/dictionaries/Text/v.02/Dutch.Aranea.DIM%3D500.SG%3D1.HS%3D1.ITER%3D25.txt](https://publicdata.canterbury.ac.nz/Research/NZILBB/jonathandunn/Frontiers_in_AI/2.Code_c2xg/c2xg/data/dictionaries/Text/v.02/Dutch.Aranea.DIM%3D500.SG%3D1.HS%3D1.ITER%3D25.txt)  
+   Link: <a href="https://publicdata.canterbury.ac.nz/Research/NZILBB/jonathandunn/Frontiers_in_AI/2.Code_c2xg/c2xg/data/dictionaries/Text/v.02/Dutch.Aranea.DIM%3D500.SG%3D1.HS%3D1.ITER%3D25.txt" target="_blank" rel="noopener noreferrer nofollow">https://publicdata.canterbury.ac.nz/Research/NZILBB/jonathandunn/Frontiers_in_AI/2.Code_c2xg/c2xg/data/dictionaries/Text/v.02/Dutch.Aranea.DIM%3D500.SG%3D1.HS%3D1.ITER%3D25.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meldpunt,23 uba,23 genootschap,23 uitzendbranche,23 bestuur,23 ias,23 doeksen... ufo,50 mythologie,50 sferen,50 zuiverste,50 botsende,50...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: etnow.com  
    Title: Latest Entertainment Technology Industry News  
-   Link: [https://www.etnow.com/news/2014](https://www.etnow.com/news/2014)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ETNowLatest news and features from the entertainment technology industry. Covering productions, new equipment, business, standards and more...</p></details>
+   Link: <a href="https://www.etnow.com/news/2014" target="_blank" rel="noopener noreferrer nofollow">https://www.etnow.com/news/2014</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest news and features from the entertainment technology industry. Covering productions, new equipment, business, standards and more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
    Title: DRAFT 10 Het Boek 50 december 2021  
-   Link: [https://www.researchgate.net/profile/Miguel-Goede/publication/357314150_DRAFT_10_Het_Boek_50_december_2021/links/61c65925d450060816668db8/DRAFT-10-Het-Boek-50-december-2021.pdf](https://www.researchgate.net/profile/Miguel-Goede/publication/357314150_DRAFT_10_Het_Boek_50_december_2021/links/61c65925d450060816668db8/DRAFT-10-Het-Boek-50-december-2021.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Miguel-Goede/publication/357314150_DRAFT_10_Het_Boek_50_december_2021/links/61c65925d450060816668db8/DRAFT-10-Het-Boek-50-december-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Miguel-Goede/publication/357314150_DRAFT_10_Het_Boek_50_december_2021/links/61c65925d450060816668db8/DRAFT-10-Het-Boek-50-december-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>365dagen Bestuurskunde 360º... UFO&#x27;s niet langer ontkennen. (Pentagon won&#x27;t rule out aliens in long-awaited UFO report, 2021). Hollywood...</p></details>
    Published: december 2021  
 
 13. <a id="endnote-13"></a>
    Source: redd.unfccc.int  
    Title: suriname frl report 2024  
-   Link: [https://redd.unfccc.int/media/suriname-frl-report-2024.pdf](https://redd.unfccc.int/media/suriname-frl-report-2024.pdf)  
+   Link: <a href="https://redd.unfccc.int/media/suriname-frl-report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://redd.unfccc.int/media/suriname-frl-report-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unfccc.intSuriname&#x27;s Forest Reference Level Report8 Jan 2024 — Paramaribo. SBB. 2002. 153,812. 5%. 2003. 155,461. 5%. 2004. 159,412. 5%...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: worldfactbook.co  
-   Link: [https://www.worldfactbook.co/edition.php?country=suriname&year=2003](https://www.worldfactbook.co/edition.php?country=suriname&year=2003)  
+   Link: <a href="https://www.worldfactbook.co/edition.php?country=suriname&amp;year=2003" target="_blank" rel="noopener noreferrer nofollow">https://www.worldfactbook.co/edition.php?country=suriname&amp;year=2003</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edition 2003 — Suriname - World FactbookThe economy is dominated by the bauxite industry, which accounts for more than 15% of GDP and 70%...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: New UFO videos: Deep analysis with Ross Coulthart | Reality Check  
-   Link: [https://www.youtube.com/watch?v=r_xevi3rSQI](https://www.youtube.com/watch?v=r_xevi3rSQI)  
+   Link: <a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r_xevi3rSQI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bloggen.be  
    Title: Blog zoeken  
-   Link: [https://www.bloggen.be/zoeken_blogs_alfabetisch.php?letter=M](https://www.bloggen.be/zoeken_blogs_alfabetisch.php?letter=M)  
+   Link: <a href="https://www.bloggen.be/zoeken_blogs_alfabetisch.php?letter=M" target="_blank" rel="noopener noreferrer nofollow">https://www.bloggen.be/zoeken_blogs_alfabetisch.php?letter=M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alfabetischMeldpunt: Meldpunt voor problemen met de bank. Voelt jij je ook bedrogen... aliens have taken over... Mnj: Logboek effect van...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Videos Explained: Mick West's Expert Analysis  
-   Link: [https://www.youtube.com/watch?v=-_4QF__92q0](https://www.youtube.com/watch?v=-_4QF__92q0)  
+   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO videos: Deep analysis with Ross Coulthart | Reality Check...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>

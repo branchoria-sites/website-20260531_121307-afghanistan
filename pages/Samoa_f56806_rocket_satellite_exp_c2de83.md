@@ -245,7 +245,7 @@ next_link:
   permalink: /starlink-era/
   short_title: Starlink Era
   heading_title: How Starlink Changes Samoa UFO Reports
-date: '2026-06-09 01:38:56 '
+date: '2026-06-10 02:05:52 '
 header:
   og_image: /assets/images/Samoa_f56806_rocket_satellite_exp_c2de83-Illustration-1-social.jpg
   preview_image: /assets/images/Samoa_f56806_rocket_satellite_exp_c2de83-Illustration-1.webp
@@ -334,7 +334,7 @@ Human perception is strongly influenced by expectations.
 
 Most people are familiar with stars, planets, aircraft, and perhaps occasional meteors. A train of dozens of satellites moving in formation falls outside normal experience. As a result, witnesses often attempt to interpret the lights using more familiar categories.
 
-Researchers studying UAP misidentifications have documented cases where recently launched Starlink trains were mistaken for anomalous objects by multiple observers, including commercial airline crews. One aviation-focused study reconstructed a Pacific sighting and found that a newly launched Starlink group could explain reports that initially appeared unusual and difficult to identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Researchers studying UAP misidentifications have documented cases where recently launched Starlink trains were mistaken for anomalous objects by multiple observers, including commercial airline crews. One aviation-focused study reconstructed a Pacific sighting and found that a newly launched Starlink group could explain reports that initially appeared unusual and difficult to identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 That finding is particularly relevant to Samoa because many local sightings occur over open ocean where there are few visual reference points. Without landmarks, estimating altitude, distance, and speed becomes extremely difficult.
 
@@ -344,7 +344,7 @@ That finding is particularly relevant to Samoa because many local sightings occu
 
 Satellite trains are not the only source of confusion.
 
-Individual satellites can suddenly brighten and dim as sunlight reflects from their surfaces. Large constellations may produce repeated reflections that appear patterned or coordinated. Satellite observers and astronomers have noted that Starlink satellites can generate unusual brightness effects that are sometimes misidentified as UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Individual satellites can suddenly brighten and dim as sunlight reflects from their surfaces. Large constellations may produce repeated reflections that appear patterned or coordinated. Satellite observers and astronomers have noted that Starlink satellites can generate unusual brightness effects that are sometimes misidentified as UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 To a witness on a Samoan beach or hillside, a brightening satellite may seem to:
 
@@ -423,86 +423,44 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Strange Pacific Lights Can Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Strange Pacific Lights Can Look Like UFOs, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful contrast between explainable and unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
-        
-        <p class="fr-book-desc">Shows how aerospace events often generate UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Builds familiarity with commonly misidentified sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
-        
-        <p class="fr-book-desc">Explains how satellites move and appear from Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -536,75 +494,71 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-28c67e-why-strange-pacific-lights-can-look-like-ufos-samoa-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -819,144 +773,144 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
 1. <a id="endnote-1"></a>
    Source: channelnewsasia.com  
    Title: blue light spiral new zealand night sky stuns stargazers 2757736  
-   Link: [https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736](https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736)  
+   Link: <a href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNABlue light spiral in New Zealand night sky stuns stargazers20 Jun 2022 — That spiral, which was brighter in some parts of the Pacific...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Starlink](https://en.wikipedia.org/wiki/Starlink)  
+   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2111.09735](https://arxiv.org/abs/2111.09735)  
+   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.07805](https://arxiv.org/abs/2003.07805)  
+   Link: <a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
 
 8. <a id="endnote-8"></a>
    Source: findstarlink.com  
    Title: Some common questions have been answered below  
-   Link: [https://findstarlink.com/](https://findstarlink.com/)  
+   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Tracker - Check when you can see it!Using this site, you can find out when the Starlink satellites are expected to be...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: satflare.com  
    Title: STARLIN K Train  
-   Link: [https://www.satflare.com/track.asp?q=starlink5](https://www.satflare.com/track.asp?q=starlink5)  
+   Link: <a href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlink5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK Train - 3D REAL TIME TRACKINGIn this page you can track in real time all the satellites orbiting the Earth, with both 2D and 3D...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: in-the-sky.org  
-   Link: [https://in-the-sky.org/satpasses.php](https://in-the-sky.org/satpasses.php)  
+   Link: <a href="https://in-the-sky.org/satpasses.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/satpasses.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Observing OpportunitiesSearch for times when satellites will be visible from any observing location on Earth... Starlink satel...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: spaceconnectonline.com.au  
-   Link: [https://www.spaceconnectonline.com.au/launch/5492-falcon-9-fuel-dump-behind-spirals-over-new-zealand](https://www.spaceconnectonline.com.au/launch/5492-falcon-9-fuel-dump-behind-spirals-over-new-zealand)  
+   Link: <a href="https://www.spaceconnectonline.com.au/launch/5492-falcon-9-fuel-dump-behind-spirals-over-new-zealand" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceconnectonline.com.au/launch/5492-falcon-9-fuel-dump-behind-spirals-over-new-zealand</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space ConnectFalcon 9 fuel dump behind spirals over New Zealand21 Jun 2022 — The spirals were spotted in Queenstown and Auckland as well...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: universetoday.com  
    Title: Universe Today Aurora Hunter Todd Salat Captures a Bizarre Spiral Made  
-   Link: [https://www.universetoday.com/articles/aurora-hunter-todd-salat-captures-a-bizarre-spiral-made-by-a-spacex-fuel-dump](https://www.universetoday.com/articles/aurora-hunter-todd-salat-captures-a-bizarre-spiral-made-by-a-spacex-fuel-dump)  
+   Link: <a href="https://www.universetoday.com/articles/aurora-hunter-todd-salat-captures-a-bizarre-spiral-made-by-a-spacex-fuel-dump" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/aurora-hunter-todd-salat-captures-a-bizarre-spiral-made-by-a-spacex-fuel-dump</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayAurora Hunter Todd Salat Captures a Bizarre Spiral Made...April 20, 2023 — 20 Apr 2023 — &quot;It is likely either exhaust from...</p></details>
    Published: April 20, 2023  
 
 13. <a id="endnote-13"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
+   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
    Published: March 24, 2025  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Spirals of blue light in New Zealand night sky leave  
-   Link: [https://www.theguardian.com/world/2022/jun/20/lights-spiral-new-zealand-night-sky-nz-blue-light-spirals](https://www.theguardian.com/world/2022/jun/20/lights-spiral-new-zealand-night-sky-nz-blue-light-spirals)  
+   Link: <a href="https://www.theguardian.com/world/2022/jun/20/lights-spiral-new-zealand-night-sky-nz-blue-light-spirals" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2022/jun/20/lights-spiral-new-zealand-night-sky-nz-blue-light-spirals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSpirals of blue light in New Zealand night sky leave...June 20, 2022 — 19 Jun 2022 — New Zealand stargazers were left puzzle...</p></details>
    Published: June 20, 2022  
 
 15. <a id="endnote-15"></a>
    Source: abc.net.au  
    Title: space x rocket cause blue spiral in new zealand skies  
-   Link: [https://www.abc.net.au/pacific/programs/pacificbeat/space-x-rocket-cause-blue-spiral-in-new-zealand-skies/13942034](https://www.abc.net.au/pacific/programs/pacificbeat/space-x-rocket-cause-blue-spiral-in-new-zealand-skies/13942034)  
+   Link: <a href="https://www.abc.net.au/pacific/programs/pacificbeat/space-x-rocket-cause-blue-spiral-in-new-zealand-skies/13942034" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pacific/programs/pacificbeat/space-x-rocket-cause-blue-spiral-in-new-zealand-skies/13942034</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious blue spirals in skies over New Zealand caused...22 Jun 2022 — Strange spirals of blue light in the New Zealand skies have lef...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkHow to Find Starlink Satellites Tonight and See...Starlink satellite trains are visible for a few days after launch, either sho...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: james.darpinian.com  
-   Link: [https://james.darpinian.com/satellites/?special=starlink](https://james.darpinian.com/satellites/?special=starlink)  
+   Link: <a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/](https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/)  
+   Link: <a href="https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help identifying this weird spiral: r/telescopesThis is from a rocket launch. What you saw was basically a rocket moving directly away f...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: verasatglobal.com  
-   Link: [https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/](https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/)  
+   Link: <a href="https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to see Starlink satellites in the night skyOne of the most fascinating aspects of Starlink satellites is that they can be seen with t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/](https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/)  
+   Link: <a href="https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MULIPLE PEOPLE HAVE SEEN THIS🛰🌌🚀 Explained&quot;SpaceX spirals&quot; are glowing, spiral-shaped lights in the night sky caused by frozen fuel relea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
+   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Pacificnewsroom/posts/926695761250594/](https://www.facebook.com/groups/Pacificnewsroom/posts/926695761250594/)  
+   Link: <a href="https://www.facebook.com/groups/Pacificnewsroom/posts/926695761250594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Pacificnewsroom/posts/926695761250594/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Chinese rocket was spotted in the PacificAfter some investigation I confirmed it was in fact the 2nd stage of a SpaceX Falcon 9 rocket...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ihVuz8uM1qU](https://www.youtube.com/watch?v=ihVuz8uM1qU)  
+   Link: <a href="https://www.youtube.com/watch?v=ihVuz8uM1qU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ihVuz8uM1qU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites train seen in the sky | view from earth | Elon...NEW STARLINK VIDEO: • Video This video shows the Starlink satellite...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=K04JXsXYmSA](https://www.youtube.com/watch?v=K04JXsXYmSA)  
+   Link: <a href="https://www.youtube.com/watch?v=K04JXsXYmSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K04JXsXYmSA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange spiral spotted in sky above South Pacific IslandsPeople on the South Pacific Islands of Samoa and Fiji spotted something weird la...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: earthsky.org  
    Title: strange spiral in the night sky rocket fuel dump aug 12 2025  
-   Link: [https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/](https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/)  
+   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange spiral in the night sky was a rocket fuel dump12 Aug 2025 — The released fuel can freeze into ice crystals, and on a clear night...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/](https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/)  
+   Link: <a href="https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/videos/a-glowing-blue-and-white-spiral-lit-up-the-night-sky-across-the-uk-and-parts-of-/1329351244945759/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>parts of Europe thought to have been caused by the launch of a SpaceX rocket in Florida...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: wbaltv.com  
-   Link: [https://www.wbaltv.com/article/odd-spiral-northern-lights-alaska/43625170](https://www.wbaltv.com/article/odd-spiral-northern-lights-alaska/43625170)  
+   Link: <a href="https://www.wbaltv.com/article/odd-spiral-northern-lights-alaska/43625170" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/odd-spiral-northern-lights-alaska/43625170</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket science: Alaska sky spiral caused by SpaceX fuel...18 Apr 2023 — It was a polar launch, which made it visible over a large swath...</p></details>

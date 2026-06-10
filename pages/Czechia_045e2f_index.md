@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /czechia-045e2f-index/
 description: Focused pages that expand on Czechia.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Czechia_045e2f
 parent_title: Czechia

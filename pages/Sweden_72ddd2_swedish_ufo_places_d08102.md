@@ -245,7 +245,7 @@ next_link:
   permalink: /ufo-sverige/
   short_title: UFO Sverige
   heading_title: How Sweden Sorts UFO Reports
-date: '2026-06-09 01:42:02 '
+date: '2026-06-10 02:09:26 '
 header:
   og_image: /assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1-social.jpg
   preview_image: /assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1-soc
 
 ## Introduction
 
-[Sweden]({{ 'what-makes-swedens-ufo-record-different/' | relative_url }})’s UFO history is tied as much to geography as to eyewitness testimony. The country’s most persistent UFO landmarks are not major cities but lakes, forests, Baltic coastal zones and isolated clearings where reports seemed to leave physical traces. From the 1946 ghost-rocket wave, when witnesses repeatedly claimed that mysterious objects plunged into remote lakes, to the famous UFO monument outside Ängelholm, place itself became part of the story. The landscape shaped what people saw, how investigators searched, and why some cases remained unresolved long after the original sightings.
+Sweden’s UFO history is tied as much to geography as to eyewitness testimony. The country’s most persistent UFO landmarks are not major cities but lakes, forests, Baltic coastal zones and isolated clearings where reports seemed to leave physical traces. From the 1946 ghost-rocket wave, when witnesses repeatedly claimed that mysterious objects plunged into remote lakes, to the famous UFO monument outside Ängelholm, place itself became part of the story. The landscape shaped what people saw, how investigators searched, and why some cases remained unresolved long after the original sightings.
 
 
 <img src="{{ "/assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1-dark.svg" | relative_url }}" alt="UFO Places illustration 1" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ Unlike countries whose UFO culture centres on a single crash narrative, Sweden d
 
 The most distinctive feature of Swedish UFO history is how often reports ended at water.
 
-During the 1946 ghost-rocket wave, hundreds of observations were recorded across Sweden and neighbouring Nordic countries. Many witnesses did not merely report lights in the sky. They claimed to see rocket-shaped objects descend toward lakes, disappear beneath the surface or strike the water with enough force to create splashes, shockwaves or disturbed sediment. These accounts immediately created a practical problem: if something physical had entered the water, investigators should have been able to recover it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edn.com">[EDN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edn.com</span><span class="citation-popover-snippet">EDNGhost rocket UFOs are 1st reported, February 26, 1946Feb 26, 2013 — For example, on July 19, 1946, a ghost rocket reportedly crashed i...</span><span class="citation-popover-meta">Published: July 19, 1946</span></span></span>
+During the 1946 ghost-rocket wave, hundreds of observations were recorded across Sweden and neighbouring Nordic countries. Many witnesses did not merely report lights in the sky. They claimed to see rocket-shaped objects descend toward lakes, disappear beneath the surface or strike the water with enough force to create splashes, shockwaves or disturbed sediment. These accounts immediately created a practical problem: if something physical had entered the water, investigators should have been able to recover it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edn.com">[EDN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edn.com</span><span class="citation-popover-snippet">Ghost rocket UFOs are 1st reported, February 26, 1946Feb 26, 2013 — For example, on July 19, 1946, a ghost rocket reportedly crashed i...</span><span class="citation-popover-meta">Published: July 19, 1946</span></span></span>
 
-The most famous example was Lake Kölmjärv. On 19 July 1946, multiple witnesses reported a grey, torpedo-like object descending into the lake. Swedish military personnel conducted a search that became one of the defining investigations of the entire ghost-rocket period. Divers and technical teams examined the site, and officials reported disturbances on the lake bottom. Yet no wreckage was recovered. The result was neither confirmation nor debunking. Something appeared to have prompted a search, but the search produced no material object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edn.com">[EDN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edn.com</span><span class="citation-popover-snippet">EDNGhost rocket UFOs are 1st reported, February 26, 1946Feb 26, 2013 — For example, on July 19, 1946, a ghost rocket reportedly crashed i...</span><span class="citation-popover-meta">Published: July 19, 1946</span></span></span>
+The most famous example was Lake Kölmjärv. On 19 July 1946, multiple witnesses reported a grey, torpedo-like object descending into the lake. Swedish military personnel conducted a search that became one of the defining investigations of the entire ghost-rocket period. Divers and technical teams examined the site, and officials reported disturbances on the lake bottom. Yet no wreckage was recovered. The result was neither confirmation nor debunking. Something appeared to have prompted a search, but the search produced no material object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edn.com">[EDN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edn.com</span><span class="citation-popover-snippet">Ghost rocket UFOs are 1st reported, February 26, 1946Feb 26, 2013 — For example, on July 19, 1946, a ghost rocket reportedly crashed i...</span><span class="citation-popover-meta">Published: July 19, 1946</span></span></span>
 
 The Kölmjärv incident became important because it highlighted a recurring pattern:
 
@@ -327,7 +327,7 @@ The Baltic setting therefore produced a layered record. Some reports fit natural
 
 Many UFO reports disappear from public memory after newspapers stop covering them. Sweden developed a different pattern because archives and local communities preserved location-based stories.
 
-The Archives for the Unexplained (AFU) and UFO-Sverige accumulated thousands of reports, photographs, newspaper clippings and investigation files. This archival culture helped transform certain locations into long-term reference points. Instead of surviving only as rumours, places such as Kölmjärv remained connected to documented investigations, official correspondence and later historical research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">report files</span><span class="citation-popover-snippet">AFUUFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</span></span></span>
+The Archives for the Unexplained (AFU) and UFO-Sverige accumulated thousands of reports, photographs, newspaper clippings and investigation files. This archival culture helped transform certain locations into long-term reference points. Instead of surviving only as rumours, places such as Kölmjärv remained connected to documented investigations, official correspondence and later historical research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">report files</span><span class="citation-popover-snippet">UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</span></span></span>
 
 As a result, Swedish UFO geography operates on two levels.
 
@@ -353,7 +353,7 @@ The memorial, erected in 1972, includes:
 
 </div>
 
-The site is now recognised as a heritage location and remains one of the most unusual tourist attractions in southern Sweden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boka.engelholm.com/en/to-do/346298/the-ufo-monument/showdetails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boka.engelholm.com">[2Boka Ängelholm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boka.engelholm.com</span><span class="citation-popover-snippet">Boka ÄngelholmÄngeholm | The Ufo Monument, Sights/AttractionsIn the woods, in the centre of circle shaped prints stands a three tons heav...</span></span></span>
+The site is now recognised as a heritage location and remains one of the most unusual tourist attractions in southern Sweden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boka.engelholm.com/en/to-do/346298/the-ufo-monument/showdetails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boka.engelholm.com">[2Boka Ängelholm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boka.engelholm.com</span><span class="citation-popover-snippet">Boka ÄngelholmÄngeholm &#124; The Ufo Monument, Sights/AttractionsIn the woods, in the centre of circle shaped prints stands a three tons heav...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZE99n35yTDg" title="Dark and Disturbing Ocean Mysteries That Are IMPOSSIBLE To Solve" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZE99n35yTDg" target="_blank" rel="noopener noreferrer">Dark and Disturbing Ocean Mysteries That Are IMPOSSIBLE To Solve</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 57.2K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZE99n35yTDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZE99n35yTDg">Open on YouTube</a></p></div></div></div>
@@ -396,93 +396,51 @@ Taken together, Sweden's UFO landmarks show how geography shaped the country's u
 
 The lakes of the ghost-rocket era encouraged searches for physical traces and created enduring mysteries when nothing was recovered. Baltic surveillance concerns pushed authorities to treat some reports as potential defence issues rather than mere folklore. Forest sites such as Ängelholm demonstrate how local identity and cultural memory can preserve a UFO story long after investigators have exhausted the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ängelholm UFO memorial</span><span class="citation-popover-snippet">Ängelholm UFO memorial</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ängelholm UFO memorial</span><span class="citation-popover-snippet">Ängelholm UFO memorial</span></span></span>
 
-This landscape-driven history helps explain why Swedish UFO research remains centred on archives, field investigations and place-specific records. The country's most famous UFO locations are not remembered because they proved extraordinary claims. They are remembered because they sit at the intersection of witness testimony, geography, official inquiry and the persistent absence of definitive answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu50/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">AFUAFU turns 50 and continues to growOn June 13, 2011, AFU was able to receive the entire FOI archive when the then UFO officer Eva Bernh...</span><span class="citation-popover-meta">Published: June 13, 2011</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">report files</span><span class="citation-popover-snippet">AFUUFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</span></span></span>
+This landscape-driven history helps explain why Swedish UFO research remains centred on archives, field investigations and place-specific records. The country's most famous UFO locations are not remembered because they proved extraordinary claims. They are remembered because they sit at the intersection of witness testimony, geography, official inquiry and the persistent absence of definitive answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu50/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">AFU turns 50 and continues to growOn June 13, 2011, AFU was able to receive the entire FOI archive when the then UFO officer Eva Bernh...</span><span class="citation-popover-meta">Published: June 13, 2011</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">report files</span><span class="citation-popover-snippet">UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xMtAjrLEuLM" title="Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xMtAjrLEuLM" target="_blank" rel="noopener noreferrer">Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.9K &middot; Uploaded: April 2014 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xMtAjrLEuLM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xMtAjrLEuLM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Sweden&#x27;s UFO Stories Cluster. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Sweden&#x27;s UFO Stories Cluster, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Examines reports tied to specific landscapes and regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how geography, folklore, and recurring locations shape UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
-        
-        <p class="fr-book-desc">Fits the folklore and anomalous-geography angle of Swedish UFO sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides context for Swedish locations and notable European cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -516,75 +474,71 @@ This landscape-driven history helps explain why Swedish UFO research remains cen
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-places-where-sweden-s-ufo-stories-cluster-sweden-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -799,109 +753,109 @@ This landscape-driven history helps explain why Swedish UFO research remains cen
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: [Ghost rockets](&#123;&#123; 'ghost-rockets/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Ghost_rockets](https://en.wikipedia.org/wiki/Ghost_rockets)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ängelholm UFO memorial  
-   Link: [https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial](https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial)  
+   Link: <a href="https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial</a>  
 
 3. <a id="endnote-3"></a>
    Source: afu.se  
    Title: report files  
-   Link: [https://www.afu.se/collections/report-files/](https://www.afu.se/collections/report-files/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFUUFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</p></details>
+   Link: <a href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/report-files/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: edn.com  
-   Link: [https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/](https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EDNGhost rocket UFOs are 1st reported, February 26, 1946Feb 26, 2013 — For example, on July 19, 1946, a ghost rocket reportedly crashed i...</p></details>
+   Link: <a href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rocket UFOs are 1st reported, February 26, 1946Feb 26, 2013 — For example, on July 19, 1946, a ghost rocket reportedly crashed i...</p></details>
    Published: July 19, 1946  
 
 5. <a id="endnote-5"></a>
    Source: area51aliencenter.net  
    Title: ghost rockets in 1946  
-   Link: [https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/](https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/)  
+   Link: <a href="https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 9, 2022 — While the Swedish and U.S. military findings are still unclear, a November 1948 Top Secret U.S. Air Force document which wa...</p></details>
    Published: November 1948  
 
 6. <a id="endnote-6"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu50/](https://www.afu.se/afu50/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFUAFU turns 50 and continues to growOn June 13, 2011, AFU was able to receive the entire FOI archive when the then UFO officer Eva Bernh...</p></details>
+   Link: <a href="https://www.afu.se/afu50/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu50/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFU turns 50 and continues to growOn June 13, 2011, AFU was able to receive the entire FOI archive when the then UFO officer Eva Bernh...</p></details>
    Published: June 13, 2011  
 
 7. <a id="endnote-7"></a>
    Source: futilitycloset.com  
    Title: ghost rockets  
-   Link: [https://www.futilitycloset.com/2007/01/24/ghost-rockets/](https://www.futilitycloset.com/2007/01/24/ghost-rockets/)  
+   Link: <a href="https://www.futilitycloset.com/2007/01/24/ghost-rockets/" target="_blank" rel="noopener noreferrer nofollow">https://www.futilitycloset.com/2007/01/24/ghost-rockets/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 24, 2007 — A number of them crashed into lakes, but no debris was found; the army spent three weeks searching for a “gray, rocket-sha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sebastiancase.substack.com  
    Title: Sebastian Case A Summer of Ghost Rockets  
-   Link: [https://sebastiancase.substack.com/p/a-summer-of-ghost-rockets](https://sebastiancase.substack.com/p/a-summer-of-ghost-rockets)  
+   Link: <a href="https://sebastiancase.substack.com/p/a-summer-of-ghost-rockets" target="_blank" rel="noopener noreferrer nofollow">https://sebastiancase.substack.com/p/a-summer-of-ghost-rockets</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sebastian CaseA Summer of Ghost Rockets - Sebastian Case - SubstackThe working hypothesis of the Swedish military seems to have been that...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: boka.engelholm.com  
-   Link: [https://boka.engelholm.com/en/to-do/346298/the-ufo-monument/showdetails](https://boka.engelholm.com/en/to-do/346298/the-ufo-monument/showdetails)  
+   Link: <a href="https://boka.engelholm.com/en/to-do/346298/the-ufo-monument/showdetails" target="_blank" rel="noopener noreferrer nofollow">https://boka.engelholm.com/en/to-do/346298/the-ufo-monument/showdetails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boka ÄngelholmÄngeholm | The Ufo Monument, Sights/AttractionsIn the woods, in the centre of circle shaped prints stands a three tons heav...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/](https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookUnidentified aerial phenomena in post-war ScandinaviaIn several cases, ghost rockets were reported to crash into lakes, prompting...</p></details>
+   Link: <a href="https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena in post-war ScandinaviaIn several cases, ghost rockets were reported to crash into lakes, prompting...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7RLtpVR_mdA](https://www.youtube.com/watch?v=7RLtpVR_mdA)  
+   Link: <a href="https://www.youtube.com/watch?v=7RLtpVR_mdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RLtpVR_mdA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8: Sweden. Archives for the Unexplained and Ghost RocketsI am joined by Clas Svahn, international director of UFO-Sweden and chairman for...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: crystalinks.com  
-   Link: [https://www.crystalinks.com/ghostrockets.html](https://www.crystalinks.com/ghostrockets.html)  
+   Link: <a href="https://www.crystalinks.com/ghostrockets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ghostrockets.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost RocketsThe best known of these crashes occurred on July 19, 1946, into Lake Kolmjarv, Sweden. Witnesses reported a gray, rocket-sha...</p></details>
    Published: July 19, 1946  
 
 13. <a id="endnote-13"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/Attraction_Review-g189835-d10696269-Reviews-UFO_monumentet-Angelholm_Skane_County.html](https://www.tripadvisor.co.uk/Attraction_Review-g189835-d10696269-Reviews-UFO_monumentet-Angelholm_Skane_County.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g189835-d10696269-Reviews-UFO_monumentet-Angelholm_Skane_County.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g189835-d10696269-Reviews-UFO_monumentet-Angelholm_Skane_County.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three tons of heavily throne a discus-shaped spacecraft in the center of some circular...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1psh6mg/the_ufo_monument_in_%C3%A4ngelholm_southern_sweden/](https://www.reddit.com/r/UFOs/comments/1psh6mg/the_ufo_monument_in_%C3%A4ngelholm_southern_sweden/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1psh6mg/the_ufo_monument_in_%C3%A4ngelholm_southern_sweden/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1psh6mg/the_ufo_monument_in_%C3%A4ngelholm_southern_sweden/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n the outskirts of Ängelholm, in the Sibirienskogen area...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/](https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1946 &quot;Ghost Rockets&quot;: r/UnresolvedMysteries... lakes, an officer of the Swedish Air Force, Karl-Gösta Bartoll was searching for a gh...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: swedish ghost rockets of 1946 when swedish  
-   Link: [https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/](https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Swedish ghost rockets of 1946-- when...Swedish investigators/scientists reached the conclusion that the &quot;rockets&quot; investigated were of e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wkms.org  
-   Link: [https://www.wkms.org/news-archive/2013-02-26/datebook-february-26-ghost-rockets-over-sweden-67-years-ago](https://www.wkms.org/news-archive/2013-02-26/datebook-february-26-ghost-rockets-over-sweden-67-years-ago)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WKMSDatebook: February 26 - Ghost Rockets Over Sweden 67...Feb 26, 2013 — On this day in 1946, the first reports were filed of missile-s...</p></details>
+   Link: <a href="https://www.wkms.org/news-archive/2013-02-26/datebook-february-26-ghost-rockets-over-sweden-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.wkms.org/news-archive/2013-02-26/datebook-february-26-ghost-rockets-over-sweden-67-years-ago</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Datebook: February 26 - Ghost Rockets Over Sweden 67...Feb 26, 2013 — On this day in 1946, the first reports were filed of missile-s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tvi.show  
    Title: The Ghost Rockets Over Scandinavia  
-   Link: [https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia](https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia)  
+   Link: <a href="https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2025 — On July 19, 1946, a “ghost rocket” was reportedly seen crashing into Lake Kolmjarv in northern Sweden, sparking a well-doc...</p></details>
    Published: May 13, 2025  
 
 19. <a id="endnote-19"></a>
    Source: amusingplanet.com  
    Title: the ghost rockets of scandinavia  
-   Link: [https://www.amusingplanet.com/2026/02/the-ghost-rockets-of-scandinavia.html](https://www.amusingplanet.com/2026/02/the-ghost-rockets-of-scandinavia.html)  
+   Link: <a href="https://www.amusingplanet.com/2026/02/the-ghost-rockets-of-scandinavia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2026/02/the-ghost-rockets-of-scandinavia.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 2, 2026 — The best known of these crashes occurred on July 19, 1946, into Lake Kölmjärv, near Nyköping in southeastern Sweden. Multip...</p></details>
    Published: July 19, 1946  

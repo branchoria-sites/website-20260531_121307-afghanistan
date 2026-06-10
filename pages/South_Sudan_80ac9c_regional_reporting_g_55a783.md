@@ -245,7 +245,7 @@ next_link:
   permalink: /un-aircraft/
   short_title: UN Aircraft
   heading_title: When Known Aircraft Become Mystery Stories
-date: '2026-06-09 01:41:14 '
+date: '2026-06-10 02:08:28 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c_regional_reporting_g_55a783-Illustration-1-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c_regional_reporting_g_55a783-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/South_Sudan_80ac9c_regional_reporting_g_55a783-Illustratio
 
 ## Introduction
 
-Most public discussion of unusual aerial sightings in [South Sudan]({{ 'what-counts-as-a-south-sudan-ufo-case/' | relative_url }}) centres on Juba. That does not necessarily mean the capital experiences more unexplained events than the rest of the country. A more cautious interpretation is that Juba produces most of the visible record because it has the country's strongest concentration of media outlets, internet access, aviation activity, government institutions, and international organisations. Outside the capital, many of the conditions needed to turn an observation into a searchable public record are weak or absent. As a result, the South Sudan UFO record may reflect reporting geography as much as observation geography.
+Most public discussion of unusual aerial sightings in South Sudan centres on Juba. That does not necessarily mean the capital experiences more unexplained events than the rest of the country. A more cautious interpretation is that Juba produces most of the visible record because it has the country's strongest concentration of media outlets, internet access, aviation activity, government institutions, and international organisations. Outside the capital, many of the conditions needed to turn an observation into a searchable public record are weak or absent. As a result, the South Sudan UFO record may reflect reporting geography as much as observation geography.
 
 
 <img src="{{ "/assets/images/South_Sudan_80ac9c_regional_reporting_g_55a783-Illustration-1-dark.svg" | relative_url }}" alt="Regional Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/South_Sudan_80ac9c_regional_reporting_g_55a783-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Sudan_80ac9c_regional_reporting_g_55a783-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers trying to understand whether unusual sky reports occur elsewhere in South Sudan, the central problem is not only identifying sightings. It is understanding what never reaches archives, journalists, online databases, or investigators in the first place. Conflict, displacement, poor communications infrastructure, seasonal isolation, and dependence on humanitarian aviation all affect what becomes visible to the public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defyhatenow.org">[Defy Hate Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defyhatenow.org</span><span class="citation-popover-title">Defy Hate Now Conflict and Connectivity in South Sudan Report</span><span class="citation-popover-snippet">Defy Hate NowConflict and Connectivity in South Sudan ReportAugust 5, 2021 — 1 Aug 2021 — This draws attention to the centrality of digit...</span><span class="citation-popover-meta">Published: August 5, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internews.org">[2Information Saves Lives | Internews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internews.org</span><span class="citation-popover-snippet">Access to radios and television stations...Read more...</span></span></span>
+For researchers trying to understand whether unusual sky reports occur elsewhere in South Sudan, the central problem is not only identifying sightings. It is understanding what never reaches archives, journalists, online databases, or investigators in the first place. Conflict, displacement, poor communications infrastructure, seasonal isolation, and dependence on humanitarian aviation all affect what becomes visible to the public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defyhatenow.org">[Defy Hate Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defyhatenow.org</span><span class="citation-popover-title">Defy Hate Now Conflict and Connectivity in South Sudan Report</span><span class="citation-popover-snippet">Defy Hate NowConflict and Connectivity in South Sudan ReportAugust 5, 2021 — 1 Aug 2021 — This draws attention to the centrality of digit...</span><span class="citation-popover-meta">Published: August 5, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internews.org">[2Information Saves Lives &#124; Internews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internews.org</span><span class="citation-popover-snippet">Access to radios and television stations...Read more...</span></span></span>
 
 ## Why Rural Reports Rarely Become Records
 
@@ -266,7 +266,7 @@ The absence of reports from many regions should not automatically be read as evi
 
 A sighting normally becomes part of a public archive only after several steps: someone observes something, communicates it to others, reaches a journalist, researcher, official, or online platform, and leaves behind documentation that can later be verified. In much of South Sudan, each of those steps can fail.
 
-Research on South Sudan's information environment describes limited communications infrastructure, uneven internet access, affordability problems, and major differences between urban and rural connectivity. Media organisations also operate under difficult conditions, with restricted freedom of expression and limited resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cipesa.org/the-state-of-media-freedom-and-safety-of-journalists-in-africa-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipesa.org">[CIPESA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipesa.org</span><span class="citation-popover-title">the state of media freedom and safety of journalists in africa report</span><span class="citation-popover-snippet">The State of Media Freedom and Safety of Journalists in Africa...According to the GSMA&#x27;s State of Mobile Internet Connectivity 2021 repo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internews.org">[3Information Saves Lives | Internews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internews.org</span><span class="citation-popover-snippet">Access to radios and television stations...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defyhatenow.org">[Defy Hate Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defyhatenow.org</span><span class="citation-popover-title">Defy Hate Now Conflict and Connectivity in South Sudan Report</span><span class="citation-popover-snippet">Defy Hate NowConflict and Connectivity in South Sudan ReportAugust 5, 2021 — 1 Aug 2021 — This draws attention to the centrality of digit...</span><span class="citation-popover-meta">Published: August 5, 2021</span></span></span>
+Research on South Sudan's information environment describes limited communications infrastructure, uneven internet access, affordability problems, and major differences between urban and rural connectivity. Media organisations also operate under difficult conditions, with restricted freedom of expression and limited resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cipesa.org/the-state-of-media-freedom-and-safety-of-journalists-in-africa-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipesa.org">[CIPESA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipesa.org</span><span class="citation-popover-title">the state of media freedom and safety of journalists in africa report</span><span class="citation-popover-snippet">The State of Media Freedom and Safety of Journalists in Africa...According to the GSMA&#x27;s State of Mobile Internet Connectivity 2021 repo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internews.org">[3Information Saves Lives &#124; Internews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internews.org</span><span class="citation-popover-snippet">Access to radios and television stations...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defyhatenow.org">[Defy Hate Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defyhatenow.org</span><span class="citation-popover-title">Defy Hate Now Conflict and Connectivity in South Sudan Report</span><span class="citation-popover-snippet">Defy Hate NowConflict and Connectivity in South Sudan ReportAugust 5, 2021 — 1 Aug 2021 — This draws attention to the centrality of digit...</span><span class="citation-popover-meta">Published: August 5, 2021</span></span></span>
 
 That creates several practical barriers:
 
@@ -332,7 +332,7 @@ For researchers, this creates a paradox. Regions with the least public reporting
 
 South Sudan's reporting map changes with the seasons.
 
-Heavy rains and flooding regularly disrupt transport networks and isolate communities. When roads disappear and flights become the primary means of access, information flows become concentrated through a small number of humanitarian channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WorldFoodProgramme/posts/%EF%B8%8F-in-some-of-the-worlds-most-inaccessible-conflictaffected-places-air-drops-are-/1407594221398389/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookWorld Food ProgrammeIn South Sudan, poor road infrastructure, seasonal challenges such as floods, and insecurity make humanitaria...</span></span></span>
+Heavy rains and flooding regularly disrupt transport networks and isolate communities. When roads disappear and flights become the primary means of access, information flows become concentrated through a small number of humanitarian channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WorldFoodProgramme/posts/%EF%B8%8F-in-some-of-the-worlds-most-inaccessible-conflictaffected-places-air-drops-are-/1407594221398389/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">World Food ProgrammeIn South Sudan, poor road infrastructure, seasonal challenges such as floods, and insecurity make humanitaria...</span></span></span>
 
 If an unusual aerial event were reported during a period of isolation, there may be no immediate mechanism for collecting witness statements, obtaining imagery, or comparing accounts across regions. By the time communication is restored, details may have been forgotten, altered, or merged into local rumour.
 
@@ -363,7 +363,7 @@ If future researchers wanted a clearer picture of aerial reports beyond Juba, se
 * More accessible regional media archives.
 * Routine recording of aviation activity that can be checked against sightings.
 * Local-language witness collection projects that preserve accounts before they disappear.
-* Stronger protections for journalists and independent reporting networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internews.org">[Information Saves Lives | Internews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internews.org</span><span class="citation-popover-snippet">Access to radios and television stations...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialscienceinaction.org">[Social Science in Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialscienceinaction.org</span><span class="citation-popover-snippet">Social Science in ActionThe impacts of global aid funding cuts on independent...30 May 2025 — In South Sudan, information is as vital as...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+* Stronger protections for journalists and independent reporting networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internews.org">[Information Saves Lives &#124; Internews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internews.org</span><span class="citation-popover-snippet">Access to radios and television stations...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialscienceinaction.org">[Social Science in Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialscienceinaction.org</span><span class="citation-popover-snippet">Social Science in ActionThe impacts of global aid funding cuts on independent...30 May 2025 — In South Sudan, information is as vital as...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Community radio is particularly important because it remains one of the most influential information channels in many parts of South Sudan. Researchers and media specialists have repeatedly noted its importance for reaching displaced and rural populations that are otherwise disconnected from national information networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialscienceinaction.org">[Social Science in Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialscienceinaction.org</span><span class="citation-popover-snippet">Social Science in ActionThe impacts of global aid funding cuts on independent...30 May 2025 — In South Sudan, information is as vital as...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
@@ -380,86 +380,44 @@ The current public record strongly favours places connected to airports, media o
 That means any attempt to assess UFO or UAP patterns across South Sudan must account for reporting inequality. The visible record outside Juba is thin, but the reasons are largely structural. Until regional documentation improves, the country's map of sightings will remain inseparable from its map of conflict, access, and communications.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Might Be Missing Outside Juba?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Might Be Missing Outside Juba?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Demonstrates how records are created and preserved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports critical evaluation where evidence is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Examines how reporting systems shape what becomes a mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Highlights archival gaps and reporting limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -493,75 +451,71 @@ That means any attempt to assess UFO or UAP patterns across South Sudan must acc
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-gaps-what-might-be-missing-outside-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -775,105 +729,105 @@ That means any attempt to assess UFO or UAP patterns across South Sudan must acc
 
 1. <a id="endnote-1"></a>
    Source: internews.org  
-   Link: [https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf](https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf)  
+   Link: <a href="https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internews.org/wp-content/uploads/2024/07/South-Sudan-IEA_Living-in-Information-Limbo_EN_2023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Access to radios and television stations...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reliefweb.int  
    Title: unhas south sudan strategic document  
-   Link: [https://reliefweb.int/report/south-sudan/unhas-south-sudan-strategic-document](https://reliefweb.int/report/south-sudan/unhas-south-sudan-strategic-document)  
+   Link: <a href="https://reliefweb.int/report/south-sudan/unhas-south-sudan-strategic-document" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/south-sudan/unhas-south-sudan-strategic-document</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2025 — South Sudan transportation systems are limited due to non-developed infrastructure, seasonal challenges related to weather c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jrbssonline.com  
-   Link: [https://www.jrbssonline.com/wp-content/uploads/2023/10/Volume6Issue5Paper1.pdf](https://www.jrbssonline.com/wp-content/uploads/2023/10/Volume6Issue5Paper1.pdf)  
+   Link: <a href="https://www.jrbssonline.com/wp-content/uploads/2023/10/Volume6Issue5Paper1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jrbssonline.com/wp-content/uploads/2023/10/Volume6Issue5Paper1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this thesis was to explore the factors contributing to digital communication inefficiency in the South Sudan&#x27;s...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cipesa.org  
    Title: the state of media freedom and safety of journalists in africa report  
-   Link: [https://cipesa.org/the-state-of-media-freedom-and-safety-of-journalists-in-africa-report/](https://cipesa.org/the-state-of-media-freedom-and-safety-of-journalists-in-africa-report/)  
+   Link: <a href="https://cipesa.org/the-state-of-media-freedom-and-safety-of-journalists-in-africa-report/" target="_blank" rel="noopener noreferrer nofollow">https://cipesa.org/the-state-of-media-freedom-and-safety-of-journalists-in-africa-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The State of Media Freedom and Safety of Journalists in Africa...According to the GSMA&#x27;s State of Mobile Internet Connectivity 2021 repo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: data.unhcr.org  
    Title: Data Portal Situation South Sudan  
-   Link: [https://data.unhcr.org/en/situations/southsudan](https://data.unhcr.org/en/situations/southsudan)  
+   Link: <a href="https://data.unhcr.org/en/situations/southsudan" target="_blank" rel="noopener noreferrer nofollow">https://data.unhcr.org/en/situations/southsudan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publish date: 16 July 2025 (10 months ago) Create date: 16 July...Read more...</p></details>
    Published: July 2025  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WorldFoodProgramme/posts/%EF%B8%8F-in-some-of-the-worlds-most-inaccessible-conflictaffected-places-air-drops-are-/1407594221398389/](https://www.facebook.com/WorldFoodProgramme/posts/%EF%B8%8F-in-some-of-the-worlds-most-inaccessible-conflictaffected-places-air-drops-are-/1407594221398389/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookWorld Food ProgrammeIn South Sudan, poor road infrastructure, seasonal challenges such as floods, and insecurity make humanitaria...</p></details>
+   Link: <a href="https://www.facebook.com/WorldFoodProgramme/posts/%EF%B8%8F-in-some-of-the-worlds-most-inaccessible-conflictaffected-places-air-drops-are-/1407594221398389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldFoodProgramme/posts/%EF%B8%8F-in-some-of-the-worlds-most-inaccessible-conflictaffected-places-air-drops-are-/1407594221398389/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Food ProgrammeIn South Sudan, poor road infrastructure, seasonal challenges such as floods, and insecurity make humanitaria...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064323026885/posts/humanitarian-access-to-jonglei-has-been-severed-due-to-ongoing-conflict-that-led/1358981082922646/](https://www.facebook.com/100064323026885/posts/humanitarian-access-to-jonglei-has-been-severed-due-to-ongoing-conflict-that-led/1358981082922646/)  
+   Link: <a href="https://www.facebook.com/100064323026885/posts/humanitarian-access-to-jonglei-has-been-severed-due-to-ongoing-conflict-that-led/1358981082922646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064323026885/posts/humanitarian-access-to-jonglei-has-been-severed-due-to-ongoing-conflict-that-led/1358981082922646/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>o suspension of flights, causing disruption of essential...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/eyeradioss/posts/the-united-nations-humanitarian-air-service-unhas-has-officially-announced-a-tem/1544909280978278/](https://www.facebook.com/eyeradioss/posts/the-united-nations-humanitarian-air-service-unhas-has-officially-announced-a-tem/1544909280978278/)  
+   Link: <a href="https://www.facebook.com/eyeradioss/posts/the-united-nations-humanitarian-air-service-unhas-has-officially-announced-a-tem/1544909280978278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyeradioss/posts/the-united-nations-humanitarian-air-service-unhas-has-officially-announced-a-tem/1544909280978278/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>temporary suspension of all flight operations to and from...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/the-southsudan-national-task-force-unmiss-deputy-special-representative-and-resi/897047509129162/](https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/the-southsudan-national-task-force-unmiss-deputy-special-representative-and-resi/897047509129162/)  
+   Link: <a href="https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/the-southsudan-national-task-force-unmiss-deputy-special-representative-and-resi/897047509129162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/the-southsudan-national-task-force-unmiss-deputy-special-representative-and-resi/897047509129162/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Juba International Airport. Information minister...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: South Sudan Boda Boda Talk Talk  
-   Link: [https://www.youtube.com/watch?v=pG76ssgasns](https://www.youtube.com/watch?v=pG76ssgasns)  
+   Link: <a href="https://www.youtube.com/watch?v=pG76ssgasns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pG76ssgasns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internews...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: defyhatenow.org  
    Title: Defy Hate Now Conflict and Connectivity in South Sudan Report  
-   Link: [https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf](https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf)  
+   Link: <a href="https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://defyhatenow.org/wp-content/uploads/2021/08/Conflict-and-Connectivity-in-South-Sudan.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defy Hate NowConflict and Connectivity in South Sudan ReportAugust 5, 2021 — 1 Aug 2021 — This draws attention to the centrality of digit...</p></details>
    Published: August 5, 2021  
 
 12. <a id="endnote-12"></a>
    Source: unmiss.unmissions.org  
-   Link: [https://unmiss.unmissions.org/sites/default/files/unmiss_conflict_in_south_sudan_-_a_human_rights_report.pdf](https://unmiss.unmissions.org/sites/default/files/unmiss_conflict_in_south_sudan_-_a_human_rights_report.pdf)  
+   Link: <a href="https://unmiss.unmissions.org/sites/default/files/unmiss_conflict_in_south_sudan_-_a_human_rights_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unmiss.unmissions.org/sites/default/files/unmiss_conflict_in_south_sudan_-_a_human_rights_report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations Mission in South SudanConflict in South Sudan:8 May 2014 — This report presents the findings of investigations and documen...</p></details>
    Published: May 2014  
 
 13. <a id="endnote-13"></a>
    Source: securitycouncilreport.org  
-   Link: [https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/N2272929.pdf](https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/N2272929.pdf)  
+   Link: <a href="https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/N2272929.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/N2272929.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Council ReportS/2022/918December 9, 2022 — 7 Dec 2022 — UNMISS maintained its support for internally displaced persons camps (fo...</p></details>
    Published: December 9, 2022  
 
 14. <a id="endnote-14"></a>
    Source: eyeradio.org  
-   Link: [https://www.eyeradio.org/unhas-announces-temporary-suspension-of-flights-to-northern-jonglei/](https://www.eyeradio.org/unhas-announces-temporary-suspension-of-flights-to-northern-jonglei/)  
+   Link: <a href="https://www.eyeradio.org/unhas-announces-temporary-suspension-of-flights-to-northern-jonglei/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeradio.org/unhas-announces-temporary-suspension-of-flights-to-northern-jonglei/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye RadioUNHAS announces temporary suspension of flights to...January 5, 2026 — 5 Jan 2026 — The suspension halts critical transport lin...</p></details>
    Published: January 5, 2026  
 
 15. <a id="endnote-15"></a>
    Source: socialscienceinaction.org  
-   Link: [https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/](https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/)  
+   Link: <a href="https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialscienceinaction.org/blogs-and-news/the-impacts-of-global-aid-funding-cuts-on-independent-journalism-in-south-sudan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Science in ActionThe impacts of global aid funding cuts on independent...30 May 2025 — In South Sudan, information is as vital as...</p></details>
    Published: May 2025  
 
 16. <a id="endnote-16"></a>
    Source: unmiss.unmissions.org  
-   Link: [https://unmiss.unmissions.org/en](https://unmiss.unmissions.org/en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| UNMISSThe United Nations Mission works with the people of South Sudan to protect civilians and build durable peace. Around 12,000 peace...</p></details>
+   Link: <a href="https://unmiss.unmissions.org/en" target="_blank" rel="noopener noreferrer nofollow">https://unmiss.unmissions.org/en</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNMISSThe United Nations Mission works with the people of South Sudan to protect civilians and build durable peace. Around 12,000 peace...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: socialscienceinaction.org  
    Title: crisis in sudan briefing note on displacement from sudan to south sudan  
-   Link: [https://www.socialscienceinaction.org/resources/crisis-in-sudan-briefing-note-on-displacement-from-sudan-to-south-sudan/](https://www.socialscienceinaction.org/resources/crisis-in-sudan-briefing-note-on-displacement-from-sudan-to-south-sudan/)  
+   Link: <a href="https://www.socialscienceinaction.org/resources/crisis-in-sudan-briefing-note-on-displacement-from-sudan-to-south-sudan/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialscienceinaction.org/resources/crisis-in-sudan-briefing-note-on-displacement-from-sudan-to-south-sudan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis in Sudan: Briefing note on displacement from...28 Jul 2023 — This briefing (published 28 July 2023) focuses on the historical and...</p></details>
    Published: July 2023  
 
 18. <a id="endnote-18"></a>
    Source: logcluster.org  
-   Link: [https://logcluster.org/en/documents/south-sudan-unhas-flight-schedule-effective-12-may-2025](https://logcluster.org/en/documents/south-sudan-unhas-flight-schedule-effective-12-may-2025)  
+   Link: <a href="https://logcluster.org/en/documents/south-sudan-unhas-flight-schedule-effective-12-may-2025" target="_blank" rel="noopener noreferrer nofollow">https://logcluster.org/en/documents/south-sudan-unhas-flight-schedule-effective-12-may-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan - UNHAS Flight Schedule, as of effective...13 May 2025 — This is a weekly flight schedule report for UNHAS in South Sudan, e...</p></details>
    Published: May 2025  
 
@@ -881,52 +835,52 @@ That means any attempt to assess UFO or UAP patterns across South Sudan must acc
 
 19. <a id="endnote-19"></a>
    Source: executiveboard.wfp.org  
-   Link: [https://executiveboard.wfp.org/document_download/WFP-0000127607](https://executiveboard.wfp.org/document_download/WFP-0000127607)  
+   Link: <a href="https://executiveboard.wfp.org/document_download/WFP-0000127607" target="_blank" rel="noopener noreferrer nofollow">https://executiveboard.wfp.org/document_download/WFP-0000127607</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WFP Executive BoardUpdate on the United Nations Humanitarian Air ServiceIn coordination with WHO, UNHAS South Sudan has supported the hum...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: expertisefrance.fr  
-   Link: [https://www.expertisefrance.fr/sites/expertise/files/documents/20182/234347/AMMi%2B-%2BCountry%2BReport%2B-%2BSouth%2BSudan.pdf/AMMi%20-%20Country%20Report%20-%20South%20Sudan.pdf](https://www.expertisefrance.fr/sites/expertise/files/documents/20182/234347/AMMi%2B-%2BCountry%2BReport%2B-%2BSouth%2BSudan.pdf/AMMi%20-%20Country%20Report%20-%20South%20Sudan.pdf)  
+   Link: <a href="https://www.expertisefrance.fr/sites/expertise/files/documents/20182/234347/AMMi%2B-%2BCountry%2BReport%2B-%2BSouth%2BSudan.pdf/AMMi%20-%20Country%20Report%20-%20South%20Sudan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.expertisefrance.fr/sites/expertise/files/documents/20182/234347/AMMi%2B-%2BCountry%2BReport%2B-%2BSouth%2BSudan.pdf/AMMi%20-%20Country%20Report%20-%20South%20Sudan.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOUTH SUDAN COUNTRY STATEMENTA report on violations and abuses of international human rights law and violations of international humanita...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: x.com  
-   Link: [https://x.com/WFP_UNHAS/status/2026939828093259957](https://x.com/WFP_UNHAS/status/2026939828093259957)  
+   Link: <a href="https://x.com/WFP_UNHAS/status/2026939828093259957" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WFP_UNHAS/status/2026939828093259957</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>✈️ In #SouthSudan, #UNHAS continues to be a lifeline...✈️ In #SouthSudan, #UNHAS continues to be a lifeline, connecting remote communit...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTIysEDiPB7/](https://www.instagram.com/p/DTIysEDiPB7/)  
+   Link: <a href="https://www.instagram.com/p/DTIysEDiPB7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTIysEDiPB7/</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KECdG2pS8o0](https://www.youtube.com/watch?v=KECdG2pS8o0)  
+   Link: <a href="https://www.youtube.com/watch?v=KECdG2pS8o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KECdG2pS8o0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UN resumes humanitarian flights amid Sudan civilian crisisFor the first time in nearly three years, a United Nations humanitarian aircraf...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jsb.journals.ekb.eg  
    Title: article 202077 31be407c47ef4800346167b3d8da77ad  
-   Link: [https://jsb.journals.ekb.eg/article_202077_31be407c47ef4800346167b3d8da77ad.pdf](https://jsb.journals.ekb.eg/article_202077_31be407c47ef4800346167b3d8da77ad.pdf)  
+   Link: <a href="https://jsb.journals.ekb.eg/article_202077_31be407c47ef4800346167b3d8da77ad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jsb.journals.ekb.eg/article_202077_31be407c47ef4800346167b3d8da77ad.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>freedom of expression in South Sudanby ياسر · 2021 — The study concludes that all media organizations should imbibe the appropriate way o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/shaping-future-peace-press-freedom-conference-south-sudan-explores-media-security-cooperation-lead](https://www.unesco.org/en/articles/shaping-future-peace-press-freedom-conference-south-sudan-explores-media-security-cooperation-lead)  
+   Link: <a href="https://www.unesco.org/en/articles/shaping-future-peace-press-freedom-conference-south-sudan-explores-media-security-cooperation-lead" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shaping-future-peace-press-freedom-conference-south-sudan-explores-media-security-cooperation-lead</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e role of media in supporting a peaceful and democratic...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: crisisresponse.iom.int  
    Title: south sudan crisis response plan 2023 2025  
-   Link: [https://crisisresponse.iom.int/response/south-sudan-crisis-response-plan-2023-2025](https://crisisresponse.iom.int/response/south-sudan-crisis-response-plan-2023-2025)  
+   Link: <a href="https://crisisresponse.iom.int/response/south-sudan-crisis-response-plan-2023-2025" target="_blank" rel="noopener noreferrer nofollow">https://crisisresponse.iom.int/response/south-sudan-crisis-response-plan-2023-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan Crisis Response Plan 2023 - 202528 Feb 2025 — South Sudan faces a complex humanitarian crisis due to a confluence of factors, inclu...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: acaps.org  
-   Link: [https://www.acaps.org/fileadmin/Data_Product/Main_media/20251215_ACAPS_Sudan_-_Digital_harms_in_conflict_zones.pdf](https://www.acaps.org/fileadmin/Data_Product/Main_media/20251215_ACAPS_Sudan_-_Digital_harms_in_conflict_zones.pdf)  
+   Link: <a href="https://www.acaps.org/fileadmin/Data_Product/Main_media/20251215_ACAPS_Sudan_-_Digital_harms_in_conflict_zones.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acaps.org/fileadmin/Data_Product/Main_media/20251215_ACAPS_Sudan_-_Digital_harms_in_conflict_zones.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan: digital harms in conflict zones - ACAPS15 Dec 2025 — This report provides an overview of the types of digital threats and harms re...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Freedom of expression at risk in South Sudan  
-   Link: [https://www.youtube.com/watch?v=D5LdsM1MJho](https://www.youtube.com/watch?v=D5LdsM1MJho)  
+   Link: <a href="https://www.youtube.com/watch?v=D5LdsM1MJho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D5LdsM1MJho</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan Boda BodaTalk Talk - an Innovative Audio Program Gets Information to Refugees...</p></details>

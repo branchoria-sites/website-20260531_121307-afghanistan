@@ -1185,7 +1185,7 @@ next_link:
   title: DPRKUFOs
   permalink: /democratic-people-s-republic-of-korea/
   short_title: DPRKUFOs
-date: '2026-06-09 01:25:12 '
+date: '2026-06-10 01:49:47 '
 header:
   og_image: /assets/images/Czechia_045e2f-overview-social.jpg
   preview_image: /assets/images/Czechia_045e2f-overview.webp
@@ -1247,11 +1247,11 @@ A useful Czechia page should not treat every case as equally mysterious. The evi
 <img src="{{ "/assets/images/Czechia_045e2f-Illustration-2-dark.svg" | relative_url }}" alt="Czechia illustration 2" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Czech science gives unusually good tools for ruling out meteors
 
-One reason Czech UFO claims deserve careful checking is that Czechia has unusually strong meteor-observation infrastructure. The Astronomical Institute of the Czech Academy of Sciences describes the European Fireball Network as a large observing system centred in Czechia, coordinated and processed from Ondřejov, with stations across central and western Europe. Its purpose is to record bright meteors, reconstruct trajectories, estimate origins and, in rare cases, help recover meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-title">European fireball network | Meteor physics group Ondřejov</span><span class="citation-popover-snippet">European fireball network | Meteor physics group Ondřejov</span></span></span>
+One reason Czech UFO claims deserve careful checking is that Czechia has unusually strong meteor-observation infrastructure. The Astronomical Institute of the Czech Academy of Sciences describes the European Fireball Network as a large observing system centred in Czechia, coordinated and processed from Ondřejov, with stations across central and western Europe. Its purpose is to record bright meteors, reconstruct trajectories, estimate origins and, in rare cases, help recover meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-title">European fireball network &#124; Meteor physics group Ondřejov</span><span class="citation-popover-snippet">European fireball network &#124; Meteor physics group Ondřejov</span></span></span>
 
 This is not a UFO project, but it is directly relevant to UFO evaluation. Bright bolides can look silent, fast, colourful, fragmenting or even “intelligent” to startled observers, especially when seen through cloud gaps or from moving vehicles. Czech fireball records can sometimes turn a frightening or mysterious report into a documented meteor trajectory. The network’s current central section includes many Czech stations and recorded more than 13,000 multi-station bolide events from 2015 to 2024, giving investigators a strong baseline for checking whether a reported light was astronomical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/Stubenberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-snippet">Open source on cas.cz.</span></span></span>
 
-The 1959 Příbram meteorite fall is a useful reminder of the difference between mystery and evidence. Czech astronomers photographed the fall from two stations, reconstructed the path, and recovered meteorites, making it a world-first case of an extraterrestrial rock with a known Solar System orbit. That is extraordinary — but it is extraordinary because the data were good, not because the event remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-title">European fireball network | Meteor physics group Ondřejov</span><span class="citation-popover-snippet">European fireball network | Meteor physics group Ondřejov</span></span></span>
+The 1959 Příbram meteorite fall is a useful reminder of the difference between mystery and evidence. Czech astronomers photographed the fall from two stations, reconstructed the path, and recovered meteorites, making it a world-first case of an extraterrestrial rock with a known Solar System orbit. That is extraordinary — but it is extraordinary because the data were good, not because the event remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-title">European fireball network &#124; Meteor physics group Ondřejov</span><span class="citation-popover-snippet">European fireball network &#124; Meteor physics group Ondřejov</span></span></span>
 
 ## The sceptical tradition is part of the Czech UFO story
 
@@ -1296,86 +1296,44 @@ The most credible position is neither blanket belief nor blanket dismissal. Czec
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Makes Czech UFO Sightings So Intriguing?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Makes Czech UFO Sightings So Intriguing?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides historical investigative context applicable to Czech cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for evaluating the strengths and weaknesses of reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a national overview of military-linked and witness-based UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Connects UFO reports to folklore traditions relevant to Central European cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1409,75 +1367,71 @@ The most credible position is neither blanket belief nor blanket dismissal. Czec
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=czechia-what-makes-czech-ufo-sightings-so-intriguing-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1692,288 +1646,288 @@ The most credible position is neither blanket belief nor blanket dismissal. Czec
 1. <a id="endnote-1"></a>
    Source: praguepig.com  
    Title: Prague Pig.com The Vranov nad Dyjí UFO Case  
-   Link: [https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/](https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/)  
+   Link: <a href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vranov nad Dyjí UFO Case - PraguePig.com...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/](https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/</a>  
 
 3. <a id="endnote-3"></a>
    Source: english.radio.cz  
    Title: ufos over czech skies do battle sceptics 8581791  
-   Link: [https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791](https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791)  
+   Link: <a href="https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791" target="_blank" rel="noopener noreferrer nofollow">https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: projektzare.cz  
    Title: english release  
-   Link: [https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/](https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/)  
+   Link: <a href="https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/</a>  
 
 6. <a id="endnote-6"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/](https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/</a>  
 
 7. <a id="endnote-7"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/](https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/</a>  
 
 8. <a id="endnote-8"></a>
    Source: czechology.com  
    Title: UFO in Czech Republic  
-   Link: [https://www.czechology.com/ufo-in-czech-republic/](https://www.czechology.com/ufo-in-czech-republic/)  
+   Link: <a href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.czechology.com/ufo-in-czech-republic/</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of UFO sightings in the Czech Republic  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic](https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic</a>  
 
 10. <a id="endnote-10"></a>
    Source: projektzare.cz  
    Title: seznamy pozorovani ufo  
-   Link: [https://www.projektzare.cz/seznamy-pozorovani-ufo/](https://www.projektzare.cz/seznamy-pozorovani-ufo/)  
+   Link: <a href="https://www.projektzare.cz/seznamy-pozorovani-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/seznamy-pozorovani-ufo/</a>  
 
 11. <a id="endnote-11"></a>
    Source: projektzare.cz  
    Title: co se delo 21 a 22 srpna 1993  
-   Link: [https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/](https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/)  
+   Link: <a href="https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/</a>  
 
 12. <a id="endnote-12"></a>
    Source: projektzare.cz  
    Title: nej pripady ufo  
-   Link: [https://www.projektzare.cz/nej-pripady-ufo/](https://www.projektzare.cz/nej-pripady-ufo/)  
+   Link: <a href="https://www.projektzare.cz/nej-pripady-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/nej-pripady-ufo/</a>  
 
 13. <a id="endnote-13"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/identifikace-ufo-letajici-lampiony/aktualne/](https://www.projektzare.cz/identifikace-ufo-letajici-lampiony/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/identifikace-ufo-letajici-lampiony/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/identifikace-ufo-letajici-lampiony/aktualne/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/](https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/)  
+   Link: <a href="https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/</a>  
 
 15. <a id="endnote-15"></a>
    Source: meteor.asu.cas.cz  
    Title: European fireball network | Meteor physics group Ondřejov  
-   Link: [https://meteor.asu.cas.cz/en/en/](https://meteor.asu.cas.cz/en/en/)  
+   Link: <a href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow">https://meteor.asu.cas.cz/en/en/</a>  
 
 16. <a id="endnote-16"></a>
    Source: sisyfos.cz  
-   Link: [https://www.sisyfos.cz/en/article/1151-about-us](https://www.sisyfos.cz/en/article/1151-about-us)  
+   Link: <a href="https://www.sisyfos.cz/en/article/1151-about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.sisyfos.cz/en/article/1151-about-us</a>  
 
 17. <a id="endnote-17"></a>
    Source: english.radio.cz  
    Title: astronomer jiri grygar a life promoting stargazing and scepticism 8557562  
-   Link: [https://english.radio.cz/astronomer-jiri-grygar-a-life-promoting-stargazing-and-scepticism-8557562](https://english.radio.cz/astronomer-jiri-grygar-a-life-promoting-stargazing-and-scepticism-8557562)  
+   Link: <a href="https://english.radio.cz/astronomer-jiri-grygar-a-life-promoting-stargazing-and-scepticism-8557562" target="_blank" rel="noopener noreferrer nofollow">https://english.radio.cz/astronomer-jiri-grygar-a-life-promoting-stargazing-and-scepticism-8557562</a>  
 
 18. <a id="endnote-18"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/nej-pripady-ufo/incident-nad-vranovem/](https://www.projektzare.cz/nej-pripady-ufo/incident-nad-vranovem/)  
+   Link: <a href="https://www.projektzare.cz/nej-pripady-ufo/incident-nad-vranovem/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/nej-pripady-ufo/incident-nad-vranovem/</a>  
 
 19. <a id="endnote-19"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/doutnikove-ufo-uap-serial-1-4/aktualne/](https://www.projektzare.cz/doutnikove-ufo-uap-serial-1-4/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/doutnikove-ufo-uap-serial-1-4/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/doutnikove-ufo-uap-serial-1-4/aktualne/</a>  
 
 20. <a id="endnote-20"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/author/chlebovsky/](https://www.projektzare.cz/author/chlebovsky/)  
+   Link: <a href="https://www.projektzare.cz/author/chlebovsky/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/author/chlebovsky/</a>  
 
 21. <a id="endnote-21"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/pripad-vranov-nad-dyji-nove-poznatky-1/aktualne/](https://www.projektzare.cz/pripad-vranov-nad-dyji-nove-poznatky-1/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/pripad-vranov-nad-dyji-nove-poznatky-1/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/pripad-vranov-nad-dyji-nove-poznatky-1/aktualne/</a>  
 
 22. <a id="endnote-22"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/zajimave-pozorovani-ufo-2/aktualne/](https://www.projektzare.cz/zajimave-pozorovani-ufo-2/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/zajimave-pozorovani-ufo-2/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/zajimave-pozorovani-ufo-2/aktualne/</a>  
 
 23. <a id="endnote-23"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/](https://www.projektzare.cz/)  
+   Link: <a href="https://www.projektzare.cz/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/</a>  
 
 24. <a id="endnote-24"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/tajemny-ukaz-nad-stredni-evropou/aktualne/](https://www.projektzare.cz/tajemny-ukaz-nad-stredni-evropou/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/tajemny-ukaz-nad-stredni-evropou/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/tajemny-ukaz-nad-stredni-evropou/aktualne/</a>  
 
 25. <a id="endnote-25"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/vyresene-pripady-ufo/tajemny-objekt-nad-lipnem/](https://www.projektzare.cz/vyresene-pripady-ufo/tajemny-objekt-nad-lipnem/)  
+   Link: <a href="https://www.projektzare.cz/vyresene-pripady-ufo/tajemny-objekt-nad-lipnem/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/vyresene-pripady-ufo/tajemny-objekt-nad-lipnem/</a>  
 
 26. <a id="endnote-26"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/vyzkum-zvikovskeho-podzemi-2/aktualne/](https://www.projektzare.cz/vyzkum-zvikovskeho-podzemi-2/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/vyzkum-zvikovskeho-podzemi-2/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/vyzkum-zvikovskeho-podzemi-2/aktualne/</a>  
 
 27. <a id="endnote-27"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/ufo-nad-zeleznou-oponou-4/pripady/](https://www.projektzare.cz/ufo-nad-zeleznou-oponou-4/pripady/)  
+   Link: <a href="https://www.projektzare.cz/ufo-nad-zeleznou-oponou-4/pripady/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/ufo-nad-zeleznou-oponou-4/pripady/</a>  
 
 28. <a id="endnote-28"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/dalsi-zahady-zkoumane-projektem-zare/ostatni-zahady/hrad-zvikov/tajemne-znaky-na-hlizove-vezi/](https://www.projektzare.cz/dalsi-zahady-zkoumane-projektem-zare/ostatni-zahady/hrad-zvikov/tajemne-znaky-na-hlizove-vezi/)  
+   Link: <a href="https://www.projektzare.cz/dalsi-zahady-zkoumane-projektem-zare/ostatni-zahady/hrad-zvikov/tajemne-znaky-na-hlizove-vezi/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/dalsi-zahady-zkoumane-projektem-zare/ostatni-zahady/hrad-zvikov/tajemne-znaky-na-hlizove-vezi/</a>  
 
 29. <a id="endnote-29"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/aktuality-rijen-2019/aktualne/](https://www.projektzare.cz/aktuality-rijen-2019/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/aktuality-rijen-2019/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/aktuality-rijen-2019/aktualne/</a>  
 
 30. <a id="endnote-30"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/hrad-zvikov-tajemne-znaky-na-hlizove-vezi-porovnani-znaku/aktualne/](https://www.projektzare.cz/hrad-zvikov-tajemne-znaky-na-hlizove-vezi-porovnani-znaku/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/hrad-zvikov-tajemne-znaky-na-hlizove-vezi-porovnani-znaku/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/hrad-zvikov-tajemne-znaky-na-hlizove-vezi-porovnani-znaku/aktualne/</a>  
 
 31. <a id="endnote-31"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/category/pripady/](https://www.projektzare.cz/category/pripady/)  
+   Link: <a href="https://www.projektzare.cz/category/pripady/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/category/pripady/</a>  
 
 32. <a id="endnote-32"></a>
    Source: projektzare.cz  
-   Link: [https://www.projektzare.cz/aktuality-srpen-2019/aktualne/](https://www.projektzare.cz/aktuality-srpen-2019/aktualne/)  
+   Link: <a href="https://www.projektzare.cz/aktuality-srpen-2019/aktualne/" target="_blank" rel="noopener noreferrer nofollow">https://www.projektzare.cz/aktuality-srpen-2019/aktualne/</a>  
 
 33. <a id="endnote-33"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 34. <a id="endnote-34"></a>
    Source: meteor.asu.cas.cz  
-   Link: [https://meteor.asu.cas.cz/Stubenberg/](https://meteor.asu.cas.cz/Stubenberg/)  
+   Link: <a href="https://meteor.asu.cas.cz/Stubenberg/" target="_blank" rel="noopener noreferrer nofollow">https://meteor.asu.cas.cz/Stubenberg/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
    Title: the cigar shaped ufo sightings in 1987 and 1992  
-   Link: [https://www.reddit.com/r/UFOs/comments/e0z1rf/the_cigar_shaped_ufo_sightings_in_1987_and_1992/](https://www.reddit.com/r/UFOs/comments/e0z1rf/the_cigar_shaped_ufo_sightings_in_1987_and_1992/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/e0z1rf/the_cigar_shaped_ufo_sightings_in_1987_and_1992/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/e0z1rf/the_cigar_shaped_ufo_sightings_in_1987_and_1992/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
    Title: tic tac ufo incident also witnessed by army  
-   Link: [https://www.reddit.com/r/ufo/comments/la0y9z/tic_tac_ufo_incident_also_witnessed_by_army/](https://www.reddit.com/r/ufo/comments/la0y9z/tic_tac_ufo_incident_also_witnessed_by_army/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/la0y9z/tic_tac_ufo_incident_also_witnessed_by_army/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/la0y9z/tic_tac_ufo_incident_also_witnessed_by_army/</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
    Title: 1987 vranov czech republic vranov incident  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/](https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/](https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
    Title: army helicopter chases ufo in 1987 czechoslovakia  
-   Link: [https://www.reddit.com/r/UFOs/comments/rxogtb/army_helicopter_chases_ufo_in_1987_czechoslovakia/](https://www.reddit.com/r/UFOs/comments/rxogtb/army_helicopter_chases_ufo_in_1987_czechoslovakia/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rxogtb/army_helicopter_chases_ufo_in_1987_czechoslovakia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rxogtb/army_helicopter_chases_ufo_in_1987_czechoslovakia/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/fkxem9/the_czechoslovakian_border_guard_and_ufos_in_the/](https://www.reddit.com/r/UFOs/comments/fkxem9/the_czechoslovakian_border_guard_and_ufos_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/fkxem9/the_czechoslovakian_border_guard_and_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/fkxem9/the_czechoslovakian_border_guard_and_ufos_in_the/</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1t96569/i_turned_declassified_ufouap_records_into_a/](https://www.reddit.com/r/UFOs/comments/1t96569/i_turned_declassified_ufouap_records_into_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t96569/i_turned_declassified_ufouap_records_into_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t96569/i_turned_declassified_ufouap_records_into_a/</a>  
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1sgey0p/what_was_spotted_in_the_skies_over_europe/](https://www.reddit.com/r/UFOs/comments/1sgey0p/what_was_spotted_in_the_skies_over_europe/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sgey0p/what_was_spotted_in_the_skies_over_europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sgey0p/what_was_spotted_in_the_skies_over_europe/</a>  
 
 43. <a id="endnote-43"></a>
    Source: sisyfos.cz  
    Title: 10th European Skeptics Congress  
-   Link: [https://www.sisyfos.cz/clanek/147-10th-european-skeptics-congress-miscellanea](https://www.sisyfos.cz/clanek/147-10th-european-skeptics-congress-miscellanea)  
+   Link: <a href="https://www.sisyfos.cz/clanek/147-10th-european-skeptics-congress-miscellanea" target="_blank" rel="noopener noreferrer nofollow">https://www.sisyfos.cz/clanek/147-10th-european-skeptics-congress-miscellanea</a>  
 
 44. <a id="endnote-44"></a>
    Source: sisyfos.cz  
-   Link: [https://www.sisyfos.cz/clanek/199-some-activities-of-our-skeptical-club-sisyfos](https://www.sisyfos.cz/clanek/199-some-activities-of-our-skeptical-club-sisyfos)  
+   Link: <a href="https://www.sisyfos.cz/clanek/199-some-activities-of-our-skeptical-club-sisyfos" target="_blank" rel="noopener noreferrer nofollow">https://www.sisyfos.cz/clanek/199-some-activities-of-our-skeptical-club-sisyfos</a>  
 
 45. <a id="endnote-45"></a>
    Source: sisyfos.cz  
    Title: Czech Skeptical Club SISYFOS  
-   Link: [https://www.sisyfos.cz/clanek/156-czech-skeptical-club-sisyfos-about-us](https://www.sisyfos.cz/clanek/156-czech-skeptical-club-sisyfos-about-us)  
+   Link: <a href="https://www.sisyfos.cz/clanek/156-czech-skeptical-club-sisyfos-about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.sisyfos.cz/clanek/156-czech-skeptical-club-sisyfos-about-us</a>  
 
 46. <a id="endnote-46"></a>
    Source: sisyfos.cz  
-   Link: [https://www.sisyfos.cz/clanek/263-jiri-grygar-sisyfos-assaulting-pseudoscience-a-czech-way](https://www.sisyfos.cz/clanek/263-jiri-grygar-sisyfos-assaulting-pseudoscience-a-czech-way)  
+   Link: <a href="https://www.sisyfos.cz/clanek/263-jiri-grygar-sisyfos-assaulting-pseudoscience-a-czech-way" target="_blank" rel="noopener noreferrer nofollow">https://www.sisyfos.cz/clanek/263-jiri-grygar-sisyfos-assaulting-pseudoscience-a-czech-way</a>  
 
 47. <a id="endnote-47"></a>
    Source: Wikipedia  
    Title: UFO nad Vranovem  
-   Link: [https://cs.wikipedia.org/wiki/UFO_nad_Vranovem](https://cs.wikipedia.org/wiki/UFO_nad_Vranovem)  
+   Link: <a href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow">https://cs.wikipedia.org/wiki/UFO_nad_Vranovem</a>  
 
 48. <a id="endnote-48"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos)  
+   Link: <a href="https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos</a>  
 
 49. <a id="endnote-49"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: European Fireball Network  
-   Link: [https://en.wikipedia.org/wiki/European_Fireball_Network](https://en.wikipedia.org/wiki/European_Fireball_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Fireball_Network</a>  
 
 51. <a id="endnote-51"></a>
    Source: english.radio.cz  
    Title: ufos over czech skies do battle sceptics 8555496  
-   Link: [https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8555496](https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8555496)  
+   Link: <a href="https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8555496" target="_blank" rel="noopener noreferrer nofollow">https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8555496</a>  
 
 52. <a id="endnote-52"></a>
    Source: english.radio.cz  
-   Link: [https://english.radio.cz/astronomical-institute-asks-public-help-locating-piece-crashed-meteor-8274698](https://english.radio.cz/astronomical-institute-asks-public-help-locating-piece-crashed-meteor-8274698)  
+   Link: <a href="https://english.radio.cz/astronomical-institute-asks-public-help-locating-piece-crashed-meteor-8274698" target="_blank" rel="noopener noreferrer nofollow">https://english.radio.cz/astronomical-institute-asks-public-help-locating-piece-crashed-meteor-8274698</a>  
 
 53. <a id="endnote-53"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 54. <a id="endnote-54"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 55. <a id="endnote-55"></a>
    Source: euroufo.net  
    Title: czech republic  
-   Link: [https://www.euroufo.net/tag/czech-republic/](https://www.euroufo.net/tag/czech-republic/)  
+   Link: <a href="https://www.euroufo.net/tag/czech-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/czech-republic/</a>  
 
 ### Additional References
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
    Title: UFO classified cases: Fire balls and figures over Miličín  
-   Link: [https://www.youtube.com/watch?v=rVHKWpZnoGY](https://www.youtube.com/watch?v=rVHKWpZnoGY)  
+   Link: <a href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rVHKWpZnoGY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New testimony: UFO abductions in Millicin, three-meter characters and attacks...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: youtube.com  
    Title: Mysterious UFO cases: Czechoslovak army incident  
-   Link: [https://www.youtube.com/watch?v=WjqdlfORBhg](https://www.youtube.com/watch?v=WjqdlfORBhg)  
+   Link: <a href="https://www.youtube.com/watch?v=WjqdlfORBhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WjqdlfORBhg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO classified cases: Fire balls and figures over Miličín...</p></details>
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/](https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/)  
+   Link: <a href="https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/</a>  
 
 59. <a id="endnote-59"></a>
    Source: zencastr.com  
-   Link: [https://zencastr.com/z/KB4D_DSv](https://zencastr.com/z/KB4D_DSv)  
+   Link: <a href="https://zencastr.com/z/KB4D_DSv" target="_blank" rel="noopener noreferrer nofollow">https://zencastr.com/z/KB4D_DSv</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/](https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/)  
+   Link: <a href="https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/](https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/expatscz/posts/a-new-survey-found-that-the-same-number-of-czechs-believes-in-ufos-and-aliens-as/10159542818464004/](https://www.facebook.com/expatscz/posts/a-new-survey-found-that-the-same-number-of-czechs-believes-in-ufos-and-aliens-as/10159542818464004/)  
+   Link: <a href="https://www.facebook.com/expatscz/posts/a-new-survey-found-that-the-same-number-of-czechs-believes-in-ufos-and-aliens-as/10159542818464004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/expatscz/posts/a-new-survey-found-that-the-same-number-of-czechs-believes-in-ufos-and-aliens-as/10159542818464004/</a>  
 
 63. <a id="endnote-63"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wtol11/posts/an-apparent-fireball-visible-over-maumee-on-the-morning-of-march-26-2026-credit-/1407273154775871/](https://www.facebook.com/wtol11/posts/an-apparent-fireball-visible-over-maumee-on-the-morning-of-march-26-2026-credit-/1407273154775871/)  
+   Link: <a href="https://www.facebook.com/wtol11/posts/an-apparent-fireball-visible-over-maumee-on-the-morning-of-march-26-2026-credit-/1407273154775871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/an-apparent-fireball-visible-over-maumee-on-the-morning-of-march-26-2026-credit-/1407273154775871/</a>  
 
 64. <a id="endnote-64"></a>
    Source: abscr.cz  
-   Link: [https://www.abscr.cz/](https://www.abscr.cz/)  
+   Link: <a href="https://www.abscr.cz/" target="_blank" rel="noopener noreferrer nofollow">https://www.abscr.cz/</a>  
 
 65. <a id="endnote-65"></a>
    Source: denarchivu.cz  
-   Link: [https://www.denarchivu.cz/archiv-bezpecnostnich-slozek/](https://www.denarchivu.cz/archiv-bezpecnostnich-slozek/)  
+   Link: <a href="https://www.denarchivu.cz/archiv-bezpecnostnich-slozek/" target="_blank" rel="noopener noreferrer nofollow">https://www.denarchivu.cz/archiv-bezpecnostnich-slozek/</a>  

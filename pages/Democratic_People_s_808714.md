@@ -1185,7 +1185,7 @@ next_link:
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
-date: '2026-06-09 01:25:19 '
+date: '2026-06-10 01:49:55 '
 header:
   og_image: /assets/images/Democratic_People_s_808714-overview-social.jpg
   preview_image: /assets/images/Democratic_People_s_808714-overview.webp
@@ -1306,86 +1306,44 @@ A DPRK UFO page naturally connects to sibling coverage of the Republic of Korea,
 The most useful way to understand the DPRK branch is therefore not as a hidden trove of alien encounters, but as a narrow, high-friction record where military history and information control dominate. Its strongest UFO material belongs to the Korean War and early Cold War; its modern “unidentified object” stories usually resolve into birds, drones, balloons, missiles or politically contested airspace claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What We Know About UFO Sightings in North Korea. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What We Know About UFO Sightings in North Korea, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating sparse military sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Covers the Korean War-era period central to North Korean UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Examines official UFO investigations during the Cold War.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Offers broader context for military and intelligence reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1419,75 +1377,71 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-people-s-republic-of-korea-what-we-know-about-ufo-sightings-in-north-korea-ufo-poster-book-books-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1701,236 +1655,236 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
 
 1. <a id="endnote-1"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/korea52a.htm](https://www.project1947.com/fig/korea52a.htm)  
+   Link: <a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: [https://archives.library.rice.edu/repositories/2/archival_objects/323830](https://archives.library.rice.edu/repositories/2/archival_objects/323830)  
+   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/323830</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: North Korea says it recovered crashed South Korean military drone, KCNA says  
-   Link: [https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/](https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/</a>  
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/](https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/</a>  
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: When Dozens of Korean War GIs Claimed a UFO Made  
-   Link: [https://www.history.com/articles/korean-war-us-army-ufo-attack-illness](https://www.history.com/articles/korean-war-us-army-ufo-attack-illness)  
+   Link: <a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/springkor.htm](https://www.nicap.org/springkor.htm)  
+   Link: <a href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/springkor.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/51-69.htm](https://www.nicap.org/bluebook/51-69.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 13. <a id="endnote-13"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
    Title: North Korea's Kim Jong Un oversees tests of 'suicide drones'  
-   Link: [https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/](https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/](https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks one of the first public announcements by North Korea of integrating AI into missile terminal guidance systems, enhancing targe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: nicap.org  
    Title: 520202 PROJECT 1947 U.S  
-   Link: [https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf](https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf)  
+   Link: <a href="https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1952NEW.htm](https://www.nicap.org/chronos/1952NEW.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 25. <a id="endnote-25"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/](https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/](https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/)  
+   Link: <a href="https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reuters.com  
    Title: north korea blames souths military drone intrusion 2024 10 27  
-   Link: [https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/](https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/</a>  
 
 28. <a id="endnote-28"></a>
    Source: 2021-2025.state.gov  
-   Link: [https://2021-2025.state.gov/report/custom/47ee47117c/](https://2021-2025.state.gov/report/custom/47ee47117c/)  
+   Link: <a href="https://2021-2025.state.gov/report/custom/47ee47117c/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/47ee47117c/</a>  
 
 29. <a id="endnote-29"></a>
    Source: state.gov  
    Title: north korea  
-   Link: [https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea](https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea)  
+   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea</a>  
 
 30. <a id="endnote-30"></a>
    Source: 2021-2025.state.gov  
-   Link: [https://2021-2025.state.gov/report/custom/951e8cd56f/](https://2021-2025.state.gov/report/custom/951e8cd56f/)  
+   Link: <a href="https://2021-2025.state.gov/report/custom/951e8cd56f/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/951e8cd56f/</a>  
 
 31. <a id="endnote-31"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 32. <a id="endnote-32"></a>
    Source: history.com  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter](https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter</a>  
 
 33. <a id="endnote-33"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: [https://archives.library.rice.edu/repositories/2/archival_objects/366467](https://archives.library.rice.edu/repositories/2/archival_objects/366467)  
+   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/366467" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/366467</a>  
 
 34. <a id="endnote-34"></a>
    Source: rsf.org  
-   Link: [https://rsf.org/en/classement/2026/asia-pacific](https://rsf.org/en/classement/2026/asia-pacific)  
+   Link: <a href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/classement/2026/asia-pacific</a>  
 
 35. <a id="endnote-35"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071](https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071)  
+   Link: <a href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071</a>  
 
 36. <a id="endnote-36"></a>
    Source: hrw.org  
    Title: north korea  
-   Link: [https://www.hrw.org/world-report/2025/country-chapters/north-korea](https://www.hrw.org/world-report/2025/country-chapters/north-korea)  
+   Link: <a href="https://www.hrw.org/world-report/2025/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2025/country-chapters/north-korea</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
    Title: reporters without borders rsf just released the 2026 version of its world press  
-   Link: [https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/](https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/)  
+   Link: <a href="https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/977704395576978/posts/27046193501634711/](https://www.facebook.com/groups/977704395576978/posts/27046193501634711/)  
+   Link: <a href="https://www.facebook.com/groups/977704395576978/posts/27046193501634711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/27046193501634711/</a>  
 
 40. <a id="endnote-40"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html](https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html)  
+   Link: <a href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html</a>  
 
 41. <a id="endnote-41"></a>
    Source: taipeitimes.com  
-   Link: [https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421](https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421)  
+   Link: <a href="https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421</a>  
 
 42. <a id="endnote-42"></a>
    Source: taipeitimes.com  
-   Link: [https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012](https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012)  
+   Link: <a href="https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Border Isolation and Human Rights Matrix of the DPRK  
-   Link: [https://www.youtube.com/watch?v=vs-7ufYdcJs](https://www.youtube.com/watch?v=vs-7ufYdcJs)  
+   Link: <a href="https://www.youtube.com/watch?v=vs-7ufYdcJs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vs-7ufYdcJs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geopolitical Confrontation and Defensive Postures on the Korean Peninsula...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: Propaganda, Balloons, and Border Tensions in the Koreas  
-   Link: [https://www.youtube.com/watch?v=w-LkkVw5Ol4](https://www.youtube.com/watch?v=w-LkkVw5Ol4)  
+   Link: <a href="https://www.youtube.com/watch?v=w-LkkVw5Ol4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-LkkVw5Ol4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orson Welles and the Cold War Infiltration Mindset...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Orson Welles and the Cold War Infiltration Mindset  
-   Link: [https://www.youtube.com/watch?v=OzC3Fg_rRJM](https://www.youtube.com/watch?v=OzC3Fg_rRJM)  
+   Link: <a href="https://www.youtube.com/watch?v=OzC3Fg_rRJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OzC3Fg_rRJM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Border Isolation and Human Rights Matrix of the DPRK...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/](https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/)  
+   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
 49. <a id="endnote-49"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30](https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30)  
+   Link: <a href="https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30</a>  
 
 50. <a id="endnote-50"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXwtP2NluWh/?img_index=3](https://www.instagram.com/p/DXwtP2NluWh/?img_index=3)  
+   Link: <a href="https://www.instagram.com/p/DXwtP2NluWh/?img_index=3" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXwtP2NluWh/?img_index=3</a>  
 
 51. <a id="endnote-51"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alien-hoaxes-that-went-viral](https://spyscape.com/article/alien-hoaxes-that-went-viral)  
+   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
 52. <a id="endnote-52"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/](https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/)  
+   Link: <a href="https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/</a>  

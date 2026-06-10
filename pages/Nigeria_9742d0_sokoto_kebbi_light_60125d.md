@@ -239,7 +239,7 @@ prev_link:
   permalink: /regions/
   short_title: Regions
   heading_title: Why Nigerian UFO Reports Depend on Place
-date: '2026-06-09 01:36:10 '
+date: '2026-06-10 02:02:40 '
 header:
   og_image: /assets/images/Nigeria_9742d0_sokoto_kebbi_light_60125d-Illustration-1-social.jpg
   preview_image: /assets/images/Nigeria_9742d0_sokoto_kebbi_light_60125d-Illustration-1.webp
@@ -256,7 +256,7 @@ The available evidence, however, points in a much less dramatic direction. Subse
 
 ## What Residents Reported in Sokoto and Kebbi
 
-The reports emerged after observers in north-western [Nigeria]({{ 'what-do-nigerias-ufo-reports-really-show/' | relative_url }}) noticed an unusually bright light moving rapidly across the evening sky. Witnesses described a glowing object leaving a visible trail and travelling in a way that appeared unusual to many observers. Videos circulating online showed a bright streak against the dark sky, reinforcing claims that something extraordinary had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/fact-checking-viral-claims-related-to-xenophobia-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">attacks features yet more disinformation...</span></span></span>
+The reports emerged after observers in north-western Nigeria noticed an unusually bright light moving rapidly across the evening sky. Witnesses described a glowing object leaving a visible trail and travelling in a way that appeared unusual to many observers. Videos circulating online showed a bright streak against the dark sky, reinforcing claims that something extraordinary had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/fact-checking-viral-claims-related-to-xenophobia-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">attacks features yet more disinformation...</span></span></span>
 
 Several factors made the event appear missile-like to observers:
 
@@ -272,7 +272,7 @@ Several factors made the event appear missile-like to observers:
 
 When an unfamiliar aerial event occurs under those conditions, people often interpret it using the most immediate frame of reference available. For some observers, that frame was a missile or rocket rather than an astronomical event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/false-ivory-coasts-president-did-not-comment-on-nigerias-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">FALSE! Ivory Coast&#x27;s president did not comment on...Claim: A Facebook user, Ohaukwu Reporters, shared a video showing Ivory Coast Presid...</span></span></span>
 
-Importantly, no publicly documented evidence emerged showing a launch site, impact location, debris field, radar tracking, or official confirmation of missile activity connected to the sighting. The absence of such evidence became significant as investigators examined the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">Dubawa: HomeLet&#x27;s Factcheck! Dubawa Fact-Check. Verify claims instantly. ×. Verify Claim Report Claim Report Issue. Claim to Verify. Veri...</span></span></span>
+Importantly, no publicly documented evidence emerged showing a launch site, impact location, debris field, radar tracking, or official confirmation of missile activity connected to the sighting. The absence of such evidence became significant as investigators examined the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">HomeLet&#x27;s Factcheck! Dubawa Fact-Check. Verify claims instantly. ×. Verify Claim Report Claim Report Issue. Claim to Verify. Veri...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZL5JV38viE8" title="Farmer Discovers Unexploded Missile in Tambuwal, Sokoto State" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZL5JV38viE8" target="_blank" rel="noopener noreferrer">Farmer Discovers Unexploded Missile in Tambuwal, Sokoto State</a></p><p class="youtube-embed-meta">Channel: Arise News &middot; Views: 14.5K &middot; Uploaded: December 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZL5JV38viE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZL5JV38viE8">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ The answer depends on how the term is defined.
 
 In the strictest sense, the object was initially a UFO—or more precisely a UAP (Unidentified Anomalous Phenomenon)—because observers did not know what they were seeing at the moment of observation. A UFO simply means an object that remains unidentified to the witness.
 
-However, a sighting stops being a strong UFO case when a conventional explanation fits the evidence better than extraordinary alternatives. In the Sokoto and Kebbi incident, no verified evidence emerged indicating an alien craft, secret technology, missile strike, or unknown vehicle. Instead, the available observations matched a well-known natural phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">Dubawa: HomeLet&#x27;s Factcheck! Dubawa Fact-Check. Verify claims instantly. ×. Verify Claim Report Claim Report Issue. Claim to Verify. Veri...</span></span></span>
+However, a sighting stops being a strong UFO case when a conventional explanation fits the evidence better than extraordinary alternatives. In the Sokoto and Kebbi incident, no verified evidence emerged indicating an alien craft, secret technology, missile strike, or unknown vehicle. Instead, the available observations matched a well-known natural phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dubawa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-snippet">HomeLet&#x27;s Factcheck! Dubawa Fact-Check. Verify claims instantly. ×. Verify Claim Report Claim Report Issue. Claim to Verify. Veri...</span></span></span>
 
 For that reason, the episode is better classified as a likely meteor misidentification than as an unresolved Nigerian UFO case.
 
@@ -343,86 +343,44 @@ Within Nigeria's broader record of unusual aerial reports, the Sokoto and Kebbi 
 The strongest lesson is not that a mystery object crossed north-western Nigeria. It is that a bright natural phenomenon can quickly acquire military, conspiratorial, or extraterrestrial interpretations before basic verification takes place. The available evidence currently supports a meteor-related explanation, making the incident a case study in how ordinary astronomical events can become temporary UFO scares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/dubawa/photos/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541689573532/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">🇳🇬 On April 27, residents in Sokoto and Kebbi...On April 27, residents in Sokoto and Kebbi reported seeing a &quot;missile-like&quot; object strea...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was the Sokoto Sky Light a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was the Sokoto Sky Light a UFO?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful comparison point for evidence standards in reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Shows how ordinary astronomical events can be misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Directly helps explain meteor and fireball observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Strong fit for a page centred on a likely meteor event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -456,75 +414,71 @@ The strongest lesson is not that a mystery object crossed north-western Nigeria.
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sokoto-light-was-the-sokoto-sky-light-a-ufo-nigeria-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -738,112 +692,112 @@ The strongest lesson is not that a mystery object crossed north-western Nigeria.
 
 1. <a id="endnote-1"></a>
    Source: dubawa.org  
-   Link: [https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/](https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/)  
+   Link: <a href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings by DUBAWA suggest the bright streaks seen across the sky were most likely meteor activity associated with the Eta Aquariids...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYqfvWHNzIm/](https://www.instagram.com/reel/DYqfvWHNzIm/)  
+   Link: <a href="https://www.instagram.com/reel/DYqfvWHNzIm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqfvWHNzIm/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone saw this unidentified object in our skies earlier☄️...BREAKING: Panic in Birnin Kebbi as “Missile-Like” Light Streaks Across Nigh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXpxzs0DKAv/](https://www.instagram.com/reel/DXpxzs0DKAv/)  
+   Link: <a href="https://www.instagram.com/reel/DXpxzs0DKAv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXpxzs0DKAv/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ject was seen cutting through the sky like a rocket...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dubawa.org  
-   Link: [https://dubawa.org/fact-checking-viral-claims-related-to-xenophobia-iii/](https://dubawa.org/fact-checking-viral-claims-related-to-xenophobia-iii/)  
+   Link: <a href="https://dubawa.org/fact-checking-viral-claims-related-to-xenophobia-iii/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/fact-checking-viral-claims-related-to-xenophobia-iii/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>attacks features yet more disinformation...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dubawa.org  
-   Link: [https://dubawa.org/false-ivory-coasts-president-did-not-comment-on-nigerias-security/](https://dubawa.org/false-ivory-coasts-president-did-not-comment-on-nigerias-security/)  
+   Link: <a href="https://dubawa.org/false-ivory-coasts-president-did-not-comment-on-nigerias-security/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/false-ivory-coasts-president-did-not-comment-on-nigerias-security/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FALSE! Ivory Coast&#x27;s president did not comment on...Claim: A Facebook user, Ohaukwu Reporters, shared a video showing Ivory Coast Presid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dubawa.org  
-   Link: [https://dubawa.org/](https://dubawa.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dubawa: HomeLet&#x27;s Factcheck! Dubawa Fact-Check. Verify claims instantly. ×. Verify Claim Report Claim Report Issue. Claim to Verify. Veri...</p></details>
+   Link: <a href="https://dubawa.org/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeLet&#x27;s Factcheck! Dubawa Fact-Check. Verify claims instantly. ×. Verify Claim Report Claim Report Issue. Claim to Verify. Veri...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dubawa.org  
-   Link: [https://dubawa.org/category/fact-check/](https://dubawa.org/category/fact-check/)  
+   Link: <a href="https://dubawa.org/category/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/category/fact-check/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact CheckClaim: Social media users claimed that Peter Obi has clinched the Nigeria Democratic Congress (NDC) presidential ticket... Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
    Title: more. View all 33  
-   Link: [https://www.instagram.com/reel/DU7vcEvjEx_/](https://www.instagram.com/reel/DU7vcEvjEx_/)  
+   Link: <a href="https://www.instagram.com/reel/DU7vcEvjEx_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU7vcEvjEx_/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are reports of a bright light in the sky and a bang across...There are reports of a bright light in the sky and a bang across Oyo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DU6iZ9ziBcI/](https://www.instagram.com/p/DU6iZ9ziBcI/)  
+   Link: <a href="https://www.instagram.com/p/DU6iZ9ziBcI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU6iZ9ziBcI/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it just me, or did anyone else see the green light across...The Lyrid Meteor Shower 2026 lit up the sky with bright streaks and rare...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thisdaylive.com  
-   Link: [https://www.thisdaylive.com/2025/12/30/post-airstrike-assessment-confirms-extensive-damage-in-tangaza-as-military-recovers-missile-boosters-in-sokoto-kebbi-offa/](https://www.thisdaylive.com/2025/12/30/post-airstrike-assessment-confirms-extensive-damage-in-tangaza-as-military-recovers-missile-boosters-in-sokoto-kebbi-offa/)  
+   Link: <a href="https://www.thisdaylive.com/2025/12/30/post-airstrike-assessment-confirms-extensive-damage-in-tangaza-as-military-recovers-missile-boosters-in-sokoto-kebbi-offa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdaylive.com/2025/12/30/post-airstrike-assessment-confirms-extensive-damage-in-tangaza-as-military-recovers-missile-boosters-in-sokoto-kebbi-offa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Post-airstrike Assessment Confirms Extensive Damage in...30 Dec 2025 — Post-airstrike Assessment Confirms Extensive Damage in Tangaza as...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/dubawa/photos/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541689573532/](https://www.facebook.com/dubawa/photos/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541689573532/)  
+   Link: <a href="https://www.facebook.com/dubawa/photos/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541689573532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dubawa/photos/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541689573532/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🇳🇬 On April 27, residents in Sokoto and Kebbi...On April 27, residents in Sokoto and Kebbi reported seeing a &quot;missile-like&quot; object strea...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OyoAffairsBackup/videos/there-was-a-bright-light-in-the-sky-and-a-bang-across-oyo-state-around-940-pm-la/1956925958591156/](https://www.facebook.com/OyoAffairsBackup/videos/there-was-a-bright-light-in-the-sky-and-a-bang-across-oyo-state-around-940-pm-la/1956925958591156/)  
+   Link: <a href="https://www.facebook.com/OyoAffairsBackup/videos/there-was-a-bright-light-in-the-sky-and-a-bang-across-oyo-state-around-940-pm-la/1956925958591156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OyoAffairsBackup/videos/there-was-a-bright-light-in-the-sky-and-a-bang-across-oyo-state-around-940-pm-la/1956925958591156/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as likely a fireball meteor, which is an exceptionally bright meteor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/dubawa/posts/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541739573527/](https://www.facebook.com/dubawa/posts/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541739573527/)  
+   Link: <a href="https://www.facebook.com/dubawa/posts/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541739573527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dubawa/posts/-on-april-27-residents-in-sokoto-and-kebbi-reported-seeing-a-missile-like-object/1260541739573527/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ect streaking across the night sky. But what was it really?Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TimesofIndia/videos/trumps-nigeria-strikes-questioned-tomahawk-misfire-unclear-targets-what-really-h/849136757878043/](https://www.facebook.com/TimesofIndia/videos/trumps-nigeria-strikes-questioned-tomahawk-misfire-unclear-targets-what-really-h/849136757878043/)  
+   Link: <a href="https://www.facebook.com/TimesofIndia/videos/trumps-nigeria-strikes-questioned-tomahawk-misfire-unclear-targets-what-really-h/849136757878043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/trumps-nigeria-strikes-questioned-tomahawk-misfire-unclear-targets-what-really-h/849136757878043/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iled to detonate, leaving behind unexploded debris and damaged...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/](https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/)  
+   Link: <a href="https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dusty Defjam. Bizarre? No…Pretty common. Meteorite? No…Meteor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Lakurawa Unmasked: Nigeria’s Newest Islamic State-Linked threat  
-   Link: [https://www.youtube.com/watch?v=G3RcPDICfY8](https://www.youtube.com/watch?v=G3RcPDICfY8)  
+   Link: <a href="https://www.youtube.com/watch?v=G3RcPDICfY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3RcPDICfY8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eta Aquariids meteor shower 2026 Eta Aquariids Meteor Shower 2026: When, Where &amp; Best Time to Watch SPACE TIME SCAPE...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZL5JV38viE8](https://www.youtube.com/watch?v=ZL5JV38viE8)  
+   Link: <a href="https://www.youtube.com/watch?v=ZL5JV38viE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZL5JV38viE8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly to discover uh you know unexloded uh missiles there...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Event Highlights: Fact-checking and Digital Verification Workshop, Nigeria  
-   Link: [https://www.youtube.com/watch?v=1A0rawWj-PQ](https://www.youtube.com/watch?v=1A0rawWj-PQ)  
+   Link: <a href="https://www.youtube.com/watch?v=1A0rawWj-PQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1A0rawWj-PQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Who are the Lakurawas, Nigeria&#x27;s new jihadist group? BBC Africa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UxNuCnf0QNU](https://www.youtube.com/watch?v=UxNuCnf0QNU)  
+   Link: <a href="https://www.youtube.com/watch?v=UxNuCnf0QNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UxNuCnf0QNU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Event Highlights: Fact-checking and Digital Verification Workshop, Nigeria...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/UBC-NLP/serengeti-E250/resolve/main/vocab.txt?download=true](https://huggingface.co/UBC-NLP/serengeti-E250/resolve/main/vocab.txt?download=true)  
+   Link: <a href="https://huggingface.co/UBC-NLP/serengeti-E250/resolve/main/vocab.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/UBC-NLP/serengeti-E250/resolve/main/vocab.txt?download=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#ental 52 ##inya indust...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PXjVo3ckIhA](https://www.youtube.com/watch?v=PXjVo3ckIhA)  
+   Link: <a href="https://www.youtube.com/watch?v=PXjVo3ckIhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PXjVo3ckIhA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2026 Skywatch: Meteor Shower, Moon and Venus, Blue Moon...</p></details>
    Published: May 2026  

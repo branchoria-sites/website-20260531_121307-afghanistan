@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /finland-c909b1-index/
 description: Focused pages that expand on Finland.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Finland_c909b1
 parent_title: Finland

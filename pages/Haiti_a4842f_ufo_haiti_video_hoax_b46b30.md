@@ -239,7 +239,7 @@ prev_link:
   permalink: /reporting-bias/
   short_title: Reporting Bias
   heading_title: Why Haiti's UFO Map Points to Port au Prince
-date: '2026-06-09 01:29:18 '
+date: '2026-06-10 01:54:38 '
 header:
   og_image: /assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-1-social.jpg
   preview_image: /assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-1-so
 
 ## Introduction
 
-The best-known UFO story connected to [Haiti]({{ 'what-really-happened-in-haitis-ufo/' | relative_url }}) is not a military archive, a mass sighting or a long-investigated witness case. It is a short internet video from 2007 that appeared to show large glowing craft drifting over a coastal hillside at night. Within days, the clip spread across YouTube, conspiracy forums and news aggregation sites, becoming one of the most widely viewed UFO videos of its era before being publicly identified as a computer-generated hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">SnopesDoes Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
+The best-known UFO story connected to Haiti is not a military archive, a mass sighting or a long-investigated witness case. It is a short internet video from 2007 that appeared to show large glowing craft drifting over a coastal hillside at night. Within days, the clip spread across YouTube, conspiracy forums and news aggregation sites, becoming one of the most widely viewed UFO videos of its era before being publicly identified as a computer-generated hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
 
 
 <img src="{{ "/assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-1-dark.svg" | relative_url }}" alt="Viral Hoax illustration 1" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The “UFO Haiti” clip mattered because it arrived at a turning point in online video culture. YouTube was still relatively new, realistic consumer CGI tools were becoming widely available, and viral sharing was outrunning verification. For many international viewers, the fake video became their first and sometimes only exposure to Haitian UFO claims. The hoax eventually overshadowed Haiti’s much smaller body of documented witness reports and archival cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neatorama.com">[Neatorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neatorama.com</span><span class="citation-popover-snippet">NeatoramaUFO Haiti Revealed.An investigation by the LA Times has uncovered the creator of the UFO over Haiti video. YouTube member Barzol...</span></span></span>
+The “UFO Haiti” clip mattered because it arrived at a turning point in online video culture. YouTube was still relatively new, realistic consumer CGI tools were becoming widely available, and viral sharing was outrunning verification. For many international viewers, the fake video became their first and sometimes only exposure to Haitian UFO claims. The hoax eventually overshadowed Haiti’s much smaller body of documented witness reports and archival cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neatorama.com">[Neatorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neatorama.com</span><span class="citation-popover-snippet">UFO Haiti Revealed.An investigation by the LA Times has uncovered the creator of the UFO over Haiti video. YouTube member Barzol...</span></span></span>
 
 ## What the video appeared to show
 
@@ -284,7 +284,7 @@ Suspicion emerged almost immediately on UFO discussion boards and sceptical foru
 
 The most damaging discovery was the apparent connection to commercially available CGI software, particularly the landscape-rendering program Vue. Online investigators compared the Haiti footage to promotional and demonstration material associated with Vue-generated environments and effects. Critics argued that the palm trees, lighting style and rendering behaviour strongly resembled known CGI workflows from the mid-2000s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=pX0SAPJ7t58" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFO Haiti 2 (CGI Fake)The initial video &quot;UFO Haiti&quot; is what started it all, and what... UFO Haiti 2 (CGI Fake). 3.5M views · 18 y...</span></span></span>
 
-The story shifted decisively after reporting by the Los Angeles Times identified the creator behind the uploads. The filmmaker and animator associated with the username “Barzolff814” acknowledged involvement in making the videos. According to the report, he described himself as overwhelmed by the scale of the public reaction and linked the work to a broader interest in UFO-themed filmmaking. Los Angeles Times <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neatorama.com">[neatorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neatorama.com</span><span class="citation-popover-snippet">NeatoramaUFO Haiti Revealed.An investigation by the LA Times has uncovered the creator of the UFO over Haiti video. YouTube member Barzol...</span></span></span> Later uploads and reposts made the admission even clearer. One version of“UFO Haiti 2” eventually carried a description explicitly stating that the footage was CGI created with Vue software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=pX0SAPJ7t58" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFO Haiti 2 (CGI Fake)The initial video &quot;UFO Haiti&quot; is what started it all, and what... UFO Haiti 2 (CGI Fake). 3.5M views · 18 y...</span></span></span>
+The story shifted decisively after reporting by the Los Angeles Times identified the creator behind the uploads. The filmmaker and animator associated with the username “Barzolff814” acknowledged involvement in making the videos. According to the report, he described himself as overwhelmed by the scale of the public reaction and linked the work to a broader interest in UFO-themed filmmaking. Los Angeles Times <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neatorama.com">[neatorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neatorama.com</span><span class="citation-popover-snippet">UFO Haiti Revealed.An investigation by the LA Times has uncovered the creator of the UFO over Haiti video. YouTube member Barzol...</span></span></span> Later uploads and reposts made the admission even clearer. One version of“UFO Haiti 2” eventually carried a description explicitly stating that the footage was CGI created with Vue software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=pX0SAPJ7t58" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFO Haiti 2 (CGI Fake)The initial video &quot;UFO Haiti&quot; is what started it all, and what... UFO Haiti 2 (CGI Fake). 3.5M views · 18 y...</span></span></span>
 
 The debunking process became an early example of collaborative internet forensic culture. Instead of relying on a single institutional authority, the hoax was dismantled through distributed online analysis:
 
@@ -304,7 +304,7 @@ This pattern later became common in online misinformation investigations, but in
 <img src="{{ "/assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-2-dark.svg" | relative_url }}" alt="Viral Hoax illustration 2" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_ufo_haiti_video_hoax_b46b30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the hoax spread so far
 
-The Haiti video succeeded because it matched the internet ecosystem of its moment almost perfectly. YouTube’s recommendation systems were primitive but highly responsive to rapid engagement, and sensational paranormal clips spread quickly through blogs, forums and repost chains. The video was short, emotionally immediate and easy to share across emerging social-media spaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Longitudinal Analysis of You Tube&#x27;s Promotion of Conspiracy Videos</span><span class="citation-popover-snippet">arXivA Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</span><span class="citation-popover-meta">Published: March 6, 2020</span></span></span>
+The Haiti video succeeded because it matched the internet ecosystem of its moment almost perfectly. YouTube’s recommendation systems were primitive but highly responsive to rapid engagement, and sensational paranormal clips spread quickly through blogs, forums and repost chains. The video was short, emotionally immediate and easy to share across emerging social-media spaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Longitudinal Analysis of You Tube&#x27;s Promotion of Conspiracy Videos</span><span class="citation-popover-snippet">A Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</span><span class="citation-popover-meta">Published: March 6, 2020</span></span></span>
 
 Several cultural factors amplified the effect.
 
@@ -332,7 +332,7 @@ As the video spread, copies detached from the original upload. Some reposts omit
 
 ## Why the fake eclipsed Haiti’s real UFO record
 
-Haiti has relatively few internationally known UFO cases. The country’s most historically documented incident remains the 1962 Port-au-Prince Project Blue Book file, while modern [civilian reports]({{ 'civilian-reports-ede3cc/' | relative_url }}) are sparse in major databases. Against that limited archive, the 2007 video became disproportionately influential simply because millions of people saw it online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">SnopesDoes Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
+Haiti has relatively few internationally known UFO cases. The country’s most historically documented incident remains the 1962 Port-au-Prince Project Blue Book file, while modern [civilian reports]({{ 'civilian-reports-ede3cc/' | relative_url }}) are sparse in major databases. Against that limited archive, the 2007 video became disproportionately influential simply because millions of people saw it online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
 
 This created an unusual imbalance:
 
@@ -355,86 +355,44 @@ Ironically, the Haiti hoax may have contributed to stronger public scepticism ov
 Within Haiti’s own UFO history, the episode remains important less as evidence of unexplained aerial phenomena than as evidence of how internet mythology forms. The country became internationally associated with a fabricated sighting because a fake video proved more culturally contagious than the smaller and more ambiguous real cases preserved in archives and witness databases.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How a Fake Video Became Haiti&#x27;s UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How a Fake Video Became Haiti&#x27;s UFO Story, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Encourages evidence-based evaluation of reported UFO events and media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights the distinction between stronger evidence and unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how extraordinary stories spread and gain cultural traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Examines deception, myth-making and information distortions around UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -468,75 +426,71 @@ Within Haiti’s own UFO history, the episode remains important less as evidence
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PROG ROCK METAL T-SHIRT unisex S-3XL"><img src="{{ '/assets/images/marketplace-covers/006b3c1e1415c091c9f2.jpg' | relative_url }}" alt="Listing image for UFO PROG ROCK METAL T-SHIRT unisex S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO PROG ROCK METAL T-SHIRT unisex S-3XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-hoax-how-a-fake-video-became-haiti-s-ufo-story-haiti-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -751,142 +705,142 @@ Within Haiti’s own UFO history, the episode remains important less as evidence
 1. <a id="endnote-1"></a>
    Source: snopes.com  
    Title: ufos over haiti  
-   Link: [https://www.snopes.com/fact-check/ufos-over-haiti/](https://www.snopes.com/fact-check/ufos-over-haiti/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SnopesDoes Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</p></details>
+   Link: <a href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufos-over-haiti/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: neatorama.com  
-   Link: [https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/](https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NeatoramaUFO Haiti Revealed.An investigation by the LA Times has uncovered the creator of the UFO over Haiti video. YouTube member Barzol...</p></details>
+   Link: <a href="https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.neatorama.com/2007/08/22/ufo-haiti-revealed/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Haiti Revealed.An investigation by the LA Times has uncovered the creator of the UFO over Haiti video. YouTube member Barzol...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikinews.org  
    Title: Home video captures alleged UFOs in Haiti  
-   Link: [https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti](https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti)  
+   Link: <a href="https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake — Post Chronicle, August 11, 2007; SkepticOverlord. UFO Haiti - New Video on You Tube - (possible hoax) — AboveTopSecret.com, August...</p></details>
    Published: August 11, 2007  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pX0SAPJ7t58](https://www.youtube.com/watch?v=pX0SAPJ7t58)  
+   Link: <a href="https://www.youtube.com/watch?v=pX0SAPJ7t58" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pX0SAPJ7t58</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Haiti 2 (CGI Fake)The initial video &quot;UFO Haiti&quot; is what started it all, and what... UFO Haiti 2 (CGI Fake). 3.5M views · 18 y...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DSDRv4o6SRQ](https://www.youtube.com/watch?v=DSDRv4o6SRQ)  
+   Link: <a href="https://www.youtube.com/watch?v=DSDRv4o6SRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DSDRv4o6SRQ</a>  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/playlist?list=PLE8324A9CA700E6E3](https://www.youtube.com/playlist?list=PLE8324A9CA700E6E3)  
+   Link: <a href="https://www.youtube.com/playlist?list=PLE8324A9CA700E6E3" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLE8324A9CA700E6E3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufoUFO Haiti · UFO Haiti 2 (CGI Fake) · Vue 6 CGI Software Trailer · Making of palm tree island by using Vue 6 · [Deleted video]...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv A Longitudinal Analysis of You Tube's Promotion of Conspiracy Videos  
-   Link: [https://arxiv.org/abs/2003.03318](https://arxiv.org/abs/2003.03318)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.03318</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</p></details>
    Published: March 6, 2020  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Video Pandemics: Worldwide Viral Spreading of Psy's Gangnam Style Video  
-   Link: [https://arxiv.org/abs/1707.04460](https://arxiv.org/abs/1707.04460)  
+   Link: <a href="https://arxiv.org/abs/1707.04460" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1707.04460</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: "CARET" Drone Incident  
-   Link: [https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident](https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lLRbTtd8IKM](https://www.youtube.com/watch?v=lLRbTtd8IKM)  
+   Link: <a href="https://www.youtube.com/watch?v=lLRbTtd8IKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lLRbTtd8IKM</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: 4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History  
-   Link: [https://www.youtube.com/watch?v=RmwukR8_4v8](https://www.youtube.com/watch?v=RmwukR8_4v8)  
+   Link: <a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmwukR8_4v8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Not As They Seem  
-   Link: [https://www.youtube.com/watch?v=ciopi2r7j-k](https://www.youtube.com/watch?v=ciopi2r7j-k)  
+   Link: <a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ciopi2r7j-k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 UFO Video Hoax Tips...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Top 5 UFO Video Hoax Tips  
-   Link: [https://www.youtube.com/watch?v=2G7ZG-jiZOo](https://www.youtube.com/watch?v=2G7ZG-jiZOo)  
+   Link: <a href="https://www.youtube.com/watch?v=2G7ZG-jiZOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2G7ZG-jiZOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower weighs in on Congress report...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO whistleblower weighs in on Congress report  
-   Link: [https://www.youtube.com/watch?v=SLKUjiuZrBw](https://www.youtube.com/watch?v=SLKUjiuZrBw)  
+   Link: <a href="https://www.youtube.com/watch?v=SLKUjiuZrBw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SLKUjiuZrBw</a>  
 
 16. <a id="endnote-16"></a>
    Source: abcnews.go.com  
-   Link: [https://abcnews.go.com/2020/story?id=4049156&page=1](https://abcnews.go.com/2020/story?id=4049156&page=1)  
+   Link: <a href="https://abcnews.go.com/2020/story?id=4049156&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.go.com/2020/story?id=4049156&amp;page=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsMost-Viewed Internet Videos of 2007 - ABC NewsAnother popular video was a 22-second tape that convinced many UFO believers that f...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: redsharknews.com  
    Title: Red Shark News The UFO in this video is fake  
-   Link: [https://www.redsharknews.com/post-vfx/item/434-the-ufo-in-this-video-is-fake-and-so-is-everything-else](https://www.redsharknews.com/post-vfx/item/434-the-ufo-in-this-video-is-fake-and-so-is-everything-else)  
+   Link: <a href="https://www.redsharknews.com/post-vfx/item/434-the-ufo-in-this-video-is-fake-and-so-is-everything-else" target="_blank" rel="noopener noreferrer nofollow">https://www.redsharknews.com/post-vfx/item/434-the-ufo-in-this-video-is-fake-and-so-is-everything-else</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And so is everything else!11 Feb 2013 — Ironically, this could mark the end of UFO hoaxes, because as the technology to fake UFO sighting...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYtTlhNzO_V/](https://www.instagram.com/p/DYtTlhNzO_V/)  
+   Link: <a href="https://www.instagram.com/p/DYtTlhNzO_V/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYtTlhNzO_V/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>no way this is crazy ufo 🛸 sighted in grenadaThe video has gone massively viral. #aliens #ufo #uap #nasa #viralreels. Alien, ufo, nasa, u...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: neilslade.com  
-   Link: [https://www.neilslade.com/HaitiUFO.html](https://www.neilslade.com/HaitiUFO.html)  
+   Link: <a href="https://www.neilslade.com/HaitiUFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.neilslade.com/HaitiUFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So, bearing all this in mind--- I am tilting towards HOAX-- perhaps 9:1 hoax over real video... of the HAITI UFO...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alien-hoaxes-that-went-viral](https://spyscape.com/article/alien-hoaxes-that-went-viral)  
+   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neither Canadian nor the US military have been able to explain the event. Tour guides swear it was a UFO...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: gizmodo.com  
    Title: why is this the most popular ufo footage on youtube 5912215  
-   Link: [https://gizmodo.com/why-is-this-the-most-popular-ufo-footage-on-youtube-5912215](https://gizmodo.com/why-is-this-the-most-popular-ufo-footage-on-youtube-5912215)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GizmodoWhy is this the most popular UFO footage on YouTube?22 May 2012 — This mysterious video, called simply &quot;UFO Haiti,&quot; has racked up...</p></details>
+   Link: <a href="https://gizmodo.com/why-is-this-the-most-popular-ufo-footage-on-youtube-5912215" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/why-is-this-the-most-popular-ufo-footage-on-youtube-5912215</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is this the most popular UFO footage on YouTube?22 May 2012 — This mysterious video, called simply &quot;UFO Haiti,&quot; has racked up...</p></details>
    Published: May 2012  
 
 23. <a id="endnote-23"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/2013/02/ufo-video-fake-tsirbas/](https://www.wired.com/2013/02/ufo-video-fake-tsirbas/)  
+   Link: <a href="https://www.wired.com/2013/02/ufo-video-fake-tsirbas/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2013/02/ufo-video-fake-tsirbas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Is Fake in Animator&#x27;s YouTube Prank — But So Is...Feb 7, 2013 — The UFO Is Fake in Animator&#x27;s YouTube Prank — But So Is Everythi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gizmodo.com  
    Title: fake ufo in haiti video creator uncovered 292380  
-   Link: [https://gizmodo.com/fake-ufo-in-haiti-video-creator-uncovered-292380](https://gizmodo.com/fake-ufo-in-haiti-video-creator-uncovered-292380)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GizmodoFake UFO in Haiti Video Creator Uncovered22 Aug 2007 — Remember the badass “UFO in Haiti” video that was all the rage last week? B...</p></details>
+   Link: <a href="https://gizmodo.com/fake-ufo-in-haiti-video-creator-uncovered-292380" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/fake-ufo-in-haiti-video-creator-uncovered-292380</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake UFO in Haiti Video Creator Uncovered22 Aug 2007 — Remember the badass “UFO in Haiti” video that was all the rage last week? B...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
    Title: strange ufo plane anomaly over haiti september  
-   Link: [https://www.reddit.com/r/aliens/comments/q0py7o/strange_ufo_plane_anomaly_over_haiti_september/](https://www.reddit.com/r/aliens/comments/q0py7o/strange_ufo_plane_anomaly_over_haiti_september/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/q0py7o/strange_ufo_plane_anomaly_over_haiti_september/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/q0py7o/strange_ufo_plane_anomaly_over_haiti_september/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange UFO plane anomaly over, Haiti, September 2021.Most UFO footage looks fake. IF the Miliary didn&#x27;t tell me it was a... If it&#x27;s not...</p></details>
    Published: September 2021  
 
 26. <a id="endnote-26"></a>
    Source: latimes.com  
    Title: la xpm 2007 aug 22 et ufo22 story  
-   Link: [https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html](https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesIt came from outer space.22 Aug 2007 — The movie Barzolff is working on for the big screen is about two guys who create...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NetflixFansDiaries/posts/the-ufo-is-fake-in-animators/375027754669002/](https://www.facebook.com/NetflixFansDiaries/posts/the-ufo-is-fake-in-animators/375027754669002/)  
+   Link: <a href="https://www.facebook.com/NetflixFansDiaries/posts/the-ufo-is-fake-in-animators/375027754669002/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NetflixFansDiaries/posts/the-ufo-is-fake-in-animators/375027754669002/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d Curtis Jones. 2 reactions ·. 1 comment...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/cgi/comments/p9hhj5/request_for_expert_opinion_on_early_cgivfx/](https://www.reddit.com/r/cgi/comments/p9hhj5/request_for_expert_opinion_on_early_cgivfx/)  
+   Link: <a href="https://www.reddit.com/r/cgi/comments/p9hhj5/request_for_expert_opinion_on_early_cgivfx/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cgi/comments/p9hhj5/request_for_expert_opinion_on_early_cgivfx/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Request for expert opinion on early cgi/vfx technology...Skip to main content Request for expert opinion on early cgi/vfx technology pos...</p></details>

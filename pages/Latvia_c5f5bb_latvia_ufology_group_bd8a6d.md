@@ -227,7 +227,7 @@ sibling_links:
   title: Sightings Timeline | What Has Latvia Really Seen in the Sky?
   permalink: /sightings-timeline-cd0e16/
   short_title: Sightings Timeline
-  heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
+  heading_title: 'Latvia''s UFO Sightings: From 19 th Century to Today'
 up_link:
   basename: Latvia_c5f5bb
   title: Latvia UFOs
@@ -238,8 +238,8 @@ prev_link:
   title: Sightings Timeline | What Has Latvia Really Seen in the Sky?
   permalink: /sightings-timeline-cd0e16/
   short_title: Sightings Timeline
-  heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
-date: '2026-06-09 01:31:39 '
+  heading_title: 'Latvia''s UFO Sightings: From 19 th Century to Today'
+date: '2026-06-10 01:57:14 '
 header:
   og_image: /assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1-social.jpg
   preview_image: /assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1-s
 
 ## Introduction
 
-[Latvia]({{ 'what-has-latvia-really-seen-in-the-sky/' | relative_url }})’s UFO research scene has always been small, decentralised and heavily civilian-led. Unlike countries that developed large national archives, military investigation programmes or long-running academic studies, Latvia’s organised UFO culture grew through enthusiasts, local anomaly researchers, amateur investigators and small discussion networks. The result is a research community that sits somewhere between folklore collection, citizen investigation and paranormal inquiry.
+Latvia’s UFO research scene has always been small, decentralised and heavily civilian-led. Unlike countries that developed large national archives, military investigation programmes or long-running academic studies, Latvia’s organised UFO culture grew through enthusiasts, local anomaly researchers, amateur investigators and small discussion networks. The result is a research community that sits somewhere between folklore collection, citizen investigation and paranormal inquiry.
 
 
 <img src="{{ "/assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1-dark.svg" | relative_url }}" alt="Ufology Groups illustration 1" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That mixed character is important. Latvian UFO groups have rarely focused only on unidentified aerial objects. Most have treated UFO sightings as part of a broader landscape of unexplained phenomena that includes unusual lights, anomalous locations, legends, psychic claims, ghosts and other reports from local culture. This has helped preserve witness accounts that might otherwise have disappeared, but it has also created ongoing questions about evidence standards, documentation quality and scientific credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/BalticStates/comments/racblq/most_and_less_so_wellknown_ufoparanormal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Most (and less so) well-known UFO/paranormal incidents</span><span class="citation-popover-snippet">RedditMost (and less so) well-known UFO/paranormal incidents...December 6, 2021 — Most (and less so) well-known UFO/paranormal incidents...</span><span class="citation-popover-meta">Published: December 6, 2021</span></span></span>
+That mixed character is important. Latvian UFO groups have rarely focused only on unidentified aerial objects. Most have treated UFO sightings as part of a broader landscape of unexplained phenomena that includes unusual lights, anomalous locations, legends, psychic claims, ghosts and other reports from local culture. This has helped preserve witness accounts that might otherwise have disappeared, but it has also created ongoing questions about evidence standards, documentation quality and scientific credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/BalticStates/comments/racblq/most_and_less_so_wellknown_ufoparanormal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Most (and less so) well-known UFO/paranormal incidents</span><span class="citation-popover-snippet">Most (and less so) well-known UFO/paranormal incidents...December 6, 2021 — Most (and less so) well-known UFO/paranormal incidents...</span><span class="citation-popover-meta">Published: December 6, 2021</span></span></span>
 
 ## How Latvian UFO Research Developed Outside Official Institutions
 
@@ -266,7 +266,7 @@ This differs from the more institutional models seen in France or the United Kin
 
 The most frequently cited Latvian UFO organisation is UFOlats, often described in Latvian media as an anomalous phenomena research centre. Reports about the group portray it as an organised effort to gather and investigate accounts of unusual events across the country.
 
-A notable description published by Latvian media characterised UFOlats as a long-running research collective whose interests extended beyond flying objects to alleged traces of extraterrestrial activity, unexplained locations and other anomalous claims. The group reportedly included participants with backgrounds in fields such as physics, mathematics, history, electronics and environmental studies. While these backgrounds gave the organisation a more technically minded image than a simple hobby club, membership expertise alone did not guarantee scientific verification of individual cases. The organisation's significance lies more in documentation and public engagement than in producing widely accepted evidence of extraordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchlatvia.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchlatvia.gov.lv">[researchlatvia.gov.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchlatvia.gov.lv</span><span class="citation-popover-snippet">Home | researchlatviaWe are building a stable and strong national research environment, enabling international and public-private partner...</span></span></span>
+A notable description published by Latvian media characterised UFOlats as a long-running research collective whose interests extended beyond flying objects to alleged traces of extraterrestrial activity, unexplained locations and other anomalous claims. The group reportedly included participants with backgrounds in fields such as physics, mathematics, history, electronics and environmental studies. While these backgrounds gave the organisation a more technically minded image than a simple hobby club, membership expertise alone did not guarantee scientific verification of individual cases. The organisation's significance lies more in documentation and public engagement than in producing widely accepted evidence of extraordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchlatvia.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchlatvia.gov.lv">[researchlatvia.gov.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchlatvia.gov.lv</span><span class="citation-popover-snippet">Home &#124; researchlatviaWe are building a stable and strong national research environment, enabling international and public-private partner...</span></span></span>
 
 ### What UFOlats Actually Investigated
 
@@ -386,7 +386,7 @@ Sceptics generally argue that many reported cases suffer from familiar weaknesse
 
 These concerns are particularly relevant in Latvia because the national case catalogue is relatively small. A handful of weak reports can therefore exert disproportionate influence on public perceptions.
 
-Even some researchers within the UFO community acknowledge this problem. Internationally, serious civilian UFO organisations increasingly emphasise documentation, sensor data and elimination of conventional explanations before treating a case as genuinely unexplained. Modern discussions of unidentified aerial phenomena increasingly favour structured observation methods over anecdotal reporting alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Even some researchers within the UFO community acknowledge this problem. Internationally, serious civilian UFO organisations increasingly emphasise documentation, sensor data and elimination of conventional explanations before treating a case as genuinely unexplained. Modern discussions of unidentified aerial phenomena increasingly favour structured observation methods over anecdotal reporting alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 For Latvian investigators, this creates a continuing tension. The goal is to preserve unusual reports without overstating what the available evidence can actually support.
 
@@ -413,86 +413,44 @@ The limits of that contribution are equally important. Few Latvian cases possess
 That balance defines Latvia's ufology community. It functions less as a source of definitive answers and more as a civilian record-keeping network operating in the space between eyewitness experience, local culture and the enduring human interest in unexplained events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of reported UFO sightingsList of UFO religions · List of investigations of UFOs by governments · List of UFO organizations – Priv...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Inside Latvia&#x27;s UFO Research Communities. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Inside Latvia&#x27;s UFO Research Communities, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explores how civilian researchers and investigators approach cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows how investigators assess testimony and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Influential within many civilian UFO research communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -526,75 +484,71 @@ That balance defines Latvia's ufology community. It functions less as a source o
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm"><img src="{{ '/assets/images/marketplace-covers/121a2f6e6feb6cd2220a.jpg' | relative_url }}" alt="Listing image for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -809,40 +763,40 @@ That balance defines Latvia's ufology community. It functions less as a source o
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: Most (and less so) well-known UFO/paranormal incidents  
-   Link: [https://www.reddit.com/r/BalticStates/comments/racblq/most_and_less_so_wellknown_ufoparanormal/](https://www.reddit.com/r/BalticStates/comments/racblq/most_and_less_so_wellknown_ufoparanormal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditMost (and less so) well-known UFO/paranormal incidents...December 6, 2021 — Most (and less so) well-known UFO/paranormal incidents...</p></details>
+   Link: <a href="https://www.reddit.com/r/BalticStates/comments/racblq/most_and_less_so_wellknown_ufoparanormal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BalticStates/comments/racblq/most_and_less_so_wellknown_ufoparanormal/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most (and less so) well-known UFO/paranormal incidents...December 6, 2021 — Most (and less so) well-known UFO/paranormal incidents...</p></details>
    Published: December 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsList of UFO religions · List of investigations of UFOs by governments · List of UFO organizations – Priv...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchlatvia.gov.lv  
-   Link: [https://www.researchlatvia.gov.lv/en](https://www.researchlatvia.gov.lv/en)  
+   Link: <a href="https://www.researchlatvia.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow">https://www.researchlatvia.gov.lv/en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | researchlatviaWe are building a stable and strong national research environment, enabling international and public-private partner...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Was walking ona trail in Latvia when I saw this thing  
-   Link: [https://www.reddit.com/r/UFObelievers/comments/1fj37r7/was_walking_ona_trail_in_latvia_when_i_saw_this/](https://www.reddit.com/r/UFObelievers/comments/1fj37r7/was_walking_ona_trail_in_latvia_when_i_saw_this/)  
+   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/1fj37r7/was_walking_ona_trail_in_latvia_when_i_saw_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/1fj37r7/was_walking_ona_trail_in_latvia_when_i_saw_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It just...r/UFOs. Join. A community for discussion related to Unidentified Flying Objects. Share your sightings, experiences, news, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: latviaspace.gov.lv  
-   Link: [https://latviaspace.gov.lv/en/directory/?main=451](https://latviaspace.gov.lv/en/directory/?main=451)  
+   Link: <a href="https://latviaspace.gov.lv/en/directory/?main=451" target="_blank" rel="noopener noreferrer nofollow">https://latviaspace.gov.lv/en/directory/?main=451</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>space research8 May 2026 — Directory, news &amp; events, ESA tenders for Latvia, EU funding for space, ESA BIC Latvia, ESA careers, Login, Co...</p></details>
    Published: May 2026  
 
@@ -850,54 +804,54 @@ That balance defines Latvia's ufology community. It functions less as a source o
 
 8. <a id="endnote-8"></a>
    Source: ufosrus.com  
-   Link: [https://ufosrus.com/ufo-sightings-reports/](https://ufosrus.com/ufo-sightings-reports/)  
+   Link: <a href="https://ufosrus.com/ufo-sightings-reports/" target="_blank" rel="noopener noreferrer nofollow">https://ufosrus.com/ufo-sightings-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Sightings &amp; ReportsA blog featuring UFO news, sightings, and related phenomena, with a focus on UK incidents and analyses. [https://ww...&quot;](https://ww...&quot;)...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: artangel.org.uk  
-   Link: [https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/](https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/)  
+   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldUFO sightings from around the world. Preliminary research for Witness, a project commissioned by Artan...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/02/07/world-news/ufo-intel-documents-stolen-out-of-russia-reveal-decade-long-probes-into-alien-encounters-and-abductions/](https://nypost.com/2026/02/07/world-news/ufo-intel-documents-stolen-out-of-russia-reveal-decade-long-probes-into-alien-encounters-and-abductions/)  
+   Link: <a href="https://nypost.com/2026/02/07/world-news/ufo-intel-documents-stolen-out-of-russia-reveal-decade-long-probes-into-alien-encounters-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/02/07/world-news/ufo-intel-documents-stolen-out-of-russia-reveal-decade-long-probes-into-alien-encounters-and-abductions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO intel documents stolen out of Russia reveal decade...7 Feb 2026 — UFO intel documents stolen out of Russia reveal decade-long probes...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ufology-news.com  
-   Link: [https://ufology-news.com/wp-content/uploads/2024/10/Catalog_for_collectors_UFO_newsletters_2024.pdf](https://ufology-news.com/wp-content/uploads/2024/10/Catalog_for_collectors_UFO_newsletters_2024.pdf)  
+   Link: <a href="https://ufology-news.com/wp-content/uploads/2024/10/Catalog_for_collectors_UFO_newsletters_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/wp-content/uploads/2024/10/Catalog_for_collectors_UFO_newsletters_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newsletter UFO Research. (UFO Research SA)... Akualele Research Group. Bulletin. Alien Encounters. Alien Worlds. Alternate...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: travelweekly.com.au  
    Title: new study reveals european countries longest alien visits case wondering  
-   Link: [https://travelweekly.com.au/new-study-reveals-european-countries-longest-alien-visits-case-wondering/](https://travelweekly.com.au/new-study-reveals-european-countries-longest-alien-visits-case-wondering/)  
+   Link: <a href="https://travelweekly.com.au/new-study-reveals-european-countries-longest-alien-visits-case-wondering/" target="_blank" rel="noopener noreferrer nofollow">https://travelweekly.com.au/new-study-reveals-european-countries-longest-alien-visits-case-wondering/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New study reveals European countries with the longest Alien...4 Feb 2021 — New data shows the frequency of Alien sightings, duration and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufology-news.com  
-   Link: [https://ufology-news.com/u/18672430/Ufology_News/Catalog_for_collectors_UFO_newsletters_2019.pdf](https://ufology-news.com/u/18672430/Ufology_News/Catalog_for_collectors_UFO_newsletters_2019.pdf)  
+   Link: <a href="https://ufology-news.com/u/18672430/Ufology_News/Catalog_for_collectors_UFO_newsletters_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/Ufology_News/Catalog_for_collectors_UFO_newsletters_2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Club. NEXUS. Newsletter of the Australian. UFO Abduction Study Centre. Newsletter UFO Research. (UFO Research SA). Panorama...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents](https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ret or rarely seen accounts of UAP sightings received more than a billion hits...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-atmosphere-and-ionosphere-dynamics-processes-and-monitoring-physics-of-earth-and-space-environments-9048132118-9789048132119.html](https://dokumen.pub/the-atmosphere-and-ionosphere-dynamics-processes-and-monitoring-physics-of-earth-and-space-environments-9048132118-9789048132119.html)  
+   Link: <a href="https://dokumen.pub/the-atmosphere-and-ionosphere-dynamics-processes-and-monitoring-physics-of-earth-and-space-environments-9048132118-9789048132119.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-atmosphere-and-ionosphere-dynamics-processes-and-monitoring-physics-of-earth-and-space-environments-9048132118-9789048132119.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f primary importance for predictions of the climatic changes on our planet.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
    Title: Catalog for Collectors UFO Newsletters 2017  
-   Link: [https://www.scribd.com/document/346770965/Catalog-for-Collectors-UFO-Newsletters-2017](https://www.scribd.com/document/346770965/Catalog-for-Collectors-UFO-Newsletters-2017)  
+   Link: <a href="https://www.scribd.com/document/346770965/Catalog-for-Collectors-UFO-Newsletters-2017" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/346770965/Catalog-for-Collectors-UFO-Newsletters-2017</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Newsletter Catalogue 2017 | PDF | AstrobiologyThis document is a catalog listing UFO newsletters from various countries around the wo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
    Title: Catalog for Collectors UFO Newsletters 2023  
-   Link: [https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023](https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023)  
+   Link: <a href="https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/729071349/Catalog-for-Collectors-UFO-Newsletters-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Newsletter Collector&#x27;s Catalog 2023 | PDF3 May 2024 — The document appears to be a catalog listing UFO newsletters from various count...</p></details>
    Published: May 2024  

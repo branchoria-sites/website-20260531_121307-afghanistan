@@ -239,7 +239,7 @@ prev_link:
   permalink: /kumburgaz/
   short_title: Kumburgaz
   heading_title: Why Kumburgaz Still Divides UFO Watchers
-date: '2026-06-09 01:43:06 '
+date: '2026-06-10 02:10:43 '
 header:
   og_image: /assets/images/Turkiye_c8c5d5_ufo_culture_ee27c9-Illustration-1-social.jpg
   preview_image: /assets/images/Turkiye_c8c5d5_ufo_culture_ee27c9-Illustration-1.webp
@@ -252,7 +252,7 @@ Türkiye’s UFO culture was built less by government disclosure than by a netwo
 
 
 <img src="{{ "/assets/images/Turkiye_c8c5d5_ufo_culture_ee27c9-Illustration-1-dark.svg" | relative_url }}" alt="UFO Culture illustration 1" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5_ufo_culture_ee27c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5_ufo_culture_ee27c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding Türkiye’s UFO record therefore requires looking not only at individual sightings but also at the institutions that promoted them. Sirius helped create a national audience for UFO stories, organised major conferences, established a museum, cultivated international connections and presented itself as a bridge between Turkish witnesses and the global UFO movement. Supporters viewed these efforts as pioneering research; critics argued that they often encouraged extraordinary interpretations before alternative explanations had been fully examined. Anadolu Ajansı <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">EurasianetTurkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
+Understanding Türkiye’s UFO record therefore requires looking not only at individual sightings but also at the institutions that promoted them. Sirius helped create a national audience for UFO stories, organised major conferences, established a museum, cultivated international connections and presented itself as a bridge between Turkish witnesses and the global UFO movement. Supporters viewed these efforts as pioneering research; critics argued that they often encouraged extraordinary interpretations before alternative explanations had been fully examined. Anadolu Ajansı <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
 
 ## Sirius and the rise of organised UFO advocacy
 
@@ -272,7 +272,7 @@ Several initiatives illustrate this approach:
 * Media appearances by Akdoğan and other advocates on national television and radio.
 * Public exhibitions and educational events.
 * Extensive promotion of notable Turkish UFO cases.
-* Outreach aimed at universities and younger audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet Akdo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">EurasianetTurkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>ğan himself became a recognisable media figure. Biographical profiles describe him producing television programmes dedicated to UFO topics and regularly appearing in public forums discussing extraterrestrial life. This gave UFO discourse a level of visibility that exceeded what might normally be expected from a private research group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalufocongress.vhx.tv/videos/haktan-akdogan-ufo-investigations-from-turkey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalufocongress.vhx.tv">[International UFO Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalufocongress.vhx.tv</span><span class="citation-popover-snippet">International UFO CongressHaktan Akdogan - UFO Investigations from TurkeyBio: Haktan Akdogan is the founder and chairman of the Sirius UF...</span></span></span>
+* Outreach aimed at universities and younger audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet Akdo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>ğan himself became a recognisable media figure. Biographical profiles describe him producing television programmes dedicated to UFO topics and regularly appearing in public forums discussing extraterrestrial life. This gave UFO discourse a level of visibility that exceeded what might normally be expected from a private research group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalufocongress.vhx.tv/videos/haktan-akdogan-ufo-investigations-from-turkey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalufocongress.vhx.tv">[International UFO Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalufocongress.vhx.tv</span><span class="citation-popover-snippet">International UFO CongressHaktan Akdogan - UFO Investigations from TurkeyBio: Haktan Akdogan is the founder and chairman of the Sirius UF...</span></span></span>
 
 The result was a shift in public perception. By the late 2000s, UFO conferences in Istanbul were attracting large audiences that included professionals, students and members of the general public rather than only committed enthusiasts. Observers from abroad noted that Turkish audiences appeared unusually receptive to the topic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</span></span></span>
 
@@ -306,9 +306,9 @@ This conference culture mattered because it gave UFO narratives legitimacy throu
 
 No single case did more to amplify Sirius's influence than the [Kumburgaz footage]({{ 'kumburgaz/' | relative_url }}) recorded between 2007 and 2009. Although the footage remains heavily disputed, its cultural impact is easier to establish than its evidential value.
 
-Akdoğan and Sirius promoted the videos as a landmark event in Turkish UFO history. Contemporary reports quoted him describing the footage as a turning point for UFO studies in the country and evidence that authorities could no longer ignore the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">EurasianetTurkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
+Akdoğan and Sirius promoted the videos as a landmark event in Turkish UFO history. Contemporary reports quoted him describing the footage as a turning point for UFO studies in the country and evidence that authorities could no longer ignore the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
 
-The importance of [Kumburgaz]({{ 'kumburgaz/' | relative_url }}) was not merely that a witness filmed unusual lights or shapes. The footage arrived at a moment when Sirius already possessed a network capable of publicising it. Television programmes, conferences, websites and international UFO organisations helped circulate the recordings far beyond their original local context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">EurasianetTurkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
+The importance of [Kumburgaz]({{ 'kumburgaz/' | relative_url }}) was not merely that a witness filmed unusual lights or shapes. The footage arrived at a moment when Sirius already possessed a network capable of publicising it. Television programmes, conferences, websites and international UFO organisations helped circulate the recordings far beyond their original local context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
 
 As a result, Kumburgaz became both a UFO case and a media event. The footage reinforced public interest, increased attendance at conferences and gave advocates a concrete example around which to organise discussion. Even today, references to Turkish UFOs in international UFO communities often begin with Kumburgaz. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</span></span></span>
 
@@ -360,93 +360,51 @@ This tension remains central to understanding Türkiye's UFO culture. Sirius und
 
 The lasting significance of Sirius UFO Space Sciences Research Center lies less in proving any particular UFO claim than in shaping how the subject entered Turkish public life. Through conferences, media appearances, museums, travelling exhibitions and the promotion of headline-grabbing cases, the organisation created a durable UFO public culture in a country where official documentation remained limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[2Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">ufos continue to fascinate in turkey and around the world</span><span class="citation-popover-snippet">Anadolu AjansıUFOs continue to fascinate in Turkey and around the world24 Jun 2015 — A well-known Turkish ufologist and a vigorous advoca...</span></span></span>
 
-As a result, Türkiye's UFO history differs from countries where debates revolve around declassified military files or government investigations. The Turkish experience is instead a case study in how private advocacy groups, enthusiastic media coverage and public events can transform scattered sightings into a nationally recognised cultural phenomenon. The story of Sirius is therefore inseparable from the story of how UFOs became part of modern Turkish popular culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">EurasianetTurkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
+As a result, Türkiye's UFO history differs from countries where debates revolve around declassified military files or government investigations. The Turkish experience is instead a case study in how private advocacy groups, enthusiastic media coverage and public events can transform scattered sightings into a nationally recognised cultural phenomenon. The story of Sirius is therefore inseparable from the story of how UFOs became part of modern Turkish popular culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">turkey ufo believers seek to shed quack status</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9TaInRR0cLA" title="Is this real?? Angry analyzes the best UFO footage ever!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9TaInRR0cLA" target="_blank" rel="noopener noreferrer">Is this real?? Angry analyzes the best UFO footage ever!</a></p><p class="youtube-embed-meta">Channel: The Angry Astronaut &middot; Views: 234.1K &middot; Uploaded: February 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9TaInRR0cLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9TaInRR0cLA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How TÃ¼rkiye Built a UFO Public Culture. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Türkiye Built a UFO Public Culture, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful background for understanding public UFO discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a contrast between advocacy, media attention, and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines the cultural dimension of UFO belief and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Focuses on how communities, media, and belief systems shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -480,75 +438,71 @@ As a result, Türkiye's UFO history differs from countries where debates revolve
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PROG ROCK METAL T-SHIRT unisex S-3XL"><img src="{{ '/assets/images/marketplace-covers/006b3c1e1415c091c9f2.jpg' | relative_url }}" alt="Listing image for UFO PROG ROCK METAL T-SHIRT unisex S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO PROG ROCK METAL T-SHIRT unisex S-3XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-culture-how-t-rkiye-built-a-ufo-public-culture-turkiye-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -763,116 +717,116 @@ As a result, Türkiye's UFO history differs from countries where debates revolve
 1. <a id="endnote-1"></a>
    Source: eurasianet.org  
    Title: turkey ufo believers seek to shed quack status  
-   Link: [https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status](https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EurasianetTurkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</p></details>
+   Link: <a href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow">https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status22 Jun 2009 — Haktan Akdogan, the organizer of the International UFO and New A...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Istanbul UFO Museum  
-   Link: [https://en.wikipedia.org/wiki/Istanbul_UFO_Museum](https://en.wikipedia.org/wiki/Istanbul_UFO_Museum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Istanbul_UFO_Museum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Istanbul_UFO_Museum</a>  
 
 3. <a id="endnote-3"></a>
    Source: today.az  
-   Link: [https://www.today.az/print/news/interesting/83931.html](https://www.today.az/print/news/interesting/83931.html)  
+   Link: <a href="https://www.today.az/print/news/interesting/83931.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/print/news/interesting/83931.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traveling UFO museum opens in IstanbulAkdoğan said the UFO museum truck was specially designed. &quot;The museum and exhibition include all in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Museo UFO  
-   Link: [https://it.wikipedia.org/wiki/Museo_UFO](https://it.wikipedia.org/wiki/Museo_UFO)  
+   Link: <a href="https://it.wikipedia.org/wiki/Museo_UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Museo_UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Museo UFOIl progetto di questo museo (diretto da Haktan Akdogan del Sirius UFO Space Sciences Research Center) si è concretizzato anch...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aa.com.tr  
    Title: ufos continue to fascinate in turkey and around the world  
-   Link: [https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044](https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044)  
+   Link: <a href="https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıUFOs continue to fascinate in Turkey and around the world24 Jun 2015 — A well-known Turkish ufologist and a vigorous advoca...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hurriyetdailynews.com  
    Title: ufos continue to fascinate turkey and the world 84526  
-   Link: [https://www.hurriyetdailynews.com/ufos-continue-to-fascinate-turkey-and-the-world-------84526](https://www.hurriyetdailynews.com/ufos-continue-to-fascinate-turkey-and-the-world-------84526)  
+   Link: <a href="https://www.hurriyetdailynews.com/ufos-continue-to-fascinate-turkey-and-the-world-------84526" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/ufos-continue-to-fascinate-turkey-and-the-world-------84526</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Nearly 120 people were kidnapped in Turkey; some of them had...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: irishtimes.com  
-   Link: [https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220](https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220)  
+   Link: <a href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WITH HIS neatly clipped moustache and checked shirt buttoned up...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: internationalufocongress.vhx.tv  
-   Link: [https://internationalufocongress.vhx.tv/videos/haktan-akdogan-ufo-investigations-from-turkey](https://internationalufocongress.vhx.tv/videos/haktan-akdogan-ufo-investigations-from-turkey)  
+   Link: <a href="https://internationalufocongress.vhx.tv/videos/haktan-akdogan-ufo-investigations-from-turkey" target="_blank" rel="noopener noreferrer nofollow">https://internationalufocongress.vhx.tv/videos/haktan-akdogan-ufo-investigations-from-turkey</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO CongressHaktan Akdogan - UFO Investigations from TurkeyBio: Haktan Akdogan is the founder and chairman of the Sirius UF...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
    Title: Istanbul UFO Museum  
-   Link: [https://www.scribd.com/document/457010716/Istanbul-UFO-Museum](https://www.scribd.com/document/457010716/Istanbul-UFO-Museum)  
+   Link: <a href="https://www.scribd.com/document/457010716/Istanbul-UFO-Museum" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/457010716/Istanbul-UFO-Museum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>See Also | PDFThe Istanbul UFO Museum was established in 2001 and contained exhibits about UFOs and extraterrestrial life. It used a cost...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: it.scribd.com  
    Title: Istanbul UFO Museum  
-   Link: [https://it.scribd.com/document/457010716/Istanbul-UFO-Museum](https://it.scribd.com/document/457010716/Istanbul-UFO-Museum)  
+   Link: <a href="https://it.scribd.com/document/457010716/Istanbul-UFO-Museum" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/document/457010716/Istanbul-UFO-Museum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Museum: See Also | PDFFounded by Haktan Akdoğan&#x27;s Sirius UFO Space Sciences Research Center in 2001, the museum contains various phot...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/975370316538966/posts/1429284427814217/](https://www.facebook.com/groups/975370316538966/posts/1429284427814217/)  
+   Link: <a href="https://www.facebook.com/groups/975370316538966/posts/1429284427814217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/975370316538966/posts/1429284427814217/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO footage captured in Kumburgaz, Turkey between...In 2009, Roger Lier himself witnessed one UAP event &amp; saw occupants moving. Turkey K...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/-/zh_TW/dp/B01CWFC1IY](https://www.amazon.com/-/zh_TW/dp/B01CWFC1IY)  
+   Link: <a href="https://www.amazon.com/-/zh_TW/dp/B01CWFC1IY" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/-/zh_TW/dp/B01CWFC1IY</a>  
 
 13. <a id="endnote-13"></a>
    Source: sia.az  
-   Link: [https://sia.az/az/news/world/485693.html](https://sia.az/az/news/world/485693.html)  
+   Link: <a href="https://sia.az/az/news/world/485693.html" target="_blank" rel="noopener noreferrer nofollow">https://sia.az/az/news/world/485693.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs continue to surprise the worldA well-known Turkish ufologist and a vigorous advocate of extraterrestrial intelligent life, Akdogan e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: a mystified turkish man recently captured footage of a puzzling ufo in the sky o  
-   Link: [https://www.facebook.com/coasttocoastam/posts/a-mystified-turkish-man-recently-captured-footage-of-a-puzzling-ufo-in-the-sky-o/1316872557141923/](https://www.facebook.com/coasttocoastam/posts/a-mystified-turkish-man-recently-captured-footage-of-a-puzzling-ufo-in-the-sky-o/1316872557141923/)  
+   Link: <a href="https://www.facebook.com/coasttocoastam/posts/a-mystified-turkish-man-recently-captured-footage-of-a-puzzling-ufo-in-the-sky-o/1316872557141923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coasttocoastam/posts/a-mystified-turkish-man-recently-captured-footage-of-a-puzzling-ufo-in-the-sky-o/1316872557141923/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A mystified Turkish man recently captured footage...The Turkey UFO: Alien Ship or Something Else? In 2008, one of the most astonishing U...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: strangeattractor.co.uk  
-   Link: [https://strangeattractor.co.uk/news/zoom-in-my-friend-turkish-ufos-on-tape/](https://strangeattractor.co.uk/news/zoom-in-my-friend-turkish-ufos-on-tape/)  
+   Link: <a href="https://strangeattractor.co.uk/news/zoom-in-my-friend-turkish-ufos-on-tape/" target="_blank" rel="noopener noreferrer nofollow">https://strangeattractor.co.uk/news/zoom-in-my-friend-turkish-ufos-on-tape/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The past few year has seen a rash of spectacular UFO sightings over Turkey, and now, highlights from the video...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: between 2007 and 2009 a night guard recorded hours of unusually clear ufo footag  
-   Link: [https://www.facebook.com/deepuniversee/posts/between-2007-and-2009-a-night-guard-recorded-hours-of-unusually-clear-ufo-footag/952289714235584/](https://www.facebook.com/deepuniversee/posts/between-2007-and-2009-a-night-guard-recorded-hours-of-unusually-clear-ufo-footag/952289714235584/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/between-2007-and-2009-a-night-guard-recorded-hours-of-unusually-clear-ufo-footag/952289714235584/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/between-2007-and-2009-a-night-guard-recorded-hours-of-unusually-clear-ufo-footag/952289714235584/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Turkey UFO Footage | Kumburgaz, Istanbul From 2007 to 2009, a remarkable series of videos were taken of a UFO over...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: myemail.constantcontact.com  
    Title: Turkish Researcher to show Incredible UFO Footage at Laughlin  
-   Link: [https://myemail.constantcontact.com/Turkish-Researcher-to-show-Incredible-UFO-Footage-at-Laughlin.html?aid=U6TlNvoKJA8&soid=1117322804752](https://myemail.constantcontact.com/Turkish-Researcher-to-show-Incredible-UFO-Footage-at-Laughlin.html?aid=U6TlNvoKJA8&soid=1117322804752)  
+   Link: <a href="https://myemail.constantcontact.com/Turkish-Researcher-to-show-Incredible-UFO-Footage-at-Laughlin.html?aid=U6TlNvoKJA8&amp;soid=1117322804752" target="_blank" rel="noopener noreferrer nofollow">https://myemail.constantcontact.com/Turkish-Researcher-to-show-Incredible-UFO-Footage-at-Laughlin.html?aid=U6TlNvoKJA8&amp;soid=1117322804752</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher to show Incredible UFO Footage...Haktan Akdogan, from Turkey, will present the many, latest UFO Sightings and Close Encounter...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYgwA-jM0PO/](https://www.instagram.com/reel/DYgwA-jM0PO/)  
+   Link: <a href="https://www.instagram.com/reel/DYgwA-jM0PO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYgwA-jM0PO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do people think that there&#x27;s one type of non-human intelligence that&#x27;s...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: shutterstock.com  
    Title: portrait chairman sirius ufo space sciences 1097046137  
-   Link: [https://www.shutterstock.com/image-photo/portrait-chairman-sirius-ufo-space-sciences-1097046137](https://www.shutterstock.com/image-photo/portrait-chairman-sirius-ufo-space-sciences-1097046137)  
+   Link: <a href="https://www.shutterstock.com/image-photo/portrait-chairman-sirius-ufo-space-sciences-1097046137" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/image-photo/portrait-chairman-sirius-ufo-space-sciences-1097046137</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Portrait of Chairman of Sirius UFO Space Sciences Research Center Haktan Akdogan in his office in istanbul, Turkey, April 10 2017.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: alienlooking beings inside the ufo seen in turkey  
-   Link: [https://www.reddit.com/r/aliens/comments/11qyycx/alienlooking_beings_inside_the_ufo_seen_in_turkey/](https://www.reddit.com/r/aliens/comments/11qyycx/alienlooking_beings_inside_the_ufo_seen_in_turkey/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11qyycx/alienlooking_beings_inside_the_ufo_seen_in_turkey/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11qyycx/alienlooking_beings_inside_the_ufo_seen_in_turkey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien-looking beings inside the UFO seen in Turkey in 2008Haktan Akdogan is a UFO enthusiast who ran the Sirius UFO and Space Science Res...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXU_YdRkvvE/?hl=en](https://www.instagram.com/p/DXU_YdRkvvE/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DXU_YdRkvvE/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXU_YdRkvvE/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kumburgaz UFO incident (2007–2009) is often cited...Leaked UFO footage from 2008 KUMBURGAZ, TURKEY Various Events 2007 - 2009...</p></details>

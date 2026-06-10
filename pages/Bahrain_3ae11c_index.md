@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bahrain-3ae11c-index/
 description: Focused pages that expand on What Did Bahrain's UFO Sightings Really....
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Bahrain_3ae11c
 parent_title: What Did Bahrain's UFO Sightings Really...

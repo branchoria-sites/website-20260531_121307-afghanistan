@@ -1185,7 +1185,7 @@ next_link:
   title: Lithuania UFOs
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
-date: '2026-06-09 01:42:04 '
+date: '2026-06-10 02:09:29 '
 header:
   og_image: /assets/images/Switzerland_77dcd8-overview-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8-overview.webp
@@ -1210,7 +1210,7 @@ The modern Swiss UFO pattern becomes much clearer after the flying-saucer wave o
 
 A compact Swiss chronology looks like this:
 
-PeriodSwiss exampleBest current reading1566Basel celestial broadsheetHistorically important, but best read as an omen text built around unusual sky phenomena, not a modern UFO report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalmuseum.ch">[Swiss National Museum Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalmuseum.ch</span><span class="citation-popover-title">the celestial event over basel in 1566</span><span class="citation-popover-snippet">the celestial event over basel in 1566</span></span></span> 1950sSwiss Air Force reporting instructionsOfficial evidence of systematic collection, not proof of exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 1971Mirage III pilot reports over Interlaken and WinterthurStrong official-document interest, but incomplete records and no settled explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 1971Aire-la-Ville “landing” broadcastA confirmed RTS/TSR media hoax that shows how UFO language could grip Swiss public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rts.ch">[RTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rts.ch</span><span class="citation-popover-snippet">Open source on rts.ch.</span></span></span> 1975Zwischbergen/Saas-Fee photographOne of the most famous Swiss UFO photos; visually strong but seriously contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">The Zwischbergen &#x27;Saas Fee&#x27; photo</span><span class="citation-popover-snippet">The Zwischbergen &#x27;Saas Fee&#x27; photo</span></span></span> 1970s onwardBilly Meier photographs and contact claimsCulturally famous but widely treated by sceptics and many ufologists as fraudulent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billy_Meier" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billy Meier</span><span class="citation-popover-snippet">Billy Meier</span></span></span> 2015Lausanne/Vaud light-and-residue caseDocumented witness, video and samples, but unresolved and not independently confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span> 2019Rossfeld/Sierre luminous objectLocal viral mystery later reported as a marketing operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenouvelliste.ch">[Le Nouvelliste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenouvelliste.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2020sEnigma Labs Switzerland reportsUseful as a public reporting database, but not equivalent to official verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span></span></span> | Report a UFO sighting
+PeriodSwiss exampleBest current reading1566Basel celestial broadsheetHistorically important, but best read as an omen text built around unusual sky phenomena, not a modern UFO report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalmuseum.ch">[Swiss National Museum Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalmuseum.ch</span><span class="citation-popover-title">the celestial event over basel in 1566</span><span class="citation-popover-snippet">the celestial event over basel in 1566</span></span></span> 1950sSwiss Air Force reporting instructionsOfficial evidence of systematic collection, not proof of exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 1971Mirage III pilot reports over Interlaken and WinterthurStrong official-document interest, but incomplete records and no settled explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 1971Aire-la-Ville “landing” broadcastA confirmed RTS/TSR media hoax that shows how UFO language could grip Swiss public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rts.ch">[RTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rts.ch</span><span class="citation-popover-snippet">Open source on rts.ch.</span></span></span> 1975Zwischbergen/Saas-Fee photographOne of the most famous Swiss UFO photos; visually strong but seriously contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">The Zwischbergen &#x27;Saas Fee&#x27; photo</span><span class="citation-popover-snippet">The Zwischbergen &#x27;Saas Fee&#x27; photo</span></span></span> 1970s onwardBilly Meier photographs and contact claimsCulturally famous but widely treated by sceptics and many ufologists as fraudulent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billy_Meier" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billy Meier</span><span class="citation-popover-snippet">Billy Meier</span></span></span> 2015Lausanne/Vaud light-and-residue caseDocumented witness, video and samples, but unresolved and not independently confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span> 2019Rossfeld/Sierre luminous objectLocal viral mystery later reported as a marketing operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenouvelliste.ch">[Le Nouvelliste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenouvelliste.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2020sEnigma Labs Switzerland reportsUseful as a public reporting database, but not equivalent to official verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Switzerland &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Switzerland &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 This timeline shows a repeated pattern: Swiss cases become valuable when they include documents, multiple witnesses, original photographs, formal reports or clear later resolution. They become weak when they depend on lore, repeated online summaries, missing originals or dramatic interpretation without independent checks.
 
@@ -1274,7 +1274,7 @@ Central and northern Switzerland appear in the official military narrative throu
 
 French-speaking Switzerland has a distinctive media and research footprint. Geneva appears through the Aire-la-Ville hoax, Vaud through the Lausanne case and long-running regional ufology networks, and Valais through both Alpine sightings and the Rossfeld/Sierre viral incident. This does not mean the west of Switzerland is more anomalous; it means the region has strong local media visibility, active investigators and memorable public cases. RTS <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span>
 
-Modern public databases add another layer. Enigma Labs lists 146 Switzerland sightings submitted directly to its platform and 407 Switzerland sightings including third-party sources. Such databases are useful for mapping public reporting patterns, but they should be treated as report aggregators rather than verified case catalogues. They can show where people say they saw something; they do not by themselves establish what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span></span></span> | Report a UFO sighting
+Modern public databases add another layer. Enigma Labs lists 146 Switzerland sightings submitted directly to its platform and 407 Switzerland sightings including third-party sources. Such databases are useful for mapping public reporting patterns, but they should be treated as report aggregators rather than verified case catalogues. They can show where people say they saw something; they do not by themselves establish what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Switzerland &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Switzerland &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 
 <img src="{{ "/assets/images/Switzerland_77dcd8-Illustration-3-dark.svg" | relative_url }}" alt="What Is Switzerland&#x27;s UFO Record Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1293,86 +1293,44 @@ The result is a sober but interesting conclusion: Switzerland has no publicly co
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Switzerland&#x27;s UFO Record Really Worth?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Switzerland&#x27;s UFO Record Really Worth?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a national overview page focused on evidence quality and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Supports discussion of documented European UFO cases and files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for interpreting Swiss cases that blend folklore and observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides historical context for European and Swiss reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1406,75 +1364,71 @@ The result is a sober but interesting conclusion: Switzerland has no publicly co
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-switzerlands-ufo-record-really-what-is-switzerland-s-ufo-record-really-worth-switzerland-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1688,176 +1642,176 @@ The result is a sober but interesting conclusion: Switzerland has no publicly co
 
 1. <a id="endnote-1"></a>
    Source: swissinfo.ch  
-   Link: [https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501](https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501)  
+   Link: <a href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
 
 2. <a id="endnote-2"></a>
    Source: caelestia.be  
    Title: The Zwischbergen 'Saas Fee' photo  
-   Link: [https://www.caelestia.be/article03.html](https://www.caelestia.be/article03.html)  
+   Link: <a href="https://www.caelestia.be/article03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article03.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: rts.ch  
    Title: alerte aux ovnis quand la rts ose le canular 28550731  
-   Link: [https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html](https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html)  
+   Link: <a href="https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Billy Meier  
-   Link: [https://en.wikipedia.org/wiki/Billy_Meier](https://en.wikipedia.org/wiki/Billy_Meier)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billy_Meier" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billy_Meier</a>  
 
 5. <a id="endnote-5"></a>
    Source: articles.skeptics.nz  
    Title: ufos the camera doesnt lie  
-   Link: [https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/](https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/)  
+   Link: <a href="https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/" target="_blank" rel="noopener noreferrer nofollow">https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/</a>  
 
 6. <a id="endnote-6"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs  
-   Link: [https://enigmalabs.io/explore/ch](https://enigmalabs.io/explore/ch)  
+   Link: <a href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ch</a>  
 
 7. <a id="endnote-7"></a>
    Source: swissinfo.ch  
    Title: als die fliegenden teller in militärakten einzug hielten  
-   Link: [https://www.swissinfo.ch/ger/swiss-abroad/als-die-fliegenden-teller-in-milit%C3%A4rakten-einzug-hielten/87881334](https://www.swissinfo.ch/ger/swiss-abroad/als-die-fliegenden-teller-in-milit%C3%A4rakten-einzug-hielten/87881334)  
+   Link: <a href="https://www.swissinfo.ch/ger/swiss-abroad/als-die-fliegenden-teller-in-milit%C3%A4rakten-einzug-hielten/87881334" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/ger/swiss-abroad/als-die-fliegenden-teller-in-milit%C3%A4rakten-einzug-hielten/87881334</a>  
 
 8. <a id="endnote-8"></a>
    Source: swissinfo.ch  
    Title: quand les soucoupes volantes sinvitent dans les dossiers militaires suisses  
-   Link: [https://www.swissinfo.ch/fre/cinquieme-suisse/quand-les-soucoupes-volantes-sinvitent-dans-les-dossiers-militaires-suisses/87850585](https://www.swissinfo.ch/fre/cinquieme-suisse/quand-les-soucoupes-volantes-sinvitent-dans-les-dossiers-militaires-suisses/87850585)  
+   Link: <a href="https://www.swissinfo.ch/fre/cinquieme-suisse/quand-les-soucoupes-volantes-sinvitent-dans-les-dossiers-militaires-suisses/87850585" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/fre/cinquieme-suisse/quand-les-soucoupes-volantes-sinvitent-dans-les-dossiers-militaires-suisses/87850585</a>  
 
 9. <a id="endnote-9"></a>
    Source: swissinfo.ch  
    Title: как швейцария за нло охотилась  
-   Link: [https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BA-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BD%D0%BB%D0%BE-%D0%BE%D1%85%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%D1%81%D1%8C/87880768](https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BA-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BD%D0%BB%D0%BE-%D0%BE%D1%85%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%D1%81%D1%8C/87880768)  
+   Link: <a href="https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BA-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BD%D0%BB%D0%BE-%D0%BE%D1%85%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%D1%81%D1%8C/87880768" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BA-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BD%D0%BB%D0%BE-%D0%BE%D1%85%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%D1%81%D1%8C/87880768</a>  
 
 10. <a id="endnote-10"></a>
    Source: swissinfo.ch  
    Title: quando i dischi volanti facevano capolino nei dossier militari svizzeri  
-   Link: [https://www.swissinfo.ch/ita/quinta-svizzera/quando-i-dischi-volanti-facevano-capolino-nei-dossier-militari-svizzeri/87853172](https://www.swissinfo.ch/ita/quinta-svizzera/quando-i-dischi-volanti-facevano-capolino-nei-dossier-militari-svizzeri/87853172)  
+   Link: <a href="https://www.swissinfo.ch/ita/quinta-svizzera/quando-i-dischi-volanti-facevano-capolino-nei-dossier-militari-svizzeri/87853172" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/ita/quinta-svizzera/quando-i-dischi-volanti-facevano-capolino-nei-dossier-militari-svizzeri/87853172</a>  
 
 11. <a id="endnote-11"></a>
    Source: caelestia.be  
-   Link: [https://www.caelestia.be/pdlc.html](https://www.caelestia.be/pdlc.html)  
+   Link: <a href="https://www.caelestia.be/pdlc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/pdlc.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: caelestia.be  
-   Link: [https://www.caelestia.be/publications.html](https://www.caelestia.be/publications.html)  
+   Link: <a href="https://www.caelestia.be/publications.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/publications.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Observations d'ovnis en Suisse  
-   Link: [https://fr.wikipedia.org/wiki/Observations_d%27ovnis_en_Suisse](https://fr.wikipedia.org/wiki/Observations_d%27ovnis_en_Suisse)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Observations_d%27ovnis_en_Suisse" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Observations_d%27ovnis_en_Suisse</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: 1566 celestial phenomenon over Basel  
-   Link: [https://en.wikipedia.org/wiki/1566_celestial_phenomenon_over_Basel](https://en.wikipedia.org/wiki/1566_celestial_phenomenon_over_Basel)  
+   Link: <a href="https://en.wikipedia.org/wiki/1566_celestial_phenomenon_over_Basel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1566_celestial_phenomenon_over_Basel</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Basler Flugblatt von 1566  
-   Link: [https://de.wikipedia.org/wiki/Basler_Flugblatt_von_1566](https://de.wikipedia.org/wiki/Basler_Flugblatt_von_1566)  
+   Link: <a href="https://de.wikipedia.org/wiki/Basler_Flugblatt_von_1566" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Basler_Flugblatt_von_1566</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: 1561 celestial phenomenon over Nuremberg  
-   Link: [https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)  
+   Link: <a href="https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg</a>  
 
 19. <a id="endnote-19"></a>
    Source: rts.ch  
-   Link: [https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html](https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html)  
+   Link: <a href="https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: rts.ch  
    Title: Alerte aux ovnis: quand la TSR ose le canular  
-   Link: [https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150](https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150)  
+   Link: <a href="https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150" target="_blank" rel="noopener noreferrer nofollow">https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150</a>  
 
 21. <a id="endnote-21"></a>
    Source: rts.ch  
-   Link: [https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15014165](https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15014165)  
+   Link: <a href="https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15014165" target="_blank" rel="noopener noreferrer nofollow">https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15014165</a>  
 
 22. <a id="endnote-22"></a>
    Source: rts.ch  
    Title: rael a rencontre les extraterrestres 28779719  
-   Link: [https://www.rts.ch/archives/1977/video/rael-a-rencontre-les-extraterrestres-28779719.html](https://www.rts.ch/archives/1977/video/rael-a-rencontre-les-extraterrestres-28779719.html)  
+   Link: <a href="https://www.rts.ch/archives/1977/video/rael-a-rencontre-les-extraterrestres-28779719.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rts.ch/archives/1977/video/rael-a-rencontre-les-extraterrestres-28779719.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/terrestrialceles01stevuoft/terrestrialceles01stevuoft.pdf](https://archive.org/download/terrestrialceles01stevuoft/terrestrialceles01stevuoft.pdf)  
+   Link: <a href="https://archive.org/download/terrestrialceles01stevuoft/terrestrialceles01stevuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/terrestrialceles01stevuoft/terrestrialceles01stevuoft.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: blog.nationalmuseum.ch  
    Title: the celestial event over basel in 1566  
-   Link: [https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/](https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/)  
+   Link: <a href="https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/</a>  
 
 25. <a id="endnote-25"></a>
    Source: thedebrief.org  
    Title: The Debrief Silicon Valley Technologists Interested In Swiss UFO Case  
-   Link: [https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/](https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/)  
+   Link: <a href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/</a>  
 
 26. <a id="endnote-26"></a>
    Source: lenouvelliste.ch  
-   Link: [https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427](https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427)  
+   Link: <a href="https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427" target="_blank" rel="noopener noreferrer nofollow">https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427</a>  
 
 27. <a id="endnote-27"></a>
    Source: lenouvelliste.ch  
    Title: sierre le mysterieux ovni de rossfeld une operation de communication 865781  
-   Link: [https://www.lenouvelliste.ch/valais/valais-central/sion-district/sierre-le-mysterieux-ovni-de-rossfeld-une-operation-de-communication-865781](https://www.lenouvelliste.ch/valais/valais-central/sion-district/sierre-le-mysterieux-ovni-de-rossfeld-une-operation-de-communication-865781)  
+   Link: <a href="https://www.lenouvelliste.ch/valais/valais-central/sion-district/sierre-le-mysterieux-ovni-de-rossfeld-une-operation-de-communication-865781" target="_blank" rel="noopener noreferrer nofollow">https://www.lenouvelliste.ch/valais/valais-central/sion-district/sierre-le-mysterieux-ovni-de-rossfeld-une-operation-de-communication-865781</a>  
 
 28. <a id="endnote-28"></a>
    Source: unil.academia.edu  
-   Link: [https://unil.academia.edu/Departments/Facult%C3%A9_des_Sciences/Documents](https://unil.academia.edu/Departments/Facult%C3%A9_des_Sciences/Documents)  
+   Link: <a href="https://unil.academia.edu/Departments/Facult%C3%A9_des_Sciences/Documents" target="_blank" rel="noopener noreferrer nofollow">https://unil.academia.edu/Departments/Facult%C3%A9_des_Sciences/Documents</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Last Man Standing | Ep. 5: My Encounter with the UFO Phenomenon in the alps  
-   Link: [https://www.youtube.com/watch?v=ifyrqSjaEgE](https://www.youtube.com/watch?v=ifyrqSjaEgE)  
+   Link: <a href="https://www.youtube.com/watch?v=ifyrqSjaEgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ifyrqSjaEgE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erich von Däniken&#x27;s BIGGEST Alien Claims | Ancient Aliens...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art](https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art)  
+   Link: <a href="https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/theskyovercorona/posts/1083620669734426/](https://www.facebook.com/groups/theskyovercorona/posts/1083620669734426/)  
+   Link: <a href="https://www.facebook.com/groups/theskyovercorona/posts/1083620669734426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/theskyovercorona/posts/1083620669734426/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheDailyMoJo/posts/billy-meier-a-one-armed-swiss-farmer-with-limited-formal-education-captured-thes/1509214823905477/](https://www.facebook.com/TheDailyMoJo/posts/billy-meier-a-one-armed-swiss-farmer-with-limited-formal-education-captured-thes/1509214823905477/)  
+   Link: <a href="https://www.facebook.com/TheDailyMoJo/posts/billy-meier-a-one-armed-swiss-farmer-with-limited-formal-education-captured-thes/1509214823905477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDailyMoJo/posts/billy-meier-a-one-armed-swiss-farmer-with-limited-formal-education-captured-thes/1509214823905477/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/clubufosuisse/?locale=fr_FR](https://www.facebook.com/clubufosuisse/?locale=fr_FR)  
+   Link: <a href="https://www.facebook.com/clubufosuisse/?locale=fr_FR" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/clubufosuisse/?locale=fr_FR</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DN0DFXVUFJv/](https://www.instagram.com/p/DN0DFXVUFJv/)  
+   Link: <a href="https://www.instagram.com/p/DN0DFXVUFJv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DN0DFXVUFJv/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/](https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/)  
+   Link: <a href="https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-over-swiss-alps-moving-toward-glowing-portal-in-sky-as-air-/1608061051320528/](https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-over-swiss-alps-moving-toward-glowing-portal-in-sky-as-air-/1608061051320528/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-over-swiss-alps-moving-toward-glowing-portal-in-sky-as-air-/1608061051320528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-over-swiss-alps-moving-toward-glowing-portal-in-sky-as-air-/1608061051320528/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RTSArchives/videos/la-v%C3%A9rit%C3%A9-est-ailleurs/919872758063400/](https://www.facebook.com/RTSArchives/videos/la-v%C3%A9rit%C3%A9-est-ailleurs/919872758063400/)  
+   Link: <a href="https://www.facebook.com/RTSArchives/videos/la-v%C3%A9rit%C3%A9-est-ailleurs/919872758063400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RTSArchives/videos/la-v%C3%A9rit%C3%A9-est-ailleurs/919872758063400/</a>  
 
 38. <a id="endnote-38"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/exchange-with-swiss-author-luc-burgin/](https://www.afu.se/exchange-with-swiss-author-luc-burgin/)  
+   Link: <a href="https://www.afu.se/exchange-with-swiss-author-luc-burgin/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/exchange-with-swiss-author-luc-burgin/</a>  

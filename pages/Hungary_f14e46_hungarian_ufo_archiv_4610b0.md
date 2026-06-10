@@ -245,7 +245,7 @@ next_link:
   permalink: /myths/
   short_title: Myths
   heading_title: Why Do Hungary's UFO Stories Spread?
-date: '2026-06-09 01:29:31 '
+date: '2026-06-10 01:54:52 '
 header:
   og_image: /assets/images/Hungary_f14e46_hungarian_ufo_archiv_4610b0-Illustration-1-social.jpg
   preview_image: /assets/images/Hungary_f14e46_hungarian_ufo_archiv_4610b0-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Hungary_f14e46_hungarian_ufo_archiv_4610b0-Illustration-1-
 
 ## Introduction
 
-In [Hungary]({{ 'what-do-hungarys-ufo-stories-really-show/' | relative_url }}), discussions about unidentified flying objects (commonly referred to as UFOs or UAPs) occasionally intersect with claims about official records, archives and declassified files. Unlike some countries that have systematically opened decades‑old government UFO investigations, Hungary has **no central government UFO programme** that routinely releases scientific analyses of aerial phenomena. What exists instead are archival records from state security or military sources that researchers and enthusiasts have combed through for references to unusual aerial sightings. Understanding what these files contain, what they *actually* document, and how they are accessed is key to separating documented record claims from speculation and myth.
+In Hungary, discussions about unidentified flying objects (commonly referred to as UFOs or UAPs) occasionally intersect with claims about official records, archives and declassified files. Unlike some countries that have systematically opened decades‑old government UFO investigations, Hungary has **no central government UFO programme** that routinely releases scientific analyses of aerial phenomena. What exists instead are archival records from state security or military sources that researchers and enthusiasts have combed through for references to unusual aerial sightings. Understanding what these files contain, what they *actually* document, and how they are accessed is key to separating documented record claims from speculation and myth.
 
 
 <img src="{{ "/assets/images/Hungary_f14e46_hungarian_ufo_archiv_4610b0-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Hungary_f14e46_hungarian_ufo_archiv_4610b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hungary_f14e46_hungarian_ufo_archiv_4610b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -275,7 +275,7 @@ Amateur researchers and UFO enthusiasts have been central to asserting that Hung
 
 According to reporting on these efforts:
 
-* Miskolci claims that **historical military and state security files include dozens of irregular aerial sightings** spanning from the 1950s up to the early 1990s. These reportedly document cases where Hungarian armed forces or liaisons observed unidentified aerial objects requiring written reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origo.hu">[ORIGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origo.hu</span><span class="citation-popover-title">szigoruan titkos ufoaktak magyarorszagon</span><span class="citation-popover-snippet">ORIGOUFO-észlelések, szigorúan titkos UFO-akták...June 10, 2023 — 10 Jun 2023 — Hétköznapi laktanyai jelentések halmazában bukkantam rá...</span><span class="citation-popover-meta">Published: June 10, 2023</span></span></span>
+* Miskolci claims that **historical military and state security files include dozens of irregular aerial sightings** spanning from the 1950s up to the early 1990s. These reportedly document cases where Hungarian armed forces or liaisons observed unidentified aerial objects requiring written reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origo.hu">[ORIGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origo.hu</span><span class="citation-popover-title">szigoruan titkos ufoaktak magyarorszagon</span><span class="citation-popover-snippet">UFO-észlelések, szigorúan titkos UFO-akták...June 10, 2023 — 10 Jun 2023 — Hétköznapi laktanyai jelentések halmazában bukkantam rá...</span><span class="citation-popover-meta">Published: June 10, 2023</span></span></span>
 * Some reports referenced by Miskolci and local media describe **objects over military locations such as airbases**, with one 1969 file allegedly recounting MiG‑21 jets being scrambled to investigate an unidentified radar/optical target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynewshungary.com/ufo-reports-in-hungary-are-no-longer-a-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynewshungary.com">[DailyNewsHungary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynewshungary.com</span><span class="citation-popover-title">Daily News Hungary UFO reports in Hungary are no longer a secret!</span><span class="citation-popover-snippet">Among them, there is László Miskolci, who regularly spends days reading relevant reports...Read more...</span></span></span>
 * Miskolci emphasises that many such files were once classified but have since passed the archival age threshold and are accessible to researchers. He has presented these in talks, local exhibitions and in his book on “Magyar UFO‑akták.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.origo.hu/kek-hirek/2025/12/ufo-keviczky-kalman-es-a-katonai-aktak" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origo.hu">[ORIGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origo.hu</span><span class="citation-popover-title">UFO-akták az állambiztonság páncélszekrényében</span><span class="citation-popover-snippet">Miskolci László kutató több évtizednyi titkos iratot publikált Magyar UFO-akták című könyvében. Ezek a dokumentumok mutatták meg, hogy...</span></span></span>
 
@@ -286,7 +286,7 @@ According to reporting on these efforts:
 
 Print and online media in Hungary has picked up the archival claims with varying degrees of scepticism and detail:
 
-* An **Origo** report highlights that Miskolci says he encountered “titkos, ám mára alól feloldott UFO‑akták” (secret but now declassified UFO files) when searching through everyday military communications and base reports prior to 1992. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origo.hu">[ORIGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origo.hu</span><span class="citation-popover-title">szigoruan titkos ufoaktak magyarorszagon</span><span class="citation-popover-snippet">ORIGOUFO-észlelések, szigorúan titkos UFO-akták...June 10, 2023 — 10 Jun 2023 — Hétköznapi laktanyai jelentések halmazában bukkantam rá...</span><span class="citation-popover-meta">Published: June 10, 2023</span></span></span>
+* An **Origo** report highlights that Miskolci says he encountered “titkos, ám mára alól feloldott UFO‑akták” (secret but now declassified UFO files) when searching through everyday military communications and base reports prior to 1992. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origo.hu">[ORIGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origo.hu</span><span class="citation-popover-title">szigoruan titkos ufoaktak magyarorszagon</span><span class="citation-popover-snippet">UFO-észlelések, szigorúan titkos UFO-akták...June 10, 2023 — 10 Jun 2023 — Hétköznapi laktanyai jelentések halmazában bukkantam rá...</span><span class="citation-popover-meta">Published: June 10, 2023</span></span></span>
 * Coverage notes that some documents are **laktanyai jelentések** (military station reports), which include accounts of unidentified aerial sightings, but it also conveys that the official Hungarian Ministry of Defence has stated it has **no records substantiating extraterrestrial activity** in Hungarian airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.origo.hu/kek-hirek/2025/12/ufo-keviczky-kalman-es-a-katonai-aktak" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origo.hu">[ORIGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origo.hu</span><span class="citation-popover-title">UFO-akták az állambiztonság páncélszekrényében</span><span class="citation-popover-snippet">Miskolci László kutató több évtizednyi titkos iratot publikált Magyar UFO-akták című könyvében. Ezek a dokumentumok mutatták meg, hogy...</span></span></span>
 
 ### Absence of a Central Official List
@@ -353,86 +353,44 @@ Hungarian archival records held by state security and national archival institut
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Inside Hungary&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Inside Hungary&#x27;s UFO Files?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides tools for reading UFO files critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Discusses archives, myths, and source reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Strong fit for discussions of archives, files, and case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines documented records and official-source testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,75 +424,71 @@ Hungarian archival records held by state security and national archival institut
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-522470-what-is-inside-hungary-s-ufo-files-hungary-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -749,113 +703,113 @@ Hungarian archival records held by state security and national archival institut
 1. <a id="endnote-1"></a>
    Source: history.state.gov  
    Title: Office of the Historian Hungary  
-   Link: [https://history.state.gov/countries/archives/hungary](https://history.state.gov/countries/archives/hungary)  
+   Link: <a href="https://history.state.gov/countries/archives/hungary" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/hungary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianHungary - Archives - Countries - Office of the Historian...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dailynewshungary.com  
    Title: Daily News Hungary UFO reports in Hungary are no longer a secret!  
-   Link: [https://dailynewshungary.com/ufo-reports-in-hungary-are-no-longer-a-secret/](https://dailynewshungary.com/ufo-reports-in-hungary-are-no-longer-a-secret/)  
+   Link: <a href="https://dailynewshungary.com/ufo-reports-in-hungary-are-no-longer-a-secret/" target="_blank" rel="noopener noreferrer nofollow">https://dailynewshungary.com/ufo-reports-in-hungary-are-no-longer-a-secret/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Among them, there is László Miskolci, who regularly spends days reading relevant reports...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: origo.hu  
    Title: szigoruan titkos ufoaktak magyarorszagon  
-   Link: [https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon](https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ORIGOUFO-észlelések, szigorúan titkos UFO-akták...June 10, 2023 — 10 Jun 2023 — Hétköznapi laktanyai jelentések halmazában bukkantam rá...</p></details>
+   Link: <a href="https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon" target="_blank" rel="noopener noreferrer nofollow">https://www.origo.hu/tudomany/2023/06/szigoruan-titkos-ufoaktak-magyarorszagon</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-észlelések, szigorúan titkos UFO-akták...June 10, 2023 — 10 Jun 2023 — Hétköznapi laktanyai jelentések halmazában bukkantam rá...</p></details>
    Published: June 10, 2023  
 
 4. <a id="endnote-4"></a>
    Source: origo.hu  
    Title: UFO-akták az állambiztonság páncélszekrényében  
-   Link: [https://www.origo.hu/kek-hirek/2025/12/ufo-keviczky-kalman-es-a-katonai-aktak](https://www.origo.hu/kek-hirek/2025/12/ufo-keviczky-kalman-es-a-katonai-aktak)  
+   Link: <a href="https://www.origo.hu/kek-hirek/2025/12/ufo-keviczky-kalman-es-a-katonai-aktak" target="_blank" rel="noopener noreferrer nofollow">https://www.origo.hu/kek-hirek/2025/12/ufo-keviczky-kalman-es-a-katonai-aktak</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miskolci László kutató több évtizednyi titkos iratot publikált Magyar UFO-akták című könyvében. Ezek a dokumentumok mutatták meg, hogy...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: [Air Force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) Fact Sheet on UFOs and Project BLUE BOOK * Reference Report re  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024 — PROJECT BLUE BOOK - UNIDENTIFIED FLYING OBJECTS * Gene...</p></details>
    Published: June 25, 2024  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 8. <a id="endnote-8"></a>
    Source: abtl.hu  
    Title: Historical Archives of State Security English  
-   Link: [https://www.abtl.hu/english/](https://www.abtl.hu/english/)  
+   Link: <a href="https://www.abtl.hu/english/" target="_blank" rel="noopener noreferrer nofollow">https://www.abtl.hu/english/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Archives of State SecurityEnglish - Állambiztonsági Szolgálatok Történeti Levéltára...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: abtl.hu  
-   Link: [https://www.abtl.hu/records/](https://www.abtl.hu/records/)  
+   Link: <a href="https://www.abtl.hu/records/" target="_blank" rel="noopener noreferrer nofollow">https://www.abtl.hu/records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the Act, the Archives’ collection comprises the documents of the former (State Security) De...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufo2026.org  
-   Link: [https://ufo2026.org/en/archives](https://ufo2026.org/en/archives)  
+   Link: <a href="https://ufo2026.org/en/archives" target="_blank" rel="noopener noreferrer nofollow">https://ufo2026.org/en/archives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Government Declassified UFO FilesUFO//解密档案 ARCHIVES Browse all 158 declassified files · Multi-dimensional filtering &amp; keyword search [...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: abtl.hu  
-   Link: [https://www.abtl.hu/](https://www.abtl.hu/)  
+   Link: <a href="https://www.abtl.hu/" target="_blank" rel="noopener noreferrer nofollow">https://www.abtl.hu/</a>  
 
 12. <a id="endnote-12"></a>
    Source: disclosure.fr  
-   Link: [https://disclosure.fr/](https://disclosure.fr/)  
+   Link: <a href="https://disclosure.fr/" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.fr/</a>  
 
 13. <a id="endnote-13"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/collection/FrenchUFOFiles](https://bluebookfiles.org/collection/FrenchUFOFiles)  
+   Link: <a href="https://bluebookfiles.org/collection/FrenchUFOFiles" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/collection/FrenchUFOFiles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE Search Map Blog -- docs 1947-69 Full-text searc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ur0QX1eGCQI](https://www.youtube.com/watch?v=ur0QX1eGCQI)  
+   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released provides context on how modern news media covers the public rollo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UC0KFCm7hTz_Y8iZUH3F3lKg/videos](https://www.youtube.com/channel/UC0KFCm7hTz_Y8iZUH3F3lKg/videos)  
+   Link: <a href="https://www.youtube.com/channel/UC0KFCm7hTz_Y8iZUH3F3lKg/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0KFCm7hTz_Y8iZUH3F3lKg/videos</a>  
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
    Title: TH E HUNGARIAN AIR FORCE | CIA FOIA (foia.cia.gov)  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp82-00457r013900160003-2](https://www.cia.gov/readingroom/document/cia-rdp82-00457r013900160003-2)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp82-00457r013900160003-2" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp82-00457r013900160003-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE HUNGARIAN AIR FORCE | CIA FOIA (foia.cia.gov)September 25, 1952 — THE HUNGARIAN AIR FORCE Document Type: CREST Collection: General CI...</p></details>
    Published: September 25, 1952  
 
 17. <a id="endnote-17"></a>
    Source: magyarmenedek.com  
-   Link: [https://www.magyarmenedek.com/products/16190/Magyar_UFO_aktak_-_Miskolci_Laszlo.htm?srsltid=AfmBOopw2i3LUahgX42J_HM2JFJKa5WmBX_YUsvxhRZr4LRK7hxo8F6n](https://www.magyarmenedek.com/products/16190/Magyar_UFO_aktak_-_Miskolci_Laszlo.htm?srsltid=AfmBOopw2i3LUahgX42J_HM2JFJKa5WmBX_YUsvxhRZr4LRK7hxo8F6n)  
+   Link: <a href="https://www.magyarmenedek.com/products/16190/Magyar_UFO_aktak_-_Miskolci_Laszlo.htm?srsltid=AfmBOopw2i3LUahgX42J_HM2JFJKa5WmBX_YUsvxhRZr4LRK7hxo8F6n" target="_blank" rel="noopener noreferrer nofollow">https://www.magyarmenedek.com/products/16190/Magyar_UFO_aktak_-_Miskolci_Laszlo.htm?srsltid=AfmBOopw2i3LUahgX42J_HM2JFJKa5WmBX_YUsvxhRZr4LRK7hxo8F6n</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feloldott, szigorúan titkos dokumentumok. A Magyar Honvédség katonáinak UFO jelentései. UFO-k a vasfüggöny mögött. Ősmagyarok UFO észlelé...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://www.theprojectbluebookarchive.org/](https://www.theprojectbluebookarchive.org/)  
+   Link: <a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Explore the Archive Buy the Book ABOUT THE ARCHIVE The Project Blue Book Archive is...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: archivportal.hu  
    Title: Magyar Levéltári Portál Historical Archives of the Hungarian State Security  
-   Link: [https://archivportal.hu/index.php/en/archive/historical-archives-of-the-hungarian-state-security/](https://archivportal.hu/index.php/en/archive/historical-archives-of-the-hungarian-state-security/)  
+   Link: <a href="https://archivportal.hu/index.php/en/archive/historical-archives-of-the-hungarian-state-security/" target="_blank" rel="noopener noreferrer nofollow">https://archivportal.hu/index.php/en/archive/historical-archives-of-the-hungarian-state-security/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Magyar Levéltári PortálHistorical Archives of the Hungarian State Security - Hungarian Archives Portal...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mnl.gov.hu  
    Title: hu Archives of the National Archives of Hungary | Magyar Nemzeti Levéltár  
-   Link: [https://mnl.gov.hu/angol/mnl/ol/archives_of_the_national_archives_of_hungary](https://mnl.gov.hu/angol/mnl/ol/archives_of_the_national_archives_of_hungary)  
+   Link: <a href="https://mnl.gov.hu/angol/mnl/ol/archives_of_the_national_archives_of_hungary" target="_blank" rel="noopener noreferrer nofollow">https://mnl.gov.hu/angol/mnl/ol/archives_of_the_national_archives_of_hungary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Among the administrative documents created during the activities of the institution since 187...</p></details>

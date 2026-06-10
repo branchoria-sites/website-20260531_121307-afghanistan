@@ -245,7 +245,7 @@ next_link:
   permalink: /military-reports/
   short_title: Military Reports
   heading_title: Georgia UFO Cases in Project Blue Book
-date: '2026-06-09 01:27:39 '
+date: '2026-06-10 01:52:26 '
 header:
   og_image: /assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1-social.jpg
   preview_image: /assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1-
 
 ## Introduction
 
-Investigative groups play a central role in documenting and analysing reports of unidentified aerial phenomena (UAP) in [Georgia]({{ 'what-georgias-ufo-reports-reveal-about/' | relative_url }}), organising witness testimony, applying structured follow‑up methods, and preserving sighting records for research. In the absence of formal government archives specific to the state, civilian bodies such as the Mutual UFO Network (MUFON) Georgia chapter serve as the primary institutional collectors and analysts of sighting reports. Their work complements nationwide civilian databases like the **National UFO Reporting Center (NUFORC)** by applying standardised documentation methods and structured investigations to local reports that range from brief light sightings to protracted encounters. This page outlines the principal organisations operating in Georgia, their investigative methodologies, and how they contribute to the systematic recording of UFO phenomena within the state.
+Investigative groups play a central role in documenting and analysing reports of unidentified aerial phenomena (UAP) in Georgia, organising witness testimony, applying structured follow‑up methods, and preserving sighting records for research. In the absence of formal government archives specific to the state, civilian bodies such as the Mutual UFO Network (MUFON) Georgia chapter serve as the primary institutional collectors and analysts of sighting reports. Their work complements nationwide civilian databases like the **National UFO Reporting Center (NUFORC)** by applying standardised documentation methods and structured investigations to local reports that range from brief light sightings to protracted encounters. This page outlines the principal organisations operating in Georgia, their investigative methodologies, and how they contribute to the systematic recording of UFO phenomena within the state.
 
 
 <img src="{{ "/assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1-dark.svg" | relative_url }}" alt="Investigative Groups illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ When a report is submitted via MUFON’s reporting portal, the case is routed to
 
 ## Collaborative Documentation with Centralised Databases
 
-While MUFON Georgia conducts active follow‑ups, broader civilian reporting systems like **NUFORC** serve as initial intake platforms for sightings within Georgia. NUFORC’s publicly accessible database collects first‑hand witness reports with standardised fields — including date, time, location, number of observers, object shape, and narrative details — which researchers and local investigators frequently use as a starting point for deeper inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities NUFORC &amp; MUFON: Civilian Data Sources</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</span><span class="citation-popover-meta">Published: November 7, 2025</span></span></span> - Unlocking New Realities
+While MUFON Georgia conducts active follow‑ups, broader civilian reporting systems like **NUFORC** serve as initial intake platforms for sightings within Georgia. NUFORC’s publicly accessible database collects first‑hand witness reports with standardised fields — including date, time, location, number of observers, object shape, and narrative details — which researchers and local investigators frequently use as a starting point for deeper inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities NUFORC &amp; MUFON: Civilian Data Sources</span><span class="citation-popover-snippet">Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</span><span class="citation-popover-meta">Published: November 7, 2025</span></span></span> - Unlocking New Realities
 
 
 <img src="{{ "/assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-2-dark.svg" | relative_url }}" alt="Investigative Groups illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,86 +327,44 @@ In sum, while Georgia does not have a formal government‑mandated UFO investiga
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to MUFON and UFO Investigation in Georgia. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for MUFON and UFO Investigation in Georgia, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses investigative methods that influenced civilian UFO organizations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores how contemporary UFO reports are collected and discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights documentation and witness assessment approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on evidence evaluation and structured case analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -440,75 +398,71 @@ In sum, while Georgia does not have a formal government‑mandated UFO investiga
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UAP Investigator T-Shirt | UFO Research, In Search of the Truth"><img src="{{ '/assets/images/marketplace-covers/f4d1bb6d220620f2393d.jpg' | relative_url }}" alt="Listing image for UAP Investigator T-Shirt | UFO Research, In Search of the Truth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer">UAP Investigator T-Shirt | UFO Research, In Search of the Truth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO investigator shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO investigator shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Leave Shirt Gildan 5000 UFO Aliencore Tee Alien Abduction Gift 5XL New"><img src="{{ '/assets/images/marketplace-covers/27cba91a01ad5f50f98f.jpg' | relative_url }}" alt="Listing image for I Want to Leave Shirt Gildan 5000 UFO Aliencore Tee Alien Abduction Gift 5XL New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer">I Want to Leave Shirt Gildan 5000 UFO Aliencore Tee Alien Abduction Gift 5XL New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO investigator shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO investigator shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-Files T-Shirt for UFO Enthusiasts, Paranormal Investigators, Aliens, Roswell"><img src="{{ '/assets/images/marketplace-covers/1cbfb1e49942d8e6d98e.jpg' | relative_url }}" alt="Listing image for X-Files T-Shirt for UFO Enthusiasts, Paranormal Investigators, Aliens, Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer">X-Files T-Shirt for UFO Enthusiasts, Paranormal Investigators, Aliens, Roswell</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO investigator shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO investigator shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Investigator Ghost Hunter Shirt Graphic Tee Bigfoot UFO EMF"><img src="{{ '/assets/images/marketplace-covers/4f21bf96b4970f14497a.jpg' | relative_url }}" alt="Listing image for Paranormal Investigator Ghost Hunter Shirt Graphic Tee Bigfoot UFO EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer">Paranormal Investigator Ghost Hunter Shirt Graphic Tee Bigfoot UFO EMF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO investigator shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO investigator shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+investigator+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO investigator shirt" data-ebay-reference="investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-investigator-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigative-groups-mufon-and-ufo-investigation-in-georgia-georgia-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -723,150 +677,150 @@ In sum, while Georgia does not have a formal government‑mandated UFO investiga
 1. <a id="endnote-1"></a>
    Source: mufongeorgia.org  
    Title: Georgia MUFONAbout MUFON Georgia  
-   Link: [https://mufongeorgia.org/about-mufon-georgia/](https://mufongeorgia.org/about-mufon-georgia/)  
+   Link: <a href="https://mufongeorgia.org/about-mufon-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/about-mufon-georgia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia MUFON...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONFebruary 20, 2026 — IN THE MARCH 2025 ISSUE: * Crop Circle Appears in Brazil * Analyzing Alien Evidence * Religion and Erich von Dan...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — IN THE MARCH 2025 ISSUE: * Crop Circle Appears in Brazil * Analyzing Alien Evidence * Religion and Erich von Dan...</p></details>
    Published: February 20, 2026  
 
 3. <a id="endnote-3"></a>
    Source: mufongeorgia.org  
    Title: georgia aerial phenomenon  
-   Link: [https://mufongeorgia.org/georgia-aerial-phenomenon/](https://mufongeorgia.org/georgia-aerial-phenomenon/)  
+   Link: <a href="https://mufongeorgia.org/georgia-aerial-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/georgia-aerial-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia MUFONGeorgia&#x27;s Aerial Phenomenon from 1947-1987 - Georgia MUFON...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mufongeorgia.org  
    Title: Georgia MUFONReport a UFO  
-   Link: [https://mufongeorgia.org/report-ufo/](https://mufongeorgia.org/report-ufo/)  
+   Link: <a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia MUFON...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities NUFORC & MUFON: Civilian Data Sources  
-   Link: [https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/](https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</p></details>
+   Link: <a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</p></details>
    Published: November 7, 2025  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=12677](https://nuforc.org/sighting/?id=12677)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 12677April 26, 2000...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=12677" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=12677</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 12677April 26, 2000...</p></details>
    Published: April 26, 2000  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=62581](https://nuforc.org/sighting/?id=62581)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 62581April 17, 2008...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=62581" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=62581</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 62581April 17, 2008...</p></details>
    Published: April 17, 2008  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=62452](https://nuforc.org/sighting/?id=62452)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 62452March 31, 2008...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=62452" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=62452</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 62452March 31, 2008...</p></details>
    Published: March 31, 2008  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=32497](https://nuforc.org/sighting/?id=32497)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 32497October 31, 2003...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=32497" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=32497</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 32497October 31, 2003...</p></details>
    Published: October 31, 2003  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=66290](https://nuforc.org/sighting/?id=66290)  
+   Link: <a href="https://nuforc.org/sighting/?id=66290" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=66290</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 66290October 31, 2008 — NUFORC UFO SIGHTING 66290 Occurred: 2008-03-29 22:30 Local Reported: 2008-10-17 21:37 Pacific...</p></details>
    Published: March 29, 2008  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=61559](https://nuforc.org/sighting/?id=61559)  
+   Link: <a href="https://nuforc.org/sighting/?id=61559" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61559</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 61559March 4, 2008 — NUFORC UFO SIGHTING 61559 Occurred: 2006-11-29 16:00 Local Reported: 2008-02-12 00:36 Pacific Du...</p></details>
    Published: November 29, 2006  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=38792](https://nuforc.org/sighting/?id=38792)  
+   Link: <a href="https://nuforc.org/sighting/?id=38792" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38792</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 38792August 24, 2004 — NUFORC UFO SIGHTING 38792 Occurred: 1973-07-01 21:00 Local - Approximate Reported: 2004-08-22...</p></details>
    Published: August 22, 2004  
 
 13. <a id="endnote-13"></a>
    Source: mufongeorgia.org  
    Title: Georgia MUFON- Georgia MUFON  
-   Link: [https://mufongeorgia.org/our-mission-and-goals/](https://mufongeorgia.org/our-mission-and-goals/)  
+   Link: <a href="https://mufongeorgia.org/our-mission-and-goals/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/our-mission-and-goals/</a>  
 
 14. <a id="endnote-14"></a>
    Source: mufongeorgia.org  
    Title: Georgia MUFON  
-   Link: [https://mufongeorgia.org/](https://mufongeorgia.org/)  
+   Link: <a href="https://mufongeorgia.org/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Study of UFOsMarch 4, 2023 — GEORGIA MUFON DEDICATED TO THE SCIENTIFIC STUDY AND INVESTIGATION OF UNIDENTIFIED FLYING OBJECTS...</p></details>
    Published: March 4, 2023  
 
 15. <a id="endnote-15"></a>
    Source: mufongeorgia.org  
    Title: About Georgia MUFON  
-   Link: [https://mufongeorgia.org/about-georgia-mufon/](https://mufongeorgia.org/about-georgia-mufon/)  
+   Link: <a href="https://mufongeorgia.org/about-georgia-mufon/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/about-georgia-mufon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia MUFONGEORGIA MUFON DEDICATED TO THE SCIENTIFIC STUDY AND INVESTIGATION OF UNIDENTIFIED FLYING OBJECTS ABOUT GEORGIA MUFON Georgia...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: ufosint.com  
-   Link: [https://ufosint.com/](https://ufosint.com/)  
+   Link: <a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer presents a processed scientific analysis of six major UFO/UAP databases — 618,316 sighting records deduplicated, cr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ufotimelineproject.com  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
    Title: How To Investigate a Flying Saucer  
-   Link: [https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/](https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/)  
+   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CREATE A REPORTING SYSTEM TO ORGANIZE INCOMING CASES The US Air Force’s Air Technical Intelligence Center (ATIC) developed questionnaires...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WAKmePJ5i98](https://www.youtube.com/watch?v=WAKmePJ5i98)  
+   Link: <a href="https://www.youtube.com/watch?v=WAKmePJ5i98" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WAKmePJ5i98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What I Found Tracking 200,000 UFO Sightings | Meet Christian Stepien of the UFO Reporting Center...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nationalgeographic.com  
    Title: warships for years, marking a new e  
-   Link: [https://www.nationalgeographic.com/science/article/what-the-pentagon-report-says-about-ufos](https://www.nationalgeographic.com/science/article/what-the-pentagon-report-says-about-ufos)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/what-the-pentagon-report-says-about-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/what-the-pentagon-report-says-about-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon learned to start worrying and investigate UFOs | National GeographicJune 25, 2021 — HOW THE PENTAGON LEARNED TO START WO...</p></details>
    Published: June 25, 2021  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Unidentified flying object  
-   Link: [https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs](https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs)  
+   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings, Investigations, Reports | BritannicaMarch 11, 2026 — unidentified flying object print Print OTHER INVESTIGATIONS OF UFOS in un...</p></details>
    Published: March 11, 2026  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History  
-   Link: [https://www.youtube.com/watch?v=V5cOeKCZCbs](https://www.youtube.com/watch?v=V5cOeKCZCbs)  
+   Link: <a href="https://www.youtube.com/watch?v=V5cOeKCZCbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5cOeKCZCbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Changed Everything! | UFO&#x27;s Over Earth S1 E2 | Discovery Channel...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mufonwa.org  
    Title: scientific method  
-   Link: [https://www.mufonwa.org/scientific-method](https://www.mufonwa.org/scientific-method)  
+   Link: <a href="https://www.mufonwa.org/scientific-method" target="_blank" rel="noopener noreferrer nofollow">https://www.mufonwa.org/scientific-method</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON of Washington State, THE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPS - Official WASHINGTON State MUFONTHE SCIENTIFIC METHOD AND TH...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting these efforts, this research team explores spatial patterns of publicly reported UAP sighting...</p></details>

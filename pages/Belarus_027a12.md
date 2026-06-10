@@ -1185,7 +1185,7 @@ next_link:
   title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
   short_title: Brazil UFOs
-date: '2026-06-09 01:17:16 '
+date: '2026-06-10 01:42:31 '
 header:
   og_image: /assets/images/Belarus_027a12-overview-social.jpg
   preview_image: /assets/images/Belarus_027a12-overview.webp
@@ -1264,7 +1264,7 @@ Rocket and missile activity is especially relevant to Soviet-era cases. Oberg’
 
 Meteors and fireballs are another important filter. A 2024 report indexed by the Smithsonian/NASA Astrophysics Data System describes a bright fireball recorded on 8 January 2024 by three cameras of the Belarusian Meteor Network in Minsk and Gayany, with calculations performed from the observations. That kind of instrumented event is important because a spectacular light can be real, bright and frightening while still being a natural meteoroid rather than an engineered object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Balloons and small UAVs have become a modern source of confusion and security concern along Belarus’s borders. AP reported in 2026 that balloons used to smuggle cigarettes from Belarus had crossed into Polish airspace for a third consecutive night, with Polish authorities treating them as hybrid incidents but also saying the recent balloon episodes posed no direct threat to Polish airspace. Such cases show how “unknown object in the sky” now often belongs to smuggling, surveillance, jamming or air-defence categories before it belongs to ufology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus | AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus | AP News</span></span></span>
+Balloons and small UAVs have become a modern source of confusion and security concern along Belarus’s borders. AP reported in 2026 that balloons used to smuggle cigarettes from Belarus had crossed into Polish airspace for a third consecutive night, with Polish authorities treating them as hybrid incidents but also saying the recent balloon episodes posed no direct threat to Polish airspace. Such cases show how “unknown object in the sky” now often belongs to smuggling, surveillance, jamming or air-defence categories before it belongs to ufology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span></span></span>
 
 Atmospheric and consumer phenomena also matter. UfoCom’s inclusion of ball lightning, fireballs, light pillars and anomalous atmospheric phenomena in its Belarus map is not just a broad-interest choice; it reflects the practical reality that many reports begin with light, motion and surprise, not with a clearly structured craft. Its discussion of sky lanterns in the 2009 review is a reminder that newly popular consumer objects can create temporary waves of apparently strange sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1287,7 +1287,7 @@ This does not mean Belarus has no worthwhile UFO evidence. It means the evidence
 
 Belarusian UFO material naturally links to wider post-Soviet and eastern European patterns. The 1984 Minsk case cannot be interpreted only from within Belarus, because simultaneous Scandinavian sightings and possible northern military activity are central to the explanation. Soviet archive routing also links Belarusian reports to Moscow, Leningrad and Kyiv research networks rather than to a neat national archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That cross-border texture should not blur the page scope. Belarus’s distinctive value lies in how those wider forces appear locally: Minsk as the centre of the most famous aviation case, Brest and Minsk as strong reporting regions in UfoCom’s modern database, Belarusian Soviet letters as scattered archive fragments, and current border skies as a place where drones and balloons complicate the meaning of “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus | AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus | AP News</span></span></span> 3ufo-com.net <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.pravda.ru">[pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.pravda.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a root-country UFO project, Belarus works best beside sibling branches on Russia, Ukraine, Lithuania, Latvia and Poland. The comparison would not be about which country has “more UFOs”, but about how geography, military secrecy, media openness, border security and amateur research networks shape what gets reported and what later becomes explainable.
+That cross-border texture should not blur the page scope. Belarus’s distinctive value lies in how those wider forces appear locally: Minsk as the centre of the most famous aviation case, Brest and Minsk as strong reporting regions in UfoCom’s modern database, Belarusian Soviet letters as scattered archive fragments, and current border skies as a place where drones and balloons complicate the meaning of “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span></span></span> 3ufo-com.net <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.pravda.ru">[pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.pravda.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a root-country UFO project, Belarus works best beside sibling branches on Russia, Ukraine, Lithuania, Latvia and Poland. The comparison would not be about which country has “more UFOs”, but about how geography, military secrecy, media openness, border security and amateur research networks shape what gets reported and what later becomes explainable.
 
 ## Bottom line for Belarus
 
@@ -1296,86 +1296,44 @@ The Belarus UFO file is substantial, but its strongest lesson is caution. There 
 The most credible reading is three-part: Belarus has a confirmed history of UFO reporting; some cases remain unresolved because the original data are incomplete; and several dramatic or modern incidents become less mysterious when matched against missile launches, meteors, lanterns, drones, balloons, reporting bias and archive gaps. That makes Belarus an important UFO country not because it proves the extraordinary, but because it shows how a national UFO record is built — and how fragile that record becomes when timing, direction, documents and physical evidence are missing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Belarus UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Belarus UFO Reports Really Show, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for comparing Belarus reports with international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines documented cases and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Matches the page&#x27;s focus on archives, folklore and long-term sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Looks at how UFO narratives and archives evolve culturally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1409,75 +1367,71 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-belarus-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1691,252 +1645,252 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
 
 1. <a id="endnote-1"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/?SECTION_ID=188](https://www.ufo-com.net/observes/?SECTION_ID=188)  
+   Link: <a href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?SECTION_ID=188</a>  
 
 2. <a id="endnote-2"></a>
    Source: ufo-com.net  
    Title: Архивы Комиссии по аномальным явлениям: Белорусская ССР  
-   Link: [https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html](https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: cdn.centerforinquiry.org  
    Title: Center for Inquiry  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401](https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401)  
+   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufo-com.net  
    Title: art 11687 arhiv kaia bssr chast dva  
-   Link: [https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html](https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: ufo-com.net  
    Title: art 4004 ufologicheskie itogi dve tisyachi devyatogo goda v belarusi  
-   Link: [https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html](https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: ufo-com.net  
    Title: Карта наблюдений  
-   Link: [https://www.ufo-com.net/observes/map.php](https://www.ufo-com.net/observes/map.php)  
+   Link: <a href="https://www.ufo-com.net/observes/map.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/map.php</a>  
 
 8. <a id="endnote-8"></a>
    Source: ufo-com.net  
    Title: «Любому непонятному явлению всегда уделялось повышенное внимание»  
-   Link: [https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html](https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: ufo-com.net  
    Title: art 11155 pervyi ufo kontakt belarusi  
-   Link: [https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html](https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417](https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417)  
+   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417</a>  
 
 11. <a id="endnote-11"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679](https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679)  
+   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679</a>  
 
 12. <a id="endnote-12"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919](https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919)  
+   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919</a>  
 
 13. <a id="endnote-13"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416](https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416)  
+   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416</a>  
 
 14. <a id="endnote-14"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451](https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451)  
+   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451</a>  
 
 15. <a id="endnote-15"></a>
    Source: ufo-com.net  
    Title: Военные видят НЛО  
-   Link: [https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html](https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: ufo-com.net  
    Title: art 7779 trubcevsk v ufoperspektive  
-   Link: [https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html](https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: ufo-com.net  
    Title: Падение метеорита возле Кричева  
-   Link: [https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html](https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/books/index.php?SECTION_ID=165](https://www.ufo-com.net/books/index.php?SECTION_ID=165)  
+   Link: <a href="https://www.ufo-com.net/books/index.php?SECTION_ID=165" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/books/index.php?SECTION_ID=165</a>  
 
 19. <a id="endnote-19"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/search/](https://www.ufo-com.net/search/)  
+   Link: <a href="https://www.ufo-com.net/search/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/search/</a>  
 
 20. <a id="endnote-20"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/?PAGEN_4=18&SECTION_ID=](https://www.ufo-com.net/observes/?PAGEN_4=18&SECTION_ID=)  
+   Link: <a href="https://www.ufo-com.net/observes/?PAGEN_4=18&amp;SECTION_ID=" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_4=18&amp;SECTION_ID=</a>  
 
 21. <a id="endnote-21"></a>
    Source: ufo-com.net  
    Title: art 5366 itogi goda  
-   Link: [https://www.ufo-com.net/publications/art-5366-itogi-goda.html](https://www.ufo-com.net/publications/art-5366-itogi-goda.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-5366-itogi-goda.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-5366-itogi-goda.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/?PAGEN_4=10&SECTION_ID=192](https://www.ufo-com.net/observes/?PAGEN_4=10&SECTION_ID=192)  
+   Link: <a href="https://www.ufo-com.net/observes/?PAGEN_4=10&amp;SECTION_ID=192" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_4=10&amp;SECTION_ID=192</a>  
 
 23. <a id="endnote-23"></a>
    Source: ufo-com.net  
    Title: art 6375 baranovecheskii region v svete programmy dromos  
-   Link: [https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html](https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: ufo-com.net  
    Title: art 10409 kamni mebel  
-   Link: [https://www.ufo-com.net/publications/art-10409-kamni-mebel.html](https://www.ufo-com.net/publications/art-10409-kamni-mebel.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-10409-kamni-mebel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10409-kamni-mebel.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: ufo-com.net  
    Title: «Звенящий» камень  
-   Link: [https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html](https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: ufo-com.net  
    Title: art 10772 kriptozoologia belorusskogo pogranichia  
-   Link: [https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html](https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufo-com.net  
    Title: art 3965 fenomen krygov na snegy v belarysi  
-   Link: [https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html](https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: ufo-com.net  
    Title: art 10422 expedicii vileiskom shumilinskom raionah  
-   Link: [https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html](https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: ufo-com.net  
    Title: art 10597 diadechka pokatai  
-   Link: [https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html](https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: ufo-com.net  
    Title: art 11416 valuny chashy  
-   Link: [https://www.ufo-com.net/publications/art-11416-valuny-chashy.html](https://www.ufo-com.net/publications/art-11416-valuny-chashy.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-11416-valuny-chashy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11416-valuny-chashy.html</a>  
 
 31. <a id="endnote-31"></a>
    Source: ufo-com.net  
    Title: art 12824 belorusskie materialy opredvestijah velikoj otechestvennoj vojny  
-   Link: [https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html](https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: ufo-com.net  
    Title: art 10240 miraji vbelarusi  
-   Link: [https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html](https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: ufo-com.net  
    Title: art 14920 kladbishenskie prividenia  
-   Link: [https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html](https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html</a>  
 
 34. <a id="endnote-34"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/observes/?PAGEN_3=18&PAGEN_4=4&section_id=192](https://www.ufo-com.net/observes/?PAGEN_3=18&PAGEN_4=4&section_id=192)  
+   Link: <a href="https://www.ufo-com.net/observes/?PAGEN_3=18&amp;PAGEN_4=4&amp;section_id=192" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_3=18&amp;PAGEN_4=4&amp;section_id=192</a>  
 
 35. <a id="endnote-35"></a>
    Source: ufo-com.net  
    Title: art 10485 zveniashie kamni  
-   Link: [https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html](https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html)  
+   Link: <a href="https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: english.pravda.ru  
-   Link: [https://english.pravda.ru/science/109137-minsk_ufo_sighting/](https://english.pravda.ru/science/109137-minsk_ufo_sighting/)  
+   Link: <a href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://english.pravda.ru/science/109137-minsk_ufo_sighting/</a>  
 
 37. <a id="endnote-37"></a>
    Source: t.me  
-   Link: [https://t.me/s/ufocomm?before=65](https://t.me/s/ufocomm?before=65)  
+   Link: <a href="https://t.me/s/ufocomm?before=65" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/ufocomm?before=65</a>  
 
 38. <a id="endnote-38"></a>
    Source: pravda.com.ua  
-   Link: [https://www.pravda.com.ua/eng/news/2025/07/29/7523897/](https://www.pravda.com.ua/eng/news/2025/07/29/7523897/)  
+   Link: <a href="https://www.pravda.com.ua/eng/news/2025/07/29/7523897/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/07/29/7523897/</a>  
 
 39. <a id="endnote-39"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract](https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract</a>  
 
 40. <a id="endnote-40"></a>
    Source: apnews.com  
    Title: AP News Poland restricts airspace over balloons from Belarus | AP News  
-   Link: [https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e](https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e)  
+   Link: <a href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e</a>  
 
 41. <a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Ufo Com  
-   Link: [https://en.wikipedia.org/wiki/UfoCom](https://en.wikipedia.org/wiki/UfoCom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UfoCom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UfoCom</a>  
 
 42. <a id="endnote-42"></a>
    Source: Wikipedia  
    Title: James Oberg  
-   Link: [https://en.wikipedia.org/wiki/James_Oberg](https://en.wikipedia.org/wiki/James_Oberg)  
+   Link: <a href="https://en.wikipedia.org/wiki/James_Oberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_Oberg</a>  
 
 43. <a id="endnote-43"></a>
    Source: pravda.com.ua  
-   Link: [https://www.pravda.com.ua/eng/news/2025/09/10/7530178/](https://www.pravda.com.ua/eng/news/2025/09/10/7530178/)  
+   Link: <a href="https://www.pravda.com.ua/eng/news/2025/09/10/7530178/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/09/10/7530178/</a>  
 
 44. <a id="endnote-44"></a>
    Source: pravda.com.ua  
-   Link: [https://www.pravda.com.ua/eng/news/2025/08/01/7524392/](https://www.pravda.com.ua/eng/news/2025/08/01/7524392/)  
+   Link: <a href="https://www.pravda.com.ua/eng/news/2025/08/01/7524392/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/08/01/7524392/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/](https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/)  
+   Link: <a href="https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/</a>  
 
 46. <a id="endnote-46"></a>
    Source: ufocomm.ru  
-   Link: [https://www.ufocomm.ru/topic/5257/](https://www.ufocomm.ru/topic/5257/)  
+   Link: <a href="https://www.ufocomm.ru/topic/5257/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocomm.ru/topic/5257/</a>  
 
 ### Additional References
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/](https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/)  
+   Link: <a href="https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/</a>  
 
 48. <a id="endnote-48"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/](https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/)  
+   Link: <a href="https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/</a>  
 
 50. <a id="endnote-50"></a>
    Source: militarnyi.com  
-   Link: [https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/](https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/)  
+   Link: <a href="https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/](https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/)  
+   Link: <a href="https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/](https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/)  
+   Link: <a href="https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/](https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/)  
+   Link: <a href="https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/</a>  
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYTOlXMgjtQ/](https://www.instagram.com/p/DYTOlXMgjtQ/)  
+   Link: <a href="https://www.instagram.com/p/DYTOlXMgjtQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYTOlXMgjtQ/</a>  
 
 55. <a id="endnote-55"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf](https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf)  
+   Link: <a href="https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf</a>  
 
 56. <a id="endnote-56"></a>
    Source: sandiegohistory.org  
-   Link: [https://sandiegohistory.org/journal/v56-4/v56-4.pdf](https://sandiegohistory.org/journal/v56-4/v56-4.pdf)  
+   Link: <a href="https://sandiegohistory.org/journal/v56-4/v56-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sandiegohistory.org/journal/v56-4/v56-4.pdf</a>  

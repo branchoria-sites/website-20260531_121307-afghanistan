@@ -239,7 +239,7 @@ next_link:
   permalink: /aviation-context/
   short_title: Aviation Context
   heading_title: How Local Aviation Shapes Potential UFO Sightings
-date: '2026-06-09 01:26:30 '
+date: '2026-06-10 01:51:11 '
 header:
   og_image: /assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1-social.jpg
   preview_image: /assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1.webp
@@ -268,7 +268,7 @@ Equatorial Guinea’s stamp programme of the era also reflected economic realiti
 
 ### The Adamski-style saucer
 
-The most discussed design in the set depicts a classic metallic flying saucer closely resembling imagery associated with George Adamski, one of the most famous UFO contactees of the 1950s. Adamski claimed repeated encounters with benevolent extraterrestrials and published photographs that sceptics later dismissed as fabricated or heavily manipulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">HISTORYGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span>
+The most discussed design in the set depicts a classic metallic flying saucer closely resembling imagery associated with George Adamski, one of the most famous UFO contactees of the 1950s. Adamski claimed repeated encounters with benevolent extraterrestrials and published photographs that sceptics later dismissed as fabricated or heavily manipulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">George Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span>
 
 The Equatorial Guinea design did not merely show a generic disc-shaped craft. Collectors and UFO writers have repeatedly noted its similarity to Adamski’s famous “scout ship” photographs, especially the domed upper structure and circular underside detailing. A later review of UFO philately described the stamp as an “enhanced version” of the traditional Adamski saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span>
 
@@ -293,7 +293,7 @@ This ambiguity probably helped make the stamps memorable. They could be read sim
 
 </div>
 
-The designs also reflected visual conventions common in 1960s and 1970s UFO illustration. Bright propulsion trails, exaggerated metallic textures and dramatic celestial backgrounds resembled magazine cover art more than aerospace engineering diagrams. Several surviving collector discussions describe the broader Equatorial Guinea space series as unusually surreal or flamboyant even by the standards of 1970s topical stamp production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Wacky space stamps from Equatorial Guinea&#x27;s set on the</span><span class="citation-popover-snippet">RedditWacky space stamps from Equatorial Guinea&#x27;s set on the &quot;...May 6, 2021 — Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;C...</span><span class="citation-popover-meta">Published: May 6, 2021</span></span></span>
+The designs also reflected visual conventions common in 1960s and 1970s UFO illustration. Bright propulsion trails, exaggerated metallic textures and dramatic celestial backgrounds resembled magazine cover art more than aerospace engineering diagrams. Several surviving collector discussions describe the broader Equatorial Guinea space series as unusually surreal or flamboyant even by the standards of 1970s topical stamp production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Wacky space stamps from Equatorial Guinea&#x27;s set on the</span><span class="citation-popover-snippet">Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;...May 6, 2021 — Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;C...</span><span class="citation-popover-meta">Published: May 6, 2021</span></span></span>
 
 ## Why the issue became important in UFO culture
 
@@ -311,7 +311,7 @@ This does not mean the Equatorial Guinean government endorsed UFO contact claims
 
 Another reason the stamps survived in public memory is practical. Physical stamp catalogues, dealer inventories and collector exchanges preserved the designs in ways that many African UFO rumours were not preserved.
 
-Equatorial Guinea has relatively sparse public archival material concerning UFO sightings or investigations. By contrast, stamp collectors continuously reproduced images of the 1975 issue through catalogues, auctions and online philatelic marketplaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etsy.com">[Etsy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etsy.com</span><span class="citation-popover-title">postage stamps equatorial guinea 1975</span><span class="citation-popover-snippet">EtsyPostage Stamps. Equatorial-guinea 1975. Philately14 Feb 2022 — This Postage Stamps item by FatCatPostStamps has 4 favorites from Ets...</span></span></span>
+Equatorial Guinea has relatively sparse public archival material concerning UFO sightings or investigations. By contrast, stamp collectors continuously reproduced images of the 1975 issue through catalogues, auctions and online philatelic marketplaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etsy.com">[Etsy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etsy.com</span><span class="citation-popover-title">postage stamps equatorial guinea 1975</span><span class="citation-popover-snippet">Postage Stamps. Equatorial-guinea 1975. Philately14 Feb 2022 — This Postage Stamps item by FatCatPostStamps has 4 favorites from Ets...</span></span></span>
 
 As a result, the stamps became more verifiable than most alleged UFO stories associated with the country. They can be physically examined, traded and catalogued. That gives them unusual evidential solidity compared with anecdotal sighting claims lacking documentation.
 
@@ -388,86 +388,44 @@ That combination gives the issue a disproportionate cultural footprint compared 
 <img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-3-dark.svg" | relative_url }}" alt="1975 UFO Stamps illustration 3" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Equatorial Guineaâ€™s 1975 Stamps Entered UFO Culture. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Equatorial Guinea’s 1975 Stamps Entered UFO Culture, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Places UFO imagery within broader popular culture history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Explores the cultural fascination behind UFO-related artifacts and imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stamp Collecting for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/521864-M.jpg" alt="Cover for Stamp Collecting for Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stamp Collecting for Dummies">Stamp Collecting for Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Richard L. Sine</p>
-        
-        <p class="fr-book-desc">First published 2001. Subjects: Stamp collecting, Postage stamps, collectors and collecting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-        </h4>
-        <p class="fr-book-author">By Erich von DÃ¤niken</p>
-        
-        <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stamp Collecting for Dummies</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -501,75 +459,71 @@ That combination gives the issue a disproportionate cultural footprint compared 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-t-shirt-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-t-shirt-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-t-shirt-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-t-shirt-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-ufo-stamps-how-equatorial-guinea-s-1975-stamps-entered-ufo-culture-equatorial-guinea-ufo-poster-book-books-series-t&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -784,135 +738,135 @@ That combination gives the issue a disproportionate cultural footprint compared 
 1. <a id="endnote-1"></a>
    Source: pelicanist.blogspot.com  
    Title: make ufology philately  
-   Link: [https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html](https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html)  
+   Link: <a href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow">https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: [https://en.wikipedia.org/wiki/George_Adamski](https://en.wikipedia.org/wiki/George_Adamski)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>George AdamskiThis same UFO photograph was depicted in an August 1978 commemorative stamp issued by the island nation of Grenada in or...</p></details>
    Published: August 1978  
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: george adamski ufo alien photos  
-   Link: [https://www.history.com/articles/george-adamski-ufo-alien-photos](https://www.history.com/articles/george-adamski-ufo-alien-photos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORYGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
+   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ebay.com  
    Title: bn 27087803  
-   Link: [https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803](https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803)  
+   Link: <a href="https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Equatorial Guinean Stamps for saleEQUATORIAL GUINEA 1975, SPACE: APOLLO - SOYUZ, ASTRONAUTS, Scott 75123 S/S, MNH. $2.00. $2.50 shi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: stampcollectingblog.com  
    Title: equatorial guinea a country with lost reputation  
-   Link: [https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php](https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php)  
+   Link: <a href="https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php" target="_blank" rel="noopener noreferrer nofollow">https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea – a country with lost philatelic reputation13 Aug 2012 — 1975 Equatorial Guinea. One of the few stamps decipting presid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Wacky space stamps from Equatorial Guinea's set on the "  
-   Link: [https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/](https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWacky space stamps from Equatorial Guinea&#x27;s set on the &quot;...May 6, 2021 — Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;C...</p></details>
+   Link: <a href="https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;...May 6, 2021 — Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;C...</p></details>
    Published: May 6, 2021  
 
 7. <a id="endnote-7"></a>
    Source: etsy.com  
    Title: postage stamps equatorial guinea 1975  
-   Link: [https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975](https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EtsyPostage Stamps. Equatorial-guinea 1975. Philately14 Feb 2022 — This Postage Stamps item by FatCatPostStamps has 4 favorites from Ets...</p></details>
+   Link: <a href="https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Postage Stamps. Equatorial-guinea 1975. Philately14 Feb 2022 — This Postage Stamps item by FatCatPostStamps has 4 favorites from Ets...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Mas (Mediterranean farmhouse)  
-   Link: [https://en.wikipedia.org/wiki/Mas_%28Mediterranean_farmhouse%29](https://en.wikipedia.org/wiki/Mas_%28Mediterranean_farmhouse%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mas_%28Mediterranean_farmhouse%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mas_%28Mediterranean_farmhouse%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mas (Mediterranean farmhouse)A mas (Occitan: [ˈmas], Catalan: [ˈmas]) in the Provence and Midi; masia (Catalan pronunciation: [maˈzia...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UKPersonalFinance/comments/1nnhkwy/what_is_a_mas_type_of_payment/](https://www.reddit.com/r/UKPersonalFinance/comments/1nnhkwy/what_is_a_mas_type_of_payment/)  
+   Link: <a href="https://www.reddit.com/r/UKPersonalFinance/comments/1nnhkwy/what_is_a_mas_type_of_payment/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UKPersonalFinance/comments/1nnhkwy/what_is_a_mas_type_of_payment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a MAS type of payment?: r/UKPersonalFinanceThe bank I work for shows some payments as MAS on its statements and online transacti...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: punkphilatelist.com  
    Title: Punk Philatelist Bogus! When a stamp is not a stamp  
-   Link: [https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/](https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/)  
+   Link: <a href="https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/" target="_blank" rel="noopener noreferrer nofollow">https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Punk PhilatelistBogus! When a stamp is not a stampApril 21, 2016 — 22 Apr 2016 — Bogus stamps LOOK like stamps, but they have a dirty sec...</p></details>
    Published: April 21, 2016  
 
 11. <a id="endnote-11"></a>
    Source: stampworld.com  
    Title: Equatorial Guinea  
-   Link: [https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21](https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21)  
+   Link: <a href="https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21" target="_blank" rel="noopener noreferrer nofollow">https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Postage stamps (1970 - 1979) - Page 21Now showing: Equatorial Guinea - Postage stamps (1970 - 1979) - 1836 stamps. 1975 Butterflies 6. De...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: artsandculture.google.com  
    Title: ow VRs Wygi T1m0g  
-   Link: [https://artsandculture.google.com/story/the-history-of-mas-notting-hill-carnival/owVRsWygiT1m0g?hl=en](https://artsandculture.google.com/story/the-history-of-mas-notting-hill-carnival/owVRsWygiT1m0g?hl=en)  
+   Link: <a href="https://artsandculture.google.com/story/the-history-of-mas-notting-hill-carnival/owVRsWygiT1m0g?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/the-history-of-mas-notting-hill-carnival/owVRsWygiT1m0g?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of MasMas, short for &#x27;masquerade&#x27;, participants dress in costumes, masks and other disguises to dance through the parade route. T...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: masarchitecture.co.uk  
    Title: MA S architecture  
-   Link: [https://www.masarchitecture.co.uk/](https://www.masarchitecture.co.uk/)  
+   Link: <a href="https://www.masarchitecture.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.masarchitecture.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History · Team · Design Methodology · Technological Methodology. Projects. Commercial / Retail · Education / Community...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: mas.gov.sg  
-   Link: [https://www.mas.gov.sg/](https://www.mas.gov.sg/)  
+   Link: <a href="https://www.mas.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.mas.gov.sg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monetary Authority of SingaporeMAS is the central bank of Singapore. Our mission is to promote sustained non-inflationary economic growth...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: malaysiaairlines.com  
-   Link: [https://www.malaysiaairlines.com/hq/en/home.html](https://www.malaysiaairlines.com/hq/en/home.html)  
+   Link: <a href="https://www.malaysiaairlines.com/hq/en/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.malaysiaairlines.com/hq/en/home.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: freestampcatalogue.com  
    Title: Stamps from Equatorial Guinea Buy Stamps at Post Beeld  
-   Link: [https://www.freestampcatalogue.com/stamps/country/equatorial-guinea/page/7](https://www.freestampcatalogue.com/stamps/country/equatorial-guinea/page/7)  
+   Link: <a href="https://www.freestampcatalogue.com/stamps/country/equatorial-guinea/page/7" target="_blank" rel="noopener noreferrer nofollow">https://www.freestampcatalogue.com/stamps/country/equatorial-guinea/page/7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stamps from Equatorial GuineaBuy Stamps at PostBeeld - Stamp shop with entire world in stock, buy, sell, trade, price list, safe and secu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.ukmas of london limited  
-   Link: [https://find-and-update.company-information.service.gov.uk/company/06487770](https://find-and-update.company-information.service.gov.uk/company/06487770)  
+   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/06487770" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/06487770</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>45200 - Maintenance and repair of motor vehicles; 66210 - Risk and damage evaluation; 77110 - Renting and leasing of cars and...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/](https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/)  
+   Link: <a href="https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hemed stamps? Rockets, spacecraft, planets, etc. Thanks...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: massgrave.dev  
-   Link: [https://massgrave.dev/](https://massgrave.dev/)  
+   Link: <a href="https://massgrave.dev/" target="_blank" rel="noopener noreferrer nofollow">https://massgrave.dev/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ethods, along with advanced troubleshooting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dokumen.pub  
    Title: The Time Machine Hypothesis  
-   Link: [https://dokumen.pub/the-time-machine-hypothesis-extreme-science-meets-science-fiction-978-3-030-16177-4-978-3-030-16178-1.html](https://dokumen.pub/the-time-machine-hypothesis-extreme-science-meets-science-fiction-978-3-030-16177-4-978-3-030-16178-1.html)  
+   Link: <a href="https://dokumen.pub/the-time-machine-hypothesis-extreme-science-meets-science-fiction-978-3-030-16177-4-978-3-030-16178-1.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-time-machine-hypothesis-extreme-science-meets-science-fiction-978-3-030-16177-4-978-3-030-16178-1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Science Meets...The UFO topic burst back into the news in December, 2017, when The New York Times and other serious sources repo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: postbeeld.com  
    Title: sgnp0650 ships 14v  
-   Link: [https://www.postbeeld.com/sgnp0650-ships-14v](https://www.postbeeld.com/sgnp0650-ships-14v)  
+   Link: <a href="https://www.postbeeld.com/sgnp0650-ships-14v" target="_blank" rel="noopener noreferrer nofollow">https://www.postbeeld.com/sgnp0650-ships-14v</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stamp 1975, Equatorial Guinea Ships 14v, 1975Main product: sgn0650. Country: Equatorial Guinea. Year: 1975. Nr. Michel: 650/63. Is Unique...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GOmWEFZdlMs](https://www.youtube.com/watch?v=GOmWEFZdlMs)  
+   Link: <a href="https://www.youtube.com/watch?v=GOmWEFZdlMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GOmWEFZdlMs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski: Saucers, Aliens and Beyond! (UFO Documentary)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: FRANCISCO MACIAS NGUEMA: Africa's scariest Dictator?| African Biographics  
-   Link: [https://www.youtube.com/watch?v=nRSpVi5PxW8](https://www.youtube.com/watch?v=nRSpVi5PxW8)  
+   Link: <a href="https://www.youtube.com/watch?v=nRSpVi5PxW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nRSpVi5PxW8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>

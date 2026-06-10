@@ -245,7 +245,7 @@ next_link:
   permalink: /são-vicente/
   short_title: São Vicente
   heading_title: What Did São Vicente's 2011 Lights Show?
-date: '2026-06-09 01:23:10 '
+date: '2026-06-10 01:47:40 '
 header:
   og_image: /assets/images/Cabo_Verde_2a5bf1_sky_conditions_633a03-Illustration-1-social.jpg
   preview_image: /assets/images/Cabo_Verde_2a5bf1_sky_conditions_633a03-Illustration-1.webp
@@ -254,15 +254,15 @@ image: /assets/images/Cabo_Verde_2a5bf1_sky_conditions_633a03-Illustration-1-soc
 
 ## Introduction
 
-Many [Cabo Verde]({{ 'what-ufo-reports-survive-cabo-verde/' | relative_url }}) UFO reports make more sense when viewed through the geography of the islands rather than through theories about exotic craft. The archipelago combines busy international airports, active harbours, cruise and fishing traffic, extremely dark skies, long uninterrupted sea horizons, and seasonal Saharan dust haze. Together, those conditions can distort how lights, motion, altitude and distance are perceived. In practice, this means that ordinary aircraft, satellites, bright planets, ship lights and atmospheric reflections can appear unusual, especially at night or when seen across open water.
+Many Cabo Verde UFO reports make more sense when viewed through the geography of the islands rather than through theories about exotic craft. The archipelago combines busy international airports, active harbours, cruise and fishing traffic, extremely dark skies, long uninterrupted sea horizons, and seasonal Saharan dust haze. Together, those conditions can distort how lights, motion, altitude and distance are perceived. In practice, this means that ordinary aircraft, satellites, bright planets, ship lights and atmospheric reflections can appear unusual, especially at night or when seen across open water.
 
 
 <img src="{{ "/assets/images/Cabo_Verde_2a5bf1_sky_conditions_633a03-Illustration-1-dark.svg" | relative_url }}" alt="Sky Conditions illustration 1" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1_sky_conditions_633a03-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1_sky_conditions_633a03-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Cabo Verde’s most frequently mentioned UFO locations — Sal, Boa Vista, [São Vicente]({{ 'são-vicente/' | relative_url }}) and Praia — are also the islands with the heaviest concentrations of aviation, tourism and maritime movement. The pattern is less a map of unexplained anomalies than a map of where people spend time looking out across wide Atlantic horizons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caboverde-airports.cv/en/homepage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caboverde-airports.cv">[Cabo Verde Airports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caboverde-airports.cv</span><span class="citation-popover-title">Cabo Verde Airports HOMEPAGE | Cabo Verde Airports</span><span class="citation-popover-snippet">Sal; Praia International Airport - Nelson Mandela. Santiago; Aristides Pereira International Airport. Boa Vista.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistaitransporte.com/index.html%40p%3D4788.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistaitransporte.com">[Revista I Transporte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistaitransporte.com</span><span class="citation-popover-snippet">Cape Verde, airports with morabeza | ITRANSPORTEThe network consists of four international airports –Sal, Praia, São Vicente and Boavista...</span></span></span>
+This matters because Cabo Verde’s most frequently mentioned UFO locations — Sal, Boa Vista, [São Vicente]({{ 'são-vicente/' | relative_url }}) and Praia — are also the islands with the heaviest concentrations of aviation, tourism and maritime movement. The pattern is less a map of unexplained anomalies than a map of where people spend time looking out across wide Atlantic horizons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caboverde-airports.cv/en/homepage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caboverde-airports.cv">[Cabo Verde Airports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caboverde-airports.cv</span><span class="citation-popover-title">Cabo Verde Airports HOMEPAGE &#124; Cabo Verde Airports</span><span class="citation-popover-snippet">Sal; Praia International Airport - Nelson Mandela. Santiago; Aristides Pereira International Airport. Boa Vista.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistaitransporte.com/index.html%40p%3D4788.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistaitransporte.com">[Revista I Transporte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistaitransporte.com</span><span class="citation-popover-snippet">Cape Verde, airports with morabeza &#124; ITRANSPORTEThe network consists of four international airports –Sal, Praia, São Vicente and Boavista...</span></span></span>
 
 ## Air routes and island airports
 
-Cabo Verde has a larger aviation footprint than many observers expect from a small island state. The country operates four international airports: Amílcar Cabral International Airport on Sal, Praia International Airport on Santiago, Aristides Pereira International Airport on Boa Vista, and Cesária Évora International Airport on São Vicente. Domestic air links connect several additional islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caboverde-airports.cv/en/homepage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caboverde-airports.cv">[Cabo Verde Airports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caboverde-airports.cv</span><span class="citation-popover-title">Cabo Verde Airports HOMEPAGE | Cabo Verde Airports</span><span class="citation-popover-snippet">Sal; Praia International Airport - Nelson Mandela. Santiago; Aristides Pereira International Airport. Boa Vista.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistaitransporte.com/index.html%40p%3D4788.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistaitransporte.com">[Revista I Transporte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistaitransporte.com</span><span class="citation-popover-snippet">Cape Verde, airports with morabeza | ITRANSPORTEThe network consists of four international airports –Sal, Praia, São Vicente and Boavista...</span></span></span>
+Cabo Verde has a larger aviation footprint than many observers expect from a small island state. The country operates four international airports: Amílcar Cabral International Airport on Sal, Praia International Airport on Santiago, Aristides Pereira International Airport on Boa Vista, and Cesária Évora International Airport on São Vicente. Domestic air links connect several additional islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caboverde-airports.cv/en/homepage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caboverde-airports.cv">[Cabo Verde Airports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caboverde-airports.cv</span><span class="citation-popover-title">Cabo Verde Airports HOMEPAGE &#124; Cabo Verde Airports</span><span class="citation-popover-snippet">Sal; Praia International Airport - Nelson Mandela. Santiago; Aristides Pereira International Airport. Boa Vista.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revistaitransporte.com/index.html%40p%3D4788.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistaitransporte.com">[Revista I Transporte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistaitransporte.com</span><span class="citation-popover-snippet">Cape Verde, airports with morabeza &#124; ITRANSPORTEThe network consists of four international airports –Sal, Praia, São Vicente and Boavista...</span></span></span>
 
 That network shapes the country’s sighting geography in several ways.
 
@@ -270,9 +270,9 @@ First, aircraft are frequently seen approaching over open ocean. Unlike continen
 
 Sal and Boa Vista are particularly important here because of tourism traffic. Night arrivals from Europe are common, and aircraft can remain visible over the ocean for extended periods before landing. A witness on a beach may see a bright white light apparently “hovering” above the sea, when in reality the aircraft is flying directly toward the observer with its landing lights pointed forward.
 
-The same geometry affects inter-island flights. Aircraft crossing between Praia, São Vicente, Sal and Boa Vista often appear isolated against dark skies with little surrounding light pollution. Even relatively ordinary manoeuvres — turns, climbs or holding patterns — can appear abrupt when viewed from a coastline without foreground depth cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyscanner.net/routes/vxe/cv/sao-vicente-to-cape-verde.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">SkyscannerCheap Sao Vicente to Cape Verde flightsLooking for a cheap flight from Sao Vicente to Cape Verde? Compare prices for every majo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kiwi.com/en/cheap-flights/boa-vista-cape-verde/sao-vicente-cape-verde/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kiwi.com">[Kiwi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kiwi.com</span><span class="citation-popover-snippet">KiwiCheap flights from Boa Vista, Cape Verde to São Vicente...Flights between Boa Vista, Cape Verde and São Vicente, Cape Verde starting...</span></span></span>
+The same geometry affects inter-island flights. Aircraft crossing between Praia, São Vicente, Sal and Boa Vista often appear isolated against dark skies with little surrounding light pollution. Even relatively ordinary manoeuvres — turns, climbs or holding patterns — can appear abrupt when viewed from a coastline without foreground depth cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyscanner.net/routes/vxe/cv/sao-vicente-to-cape-verde.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">Cheap Sao Vicente to Cape Verde flightsLooking for a cheap flight from Sao Vicente to Cape Verde? Compare prices for every majo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kiwi.com/en/cheap-flights/boa-vista-cape-verde/sao-vicente-cape-verde/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kiwi.com">[Kiwi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kiwi.com</span><span class="citation-popover-snippet">Cheap flights from Boa Vista, Cape Verde to São Vicente...Flights between Boa Vista, Cape Verde and São Vicente, Cape Verde starting...</span></span></span>
 
-Airport lighting itself can also create misleading impressions. Modern LED runway systems and approach lights are extremely bright and highly directional. Reflections in low cloud, dust haze or marine moisture can produce glowing patches or elongated light forms above airports. Cabo Verde aviation infrastructure has undergone modernisation in recent years, including lighting changes at several airports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/environmental-protection/Documents/ICAO_EU_II/Cabo-Verde-Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Republic of Cabo Verde</span><span class="citation-popover-snippet">ICAORepublic of Cabo VerdeMay 10, 2023 — Procedures CCO Praia and Sal airport to be published. However, São Vicente and Boa Vista airport...</span><span class="citation-popover-meta">Published: May 10, 2023</span></span></span>
+Airport lighting itself can also create misleading impressions. Modern LED runway systems and approach lights are extremely bright and highly directional. Reflections in low cloud, dust haze or marine moisture can produce glowing patches or elongated light forms above airports. Cabo Verde aviation infrastructure has undergone modernisation in recent years, including lighting changes at several airports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/environmental-protection/Documents/ICAO_EU_II/Cabo-Verde-Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Republic of Cabo Verde</span><span class="citation-popover-snippet">Republic of Cabo VerdeMay 10, 2023 — Procedures CCO Praia and Sal airport to be published. However, São Vicente and Boa Vista airport...</span><span class="citation-popover-meta">Published: May 10, 2023</span></span></span>
 
 This helps explain why many reports from Cabo Verde involve lights rather than structured craft. The environmental conditions favour misinterpretation of illumination, not close-range encounters.
 
@@ -321,11 +321,11 @@ Cabo Verde’s geography therefore encourages reports based on ambiguity rather 
 
 ## Dust haze, satellites, and bright planets
 
-Seasonal Saharan dust is one of the most important environmental factors affecting visibility in Cabo Verde. Dust blown westward from Africa regularly reaches the islands, sometimes heavily enough to reduce visibility for aviation and transport. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plusnews.org/dust-in-the-air-reduces-visibility-in-cape-verde-expected-to-last-until-friday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plusnews.org">[PlusNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plusnews.org</span><span class="citation-popover-title">dust in the air reduces visibility in cape verde expected to last until friday</span><span class="citation-popover-snippet">PlusNewsDust in the Air Reduces Visibility in Cape Verde, Expected...18 Feb 2026 — “This phenomenon could cause a significant reduction...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/a-dust-bath-for-cape-verde-91642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">a dust bath for cape verde 91642</span><span class="citation-popover-snippet">NASA ScienceA Dust Bath for Cape VerdeStrong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Is...</span><span class="citation-popover-meta">Published: March 2026</span></span></span>
+Seasonal Saharan dust is one of the most important environmental factors affecting visibility in Cabo Verde. Dust blown westward from Africa regularly reaches the islands, sometimes heavily enough to reduce visibility for aviation and transport. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.plusnews.org/dust-in-the-air-reduces-visibility-in-cape-verde-expected-to-last-until-friday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plusnews.org">[PlusNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plusnews.org</span><span class="citation-popover-title">dust in the air reduces visibility in cape verde expected to last until friday</span><span class="citation-popover-snippet">Dust in the Air Reduces Visibility in Cape Verde, Expected...18 Feb 2026 — “This phenomenon could cause a significant reduction...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/a-dust-bath-for-cape-verde-91642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">a dust bath for cape verde 91642</span><span class="citation-popover-snippet">NASA ScienceA Dust Bath for Cape VerdeStrong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Is...</span><span class="citation-popover-meta">Published: March 2026</span></span></span>
 
 The dust layer changes how lights behave visually. It scatters illumination, enlarges halos around bright objects, and reduces contrast against the night sky. Aircraft lights can therefore appear blurred or diffuse rather than sharply defined. Bright planets near the horizon may flicker through dust and moisture, producing colour changes or apparent movement.
 
-Local discussions about “bruma seca” — the dry haze season — show how familiar these visibility problems are in daily life. Reduced visibility has periodically affected flights between islands, especially during heavy dust events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/CapeVerde/comments/1qnn0gx/do_not_bother_travel_in_cape_verde/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditDo NOT bother travel in Cape Verde: r/CapeVerdeThis is a problem every year in Cape Verde between Dec-Jan. The visibility right no...</span></span></span>
+Local discussions about “bruma seca” — the dry haze season — show how familiar these visibility problems are in daily life. Reduced visibility has periodically affected flights between islands, especially during heavy dust events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/CapeVerde/comments/1qnn0gx/do_not_bother_travel_in_cape_verde/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Do NOT bother travel in Cape Verde: r/CapeVerdeThis is a problem every year in Cape Verde between Dec-Jan. The visibility right no...</span></span></span>
 
 These conditions matter for UFO interpretation because many witness descriptions rely on unusual brightness or strange motion. Yet atmospheric scattering alone can create both impressions.
 
@@ -354,86 +354,44 @@ Seen in that context, Cabo Verde’s UFO history becomes less a story about hidd
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Cabo Verde&#x27;s Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Cabo Verde&#x27;s Skies Can Fool Witnesses, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Directly helps explain planets, satellites, and sky phenomena often misidentified as UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Useful for understanding night-sky objects visible over dark coastal regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses common causes of mistaken aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -467,75 +425,71 @@ Seen in that context, Cabo Verde’s UFO history becomes less a story about hidd
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-conditions-why-cabo-verde-s-skies-can-fool-witnesses-cabo-verde-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -749,59 +703,59 @@ Seen in that context, Cabo Verde’s UFO history becomes less a story about hidd
 
 1. <a id="endnote-1"></a>
    Source: skyscanner.net  
-   Link: [https://www.skyscanner.net/routes/vxe/cv/sao-vicente-to-cape-verde.html](https://www.skyscanner.net/routes/vxe/cv/sao-vicente-to-cape-verde.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyscannerCheap Sao Vicente to Cape Verde flightsLooking for a cheap flight from Sao Vicente to Cape Verde? Compare prices for every majo...</p></details>
+   Link: <a href="https://www.skyscanner.net/routes/vxe/cv/sao-vicente-to-cape-verde.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/routes/vxe/cv/sao-vicente-to-cape-verde.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Sao Vicente to Cape Verde flightsLooking for a cheap flight from Sao Vicente to Cape Verde? Compare prices for every majo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kiwi.com  
-   Link: [https://www.kiwi.com/en/cheap-flights/boa-vista-cape-verde/sao-vicente-cape-verde/](https://www.kiwi.com/en/cheap-flights/boa-vista-cape-verde/sao-vicente-cape-verde/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KiwiCheap flights from Boa Vista, Cape Verde to São Vicente...Flights between Boa Vista, Cape Verde and São Vicente, Cape Verde starting...</p></details>
+   Link: <a href="https://www.kiwi.com/en/cheap-flights/boa-vista-cape-verde/sao-vicente-cape-verde/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiwi.com/en/cheap-flights/boa-vista-cape-verde/sao-vicente-cape-verde/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap flights from Boa Vista, Cape Verde to São Vicente...Flights between Boa Vista, Cape Verde and São Vicente, Cape Verde starting...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: icao.int  
    Title: Republic of Cabo Verde  
-   Link: [https://www.icao.int/sites/default/files/environmental-protection/Documents/ICAO_EU_II/Cabo-Verde-Presentation.pdf](https://www.icao.int/sites/default/files/environmental-protection/Documents/ICAO_EU_II/Cabo-Verde-Presentation.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAORepublic of Cabo VerdeMay 10, 2023 — Procedures CCO Praia and Sal airport to be published. However, São Vicente and Boa Vista airport...</p></details>
+   Link: <a href="https://www.icao.int/sites/default/files/environmental-protection/Documents/ICAO_EU_II/Cabo-Verde-Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/environmental-protection/Documents/ICAO_EU_II/Cabo-Verde-Presentation.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Republic of Cabo VerdeMay 10, 2023 — Procedures CCO Praia and Sal airport to be published. However, São Vicente and Boa Vista airport...</p></details>
    Published: May 10, 2023  
 
 4. <a id="endnote-4"></a>
    Source: plusnews.org  
    Title: dust in the air reduces visibility in cape verde expected to last until friday  
-   Link: [https://www.plusnews.org/dust-in-the-air-reduces-visibility-in-cape-verde-expected-to-last-until-friday/](https://www.plusnews.org/dust-in-the-air-reduces-visibility-in-cape-verde-expected-to-last-until-friday/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PlusNewsDust in the Air Reduces Visibility in Cape Verde, Expected...18 Feb 2026 — “This phenomenon could cause a significant reduction...</p></details>
+   Link: <a href="https://www.plusnews.org/dust-in-the-air-reduces-visibility-in-cape-verde-expected-to-last-until-friday/" target="_blank" rel="noopener noreferrer nofollow">https://www.plusnews.org/dust-in-the-air-reduces-visibility-in-cape-verde-expected-to-last-until-friday/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dust in the Air Reduces Visibility in Cape Verde, Expected...18 Feb 2026 — “This phenomenon could cause a significant reduction...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: a dust bath for cape verde 91642  
-   Link: [https://science.nasa.gov/earth/earth-observatory/a-dust-bath-for-cape-verde-91642/](https://science.nasa.gov/earth/earth-observatory/a-dust-bath-for-cape-verde-91642/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/a-dust-bath-for-cape-verde-91642/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/a-dust-bath-for-cape-verde-91642/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceA Dust Bath for Cape VerdeStrong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Is...</p></details>
    Published: March 2026  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/CapeVerde/comments/1qnn0gx/do_not_bother_travel_in_cape_verde/](https://www.reddit.com/r/CapeVerde/comments/1qnn0gx/do_not_bother_travel_in_cape_verde/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDo NOT bother travel in Cape Verde: r/CapeVerdeThis is a problem every year in Cape Verde between Dec-Jan. The visibility right no...</p></details>
+   Link: <a href="https://www.reddit.com/r/CapeVerde/comments/1qnn0gx/do_not_bother_travel_in_cape_verde/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CapeVerde/comments/1qnn0gx/do_not_bother_travel_in_cape_verde/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do NOT bother travel in Cape Verde: r/CapeVerdeThis is a problem every year in Cape Verde between Dec-Jan. The visibility right no...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/whatisit/comments/1kpsqu1/ufouapportalwormhole_what_is_this_in_the_night/](https://www.reddit.com/r/whatisit/comments/1kpsqu1/ufouapportalwormhole_what_is_this_in_the_night/)  
+   Link: <a href="https://www.reddit.com/r/whatisit/comments/1kpsqu1/ufouapportalwormhole_what_is_this_in_the_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisit/comments/1kpsqu1/ufouapportalwormhole_what_is_this_in_the_night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO/UAP/Portal/Wormhole) What is this in the night sky, can...George Knapp describes a portal at Skinwalker Ranch (UFO hotspots), where...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: caboverde-airports.cv  
    Title: Cabo Verde Airports HOMEPAGE | Cabo Verde Airports  
-   Link: [https://www.caboverde-airports.cv/en/homepage/](https://www.caboverde-airports.cv/en/homepage/)  
+   Link: <a href="https://www.caboverde-airports.cv/en/homepage/" target="_blank" rel="noopener noreferrer nofollow">https://www.caboverde-airports.cv/en/homepage/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sal; Praia International Airport - Nelson Mandela. Santiago; Aristides Pereira International Airport. Boa Vista.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: revistaitransporte.com  
-   Link: [https://www.revistaitransporte.com/index.html%40p%3D4788.html](https://www.revistaitransporte.com/index.html%40p%3D4788.html)  
+   Link: <a href="https://www.revistaitransporte.com/index.html%40p%3D4788.html" target="_blank" rel="noopener noreferrer nofollow">https://www.revistaitransporte.com/index.html%40p%3D4788.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cape Verde, airports with morabeza | ITRANSPORTEThe network consists of four international airports –Sal, Praia, São Vicente and Boavista...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stargazerslounge.com  
    Title: Stargazers Lounge Cape Verde astronomical seeing conditions?  
-   Link: [https://stargazerslounge.com/topic/336664-cape-verde-astronomical-seeing-conditions-impressions-anyone/](https://stargazerslounge.com/topic/336664-cape-verde-astronomical-seeing-conditions-impressions-anyone/)  
+   Link: <a href="https://stargazerslounge.com/topic/336664-cape-verde-astronomical-seeing-conditions-impressions-anyone/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/336664-cape-verde-astronomical-seeing-conditions-impressions-anyone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2019 — 13 Jun 2019 — Bortle 1 skies throughout large parts of the islands, probably a good nine hours of true nig...</p></details>
    Published: June 13, 2019  
 
@@ -809,51 +763,51 @@ Seen in that context, Cabo Verde’s UFO history becomes less a story about hidd
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064688346067/posts/cape-verde-flights-affected-by-low-visibility-conditionsflight-operations-to-and/1001523618680574/](https://www.facebook.com/100064688346067/posts/cape-verde-flights-affected-by-low-visibility-conditionsflight-operations-to-and/1001523618680574/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookCape Verde flights affected by low visibility conditions...Boa Vista Airport closed all day and flights diverted to Sal.... Cap...</p></details>
+   Link: <a href="https://www.facebook.com/100064688346067/posts/cape-verde-flights-affected-by-low-visibility-conditionsflight-operations-to-and/1001523618680574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064688346067/posts/cape-verde-flights-affected-by-low-visibility-conditionsflight-operations-to-and/1001523618680574/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cape Verde flights affected by low visibility conditions...Boa Vista Airport closed all day and flights diverted to Sal.... Cap...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wegotravel.co.uk  
-   Link: [https://www.wegotravel.co.uk/airports/cv/airports-in-cape-verde](https://www.wegotravel.co.uk/airports/cv/airports-in-cape-verde)  
+   Link: <a href="https://www.wegotravel.co.uk/airports/cv/airports-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.wegotravel.co.uk/airports/cv/airports-in-cape-verde</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Airports in Cape VerdePopular Airports in Cape Verde; Praia Airport. RAI; Boa Vista Airport. BVC; Sao Vicente Airport. VXE; S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/DanaPointUnplugged/posts/3096331340566481/](https://www.facebook.com/groups/DanaPointUnplugged/posts/3096331340566481/)  
+   Link: <a href="https://www.facebook.com/groups/DanaPointUnplugged/posts/3096331340566481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/DanaPointUnplugged/posts/3096331340566481/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified night sky drones over New Jersey beachFor the last year I have been seeing drones, usually three, in the night sky during th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wkm3KxIyZDE](https://www.youtube.com/watch?v=wkm3KxIyZDE)  
+   Link: <a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wkm3KxIyZDE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The longstanding mystery of BLACK TRIANGLE UFOsThe tr3b is a giant black aircraft that was built using reverse engineered alien technolog...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nesdis.noaa.gov  
    Title: NESDISSaharan Dust Over The Cape Verde Islands  
-   Link: [https://www.nesdis.noaa.gov/news/saharan-dust-over-the-cape-verde-islands](https://www.nesdis.noaa.gov/news/saharan-dust-over-the-cape-verde-islands)  
+   Link: <a href="https://www.nesdis.noaa.gov/news/saharan-dust-over-the-cape-verde-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/news/saharan-dust-over-the-cape-verde-islands</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2018, we can see a faint brown cloud of dust over the Cape Verde Islands against a backdrop of mostly clear skies.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: alaskaair.com  
-   Link: [https://www.alaskaair.com/content/travel-info/before-your-trip/international-travel-information?srsltid=AfmBOoq6ybCFXRWyYobnPJNd7JiJy2YtB31KQWfjW1g9vaqyDThJB_wd](https://www.alaskaair.com/content/travel-info/before-your-trip/international-travel-information?srsltid=AfmBOoq6ybCFXRWyYobnPJNd7JiJy2YtB31KQWfjW1g9vaqyDThJB_wd)  
+   Link: <a href="https://www.alaskaair.com/content/travel-info/before-your-trip/international-travel-information?srsltid=AfmBOoq6ybCFXRWyYobnPJNd7JiJy2YtB31KQWfjW1g9vaqyDThJB_wd" target="_blank" rel="noopener noreferrer nofollow">https://www.alaskaair.com/content/travel-info/before-your-trip/international-travel-information?srsltid=AfmBOoq6ybCFXRWyYobnPJNd7JiJy2YtB31KQWfjW1g9vaqyDThJB_wd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Residents of the U.S. entering the U.S.). Providing...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/United/posts/the-clues-to-our-new-international-routes-are-hidden-in-plane-sight-stay-tuned-a/851858013788755/](https://www.facebook.com/United/posts/the-clues-to-our-new-international-routes-are-hidden-in-plane-sight-stay-tuned-a/851858013788755/)  
+   Link: <a href="https://www.facebook.com/United/posts/the-clues-to-our-new-international-routes-are-hidden-in-plane-sight-stay-tuned-a/851858013788755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/United/posts/the-clues-to-our-new-international-routes-are-hidden-in-plane-sight-stay-tuned-a/851858013788755/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Years, Underwater Drone FINALLY Revealed The Location Of...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/a-massive-saharan-dust-storm-has-swept-across-parts-of-southern-europe-and-north/1458112106349772/](https://www.facebook.com/firstpostin/posts/a-massive-saharan-dust-storm-has-swept-across-parts-of-southern-europe-and-north/1458112106349772/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/a-massive-saharan-dust-storm-has-swept-across-parts-of-southern-europe-and-north/1458112106349772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/a-massive-saharan-dust-storm-has-swept-across-parts-of-southern-europe-and-north/1458112106349772/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mediterranean, also triggered weather alerts in Athens.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DU5563AjFjD/](https://www.instagram.com/reel/DU5563AjFjD/)  
+   Link: <a href="https://www.instagram.com/reel/DU5563AjFjD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU5563AjFjD/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r over 1,300 km, reducing visibility and posing health risks...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sen/videos/from-space-saharan-dust-can-be-seen-sweeping-across-the-skies-over-cape-verdecar/915621847811518/](https://www.facebook.com/sen/videos/from-space-saharan-dust-can-be-seen-sweeping-across-the-skies-over-cape-verdecar/915621847811518/)  
+   Link: <a href="https://www.facebook.com/sen/videos/from-space-saharan-dust-can-be-seen-sweeping-across-the-skies-over-cape-verdecar/915621847811518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sen/videos/from-space-saharan-dust-can-be-seen-sweeping-across-the-skies-over-cape-verdecar/915621847811518/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e. Carried by surface winds, these particles can travel...</p></details>

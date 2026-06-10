@@ -1185,7 +1185,7 @@ next_link:
   title: Barbados UFOs
   permalink: /what-really-happened-in-barbados-skies/
   short_title: Barbados UFOs
-date: '2026-06-09 01:13:50 '
+date: '2026-06-10 01:39:12 '
 header:
   og_image: /assets/images/Australia_ceafb5-overview-social.jpg
   preview_image: /assets/images/Australia_ceafb5-overview.webp
@@ -1198,7 +1198,7 @@ Australia’s official archival record of UFO reports is centred largely in post
 
 
 <img src="{{ "/assets/images/Australia_ceafb5-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Australia&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-One noteworthy early Defence document comes from the **Woomera Prohibited Area**—a major weapons testing range in South Australia—where a July 1960 report details local sightings of unidentified objects. Witnesses ranged from police and weapons test staff to armed forces personnel, and official evaluations at the time offered explanations from meteors to atmospheric effects but took the reports seriously enough to compile formal records. By the 1970s, the RAAF had developed standard questionnaires to document sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? | naa.gov.au</span><span class="citation-popover-snippet">February 28, 2018...</span><span class="citation-popover-meta">Published: February 28, 2018</span></span></span>
+One noteworthy early Defence document comes from the **Woomera Prohibited Area**—a major weapons testing range in South Australia—where a July 1960 report details local sightings of unidentified objects. Witnesses ranged from police and weapons test staff to armed forces personnel, and official evaluations at the time offered explanations from meteors to atmospheric effects but took the reports seriously enough to compile formal records. By the 1970s, the RAAF had developed standard questionnaires to document sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">February 28, 2018...</span><span class="citation-popover-meta">Published: February 28, 2018</span></span></span>
 
 Unreleased or rediscovered archival material has occasionally attracted public attention. Radar tracking records from a 1954 Woomera bomber test—interpreted by some enthusiasts as showing an object travelling at speeds beyond known aircraft capabilities—are cited in online discussions as examples of rigorous, instrument‑based observation, though these interpretations remain contested and are not official consensus positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1rkici3/national_archives_documents_reveal_royal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">National Archives documents reveal Royal Australian Air Force &amp; U.S</span><span class="citation-popover-snippet">Air Force intelligence sharing on a radar-tracked UFO recorded travelling 3,600 mph during a 1954 Woomera bomber test, described as “sugg...</span></span></span>
 
@@ -1242,7 +1242,7 @@ Australia’s UFO archive reveals three broad evidence categories:
 
 **Social and Local Reports:** Continuous reports of mysterious lights or objects in regions like Queensland or the Northern Territory are often locally compelling but lack corroborating instrument data, and many are attributed by experts to conventional aerial objects, atmospheric phenomena, or misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriermail.com.au">[The Courier-Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriermail.com.au</span><span class="citation-popover-snippet">On November 18, 2025, several people observed unexplained moving lights that vanished suddenly. Such phenomena have been recorded since J...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
 
-Official government and defence sources typically did not treat unidentified sightings as evidence of non‑terrestrial vehicles; archival commentary often explains sightings in terms of misidentified aircraft, celestial bodies, atmospheric effects, or other prosaic causes, while noting that some reports defied easy classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? | naa.gov.au</span><span class="citation-popover-snippet">February 28, 2018...</span><span class="citation-popover-meta">Published: February 28, 2018</span></span></span>
+Official government and defence sources typically did not treat unidentified sightings as evidence of non‑terrestrial vehicles; archival commentary often explains sightings in terms of misidentified aircraft, celestial bodies, atmospheric effects, or other prosaic causes, while noting that some reports defied easy classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[NAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">NAAFlying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">February 28, 2018...</span><span class="citation-popover-meta">Published: February 28, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Australia_ceafb5-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Australia&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Australia_ceafb5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australia_ceafb5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1265,86 +1265,44 @@ In sum, Australia’s UFO phenomena constitute a layered tapestry of documented 
 <img src="{{ "/assets/images/Australia_ceafb5-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Australia&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Australia_ceafb5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australia_ceafb5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Australia&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Australia&#x27;s UFO Files?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Introduces major UFO case categories and investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a national overview of UFO reports, investigations, and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides a scientific framework for assessing UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
-        
-        <p class="fr-book-desc">Represents the wider culture surrounding UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1378,75 +1336,71 @@ In sum, Australia’s UFO phenomena constitute a layered tapestry of documented 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-australias-ufo-what-really-happened-in-australia-s-ufo-files-australia-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1661,130 +1615,130 @@ In sum, Australia’s UFO phenomena constitute a layered tapestry of documented 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Australia  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Australia](https://en.wikipedia.org/wiki/UFO_sightings_in_Australia)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Australia</a>  
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: Australian UFO Documents  
-   Link: [https://www.theblackvault.com/documentarchive/australian-ufo-documents/](https://www.theblackvault.com/documentarchive/australian-ufo-documents/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/australian-ufo-documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/australian-ufo-documents/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultMarch 3, 2015...</p></details>
    Published: March 3, 2015  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: National Archives documents reveal Royal Australian Air Force & U.S  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1rkici3/national_archives_documents_reveal_royal/](https://www.reddit.com/r/UFOs_Archive/comments/1rkici3/national_archives_documents_reveal_royal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1rkici3/national_archives_documents_reveal_royal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1rkici3/national_archives_documents_reveal_royal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force intelligence sharing on a radar-tracked UFO recorded travelling 3,600 mph during a 1954 Woomera bomber test, described as “sugg...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Westall UFO  
-   Link: [https://en.wikipedia.org/wiki/Westall_UFO](https://en.wikipedia.org/wiki/Westall_UFO)  
+   Link: <a href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Westall_UFO</a>  
 
 5. <a id="endnote-5"></a>
    Source: news.com.au  
-   Link: [https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2](https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2)  
+   Link: <a href="https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/australias-roswell-calls-for-fresh-inquiry-into-60yearold-westall-ufo-mystery/news-story/888e54275c5ac3b815df508d1bfe8af2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2014 discovery of documents from a secret US-Australian radiation-testing initiative, the HIBAL project, fueled speculation that the ob...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Australian ufology  
-   Link: [https://en.wikipedia.org/wiki/Australian_ufology](https://en.wikipedia.org/wiki/Australian_ufology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Australian_ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Australian_ufology</a>  
 
 7. <a id="endnote-7"></a>
    Source: naa.gov.au  
    Title: NAAFlying saucers – fact or fiction? | naa.gov.au  
-   Link: [https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction](https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction)  
+   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2018...</p></details>
    Published: February 28, 2018  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: (AUS)Defence drops 10-page UFO dossier  
-   Link: [https://www.reddit.com/r/UFOs/comments/1byvld6/ausdefence_drops_10page_ufo_dossier/](https://www.reddit.com/r/UFOs/comments/1byvld6/ausdefence_drops_10page_ufo_dossier/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1byvld6/ausdefence_drops_10page_ufo_dossier/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1byvld6/ausdefence_drops_10page_ufo_dossier/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit(AUS)Defence drops 10-page UFO dossierApril 8, 2024...</p></details>
    Published: April 8, 2024  
 
 9. <a id="endnote-9"></a>
    Source: australianhistory.net  
    Title: Unidentified Aerial Phenomena  
-   Link: [https://australianhistory.net/Contents/UAP_Sightings_in_Australia_](https://australianhistory.net/Contents/UAP_Sightings_in_Australia_)  
+   Link: <a href="https://australianhistory.net/Contents/UAP_Sightings_in_Australia_" target="_blank" rel="noopener noreferrer nofollow">https://australianhistory.net/Contents/UAP_Sightings_in_Australia_</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uap Sightings In Australia | Australian HistoryUAP SIGHTINGS IN AUSTRALIA * * * ArticleTalk Tools Read Edit History * * * Free from, Aust...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: couriermail.com.au  
-   Link: [https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207](https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207)  
+   Link: <a href="https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/queensland/fraser-coast/strange-lights-that-disappeared-instantly-are-baffling-fraser-coast-residents/news-story/0554849982137f799f3ca25810bc2207</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 18, 2025, several people observed unexplained moving lights that vanished suddenly. Such phenomena have been recorded since J...</p></details>
    Published: November 18, 2025  
 
 11. <a id="endnote-11"></a>
    Source: catalogue.nla.gov.au  
-   Link: [https://catalogue.nla.gov.au/Record/4456944](https://catalogue.nla.gov.au/Record/4456944)  
+   Link: <a href="https://catalogue.nla.gov.au/Record/4456944" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/Record/4456944</a>  
 
 12. <a id="endnote-12"></a>
    Source: couriermail.com.au  
-   Link: [https://www.couriermail.com.au/news/northern-territory/strange-lights-circling-over-palmerston-spark-wave-of-ufo-reports/news-story/fd2ac45017330f9bacad59967125e8bf](https://www.couriermail.com.au/news/northern-territory/strange-lights-circling-over-palmerston-spark-wave-of-ufo-reports/news-story/fd2ac45017330f9bacad59967125e8bf)  
+   Link: <a href="https://www.couriermail.com.au/news/northern-territory/strange-lights-circling-over-palmerston-spark-wave-of-ufo-reports/news-story/fd2ac45017330f9bacad59967125e8bf" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/northern-territory/strange-lights-circling-over-palmerston-spark-wave-of-ufo-reports/news-story/fd2ac45017330f9bacad59967125e8bf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions ranged from &quot;UFOs doing laps&quot; to &quot;flying saucers practising speedway racing&quot;. The Northern Territory Police acknowledged rec...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/au](https://enigmalabs.io/explore/au)  
+   Link: <a href="https://enigmalabs.io/explore/au" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/au</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Australia | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/Australian_ufology/](https://everything.explained.today/Australian_ufology/)  
+   Link: <a href="https://everything.explained.today/Australian_ufology/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Australian_ufology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufology explainedAUSTRALIAN UFOLOGY EXPLAINED Australian ufology refers to a historical series of Australian events and or activities per...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ufor.asn.au  
    Title: UF O Sightings in Australia | UFO Research (NSW) Incorporated, Sydney, Australia  
-   Link: [https://www.ufor.asn.au/sightings/sighting-reports/](https://www.ufor.asn.au/sightings/sighting-reports/)  
+   Link: <a href="https://www.ufor.asn.au/sightings/sighting-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufor.asn.au/sightings/sighting-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Australia | UFO Research (NSW) Incorporated, Sydney, AustraliaMarch 1, 2015 — UFO (UAP) SIGHTING REPORTS * UFO Sightings...</p></details>
    Published: March 1, 2015  
 
 16. <a id="endnote-16"></a>
    Source: tottnews.com  
    Title: Explore: 10,000+ Pages of Declassified Australian UFO Documents – TOTT News  
-   Link: [https://tottnews.com/2013/07/28/10000-pages-of-declassified-australian-ufo-documents-compiled/](https://tottnews.com/2013/07/28/10000-pages-of-declassified-australian-ufo-documents-compiled/)  
+   Link: <a href="https://tottnews.com/2013/07/28/10000-pages-of-declassified-australian-ufo-documents-compiled/" target="_blank" rel="noopener noreferrer nofollow">https://tottnews.com/2013/07/28/10000-pages-of-declassified-australian-ufo-documents-compiled/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — EXPLORE: 10,000+ PAGES OF DECLASSIFIED AUSTRALIAN UFO DOCUMENTS The National Archives of Australia holds a number of rec...</p></details>
    Published: April 30, 2026  
 
 17. <a id="endnote-17"></a>
    Source: inkl.com  
-   Link: [https://www.inkl.com/news/australian-defence-department-not-looking-at-ufos-despite-landmark-report-on-topic-handed-to-us-congress](https://www.inkl.com/news/australian-defence-department-not-looking-at-ufos-despite-landmark-report-on-topic-handed-to-us-congress)  
+   Link: <a href="https://www.inkl.com/news/australian-defence-department-not-looking-at-ufos-despite-landmark-report-on-topic-handed-to-us-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.inkl.com/news/australian-defence-department-not-looking-at-ufos-despite-landmark-report-on-topic-handed-to-us-congress</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ED TO US CONGRESS Image The report encompasses 144 observations of what the government officially refers to as...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: naa.gov.au  
    Title: UF O sightings at weapons testing site, Woomera | naa.gov.au  
-   Link: [https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera](https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera)  
+   Link: <a href="https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/war/defence-equipment-and-weapons/ufo-sightings-weapons-testing-site-woomera</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at weapons testing site, Woomera | naa.gov.auJuly 24, 1960 — TRANSCRIPT [Page 1] [Handwritten in blue ink in top right corn...</p></details>
    Published: July 24, 1960  
 
 19. <a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Australia  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Australia](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Australia)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Australia" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Australia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Australia - Wikimedia CommonsJune 10, 2023 — CATEGORY:UFO SIGHTINGS IN AUSTRALIA Help * Category *...</p></details>
    Published: June 10, 2023  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Australian UFO Sightings and History Overview  
-   Link: [https://www.youtube.com/watch?v=kYJ6X20h-7c](https://www.youtube.com/watch?v=kYJ6X20h-7c)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ6X20h-7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ6X20h-7c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection provides a mix of contemporary investigative journalism, historical documentary trailers, and deep dives into landmark cas...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sbs.com.au  
-   Link: [https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz](https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz)  
+   Link: <a href="https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/australias-military-loses-its-ufo-x-files/bdnn5c5oz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Australia&#x27;s military loses its UFO X-Files&#x27; | SBS NewsJune 8, 2011 — &#x27;AUSTRALIA&#x27;S MILITARY LOSES ITS UFO X-FILES&#x27; AUSTRALIA&#x27;S MILITARY H...</p></details>
    Published: June 8, 2011  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Archived: Australia's UFO Files | Official Trailer  
-   Link: [https://www.youtube.com/watch?v=-YsZ0pFFBTg](https://www.youtube.com/watch?v=-YsZ0pFFBTg)  
+   Link: <a href="https://www.youtube.com/watch?v=-YsZ0pFFBTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YsZ0pFFBTg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Been Kept from the Public: TV Journalist Ross Coulthart...</p></details>

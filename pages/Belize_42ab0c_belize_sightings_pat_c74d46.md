@@ -239,7 +239,7 @@ prev_link:
   permalink: /san-pedro/
   short_title: San Pedro
   heading_title: Why Does San Pedro Keep Appearing in Reports?
-date: '2026-06-09 01:18:20 '
+date: '2026-06-10 01:43:38 '
 header:
   og_image: /assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-social.jpg
   preview_image: /assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-s
 
 ## Introduction
 
-[Belize]({{ 'what-do-belize-ufo-reports-really-show/' | relative_url }})’s record of **Unidentified Flying Object (UFO)** or more broadly **Unidentified Aerial Phenomena (UAP)** sightings is scattered but spans several decades, marked by clusters of civilian reports across different regions rather than formal, government‑archived investigations. Owing to the absence of official national UAP archives or declassified case files, most information about Belizean sightings comes from independent witness submissions to public databases such as the **National UFO Reporting Center (NUFORC)** and other civilian‑compiled lists. What emerges from the available reports is an irregular but discernible **timeline of events** and a pattern of sightings that varies by region — from coastal communities to inland villages and the country’s capital area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 184419November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
+Belize’s record of **Unidentified Flying Object (UFO)** or more broadly **Unidentified Aerial Phenomena (UAP)** sightings is scattered but spans several decades, marked by clusters of civilian reports across different regions rather than formal, government‑archived investigations. Owing to the absence of official national UAP archives or declassified case files, most information about Belizean sightings comes from independent witness submissions to public databases such as the **National UFO Reporting Center (NUFORC)** and other civilian‑compiled lists. What emerges from the available reports is an irregular but discernible **timeline of events** and a pattern of sightings that varies by region — from coastal communities to inland villages and the country’s capital area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 184419November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Map illustration 1" data-theme-src-dark="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,17 +256,17 @@ image: /assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-s
 
 ### Early Sightings (1990s–2000s)
 
-* **1 March 1990 – [San Pedro]({{ 'san-pedro/' | relative_url }}):** Two observers reported a **glowing, noiseless oval** object emerge from cloud cover and then rapidly retreat into it, seen for only seconds but noted for unusual motion and silence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **23 June 2004 – San Pedro:** Witnesses observed a **faint red dot** that moved erratically across the sky in multiple directions over several minutes, prompting family members to come outdoors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **13 August 2004 – Placencia:** A pair of stargazers reported a **quick, unnervingly agile object** chased by a larger chevron of lights, disappearing into the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
+* **1 March 1990 – [San Pedro]({{ 'san-pedro/' | relative_url }}):** Two observers reported a **glowing, noiseless oval** object emerge from cloud cover and then rapidly retreat into it, seen for only seconds but noted for unusual motion and silence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **23 June 2004 – San Pedro:** Witnesses observed a **faint red dot** that moved erratically across the sky in multiple directions over several minutes, prompting family members to come outdoors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **13 August 2004 – Placencia:** A pair of stargazers reported a **quick, unnervingly agile object** chased by a larger chevron of lights, disappearing into the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
 * **19 April 2005 – San Pedro Town (Ambergris Caye):** Five observers saw **two bright “fireball” lights** moving slowly before fading with no visible trails — a report that remains one of the earlier multi‑witness civilian submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=43568" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 43568May 11, 2005...</span><span class="citation-popover-meta">Published: May 11, 2005</span></span></span>
-* **26 March 2007 – San Pedro Town:** A single witness described a **dark triangular craft with bright lights at its points**, moving silently across the sky and later confirmed by civilian checks with civil aviation that no aircraft was scheduled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **1 July 2009 – Belmopan:** Two inhabitants saw **stationary multicoloured lights** resembling fireballs above a hill near the capital for several minutes before vanishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **29 October 2010 – St. Matthew Village:** Multiple witnesses reported **over 50 lights in the sky**, with some accounts claiming they “landed in the jungle,” a rare extended‑duration report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
+* **26 March 2007 – San Pedro Town:** A single witness described a **dark triangular craft with bright lights at its points**, moving silently across the sky and later confirmed by civilian checks with civil aviation that no aircraft was scheduled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **1 July 2009 – Belmopan:** Two inhabitants saw **stationary multicoloured lights** resembling fireballs above a hill near the capital for several minutes before vanishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **29 October 2010 – St. Matthew Village:** Multiple witnesses reported **over 50 lights in the sky**, with some accounts claiming they “landed in the jungle,” a rare extended‑duration report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
 
 ### Intermediate Period (2010s–2020)
 
-* **15 October 2020 – Independence:** A lone observer recorded eight lights flying low in a **V‑formation** across the sky without accompanying sound, a pattern sometimes associated in civilian lore with structured craft sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
+* **15 October 2020 – Independence:** A lone observer recorded eight lights flying low in a **V‑formation** across the sky without accompanying sound, a pattern sometimes associated in civilian lore with structured craft sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
 * **15 November 2012 – Cayo District:** An earlier separate report noted **three lights in a triangular configuration** appearing repetitively before fading, though supporting documentation is limited in public archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Belize UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Belize UFO Sightings &amp; Reports</span></span></span>
 
 
@@ -274,7 +274,7 @@ image: /assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-1-s
 
 ### Recent Reports (2020s)
 
-* **19 November 2024 – San Pedro (Corozal District):** Two witnesses described a **white orb‑like light** moving southward with slight vertical motion before disappearing after a few minutes, one of the latest entries in the public NUFORC database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **19 November 2024 – San Pedro (Corozal District):** Two witnesses described a **white orb‑like light** moving southward with slight vertical motion before disappearing after a few minutes, one of the latest entries in the public NUFORC database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 ## Regional Patterns Across Belize
 
@@ -284,7 +284,7 @@ The **northern cayes** and **coastal towns** have a relatively higher frequency 
 
 ### Inland Zones (Belmopan, Cayo District, Independence)
 
-Reports from **Belmopan**, **Cayo District**, and **Independence** highlight inland sightings that include both unusual light behaviours and structured light formations. In 2008, residents south of **Belmopan** reported repeated **bright circular lights over mountainous terrain**, described in local press with no apparent explanation from aviation or military authorities at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange night sightings in ‘Pan! | Amandala Newspaper</span><span class="citation-popover-snippet">March 18, 2008...</span><span class="citation-popover-meta">Published: March 18, 2008</span></span></span>
+Reports from **Belmopan**, **Cayo District**, and **Independence** highlight inland sightings that include both unusual light behaviours and structured light formations. In 2008, residents south of **Belmopan** reported repeated **bright circular lights over mountainous terrain**, described in local press with no apparent explanation from aviation or military authorities at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange night sightings in ‘Pan! &#124; Amandala Newspaper</span><span class="citation-popover-snippet">March 18, 2008...</span><span class="citation-popover-meta">Published: March 18, 2008</span></span></span>
 
 Similarly, the 2012 **Cayo District** triangle and the 2020 **Independence** V‑formation sightings reveal that inland areas are not immune to civilian reports of anomalous aerial lights, though such sightings are typically brief and reliant on single‑observer submissions.
 
@@ -292,7 +292,7 @@ Similarly, the 2012 **Cayo District** triangle and the 2020 **Independence** V�
 <img src="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-2-dark.svg" | relative_url }}" alt="Sightings Map illustration 2" data-theme-src-dark="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Southern Communities (Dangriga and Corozal District)
 
-An enduring **2012 report from Dangriga** describes a **bright circular object** moving side‑to‑side, observed over half an hour with no radar confirmation or formal aviation record to corroborate conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange flying object hovers over Griga! | Amandala Newspaper</span><span class="citation-popover-snippet">February 10, 2012...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+An enduring **2012 report from Dangriga** describes a **bright circular object** moving side‑to‑side, observed over half an hour with no radar confirmation or formal aviation record to corroborate conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange flying object hovers over Griga! &#124; Amandala Newspaper</span><span class="citation-popover-snippet">February 10, 2012...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
 In contrast, the **2024 San Pedro (Corozal District)** report involves a shorter-duration sighting of an orb, indicating that southern districts also contribute to the national pattern with both extended and fleeting sightings.
 
@@ -301,13 +301,13 @@ In contrast, the **2024 San Pedro (Corozal District)** report involves a shorter
 Across Belize, the sightings exhibit several **qualitative patterns**:
 
 * **Light‑based phenomena dominate** the dataset, with reports often describing orbs, bright points, or fireball‑like lights moving irregularly or in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=43568" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 43568May 11, 2005...</span><span class="citation-popover-meta">Published: May 11, 2005</span></span></span>
-* **Duration and documentation vary widely**, from multi‑minute or multi‑observer cases to brief, single‑witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **Official confirmation is absent**, as Belize’s civil aviation and defence authorities do not publish UFO/UAP archives; many sightings remain civilian reports rather than formally investigated events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange night sightings in ‘Pan! | Amandala Newspaper</span><span class="citation-popover-snippet">March 18, 2008...</span><span class="citation-popover-meta">Published: March 18, 2008</span></span></span>
+* **Duration and documentation vary widely**, from multi‑minute or multi‑observer cases to brief, single‑witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **Official confirmation is absent**, as Belize’s civil aviation and defence authorities do not publish UFO/UAP archives; many sightings remain civilian reports rather than formally investigated events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange night sightings in ‘Pan! &#124; Amandala Newspaper</span><span class="citation-popover-snippet">March 18, 2008...</span><span class="citation-popover-meta">Published: March 18, 2008</span></span></span>
 
-These patterns align with what is seen in many non‑governmental UAP datasets globally: **episodic civilian reports concentrated in areas with clear night skies or populous vantage points**, but without systematic, instrument‑backed data to validate or explain the phenomena conclusively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+These patterns align with what is seen in many non‑governmental UAP datasets globally: **episodic civilian reports concentrated in areas with clear night skies or populous vantage points**, but without systematic, instrument‑backed data to validate or explain the phenomena conclusively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFRAvDOPZP0" title="UFO Expert: “We Have Proof They Exist,” with Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer">UFO Expert: “We Have Proof They Exist,” with Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFRAvDOPZP0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JfQ51ESeXj0" title="Video captures flying objects that officials can&#x27;t explain (2020)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JfQ51ESeXj0" target="_blank" rel="noopener noreferrer">Video captures flying objects that officials can&#x27;t explain (2020)</a></p><p class="youtube-embed-meta">Channel: CNN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JfQ51ESeXj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JfQ51ESeXj0">Open on YouTube</a></p></div></div></div>
 
 ## Geographic Clusters and Reporting Bias
 
@@ -319,104 +319,62 @@ In assessing Belizean sightings, two **geographic clusters** are evident:
 These clusters reflect a combination of population distribution, clear sightline conditions, and reporting activity rather than necessarily indicating active or persistent UAP hotspots. The **absence of official recording structures** means that reporting bias — individuals in more connected or tourist‑oriented areas being more likely to submit sightings — cannot be ruled out.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lKFnURVm19Y" title="【Multi Sub】Mystic Game : Billion Virtue Power Up EP 1-154 #animation #anime #donghua" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lKFnURVm19Y" target="_blank" rel="noopener noreferrer">【Multi Sub】Mystic Game : Billion Virtue Power Up EP 1-154 #animation #anime #donghua</a></p><p class="youtube-embed-meta">Channel: Quartic element Anime</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lKFnURVm19Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lKFnURVm19Y">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sm6AL5lA4Zc" title="The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sm6AL5lA4Zc" target="_blank" rel="noopener noreferrer">The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sm6AL5lA4Zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sm6AL5lA4Zc">Open on YouTube</a></p></div></div></div>
 
 ## Patterns in Sighted Light Behaviour
 
 Across the timeline and regions, common patterns include:
 
-* **Unexplained nocturnal lights:** Isolated orbs or bright points moving without clear propulsion patterns or sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
-* **Formation sightings:** Groups of lights moving in formations that do not immediately correspond to known aircraft paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **Brief appearances:** Many sightings last only seconds to minutes before disappearing, complicating corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon | Belize</span><span class="citation-popover-snippet">The Phenomenon | Belize</span></span></span>
-* **Lack of radar or official validation:** The majority of sighting reports lack corresponding radar or flight data, meaning conventional aviation cannot be conclusively excluded but is often unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange flying object hovers over Griga! | Amandala Newspaper</span><span class="citation-popover-snippet">February 10, 2012...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+* **Unexplained nocturnal lights:** Isolated orbs or bright points moving without clear propulsion patterns or sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **Formation sightings:** Groups of lights moving in formations that do not immediately correspond to known aircraft paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **Brief appearances:** Many sightings last only seconds to minutes before disappearing, complicating corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">The Phenomenon &#124; Belize</span></span></span>
+* **Lack of radar or official validation:** The majority of sighting reports lack corresponding radar or flight data, meaning conventional aviation cannot be conclusively excluded but is often unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange flying object hovers over Griga! &#124; Amandala Newspaper</span><span class="citation-popover-snippet">February 10, 2012...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-3-dark.svg" | relative_url }}" alt="Sightings Map illustration 3" data-theme-src-dark="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belize_42ab0c_belize_sightings_pat_c74d46-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Key Takeaways
 
-Belize’s UFO/UAP sightings timeline reveals a **scattered but persistent pattern** of civilian reports dating back at least to the **1990s**, with notable clusters along coastal areas (San Pedro, Placencia) and inland towns (Belmopan, Independence, Dangriga). While the available data remain **uncorroborated by official investigation or scientific instrumentation**, the regional variation and repeated light‑based phenomena illustrate how local observers experience and interpret unusual aerial events. Whether these reflect unrecognised atmospheric phenomena, misidentified conventional objects, or something else remains a matter for broader UAP research rather than definitive national evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+Belize’s UFO/UAP sightings timeline reveals a **scattered but persistent pattern** of civilian reports dating back at least to the **1990s**, with notable clusters along coastal areas (San Pedro, Placencia) and inland towns (Belmopan, Independence, Dangriga). While the available data remain **uncorroborated by official investigation or scientific instrumentation**, the regional variation and repeated light‑based phenomena illustrate how local observers experience and interpret unusual aerial events. Whether these reflect unrecognised atmospheric phenomena, misidentified conventional objects, or something else remains a matter for broader UAP research rather than definitive national evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Have UFOs Been Reported in Belize?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Have UFOs Been Reported in Belize?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Places Belize sightings within wider international reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for regional sighting patterns and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Useful for assessing multiple sighting accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores recurring patterns in anomalous reports across regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -450,75 +408,71 @@ Belize’s UFO/UAP sightings timeline reveals a **scattered but persistent patte
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/864aeffe7855cd72885c.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/f49295ff78f072290989.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/4b51086b6e0f30a899b6.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-where-have-ufos-been-reported-in-belize-belize-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-where-have-ufos-been-reported-in-belize-belize-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -732,44 +686,44 @@ Belize’s UFO/UAP sightings timeline reveals a **scattered but persistent patte
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=184419](https://nuforc.org/sighting/?id=184419)  
+   Link: <a href="https://nuforc.org/sighting/?id=184419" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184419</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 184419November 29, 2024...</p></details>
    Published: November 29, 2024  
 
 2. <a id="endnote-2"></a>
    Source: thephenomenon.app  
    Title: The Phenomenon | Belize  
-   Link: [https://thephenomenon.app/belize/](https://thephenomenon.app/belize/)  
+   Link: <a href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/belize/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=43568](https://nuforc.org/sighting/?id=43568)  
+   Link: <a href="https://nuforc.org/sighting/?id=43568" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43568</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 43568May 11, 2005...</p></details>
    Published: May 11, 2005  
 
 4. <a id="endnote-4"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Belize UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/belize-ufo-sightings.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: amandala.com.bz  
    Title: Strange night sightings in ‘Pan! | Amandala Newspaper  
-   Link: [https://amandala.com.bz/news/strange-night-sightings-in-pan/](https://amandala.com.bz/news/strange-night-sightings-in-pan/)  
+   Link: <a href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow">https://amandala.com.bz/news/strange-night-sightings-in-pan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2008...</p></details>
    Published: March 18, 2008  
 
 6. <a id="endnote-6"></a>
    Source: amandala.com.bz  
    Title: Strange flying object hovers over Griga! | Amandala Newspaper  
-   Link: [https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/](https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/)  
+   Link: <a href="https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/" target="_blank" rel="noopener noreferrer nofollow">https://amandala.com.bz/news/strange-flying-object-hovers-over-griga/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 10, 2012...</p></details>
    Published: February 10, 2012  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
@@ -777,62 +731,62 @@ Belize’s UFO/UAP sightings timeline reveals a **scattered but persistent patte
 
 8. <a id="endnote-8"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lookup-app.io  
-   Link: [https://lookup-app.io/](https://lookup-app.io/)  
+   Link: <a href="https://lookup-app.io/" target="_blank" rel="noopener noreferrer nofollow">https://lookup-app.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Look Up. A citizen science platform for reporting, analyzing, and researching unidentified aerial phenomena. — O...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sanpedrosun.com  
    Title: Possible research submersible found on the reef  
-   Link: [https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/](https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/)  
+   Link: <a href="https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunMarch 14, 2015 — POSSIBLE RESEARCH SUBMERSIBLE FOUND ON THE REEF Saturday, March 14th, 2015 Image: 10 Unidentified Float...</p></details>
    Published: March 14, 2015  
 
 12. <a id="endnote-12"></a>
    Source: cahalpech.com  
    Title: UF O Spotted at Actun Tunichil Muknal Cave  
-   Link: [https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/](https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/)  
+   Link: <a href="https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/" target="_blank" rel="noopener noreferrer nofollow">https://www.cahalpech.com/ufo-spotted-at-actun-tunichil-muknal-cave/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Spotted at Actun Tunichil Muknal CaveApril 1, 2022 — UFO SPOTTED AT ACTUN TUNICHIL MUKNAL CAVE April 1, 2022 Image: UFO SPOTTED IN BE...</p></details>
    Published: April 1, 2022  
 
 13. <a id="endnote-13"></a>
    Source: ambergriscaye.com  
    Title: Strange flying object hovers over Griga!  
-   Link: [https://ambergriscaye.com/forum/ubbthreads.php/topics/430202/strange-flying-object-hovers-over-griga.html](https://ambergriscaye.com/forum/ubbthreads.php/topics/430202/strange-flying-object-hovers-over-griga.html)  
+   Link: <a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/430202/strange-flying-object-hovers-over-griga.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/430202/strange-flying-object-hovers-over-griga.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambergris Caye Belize Message BoardFebruary 10, 2012 — ImageStrange flying object hovers over Griga! #430202 02/10/12 06:56 PM Joined: Oc...</p></details>
    Published: February 10, 2012  
 
 14. <a id="endnote-14"></a>
    Source: jamaicaobserver.com  
    Title: Sleeping Giant mystery in Belize solved  
-   Link: [https://www.jamaicaobserver.com/2021/06/21/sleeping-giant-mystery-in-belize-solved/](https://www.jamaicaobserver.com/2021/06/21/sleeping-giant-mystery-in-belize-solved/)  
+   Link: <a href="https://www.jamaicaobserver.com/2021/06/21/sleeping-giant-mystery-in-belize-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2021/06/21/sleeping-giant-mystery-in-belize-solved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverJune 21, 2021 — June 21, 2021 SLEEPING GIANT MYSTERY IN BELIZE SOLVED BELMOPAN, Belize (CMC)—The Belize government says t...</p></details>
    Published: June 21, 2021  
 
 15. <a id="endnote-15"></a>
    Source: ufodigest.com  
    Title: THRE E 'UFO FLAPS' DOCUMENTED IN YUCATAN  
-   Link: [https://www.ufodigest.com/article/three-ufo-flaps-documented-in-yucatan/](https://www.ufodigest.com/article/three-ufo-flaps-documented-in-yucatan/)  
+   Link: <a href="https://www.ufodigest.com/article/three-ufo-flaps-documented-in-yucatan/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/three-ufo-flaps-documented-in-yucatan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THREE &#x27;UFO FLAPS&#x27; DOCUMENTED IN YUCATAN - UFO DigestMarch 12, 2014 — 17/10/2025 THREE ‘UFO FLAPS’ DOCUMENTED IN YUCATAN by Scott Corrales...</p></details>
    Published: March 12, 2014  
 
 16. <a id="endnote-16"></a>
    Source: aatlas.vercel.app  
    Title: Anomaly Atlas — The Map of the Unexplained SEARCH THE Unexplained  
-   Link: [https://aatlas.vercel.app/](https://aatlas.vercel.app/)  
+   Link: <a href="https://aatlas.vercel.app/" target="_blank" rel="noopener noreferrer nofollow">https://aatlas.vercel.app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomaly Atlas is an AI intelligence engine for UFO files, UAP disclosures, declassified records, historical sightings, and unresolved aer...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uapdrop.com  
    Title: Trust the Data, Not the Disinformation  
-   Link: [https://www.uapdrop.com/](https://www.uapdrop.com/)  
+   Link: <a href="https://www.uapdrop.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapdrop.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We track unidentified aerial phenomena with AI-curated UFO news, video analysis &amp; commentary, a global sightings map, and a searchable ar...</p></details>

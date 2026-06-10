@@ -245,7 +245,7 @@ next_link:
   permalink: /gulf-files/
   short_title: Gulf Files
   heading_title: Do Gulf of Oman UAP Files Prove Anything?
-date: '2026-06-09 01:36:33 '
+date: '2026-06-10 02:03:06 '
 header:
   og_image: /assets/images/Oman_c14c36_drone_reporting_oman_2c54c9-Illustration-1-social.jpg
   preview_image: /assets/images/Oman_c14c36_drone_reporting_oman_2c54c9-Illustration-1.webp
@@ -274,7 +274,7 @@ This creates a different framework from classic UFO culture. Instead of asking f
 
 One of the clearest signs of this shift has been the growing use of public advisories.
 
-During periods of heightened concern about unauthorised drone operations, Omani authorities and affiliated media outlets have urged residents to report suspicious drones and unidentified aerial objects, particularly around vital facilities and sensitive infrastructure. Public notices circulated through local media and social platforms have instructed people to immediately notify authorities when low-flying drones or unusual aerial objects are observed near strategic sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DVc6bMEjnJo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramThe Royal Oman Police has urged all citizens and...Security authorities urge everyone to report immediately any drones or suspi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DWbYsORFjqm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">tsApp at 77720078. If drones are observed flying at low...Read more...</span></span></span>
+During periods of heightened concern about unauthorised drone operations, Omani authorities and affiliated media outlets have urged residents to report suspicious drones and unidentified aerial objects, particularly around vital facilities and sensitive infrastructure. Public notices circulated through local media and social platforms have instructed people to immediately notify authorities when low-flying drones or unusual aerial objects are observed near strategic sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DVc6bMEjnJo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">The Royal Oman Police has urged all citizens and...Security authorities urge everyone to report immediately any drones or suspi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DWbYsORFjqm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">tsApp at 77720078. If drones are observed flying at low...Read more...</span></span></span>
 
 These advisories are notable because they do not sharply distinguish between a confirmed drone and a suspicious unidentified object. The initial concern is operational: determine what is flying, whether it is authorised and whether it poses a hazard.
 
@@ -337,7 +337,7 @@ These similarities do not prove that all sightings are drones. They do mean that
 
 This issue is particularly relevant in Oman because many reports occur in coastal environments. Witnesses looking across dark water can misjudge distance, speed and altitude. A drone operating offshore, a vessel light near the horizon or an aircraft approaching from an unusual angle may appear far stranger than it would over an urban landscape.
 
-The result is a growing overlap between UFO reporting and drone detection. Researchers increasingly focus on flight characteristics, airspace records, radar information and technical evidence rather than witness impressions alone. Studies on unauthorised drone detection have similarly highlighted how difficult visual identification can be without supporting sensor data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unauthorized Drone Detection: Experiments and Prototypes</span><span class="citation-popover-snippet">arXivUnauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</span><span class="citation-popover-meta">Published: December 2, 2022</span></span></span>
+The result is a growing overlap between UFO reporting and drone detection. Researchers increasingly focus on flight characteristics, airspace records, radar information and technical evidence rather than witness impressions alone. Studies on unauthorised drone detection have similarly highlighted how difficult visual identification can be without supporting sensor data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unauthorized Drone Detection: Experiments and Prototypes</span><span class="citation-popover-snippet">Unauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</span><span class="citation-popover-meta">Published: December 2, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sLChKGmOF-U" title="6 videos that stood out in the Pentagon&#x27;s new UFO drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer">6 videos that stood out in the Pentagon&#x27;s new UFO drop</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 295.6K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sLChKGmOF-U">Open on YouTube</a></p></div></div></div>
@@ -382,86 +382,44 @@ Instead of separating UFOs, drones and aviation incidents into entirely differen
 For Oman, that has produced a governance-centred approach. Public reporting systems, tighter drone controls, permit requirements, airspace restrictions and warnings about suspicious aerial activity now form the most visible part of the country's response to unexplained objects in the sky. The result is a landscape where the most important question is often not whether a sighting is mysterious, but whether it represents an unauthorised aircraft operating in sensitive airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gov.om/en/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.om">[Gov.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.om</span><span class="citation-popover-snippet">Civil Aviation AuthorityIt supervises airport operations, airline licenses, and monitors and manages airspace to ensure the highest stand...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.om">[3caa.gov.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.om</span><span class="citation-popover-title">Regulation Governing Unmanned Aircraft Systems (Drones</span><span class="citation-popover-snippet">May 19, 2025 — The Competent Authority shall issue NOTAMs (notice to airmen), determine maximum permissible drone altitudes, and impose a...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Oman Treats Unknown Lights as Safety Issues. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Oman Treats Unknown Lights as Safety Issues, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
-        </h4>
-        <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
-        
-        <p class="fr-book-desc">Helps readers understand how drones complicate identification of unknown aerial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Provides context for advanced aviation technology and aircraft misidentification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Addresses aviation-related sightings and the need for serious reporting standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding investigative approaches to unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -495,75 +453,71 @@ For Oman, that has produced a governance-centred approach. Public reporting syst
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-aa291e-why-oman-treats-unknown-lights-as-safety-issues-oman-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -778,105 +732,105 @@ For Oman, that has produced a governance-centred approach. Public reporting syst
 1. <a id="endnote-1"></a>
    Source: caa.gov.om  
    Title: Regulation Governing Unmanned Aircraft Systems (Drones)  
-   Link: [https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf](https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf)  
+   Link: <a href="https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 19, 2025 — The Competent Authority shall issue NOTAMs (notice to airmen), determine maximum permissible drone altitudes, and impose a...</p></details>
    Published: May 19, 2025  
 
 2. <a id="endnote-2"></a>
    Source: gov.om  
-   Link: [https://gov.om/en/civil-aviation-authority](https://gov.om/en/civil-aviation-authority)  
+   Link: <a href="https://gov.om/en/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://gov.om/en/civil-aviation-authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityIt supervises airport operations, airline licenses, and monitors and manages airspace to ensure the highest stand...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: omanobserver.om  
    Title: caa warns of a surge in unauthorised drone movements  
-   Link: [https://www.omanobserver.om/article/1173138/oman/community/caa-warns-of-a-surge-in-unauthorised-drone-movements](https://www.omanobserver.om/article/1173138/oman/community/caa-warns-of-a-surge-in-unauthorised-drone-movements)  
+   Link: <a href="https://www.omanobserver.om/article/1173138/oman/community/caa-warns-of-a-surge-in-unauthorised-drone-movements" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1173138/oman/community/caa-warns-of-a-surge-in-unauthorised-drone-movements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Jul 2025 — It is not permitted to operate drones during official convoys or in a manner inconsistent with their designated operation an...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVc6bMEjnJo/](https://www.instagram.com/p/DVc6bMEjnJo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramThe Royal Oman Police has urged all citizens and...Security authorities urge everyone to report immediately any drones or suspi...</p></details>
+   Link: <a href="https://www.instagram.com/p/DVc6bMEjnJo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVc6bMEjnJo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Oman Police has urged all citizens and...Security authorities urge everyone to report immediately any drones or suspi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWbYsORFjqm/](https://www.instagram.com/p/DWbYsORFjqm/)  
+   Link: <a href="https://www.instagram.com/p/DWbYsORFjqm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWbYsORFjqm/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tsApp at 77720078. If drones are observed flying at low...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: omanobserver.om  
    Title: following directives on not using drones is national responsibility caa  
-   Link: [https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa](https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa)  
+   Link: <a href="https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Following directives on not using drones is national...29 Mar 2026 — It may be noted that on March 3, CAA decided to suspend all operati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Unauthorized Drone Detection: Experiments and Prototypes  
-   Link: [https://arxiv.org/abs/2212.01436](https://arxiv.org/abs/2212.01436)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUnauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.01436</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</p></details>
    Published: December 2, 2022  
 
 8. <a id="endnote-8"></a>
    Source: themedialine.org  
    Title: new pentagon ufo files include mysterious middle east sightings  
-   Link: [https://themedialine.org/mideast-daily-news/new-pentagon-ufo-files-include-mysterious-middle-east-sightings/](https://themedialine.org/mideast-daily-news/new-pentagon-ufo-files-include-mysterious-middle-east-sightings/)  
+   Link: <a href="https://themedialine.org/mideast-daily-news/new-pentagon-ufo-files-include-mysterious-middle-east-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://themedialine.org/mideast-daily-news/new-pentagon-ufo-files-include-mysterious-middle-east-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf of Oman. A mission report described that object as “consisting of...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYFndf7Da0N/](https://www.instagram.com/p/DYFndf7Da0N/)  
+   Link: <a href="https://www.instagram.com/p/DYFndf7Da0N/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFndf7Da0N/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video released by US&#x27;...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DL18SoPMHRB/](https://www.instagram.com/p/DL18SoPMHRB/)  
+   Link: <a href="https://www.instagram.com/p/DL18SoPMHRB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DL18SoPMHRB/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>permits for unmanned aerial vehicles (drones) for governmental...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYUYMfOk45l/?hl=he](https://www.instagram.com/p/DYUYMfOk45l/?hl=he)  
+   Link: <a href="https://www.instagram.com/p/DYUYMfOk45l/?hl=he" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYUYMfOk45l/?hl=he</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing this secret? Nowadays UFOs are called UAPs, meaning...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYrd-8yyXcq/](https://www.instagram.com/reel/DYrd-8yyXcq/)  
+   Link: <a href="https://www.instagram.com/reel/DYrd-8yyXcq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYrd-8yyXcq/</a>  
 
 13. <a id="endnote-13"></a>
    Source: dcaa.gov.ae  
-   Link: [https://dcaa.gov.ae/dms/hobby](https://dcaa.gov.ae/dms/hobby)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DCAA - Recreational DroneLearn the latest drone regulations and ensure your flights meet all legal requirements. View Regulations. Regula...</p></details>
+   Link: <a href="https://dcaa.gov.ae/dms/hobby" target="_blank" rel="noopener noreferrer nofollow">https://dcaa.gov.ae/dms/hobby</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recreational DroneLearn the latest drone regulations and ensure your flights meet all legal requirements. View Regulations. Regula...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uavcoach.com  
-   Link: [https://uavcoach.com/drone-laws-in-oman/](https://uavcoach.com/drone-laws-in-oman/)  
+   Link: <a href="https://uavcoach.com/drone-laws-in-oman/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-oman/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAV CoachDrone Laws in OmanA permit is required for all drones flights in Oman, and this permit is currently only granted for commercial...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gulfnews.com  
-   Link: [https://gulfnews.com/business/aviation/new-rules-announced-for-drone-sales-in-oman-warns-of-penalties-for-violations-1.500446004](https://gulfnews.com/business/aviation/new-rules-announced-for-drone-sales-in-oman-warns-of-penalties-for-violations-1.500446004)  
+   Link: <a href="https://gulfnews.com/business/aviation/new-rules-announced-for-drone-sales-in-oman-warns-of-penalties-for-violations-1.500446004" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/business/aviation/new-rules-announced-for-drone-sales-in-oman-warns-of-penalties-for-violations-1.500446004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsNew rules announced for drone sales in Oman17 Feb 2026 — The circular explains, “All points of sale of unmanned aircraft must ho...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lexismiddleeast.com  
-   Link: [https://www.lexismiddleeast.com/news/2026-03-03_19/en](https://www.lexismiddleeast.com/news/2026-03-03_19/en)  
+   Link: <a href="https://www.lexismiddleeast.com/news/2026-03-03_19/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lexismiddleeast.com/news/2026-03-03_19/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lexis Middle EastOman: CAA suspends all drone and aerial‑activity permits3 Mar 2026 — The Arabian Stories, 3 March 2026: Oman&#x27;s Civil Avi...</p></details>
    Published: March 2026  
 
 17. <a id="endnote-17"></a>
    Source: gulfnews.com  
    Title: oman suspends all drone and aerial activity permits indefinitely 1.500461785  
-   Link: [https://gulfnews.com/world/gulf/oman/oman-suspends-all-drone-and-aerial-activity-permits-indefinitely-1.500461785](https://gulfnews.com/world/gulf/oman/oman-suspends-all-drone-and-aerial-activity-permits-indefinitely-1.500461785)  
+   Link: <a href="https://gulfnews.com/world/gulf/oman/oman-suspends-all-drone-and-aerial-activity-permits-indefinitely-1.500461785" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/world/gulf/oman/oman-suspends-all-drone-and-aerial-activity-permits-indefinitely-1.500461785</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The measure also extends to aviation-related sporting activities and events.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: lexismiddleeast.com  
-   Link: [https://www.lexismiddleeast.com/news/2026-03-31_1/en](https://www.lexismiddleeast.com/news/2026-03-31_1/en)  
+   Link: <a href="https://www.lexismiddleeast.com/news/2026-03-31_1/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lexismiddleeast.com/news/2026-03-31_1/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lexis Middle EastAviation authority extends nationwide ban on drone activitiesThe Arabian Stories, 28 March 2026: Oman extends the suspen...</p></details>
    Published: March 2026  
 
 19. <a id="endnote-19"></a>
    Source: thenationalnews.com  
-   Link: [https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/](https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/)  
+   Link: <a href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalHistorical Pentagon UFO files show strange craft flying over...May 8, 2026 — 8 May 2026 — Historical Pentagon UFO files show...</p></details>
    Published: May 8, 2026  
 
@@ -884,54 +838,54 @@ For Oman, that has produced a governance-centred approach. Public reporting syst
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/](https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/)  
+   Link: <a href="https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Any sighting of an unidentified drone or suspicion object in...ROP calls on public to report sightings of drones, aerial objects in Oman...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: rexby.com  
-   Link: [https://www.rexby.com/FloraGonning/t/drone-rules-in-oman](https://www.rexby.com/FloraGonning/t/drone-rules-in-oman)  
+   Link: <a href="https://www.rexby.com/FloraGonning/t/drone-rules-in-oman" target="_blank" rel="noopener noreferrer nofollow">https://www.rexby.com/FloraGonning/t/drone-rules-in-oman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Rules in Oman by Flora GonningDrone regulations in Oman are strict. Unlike some countries where recreational flying is common, Oman...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: unmannedairspace.info  
-   Link: [https://www.unmannedairspace.info/uncategorized/oman-strengthens-uas-licensing-and-registration/](https://www.unmannedairspace.info/uncategorized/oman-strengthens-uas-licensing-and-registration/)  
+   Link: <a href="https://www.unmannedairspace.info/uncategorized/oman-strengthens-uas-licensing-and-registration/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/uncategorized/oman-strengthens-uas-licensing-and-registration/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oman strengthens UAS licensing and registrationOman&#x27;s Civil Aviation Authority has issued a new directive to better regulate the sale and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/](https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/)  
+   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/report-a-potential-breach-of-aviation-law/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report a potential breach of aviation lawTo report a drone being flown dangerously contact the police on 101. This includes a drone being...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ohzcxs/repost_unidentified_expanding_white_gassphere/](https://www.reddit.com/r/UFOs/comments/1ohzcxs/repost_unidentified_expanding_white_gassphere/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ohzcxs/repost_unidentified_expanding_white_gassphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ohzcxs/repost_unidentified_expanding_white_gassphere/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird object in the sky moved (apparently) slowly from north. 2. 44. 26... r/UFOs - Finding Patterns in 152,000 UFO/UAP Sightings.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: Authorities urge public to report suspicious flying objects  
-   Link: [https://www.facebook.com/omanobserver/posts/authorities-urge-public-to-report-suspicious-flying-objects-via-omanobserver/1373808554791032/](https://www.facebook.com/omanobserver/posts/authorities-urge-public-to-report-suspicious-flying-objects-via-omanobserver/1373808554791032/)  
+   Link: <a href="https://www.facebook.com/omanobserver/posts/authorities-urge-public-to-report-suspicious-flying-objects-via-omanobserver/1373808554791032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/omanobserver/posts/authorities-urge-public-to-report-suspicious-flying-objects-via-omanobserver/1373808554791032/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>object slowly moved across the sky before suddenly accelerating and disappearing from view. Some UFO researchers suggest sightings like t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thearabianstories/posts/the-civil-aviation-authority-caa-of-oman-has-issued-a-public-alert-regarding-the/1179559094188623/](https://www.facebook.com/thearabianstories/posts/the-civil-aviation-authority-caa-of-oman-has-issued-a-public-alert-regarding-the/1179559094188623/)  
+   Link: <a href="https://www.facebook.com/thearabianstories/posts/the-civil-aviation-authority-caa-of-oman-has-issued-a-public-alert-regarding-the/1179559094188623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thearabianstories/posts/the-civil-aviation-authority-caa-of-oman-has-issued-a-public-alert-regarding-the/1179559094188623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the increasing number of irregular uses of unmanned aerial vehicles (drones)...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: muscatdaily.com  
    Title: caa suspends all drone and air sport permits across oman  
-   Link: [https://www.muscatdaily.com/2026/03/03/caa-suspends-all-drone-and-air-sport-permits-across-oman/](https://www.muscatdaily.com/2026/03/03/caa-suspends-all-drone-and-air-sport-permits-across-oman/)  
+   Link: <a href="https://www.muscatdaily.com/2026/03/03/caa-suspends-all-drone-and-air-sport-permits-across-oman/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscatdaily.com/2026/03/03/caa-suspends-all-drone-and-air-sport-permits-across-oman/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Mar 2026 — Muscat- The Civil Aviation Authority (CAA) has announced the immediate suspension of all operating permits for unmanned airc...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: muscatdaily.com  
    Title: omani authorities tighten grip on drone violations  
-   Link: [https://www.muscatdaily.com/2026/03/30/omani-authorities-tighten-grip-on-drone-violations/](https://www.muscatdaily.com/2026/03/30/omani-authorities-tighten-grip-on-drone-violations/)  
+   Link: <a href="https://www.muscatdaily.com/2026/03/30/omani-authorities-tighten-grip-on-drone-violations/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscatdaily.com/2026/03/30/omani-authorities-tighten-grip-on-drone-violations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 30, 2026 — The statement emphasised that operating drones without an official permit from the Civil Aviation Authority Oman is strict...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: safeairspace.net  
    Title: In Oman, drones struck a port near OOSA/Salalah  
-   Link: [https://safeairspace.net/](https://safeairspace.net/)  
+   Link: <a href="https://safeairspace.net/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Airspace – Conflict Zone and Risk DatabaseCyprus Notam extended: Caution in Cyprus airspace due to military aircraft flying with no...</p></details>

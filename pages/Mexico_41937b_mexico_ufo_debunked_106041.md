@@ -239,7 +239,7 @@ prev_link:
   permalink: /campeche-video/
   short_title: Campeche Video
   heading_title: Was the Campeche UFO Video Just Flares?
-date: '2026-06-09 01:33:33 '
+date: '2026-06-10 01:59:10 '
 header:
   og_image: /assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-1-social.jpg
   preview_image: /assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-1-so
 
 ## Introduction
 
-[Mexico]({{ 'what-really-happened-in-mexicos-ufo/' | relative_url }}) has produced some of the most enduring UFO stories in the Spanish-speaking world, from nineteenth-century astronomical photographs to modern crash-retrieval legends. Yet several of the country's most famous cases look very different when examined through later research, technical analysis, or historical investigation. The interesting pattern is not that every mystery was solved, but that many celebrated sightings gained their strongest extraterrestrial reputation before ordinary explanations were fully explored.
+Mexico has produced some of the most enduring UFO stories in the Spanish-speaking world, from nineteenth-century astronomical photographs to modern crash-retrieval legends. Yet several of the country's most famous cases look very different when examined through later research, technical analysis, or historical investigation. The interesting pattern is not that every mystery was solved, but that many celebrated sightings gained their strongest extraterrestrial reputation before ordinary explanations were fully explored.
 
 
 <img src="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-1-dark.svg" | relative_url }}" alt="Myths Debunked illustration 1" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ What makes the case notable is that it was mysterious even to contemporary obser
 
 One of the earliest non-extraordinary explanations came from French astronomer Camille Flammarion, who suggested Bonilla may have been seeing birds, insects, or nearby material crossing the telescope's field of view rather than distant objects in space. Later investigators noted that the images themselves lacked the detail needed to identify structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Mexico</span><span class="citation-popover-snippet">UFO sightings in Mexico</span></span></span>
 
-The story became more complicated in 2011 when researchers from the National Autonomous University of Mexico proposed that Bonilla might have witnessed fragments of a disintegrating comet passing unusually close to Earth. Their analysis rejected the UFO interpretation but also challenged the simple bird explanation, arguing that the timing and geometry could fit a fragmented comet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivInterpretation of the observations made in 1883...by HJD Manterola · 2011 · Cited by 4 — In 1883, on the 12th and 13th of August, M...</span></span></span>
+The story became more complicated in 2011 when researchers from the National Autonomous University of Mexico proposed that Bonilla might have witnessed fragments of a disintegrating comet passing unusually close to Earth. Their analysis rejected the UFO interpretation but also challenged the simple bird explanation, arguing that the timing and geometry could fit a fragmented comet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Interpretation of the observations made in 1883...by HJD Manterola · 2011 · Cited by 4 — In 1883, on the 12th and 13th of August, M...</span></span></span>
 
 As a result, Bonilla's photographs are often presented incorrectly as a UFO case that remained unexplained. In reality, the main debate today is between competing natural explanations rather than between natural and extraterrestrial ones. The mystery survives because the original data are limited, not because the photographs clearly depict spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Mexico</span><span class="citation-popover-snippet">UFO sightings in Mexico</span></span></span>
 
@@ -283,7 +283,7 @@ The strongest criticism of the Coyame story is the weakness of its documentary f
 
 Researchers examining the region's history have suggested that stories of a crashed aircraft may have become mixed with rumours about military operations, smuggling routes, and ordinary aviation accidents along the northern border. Some sceptical interpretations argue that what later became a UFO-retrieval legend may have originated from reports of a conventional crash or drug-trafficking aircraft rather than an extraterrestrial vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Mexico</span><span class="citation-popover-snippet">UFO sightings in Mexico</span></span></span>
 
-A key point is that the case's popularity often exceeds the quality of its evidence. The most dramatic details entered the story after years of retelling, making it difficult to separate original claims from later embellishment. That does not prove the event never happened, but it leaves the extraordinary elements unsupported by the kind of evidence that would normally be expected for a major military recovery operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40freeleadswebsite/from-the-skies-to-earth-the-intriguing-story-of-the-coyame-collision-the-ufo-that-landed-f6d7777b8133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumThe Intriguing Story Of The Coyame Collision &amp; The UFO...There is limited physical evidence to support the Coyame Collision and th...</span></span></span>
+A key point is that the case's popularity often exceeds the quality of its evidence. The most dramatic details entered the story after years of retelling, making it difficult to separate original claims from later embellishment. That does not prove the event never happened, but it leaves the extraordinary elements unsupported by the kind of evidence that would normally be expected for a major military recovery operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40freeleadswebsite/from-the-skies-to-earth-the-intriguing-story-of-the-coyame-collision-the-ufo-that-landed-f6d7777b8133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Intriguing Story Of The Coyame Collision &amp; The UFO...There is limited physical evidence to support the Coyame Collision and th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-2-dark.svg" | relative_url }}" alt="Myths Debunked illustration 2" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,7 +306,7 @@ The result was not a single debunking that explained every reported sighting. Ra
 
 One reason Mexican UFO myths endure is that debunking rarely arrives at the same moment as the original claim. A dramatic story spreads quickly, while technical explanations often appear months or years later and receive less public attention.
 
-The Bonilla photographs illustrate this process clearly. Most people encounter the case as "the first photographed UFO" rather than as a debate between birds and a possible fragmented comet. Likewise, many people know Coyame as a crashed flying saucer story without realising how uncertain the underlying documentation is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivInterpretation of the observations made in 1883...by HJD Manterola · 2011 · Cited by 4 — In 1883, on the 12th and 13th of August, M...</span></span></span>
+The Bonilla photographs illustrate this process clearly. Most people encounter the case as "the first photographed UFO" rather than as a debate between birds and a possible fragmented comet. Likewise, many people know Coyame as a crashed flying saucer story without realising how uncertain the underlying documentation is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Interpretation of the observations made in 1883...by HJD Manterola · 2011 · Cited by 4 — In 1883, on the 12th and 13th of August, M...</span></span></span>
 
 Another factor is cultural momentum. Mexico's UFO scene developed through television programmes, tabloid coverage, public conferences, and prominent personalities who frequently highlighted the most mysterious interpretation of events. Once a case becomes part of national UFO folklore, later corrections rarely erase the original narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomyufo.com/UFO/Mexico04b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">Astronomy UFOUFO hotspot or hotair?</span><span class="citation-popover-snippet">Tim Printy&#x27;sMexico city has been considered a UFO &quot;hotspot&quot; since the solar eclipse of 1991.... the solar eclipse were simply shots of t...</span></span></span>
 
@@ -331,86 +331,44 @@ That pattern does not automatically explain every UFO report from Mexico. Howeve
 <img src="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-3-dark.svg" | relative_url }}" alt="Myths Debunked illustration 3" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_mexico_ufo_debunked_106041-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Which Mexican UFO Stories Have Ordinary Explanations?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Which Mexican UFO Stories Have Ordinary Explanations?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses evaluating reports before drawing conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines alternative interpretations of extraordinary stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Strong fit for pages focused on ordinary explanations and skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Addresses how unusual claims become accepted narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -444,75 +402,71 @@ That pattern does not automatically explain every UFO report from Mexico. Howeve
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myths-debunked-which-mexican-ufo-stories-have-ordinary-explanations-mexico-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -727,99 +681,99 @@ That pattern does not automatically explain every UFO report from Mexico. Howeve
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bonilla observation  
-   Link: [https://en.wikipedia.org/wiki/Bonilla_observation](https://en.wikipedia.org/wiki/Bonilla_observation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonilla_observation</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Mexico  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico](https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Mexico</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1110.2798](https://arxiv.org/abs/1110.2798)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInterpretation of the observations made in 1883...by HJD Manterola · 2011 · Cited by 4 — In 1883, on the 12th and 13th of August, M...</p></details>
+   Link: <a href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1110.2798</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretation of the observations made in 1883...by HJD Manterola · 2011 · Cited by 4 — In 1883, on the 12th and 13th of August, M...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: exploring the 1974 coyame mexico ufo crash  
-   Link: [https://www.reddit.com/r/UFOs/comments/1eodgl1/exploring_the_1974_coyame_mexico_ufo_crash/](https://www.reddit.com/r/UFOs/comments/1eodgl1/exploring_the_1974_coyame_mexico_ufo_crash/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1eodgl1/exploring_the_1974_coyame_mexico_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eodgl1/exploring_the_1974_coyame_mexico_ufo_crash/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the 1974 Coyame, Mexico UFO Crash RetrievalWhispers of a 1974 collision between a small private plane in disc-shaped UFO occurr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40freeleadswebsite/from-the-skies-to-earth-the-intriguing-story-of-the-coyame-collision-the-ufo-that-landed-f6d7777b8133](https://medium.com/%40freeleadswebsite/from-the-skies-to-earth-the-intriguing-story-of-the-coyame-collision-the-ufo-that-landed-f6d7777b8133)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumThe Intriguing Story Of The Coyame Collision &amp; The UFO...There is limited physical evidence to support the Coyame Collision and th...</p></details>
+   Link: <a href="https://medium.com/%40freeleadswebsite/from-the-skies-to-earth-the-intriguing-story-of-the-coyame-collision-the-ufo-that-landed-f6d7777b8133" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40freeleadswebsite/from-the-skies-to-earth-the-intriguing-story-of-the-coyame-collision-the-ufo-that-landed-f6d7777b8133</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Intriguing Story Of The Coyame Collision &amp; The UFO...There is limited physical evidence to support the Coyame Collision and th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: unsolved.com  
    Title: Mysteries Mexico UFO  
-   Link: [https://unsolved.com/gallery/mexico-ufo/](https://unsolved.com/gallery/mexico-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/mexico-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/mexico-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesMexico UFO - Unsolved MysteriesHundreds of people in Mexico City witness the same UFO during an eclipse. Read more abou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/](https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical alignment: The UFO is seen in the same part of the sky where Venus was located during the eclipse. Some videos also show oth...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: 19178 maya predicted 1991 solar eclipse  
-   Link: [https://www.space.com/19178-maya-predicted-1991-solar-eclipse.html](https://www.space.com/19178-maya-predicted-1991-solar-eclipse.html)  
+   Link: <a href="https://www.space.com/19178-maya-predicted-1991-solar-eclipse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19178-maya-predicted-1991-solar-eclipse.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Maya Predicted 1991 Solar Eclipse8 Jan 2013 — The manuscripts warned that if Venus shines upon children, old men... Search for L...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adrieneadams09/witness-the-moment-ufos-were-first-photographed-9078266cdbcf](https://medium.com/%40adrieneadams09/witness-the-moment-ufos-were-first-photographed-9078266cdbcf)  
+   Link: <a href="https://medium.com/%40adrieneadams09/witness-the-moment-ufos-were-first-photographed-9078266cdbcf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/witness-the-moment-ufos-were-first-photographed-9078266cdbcf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness: The Moment UFOs Were First PhotographedI Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… …and they&#x27;re interrupt...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ryan-sprague51.medium.com  
    Title: the coyame ufo crash 87f8de703724  
-   Link: [https://ryan-sprague51.medium.com/the-coyame-ufo-crash-87f8de703724](https://ryan-sprague51.medium.com/the-coyame-ufo-crash-87f8de703724)  
+   Link: <a href="https://ryan-sprague51.medium.com/the-coyame-ufo-crash-87f8de703724" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-coyame-ufo-crash-87f8de703724</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyame UFO Crash - Ryan Sprague - MediumOne of the most popular theories suggests that the UFO was indeed of extraterrestrial origin and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1biuhy7/a_mexican_official_who_main_role_is_ufo/](https://www.reddit.com/r/UFOs/comments/1biuhy7/a_mexican_official_who_main_role_is_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1biuhy7/a_mexican_official_who_main_role_is_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1biuhy7/a_mexican_official_who_main_role_is_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Mexican official who main role is UFO disclosure, Jesus Alberto. ShareRead more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1eqsgum/super_interesting_case_re_ufo_1974_crash_in/](https://www.reddit.com/r/UFOs/comments/1eqsgum/super_interesting_case_re_ufo_1974_crash_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1eqsgum/super_interesting_case_re_ufo_1974_crash_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eqsgum/super_interesting_case_re_ufo_1974_crash_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico. Both US...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 27...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: til that in 1883 mexican astronomer josé bonilla  
-   Link: [https://www.reddit.com/r/todayilearned/comments/1oyadld/til_that_in_1883_mexican_astronomer_jos%C3%A9_bonilla/](https://www.reddit.com/r/todayilearned/comments/1oyadld/til_that_in_1883_mexican_astronomer_jos%C3%A9_bonilla/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1oyadld/til_that_in_1883_mexican_astronomer_jos%C3%A9_bonilla/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1oyadld/til_that_in_1883_mexican_astronomer_jos%C3%A9_bonilla/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL That in 1883, Mexican astronomer José Bonilla...Did Astronomers Photograph Ufos Orbiting Earth In The 1950S? r/UfoUapNews - Did Astr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: astronomyufo.com  
    Title: Astronomy UFOUFO hotspot or hotair?  
-   Link: [https://www.astronomyufo.com/UFO/Mexico04b.htm](https://www.astronomyufo.com/UFO/Mexico04b.htm)  
+   Link: <a href="https://www.astronomyufo.com/UFO/Mexico04b.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Mexico04b.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Printy&#x27;sMexico city has been considered a UFO &quot;hotspot&quot; since the solar eclipse of 1991.... the solar eclipse were simply shots of t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mrt.com  
-   Link: [https://www.mrt.com/lifestyles/article/UFO-investigators-delve-into-Mexico-mystery-7449732.php](https://www.mrt.com/lifestyles/article/UFO-investigators-delve-into-Mexico-mystery-7449732.php)  
+   Link: <a href="https://www.mrt.com/lifestyles/article/UFO-investigators-delve-into-Mexico-mystery-7449732.php" target="_blank" rel="noopener noreferrer nofollow">https://www.mrt.com/lifestyles/article/UFO-investigators-delve-into-Mexico-mystery-7449732.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Midland Reporter-TelegramUFO investigators delve into Mexico mysteryDec 4, 2012 — &quot;The small plane was pretty well destroyed in the crash...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Unsolved Mysteries Mexico City UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO](https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While many watched the eclipse, they noticed a UFO flying in the sky. Guillermo Arragin, a reporter, and Jaime...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: astronomyufo.com  
-   Link: [https://www.astronomyufo.com/UFO/mexico.htm](https://www.astronomyufo.com/UFO/mexico.htm)  
+   Link: <a href="https://www.astronomyufo.com/UFO/mexico.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/mexico.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>None given. UFO shown in daylight faintly. Later shows UFO in the dark. This is consistent with the visibility of Venus during the eclips...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: content.time.com  
    Title: In what has been called one of the largest mass UFO sightings ever.Read more  
-   Link: [https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html](https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html)  
+   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial event...</p></details>
    Published: May 2011  
 
@@ -828,54 +782,54 @@ That pattern does not automatically explain every UFO report from Mexico. Howeve
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: during mexicos longest solar eclipse in 1991 eyewitnesses captured ufos flying t  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/](https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During Mexico&#x27;s longest solar eclipse in 1991...During Mexico&#x27;s longest solar eclipse in 1991, eyewitnesses captured UFOs flying through...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mydarkpath.com  
    Title: My Dark Path UFOs are a global phenomenon and today we investigate  
-   Link: [https://www.mydarkpath.com/51-mexicanufo](https://www.mydarkpath.com/51-mexicanufo)  
+   Link: <a href="https://www.mydarkpath.com/51-mexicanufo" target="_blank" rel="noopener noreferrer nofollow">https://www.mydarkpath.com/51-mexicanufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1991 eclipse, they predicted a series of UFO sightings. The Dresden Codex was frequently cited as a Mayan text that shows UFOs and predic...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: atlasobscura.com  
    Title: how one man has explained almost every internet ufo theory  
-   Link: [https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory](https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory)  
+   Link: <a href="https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How One Man Has Explained Almost Every Internet UFO...6 Jun 2016 — (In the video above, which shows the so-called “Zig-Zag UFO” from STS...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: podscripts.co  
-   Link: [https://podscripts.co/podcasts/sightings/coyame-ufo-crash-mexico-1974](https://podscripts.co/podcasts/sightings/coyame-ufo-crash-mexico-1974)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PodScriptsCoyame UFO Crash: Mexico, 1974 Transcript and DiscussionNov 25, 2024 — Coyame UFO Crash: Mexico, 1974 - Sightings Transcript an...</p></details>
+   Link: <a href="https://podscripts.co/podcasts/sightings/coyame-ufo-crash-mexico-1974" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/sightings/coyame-ufo-crash-mexico-1974</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyame UFO Crash: Mexico, 1974 Transcript and DiscussionNov 25, 2024 — Coyame UFO Crash: Mexico, 1974 - Sightings Transcript an...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/vidsou.htm](https://ufologie.patrickgross.org/htm/vidsou.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/vidsou.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/vidsou.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at close sight: South American footageThis piece of footage was recorded during 1991 in Mexico by an unknown cameraman...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon Started Taking U.F.O.s SeriouslyApr 30, 2021 — The Pentagon Started Taking UFOs Seriously. For decades, flying saucers w...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialUnsolvedMysteries/posts/theres-a-reason-the-roswell-incident-continues-to-bother-people-what-happened-in/851169567191719/](https://www.facebook.com/OfficialUnsolvedMysteries/posts/theres-a-reason-the-roswell-incident-continues-to-bother-people-what-happened-in/851169567191719/)  
+   Link: <a href="https://www.facebook.com/OfficialUnsolvedMysteries/posts/theres-a-reason-the-roswell-incident-continues-to-bother-people-what-happened-in/851169567191719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUnsolvedMysteries/posts/theres-a-reason-the-roswell-incident-continues-to-bother-people-what-happened-in/851169567191719/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1974 Coyame, Mexico UFO Crash. Mike Shaw and 11 others.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ohiomagazine.com  
-   Link: [https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo](https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo)  
+   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Ohio&#x27;s Best Documented UFOAlso that month, two men in Pascagoula, Mississippi, claimed they were abducted by aliens, and Ohio...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AlTYtDaZE6c](https://www.youtube.com/watch?v=AlTYtDaZE6c)  
+   Link: <a href="https://www.youtube.com/watch?v=AlTYtDaZE6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlTYtDaZE6c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico Alien Corpses: Jaime Maussan&#x27;s Extraterrestrial Claim | Real or Elaborate Hoax?...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sightingspodcast.com  
    Title: e10 coyame ufo crash mexico 1974  
-   Link: [https://sightingspodcast.com/e10-coyame-ufo-crash-mexico-1974/](https://sightingspodcast.com/e10-coyame-ufo-crash-mexico-1974/)  
+   Link: <a href="https://sightingspodcast.com/e10-coyame-ufo-crash-mexico-1974/" target="_blank" rel="noopener noreferrer nofollow">https://sightingspodcast.com/e10-coyame-ufo-crash-mexico-1974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>E10: Coyame UFO CrashE10: Coyame UFO Crash... Mexico, 1974: When an unidentified object crashes just south of the US/Mexico Border, team...</p></details>

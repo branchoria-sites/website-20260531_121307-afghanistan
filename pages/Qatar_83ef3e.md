@@ -1185,7 +1185,7 @@ next_link:
   title: Seychelles UFOs
   permalink: /what-do-seychelles-ufo-reports-really/
   short_title: Seychelles UFOs
-date: '2026-06-09 01:37:41 '
+date: '2026-06-10 02:04:21 '
 header:
   og_image: /assets/images/Qatar_83ef3e-overview-social.jpg
   preview_image: /assets/images/Qatar_83ef3e-overview.webp
@@ -1204,7 +1204,7 @@ A quick evidence split is helpful:
 
 * **Confirmed mundane event:** the October 2017 “fireball” over Qatar, identified by Qatar Astronomical Centre as Russian SL-4 rocket-body re-entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Contested or unresolved witness reports:** NUFORC reports from Doha in 1997, 2011, 2024 and 2025, plus a 2013 report in a lower-reliability UFO collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Qatar UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research Center Global UFOs: Qatar UFO Sightings &amp; Reports</span></span></span> [4NUFORC 4NUFORC]
-* **Likely [misidentifications]({{ 'misidentifications-ffb151/' | relative_url }}):** public light displays over the region plausibly linked to aircraft, satellites, planets, balloons or re-entry events, depending on the case. Doha News, for example, treated a 2022 regional “UFO” discussion as probably linked to Starlink satellites rather than extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dohanews.co">[Doha News | Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dohanews.co</span><span class="citation-popover-title">Doha News | Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span><span class="citation-popover-snippet">Doha News | Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span></span></span>
+* **Likely [misidentifications]({{ 'misidentifications-ffb151/' | relative_url }}):** public light displays over the region plausibly linked to aircraft, satellites, planets, balloons or re-entry events, depending on the case. Doha News, for example, treated a 2022 regional “UFO” discussion as probably linked to Starlink satellites rather than extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dohanews.co">[Doha News &#124; Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dohanews.co</span><span class="citation-popover-title">Doha News &#124; Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span><span class="citation-popover-snippet">Doha News &#124; Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span></span></span>
 
 ## A short chronology of Qatar sightings and explanations
 
@@ -1255,7 +1255,7 @@ Doha dominates the public record because it is where people, cameras, aircraft c
 
 Qatar’s geography also matters. The country is compact, flat and coastal, with clear horizons and strong contrast between urban light pollution and darker desert edges. A distant aircraft on approach, a flare-like reflection, a balloon at altitude or a bright planet near the horizon can look stranger in those conditions than it would in a dense, cloudier landscape. The presence of major civil and military aviation infrastructure adds another layer: Qatar Civil Aviation Authority is the official body responsible for civil aviation affairs, while Qatar also hosts significant military aviation activity, making airspace context central to any serious assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.qa/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.qa">[caa.gov.qa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.qa</span><span class="citation-popover-snippet">Open source on caa.gov.qa.</span></span></span>
 
-Drones complicate the modern picture. Qatar’s Civil Aviation Authority has a dedicated unmanned-aircraft section, and current public guidance indicates that drone operations require regulation, authorisation and operating conditions rather than casual unrestricted flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caa.gov.qa/en/UA-Drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.qa">[caa.gov.qa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.qa</span><span class="citation-popover-title">Unmanned Aircraft | QCAA- Maximum Five 5 UA (Drone&#x27;s) per entity is allowed</span><span class="citation-popover-snippet">Unmanned Aircraft | QCAA- Maximum Five 5 UA (Drone&#x27;s) per entity is allowed</span></span></span> That does not mean every odd light is a drone; it means any modern Qatar sighting should first ask whether authorised or unauthorised unmanned aircraft, event filming, security activity or aerial photography could explain it.
+Drones complicate the modern picture. Qatar’s Civil Aviation Authority has a dedicated unmanned-aircraft section, and current public guidance indicates that drone operations require regulation, authorisation and operating conditions rather than casual unrestricted flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caa.gov.qa/en/UA-Drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.qa">[caa.gov.qa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.qa</span><span class="citation-popover-title">Unmanned Aircraft &#124; QCAA- Maximum Five 5 UA (Drone&#x27;s) per entity is allowed</span><span class="citation-popover-snippet">Unmanned Aircraft &#124; QCAA- Maximum Five 5 UA (Drone&#x27;s) per entity is allowed</span></span></span> That does not mean every odd light is a drone; it means any modern Qatar sighting should first ask whether authorised or unauthorised unmanned aircraft, event filming, security activity or aerial photography could explain it.
 
 
 <img src="{{ "/assets/images/Qatar_83ef3e-Illustration-2-dark.svg" | relative_url }}" alt="What Do Qatar&#x27;s UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1275,7 +1275,7 @@ The best explanation depends on the case, but Qatar’s public sightings repeate
 
 **Space debris and re-entry:** The 2017 SL-4 event is the model example. Re-entering rocket bodies can appear as bright, fragmenting, slow-moving fireballs crossing a large portion of the sky. Because they can be visible across several countries, they often trigger regional waves of “UFO” posts before being identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Satellites and Starlink trains:** Doha News covered a 2022 Middle East “UFO” discussion in which bright dots crossing the sky were widely suspected to be Starlink satellites after recent SpaceX launches. The report noted that low-orbit satellites can be visible to the naked eye. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dohanews.co">[Doha News | Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dohanews.co</span><span class="citation-popover-title">Doha News | Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span><span class="citation-popover-snippet">Doha News | Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span></span></span> This explanation is especially relevant for repeated dots, strings, trains, or moving lights shortly after sunset or before sunrise.
+**Satellites and Starlink trains:** Doha News covered a 2022 Middle East “UFO” discussion in which bright dots crossing the sky were widely suspected to be Starlink satellites after recent SpaceX launches. The report noted that low-orbit satellites can be visible to the naked eye. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dohanews.co">[Doha News &#124; Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dohanews.co</span><span class="citation-popover-title">Doha News &#124; Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span><span class="citation-popover-snippet">Doha News &#124; Qatar What are the strange &#x27;UFOs&#x27; spotted above Middle East?</span></span></span> This explanation is especially relevant for repeated dots, strings, trains, or moving lights shortly after sunset or before sunrise.
 
 **Aircraft and military traffic:** The 2008 Doha discussion itself raised aircraft navigation lights and aircraft from Al Udeid as possible explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha · Global Voices</span><span class="citation-popover-snippet">Global Voices Qatar: Strange Lights Over Doha · Global Voices</span></span></span> Aircraft can appear to hover when moving towards the observer, can seem silent at distance, and can change brightness as landing lights, banking angles and haze interact.
 
@@ -1317,86 +1317,44 @@ Qatar’s public UFO footprint is smaller than some sibling Gulf branches, espec
 For a root-country UFO project, Qatar links naturally to Gulf-region pages on UAE sightings, Saudi reports, Oman-related re-entry observations, Persian Gulf military UAP material, and Middle East satellite or rocket-body misidentification. The Qatar page’s main value is its discipline: it shows why a small dataset should not be inflated into a grand mystery, but also why even modest local reports deserve careful sorting before being dismissed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Qatar&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Qatar&#x27;s UFO Reports Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides tools for evaluating sparse and ambiguous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Relevant to discussions of official versus civilian reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Matches a page focused on assessing real-world UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how cultures interpret unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1430,75 +1388,71 @@ For a root-country UFO project, Qatar links naturally to Gulf-region pages on UA
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-qatars-ufo-reports-really-show-what-do-qatar-s-ufo-reports-really-show-qatar-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1713,197 +1667,197 @@ For a root-country UFO project, Qatar links naturally to Gulf-region pages on UA
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=18060](https://nuforc.org/sighting/?id=18060)  
+   Link: <a href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18060</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=82307](https://nuforc.org/sighting/?id=82307)  
+   Link: <a href="https://nuforc.org/sighting/?id=82307" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82307</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185845](https://nuforc.org/sighting/?id=185845)  
+   Link: <a href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185845</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193025](https://nuforc.org/sighting/?id=193025)  
+   Link: <a href="https://nuforc.org/sighting/?id=193025" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193025</a>  
 
 6. <a id="endnote-6"></a>
    Source: dohanews.co  
    Title: Doha News | Qatar What are the strange 'UFOs' spotted above Middle East?  
-   Link: [https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/](https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/)  
+   Link: <a href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/</a>  
 
 7. <a id="endnote-7"></a>
    Source: caa.gov.qa  
-   Link: [https://www.caa.gov.qa/en](https://www.caa.gov.qa/en)  
+   Link: <a href="https://www.caa.gov.qa/en" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.qa/en</a>  
 
 8. <a id="endnote-8"></a>
    Source: caa.gov.qa  
    Title: Unmanned Aircraft | QCAA- Maximum Five 5 UA (Drone's) per entity is allowed  
-   Link: [https://caa.gov.qa/en/UA-Drones](https://caa.gov.qa/en/UA-Drones)  
+   Link: <a href="https://caa.gov.qa/en/UA-Drones" target="_blank" rel="noopener noreferrer nofollow">https://caa.gov.qa/en/UA-Drones</a>  
 
 9. <a id="endnote-9"></a>
    Source: caa.gov.qa  
-   Link: [https://www.caa.gov.qa/en/RPAS](https://www.caa.gov.qa/en/RPAS)  
+   Link: <a href="https://www.caa.gov.qa/en/RPAS" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.qa/en/RPAS</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution Reports...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: qatar 4 b  
-   Link: [https://science.nasa.gov/exoplanet-catalog/qatar-4-b/](https://science.nasa.gov/exoplanet-catalog/qatar-4-b/)  
+   Link: <a href="https://science.nasa.gov/exoplanet-catalog/qatar-4-b/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanet-catalog/qatar-4-b/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 18. <a id="endnote-18"></a>
    Source: caa.gov.qa  
-   Link: [https://caa.gov.qa/en/laws-and-regulations/category/general-1](https://caa.gov.qa/en/laws-and-regulations/category/general-1)  
+   Link: <a href="https://caa.gov.qa/en/laws-and-regulations/category/general-1" target="_blank" rel="noopener noreferrer nofollow">https://caa.gov.qa/en/laws-and-regulations/category/general-1</a>  
 
 19. <a id="endnote-19"></a>
    Source: caa.gov.om  
    Title: CAR 102 Remote Piloted Aircraft (Drones) v0.20 JNC Revised amendment 251121  
-   Link: [https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf](https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf)  
+   Link: <a href="https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: caa.gov.om  
    Title: regulation governing unmanned aircraft systems drones  
-   Link: [https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf](https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf)  
+   Link: <a href="https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: caa.gov.tt  
-   Link: [https://caa.gov.tt/licensing-certification/unmanned-aircraft-systems-uas-drones/](https://caa.gov.tt/licensing-certification/unmanned-aircraft-systems-uas-drones/)  
+   Link: <a href="https://caa.gov.tt/licensing-certification/unmanned-aircraft-systems-uas-drones/" target="_blank" rel="noopener noreferrer nofollow">https://caa.gov.tt/licensing-certification/unmanned-aircraft-systems-uas-drones/</a>  
 
 22. <a id="endnote-22"></a>
    Source: thepeninsulaqatar.com  
-   Link: [https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor](https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor)  
+   Link: <a href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow">https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor</a>  
 
 23. <a id="endnote-23"></a>
    Source: usufocenter.com  
    Title: UFO Research Center Global UFOs: Qatar UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: globalvoices.org  
    Title: Global Voices Qatar: Strange Lights Over Doha · Global Voices  
-   Link: [https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/](https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/)  
+   Link: <a href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/QatarNews/posts/qatar-calendar-house-dismissed-news-and-social-media-rumours-that-an-asteroid-wi/2787324967969602/](https://www.facebook.com/QatarNews/posts/qatar-calendar-house-dismissed-news-and-social-media-rumours-that-an-asteroid-wi/2787324967969602/)  
+   Link: <a href="https://www.facebook.com/QatarNews/posts/qatar-calendar-house-dismissed-news-and-social-media-rumours-that-an-asteroid-wi/2787324967969602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QatarNews/posts/qatar-calendar-house-dismissed-news-and-social-media-rumours-that-an-asteroid-wi/2787324967969602/</a>  
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV8V8LSgr0Q/](https://www.instagram.com/reel/DV8V8LSgr0Q/)  
+   Link: <a href="https://www.instagram.com/reel/DV8V8LSgr0Q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV8V8LSgr0Q/</a>  
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb](https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb</a>  
 
 28. <a id="endnote-28"></a>
    Source: dohanews.co  
    Title: nasa says more data needed to resolve mystery of ufos  
-   Link: [https://dohanews.co/nasa-says-more-data-needed-to-resolve-mystery-of-ufos/](https://dohanews.co/nasa-says-more-data-needed-to-resolve-mystery-of-ufos/)  
+   Link: <a href="https://dohanews.co/nasa-says-more-data-needed-to-resolve-mystery-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://dohanews.co/nasa-says-more-data-needed-to-resolve-mystery-of-ufos/</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ls7b9-SuzAM](https://www.youtube.com/watch?v=ls7b9-SuzAM)  
+   Link: <a href="https://www.youtube.com/watch?v=ls7b9-SuzAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ls7b9-SuzAM</a>  
 
 30. <a id="endnote-30"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023](https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023)  
+   Link: <a href="https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023</a>  
 
 31. <a id="endnote-31"></a>
    Source: sentientorbs.com  
    Title: NUFORC 82307  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-82307](https://sentientorbs.com/explore/sightings/NUFORC-82307)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-82307" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-82307</a>  
 
 32. <a id="endnote-32"></a>
    Source: qatarairways.com  
-   Link: [https://www.qatarairways.com/press-releases/en-WW/251548-to-our-passengers-an-open-letter-from-qatar-airways-group-chief-executive-officer/](https://www.qatarairways.com/press-releases/en-WW/251548-to-our-passengers-an-open-letter-from-qatar-airways-group-chief-executive-officer/)  
+   Link: <a href="https://www.qatarairways.com/press-releases/en-WW/251548-to-our-passengers-an-open-letter-from-qatar-airways-group-chief-executive-officer/" target="_blank" rel="noopener noreferrer nofollow">https://www.qatarairways.com/press-releases/en-WW/251548-to-our-passengers-an-open-letter-from-qatar-airways-group-chief-executive-officer/</a>  
 
 33. <a id="endnote-33"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/32027](https://encyclopedia.pub/entry/32027)  
+   Link: <a href="https://encyclopedia.pub/entry/32027" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/32027</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=q38c4_DxURk](https://www.youtube.com/watch?v=q38c4_DxURk)  
+   Link: <a href="https://www.youtube.com/watch?v=q38c4_DxURk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q38c4_DxURk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 most incredible Starlink Satellites Train seen earth Elon Musk SpaceX...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Pentagon UFO Files Expose What's Really Happening in Our Skies  
-   Link: [https://www.youtube.com/watch?v=DSXx9ibM87Q](https://www.youtube.com/watch?v=DSXx9ibM87Q)  
+   Link: <a href="https://www.youtube.com/watch?v=DSXx9ibM87Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DSXx9ibM87Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video Goes Viral... Unidentified Objects Flying Over the Battlefield? [News Now] / YTN...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in the Middle East  
-   Link: [https://www.youtube.com/watch?v=Q-C5hXe_nWI](https://www.youtube.com/watch?v=Q-C5hXe_nWI)  
+   Link: <a href="https://www.youtube.com/watch?v=Q-C5hXe_nWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q-C5hXe_nWI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO Files Expose What&#x27;s Really Happening in Our Skies...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Strange lights in Night Sky? It was Space X Starlink, not UFOs  
-   Link: [https://www.youtube.com/watch?v=obmBcb0kQ3Y](https://www.youtube.com/watch?v=obmBcb0kQ3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in the Middle East...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: loyolamaritimelawjournal.scholasticahq.com  
-   Link: [https://loyolamaritimelawjournal.scholasticahq.com/article/92711-your-drone-can-cost-you-thousands-if-you-aren-t-prepared-private-drone-use-and-its-potential-insurance-liability.pdf](https://loyolamaritimelawjournal.scholasticahq.com/article/92711-your-drone-can-cost-you-thousands-if-you-aren-t-prepared-private-drone-use-and-its-potential-insurance-liability.pdf)  
+   Link: <a href="https://loyolamaritimelawjournal.scholasticahq.com/article/92711-your-drone-can-cost-you-thousands-if-you-aren-t-prepared-private-drone-use-and-its-potential-insurance-liability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://loyolamaritimelawjournal.scholasticahq.com/article/92711-your-drone-can-cost-you-thousands-if-you-aren-t-prepared-private-drone-use-and-its-potential-insurance-liability.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV7IJeKjP3W/](https://www.instagram.com/reel/DV7IJeKjP3W/)  
+   Link: <a href="https://www.instagram.com/reel/DV7IJeKjP3W/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV7IJeKjP3W/</a>  
 
 40. <a id="endnote-40"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNationalNews/posts/at-least-three-new-files-pertain-to-unusual-sightings-near-the-emirates-and-acro/1415420863947667/](https://www.facebook.com/TheNationalNews/posts/at-least-three-new-files-pertain-to-unusual-sightings-near-the-emirates-and-acro/1415420863947667/)  
+   Link: <a href="https://www.facebook.com/TheNationalNews/posts/at-least-three-new-files-pertain-to-unusual-sightings-near-the-emirates-and-acro/1415420863947667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalNews/posts/at-least-three-new-files-pertain-to-unusual-sightings-near-the-emirates-and-acro/1415420863947667/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/iloveqtr/posts/big-news-for-drone-users-in-qatar-new-regulations-are-set-to-roll-out-soon-find-/1420694260094781/](https://www.facebook.com/iloveqtr/posts/big-news-for-drone-users-in-qatar-new-regulations-are-set-to-roll-out-soon-find-/1420694260094781/)  
+   Link: <a href="https://www.facebook.com/iloveqtr/posts/big-news-for-drone-users-in-qatar-new-regulations-are-set-to-roll-out-soon-find-/1420694260094781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iloveqtr/posts/big-news-for-drone-users-in-qatar-new-regulations-are-set-to-roll-out-soon-find-/1420694260094781/</a>  
 
 43. <a id="endnote-43"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DX9Fsw_Gy_6/?img_index=3](https://www.instagram.com/p/DX9Fsw_Gy_6/?img_index=3)  
+   Link: <a href="https://www.instagram.com/p/DX9Fsw_Gy_6/?img_index=3" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX9Fsw_Gy_6/?img_index=3</a>  

@@ -245,7 +245,7 @@ next_link:
   permalink: /missing-records/
   short_title: Missing Records
   heading_title: Why Are CAR UFO Records So Thin?
-date: '2026-06-09 01:23:52 '
+date: '2026-06-10 01:48:23 '
 header:
   og_image: /assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1-social.jpg
   preview_image: /assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1.webp
@@ -264,8 +264,8 @@ At its simplest, the Bangui magnetic anomaly is a **local variation in Earth’s
 
 Two broad geological ideas have been proposed to explain this anomaly:
 
-* **Deep crustal and lithospheric contrasts:** Scientists have long recognised that variations in rock types and structures within Earth’s crust – including highly magnetised metamorphic and igneous rocks – can produce significant magnetic anomalies. Studies suggest that overlapping magnetic sources many tens of kilometres thick could explain the Bangui feature without invoking anything beyond ordinary geology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
-* **Ancient impact hypothesis:** A minority of geophysicists have suggested that the anomaly might be a remnant of a **very ancient meteorite impact** in Precambrian times, with ring‑like structures in the topography taken as possible vestiges of that event. This idea remains debated and unproven because definitive impact signatures such as shocked minerals or well‑defined crater morphology have not been clearly identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+* **Deep crustal and lithospheric contrasts:** Scientists have long recognised that variations in rock types and structures within Earth’s crust – including highly magnetised metamorphic and igneous rocks – can produce significant magnetic anomalies. Studies suggest that overlapping magnetic sources many tens of kilometres thick could explain the Bangui feature without invoking anything beyond ordinary geology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+* **Ancient impact hypothesis:** A minority of geophysicists have suggested that the anomaly might be a remnant of a **very ancient meteorite impact** in Precambrian times, with ring‑like structures in the topography taken as possible vestiges of that event. This idea remains debated and unproven because definitive impact signatures such as shocked minerals or well‑defined crater morphology have not been clearly identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
 
 Neither theory, however, suggests anything unusual in the recent sky or space above Bangui; they focus on deep crustal processes that occurred hundreds of millions to billions of years ago.[Wikipedia]
 
@@ -274,13 +274,13 @@ Neither theory, however, suggests anything unusual in the recent sky or space ab
 
 ## Where Speculation Enters the Story
 
-Public curiosity about magnetic anomalies can easily drift into **mythic or speculative territory**, particularly when combined with cultural enthusiasm for UFOs and extraterrestrial narratives. A few informal online discussions and worldbuilding threads treat the Bangui anomaly as a backdrop for imagined alien technology or buried craft, often referencing the idea that something “mysterious” lies beneath the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
+Public curiosity about magnetic anomalies can easily drift into **mythic or speculative territory**, particularly when combined with cultural enthusiasm for UFOs and extraterrestrial narratives. A few informal online discussions and worldbuilding threads treat the Bangui anomaly as a backdrop for imagined alien technology or buried craft, often referencing the idea that something “mysterious” lies beneath the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">The Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
 
 There are several reasons this kind of speculation emerges:
 
 * **Magnetic anomalies and mystery:** Because anomalies like Bangui are visible on magnetic maps but not directly of everyday experience, they are fertile ground for speculative associations with paranormal or unidentified phenomena. People often conflate unexplained geophysical maps with physical mysteries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Magnetic anomaly: BanguiOne of these anomalies occurs in Central African Republic, centred on the city of Bang...</span></span></span>
 * **The broader UFO cultural milieu:** Some UFO enthusiasts draw loose connections between magnetic disturbances and sightings, arguing that “unusual electromagnetic conditions” might attract or influence supposed craft. However, there is no established scientific evidence linking geologic magnetic anomalies to UFO events anywhere on Earth.[Wikipedia]
-* **Creative storytelling:** Forums such as Reddit often encourage imaginative interpretations of real features like the Bangui anomaly, ranging from buried alien ships to exotic metals, but these are fictional elaborations rather than claims grounded in data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
+* **Creative storytelling:** Forums such as Reddit often encourage imaginative interpretations of real features like the Bangui anomaly, ranging from buried alien ships to exotic metals, but these are fictional elaborations rather than claims grounded in data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">The Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
 
 Crucially, these narratives do **not originate from scientific findings** and are not supported by published palaeomagnetic, aeromagnetic, or geological field research on the anomaly.
 
@@ -292,7 +292,7 @@ When people encounter the Bangui magnetic anomaly online or in maps, it’s usef
 
 * **Magnetic anomalies do not imply physical objects in the sky or space.** A magnetic anomaly is a **variation in the Earth’s crustal magnetisation** detected by instruments, not a sensor reading of a physical craft or structure at the surface or in the atmosphere.[Wikipedia]
 * **There is no documented link between the Bangui anomaly and UFO sightings.** Despite the cultural appeal of linking these topics, credible UFO reporting systems and scientific reviews of aerial phenomena do not list the Bangui magnetic anomaly as evidence of unexplained airborne craft.[Wikipedia]
-* **Scientific debate focuses on age‑old geological processes.** The research about Bangui’s origin centres on crustal composition, tectonic history, and geomagnetic mapping, not on contemporary aerial events or unidentified flying objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+* **Scientific debate focuses on age‑old geological processes.** The research about Bangui’s origin centres on crustal composition, tectonic history, and geomagnetic mapping, not on contemporary aerial events or unidentified flying objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
 
 In practice, what makes the Bangui magnetic anomaly genuinely interesting is not its value as evidence for extraordinary aerial technology, but the fact that Earth’s crust can produce large, persistent magnetic variations that we are still working to fully understand. That is both a real scientific mystery and a better basis for inquiry than unfounded speculation.
 
@@ -305,94 +305,52 @@ In practice, what makes the Bangui magnetic anomaly genuinely interesting is not
 ## Summary
 
 * The **Bangui magnetic anomaly** is a **large, genuine crustal magnetic feature** centred on the Central African Republic, documented by surface surveys and satellite magnetometers.[Wikipedia]
-* Its **origin remains scientifically debated** (geological contrasts vs ancient impact) but is grounded in Earth science, not extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
-* **UFO narratives tied to the anomaly appear only in informal, speculative contexts** and are not supported by scientific evidence or UFO reporting archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
+* Its **origin remains scientifically debated** (geological contrasts vs ancient impact) but is grounded in Earth science, not extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+* **UFO narratives tied to the anomaly appear only in informal, speculative contexts** and are not supported by scientific evidence or UFO reporting archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">The Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
 * Clear thinking about the anomaly means appreciating it as **an intriguing geological phenomenon** rather than a clue about unexplained aerial visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaw.net">[Graeme Wood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaw.net</span><span class="citation-popover-snippet">Graeme WoodThe African country where compasses go haywire22 Jun 2014 — A massive aberration known as the Bangui Magnetic Anomaly, named f...</span></span></span>
 
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-3-dark.svg" | relative_url }}" alt="Bangui Anomaly illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why the Bangui Anomaly Attracts UFO Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why the Bangui Anomaly Attracts UFO Myths, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Helps separate documented aerial cases from speculative anomaly myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Offers tools for evaluating extraordinary claims tied to geological mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Helps separate documented aerial cases from speculative anomaly myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Magnetic+Universe+J.+B.+Zirker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magnetic Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Magnetic+Universe+J.+B.+Zirker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magnetic Universe">The Magnetic Universe</a>
-        </h4>
-        <p class="fr-book-author">By J. B. Zirker</p>
-        
-        <p class="fr-book-desc">Explains Earth&#x27;s magnetic phenomena and helps ground discussion of the Bangui anomaly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Magnetic+Universe+J.+B.+Zirker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -426,75 +384,71 @@ In practice, what makes the Bangui magnetic anomaly genuinely interesting is not
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangui-anomaly-why-the-bangui-anomaly-attracts-ufo-myths-central-african-republic-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -716,161 +670,161 @@ In practice, what makes the Bangui magnetic anomaly genuinely interesting is not
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bangui magnetic anomaly  
-   Link: [https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly](https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X](https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/004019519290139W](https://www.sciencedirect.com/science/article/abs/pii/004019519290139W)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA possible impact origin for the Bangui magnetic anomaly (Central Africa) - ScienceDirectOctober 1, 1992...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/004019519290139W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/004019519290139W</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A possible impact origin for the Bangui magnetic anomaly (Central Africa) - ScienceDirectOctober 1, 1992...</p></details>
    Published: October 1, 1992  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: The Bangui magnetic anomaly: a worldbuilding goldmine  
-   Link: [https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/](https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</p></details>
+   Link: <a href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</p></details>
    Published: May 21, 2025  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1464343X21001072](https://www.sciencedirect.com/science/article/pii/S1464343X21001072)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCrustal thickness, depth to the bottom of magnetic sources and thermal structure of the crust from Cameroon to Central Afric...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1464343X21001072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1464343X21001072</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crustal thickness, depth to the bottom of magnetic sources and thermal structure of the crust from Cameroon to Central Afric...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: core2.gsfc.nasa.gov  
-   Link: [https://core2.gsfc.nasa.gov/terr_mag/Bangui.html](https://core2.gsfc.nasa.gov/terr_mag/Bangui.html)  
+   Link: <a href="https://core2.gsfc.nasa.gov/terr_mag/Bangui.html" target="_blank" rel="noopener noreferrer nofollow">https://core2.gsfc.nasa.gov/terr_mag/Bangui.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S026437070100059X](https://www.sciencedirect.com/science/article/abs/pii/S026437070100059X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJanuary 1, 2002 — JOURNAL OF GEODYNAMICS Volume 33, Issues 1–2, January–March 2002, Pages 131-142 GRADIENTS IN THE INTERPRET...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S026437070100059X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S026437070100059X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2002 — JOURNAL OF GEODYNAMICS Volume 33, Issues 1–2, January–March 2002, Pages 131-142 GRADIENTS IN THE INTERPRET...</p></details>
    Published: January 1, 2002  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: A possible impact origin for the Bangui magnetic anomaly (Central Africa)  
-   Link: [https://www.sciencedirect.com/science/article/pii/004019519290139W](https://www.sciencedirect.com/science/article/pii/004019519290139W)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 1992 — TECTONOPHYSICS Volume 212, Issues 1–2, 1 October 1992, Pages 45-58 A POSSIBLE IMPACT ORIGIN FOR THE BANGUI...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/004019519290139W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/004019519290139W</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1992 — TECTONOPHYSICS Volume 212, Issues 1–2, 1 October 1992, Pages 45-58 A POSSIBLE IMPACT ORIGIN FOR THE BANGUI...</p></details>
    Published: October 1, 1992  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: A possible impact origin for the Bangui magnetic anomaly (Central Africa)  
-   Link: [https://www.sciencedirect.com/science/article/pii/004019519290139W/pdf?md5=9b6098175365e03c7c99fbeafe88d4ab&pid=1-s2.0-004019519290139W-main.pdf](https://www.sciencedirect.com/science/article/pii/004019519290139W/pdf?md5=9b6098175365e03c7c99fbeafe88d4ab&pid=1-s2.0-004019519290139W-main.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 1992 — TECTONOPHYSICS Volume 212, Issues 1–2, 1 October 1992, Pages 45-58 A POSSIBLE IMPACT ORIGIN FOR THE BANGUI...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/004019519290139W/pdf?md5=9b6098175365e03c7c99fbeafe88d4ab&amp;pid=1-s2.0-004019519290139W-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/004019519290139W/pdf?md5=9b6098175365e03c7c99fbeafe88d4ab&amp;pid=1-s2.0-004019519290139W-main.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1992 — TECTONOPHYSICS Volume 212, Issues 1–2, 1 October 1992, Pages 45-58 A POSSIBLE IMPACT ORIGIN FOR THE BANGUI...</p></details>
    Published: October 1, 1992  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0012821X85901050](https://www.sciencedirect.com/science/article/pii/0012821X85901050)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEARTH AND PLANETARY SCIENCE LETTERS Volume 75, Issues 2–3, October 1985, Pages 231-244 SEISMOLOGICAL INVESTIGATION OF THE BA...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0012821X85901050" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0012821X85901050</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EARTH AND PLANETARY SCIENCE LETTERS Volume 75, Issues 2–3, October 1985, Pages 231-244 SEISMOLOGICAL INVESTIGATION OF THE BA...</p></details>
    Published: October 1985  
 
 12. <a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
    Title: They named this anomaly the Bangui  
-   Link: [https://ntrs.nasa.gov/citations/19770018759](https://ntrs.nasa.gov/citations/19770018759)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19770018759" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19770018759</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the origin of the Bangui magnetic anomaly, central...by BD Marsh · 1977 · Cited by 3 — A large magnetic anomaly was recognized in satell...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: everything.explained.today  
    Title: The magnetic anomaly  
-   Link: [https://everything.explained.today/Bangui_magnetic_anomaly/](https://everything.explained.today/Bangui_magnetic_anomaly/)  
+   Link: <a href="https://everything.explained.today/Bangui_magnetic_anomaly/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Bangui_magnetic_anomaly/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>magnetic anomaly explainedBANGUI MAGNETIC ANOMALY EXPLAINED The Bangui magnetic anomaly is a local variation in the Earth&#x27;s magnetic fiel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Bangui Magnetic Anomaly  
-   Link: [https://www.youtube.com/watch?v=Y3vKUkjFhvI](https://www.youtube.com/watch?v=Y3vKUkjFhvI)  
+   Link: <a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y3vKUkjFhvI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bangui Anomaly: ESA believes an asteroid modified Earth&#x27;s magnetic field...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gcaw.net  
-   Link: [https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/](https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/)  
+   Link: <a href="https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/" target="_blank" rel="noopener noreferrer nofollow">https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Graeme WoodThe African country where compasses go haywire22 Jun 2014 — A massive aberration known as the Bangui Magnetic Anomaly, named f...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui](https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui)  
+   Link: <a href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Magnetic anomaly: BanguiOne of these anomalies occurs in Central African Republic, centred on the city of Bang...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/1982JGR....87.1107R/abstract](https://ui.adsabs.harvard.edu/abs/1982JGR....87.1107R/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1982JGR....87.1107R/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1982JGR....87.1107R/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bangui Magnetic Anomaly: Its geological originby RD Regan · 1982 · Cited by 84 — Satellite magnetometer data have revealed a long-wave le...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/publication/ofr781006](https://pubs.usgs.gov/publication/ofr781006)  
+   Link: <a href="https://pubs.usgs.gov/publication/ofr781006" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/ofr781006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bangui magnetic anomaly, Central African Empireby RD Regan · 1978 · Cited by 1 — The principal objectives of this project have been the d...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/publications/preliminary-correlations-magsat-anomalies-tectonic-features-africa](https://www.usgs.gov/publications/preliminary-correlations-magsat-anomalies-tectonic-features-africa)  
+   Link: <a href="https://www.usgs.gov/publications/preliminary-correlations-magsat-anomalies-tectonic-features-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/preliminary-correlations-magsat-anomalies-tectonic-features-africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyJanuary 1, 1982 — PRELIMINARY CORRELATIONS OF MAGSAT ANOMALIES WITH TECTONIC FEATURES OF AFRICA January 1, 1982 An overv...</p></details>
    Published: January 1, 1982  
 
 20. <a id="endnote-20"></a>
    Source: usgs.gov  
    Title: The Bangui magnetic anomaly, Central African Empire: Final trip report | U.S  
-   Link: [https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report](https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report)  
+   Link: <a href="https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyJanuary 1, 1978 — THE BANGUI MAGNETIC ANOMALY, CENTRAL AFRICAN EMPIRE: FINAL TRIP REPORT January 1, 1978 View Document F...</p></details>
    Published: January 1, 1978  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233449170_The_bangui_magnetic_anomaly_in_Central_Africa_in_the_light_of_new_geological_evidence](https://www.researchgate.net/publication/233449170_The_bangui_magnetic_anomaly_in_Central_Africa_in_the_light_of_new_geological_evidence)  
+   Link: <a href="https://www.researchgate.net/publication/233449170_The_bangui_magnetic_anomaly_in_Central_Africa_in_the_light_of_new_geological_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233449170_The_bangui_magnetic_anomaly_in_Central_Africa_in_the_light_of_new_geological_evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The bangui magnetic anomaly in Central Africa in the light...Furthermore, knowledge of geological phenomena can be enhanced by mapping o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/350585450_Crustal_Thickness_Depth_To_The_Bottom_Of_Magnetic_Sources_And_Thermal_Structure_Of_The_Crust_From_Cameroon_To_Central_African_Republic_Preliminary_Results_For_A_Better_Understanding_Of_The_Origin_Of_T](https://www.researchgate.net/publication/350585450_Crustal_Thickness_Depth_To_The_Bottom_Of_Magnetic_Sources_And_Thermal_Structure_Of_The_Crust_From_Cameroon_To_Central_African_Republic_Preliminary_Results_For_A_Better_Understanding_Of_The_Origin_Of_T)  
+   Link: <a href="https://www.researchgate.net/publication/350585450_Crustal_Thickness_Depth_To_The_Bottom_Of_Magnetic_Sources_And_Thermal_Structure_Of_The_Crust_From_Cameroon_To_Central_African_Republic_Preliminary_Results_For_A_Better_Understanding_Of_The_Origin_Of_T" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350585450_Crustal_Thickness_Depth_To_The_Bottom_Of_Magnetic_Sources_And_Thermal_Structure_Of_The_Crust_From_Cameroon_To_Central_African_Republic_Preliminary_Results_For_A_Better_Understanding_Of_The_Origin_Of_T</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Results For A Better Understanding Of The Origin Of The Bangui Magnetic Anomaly | Request PDFCRUSTAL THICKNESS, DEPTH TO THE...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/a-giant-magnetic-anomaly-beneath-earths-surface-has-been-mapped-with-incredible-detail-82490](https://www.iflscience.com/a-giant-magnetic-anomaly-beneath-earths-surface-has-been-mapped-with-incredible-detail-82490)  
+   Link: <a href="https://www.iflscience.com/a-giant-magnetic-anomaly-beneath-earths-surface-has-been-mapped-with-incredible-detail-82490" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/a-giant-magnetic-anomaly-beneath-earths-surface-has-been-mapped-with-incredible-detail-82490</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database. vault icon · There&#x27;s A Rare Brain &quot;Glitch&quot; That Turns People Into Obsessive...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/1977oobm.rept.....M/abstract](https://ui.adsabs.harvard.edu/abs/1977oobm.rept.....M/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1977oobm.rept.....M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1977oobm.rept.....M/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the origin of the Bangui magnetic anomaly, central...by BD Marsh · 1977 · Cited by 3 — They named this anomaly the Bangui magnetic anoma...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: tandfonline.com  
    Title: Full article: The origin of Bangui magnetic anomaly  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/14432471.2022.2035519](https://www.tandfonline.com/doi/abs/10.1080/14432471.2022.2035519)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14432471.2022.2035519" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14432471.2022.2035519</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>one of the largest magnetic anomalies in the worldFebruary 25, 2022 — THE ORIGIN OF BANGUI MAGNETIC ANOMALY - ONE OF THE LARGEST MAGNETIC...</p></details>
    Published: February 25, 2022  
 
 26. <a id="endnote-26"></a>
    Source: tandfonline.com  
    Title: Full article: The origin of Bangui magnetic anomaly  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14432471.2022.2035519](https://www.tandfonline.com/doi/full/10.1080/14432471.2022.2035519)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14432471.2022.2035519" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14432471.2022.2035519</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>one of the largest magnetic anomalies in the worldFebruary 25, 2022 — THE ORIGIN OF BANGUI MAGNETIC ANOMALY - ONE OF THE LARGEST MAGNETIC...</p></details>
    Published: February 25, 2022  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gNWNKsqXSqY](https://www.youtube.com/watch?v=gNWNKsqXSqY)  
+   Link: <a href="https://www.youtube.com/watch?v=gNWNKsqXSqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gNWNKsqXSqY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scribd.com  
    Title: 4chan Bermuda Triangle OSINT  
-   Link: [https://www.scribd.com/document/832121800/4chan-Bermuda-Triangle-OSINT](https://www.scribd.com/document/832121800/4chan-Bermuda-Triangle-OSINT)  
+   Link: <a href="https://www.scribd.com/document/832121800/4chan-Bermuda-Triangle-OSINT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/832121800/4chan-Bermuda-Triangle-OSINT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4chan&#x27;s Bermuda Triangle UFO Leak Analysis | PDFMeaning that an anomalous reading in one area, has an inter-related cascading affect on the...</p></details>

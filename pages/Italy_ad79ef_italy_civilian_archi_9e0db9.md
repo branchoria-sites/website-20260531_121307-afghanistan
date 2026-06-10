@@ -245,7 +245,7 @@ next_link:
   permalink: /landmark-cases/
   short_title: Landmark Cases
   heading_title: Which Italian UFO Cases Define the Evidence Spectrum?
-date: '2026-06-09 01:33:42 '
+date: '2026-06-10 01:59:19 '
 header:
   og_image: /assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-1-social.jpg
   preview_image: /assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-1.webp
@@ -254,17 +254,17 @@ image: /assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-1-so
 
 ## Introduction
 
-[Italy]({{ 'what-makes-italys-ufo-record-unique-and/' | relative_url }})’s UFO record is not preserved only by the military or by newspaper archives. Much of the country’s long-term documentation, case reconstruction and critical analysis has been carried out by civilian researchers who built independent archives decades before governments began releasing UFO material online. These organisations do more than collect reports. They compare witness statements, track media distortions, identify recurring misinterpretations and challenge claims that become popular without strong evidence.
+Italy’s UFO record is not preserved only by the military or by newspaper archives. Much of the country’s long-term documentation, case reconstruction and critical analysis has been carried out by civilian researchers who built independent archives decades before governments began releasing UFO material online. These organisations do more than collect reports. They compare witness statements, track media distortions, identify recurring misinterpretations and challenge claims that become popular without strong evidence.
 
 
 <img src="{{ "/assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most influential example is the Italian Center for UFO Studies, known as CISU, which has spent decades assembling one of Europe’s largest national UFO documentation collections. Alongside it, the Centro Ufologico Nazionale (CUN) developed a different model that combined public advocacy, investigations and cooperation with media and institutions. The contrast between these groups helps explain why Italian UFO research contains both highly sceptical case reviews and some of the country’s most controversial extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">EuroUFOTag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
+The most influential example is the Italian Center for UFO Studies, known as CISU, which has spent decades assembling one of Europe’s largest national UFO documentation collections. Alongside it, the Centro Ufologico Nazionale (CUN) developed a different model that combined public advocacy, investigations and cooperation with media and institutions. The contrast between these groups helps explain why Italian UFO research contains both highly sceptical case reviews and some of the country’s most controversial extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">Tag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
 
 ## Why Civilian Archives Matter More Than Official Files Alone
 
 The Italian Air Force archive is important, but it represents only a fraction of Italy’s UFO history. [Official records]({{ 'official-records-01b272/' | relative_url }}) generally begin with reports submitted through formal channels and are filtered through aviation and security concerns. Civilian archives preserve a much wider ecosystem of evidence: local newspapers, private correspondence, investigator notes, photographs, witness interviews, television coverage, regional folklore and later corrections.
 
-CISU describes its archive as a systematic collection of Italian UFO documentation that includes investigation reports, press clippings, books, journals, audio recordings, video material and cultural artefacts connected to UFO history. Researchers associated with the organisation have stated that the archive contains documentation on more than 15,000 Italian cases and tens of thousands of supporting sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">EuroUFOTag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
+CISU describes its archive as a systematic collection of Italian UFO documentation that includes investigation reports, press clippings, books, journals, audio recordings, video material and cultural artefacts connected to UFO history. Researchers associated with the organisation have stated that the archive contains documentation on more than 15,000 Italian cases and tens of thousands of supporting sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">Tag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
 
 This broader record is especially important for Italy because many significant sightings occurred during local waves of reporting in the 1950s, 1970s and 1980s. Newspaper stories often circulated long before any official investigation existed. Without civilian preservation efforts, many reports would survive only as fragmented references.
 
@@ -282,13 +282,13 @@ Several features distinguish the CISU approach:
 * **Source accumulation rather than single-case promotion.** Reports are placed into broader statistical and historical catalogues.
 * **Case-file reconstruction.** Investigators gather original newspaper articles, witness statements and subsequent commentary to track how narratives developed.
 * **Identification work.** Cases are not preserved merely as mysteries; identified explanations are retained alongside unresolved reports.
-* **Bibliographic preservation.** The organisation has invested heavily in cataloguing Italian UFO literature, periodicals and investigative publications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/2352/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">AFUA visit to CISU archives in Torino (Italy)The UPIAR publications included a 2010 edition of the bibliography on the ufo-related Italia...</span></span></span>
+* **Bibliographic preservation.** The organisation has invested heavily in cataloguing Italian UFO literature, periodicals and investigative publications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/2352/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">A visit to CISU archives in Torino (Italy)The UPIAR publications included a 2010 edition of the bibliography on the ufo-related Italia...</span></span></span>
 
 </div>
 
 This emphasis on documentation has made CISU valuable even for researchers who remain sceptical of UFO claims. A well-maintained archive allows later investigators to revisit evidence rather than rely on retellings that may have accumulated errors over decades.
 
-The scale of this work becomes especially clear in studies of major reporting waves. CISU researchers have noted that the national catalogue includes roughly 1,800 reports associated with the intense 1978 Italian UFO wave, with archive folders preserving the available documentation for each case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">EuroUFOTag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
+The scale of this work becomes especially clear in studies of major reporting waves. CISU researchers have noted that the national catalogue includes roughly 1,800 reports associated with the intense 1978 Italian UFO wave, with archive folders preserving the available documentation for each case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">Tag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PT164VTzNik" title="UFO Hunters of Italy | Mass Sightings and Real Testimonies | UFO Hunters: The Italian Ufologists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PT164VTzNik" target="_blank" rel="noopener noreferrer">UFO Hunters of Italy | Mass Sightings and Real Testimonies | UFO Hunters: The Italian Ufologists</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 6.3K &middot; Uploaded: July 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PT164VTzNik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PT164VTzNik">Open on YouTube</a></p></div></div></div>
@@ -299,7 +299,7 @@ Italian civilian ufology is often discussed as if it were a single movement, but
 
 The Centro Ufologico Nazionale, or CUN, became one of Italy’s best-known UFO organisations and frequently occupied a public-facing role. It was active in conferences, media appearances and interactions with institutions. CUN has highlighted its role in obtaining military UFO documentation and publicising official records. The organisation has argued that cooperation with authorities helped make military files available to civilian researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.centroufologiconazionale.net/documenti/smu8/comstm01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionalePRESSIn 1978 CUN recived officially for the Italian Ministry of Defence the first military dossier of UFO cases...</span></span></span>
 
-CISU, by contrast, became associated with a more research-centred and often more sceptical methodology. While its members did not reject the possibility of genuinely unexplained phenomena, many CISU publications focused on source criticism, archival verification and identifying weaknesses in dramatic claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">EuroUFOTag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
+CISU, by contrast, became associated with a more research-centred and often more sceptical methodology. While its members did not reject the possibility of genuinely unexplained phenomena, many CISU publications focused on source criticism, archival verification and identifying weaknesses in dramatic claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">Tag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
 
 The difference is not absolute. Both organisations investigated sightings and preserved records. Yet their contrasting styles became especially visible when controversial historical narratives entered Italian UFO culture.
 
@@ -311,9 +311,9 @@ According to a story promoted by some UFO researchers, a secret Fascist-era body
 
 Within Italy, however, the claim produced intense disagreement.
 
-Researchers associated with CISU, particularly Giuseppe Stilo, published detailed critiques examining the archival basis of the alleged documents. Their analysis focused not on whether unusual aerial observations occurred during the Fascist period, but on whether the supposed crash narrative was supported by authentic documentary evidence. They questioned the provenance, interpretation and reliability of several frequently cited materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
+Researchers associated with CISU, particularly Giuseppe Stilo, published detailed critiques examining the archival basis of the alleged documents. Their analysis focused not on whether unusual aerial observations occurred during the Fascist period, but on whether the supposed crash narrative was supported by authentic documentary evidence. They questioned the provenance, interpretation and reliability of several frequently cited materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
 
-A recurring CISU argument was that genuine historical records concerning unidentified aircraft alerts, military reporting and air-defence concerns had been woven together with later UFO interpretations. The existence of wartime or pre-war reports of unknown aircraft did not automatically validate claims of a recovered extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
+A recurring CISU argument was that genuine historical records concerning unidentified aircraft alerts, military reporting and air-defence concerns had been woven together with later UFO interpretations. The existence of wartime or pre-war reports of unknown aircraft did not automatically validate claims of a recovered extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
 
 This dispute illustrates a broader feature of Italian civilian research. Archives are not only used to preserve stories; they are also used to challenge them. In many cases, the most important contribution of an archive is showing where a popular narrative exceeds the available evidence.
 
@@ -339,7 +339,7 @@ Researchers working from archived material typically examine:
 
 </div>
 
-This approach has been particularly important for cases from the late 1970s UFO wave, when public interest was intense and media coverage could rapidly amplify dramatic interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
+This approach has been particularly important for cases from the late 1970s UFO wave, when public interest was intense and media coverage could rapidly amplify dramatic interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
 
 The result is not always a conventional explanation. Some reports remain unresolved because evidence is incomplete. However, critical reconstruction often narrows the range of plausible interpretations and reveals how uncertainty became transformed into certainty in later retellings.
 
@@ -354,7 +354,7 @@ Objects that seemed mysterious in one decade may become easier to identify later
 
 This retrospective analysis helps prevent the archive from becoming a museum of permanent mysteries. Instead, the archive functions as a working database in which cases can move between categories as new information emerges.
 
-CISU publications and presentations have repeatedly stressed statistical and classificatory approaches, examining patterns across large datasets rather than focusing exclusively on spectacular incidents. Research presented by CISU figures has included analysis of physical-effect reports, pilot sightings and long-term Italian reporting trends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
+CISU publications and presentations have repeatedly stressed statistical and classificatory approaches, examining patterns across large datasets rather than focusing exclusively on spectacular incidents. Research presented by CISU figures has included analysis of physical-effect reports, pilot sightings and long-term Italian reporting trends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[cisu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</span></span></span> - Centro Italiano Studi Ufologici
 
 That distinction matters because a catalogue of unresolved cases is not the same thing as a catalogue of alien spacecraft. Critical Italian researchers generally treat “unidentified” as a description of the current evidential state rather than proof of a specific explanation.
 
@@ -363,96 +363,54 @@ That distinction matters because a catalogue of unresolved cases is not the same
 
 ## The Value and Limits of Italy’s Civilian UFO Record
 
-Italy possesses one of the richer civilian UFO archives in Europe, largely because organisations and researchers spent decades preserving material that governments often ignored. The result is a layered historical record extending far beyond official military files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">EuroUFOTag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
+Italy possesses one of the richer civilian UFO archives in Europe, largely because organisations and researchers spent decades preserving material that governments often ignored. The result is a layered historical record extending far beyond official military files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-snippet">Tag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</span></span></span>
 
 At the same time, the archives reveal why caution is necessary. Large numbers of reports do not automatically produce strong evidence for extraordinary claims. Many files contain incomplete testimony, contradictory recollections or information that cannot be independently verified decades later.
 
-The most enduring contribution of Italian civilian research may therefore be methodological rather than sensational. Organisations such as CISU demonstrated that UFO history can be studied through documentation, source criticism and archival reconstruction, while debates involving CUN and other groups show how interpretations diverge when evidence is ambiguous. Together they have created a record that preserves both Italy’s unexplained sightings and the arguments about what those sightings actually mean. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/fr/articles/id/3254/40-years-of-cisu-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">UAP Check40 Years of CISU in Italy</span><span class="citation-popover-snippet">UAP CheckOn December 15, 1985, the Italian Center for UFO Studies (CISU) was officially founded, and has thus celebrated its fortieth ann...</span><span class="citation-popover-meta">Published: December 15, 1985</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/ufology-in-the-1970s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">ufology in the 1970s</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciUFOLOGY IN THE 1970sIn the mid-1970s, there were about 600 groups listed in the pages of GdM that c...</span></span></span>
+The most enduring contribution of Italian civilian research may therefore be methodological rather than sensational. Organisations such as CISU demonstrated that UFO history can be studied through documentation, source criticism and archival reconstruction, while debates involving CUN and other groups show how interpretations diverge when evidence is ambiguous. Together they have created a record that preserves both Italy’s unexplained sightings and the arguments about what those sightings actually mean. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/fr/articles/id/3254/40-years-of-cisu-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">UAP Check40 Years of CISU in Italy</span><span class="citation-popover-snippet">UAP CheckOn December 15, 1985, the Italian Center for UFO Studies (CISU) was officially founded, and has thus celebrated its fortieth ann...</span><span class="citation-popover-meta">Published: December 15, 1985</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/ufology-in-the-1970s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">ufology in the 1970s</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciUFOLOGY IN THE 1970sIn the mid-1970s, there were about 600 groups listed in the pages of GdM that c...</span></span></span>
 
 
 <img src="{{ "/assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-3-dark.svg" | relative_url }}" alt="Civilian Archives illustration 3" data-theme-src-dark="{{ "/assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Italy_ad79ef_italy_civilian_archi_9e0db9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Civilian Archives Capture Italyâ€™s UFO History and Debate?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Civilian Archives Capture Italy’s UFO History and Debate?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Strong match for archive-building, folklore, and historical analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides methodology for evaluating reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Shows how historical records are compiled and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Relevant to civilian documentation and case reconstruction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -486,75 +444,71 @@ The most enduring contribution of Italian civilian research may therefore be met
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-archives-how-civilian-archives-capture-italy-s-ufo-history-and-debate-italy-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -768,156 +722,156 @@ The most enduring contribution of Italian civilian research may therefore be met
 
 1. <a id="endnote-1"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/2011/12/24/cisu/](https://www.euroufo.net/2011/12/24/cisu/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EuroUFOCISU24 Dec 2011 — CISU Archives systematically collect all and any Italian documentation and source about UFO phenomena and ufolog...</p></details>
+   Link: <a href="https://www.euroufo.net/2011/12/24/cisu/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/2011/12/24/cisu/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISU24 Dec 2011 — CISU Archives systematically collect all and any Italian documentation and source about UFO phenomena and ufolog...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/2352/](https://www.afu.se/2352/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFUA visit to CISU archives in Torino (Italy)The UPIAR publications included a 2010 edition of the bibliography on the ufo-related Italia...</p></details>
+   Link: <a href="https://www.afu.se/2352/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/2352/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A visit to CISU archives in Torino (Italy)The UPIAR publications included a 2010 edition of the bibliography on the ufo-related Italia...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cisu.org  
    Title: ufology in the 1970s  
-   Link: [https://www.cisu.org/ufology-in-the-1970s/](https://www.cisu.org/ufology-in-the-1970s/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISU - Centro Italiano Studi UfologiciUFOLOGY IN THE 1970sIn the mid-1970s, there were about 600 groups listed in the pages of GdM that c...</p></details>
+   Link: <a href="https://www.cisu.org/ufology-in-the-1970s/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/ufology-in-the-1970s/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciUFOLOGY IN THE 1970sIn the mid-1970s, there were about 600 groups listed in the pages of GdM that c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/tag/1978/](https://www.euroufo.net/tag/1978/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EuroUFOTag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</p></details>
+   Link: <a href="https://www.euroufo.net/tag/1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/1978/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archives: 197825 Nov 2018 —... UFO sighting case histories. The national catalog of Italian UFO sightings currently includes...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cisu.org  
-   Link: [https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/](https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</p></details>
+   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISUA detailed critical analysis of some as...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cisu.org  
    Title: Centro Italiano Studi Ufologici Fascist UFO Files?  
-   Link: [https://www.cisu.org/fascist-ufo-files-no-thank-you/](https://www.cisu.org/fascist-ufo-files-no-thank-you/)  
+   Link: <a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, thank you!134-144 of the book Lissoni mentions a long series of phonograms received by the prefecture of Milan between 1933 and 1937...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cisu.org  
-   Link: [https://www.cisu.org/wp-content/uploads/2024/04/RussoEdoardo-EUP-presentation-4d.pdf](https://www.cisu.org/wp-content/uploads/2024/04/RussoEdoardo-EUP-presentation-4d.pdf)  
+   Link: <a href="https://www.cisu.org/wp-content/uploads/2024/04/RussoEdoardo-EUP-presentation-4d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2024/04/RussoEdoardo-EUP-presentation-4d.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Effects. 626. 2,2%. Pilot reports. 334. 1... Italian UFO reports”, CISU, Roma, 2022. For radar detection reports: Paolo...Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/tag/italy/](https://www.euroufo.net/tag/italy/)  
+   Link: <a href="https://www.euroufo.net/tag/italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/italy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ItalyFor the first time, the world&#x27;s largest civilian UFO organisation, MUFON has agreed to share its European data with EuroUfo.Net. Thi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu2/wp-content/uploads/2012/11/AFU_2008_52.pdf](https://www.afu.se/afu2/wp-content/uploads/2012/11/AFU_2008_52.pdf)  
+   Link: <a href="https://www.afu.se/afu2/wp-content/uploads/2012/11/AFU_2008_52.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/wp-content/uploads/2012/11/AFU_2008_52.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFU NewsletterUFO cases from Italy, like those from Sweden, and other parts of the world... UFO archive, most of which has now been put...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/jufoh/jufoh.pdf](https://archive.org/download/jufoh/jufoh.pdf)  
+   Link: <a href="https://archive.org/download/jufoh/jufoh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/jufoh/jufoh.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: uapcheck.com  
    Title: UAP Check40 Years of CISU in Italy  
-   Link: [https://www.uapcheck.com/fr/articles/id/3254/40-years-of-cisu-in-italy/](https://www.uapcheck.com/fr/articles/id/3254/40-years-of-cisu-in-italy/)  
+   Link: <a href="https://www.uapcheck.com/fr/articles/id/3254/40-years-of-cisu-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/fr/articles/id/3254/40-years-of-cisu-in-italy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP CheckOn December 15, 1985, the Italian Center for UFO Studies (CISU) was officially founded, and has thus celebrated its fortieth ann...</p></details>
    Published: December 15, 1985  
 
 13. <a id="endnote-13"></a>
    Source: centroufologiconazionale.net  
-   Link: [https://www.centroufologiconazionale.net/documenti/smu8/comstm01.htm](https://www.centroufologiconazionale.net/documenti/smu8/comstm01.htm)  
+   Link: <a href="https://www.centroufologiconazionale.net/documenti/smu8/comstm01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/smu8/comstm01.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Ufologico NazionalePRESSIn 1978 CUN recived officially for the Italian Ministry of Defence the first military dossier of UFO cases...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: wantedinrome.com  
    Title: Wanted in Rome The Secret Crash That Predated Roswell: Mussolini's UFO Files  
-   Link: [https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html](https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html)  
+   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO FilesMarch 2, 2026 — In one instance, an Italian fighter plane inte...</p></details>
    Published: March 2, 2026  
 
 15. <a id="endnote-15"></a>
    Source: theaviationist.com  
-   Link: [https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/](https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/)  
+   Link: <a href="https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2021/03/26/blurred-photo-of-weird-objects-flying-over-italy-fuels-crazy-ufo-theories-but-it-was-just-the-frecce-tricolori/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistBlurred Photo Of &quot;Weird Objects&quot; Flying Over Italy Fuels...26 Mar 2021 — A photo of the Frecce Tricolori accompanied by t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: centroufologiconazionale.net  
-   Link: [https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf](https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf)  
+   Link: <a href="https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>state-of-the-art in ufo disclosure worldwideIn its preparation phase, the attached template has received invaluable cooperation from the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: centroufologiconazionale.net  
-   Link: [https://www.centroufologiconazionale.net/documenti/CCP1v03-EN.pdf](https://www.centroufologiconazionale.net/documenti/CCP1v03-EN.pdf)  
+   Link: <a href="https://www.centroufologiconazionale.net/documenti/CCP1v03-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/CCP1v03-EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROTOCOLS«UFO » (from Unidentified Flying Objects) A mysterious object seen in the... the Centro Ufologico Nazionale (C.U.N.) of Italy a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: uapcheck.com  
-   Link: [https://www.uapcheck.com/news/uapcheck/](https://www.uapcheck.com/news/uapcheck/)  
+   Link: <a href="https://www.uapcheck.com/news/uapcheck/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/uapcheck/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Check NewsThe German UFO reporting center CENAP recorded a new high last year: 1,348 reports.... 40 Years Of Cisu In Italy. On Decem...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: iris.unica.it  
-   Link: [https://iris.unica.it/retrieve/90d96819-18e2-4105-a5aa-dca77b0a77a0/Carbone%20%E2%80%93%C2%A0RAC%20Paper.pdf](https://iris.unica.it/retrieve/90d96819-18e2-4105-a5aa-dca77b0a77a0/Carbone%20%E2%80%93%C2%A0RAC%20Paper.pdf)  
+   Link: <a href="https://iris.unica.it/retrieve/90d96819-18e2-4105-a5aa-dca77b0a77a0/Carbone%20%E2%80%93%C2%A0RAC%20Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unica.it/retrieve/90d96819-18e2-4105-a5aa-dca77b0a77a0/Carbone%20%E2%80%93%C2%A0RAC%20Paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy Leaked Footage _RAC Draft 2by MB Carbone — Aliens may represent cosmological, epistemic, gender and ethnic trouble: Goode (1996)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: in 1979 one of the most intriguing ufo encounters in european history was record  
-   Link: [https://www.facebook.com/ancientwhispers/posts/in-1979-one-of-the-most-intriguing-ufo-encounters-in-european-history-was-record/849727778046645/](https://www.facebook.com/ancientwhispers/posts/in-1979-one-of-the-most-intriguing-ufo-encounters-in-european-history-was-record/849727778046645/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/in-1979-one-of-the-most-intriguing-ufo-encounters-in-european-history-was-record/849727778046645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-1979-one-of-the-most-intriguing-ufo-encounters-in-european-history-was-record/849727778046645/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1979, one of the most intriguing UFO encounters in European...January 8, 2026 — In 1979, one of the most intriguing UFO encounters in...</p></details>
    Published: January 8, 2026  
 
 21. <a id="endnote-21"></a>
    Source: alienuap.com  
    Title: nearly 1 000 ufo sightings mapped in italy as new puglia database goes public.14  
-   Link: [https://alienuap.com/sightings/nearly-1-000-ufo-sightings-mapped-in-italy-as-new-puglia-database-goes-public.14/](https://alienuap.com/sightings/nearly-1-000-ufo-sightings-mapped-in-italy-as-new-puglia-database-goes-public.14/)  
+   Link: <a href="https://alienuap.com/sightings/nearly-1-000-ufo-sightings-mapped-in-italy-as-new-puglia-database-goes-public.14/" target="_blank" rel="noopener noreferrer nofollow">https://alienuap.com/sightings/nearly-1-000-ufo-sightings-mapped-in-italy-as-new-puglia-database-goes-public.14/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly 1,000 UFO Sightings Mapped in Italy as New Puglia...26 Feb 2026 — A newly released online database has cataloged nearly 1,000 UFO...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PT164VTzNik](https://www.youtube.com/watch?v=PT164VTzNik)  
+   Link: <a href="https://www.youtube.com/watch?v=PT164VTzNik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PT164VTzNik</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters of Italy | Mass Sightings and Real Testimonies...We go to the places of the sightings to personally interview people and car...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xUTbiWF_vqI](https://www.youtube.com/watch?v=xUTbiWF_vqI)  
+   Link: <a href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xUTbiWF_vqI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo: 445 avvistamenti ufficiali in ItaliaResi noti i dati sugli avvistamenti &quot;ufficiali&quot; di Ufo in Italia, registrati dall&#x27;Aeronautica mi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, and UFO when dealing with more historical ones, although they will be largely...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
    Title: Cigar Shaped UFO Photographed and Pursued by Italian Air Force  
-   Link: [https://www.reddit.com/r/UFOs/comments/ni2iyf/cigar_shaped_ufo_photographed_and_pursued_by/](https://www.reddit.com/r/UFOs/comments/ni2iyf/cigar_shaped_ufo_photographed_and_pursued_by/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ni2iyf/cigar_shaped_ufo_photographed_and_pursued_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ni2iyf/cigar_shaped_ufo_photographed_and_pursued_by/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2021 — Cigar Shaped UFO Photographed and Pursued by Italian Air Force over Sant&#x27;Angelo Airport in 1979. [Story in comments]...</p></details>
    Published: May 21, 2021  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
    Title: david grusch was right new evidence confirms  
-   Link: [https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/](https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Was Right: New Evidence Confirms...The 1933 UFO Incident: A Well-Kept Secret · In 1933 an UFO allegedly crashed in Italy an...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: italicsmag.com  
    Title: UF Os Over Italy: A History In Discs  
-   Link: [https://italicsmag.com/2021/06/07/ufo-over-italy-a-history-in-discs/](https://italicsmag.com/2021/06/07/ufo-over-italy-a-history-in-discs/)  
+   Link: <a href="https://italicsmag.com/2021/06/07/ufo-over-italy-a-history-in-discs/" target="_blank" rel="noopener noreferrer nofollow">https://italicsmag.com/2021/06/07/ufo-over-italy-a-history-in-discs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Italy: A History In Discs - Italics MagazineJune 7, 2021 — Italy has had a surprisingly active history of UFO sightings, someho...</p></details>
    Published: June 7, 2021  
 
 28. <a id="endnote-28"></a>
    Source: xaluannews.com  
-   Link: [https://www.xaluannews.com/modules.php?file=article&name=News&sid=3179667](https://www.xaluannews.com/modules.php?file=article&name=News&sid=3179667)  
+   Link: <a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3179667" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3179667</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Case of Maresciallo Cecconi – June 18, 1979 - Xã LuậnDecember 6, 2021 — Today we present a historical case of the Italian UFO cas...</p></details>
    Published: June 18, 1979  

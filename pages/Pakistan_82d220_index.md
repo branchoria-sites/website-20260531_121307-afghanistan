@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pakistan-82d220-index/
 description: Focused pages that expand on What Do Pakistan's UFO Cases Really Show?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Pakistan_82d220
 parent_title: What Do Pakistan's UFO Cases Really Show?

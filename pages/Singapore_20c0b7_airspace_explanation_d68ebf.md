@@ -239,7 +239,7 @@ next_link:
   permalink: /geylang-balloon/
   short_title: Geylang Balloon
   heading_title: Singapore's Classic UFO Scare Was a Balloon
-date: '2026-06-09 01:39:59 '
+date: '2026-06-10 02:07:03 '
 header:
   og_image: /assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-
 
 ## Introduction
 
-[Singapore]({{ 'what-singapore-ufo-sightings-really-show/' | relative_url }}) produces a particular kind of UFO report: bright lights, hovering points, glowing spheres and unusual objects seen above one of the busiest and most tightly managed airspaces in Asia. Unlike countries with vast rural skies, Singapore combines dense urban observation, major airports, industrial lighting, military activity, weather-monitoring infrastructure and a rapidly growing drone sector within a very small geographic area. That combination means many apparently mysterious sightings can be traced to identifiable airspace activity once location, timing and viewing angle are examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caas.gov.sg/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caas.gov.sg">[Civil Aviation Authority of Singapore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caas.gov.sg</span><span class="citation-popover-snippet">No-fly zones and UA flying areas. Learn about the no...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mot.gov.sg/what-we-do/aviation/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mot.gov.sg">[Ministry of Transport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mot.gov.sg</span><span class="citation-popover-title">Ministry of Transport Unmanned aircraft</span><span class="citation-popover-snippet">Ministry of TransportUnmanned aircraft - Singapore - Ministry of TransportTogether with the Civil Aviation Authority of Singapore (CAAS)...</span></span></span>
+Singapore produces a particular kind of UFO report: bright lights, hovering points, glowing spheres and unusual objects seen above one of the busiest and most tightly managed airspaces in Asia. Unlike countries with vast rural skies, Singapore combines dense urban observation, major airports, industrial lighting, military activity, weather-monitoring infrastructure and a rapidly growing drone sector within a very small geographic area. That combination means many apparently mysterious sightings can be traced to identifiable airspace activity once location, timing and viewing angle are examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caas.gov.sg/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caas.gov.sg">[Civil Aviation Authority of Singapore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caas.gov.sg</span><span class="citation-popover-snippet">No-fly zones and UA flying areas. Learn about the no...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mot.gov.sg/what-we-do/aviation/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mot.gov.sg">[Ministry of Transport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mot.gov.sg</span><span class="citation-popover-title">Ministry of Transport Unmanned aircraft</span><span class="citation-popover-snippet">Ministry of TransportUnmanned aircraft - Singapore - Ministry of TransportTogether with the Civil Aviation Authority of Singapore (CAAS)...</span></span></span>
 
 
 <img src="{{ "/assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1-dark.svg" | relative_url }}" alt="Airspace Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -393,86 +393,44 @@ Weather balloons have been launching regularly since the early decades of Singap
 The result is not that every sighting has an immediate answer. Rather, Singapore demonstrates an important investigative principle: in a dense, technologically active airspace, the first question is usually not whether something extraordinary entered the sky, but whether ordinary aerial activity is being viewed from an unusual angle.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Singapore&#x27;s Airspace Creates UFO Confusion. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Singapore&#x27;s Airspace Creates UFO Confusion, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Includes pilot observations and aviation-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains observational errors caused by aircraft and viewing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Shows how advanced aircraft and aviation activity can appear mysterious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lou7f1tpERoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weather Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather Flying">Weather Flying</a>
-        </h4>
-        <p class="fr-book-author">By Robert Buck</p>
-        
-        <p class="fr-book-desc">Relevant to atmospheric conditions that create unusual sky appearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -506,75 +464,71 @@ The result is not that every sighting has an immediate answer. Rather, Singapore
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-clues-how-singapore-s-airspace-creates-ufo-confusion-singapore-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -788,129 +742,129 @@ The result is not that every sighting has an immediate answer. Rather, Singapore
 
 1. <a id="endnote-1"></a>
    Source: caas.gov.sg  
-   Link: [https://www.caas.gov.sg/unmanned-aircraft/](https://www.caas.gov.sg/unmanned-aircraft/)  
+   Link: <a href="https://www.caas.gov.sg/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.caas.gov.sg/unmanned-aircraft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No-fly zones and UA flying areas. Learn about the no...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mot.gov.sg  
    Title: Ministry of Transport Unmanned aircraft  
-   Link: [https://www.mot.gov.sg/what-we-do/aviation/unmanned-aircraft/](https://www.mot.gov.sg/what-we-do/aviation/unmanned-aircraft/)  
+   Link: <a href="https://www.mot.gov.sg/what-we-do/aviation/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.mot.gov.sg/what-we-do/aviation/unmanned-aircraft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of TransportUnmanned aircraft - Singapore - Ministry of TransportTogether with the Civil Aviation Authority of Singapore (CAAS)...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: weather.gov.sg  
    Title: Meteo Singapore Observing The Weather  
-   Link: [https://www.weather.gov.sg/learn_observations/](https://www.weather.gov.sg/learn_observations/)  
+   Link: <a href="https://www.weather.gov.sg/learn_observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.sg/learn_observations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteo SingaporeObserving The Weather - Weather Information PortalAs the balloon ascends into the atmosphere, the radiosonde measures the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteorological Service Singapore  
-   Link: [https://en.wikipedia.org/wiki/Meteorological_Service_Singapore](https://en.wikipedia.org/wiki/Meteorological_Service_Singapore)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteorological_Service_Singapore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorological_Service_Singapore</a>  
 
 5. <a id="endnote-5"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19541027 1  
-   Link: [https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1](https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1)  
+   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aim-sg.caas.gov.sg  
    Title: ENR 5.3 en GB  
-   Link: [https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD](https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD)  
+   Link: <a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>enr 5.3 other activities of a dangerous nature1.1 Balloons will be released for MET observation at: Upper Air Observatory (0120N 10353E)...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aim-sg.caas.gov.sg  
-   Link: [https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3](https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3)  
+   Link: <a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Research Operations, Upper Air Observatory (012025N 1035317E) twice daily at...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: gruan.org  
    Title: Upper Air Operations (Singapore)  
-   Link: [https://www.gruan.org/gruan/editor/documents/meetings/icm-9/pres/pres_0703_Whei_Singapore.pdf](https://www.gruan.org/gruan/editor/documents/meetings/icm-9/pres/pres_0703_Whei_Singapore.pdf)  
+   Link: <a href="https://www.gruan.org/gruan/editor/documents/meetings/icm-9/pres/pres_0703_Whei_Singapore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gruan.org/gruan/editor/documents/meetings/icm-9/pres/pres_0703_Whei_Singapore.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 13, 2017 — 9 Jun 2017 — • Radiosonde soundings started in Singapore in 1952. • The location for balloon release has been unchanged...</p></details>
    Published: June 13, 2017  
 
 9. <a id="endnote-9"></a>
    Source: ask.gov.sg  
-   Link: [https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm](https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm)  
+   Link: <a href="https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm" target="_blank" rel="noopener noreferrer nofollow">https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>You may also require basic training...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: trove.nla.gov.au  
-   Link: [https://trove.nla.gov.au/newspaper/article/65195838](https://trove.nla.gov.au/newspaper/article/65195838)  
+   Link: <a href="https://trove.nla.gov.au/newspaper/article/65195838" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/65195838</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SAUCER SCARE IN SINGAPORE &quot;NO LEG PULL&quot;SINGAPORE, September 5.—A flying saucer Kara swept Singapore last night. Several people reported t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19941211 1  
-   Link: [https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1](https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1)  
+   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 11 December 1994 - Singapore11 Dec 1994 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers pu...</p></details>
    Published: December 1994  
 
 12. <a id="endnote-12"></a>
    Source: straitstimes.com  
-   Link: [https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights](https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights)  
+   Link: <a href="https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits TimesHow balloons help Singapore weather forecasting soar to...As the balloon ascends, the radiosonde [records](&amp;#123;&amp;#123; &#x27;records-7bb423/&#x27; | relative_url &amp;#125;&amp;#125;) vital real-tim...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEASingapore/videos/weather-balloon/2263898117258803/](https://www.facebook.com/NEASingapore/videos/weather-balloon/2263898117258803/)  
+   Link: <a href="https://www.facebook.com/NEASingapore/videos/weather-balloon/2263898117258803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEASingapore/videos/weather-balloon/2263898117258803/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lloon twice daily, to gather near-real time atmospheric data...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: worksheets.codalab.org  
-   Link: [https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt](https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt)  
+   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... singapore speaking hopes leadership emergency declined treatment cabinet... flying abu minorit...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ivxE67vbCaM](https://www.youtube.com/watch?v=ivxE67vbCaM)  
+   Link: <a href="https://www.youtube.com/watch?v=ivxE67vbCaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ivxE67vbCaM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Ask MSS Episode 7: How does the weather balloon work?The balloon provides valuable data from the upper levels of the atmosphere thi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: adam.edu.sg  
    Title: a simple breakdown of drone laws licensing regulations  
-   Link: [https://adam.edu.sg/a-simple-breakdown-of-drone-laws-licensing-regulations/](https://adam.edu.sg/a-simple-breakdown-of-drone-laws-licensing-regulations/)  
+   Link: <a href="https://adam.edu.sg/a-simple-breakdown-of-drone-laws-licensing-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://adam.edu.sg/a-simple-breakdown-of-drone-laws-licensing-regulations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Simple Breakdown Of Drone Laws, Licensing &amp; Regulations14 Jul 2025 — Whether you&#x27;re a hobbyist or commercial flyer, this guide explains...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEASingapore/posts/-weather-balloons-are-essential-for-understanding-the-upper-atmosphere-released-/1011606831113732/](https://www.facebook.com/NEASingapore/posts/-weather-balloons-are-essential-for-understanding-the-upper-atmosphere-released-/1011606831113732/)  
+   Link: <a href="https://www.facebook.com/NEASingapore/posts/-weather-balloons-are-essential-for-understanding-the-upper-atmosphere-released-/1011606831113732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEASingapore/posts/-weather-balloons-are-essential-for-understanding-the-upper-atmosphere-released-/1011606831113732/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-air observations are handled by a network of designated offices...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: websail-fe.cs.northwestern.edu  
    Title: edubiennials Feijo BSDs Villalon woodi woods spiders  
-   Link: [https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt](https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt)  
+   Link: <a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1954-1958 1954-1959 53000 76750 9344 1954-1956 1954-1957 1954-1955... Meteorological Taxan Floyd dictator Zhukovsky Dyserth Pararajasing...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/droneflyingacademySG/posts/all-aerial-activities-including-the-flying-of-unmanned-aircraft-such-as-drones-a/968146335326082/](https://www.facebook.com/droneflyingacademySG/posts/all-aerial-activities-including-the-flying-of-unmanned-aircraft-such-as-drones-a/968146335326082/)  
+   Link: <a href="https://www.facebook.com/droneflyingacademySG/posts/all-aerial-activities-including-the-flying-of-unmanned-aircraft-such-as-drones-a/968146335326082/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/droneflyingacademySG/posts/all-aerial-activities-including-the-flying-of-unmanned-aircraft-such-as-drones-a/968146335326082/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in restricted zones without a proper permit is illegal and can...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DPxxOuHk1Dw/](https://www.instagram.com/reel/DPxxOuHk1Dw/)  
+   Link: <a href="https://www.instagram.com/reel/DPxxOuHk1Dw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPxxOuHk1Dw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a critical to tracking atmospheric changes and understanding long-term...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: data.ucar.edu  
    Title: singapore radiosonde l3 data  
-   Link: [https://data.ucar.edu/dataset/singapore-radiosonde-l3-data](https://data.ucar.edu/dataset/singapore-radiosonde-l3-data)  
+   Link: <a href="https://data.ucar.edu/dataset/singapore-radiosonde-l3-data" target="_blank" rel="noopener noreferrer nofollow">https://data.ucar.edu/dataset/singapore-radiosonde-l3-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde L3 Data - Dataset - DASH SearchThis data set includes 365 high vertical resolution (2 second) soundings from Singapore taken b...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fliphtml5.com  
    Title: Singapore Book Of Records  
-   Link: [https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/](https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/)  
+   Link: <a href="https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flipbook by jballegaThe Singapore Book of Records (SBOR) is a non-profit organisation established in 2005, primarily to compile and adjud...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: yeohongeng.blogspot.com  
-   Link: [https://yeohongeng.blogspot.com/2011/07/](https://yeohongeng.blogspot.com/2011/07/)  
+   Link: <a href="https://yeohongeng.blogspot.com/2011/07/" target="_blank" rel="noopener noreferrer nofollow">https://yeohongeng.blogspot.com/2011/07/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 201130 Jul 2011 — There were others who sold toys, fruits, ready-made cakes and balloons. There was a Malay family who frequently so...</p></details>

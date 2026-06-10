@@ -245,7 +245,7 @@ next_link:
   permalink: /war-sensors/
   short_title: War Sensors
   heading_title: Why War Zone Footage Looks So Strange
-date: '2026-06-09 01:09:27 '
+date: '2026-06-10 01:34:23 '
 header:
   og_image: /assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1-social.jpg
   preview_image: /assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1.webp
@@ -258,7 +258,7 @@ The so-called “Kandahar orb” videos occupy an unusual place in the wider [Af
 
 
 <img src="{{ "/assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1-dark.svg" | relative_url }}" alt="Orb Videos illustration 1" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That gap matters more than the imagery itself. Modern military cameras can make distant aircraft, balloons, glare, compression artefacts, or parallax effects appear extraordinary when stripped from their operational context. The central verification problem is therefore not whether a clip “looks strange”, but whether independent analysts can confirm where it came from, how it was recorded, what sensor was used, and whether the object’s apparent movement survives technical scrutiny. Publicly circulating Afghanistan orb clips usually fail at least one of those tests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[2bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn&#x27;t That A Balloon?</span><span class="citation-popover-snippet">Deflating a DoD UFO Video24 Oct 2023 — A closer look at the July 2022 footage of the UAP suggests a more banal explanation. It may just b...</span><span class="citation-popover-meta">Published: July 2022</span></span></span>
+That gap matters more than the imagery itself. Modern military cameras can make distant aircraft, balloons, glare, compression artefacts, or parallax effects appear extraordinary when stripped from their operational context. The central verification problem is therefore not whether a clip “looks strange”, but whether independent analysts can confirm where it came from, how it was recorded, what sensor was used, and whether the object’s apparent movement survives technical scrutiny. Publicly circulating Afghanistan orb clips usually fail at least one of those tests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[2bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn&#x27;t That A Balloon?</span><span class="citation-popover-snippet">Deflating a DoD UFO Video24 Oct 2023 — A closer look at the July 2022 footage of the UAP suggests a more banal explanation. It may just b...</span><span class="citation-popover-meta">Published: July 2022</span></span></span>
 
 ## What the Viral Clips Appear to Show
 
@@ -287,7 +287,7 @@ Some clips specifically labelled as “Kandahar orb” footage allegedly show:
 
 </div>
 
-The last category became especially viral after reposted footage claimed that a missile struck hovering objects over Afghanistan with “zero effect”. However, those versions circulated primarily through reposts, commentary channels, Reddit threads, and short-form social media edits rather than through authenticated government release pipelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Interviews Jeremy Corbell who says this</span><span class="citation-popover-snippet">RedditFull 10 minute video showing glowing multi-colored UAP orbs...November 16, 2024 — Full 10 minute video showing glowing multi-color...</span><span class="citation-popover-meta">Published: November 16, 2024</span></span></span>
+The last category became especially viral after reposted footage claimed that a missile struck hovering objects over Afghanistan with “zero effect”. However, those versions circulated primarily through reposts, commentary channels, Reddit threads, and short-form social media edits rather than through authenticated government release pipelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Interviews Jeremy Corbell who says this</span><span class="citation-popover-snippet">Full 10 minute video showing glowing multi-colored UAP orbs...November 16, 2024 — Full 10 minute video showing glowing multi-color...</span><span class="citation-popover-meta">Published: November 16, 2024</span></span></span>
 
 A major source of confusion is that many viewers collapse different incidents into one narrative. Footage from Syria, Iraq, the Persian Gulf, and Afghanistan is often merged together under generic labels such as “Middle East orb”, “Afghan orb”, or “Kandahar UFO”. By the time clips spread across TikTok, Instagram, Reddit, and YouTube, the original recording date and location are frequently detached from the file entirely.
 
@@ -327,12 +327,12 @@ Without those data, analysts cannot reliably determine an object's actual size, 
 
 </div>
 
-The Pentagon’s All-domain Anomaly Resolution Office has repeatedly stressed this exact issue in its public imagery archive. In several officially reviewed cases, objects initially presented as anomalous were later linked to commercial aircraft, balloons, or sensor artefacts after analysts obtained additional footage and telemetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office has repeatedly stressed this exact issue in its public imagery archive. In several officially reviewed cases, objects initially presented as anomalous were later linked to commercial aircraft, balloons, or sensor artefacts after analysts obtained additional footage and telemetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</span></span></span>
 
 That distinction is crucial. A short viral clip may be genuinely unresolved simply because too much contextual information is missing. “Unresolved” does not automatically mean extraordinary.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t-UgoLo-oV8" title="UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t-UgoLo-oV8" target="_blank" rel="noopener noreferrer">UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions</a></p><p class="youtube-embed-meta">Channel: VICE News &middot; Views: 382.6K &middot; Uploaded: May 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t-UgoLo-oV8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t-UgoLo-oV8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lKYWrakDclw" title="Disc-shaped UAP caught on camera by the military in 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer">Disc-shaped UAP caught on camera by the military in 2020</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.0M &middot; Uploaded: June 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lKYWrakDclw">Open on YouTube</a></p></div></div></div>
 
 ### No Independent Chain of Custody
 
@@ -397,7 +397,7 @@ This has happened repeatedly with MQ-9 drone footage discussed in congressional 
 Once reposted through short-form platforms, the location often becomes impossible to trace confidently. Users frequently attach the most recognisable conflict-zone label available, and “Afghanistan” carries strong associations with secrecy, military operations, and remote terrain.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lKYWrakDclw" title="Disc-shaped UAP caught on camera by the military in 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer">Disc-shaped UAP caught on camera by the military in 2020</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.0M &middot; Uploaded: June 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lKYWrakDclw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CFMRuMDNwKI" title="Pentagon declassified UFO footage shows mystery ‘metal orb’ moving eerily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer">Pentagon declassified UFO footage shows mystery ‘metal orb’ moving eerily</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 172.1K &middot; Uploaded: April 2023 &middot; Length: 1 minute 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CFMRuMDNwKI">Open on YouTube</a></p></div></div></div>
 
 ### Edited Clips Remove Context
 
@@ -435,12 +435,12 @@ Despite the uncertainty, several limited conclusions are reasonably supportable.
 
 ### Some Military-Linked Footage Is Genuine
 
-The U.S. government has publicly acknowledged and released certain UAP-related military videos from the broader Middle East and South Asia theatre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</span></span></span>
+The U.S. government has publicly acknowledged and released certain UAP-related military videos from the broader Middle East and South Asia theatre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</span></span></span>
 
 That means at least some circulating orb discussions are rooted in real operational imagery rather than complete fabrication.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CFMRuMDNwKI" title="Pentagon declassified UFO footage shows mystery ‘metal orb’ moving eerily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer">Pentagon declassified UFO footage shows mystery ‘metal orb’ moving eerily</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 172.1K &middot; Uploaded: April 2023 &middot; Length: 1 minute 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CFMRuMDNwKI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bqsYroxu0_U" title="Nasa releases footage of unidentifiable ‘spherical orb’ UFO flying through Middle East" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer">Nasa releases footage of unidentifiable ‘spherical orb’ UFO flying through Middle East</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 123.3K &middot; Uploaded: June 2023 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bqsYroxu0_U">Open on YouTube</a></p></div></div></div>
 
 ### “Genuine Footage” Is Not the Same as “Extraordinary Craft”
 
@@ -476,86 +476,44 @@ The case illustrates several broader realities:
 For Afghanistan specifically, the orb debate also reflects the country’s role as one of the most heavily surveilled war zones of the twenty-first century. Vast quantities of airborne imagery were recorded there, but only fragments entered public view. That imbalance guarantees continuing speculation whenever isolated clips emerge without the technical context needed to resolve them decisively.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can the Kandahar Orb Videos Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can the Kandahar Orb Videos Be Verified?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Addresses contemporary military footage and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Examines government handling of anomalous military imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating military-source claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps readers think critically about ambiguous visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -589,75 +547,71 @@ For Afghanistan specifically, the orb debate also reflects the country’s role 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster"><img src="{{ '/assets/images/marketplace-covers/a1da77a24c027e49baaa.jpg' | relative_url }}" alt="Listing image for Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor"><img src="{{ '/assets/images/marketplace-covers/1af931f6be19596240e0.jpg' | relative_url }}" alt="Listing image for Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-videos-can-the-kandahar-orb-videos-be-verified-afghanistan-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -871,128 +825,128 @@ For Afghanistan specifically, the orb debate also reflects the country’s role 
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAfter analysis of the full motion video, inclusion of additional footage with a longer focal length, and analysis of comme...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bellingcat.com  
    Title: Isn't That A Balloon?  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A closer look at the July 2022 footage of the UAP suggests a more banal explanation. It may just b...</p></details>
    Published: July 2022  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Interviews Jeremy Corbell who says this  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/](https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditFull 10 minute video showing glowing multi-colored UAP orbs...November 16, 2024 — Full 10 minute video showing glowing multi-color...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full 10 minute video showing glowing multi-colored UAP orbs...November 16, 2024 — Full 10 minute video showing glowing multi-color...</p></details>
    Published: November 16, 2024  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lKYWrakDclw](https://www.youtube.com/watch?v=lKYWrakDclw)  
+   Link: <a href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lKYWrakDclw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disc-shaped UAP caught on camera by the military in 2020Journalist and filmmaker Jeremy Corbell sits down to discuss footage he is sharin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CFMRuMDNwKI](https://www.youtube.com/watch?v=CFMRuMDNwKI)  
+   Link: <a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFMRuMDNwKI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassified UFO footage shows mystery &#x27;metal orb...NEW footage released from the Pentagon shows a UFO mystery &#x27;metal orb&#x27; movi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bqsYroxu0_U](https://www.youtube.com/watch?v=bqsYroxu0_U)  
+   Link: <a href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bqsYroxu0_U</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Files: All of the videos from latest Defense Department release...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DLRUDmHMLJE/?hl=en](https://www.instagram.com/reel/DLRUDmHMLJE/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DLRUDmHMLJE/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLRUDmHMLJE/?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video, shot in 2020, is now being made public by Jeremy &amp; @georgeknapp66...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQkoK9TiGra/](https://www.instagram.com/reel/DQkoK9TiGra/)  
+   Link: <a href="https://www.instagram.com/reel/DQkoK9TiGra/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQkoK9TiGra/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are they? #UFOs #Aliens #Afghanistan #Military #LeakedFootage #Conspiracy #...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
    Title: DUYanv gpe Q  
-   Link: [https://www.instagram.com/reel/DUYanv-gpeQ/](https://www.instagram.com/reel/DUYanv-gpeQ/)  
+   Link: <a href="https://www.instagram.com/reel/DUYanv-gpeQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUYanv-gpeQ/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: george webb series word frequency analysis  
-   Link: [https://www.reddit.com/r/TruthLeaks/wiki/george-webb-series-word-frequency-analysis/](https://www.reddit.com/r/TruthLeaks/wiki/george-webb-series-word-frequency-analysis/)  
+   Link: <a href="https://www.reddit.com/r/TruthLeaks/wiki/george-webb-series-word-frequency-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TruthLeaks/wiki/george-webb-series-word-frequency-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/TruthLeaks18 Jul 2017 — r/TruthLeaks: Open Source Investigations related to George Webb&#x27;s Thesis...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Every Pentagon UFO Video Explained  
-   Link: [https://www.youtube.com/watch?v=d_-yNBQfP84](https://www.youtube.com/watch?v=d_-yNBQfP84)  
+   Link: <a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_-yNBQfP84</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog  
-   Link: [https://www.youtube.com/watch?v=t-UgoLo-oV8](https://www.youtube.com/watch?v=t-UgoLo-oV8)  
+   Link: <a href="https://www.youtube.com/watch?v=t-UgoLo-oV8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t-UgoLo-oV8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon solves 1 UFO mystery but still probing cases of &quot;large orange orb&quot;...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Pentagon solves 1 UFO mystery but still probing cases of "large orange orb"  
-   Link: [https://www.youtube.com/watch?v=vVj4u_3-q2Y](https://www.youtube.com/watch?v=vVj4u_3-q2Y)  
+   Link: <a href="https://www.youtube.com/watch?v=vVj4u_3-q2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vVj4u_3-q2Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Briefs Reporters on UAP...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: AARO Director Briefs Reporters on UAP  
-   Link: [https://www.youtube.com/watch?v=J_rR80_n1t0](https://www.youtube.com/watch?v=J_rR80_n1t0)  
+   Link: <a href="https://www.youtube.com/watch?v=J_rR80_n1t0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_rR80_n1t0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon is investigating UAP...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: How the Pentagon is investigating UAP  
-   Link: [https://www.youtube.com/watch?v=Zz-c0s5Mh0o](https://www.youtube.com/watch?v=Zz-c0s5Mh0o)  
+   Link: <a href="https://www.youtube.com/watch?v=Zz-c0s5Mh0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zz-c0s5Mh0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The selection above provides expert analysis and official government perspectives on UAP imagery, which helps contextualize the challenge...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: singjupost.com  
    Title: military is  
-   Link: [https://singjupost.com/jeremy-corbell-on-shane-smith-has-questions-podcast-transcript/](https://singjupost.com/jeremy-corbell-on-shane-smith-has-questions-podcast-transcript/)  
+   Link: <a href="https://singjupost.com/jeremy-corbell-on-shane-smith-has-questions-podcast-transcript/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/jeremy-corbell-on-shane-smith-has-questions-podcast-transcript/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Singju PostJeremy Corbell on Shane Smith Has Questions Podcast...December 15, 2025 — 15 Dec 2025 — Brief Notes: Shane Smith sits dow...</p></details>
    Published: December 15, 2025  
 
 17. <a id="endnote-17"></a>
    Source: globalnews.ca  
    Title: pentagon ufo video flying orb  
-   Link: [https://globalnews.ca/news/9640141/pentagon-ufo-video-flying-orb/](https://globalnews.ca/news/9640141/pentagon-ufo-video-flying-orb/)  
+   Link: <a href="https://globalnews.ca/news/9640141/pentagon-ufo-video-flying-orb/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9640141/pentagon-ufo-video-flying-orb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon video shows mysterious flying orb, says 650...20 Apr 2023 — The Pentagon has released rare declassified footage of an Unidentif...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/](https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/)  
+   Link: <a href="https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force drone videos show unidentified flying objects (UFOs), now designated as Unidentified Anomalous Phenomena (UAPs), operating over...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: the-express.com  
    Title: ufo news direct hits zero effect swarm uaps hit missile new video  
-   Link: [https://www.the-express.com/news/weird-news/155044/ufo-news-direct-hits-zero-effect-swarm-uaps-hit-missile-new-video](https://www.the-express.com/news/weird-news/155044/ufo-news-direct-hits-zero-effect-swarm-uaps-hit-missile-new-video)  
+   Link: <a href="https://www.the-express.com/news/weird-news/155044/ufo-news-direct-hits-zero-effect-swarm-uaps-hit-missile-new-video" target="_blank" rel="noopener noreferrer nofollow">https://www.the-express.com/news/weird-news/155044/ufo-news-direct-hits-zero-effect-swarm-uaps-hit-missile-new-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Express USJaw-dropping video shows swarm of UFOs &#x27;completely...17 Nov 2024 — A jaw-dropping video shows the moment a swarm of UFOs...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: allarab.news  
    Title: us drone operating in middle east spots mysterious orb  
-   Link: [https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/](https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/)  
+   Link: <a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Apr 2023 — A “Reaper” drone, being operated in the Middle East by the US military, identified a strange “metallic orb” flying through...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: toppodcast.com  
    Title: Julian Dorey Podcast"PURE SPEC"  
-   Link: [https://toppodcast.com/podcast_feeds/julian-dorey-podcast/](https://toppodcast.com/podcast_feeds/julian-dorey-podcast/)  
+   Link: <a href="https://toppodcast.com/podcast_feeds/julian-dorey-podcast/" target="_blank" rel="noopener noreferrer nofollow">https://toppodcast.com/podcast_feeds/julian-dorey-podcast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JDP features diverse guests &amp; topics including: Wild Stories, Current Events, Geopolitics, True Crime, Society &amp; Culture, History...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  

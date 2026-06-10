@@ -245,7 +245,7 @@ next_link:
   permalink: /official-records-6d240c/
   short_title: Official Records
   heading_title: How Guinea’s Aviation Authority Handles UFO Reports
-date: '2026-06-09 01:28:26 '
+date: '2026-06-10 01:53:21 '
 header:
   og_image: /assets/images/Guinea_b47b54_kankan_ufo_cluster_176373-Illustration-1-social.jpg
   preview_image: /assets/images/Guinea_b47b54_kankan_ufo_cluster_176373-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Guinea_b47b54_kankan_ufo_cluster_176373-Illustration-1-soc
 
 ## Introduction
 
-The Kankan UFO cluster was the most significant concentration of unidentified aerial-object reports recorded in [Guinea]({{ 'what-do-ufo-reports-in-guinea-really/' | relative_url }}) during late 2024 and early 2025. Unlike vague stories about lights in the sky, the Kankan incidents involved physical recoveries on the ground: metallic and balloon-like devices found in rural areas near Kankan within days of one another. The events quickly spread across Guinean social media as supposed “satellites” or “UFOs”, but the most important question was not extraterrestrial origin. It was whether the recovered objects represented ordinary aerospace equipment, surveillance technology, scientific hardware, or something more unusual.
+The Kankan UFO cluster was the most significant concentration of unidentified aerial-object reports recorded in Guinea during late 2024 and early 2025. Unlike vague stories about lights in the sky, the Kankan incidents involved physical recoveries on the ground: metallic and balloon-like devices found in rural areas near Kankan within days of one another. The events quickly spread across Guinean social media as supposed “satellites” or “UFOs”, but the most important question was not extraterrestrial origin. It was whether the recovered objects represented ordinary aerospace equipment, surveillance technology, scientific hardware, or something more unusual.
 
 
 <img src="{{ "/assets/images/Guinea_b47b54_kankan_ufo_cluster_176373-Illustration-1-dark.svg" | relative_url }}" alt="Kankan Cluster illustration 1" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54_kankan_ufo_cluster_176373-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54_kankan_ufo_cluster_176373-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -320,7 +320,7 @@ At the same time, authorities reportedly avoided detailed public explanation dur
 
 ### A Second Recovery Changed the Story
 
-The cluster became more significant after reports of another recovered object emerged on 1 January 2025 in Farako, within the wider Kankan region. According to regional reporting, the second device was discovered in Bâté Loba district under Balandou. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/715719273906701/posts/996241392521153/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">GUINÉE info KANKANA-Un nouvel objet technologique volant, non</span><span class="citation-popover-snippet">FacebookGUINÉE info KANKANA-Un nouvel objet technologique volant, non...January 7, 2025 — GUINÉE info KANKANA-Un nouvel objet technologi...</span><span class="citation-popover-meta">Published: January 7, 2025</span></span></span>
+The cluster became more significant after reports of another recovered object emerged on 1 January 2025 in Farako, within the wider Kankan region. According to regional reporting, the second device was discovered in Bâté Loba district under Balandou. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/715719273906701/posts/996241392521153/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">GUINÉE info KANKANA-Un nouvel objet technologique volant, non</span><span class="citation-popover-snippet">GUINÉE info KANKANA-Un nouvel objet technologique volant, non...January 7, 2025 — GUINÉE info KANKANA-Un nouvel objet technologi...</span><span class="citation-popover-meta">Published: January 7, 2025</span></span></span>
 
 The timing mattered enormously. One unexplained recovery can be dismissed as an isolated accident. Two recoveries in the same region within days suggested either:
 
@@ -468,86 +468,44 @@ That distinction is essential. The Kankan cluster is not important because it pr
 Within the broader Guinea case record, it remains the clearest example of how unidentified aerial events in West Africa often emerge from the collision between limited technical identification, modern airborne technology, and rapidly spreading public speculation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Happened During the Kankan UFO Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Happened During the Kankan UFO Cluster?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides tools for classifying and assessing reported incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful for comparing physical recoveries with historical investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relevant to cases involving physical objects and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Adds context about advanced aerospace technologies and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -581,75 +539,71 @@ Within the broader Guinea case record, it remains the clearest example of how un
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kankan-cluster-what-happened-during-the-kankan-ufo-cluster-guinea-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -863,101 +817,101 @@ Within the broader Guinea case record, it remains the clearest example of how un
 
 1. <a id="endnote-1"></a>
    Source: foutanet.com  
-   Link: [https://www.foutanet.com/2025/01/15/guinee-que-sait-on-des-objets-volants-non-identifies-retrouves-dans-la-region-de-kankan/](https://www.foutanet.com/2025/01/15/guinee-que-sait-on-des-objets-volants-non-identifies-retrouves-dans-la-region-de-kankan/)  
+   Link: <a href="https://www.foutanet.com/2025/01/15/guinee-que-sait-on-des-objets-volants-non-identifies-retrouves-dans-la-region-de-kankan/" target="_blank" rel="noopener noreferrer nofollow">https://www.foutanet.com/2025/01/15/guinee-que-sait-on-des-objets-volants-non-identifies-retrouves-dans-la-region-de-kankan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guinée: que sait-on des &quot;objets volants non identifiés&quot;...15 Jan 2025 — Deux objets sont tombés du ciel dans la région de Kankan, en Gu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: GUINÉE info KANKANA-Un nouvel objet technologique volant, non  
-   Link: [https://www.facebook.com/groups/715719273906701/posts/996241392521153/](https://www.facebook.com/groups/715719273906701/posts/996241392521153/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookGUINÉE info KANKANA-Un nouvel objet technologique volant, non...January 7, 2025 — GUINÉE info KANKANA-Un nouvel objet technologi...</p></details>
+   Link: <a href="https://www.facebook.com/groups/715719273906701/posts/996241392521153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/715719273906701/posts/996241392521153/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GUINÉE info KANKANA-Un nouvel objet technologique volant, non...January 7, 2025 — GUINÉE info KANKANA-Un nouvel objet technologi...</p></details>
    Published: January 7, 2025  
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
    Title: GUI NÉE  
-   Link: [https://www.facebook.com/FRANCE24.Observateurs/posts/guin%C3%A9e-des-objets-volants-non-identifi%C3%A9s-ont-%C3%A9t%C3%A9-d%C3%A9couverts-au-sol-dans-la-r%C3%A9gio/1006926364794211/](https://www.facebook.com/FRANCE24.Observateurs/posts/guin%C3%A9e-des-objets-volants-non-identifi%C3%A9s-ont-%C3%A9t%C3%A9-d%C3%A9couverts-au-sol-dans-la-r%C3%A9gio/1006926364794211/)  
+   Link: <a href="https://www.facebook.com/FRANCE24.Observateurs/posts/guin%C3%A9e-des-objets-volants-non-identifi%C3%A9s-ont-%C3%A9t%C3%A9-d%C3%A9couverts-au-sol-dans-la-r%C3%A9gio/1006926364794211/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FRANCE24.Observateurs/posts/guin%C3%A9e-des-objets-volants-non-identifi%C3%A9s-ont-%C3%A9t%C3%A9-d%C3%A9couverts-au-sol-dans-la-r%C3%A9gio/1006926364794211/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GUINÉE - Des &quot;objets volants non identifiés&quot; ont été découverts au...January 28, 2025 — GUINÉE info KANKANA-Un nouvel objet technologiqu...</p></details>
    Published: January 28, 2025  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FRANCE24/posts/guin%C3%A9e-deux-objets-myst%C3%A9rieux-sont-r%C3%A9cemment-tomb%C3%A9s-du-ciel-dans-la-r%C3%A9gion-de-ka/1017868727035080/](https://www.facebook.com/FRANCE24/posts/guin%C3%A9e-deux-objets-myst%C3%A9rieux-sont-r%C3%A9cemment-tomb%C3%A9s-du-ciel-dans-la-r%C3%A9gion-de-ka/1017868727035080/)  
+   Link: <a href="https://www.facebook.com/FRANCE24/posts/guin%C3%A9e-deux-objets-myst%C3%A9rieux-sont-r%C3%A9cemment-tomb%C3%A9s-du-ciel-dans-la-r%C3%A9gion-de-ka/1017868727035080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FRANCE24/posts/guin%C3%A9e-deux-objets-myst%C3%A9rieux-sont-r%C3%A9cemment-tomb%C3%A9s-du-ciel-dans-la-r%C3%A9gion-de-ka/1017868727035080/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deux objets mystérieux sont récemment tombés du ciel...GUINÉE - Deux objets mystérieux sont récemment tombés du ciel dans la région de K...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Infos.Todaanon.MT/videos/guin%C3%A9e-un-objet-volant-sest-%C3%A9cras%C3%A9-dans-une-for%C3%AAt-dans-le-district-de-soumanko%C3%AF-/615666100966539/](https://www.facebook.com/Infos.Todaanon.MT/videos/guin%C3%A9e-un-objet-volant-sest-%C3%A9cras%C3%A9-dans-une-for%C3%AAt-dans-le-district-de-soumanko%C3%AF-/615666100966539/)  
+   Link: <a href="https://www.facebook.com/Infos.Todaanon.MT/videos/guin%C3%A9e-un-objet-volant-sest-%C3%A9cras%C3%A9-dans-une-for%C3%AAt-dans-le-district-de-soumanko%C3%AF-/615666100966539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Infos.Todaanon.MT/videos/guin%C3%A9e-un-objet-volant-sest-%C3%A9cras%C3%A9-dans-une-for%C3%AAt-dans-le-district-de-soumanko%C3%AF-/615666100966539/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>soumankoï à Kankan. Selon les témoins, il s&#x27;agirait d&#x27;un satellite...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: guineenews.org  
    Title: Guinéenews©Soumankoï/Kankan: Un engin ressemblant à un satellite  
-   Link: [https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/](https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/)  
+   Link: <a href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow">https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2024 — 29 Dec 2024 — Un objet volant non identifié, de type OVNI, qui ressemble visiblement à un satellite, est tombé dans u...</p></details>
    Published: December 29, 2024  
 
 7. <a id="endnote-7"></a>
    Source: alwihdainfo.com  
-   Link: [https://www.alwihdainfo.com/Mystere-en-Guinee-Un-satellite-s-ecrase-pres-de-Kankan_a137629.html](https://www.alwihdainfo.com/Mystere-en-Guinee-Un-satellite-s-ecrase-pres-de-Kankan_a137629.html)  
+   Link: <a href="https://www.alwihdainfo.com/Mystere-en-Guinee-Un-satellite-s-ecrase-pres-de-Kankan_a137629.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwihdainfo.com/Mystere-en-Guinee-Un-satellite-s-ecrase-pres-de-Kankan_a137629.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystère en Guinée: Un &quot;satellite&quot; s&#x27;écrase près de KankanCe samedi 28 décembre, un objet volant non identifié, ressemblant à un satellit...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: mediaguinee.com  
-   Link: [https://mediaguinee.com/2024/12/kankan-soumankoi-lobjet-semblable-a-un-aerostat-qui-sest-ecrase-dans-un-champ-recupere-par-les-autorites/](https://mediaguinee.com/2024/12/kankan-soumankoi-lobjet-semblable-a-un-aerostat-qui-sest-ecrase-dans-un-champ-recupere-par-les-autorites/)  
+   Link: <a href="https://mediaguinee.com/2024/12/kankan-soumankoi-lobjet-semblable-a-un-aerostat-qui-sest-ecrase-dans-un-champ-recupere-par-les-autorites/" target="_blank" rel="noopener noreferrer nofollow">https://mediaguinee.com/2024/12/kankan-soumankoi-lobjet-semblable-a-un-aerostat-qui-sest-ecrase-dans-un-champ-recupere-par-les-autorites/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kankan/Soumankoï: l&#x27;objet semblable à un aérostat qui s&#x27;...29 Dec 2024 — Un objet non identifié, ressemblant à un aérostat, s&#x27;est écras...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: guineematin.com  
    Title: Originaire de Marwata, dans la préfecture de Koubia  
-   Link: [https://guineematin.com/](https://guineematin.com/)  
+   Link: <a href="https://guineematin.com/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>les nouvelles de la Guinée profonde et de la...Côte d&#x27;Ivoire: Abdoul Diallo nous plonge dans les arcanes du quotidien des jeunes Guinée...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Guinea: “Unidentified flying objects” raise questions • The Observers  
-   Link: [https://www.youtube.com/watch?v=iVytMPapV-M](https://www.youtube.com/watch?v=iVytMPapV-M)  
+   Link: <a href="https://www.youtube.com/watch?v=iVytMPapV-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iVytMPapV-M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guinée: des &quot;objets volants non identifiés&quot; suscitent l&#x27;interrogation • Les Observateurs...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sNx3FPqdK_g](https://www.youtube.com/watch?v=sNx3FPqdK_g)  
+   Link: <a href="https://www.youtube.com/watch?v=sNx3FPqdK_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sNx3FPqdK_g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - Footage Released of Object Tracked over Europe in 2022...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UAP FILES  
-   Link: [https://www.youtube.com/watch?v=TCLKbR_jbkA](https://www.youtube.com/watch?v=TCLKbR_jbkA)  
+   Link: <a href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TCLKbR_jbkA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerostar Thunderhead Balloon System Full Video Updated 1 5 23...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Aerostar Thunderhead Balloon System Full Video Updated 1 5 23  
-   Link: [https://www.youtube.com/watch](https://www.youtube.com/watch)  
+   Link: <a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watches in Space (stratospheric balloon) Gavox Aurora and Avidiver...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: guineematin.com  
-   Link: [https://guineematin.com/2025/01/08/](https://guineematin.com/2025/01/08/)  
+   Link: <a href="https://guineematin.com/2025/01/08/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2025/01/08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 janvier 2025 - Guineematin.comJanuary 8, 2025 — Archives quotidiennes: 8 janvier 2025 · Condamnation d&#x27;Aliou Bah: Ibrahima Aminata Dia...</p></details>
    Published: January 8, 2025  
 
 15. <a id="endnote-15"></a>
    Source: guineematin.com  
-   Link: [https://guineematin.com/2025/01/10/](https://guineematin.com/2025/01/10/)  
+   Link: <a href="https://guineematin.com/2025/01/10/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2025/01/10/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 janvier 2025 - Guineematin.comJanuary 10, 2025 — Archives quotidiennes: 10 janvier 2025; Guinée: l&#x27;UFDG dénonce la persécution de se...</p></details>
    Published: January 10, 2025  
 
 16. <a id="endnote-16"></a>
    Source: guineematin.com  
-   Link: [https://guineematin.com/2025/01/25/](https://guineematin.com/2025/01/25/)  
+   Link: <a href="https://guineematin.com/2025/01/25/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2025/01/25/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 janvier 2025 - Guineematin.comJanuary 25, 2025 — Archives quotidiennes: 25 janvier 2025 · Prochain congrès de l&#x27;UFDG: « Tous ceux qui...</p></details>
    Published: January 25, 2025  
 
 17. <a id="endnote-17"></a>
    Source: guineematin.com  
-   Link: [https://guineematin.com/2025/01/31/](https://guineematin.com/2025/01/31/)  
+   Link: <a href="https://guineematin.com/2025/01/31/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2025/01/31/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 janvier 2025 - Guineematin.comJanuary 31, 2025 — Accueil · Actualités · Politique · Economie · Culture · Societé · Faits Divers · Spor...</p></details>
    Published: January 31, 2025  

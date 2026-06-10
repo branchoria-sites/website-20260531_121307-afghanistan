@@ -239,7 +239,7 @@ next_link:
   permalink: /rocket-trails/
   short_title: Rocket Trails
   heading_title: Were Bishkek UFOs Really Rocket Trails?
-date: '2026-06-09 01:31:17 '
+date: '2026-06-10 01:56:56 '
 header:
   og_image: /assets/images/Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e-Illustration-1-social.jpg
   preview_image: /assets/images/Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e-Illustration-1.webp
@@ -326,7 +326,7 @@ This helps explain why eastern Kyrgyzstan gained a larger reputation in UFO folk
 
 The most important distinction is between concentration of stories and concentration of evidence.
 
-Issyk-Kul and the eastern highlands unquestionably occupy a major place in Kyrgyz UFO culture. References to the region appear repeatedly in discussions of unexplained phenomena, especially in connection with Shaitan Mazar and other mountain-based rumours. Online UFO communities, travel writers, and local mystery publications regularly return to the same locations and narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditCan you tell me about some UFO sightings, unsolved...February 10, 2023 — Shaitan Mazar from Kyrgyzstan has always caught my interest...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1ldltp5/alleged_1991_russian_crash_and_retrieval_in_tien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">alleged 1991 russian crash and retrieval in tien</span><span class="citation-popover-snippet">account alleges that a UFO crashed in the Shaitan Mazar, located in the Tien Shan Mountains in Kyrgyzstan near the Chinese bo...</span></span></span>
+Issyk-Kul and the eastern highlands unquestionably occupy a major place in Kyrgyz UFO culture. References to the region appear repeatedly in discussions of unexplained phenomena, especially in connection with Shaitan Mazar and other mountain-based rumours. Online UFO communities, travel writers, and local mystery publications regularly return to the same locations and narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can you tell me about some UFO sightings, unsolved...February 10, 2023 — Shaitan Mazar from Kyrgyzstan has always caught my interest...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1ldltp5/alleged_1991_russian_crash_and_retrieval_in_tien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">alleged 1991 russian crash and retrieval in tien</span><span class="citation-popover-snippet">account alleges that a UFO crashed in the Shaitan Mazar, located in the Tien Shan Mountains in Kyrgyzstan near the Chinese bo...</span></span></span>
 
 However, the evidence base remains weak.
 
@@ -351,86 +351,44 @@ For that reason, Issyk-Kul is best understood as Kyrgyzstan’s leading UFO folk
 <img src="{{ "/assets/images/Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e-Illustration-3-dark.svg" | relative_url }}" alt="Issyk Kul illustration 3" data-theme-src-dark="{{ "/assets/images/Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Issyk Kul Became Kyrgyzstan&#x27;s UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Issyk Kul Became Kyrgyzstan&#x27;s UFO Hotspot, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for separating evidence from legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides documented comparisons to folklore-heavy cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Directly connects folklore, legends, and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, LÃ©gendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -464,75 +422,71 @@ For that reason, Issyk-Kul is best understood as Kyrgyzstan’s leading UFO folk
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=issyk-kul-why-issyk-kul-became-kyrgyzstan-s-ufo-hotspot-kyrgyzstan-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -746,123 +700,123 @@ For that reason, Issyk-Kul is best understood as Kyrgyzstan’s leading UFO folk
 
 1. <a id="endnote-1"></a>
    Source: advantour.com  
-   Link: [https://www.advantour.com/kyrgyzstan/legends/issyk-kul-legend.htm](https://www.advantour.com/kyrgyzstan/legends/issyk-kul-legend.htm)  
+   Link: <a href="https://www.advantour.com/kyrgyzstan/legends/issyk-kul-legend.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.advantour.com/kyrgyzstan/legends/issyk-kul-legend.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legends of Kyrgyzstan: Issyk-KulThere are many legends about Lake Issyk-Kul, like about how it was formed and who passed by its shores. O...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/](https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCan you tell me about some UFO sightings, unsolved...February 10, 2023 — Shaitan Mazar from Kyrgyzstan has always caught my interest...</p></details>
+   Link: <a href="https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you tell me about some UFO sightings, unsolved...February 10, 2023 — Shaitan Mazar from Kyrgyzstan has always caught my interest...</p></details>
    Published: February 10, 2023  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: alleged 1991 russian crash and retrieval in tien  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1ldltp5/alleged_1991_russian_crash_and_retrieval_in_tien/](https://www.reddit.com/r/UFOs_Archive/comments/1ldltp5/alleged_1991_russian_crash_and_retrieval_in_tien/)  
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1ldltp5/alleged_1991_russian_crash_and_retrieval_in_tien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1ldltp5/alleged_1991_russian_crash_and_retrieval_in_tien/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>account alleges that a UFO crashed in the Shaitan Mazar, located in the Tien Shan Mountains in Kyrgyzstan near the Chinese bo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bradtguides.com  
    Title: the strange tale of the shaitan mazar ufo  
-   Link: [https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/](https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/)  
+   Link: <a href="https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradt GuidesThe strange tale of the Shaitan Mazar UFOFeb 12, 2019 — By the end of September, rumours started to emerge that a large objec...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: open.kg  
    Title: Kyrgyz News Anomalous Zones of Kyrgyzstan  
-   Link: [https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html](https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html)  
+   Link: <a href="https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of the Ala-...Jun 28, 2019 — It has been noted that some anomalous phenomena, such as the appearance of UFOs, are more frequ...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: open.kg  
    Title: Kyrgyz News The Shaitan Mazar Site (Devil's Grave)  
-   Link: [https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html](https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html)  
+   Link: <a href="https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of...Jul 8, 2019 — It is located in the Shaitan-Mazar area, which translates from Kyrgyz as &quot;Devil&#x27;s Grave.&quot; According t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/Russia.html](https://www.ufocasebook.com/Russia.html)  
+   Link: <a href="https://www.ufocasebook.com/Russia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Russia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1991 Russian Crash and Retrieval, &quot;Grave of the Devil&quot;Oct 11, 2004 — The incident of Shaitan Mazar began on August 28, 1991...</p></details>
    Published: August 28, 1991  
 
 8. <a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: the grave of the devil ufo  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo](https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Grave Of The Devil Case – UFO Crash And Retrieval...Aug 22, 2021 — One of the most notable claims from late Soviet-era UFO lore is t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: geoexplorersclub.com  
    Title: podvodnye tajny i neraskrytye zagadki issyk kulya  
-   Link: [https://geoexplorersclub.com/en/podvodnye-tajny-i-neraskrytye-zagadki-issyk-kulya/](https://geoexplorersclub.com/en/podvodnye-tajny-i-neraskrytye-zagadki-issyk-kulya/)  
+   Link: <a href="https://geoexplorersclub.com/en/podvodnye-tajny-i-neraskrytye-zagadki-issyk-kulya/" target="_blank" rel="noopener noreferrer nofollow">https://geoexplorersclub.com/en/podvodnye-tajny-i-neraskrytye-zagadki-issyk-kulya/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geo Explorers ClubUNDERWATER SECRETS AND UNDISCLOSED...Jan 24, 2020 — There are several enthusiasts in Kyrgyzstan who are researching fl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: centralasia-travel.com  
-   Link: [https://www.centralasia-travel.com/en/publication/issyk_kul_legends](https://www.centralasia-travel.com/en/publication/issyk_kul_legends)  
+   Link: <a href="https://www.centralasia-travel.com/en/publication/issyk_kul_legends" target="_blank" rel="noopener noreferrer nofollow">https://www.centralasia-travel.com/en/publication/issyk_kul_legends</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Asia TravelIssyk-Kul legends and mythsThere is an amazingly large number of Issyk-Kul creation legends. According to one of them...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: prezi.com  
    Title: The Shaitan Mazar  
-   Link: [https://prezi.com/fwdnor8dklwv/the-shaitan-mazar-russia-ufo-crash/?fallback=1](https://prezi.com/fwdnor8dklwv/the-shaitan-mazar-russia-ufo-crash/?fallback=1)  
+   Link: <a href="https://prezi.com/fwdnor8dklwv/the-shaitan-mazar-russia-ufo-crash/?fallback=1" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/fwdnor8dklwv/the-shaitan-mazar-russia-ufo-crash/?fallback=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia ufo crashThe Shaitan Mazar - Russia ufo crash · Kathleen Sales · UFO · Fact about the UFO: · When this incident happened? · The Sh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bradtguides.com  
-   Link: [https://www.bradtguides.com/destinations/asia/kyrgyzstan/](https://www.bradtguides.com/destinations/asia/kyrgyzstan/)  
+   Link: <a href="https://www.bradtguides.com/destinations/asia/kyrgyzstan/" target="_blank" rel="noopener noreferrer nofollow">https://www.bradtguides.com/destinations/asia/kyrgyzstan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kyrgyzstan Travel Information and GuideThe strange tale of the Shaitan Mazar UFO. Lawrence Mitchell investigates one of the country&#x27;s str...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/routledge-handbook-of-contemporary-central-asia-1nbsped-0367178400-9780367178406.html](https://dokumen.pub/routledge-handbook-of-contemporary-central-asia-1nbsped-0367178400-9780367178406.html)  
+   Link: <a href="https://dokumen.pub/routledge-handbook-of-contemporary-central-asia-1nbsped-0367178400-9780367178406.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/routledge-handbook-of-contemporary-central-asia-1nbsped-0367178400-9780367178406.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Routledge Handbook of Contemporary Central Asia [1&amp;nbspThe Routledge Handbook of Contemporary Central Asia offers the first comprehensive...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/highlightmovieslive/posts/1335785141529657/](https://www.facebook.com/groups/highlightmovieslive/posts/1335785141529657/)  
+   Link: <a href="https://www.facebook.com/groups/highlightmovieslive/posts/1335785141529657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/highlightmovieslive/posts/1335785141529657/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USSR&#x27;s Hidden Secrets: Giant Skeletons and Mysterious...Soviet cosmonaut reveals alien encounters and cover-ups. Allan Miller ▻ UFO, Ali...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/elia.khasanova/](https://www.facebook.com/elia.khasanova/)  
+   Link: <a href="https://www.facebook.com/elia.khasanova/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elia.khasanova/</a>  
 
 17. <a id="endnote-17"></a>
    Source: open.kg  
    Title: 41759 iz podo ldov antarktidy idut radiosignaly protivorechaschie zakonam fiziki  
-   Link: [https://open.kg/en/news/exclusive/41759-iz-podo-ldov-antarktidy-idut-radiosignaly-protivorechaschie-zakonam-fiziki.html](https://open.kg/en/news/exclusive/41759-iz-podo-ldov-antarktidy-idut-radiosignaly-protivorechaschie-zakonam-fiziki.html)  
+   Link: <a href="https://open.kg/en/news/exclusive/41759-iz-podo-ldov-antarktidy-idut-radiosignaly-protivorechaschie-zakonam-fiziki.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/exclusive/41759-iz-podo-ldov-antarktidy-idut-radiosignaly-protivorechaschie-zakonam-fiziki.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio signals from beneath the ice of Antarctica contradict the...Nov 5, 2025 — Anomalous Zones of Kyrgyzstan. Devil&#x27;s Grave (Shaitan-Ma...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=th7jXtnQde8](https://www.youtube.com/watch?v=th7jXtnQde8)  
+   Link: <a href="https://www.youtube.com/watch?v=th7jXtnQde8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=th7jXtnQde8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Issyk-Kul — Bishkek: A Journey Between Sky and MountainsA journey through one of the most mysterious corners of Central Asia from the shi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: chasingtherealworld.com  
    Title: photo ashlan fu the spectacular south shore of kyrgyzstans issyk kul  
-   Link: [https://chasingtherealworld.com/photo-ashlan-fu-the-spectacular-south-shore-of-kyrgyzstans-issyk-kul/](https://chasingtherealworld.com/photo-ashlan-fu-the-spectacular-south-shore-of-kyrgyzstans-issyk-kul/)  
+   Link: <a href="https://chasingtherealworld.com/photo-ashlan-fu-the-spectacular-south-shore-of-kyrgyzstans-issyk-kul/" target="_blank" rel="noopener noreferrer nofollow">https://chasingtherealworld.com/photo-ashlan-fu-the-spectacular-south-shore-of-kyrgyzstans-issyk-kul/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Spectacular South Shore of Kyrgyzstan&#x27;s Issyk-Kul24 Aug 2021 — Issyk-Kul is the heart of Kyrgyz land and culture, and its south shore...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Aliens, Cryptids, and Secret Treasure in the World's Oldest Lake | Lake Baikal  
-   Link: [https://www.youtube.com/watch?v=hAh9vaAJGSE](https://www.youtube.com/watch?v=hAh9vaAJGSE)  
+   Link: <a href="https://www.youtube.com/watch?v=hAh9vaAJGSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAh9vaAJGSE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection includes The Mysteries of Lake Baikal because its dedicated analysis includes a specific deep dive into the &quot;Forgotten Gia...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html](https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html)  
+   Link: <a href="https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US UFO Research CenterRussian UFO Crash Kyrgyzstan Shaitan Mazar Tien Shan MtnsThe incident of Shaitan Mazar began on August 28, 1991, at...</p></details>
    Published: August 28, 1991  
 
 22. <a id="endnote-22"></a>
    Source: inlibra.com  
-   Link: [https://www.inlibra.com/10.5771/9781793633491.pdf](https://www.inlibra.com/10.5771/9781793633491.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Summary: “This edited volume explores, analyzes, and sheds light to the field, practice, research, and critical inquiry of media, journ...</p></details>
+   Link: <a href="https://www.inlibra.com/10.5771/9781793633491.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781793633491.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: “This edited volume explores, analyzes, and sheds light to the field, practice, research, and critical inquiry of media, journ...</p></details>

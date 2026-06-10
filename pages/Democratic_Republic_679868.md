@@ -1185,7 +1185,7 @@ next_link:
   title: Djibouti UAP
   permalink: /djibouti/
   short_title: Djibouti UAP
-date: '2026-06-09 01:25:27 '
+date: '2026-06-10 01:50:03 '
 header:
   og_image: /assets/images/Democratic_Republic_679868-overview-social.jpg
   preview_image: /assets/images/Democratic_Republic_679868-overview.webp
@@ -1202,7 +1202,7 @@ This matters because Congolese UFO material often reaches researchers through in
 
 ## The 1952 Elizabethville uranium-mines case
 
-The most famous Congo-linked UFO report predates the modern DRC state. In 1952, during the Belgian Congo period, a CIA-listed document described two “fiery” disc-shaped objects reported over uranium mines near the [Elizabethville]({{ 'elizabethville/' | relative_url }}) district, now Lubumbashi in the DRC’s south-east. The CIA later highlighted “Flying Saucers Reported Over Belgian Congo Uranium Mines, 1952” in its public “X-Files” collection, which confirms that the document exists in the agency’s declassified UFO corpus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Take a Peek Into Our &quot;X-Files</span><span class="citation-popover-snippet">Take a Peek Into Our &quot;X-Files</span></span></span>
+The most famous Congo-linked UFO report predates the modern DRC state. In 1952, during the Belgian Congo period, a CIA-listed document described two “fiery” disc-shaped objects reported over uranium mines near the Elizabethville district, now Lubumbashi in the DRC’s south-east. The CIA later highlighted “Flying Saucers Reported Over Belgian Congo Uranium Mines, 1952” in its public “X-Files” collection, which confirms that the document exists in the agency’s declassified UFO corpus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Take a Peek Into Our &quot;X-Files</span><span class="citation-popover-snippet">Take a Peek Into Our &quot;X-Files</span></span></span>
 
 The case has several features that explain its long afterlife in UFO literature: the alleged location near uranium mines, a military or aviation witness named Commander Pierre, a reported pursuit by aircraft, and claims of extreme speed and unusual manoeuvres. A specialist summary of the CIA file describes two disc-like objects over the Elizabethville area, a 10-to-12-minute performance, pursuit from the local airfield, and an estimated speed of roughly 1,500 kilometres per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/flying-discs-over-the-congo-an-intriguing-ufo-report-from-the-cias-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1225,7 +1225,7 @@ This is the clearest lesson from the Kerekere file: a document can use the phras
 
 ## Kinshasa and Kimbanseke: when falling debris becomes a neighbourhood mystery
 
-On 9 June 2012, an unidentified metallic object reportedly fell in [Kimbanseke]({{ 'kimbanseke/' | relative_url }}), a commune of Kinshasa, digging a hole roughly four metres wide and two metres deep. Radio Okapi reported that hundreds of curious residents gathered at the site, while a witness described a dark object coming from the sky and shaking a palm tree before impact. The local mayor, Edouard Gatembo, urged residents not to panic and called for specialists to determine the nature of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiookapi.net">[Radio Okapi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiookapi.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+On 9 June 2012, an unidentified metallic object reportedly fell in Kimbanseke, a commune of Kinshasa, digging a hole roughly four metres wide and two metres deep. Radio Okapi reported that hundreds of curious residents gathered at the site, while a witness described a dark object coming from the sky and shaking a palm tree before impact. The local mayor, Edouard Gatembo, urged residents not to panic and called for specialists to determine the nature of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiookapi.net">[Radio Okapi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiookapi.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The Kimbanseke case is important because it was not simply a distant light in the sky. It involved an alleged impact site, physical damage, local witnesses, and a municipal response. Yet the public record available in open sources does not provide the later laboratory identification that would be needed to move the case from “unidentified debris” to a stronger category. Radio Okapi also noted that it was reportedly the third similar object to fall in Kimbanseke under comparable circumstances, which suggests either repeated debris events, repeated rumours, or a local cluster that never received adequate public technical follow-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiookapi.net">[Radio Okapi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiookapi.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1233,9 +1233,9 @@ A cautious reading is therefore more useful than a sensational one. Kimbanseke s
 
 ## Bas-Uele 2020: the best-documented debunked case
 
-The 2020 Bas-Uele incident is the cleanest modern example of a Congolese “UFO” moving from mystery to identification. Reuters reported that an unidentified flying object parachuted into dense forest in northern DRC, prompting confusion among local authorities and the detention of two people who had arrived to search for it. Images showed a large silver-coloured device with solar panels and wires, trailing a deflated balloon. The object landed about 10 kilometres south of Buta, the provincial capital, and Governor Valentin Senga said local intelligence and aviation authorities initially lacked information about the overflight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UFO&#x27; in Congo jungle turns out to be internet balloon | Reuters</span><span class="citation-popover-snippet">UFO&#x27; in Congo jungle turns out to be internet balloon | Reuters</span></span></span>
+The 2020 Bas-Uele incident is the cleanest modern example of a Congolese “UFO” moving from mystery to identification. Reuters reported that an unidentified flying object parachuted into dense forest in northern DRC, prompting confusion among local authorities and the detention of two people who had arrived to search for it. Images showed a large silver-coloured device with solar panels and wires, trailing a deflated balloon. The object landed about 10 kilometres south of Buta, the provincial capital, and Governor Valentin Senga said local intelligence and aviation authorities initially lacked information about the overflight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span><span class="citation-popover-snippet">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span></span></span>
 
-The explanation came when Loon, an Alphabet subsidiary, confirmed that it had carried out a controlled landing of one of its stratospheric internet balloons in the region. Reuters reported that Loon’s balloons travelled around 20 kilometres above Earth and acted as floating cell towers for remote areas; the company also said the landing had been coordinated with local air traffic control and approved by the civil aviation authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/silver-monolith-appears-in-congo-prompting-suspicion-and-selfies-idUSKBN2AI0RL/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Silver monolith appears in Congo, prompting suspicion and selfies | Reuters</span><span class="citation-popover-snippet">Silver monolith appears in Congo, prompting suspicion and selfies | Reuters</span></span></span>
+The explanation came when Loon, an Alphabet subsidiary, confirmed that it had carried out a controlled landing of one of its stratospheric internet balloons in the region. Reuters reported that Loon’s balloons travelled around 20 kilometres above Earth and acted as floating cell towers for remote areas; the company also said the landing had been coordinated with local air traffic control and approved by the civil aviation authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/silver-monolith-appears-in-congo-prompting-suspicion-and-selfies-idUSKBN2AI0RL/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Silver monolith appears in Congo, prompting suspicion and selfies &#124; Reuters</span><span class="citation-popover-snippet">Silver monolith appears in Congo, prompting suspicion and selfies &#124; Reuters</span></span></span>
 
 This case is valuable because it contains the whole arc that many UFO cases lack: public alarm, official uncertainty, a recoverable object, corporate identification, and a plausible technical explanation. It also shows why region-level context matters. In a remote province, a high-altitude telecommunications balloon descending under parachute is likely to look far stranger than it would to the engineers who launched it.
 
@@ -1294,86 +1294,44 @@ The DRC record shows why this matters. The Bas-Uele case was resolved because th
 For readers following sibling country pages in a wider UFO project, the DRC is best compared with other Central African cases where sparse archives, colonial-era intelligence files, and later internet reposting complicate the record. Its most interesting contribution is not a large number of sightings, but a sharp evidence lesson: in the Congo, as elsewhere, the difference between a mystery, a misidentification, and a credible anomaly depends on what happens after the first strange object is seen.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Flew Over Congo?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Flew Over Congo?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on documented cases and evidentiary standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for assessing evidence and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores unresolved cases and investigative limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how local mystery-object stories become lasting UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1407,75 +1365,71 @@ For readers following sibling country pages in a wider UFO project, the DRC is b
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=democratic-republic-of-the-congo-what-really-flew-over-congo-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1690,245 +1644,245 @@ For readers following sibling country pages in a wider UFO project, the DRC is b
 1. <a id="endnote-1"></a>
    Source: cia.gov  
    Title: Take a Peek Into Our "X-Files"  
-   Link: [https://www.cia.gov/stories/story/take-a-peek-into-our-x-files](https://www.cia.gov/stories/story/take-a-peek-into-our-x-files)  
+   Link: <a href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/take-a-peek-into-our-x-files</a>  
 
 2. <a id="endnote-2"></a>
    Source: jasoncolavito.com  
    Title: the 1965 congo ufo crash  
-   Link: [https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash](https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash)  
+   Link: <a href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash</a>  
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Title: 'UFO' in Congo jungle turns out to be internet balloon | Reuters  
-   Link: [https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/](https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/)  
+   Link: <a href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.state.gov  
    Title: Office of the Historian Milestones in the History of U.S. Foreign Relations  
-   Link: [https://history.state.gov/milestones/1961-1968/congo-decolonization](https://history.state.gov/milestones/1961-1968/congo-decolonization)  
+   Link: <a href="https://history.state.gov/milestones/1961-1968/congo-decolonization" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1961-1968/congo-decolonization</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: Silver monolith appears in Congo, prompting suspicion and selfies | Reuters  
-   Link: [https://www.reuters.com/article/world/silver-monolith-appears-in-congo-prompting-suspicion-and-selfies-idUSKBN2AI0RL/](https://www.reuters.com/article/world/silver-monolith-appears-in-congo-prompting-suspicion-and-selfies-idUSKBN2AI0RL/)  
+   Link: <a href="https://www.reuters.com/article/world/silver-monolith-appears-in-congo-prompting-suspicion-and-selfies-idUSKBN2AI0RL/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/silver-monolith-appears-in-congo-prompting-suspicion-and-selfies-idUSKBN2AI0RL/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183324](https://nuforc.org/sighting/?id=183324)  
+   Link: <a href="https://nuforc.org/sighting/?id=183324" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183324</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186327](https://nuforc.org/sighting/?id=186327)  
+   Link: <a href="https://nuforc.org/sighting/?id=186327" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186327</a>  
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: DR Congo government says M23 rebels, Rwanda disrupting local air traffic  
-   Link: [https://www.reuters.com/world/africa/dr-congo-government-says-m23-rebels-rwanda-disrupting-local-air-traffic-2024-07-29/](https://www.reuters.com/world/africa/dr-congo-government-says-m23-rebels-rwanda-disrupting-local-air-traffic-2024-07-29/)  
+   Link: <a href="https://www.reuters.com/world/africa/dr-congo-government-says-m23-rebels-rwanda-disrupting-local-air-traffic-2024-07-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/dr-congo-government-says-m23-rebels-rwanda-disrupting-local-air-traffic-2024-07-29/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/africa/congo-rebel-leader-claims-responsibility-drone-attack-strategic-northeast-city-2026-02-03/](https://www.reuters.com/world/africa/congo-rebel-leader-claims-responsibility-drone-attack-strategic-northeast-city-2026-02-03/)  
+   Link: <a href="https://www.reuters.com/world/africa/congo-rebel-leader-claims-responsibility-drone-attack-strategic-northeast-city-2026-02-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/congo-rebel-leader-claims-responsibility-drone-attack-strategic-northeast-city-2026-02-03/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This announcement follows a recent agreement in Doha between the Congolese government and AFC/M23, mediated by Qatar, to deploy U.N. ceas...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: ufo in congo jungle turns out to be internet balloon id USKBN25M0B0  
-   Link: [https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25M0B0/](https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25M0B0/)  
+   Link: <a href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25M0B0/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25M0B0/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/video/watch/idRW333425052026RP1/](https://www.reuters.com/video/watch/idRW333425052026RP1/)  
+   Link: <a href="https://www.reuters.com/video/watch/idRW333425052026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW333425052026RP1/</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.state.gov  
-   Link: [https://history.state.gov/historicaldocuments/frus1964-68v23/d1](https://history.state.gov/historicaldocuments/frus1964-68v23/d1)  
+   Link: <a href="https://history.state.gov/historicaldocuments/frus1964-68v23/d1" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1964-68v23/d1</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 22. <a id="endnote-22"></a>
    Source: gralienreport.com  
-   Link: [https://www.gralienreport.com/ufos/flying-discs-over-the-congo-an-intriguing-ufo-report-from-the-cias-files/](https://www.gralienreport.com/ufos/flying-discs-over-the-congo-an-intriguing-ufo-report-from-the-cias-files/)  
+   Link: <a href="https://www.gralienreport.com/ufos/flying-discs-over-the-congo-an-intriguing-ufo-report-from-the-cias-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.gralienreport.com/ufos/flying-discs-over-the-congo-an-intriguing-ufo-report-from-the-cias-files/</a>  
 
 23. <a id="endnote-23"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke](https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke)  
+   Link: <a href="https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite/2012/06/13/kinshasa-engin-venu-du-ciel-tombe-dans-une-parcelle-kimbanseke</a>  
 
 24. <a id="endnote-24"></a>
    Source: m.facebook.com  
-   Link: [https://m.facebook.com/radiookapi/posts/249472685154608?_rdr=&locale=pt_BR](https://m.facebook.com/radiookapi/posts/249472685154608?_rdr=&locale=pt_BR)  
+   Link: <a href="https://m.facebook.com/radiookapi/posts/249472685154608?_rdr=&amp;locale=pt_BR" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/radiookapi/posts/249472685154608?_rdr=&amp;locale=pt_BR</a>  
 
 25. <a id="endnote-25"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?_escaped_fragment_=slide&page=2093](https://www.radiookapi.net/societe?_escaped_fragment_=slide&page=2093)  
+   Link: <a href="https://www.radiookapi.net/societe?_escaped_fragment_=slide&amp;page=2093" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?_escaped_fragment_=slide&amp;page=2093</a>  
 
 26. <a id="endnote-26"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?i=76&page=8320&word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76](https://www.radiookapi.net/actualite?i=76&page=8320&word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76)  
+   Link: <a href="https://www.radiookapi.net/actualite?i=76&amp;page=8320&amp;word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?i=76&amp;page=8320&amp;word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76</a>  
 
 27. <a id="endnote-27"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?amp%3Bpage=1357&page=2127&page%3D3%3Fpage%3D3=](https://www.radiookapi.net/societe?amp%3Bpage=1357&page=2127&page%3D3%3Fpage%3D3=)  
+   Link: <a href="https://www.radiookapi.net/societe?amp%3Bpage=1357&amp;page=2127&amp;page%3D3%3Fpage%3D3=" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?amp%3Bpage=1357&amp;page=2127&amp;page%3D3%3Fpage%3D3=</a>  
 
 28. <a id="endnote-28"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?amp=&page=2148](https://www.radiookapi.net/societe?amp=&page=2148)  
+   Link: <a href="https://www.radiookapi.net/societe?amp=&amp;page=2148" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?amp=&amp;page=2148</a>  
 
 29. <a id="endnote-29"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?mdrv=www.radiookapi.net&page=8232](https://www.radiookapi.net/actualite?mdrv=www.radiookapi.net&page=8232)  
+   Link: <a href="https://www.radiookapi.net/actualite?mdrv=www.radiookapi.net&amp;page=8232" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?mdrv=www.radiookapi.net&amp;page=8232</a>  
 
 30. <a id="endnote-30"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?nscheck=X4POuSLf2RdfwwdikvaGgg%3D%3D&nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkLoo%2FA1GO6vfrewTsJHIKKGzrejs+gQFGrpFZ19q5obBs34QBvt9gz8CrylisuoY+eiiVjEmAAKIwytSsPtxog4cUzkALJ14%3D&page=2097](https://www.radiookapi.net/societe?nscheck=X4POuSLf2RdfwwdikvaGgg%3D%3D&nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkLoo%2FA1GO6vfrewTsJHIKKGzrejs+gQFGrpFZ19q5obBs34QBvt9gz8CrylisuoY+eiiVjEmAAKIwytSsPtxog4cUzkALJ14%3D&page=2097)  
+   Link: <a href="https://www.radiookapi.net/societe?nscheck=X4POuSLf2RdfwwdikvaGgg%3D%3D&amp;nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkLoo%2FA1GO6vfrewTsJHIKKGzrejs+gQFGrpFZ19q5obBs34QBvt9gz8CrylisuoY+eiiVjEmAAKIwytSsPtxog4cUzkALJ14%3D&amp;page=2097" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?nscheck=X4POuSLf2RdfwwdikvaGgg%3D%3D&amp;nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkLoo%2FA1GO6vfrewTsJHIKKGzrejs+gQFGrpFZ19q5obBs34QBvt9gz8CrylisuoY+eiiVjEmAAKIwytSsPtxog4cUzkALJ14%3D&amp;page=2097</a>  
 
 31. <a id="endnote-31"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?%3Bamp%3Bamp%3Bmdrv=www.radiookapi.net&page=2137](https://www.radiookapi.net/societe?%3Bamp%3Bamp%3Bmdrv=www.radiookapi.net&page=2137)  
+   Link: <a href="https://www.radiookapi.net/societe?%3Bamp%3Bamp%3Bmdrv=www.radiookapi.net&amp;page=2137" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?%3Bamp%3Bamp%3Bmdrv=www.radiookapi.net&amp;page=2137</a>  
 
 32. <a id="endnote-32"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkL&page=2096](https://www.radiookapi.net/societe?nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkL&page=2096)  
+   Link: <a href="https://www.radiookapi.net/societe?nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkL&amp;page=2096" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?nstoken=7SOY%2FFbMog3%2FTQb%2FaowYxOtPQJrl4HQAOn6WitLtnucHkThOMV%2F+f9OfldJ1%2F3qCjku65ti7d6JEovo4DhHTxPCJYo1BvzD6NNJRaaySShgXmcPzXbjxNhrEdVQlYw33W7imvhdK938SHkKqomoYCmcJCZMDWqW1EmtIuD%2Fo95sL%2Fshratpck5BthMppSNbYxQg6k2wAKQKN0ENI+E8naPGlKrdr9mcheUMJ5lJNGjf7B2XWhR1KzKHK5FjgnjJwGfugU0tSZCt%2F6HjP2Mrpb7ahnqVZfrTkXsCngL0IMCanXPL9++0PLuIncAYztozU+SGpyt8FgwqtPYSP3OUcbD1JvsI0%2FcqC4VBIZLG6gBF+S9Cl8H6AD33uj+DNd%2FDDzPnfBpBNF026Cm274Lc2QEcvlpaUwdD4xAe2PpUHyJZSNzDTn5SlkJ40K4b9M4kqsKSkL&amp;page=2096</a>  
 
 33. <a id="endnote-33"></a>
    Source: radiookapi.net  
    Title: journal francais soir 2053  
-   Link: [https://www.radiookapi.net/emissions-2/journal-francais/2012/06/13/journal-francais-soir-2053](https://www.radiookapi.net/emissions-2/journal-francais/2012/06/13/journal-francais-soir-2053)  
+   Link: <a href="https://www.radiookapi.net/emissions-2/journal-francais/2012/06/13/journal-francais-soir-2053" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/emissions-2/journal-francais/2012/06/13/journal-francais-soir-2053</a>  
 
 34. <a id="endnote-34"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?page=8222&word_tag=FDLR%3Fpage%3D10254](https://www.radiookapi.net/actualite?page=8222&word_tag=FDLR%3Fpage%3D10254)  
+   Link: <a href="https://www.radiookapi.net/actualite?page=8222&amp;word_tag=FDLR%3Fpage%3D10254" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?page=8222&amp;word_tag=FDLR%3Fpage%3D10254</a>  
 
 35. <a id="endnote-35"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?amp%3Bnstoken=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&amp%3Bpage=1&nscheck=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&page=2131](https://www.radiookapi.net/societe?amp%3Bnstoken=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&amp%3Bpage=1&nscheck=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&page=2131)  
+   Link: <a href="https://www.radiookapi.net/societe?amp%3Bnstoken=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&amp;amp%3Bpage=1&amp;nscheck=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&amp;page=2131" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?amp%3Bnstoken=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&amp;amp%3Bpage=1&amp;nscheck=%27nvOpzp%3B+AND%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&amp;page=2131</a>  
 
 36. <a id="endnote-36"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?page=8218&wb48617274=E228BE03%3Fpage%3D10206%3Fpage%3D10230%3Fpage%3D10231%3Fpage%3D10231](https://www.radiookapi.net/actualite?page=8218&wb48617274=E228BE03%3Fpage%3D10206%3Fpage%3D10230%3Fpage%3D10231%3Fpage%3D10231)  
+   Link: <a href="https://www.radiookapi.net/actualite?page=8218&amp;wb48617274=E228BE03%3Fpage%3D10206%3Fpage%3D10230%3Fpage%3D10231%3Fpage%3D10231" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?page=8218&amp;wb48617274=E228BE03%3Fpage%3D10206%3Fpage%3D10230%3Fpage%3D10231%3Fpage%3D10231</a>  
 
 37. <a id="endnote-37"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?page=8282&page%3D2%3Fpage%3D2=](https://www.radiookapi.net/actualite?page=8282&page%3D2%3Fpage%3D2=)  
+   Link: <a href="https://www.radiookapi.net/actualite?page=8282&amp;page%3D2%3Fpage%3D2=" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?page=8282&amp;page%3D2%3Fpage%3D2=</a>  
 
 38. <a id="endnote-38"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?height=100%25%27&iframe=true&page=8358&width=100%25](https://www.radiookapi.net/actualite?height=100%25%27&iframe=true&page=8358&width=100%25)  
+   Link: <a href="https://www.radiookapi.net/actualite?height=100%25%27&amp;iframe=true&amp;page=8358&amp;width=100%25" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?height=100%25%27&amp;iframe=true&amp;page=8358&amp;width=100%25</a>  
 
 39. <a id="endnote-39"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?%3Bpage=1&amp%3Bmdrv=www.radiookapi.net&page=2125](https://www.radiookapi.net/societe?%3Bpage=1&amp%3Bmdrv=www.radiookapi.net&page=2125)  
+   Link: <a href="https://www.radiookapi.net/societe?%3Bpage=1&amp;amp%3Bmdrv=www.radiookapi.net&amp;page=2125" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?%3Bpage=1&amp;amp%3Bmdrv=www.radiookapi.net&amp;page=2125</a>  
 
 40. <a id="endnote-40"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?%3Bpage=2%3F%3Bpage%3D2&page=2142](https://www.radiookapi.net/societe?%3Bpage=2%3F%3Bpage%3D2&page=2142)  
+   Link: <a href="https://www.radiookapi.net/societe?%3Bpage=2%3F%3Bpage%3D2&amp;page=2142" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?%3Bpage=2%3F%3Bpage%3D2&amp;page=2142</a>  
 
 41. <a id="endnote-41"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?i=76&page=8319&word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76%3Fi%3D76](https://www.radiookapi.net/actualite?i=76&page=8319&word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76%3Fi%3D76)  
+   Link: <a href="https://www.radiookapi.net/actualite?i=76&amp;page=8319&amp;word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76%3Fi%3D76" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?i=76&amp;page=8319&amp;word_tag=d%C3%A9plac%C3%A9s%3Fi%3D76%3Fi%3D76%3Fi%3D76</a>  
 
 42. <a id="endnote-42"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/actualite?ei=cx4yvnqxf4phywob24cida&page=8347&sa=u%27a%3D0&usg=afqjcnhomdx2xaxkov4tfphgcrmn3tldcg&ved=0ccqqfjac](https://www.radiookapi.net/actualite?ei=cx4yvnqxf4phywob24cida&page=8347&sa=u%27a%3D0&usg=afqjcnhomdx2xaxkov4tfphgcrmn3tldcg&ved=0ccqqfjac)  
+   Link: <a href="https://www.radiookapi.net/actualite?ei=cx4yvnqxf4phywob24cida&amp;page=8347&amp;sa=u%27a%3D0&amp;usg=afqjcnhomdx2xaxkov4tfphgcrmn3tldcg&amp;ved=0ccqqfjac" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/actualite?ei=cx4yvnqxf4phywob24cida&amp;page=8347&amp;sa=u%27a%3D0&amp;usg=afqjcnhomdx2xaxkov4tfphgcrmn3tldcg&amp;ved=0ccqqfjac</a>  
 
 43. <a id="endnote-43"></a>
    Source: radiookapi.net  
-   Link: [https://www.radiookapi.net/societe?amp%3Bpage=1%2F%3Famp%3Bpage%3D1%2F&page=2100](https://www.radiookapi.net/societe?amp%3Bpage=1%2F%3Famp%3Bpage%3D1%2F&page=2100)  
+   Link: <a href="https://www.radiookapi.net/societe?amp%3Bpage=1%2F%3Famp%3Bpage%3D1%2F&amp;page=2100" target="_blank" rel="noopener noreferrer nofollow">https://www.radiookapi.net/societe?amp%3Bpage=1%2F%3Famp%3Bpage%3D1%2F&amp;page=2100</a>  
 
 44. <a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Congo Crisis  
-   Link: [https://en.wikipedia.org/wiki/Congo_Crisis](https://en.wikipedia.org/wiki/Congo_Crisis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Congo_Crisis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Congo_Crisis</a>  
 
 45. <a id="endnote-45"></a>
    Source: taipeitimes.com  
-   Link: [https://www.taipeitimes.com/News/world/archives/2020/08/27/2003742383](https://www.taipeitimes.com/News/world/archives/2020/08/27/2003742383)  
+   Link: <a href="https://www.taipeitimes.com/News/world/archives/2020/08/27/2003742383" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2020/08/27/2003742383</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=q8pymWSKAPQ](http://www.youtube.com/watch?v=q8pymWSKAPQ)  
+   Link: <a href="http://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=q8pymWSKAPQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Incident That Shocked Ariel School: Telepathic Extraterrestrials (Re-Edit)...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Story of Children in Zimbabwe Encountering a UFO  
-   Link: [http://www.youtube.com/watch?v=TukvVnadRic](http://www.youtube.com/watch?v=TukvVnadRic)  
+   Link: <a href="http://www.youtube.com/watch?v=TukvVnadRic" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TukvVnadRic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting Africa documentary Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe Eyes On Cinema...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=8L6M2mRcux4](http://www.youtube.com/watch?v=8L6M2mRcux4)  
+   Link: <a href="http://www.youtube.com/watch?v=8L6M2mRcux4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8L6M2mRcux4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: Landing of Project Loon balloon LN-166 in Congo  
-   Link: [http://www.youtube.com/watch?v=qVBeNuwyCHw](http://www.youtube.com/watch?v=qVBeNuwyCHw)  
+   Link: <a href="http://www.youtube.com/watch?v=qVBeNuwyCHw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qVBeNuwyCHw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: [http://www.youtube.com/watch?v=LFswmAii4rw](http://www.youtube.com/watch?v=LFswmAii4rw)  
+   Link: <a href="http://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=LFswmAii4rw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of Children in Zimbabwe Encountering a UFO...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DPDGxYkkVnK/](https://www.instagram.com/p/DPDGxYkkVnK/)  
+   Link: <a href="https://www.instagram.com/p/DPDGxYkkVnK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPDGxYkkVnK/</a>  
 
 52. <a id="endnote-52"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DV1K7ccDDeb/](https://www.instagram.com/p/DV1K7ccDDeb/)  
+   Link: <a href="https://www.instagram.com/p/DV1K7ccDDeb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV1K7ccDDeb/</a>  
 
 53. <a id="endnote-53"></a>
    Source: devdiscourse.com  
-   Link: [https://www.devdiscourse.com/article/headlines/1184798-2-buses-collide-near-lucknow-6-including-bus-driver-dead-8-injured?amp=](https://www.devdiscourse.com/article/headlines/1184798-2-buses-collide-near-lucknow-6-including-bus-driver-dead-8-injured?amp=)  
+   Link: <a href="https://www.devdiscourse.com/article/headlines/1184798-2-buses-collide-near-lucknow-6-including-bus-driver-dead-8-injured?amp=" target="_blank" rel="noopener noreferrer nofollow">https://www.devdiscourse.com/article/headlines/1184798-2-buses-collide-near-lucknow-6-including-bus-driver-dead-8-injured?amp=</a>  
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWRZ-PzjC-C/](https://www.instagram.com/p/DWRZ-PzjC-C/)  
+   Link: <a href="https://www.instagram.com/p/DWRZ-PzjC-C/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWRZ-PzjC-C/</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/](https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/)  
+   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  

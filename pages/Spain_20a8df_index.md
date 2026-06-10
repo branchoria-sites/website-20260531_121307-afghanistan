@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /spain-20a8df-index/
 description: 'Focused pages that expand on Spain''s UFO Files: Mystery, Evidence,
   and....'
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Spain_20a8df
 parent_title: 'Spain''s UFO Files: Mystery, Evidence, and...'

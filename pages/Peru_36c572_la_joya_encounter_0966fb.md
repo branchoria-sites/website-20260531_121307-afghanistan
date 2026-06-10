@@ -239,7 +239,7 @@ prev_link:
   permalink: /difaa/
   short_title: DIFAA
   heading_title: What Peru's UFO Office Actually Did
-date: '2026-06-09 01:37:14 '
+date: '2026-06-10 02:03:52 '
 header:
   og_image: /assets/images/Peru_36c572_la_joya_encounter_0966fb-Illustration-1-social.jpg
   preview_image: /assets/images/Peru_36c572_la_joya_encounter_0966fb-Illustration-1.webp
@@ -343,86 +343,44 @@ Four decades later, the central assessment has changed surprisingly little. The 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why La Joya Still Anchors Peru&#x27;s UFO File. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why La Joya Still Anchors Peru&#x27;s UFO File, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Provides context for how military encounters are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Examines official handling of unexplained aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Focuses on military witnesses and unresolved official cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly aligns with La Joya&#x27;s pilot and air-force narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -456,75 +414,71 @@ Four decades later, the central assessment has changed surprisingly little. The 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=la-joya-why-la-joya-still-anchors-peru-s-ufo-file-peru-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -739,81 +693,81 @@ Four decades later, the central assessment has changed surprisingly little. The 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Incidente ovni de la Joya  
-   Link: [https://es.wikipedia.org/wiki/Incidente_ovni_de_la_Joya_-_Arequipa](https://es.wikipedia.org/wiki/Incidente_ovni_de_la_Joya_-_Arequipa)  
+   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_la_Joya_-_Arequipa" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_la_Joya_-_Arequipa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arequipa...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsEarly in the morning of April 11, La Joya Air Force Base ordered fighter pilot Oscar Santa María Huertas...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: elcomercio.pe  
-   Link: [https://elcomercio.pe/archivo-elcomercio/ovnis-la-vez-que-un-piloto-de-la-fap-derribo-un-ovni-en-una-base-aerea-de-arequipa-y-un-agente-del-gobierno-de-estados-unidos-elaboro-un-informe-confidencial-sobre-este-suceso-oscar-santa-maria-huertas-extraterrestres-alien-objeto-volador-no-identificado-cuerpos-no-humanos-nnsp-noticia/](https://elcomercio.pe/archivo-elcomercio/ovnis-la-vez-que-un-piloto-de-la-fap-derribo-un-ovni-en-una-base-aerea-de-arequipa-y-un-agente-del-gobierno-de-estados-unidos-elaboro-un-informe-confidencial-sobre-este-suceso-oscar-santa-maria-huertas-extraterrestres-alien-objeto-volador-no-identificado-cuerpos-no-humanos-nnsp-noticia/)  
+   Link: <a href="https://elcomercio.pe/archivo-elcomercio/ovnis-la-vez-que-un-piloto-de-la-fap-derribo-un-ovni-en-una-base-aerea-de-arequipa-y-un-agente-del-gobierno-de-estados-unidos-elaboro-un-informe-confidencial-sobre-este-suceso-oscar-santa-maria-huertas-extraterrestres-alien-objeto-volador-no-identificado-cuerpos-no-humanos-nnsp-noticia/" target="_blank" rel="noopener noreferrer nofollow">https://elcomercio.pe/archivo-elcomercio/ovnis-la-vez-que-un-piloto-de-la-fap-derribo-un-ovni-en-una-base-aerea-de-arequipa-y-un-agente-del-gobierno-de-estados-unidos-elaboro-un-informe-confidencial-sobre-este-suceso-oscar-santa-maria-huertas-extraterrestres-alien-objeto-volador-no-identificado-cuerpos-no-humanos-nnsp-noticia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>El Comercio PerúLa vez que un piloto de la FAP derribó un ovni en Arequipa...Aug 12, 2023 — Era el viernes 11 de abril de 1980, cuando e...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: theepochtimes.com  
    Title: The Epoch Times Peruvian Jet Pilot Tells of Tangle With UFO (+Photos)  
-   Link: [https://www.theepochtimes.com/article/peruvian-jet-pilot-tells-of-tangle-with-ufo-37316](https://www.theepochtimes.com/article/peruvian-jet-pilot-tells-of-tangle-with-ufo-37316)  
+   Link: <a href="https://www.theepochtimes.com/article/peruvian-jet-pilot-tells-of-tangle-with-ufo-37316" target="_blank" rel="noopener noreferrer nofollow">https://www.theepochtimes.com/article/peruvian-jet-pilot-tells-of-tangle-with-ufo-37316</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar Santa Maria Huerta, was no novice when he took aim at a threatening balloon-shaped object...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: diariocorreo.pe  
-   Link: [https://diariocorreo.pe/edicion/arequipa/conoce-la-historia-del-piloto-de-fuerza-aerea-del-peru-que-se-enfrento-a-un-ovni-en-arequipa-noticia/](https://diariocorreo.pe/edicion/arequipa/conoce-la-historia-del-piloto-de-fuerza-aerea-del-peru-que-se-enfrento-a-un-ovni-en-arequipa-noticia/)  
+   Link: <a href="https://diariocorreo.pe/edicion/arequipa/conoce-la-historia-del-piloto-de-fuerza-aerea-del-peru-que-se-enfrento-a-un-ovni-en-arequipa-noticia/" target="_blank" rel="noopener noreferrer nofollow">https://diariocorreo.pe/edicion/arequipa/conoce-la-historia-del-piloto-de-fuerza-aerea-del-peru-que-se-enfrento-a-un-ovni-en-arequipa-noticia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conoce la historia del piloto de la Fuerza Aérea del Perú...Aug 4, 2023 — El hecho ocurrió en abril de 1980, Santa María Huerta tuvo con...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: worksheets.codalab.org  
-   Link: [https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt](https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt)  
+   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... black services story 6 europe sales policy visit northern lot across per current board football...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: 𝐒𝐤𝐲𝐰𝐚𝐭𝐜𝐡𝑀𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑓𝑟𝑜𝑚 𝑎𝑏𝑜𝑣𝑒𝗧𝗛𝗘 𝗟𝗔 𝗝𝗢𝗬𝗔 𝗨𝗙𝗢 𝗜𝗡𝗖𝗜𝗗𝗘𝗡𝗧𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘧𝘪𝘳𝘪𝘯𝘨 64 𝘤𝘢𝘯𝘯𝘰𝘯 𝘳𝘰𝘶𝘯  
-   Link: [https://www.facebook.com/hercolubus.en/posts/%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%B2%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9C%F0%9D%90%A1%F0%9D%91%80%F0%9D%91%92%F0%9D%91%A0%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92%F0%9D%91%A0-%F0%9D%91%93%F0%9D%91%9F%F0%9D%91%9C%F0%9D%91%9A-%F0%9D%91%8E%F0%9D%91%8F%F0%9D%91%9C%F0%9D%91%A3%F0%9D%91%92%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%9F%F0%9D%97%94-%F0%9D%97%9D%F0%9D%97%A2%F0%9D%97%AC%F0%9D%97%94-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%98%90%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A6-%F0%9D%98%A7%F0%9D%98%AA%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A8-64-%F0%9D%98%A4%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%AF%F0%9D%98%B0%F0%9D%98%AF-%F0%9D%98%B3%F0%9D%98%B0%F0%9D%98%B6%F0%9D%98%AF/1337211531784061/](https://www.facebook.com/hercolubus.en/posts/%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%B2%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9C%F0%9D%90%A1%F0%9D%91%80%F0%9D%91%92%F0%9D%91%A0%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92%F0%9D%91%A0-%F0%9D%91%93%F0%9D%91%9F%F0%9D%91%9C%F0%9D%91%9A-%F0%9D%91%8E%F0%9D%91%8F%F0%9D%91%9C%F0%9D%91%A3%F0%9D%91%92%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%9F%F0%9D%97%94-%F0%9D%97%9D%F0%9D%97%A2%F0%9D%97%AC%F0%9D%97%94-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%98%90%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A6-%F0%9D%98%A7%F0%9D%98%AA%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A8-64-%F0%9D%98%A4%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%AF%F0%9D%98%B0%F0%9D%98%AF-%F0%9D%98%B3%F0%9D%98%B0%F0%9D%98%B6%F0%9D%98%AF/1337211531784061/)  
+   Link: <a href="https://www.facebook.com/hercolubus.en/posts/%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%B2%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9C%F0%9D%90%A1%F0%9D%91%80%F0%9D%91%92%F0%9D%91%A0%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92%F0%9D%91%A0-%F0%9D%91%93%F0%9D%91%9F%F0%9D%91%9C%F0%9D%91%9A-%F0%9D%91%8E%F0%9D%91%8F%F0%9D%91%9C%F0%9D%91%A3%F0%9D%91%92%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%9F%F0%9D%97%94-%F0%9D%97%9D%F0%9D%97%A2%F0%9D%97%AC%F0%9D%97%94-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%98%90%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A6-%F0%9D%98%A7%F0%9D%98%AA%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A8-64-%F0%9D%98%A4%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%AF%F0%9D%98%B0%F0%9D%98%AF-%F0%9D%98%B3%F0%9D%98%B0%F0%9D%98%B6%F0%9D%98%AF/1337211531784061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hercolubus.en/posts/%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%B2%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9C%F0%9D%90%A1%F0%9D%91%80%F0%9D%91%92%F0%9D%91%A0%F0%9D%91%A0%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92%F0%9D%91%A0-%F0%9D%91%93%F0%9D%91%9F%F0%9D%91%9C%F0%9D%91%9A-%F0%9D%91%8E%F0%9D%91%8F%F0%9D%91%9C%F0%9D%91%A3%F0%9D%91%92%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%9F%F0%9D%97%94-%F0%9D%97%9D%F0%9D%97%A2%F0%9D%97%AC%F0%9D%97%94-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%98%90%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A6-%F0%9D%98%A7%F0%9D%98%AA%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A8-64-%F0%9D%98%A4%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%AF%F0%9D%98%B0%F0%9D%98%AF-%F0%9D%98%B3%F0%9D%98%B0%F0%9D%98%B6%F0%9D%98%AF/1337211531784061/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐒𝐤𝐲𝐰𝐚𝐭𝐜𝐡 “𝑀𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑓𝑟𝑜𝑚 𝑎𝑏𝑜𝑣𝑒” 𝗧𝗛𝗘 “𝗟𝗔...7 Mar 2026 — La Joya Peruvian Air Force UFO dog fight incident, 1980 April 11, 1980, and the 23...</p></details>
    Published: April 11, 1980  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: two pilots recount the same experience of engaging mid air with a ufo but in two  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/two-pilots-recount-the-same-experience-of-engaging-mid-air-with-a-ufo-but-in-two/1260775392918557/](https://www.facebook.com/TheUnXplainedZone/posts/two-pilots-recount-the-same-experience-of-engaging-mid-air-with-a-ufo-but-in-two/1260775392918557/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/two-pilots-recount-the-same-experience-of-engaging-mid-air-with-a-ufo-but-in-two/1260775392918557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/two-pilots-recount-the-same-experience-of-engaging-mid-air-with-a-ufo-but-in-two/1260775392918557/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two pilots recount the same experience of engaging mid...La Joya 1980 Peruvian Air Force UFO dog fight incident April 11, 1980, and the...</p></details>
    Published: April 11, 1980  
 
 9. <a id="endnote-9"></a>
    Source: dailygrail.com  
    Title: five times in the past when military pilots were sent to intercept ufos  
-   Link: [https://www.dailygrail.com/2023/02/five-times-in-the-past-when-military-pilots-were-sent-to-intercept-ufos/](https://www.dailygrail.com/2023/02/five-times-in-the-past-when-military-pilots-were-sent-to-intercept-ufos/)  
+   Link: <a href="https://www.dailygrail.com/2023/02/five-times-in-the-past-when-military-pilots-were-sent-to-intercept-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2023/02/five-times-in-the-past-when-military-pilots-were-sent-to-intercept-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five Times in the Past When Military Pilots Were Sent to...14 Feb 2023 — Even though Huertas was never interrogated by US representative...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tvperu.gob.pe  
    Title: caso ovni en la base aerea de la joya y las revelaciones en ee uu  
-   Link: [https://www.tvperu.gob.pe/novedades/hora-contacto/caso-ovni-en-la-base-aerea-de-la-joya-y-las-revelaciones-en-ee-uu](https://www.tvperu.gob.pe/novedades/hora-contacto/caso-ovni-en-la-base-aerea-de-la-joya-y-las-revelaciones-en-ee-uu)  
+   Link: <a href="https://www.tvperu.gob.pe/novedades/hora-contacto/caso-ovni-en-la-base-aerea-de-la-joya-y-las-revelaciones-en-ee-uu" target="_blank" rel="noopener noreferrer nofollow">https://www.tvperu.gob.pe/novedades/hora-contacto/caso-ovni-en-la-base-aerea-de-la-joya-y-las-revelaciones-en-ee-uu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caso OVNI en la Base Aérea de La Joya y las...Mar 24, 2025 — El piloto Óscar Santa María Huertas persiguió un objeto volador no identifi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9AG9i-mJPEA](https://www.youtube.com/watch?v=9AG9i-mJPEA)  
+   Link: <a href="https://www.youtube.com/watch?v=9AG9i-mJPEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9AG9i-mJPEA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE JEWEL CASE AND THOSE THEY&#x27;RE HIDING FROM US ABOUT EXTRATERRESTRIALS | OSCAR SANTA MARÍA | Episode 114...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: ✈️ ¡El piloto que disparó contra un ovni en Perú!  
-   Link: [https://www.facebook.com/noticias.tvperu/posts/%EF%B8%8F-el-piloto-que-dispar%C3%B3-contra-un-ovni-en-per%C3%BA-en-1980-el-piloto-de-la-fuerza-a%C3%A9/1103642811807713/](https://www.facebook.com/noticias.tvperu/posts/%EF%B8%8F-el-piloto-que-dispar%C3%B3-contra-un-ovni-en-per%C3%BA-en-1980-el-piloto-de-la-fuerza-a%C3%A9/1103642811807713/)  
+   Link: <a href="https://www.facebook.com/noticias.tvperu/posts/%EF%B8%8F-el-piloto-que-dispar%C3%B3-contra-un-ovni-en-per%C3%BA-en-1980-el-piloto-de-la-fuerza-a%C3%A9/1103642811807713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/noticias.tvperu/posts/%EF%B8%8F-el-piloto-que-dispar%C3%B3-contra-un-ovni-en-per%C3%BA-en-1980-el-piloto-de-la-fuerza-a%C3%A9/1103642811807713/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>En 1980...La madrugada del 11 de abril de 1980, la base aérea de La Joya, en Arequipa, captó un objeto volador no identificado sobrevola...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>black take director version 2003 society northern 8 live popular william california together st. living royal act election championship 2...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VnL0gfduJfg](https://www.youtube.com/watch?v=VnL0gfduJfg)  
+   Link: <a href="https://www.youtube.com/watch?v=VnL0gfduJfg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VnL0gfduJfg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The shocking testimony of the only pilot who encountered a UFO in Peru I Hora Contacto LIVE...</p></details>

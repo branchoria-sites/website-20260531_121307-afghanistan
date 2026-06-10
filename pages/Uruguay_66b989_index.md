@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uruguay-66b989-index/
 description: Focused pages that expand on What Uruguay's UFO Files Really Show.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Uruguay_66b989
 parent_title: What Uruguay's UFO Files Really Show

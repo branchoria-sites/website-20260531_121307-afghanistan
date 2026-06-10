@@ -239,7 +239,7 @@ prev_link:
   permalink: /civilian-reports-a6ac84/
   short_title: Civilian Reports
   heading_title: How Strong Are Jordan's Civilian UFO Reports?
-date: '2026-06-09 01:33:55 '
+date: '2026-06-10 01:59:30 '
 header:
   og_image: /assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-1-social.jpg
   preview_image: /assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-1.webp
@@ -265,7 +265,7 @@ Although April Fool’s jokes are a familiar tradition in some countries, they a
 
 The public reaction in Jafr was not limited to casual disbelief. Local officials responded as though an actual emergency was unfolding. According to contemporary reporting, Mayor Mleihan said he ordered security forces to search the desert perimeter for the supposed extraterrestrials after hearing that the town had been illuminated by the strange craft and that communications had supposedly gone down. “Students didn’t go to school, their parents were frightened,” he explained in interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/newspapers-ufo-prank-causes-mayhem-in-jordan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Newspaper&#x27;s UFO Prank Causes Mayhem in Jordan</span><span class="citation-popover-snippet">CBS NewsNewspaper&#x27;s UFO Prank Causes Mayhem in Jordan - CBS NewsApril 5, 2010...</span><span class="citation-popover-meta">Published: April 5, 2010</span></span></span>
 
-Emergency planners reportedly came close to activating a full crisis response, and some sources suggest that decisions about evacuating vulnerable populations were under serious consideration before it was clarified that the episode was a journalistic prank. The Associated Press and Reuters reported that authorities viewed the claim with concern, and that the idea of an alien landing had induced apprehension beyond simple curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegazette.com">[The Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegazette.com</span><span class="citation-popover-title">The Gazette Jordanian paper&#x27;s April Fool&#x27;s UFOs spark panic | The Gazette</span><span class="citation-popover-snippet">The GazetteJordanian paper&#x27;s April Fool&#x27;s UFOs spark panic | The GazetteApril 5, 2010...</span><span class="citation-popover-meta">Published: April 5, 2010</span></span></span>
+Emergency planners reportedly came close to activating a full crisis response, and some sources suggest that decisions about evacuating vulnerable populations were under serious consideration before it was clarified that the episode was a journalistic prank. The Associated Press and Reuters reported that authorities viewed the claim with concern, and that the idea of an alien landing had induced apprehension beyond simple curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegazette.com">[The Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegazette.com</span><span class="citation-popover-title">The Gazette Jordanian paper&#x27;s April Fool&#x27;s UFOs spark panic &#124; The Gazette</span><span class="citation-popover-snippet">The GazetteJordanian paper&#x27;s April Fool&#x27;s UFOs spark panic &#124; The GazetteApril 5, 2010...</span><span class="citation-popover-meta">Published: April 5, 2010</span></span></span>
 
 Al Ghad’s managing editor, **Moussa Barhoumeh**, later said the article had been intended as light entertainment rather than a scare. He described the reaction as having been “blown out of proportion”, and the paper issued an apology to readers and local officials for the disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/newspapers-ufo-prank-causes-mayhem-in-jordan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Newspaper&#x27;s UFO Prank Causes Mayhem in Jordan</span><span class="citation-popover-snippet">CBS NewsNewspaper&#x27;s UFO Prank Causes Mayhem in Jordan - CBS NewsApril 5, 2010...</span><span class="citation-popover-meta">Published: April 5, 2010</span></span></span>
 
@@ -275,13 +275,13 @@ Al Ghad’s managing editor, **Moussa Barhoumeh**, later said the article had be
 <img src="{{ "/assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-2-dark.svg" | relative_url }}" alt="Jafr Hoax illustration 2" data-theme-src-dark="{{ "/assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Hoax Still Matters
 
-The Jafr incident stands out in Jordan’s UFO record because it is one of the few cases that is demonstrably a media‑induced hoax accompanied by clear evidence of public response. Unlike isolated [civilian sighting]({{ 'civilian-reports-a6ac84/' | relative_url }}) reports with no follow‑up or security incidents involving actual unidentified aerial objects, this episode is anchored in documented contemporary coverage, official statements and the post‑hoc apology of the newspaper itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jafr_alien_invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jafr alien invasion</span><span class="citation-popover-snippet">Jafr alien invasion</span></span></span>
+The Jafr incident stands out in Jordan’s UFO record because it is one of the few cases that is demonstrably a media‑induced hoax accompanied by clear evidence of public response. Unlike isolated civilian sighting reports with no follow‑up or security incidents involving actual unidentified aerial objects, this episode is anchored in documented contemporary coverage, official statements and the post‑hoc apology of the newspaper itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jafr_alien_invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jafr alien invasion</span><span class="citation-popover-snippet">Jafr alien invasion</span></span></span>
 
 Several factors contributed to the incident’s impact:
 
-* **Cultural context:** April Fool’s jokes were not widely understood as a tradition in Jordan at the time, so many readers took the front‑page headline literally and without scepticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbur.org">[wbur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbur.org</span><span class="citation-popover-title">april fools story sparks panic in jordan</span><span class="citation-popover-snippet">April Fool&#x27;s Story Sparks Panic In Jordan | WBURApril 6, 2010...</span><span class="citation-popover-meta">Published: April 6, 2010</span></span></span>
-* **Official reaction:** The local mayor and security authorities initially accepted the claim as credible, illustrating how even trained decision‑makers can be influenced by authoritative media formats when context is ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegazette.com">[The Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegazette.com</span><span class="citation-popover-title">The Gazette Jordanian paper&#x27;s April Fool&#x27;s UFOs spark panic | The Gazette</span><span class="citation-popover-snippet">The GazetteJordanian paper&#x27;s April Fool&#x27;s UFOs spark panic | The GazetteApril 5, 2010...</span><span class="citation-popover-meta">Published: April 5, 2010</span></span></span>
-* **Public anxiety:** Fear of unknown threats, especially in a region accustomed to security concerns, may have amplified the story’s effects beyond simple amusement. The episode was later compared to the famous 1938 **War of the Worlds** broadcast in the United States, which also triggered widespread fear when audiences mistook a fictional extraterrestrial invasion for real news. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbur.org">[wbur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbur.org</span><span class="citation-popover-title">april fools story sparks panic in jordan</span><span class="citation-popover-snippet">April Fool&#x27;s Story Sparks Panic In Jordan | WBURApril 6, 2010...</span><span class="citation-popover-meta">Published: April 6, 2010</span></span></span>
+* **Cultural context:** April Fool’s jokes were not widely understood as a tradition in Jordan at the time, so many readers took the front‑page headline literally and without scepticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbur.org">[wbur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbur.org</span><span class="citation-popover-title">april fools story sparks panic in jordan</span><span class="citation-popover-snippet">April Fool&#x27;s Story Sparks Panic In Jordan &#124; WBURApril 6, 2010...</span><span class="citation-popover-meta">Published: April 6, 2010</span></span></span>
+* **Official reaction:** The local mayor and security authorities initially accepted the claim as credible, illustrating how even trained decision‑makers can be influenced by authoritative media formats when context is ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegazette.com">[The Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegazette.com</span><span class="citation-popover-title">The Gazette Jordanian paper&#x27;s April Fool&#x27;s UFOs spark panic &#124; The Gazette</span><span class="citation-popover-snippet">The GazetteJordanian paper&#x27;s April Fool&#x27;s UFOs spark panic &#124; The GazetteApril 5, 2010...</span><span class="citation-popover-meta">Published: April 5, 2010</span></span></span>
+* **Public anxiety:** Fear of unknown threats, especially in a region accustomed to security concerns, may have amplified the story’s effects beyond simple amusement. The episode was later compared to the famous 1938 **War of the Worlds** broadcast in the United States, which also triggered widespread fear when audiences mistook a fictional extraterrestrial invasion for real news. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbur.org">[wbur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbur.org</span><span class="citation-popover-title">april fools story sparks panic in jordan</span><span class="citation-popover-snippet">April Fool&#x27;s Story Sparks Panic In Jordan &#124; WBURApril 6, 2010...</span><span class="citation-popover-meta">Published: April 6, 2010</span></span></span>
 
 The Jafr hoax remains a reference point in discussions of how rumor, media and local perceptions intersect in Jordan’s sky‑watching culture. Its relevance lies not in any physical evidence of unidentified craft, but in what it reveals about how easily misinformation can produce tangible fear and mobilise real responses when novelty, authority and uncertainty converge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jafr_alien_invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jafr alien invasion</span><span class="citation-popover-snippet">Jafr alien invasion</span></span></span>
 
@@ -293,86 +293,44 @@ The Jafr hoax remains a reference point in discussions of how rumor, media and l
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The April Fool&#x27;s UFO That Frightened Jafr. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The April Fool&#x27;s UFO That Frightened Jafr, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how investigators separate genuine reports from false alarms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between stronger evidence cases and public rumors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses credibility, evidence and media treatment of UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Examines hoaxes, mass belief and critical thinking around extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -406,75 +364,71 @@ The Jafr hoax remains a reference point in discussions of how rumor, media and l
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jafr-hoax-the-april-fool-s-ufo-that-frightened-jafr-jordan-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -689,32 +643,32 @@ The Jafr hoax remains a reference point in discussions of how rumor, media and l
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jafr alien invasion  
-   Link: [https://en.wikipedia.org/wiki/Jafr_alien_invasion](https://en.wikipedia.org/wiki/Jafr_alien_invasion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jafr_alien_invasion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jafr_alien_invasion</a>  
 
 2. <a id="endnote-2"></a>
    Source: wbur.org  
    Title: april fools story sparks panic in jordan  
-   Link: [https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan](https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan)  
+   Link: <a href="https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan" target="_blank" rel="noopener noreferrer nofollow">https://www.wbur.org/npr/125614102/april-fools-story-sparks-panic-in-jordan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April Fool&#x27;s Story Sparks Panic In Jordan | WBURApril 6, 2010...</p></details>
    Published: April 6, 2010  
 
 3. <a id="endnote-3"></a>
    Source: cbsnews.com  
    Title: CBS News Newspaper's UFO Prank Causes Mayhem in Jordan  
-   Link: [https://www.cbsnews.com/news/newspapers-ufo-prank-causes-mayhem-in-jordan/](https://www.cbsnews.com/news/newspapers-ufo-prank-causes-mayhem-in-jordan/)  
+   Link: <a href="https://www.cbsnews.com/news/newspapers-ufo-prank-causes-mayhem-in-jordan/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/newspapers-ufo-prank-causes-mayhem-in-jordan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNewspaper&#x27;s UFO Prank Causes Mayhem in Jordan - CBS NewsApril 5, 2010...</p></details>
    Published: April 5, 2010  
 
 4. <a id="endnote-4"></a>
    Source: thegazette.com  
    Title: The Gazette Jordanian paper's April Fool's UFOs spark panic | The Gazette  
-   Link: [https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/](https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/)  
+   Link: <a href="https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow">https://www.thegazette.com/news/jordanian-papers-april-fools-ufos-spark-panic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GazetteJordanian paper&#x27;s April Fool&#x27;s UFOs spark panic | The GazetteApril 5, 2010...</p></details>
    Published: April 5, 2010  
 
 5. <a id="endnote-5"></a>
    Source: en.ammonnews.net  
-   Link: [https://en.ammonnews.net/article/7369](https://en.ammonnews.net/article/7369)  
+   Link: <a href="https://en.ammonnews.net/article/7369" target="_blank" rel="noopener noreferrer nofollow">https://en.ammonnews.net/article/7369</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>paper&#x27;s April Fool&#x27;s UFOs spark panic | Gotcha | Ammon NewsMay 11, 2010 — JORDANIAN PAPER&#x27;S APRIL FOOL&#x27;S UFOS SPARK PANIC 11-05-2010 07:5...</p></details>
    Published: May 11, 2010  
 
@@ -722,69 +676,69 @@ The Jafr hoax remains a reference point in discussions of how rumor, media and l
 
 6. <a id="endnote-6"></a>
    Source: 6abc.com  
-   Link: [https://6abc.com/archive/7370260/](https://6abc.com/archive/7370260/)  
+   Link: <a href="https://6abc.com/archive/7370260/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/archive/7370260/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6abc PhiladelphiaApril 6, 2010 — JORDANIAN PAPER&#x27;S APRIL FOOL&#x27;S UFOS SPARK PANIC wpvi By 6abc Tuesday, April 6, 2010 AMMAN, Jordan (AP)...</p></details>
    Published: April 6, 2010  
 
 7. <a id="endnote-7"></a>
    Source: abc7ny.com  
    Title: Jordanian paper's April Fool's UFOs spark panic | ABC7 New York | abc7ny.com  
-   Link: [https://abc7ny.com/archive/7368521/](https://abc7ny.com/archive/7368521/)  
+   Link: <a href="https://abc7ny.com/archive/7368521/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/7368521/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 New YorkApril 5, 2010 — NEWSPAPER&#x27;S APRIL FOOL&#x27;S UFOS SPARK PANIC wabc By abc7NY Monday, April 5, 2010 AMMAN, Jordan The Al Ghad new...</p></details>
    Published: April 5, 2010  
 
 8. <a id="endnote-8"></a>
    Source: twocircles.net  
    Title: April Fool prank leads to alien hunt in Jordan town – Two Circles.net  
-   Link: [https://twocircles.net/2010apr05/april_fool_prank_leads_alien_hunt_jordan_town.html](https://twocircles.net/2010apr05/april_fool_prank_leads_alien_hunt_jordan_town.html)  
+   Link: <a href="https://twocircles.net/2010apr05/april_fool_prank_leads_alien_hunt_jordan_town.html" target="_blank" rel="noopener noreferrer nofollow">https://twocircles.net/2010apr05/april_fool_prank_leads_alien_hunt_jordan_town.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April Fool prank leads to alien hunt in Jordan town – TwoCircles.netApril 6, 2010 — Home International April Fool prank leads to alien hu...</p></details>
    Published: April 6, 2010  
 
 9. <a id="endnote-9"></a>
    Source: heraldnet.com  
    Title: Jordanian paper’s April Fool’s UFOs spark panic | Herald Net.com  
-   Link: [https://www.heraldnet.com/2010/04/05/jordanian-papers-april-fools-ufos-spark-panic/](https://www.heraldnet.com/2010/04/05/jordanian-papers-april-fools-ufos-spark-panic/)  
+   Link: <a href="https://www.heraldnet.com/2010/04/05/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldnet.com/2010/04/05/jordanian-papers-april-fools-ufos-spark-panic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordanian paper’s April Fool’s UFOs spark panic | HeraldNet.comApril 5, 2010 — JORDANIAN PAPER’S APRIL FOOL’S UFOS SPARK PANIC Published...</p></details>
    Published: April 5, 2010  
 
 10. <a id="endnote-10"></a>
    Source: heraldnet.com  
    Title: UF O prank sparks panic in Jordan | Herald Net.com  
-   Link: [https://www.heraldnet.com/2010/04/05/ufo-prank-sparks-panic-in-jordan/](https://www.heraldnet.com/2010/04/05/ufo-prank-sparks-panic-in-jordan/)  
+   Link: <a href="https://www.heraldnet.com/2010/04/05/ufo-prank-sparks-panic-in-jordan/" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldnet.com/2010/04/05/ufo-prank-sparks-panic-in-jordan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO prank sparks panic in Jordan | HeraldNet.comApril 5, 2010 — UFO PRANK SPARKS PANIC IN JORDAN Published 10:35 pm Monday, April 5, 2010...</p></details>
    Published: April 5, 2010  
 
 11. <a id="endnote-11"></a>
    Source: sfgate.com  
    Title: Fake April 1 alien story sparks panic in Jordan  
-   Link: [https://www.sfgate.com/news/article/fake-april-1-alien-story-sparks-panic-in-jordan-3193271.php](https://www.sfgate.com/news/article/fake-april-1-alien-story-sparks-panic-in-jordan-3193271.php)  
+   Link: <a href="https://www.sfgate.com/news/article/fake-april-1-alien-story-sparks-panic-in-jordan-3193271.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/fake-april-1-alien-story-sparks-panic-in-jordan-3193271.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2010 — FAKE APRIL 1 ALIEN STORY SPARKS PANIC IN JORDAN JORDAN By Jamal Halaby, Associated Press April 11, 2010 This photo taken...</p></details>
    Published: April 11, 2010  
 
 12. <a id="endnote-12"></a>
    Source: dailyherald.com  
    Title: Jordanian paper's April Fool's UFOs spark panic  
-   Link: [https://www.dailyherald.com/20100404/news/jordanian-papers-april-fools-ufos-spark-panic/](https://www.dailyherald.com/20100404/news/jordanian-papers-april-fools-ufos-spark-panic/)  
+   Link: <a href="https://www.dailyherald.com/20100404/news/jordanian-papers-april-fools-ufos-spark-panic/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyherald.com/20100404/news/jordanian-papers-april-fools-ufos-spark-panic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2010 — JORDANIAN PAPER&#x27;S APRIL FOOL&#x27;S UFOS SPARK PANIC Posted April 04, 2010 11:00 pm AMMAN, Jordan -- A Jordanian newspaper&#x27;s A...</p></details>
    Published: April 4, 2010  
 
 13. <a id="endnote-13"></a>
    Source: gulfnews.com  
    Title: April Fool's Day UFOs report sparks mass panic  
-   Link: [https://gulfnews.com/world/mena/april-fools-day-ufos-report-sparks-mass-panic-1.608888](https://gulfnews.com/world/mena/april-fools-day-ufos-report-sparks-mass-panic-1.608888)  
+   Link: <a href="https://gulfnews.com/world/mena/april-fools-day-ufos-report-sparks-mass-panic-1.608888" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/world/mena/april-fools-day-ufos-report-sparks-mass-panic-1.608888</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 15, 2018 — April Fool&#x27;s Day UFOs report sparks mass panic World / Mena APRIL FOOL&#x27;S DAY UFOS REPORT SPARKS MASS PANIC Newspaper...</p></details>
    Published: September 15, 2018  
 
 14. <a id="endnote-14"></a>
    Source: news.slashdot.org  
    Title: krou writes "Jordanian mayor Mohammed M  
-   Link: [https://news.slashdot.org/story/10/04/06/1427238/jordanian-mayor-angry-over-alien-invasion-prank](https://news.slashdot.org/story/10/04/06/1427238/jordanian-mayor-angry-over-alien-invasion-prank)  
+   Link: <a href="https://news.slashdot.org/story/10/04/06/1427238/jordanian-mayor-angry-over-alien-invasion-prank" target="_blank" rel="noopener noreferrer nofollow">https://news.slashdot.org/story/10/04/06/1427238/jordanian-mayor-angry-over-alien-invasion-prank</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayor Angry Over &quot;Alien Invasion&quot; Prank - SlashdotApril 6, 2010 — 11180130 story JORDANIAN MAYOR ANGRY OVER &quot;ALIEN INVASION&quot; PRANK 217 Po...</p></details>
    Published: April 6, 2010  
 
 15. <a id="endnote-15"></a>
    Source: bdaily.co.uk  
    Title: Jordan fooled by alien hoax | Bdaily  
-   Link: [https://www.bdaily.co.uk/articles/2010/04/08/jordan-fooled-by-alien-hoax](https://www.bdaily.co.uk/articles/2010/04/08/jordan-fooled-by-alien-hoax)  
+   Link: <a href="https://www.bdaily.co.uk/articles/2010/04/08/jordan-fooled-by-alien-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.bdaily.co.uk/articles/2010/04/08/jordan-fooled-by-alien-hoax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 2010 — Published by Partner Ruth Mitchell on 08 Apr 2010 * * Partner Article JORDAN FOOLED BY ALIEN HOAX A Jordanian mayor is co...</p></details>
    Published: April 8, 2010  

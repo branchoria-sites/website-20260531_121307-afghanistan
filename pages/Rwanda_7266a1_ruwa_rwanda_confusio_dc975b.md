@@ -239,7 +239,7 @@ prev_link:
   permalink: /missing-reports-b9cb78/
   short_title: Missing Reports
   heading_title: Why Are Rwanda UFO Reports So Hard to Find?
-date: '2026-06-09 01:38:30 '
+date: '2026-06-10 02:05:18 '
 header:
   og_image: /assets/images/Rwanda_7266a1_ruwa_rwanda_confusio_dc975b-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_ruwa_rwanda_confusio_dc975b-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Rwanda_7266a1_ruwa_rwanda_confusio_dc975b-Illustration-1-s
 
 ## Introduction
 
-One of the most persistent mistakes in African UFO discussions is the accidental merging of **Ruwa, Zimbabwe** with **[Rwanda]({{ 'what-is-rwandas-real-ufo-record/' | relative_url }})**. The confusion is understandable at a glance: both names begin with similar letters, both are located in sub-Saharan Africa, and online searches often compress unfamiliar place names into a single mental category. Yet the distinction matters. The famous 1994 Ariel School incident happened in **Ruwa, a town near Harare in Zimbabwe**, not in Rwanda. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span>
+One of the most persistent mistakes in African UFO discussions is the accidental merging of **Ruwa, Zimbabwe** with **Rwanda**. The confusion is understandable at a glance: both names begin with similar letters, both are located in sub-Saharan Africa, and online searches often compress unfamiliar place names into a single mental category. Yet the distinction matters. The famous 1994 Ariel School incident happened in **Ruwa, a town near Harare in Zimbabwe**, not in Rwanda. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rwanda_7266a1_ruwa_rwanda_confusio_dc975b-Illustration-1-dark.svg" | relative_url }}" alt="Ruwa Mixup illustration 1" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_ruwa_rwanda_confusio_dc975b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_ruwa_rwanda_confusio_dc975b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,7 +286,7 @@ Search engines can amplify this tendency. Users who only remember fragments such
 
 UFO documentaries, podcasts and social media posts often compress geography into broad labels such as "the African UFO case". Once the country is removed from the story, later retellings can drift. The result is a gradual migration of a Zimbabwean event into discussions that are supposedly about Rwanda.
 
-This is particularly noticeable in online forums where users discuss African UFO reports as a single category rather than as separate national histories. Community discussions frequently reference the Ariel School event without emphasising its precise location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ariel School UFO Incident</span><span class="citation-popover-snippet">RedditAriel School UFO Incident - all 71 known drawings by the...November 2, 2022 — All 71 known drawings by the students in a rough chr...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
+This is particularly noticeable in online forums where users discuss African UFO reports as a single category rather than as separate national histories. Community discussions frequently reference the Ariel School event without emphasising its precise location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ariel School UFO Incident</span><span class="citation-popover-snippet">Ariel School UFO Incident - all 71 known drawings by the...November 2, 2022 — All 71 known drawings by the students in a rough chr...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
 ### Repetition through secondary sources
 
@@ -380,86 +380,44 @@ Ruwa remains one of the most famous UFO cases associated with Africa because it 
 The result may seem less dramatic, but it is more accurate. The celebrated Ariel School encounter belongs to the history of **Ruwa, Zimbabwe**, while Rwanda's UFO record remains comparatively limited, fragmented and far less documented in publicly accessible sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Ruwa Is Not a Rwanda UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Ruwa Is Not a Rwanda UFO Case, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Relevant to assessing famous witness stories critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps readers evaluate witness-based mass-sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison points with better documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Addresses how extraordinary narratives develop around reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -493,75 +451,71 @@ The result may seem less dramatic, but it is more accurate. The celebrated Ariel
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ruwa-mixup-why-ruwa-is-not-a-rwanda-ufo-case-rwanda-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -776,111 +730,111 @@ The result may seem less dramatic, but it is more accurate. The celebrated Ariel
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: whyy.org  
-   Link: [https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/](https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/)  
+   Link: <a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For John Mack, it all started with a phone call from BBC&#x27;s Zimbabwe correspondent Tim Leach.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Ariel School UFO Incident  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/](https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAriel School UFO Incident - all 71 known drawings by the...November 2, 2022 — All 71 known drawings by the students in a rough chr...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO Incident - all 71 known drawings by the...November 2, 2022 — All 71 known drawings by the students in a rough chr...</p></details>
    Published: November 2, 2022  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: ariel school et encounter 1994  
-   Link: [https://www.reddit.com/r/Zimbabwe/comments/1m6z7ig/ariel_school_et_encounter_1994/](https://www.reddit.com/r/Zimbabwe/comments/1m6z7ig/ariel_school_et_encounter_1994/)  
+   Link: <a href="https://www.reddit.com/r/Zimbabwe/comments/1m6z7ig/ariel_school_et_encounter_1994/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Zimbabwe/comments/1m6z7ig/ariel_school_et_encounter_1994/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ZimbabweUFO Encounter at Ariel School in Ruwa, Zimbabwe 1994 - Interviewed by Dr. John E. Mack... BBC journalist allegedly threatened...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: brattlefilm.org  
-   Link: [https://brattlefilm.org/movies/ariel-phenomenon/](https://brattlefilm.org/movies/ariel-phenomenon/)  
+   Link: <a href="https://brattlefilm.org/movies/ariel-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://brattlefilm.org/movies/ariel-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel PhenomenonAriel Phenomenon is the first to thoroughly document the account of over sixty schoolchildren at Ariel School in Ruwa, Zi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: children talk about witnessing the 1994 ufo  
-   Link: [https://www.reddit.com/r/aliens/comments/19d8cbv/children_talk_about_witnessing_the_1994_ufo/](https://www.reddit.com/r/aliens/comments/19d8cbv/children_talk_about_witnessing_the_1994_ufo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/19d8cbv/children_talk_about_witnessing_the_1994_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/19d8cbv/children_talk_about_witnessing_the_1994_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>landing at the...Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe. Video.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/](https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Journalist Allegedly Threatened by CIA Over Ariel...The case involved 62 students from Ariel School in Ruwa, who reported seeing a d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17zbmgd/ive_been_doing_a_bit_of_reading_about_the_ariel/](https://www.reddit.com/r/aliens/comments/17zbmgd/ive_been_doing_a_bit_of_reading_about_the_ariel/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17zbmgd/ive_been_doing_a_bit_of_reading_about_the_ariel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17zbmgd/ive_been_doing_a_bit_of_reading_about_the_ariel/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ith the children not long after the event, as well as...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: johnemackinstitute.org  
    Title: 2008 0416 TheWitness Ariel School  
-   Link: [https://www.johnemackinstitute.org/images/2008_0416_TheWitness_Ariel_School.pdf](https://www.johnemackinstitute.org/images/2008_0416_TheWitness_Ariel_School.pdf)  
+   Link: <a href="https://www.johnemackinstitute.org/images/2008_0416_TheWitness_Ariel_School.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.johnemackinstitute.org/images/2008_0416_TheWitness_Ariel_School.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1994, Harvard professor of psychia- try John E. Mack visited the school and filmed interviews with the chil- dren. He was assisted...Rea...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: redcircle.com  
-   Link: [https://redcircle.com/from-the-void-podcast1430/exclusive-content](https://redcircle.com/from-the-void-podcast1430/exclusive-content)  
+   Link: <a href="https://redcircle.com/from-the-void-podcast1430/exclusive-content" target="_blank" rel="noopener noreferrer nofollow">https://redcircle.com/from-the-void-podcast1430/exclusive-content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Void PodcastHe&#x27;s appeared on various television programs such as Ghost Adventures, UFO Hunters, Alien Highway, and most recently...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873](https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873)  
+   Link: <a href="https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Have Visited Us – And That Could Be A Problem. vault icon · What The UFO? Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database. vault...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness History. Blom, J. D., &amp; Hoffer... The 1994 Ruwa Zimbabwe Alien Encounter. Skeptoid Podcast. [https://skeptoid...Read](https://skeptoid...Read) more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: in september 1994 people in the rural town of ruwa in zimbabwe reported a strang  
-   Link: [https://www.facebook.com/bbcnews/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/10158891680172217/](https://www.facebook.com/bbcnews/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/10158891680172217/)  
+   Link: <a href="https://www.facebook.com/bbcnews/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/10158891680172217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/10158891680172217/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack traveled to Ruwa to interview the children, he interviewed... In 1994 Ariel, children at the Ariel school in Ruwa, Zimbabwe, s...</p></details>
    Published: september 1994  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: in september 1994 people in the rural town of ruwa in zimbabwe reported a strang  
-   Link: [https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/](https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/)  
+   Link: <a href="https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In September 1994, people in the rural town of Ruwa...Professor and Psychologist John Mack traveled to Ruwa to interview the children, h...</p></details>
    Published: september 1994  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: in 1994 at ariel school in ruwa zimbabwe more than 60 children claimed they wit  
-   Link: [https://www.facebook.com/john.robertson.260594/videos/-in-1994-at-ariel-school-in-ruwa-zimbabwe-more-than-60-children-claimed-they-wit/2558808661181047/](https://www.facebook.com/john.robertson.260594/videos/-in-1994-at-ariel-school-in-ruwa-zimbabwe-more-than-60-children-claimed-they-wit/2558808661181047/)  
+   Link: <a href="https://www.facebook.com/john.robertson.260594/videos/-in-1994-at-ariel-school-in-ruwa-zimbabwe-more-than-60-children-claimed-they-wit/2558808661181047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/john.robertson.260594/videos/-in-1994-at-ariel-school-in-ruwa-zimbabwe-more-than-60-children-claimed-they-wit/2558808661181047/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1994, at Ariel School in Ruwa, Zimbabwe, more than 60...Journalists from the BBC interviewed them soon after, and later Harvard psych...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: shock in southern africa mysterious alien beings allegedly discovered in zimbab  
-   Link: [https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/](https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/)  
+   Link: <a href="https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCK IN SOUTHERN AFRICA: Mysterious “Alien Beings”...SHOCK IN SOUTHERN AFRICA: Mysterious “Alien Beings” Allegedly Discovered in Zimbab...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: grunge.com  
    Title: 1994 kids claimed to see aliens zimbabwe africa ariel school  
-   Link: [https://www.grunge.com/1397238/1994-kids-claimed-to-see-aliens-zimbabwe-africa-ariel-school/](https://www.grunge.com/1397238/1994-kids-claimed-to-see-aliens-zimbabwe-africa-ariel-school/)  
+   Link: <a href="https://www.grunge.com/1397238/1994-kids-claimed-to-see-aliens-zimbabwe-africa-ariel-school/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1397238/1994-kids-claimed-to-see-aliens-zimbabwe-africa-ariel-school/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1994 Over 60 Kids Claimed To Have Seen Aliens. Here&#x27;s...22 Sept 2023 — On September 16, 1994, over 60 kids attending Ruwa, Zimbabwe&#x27;s...</p></details>
    Published: September 16, 1994  
 
 18. <a id="endnote-18"></a>
    Source: victorstiff.com  
-   Link: [https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/](https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/)  
+   Link: <a href="https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/" target="_blank" rel="noopener noreferrer nofollow">https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon Review: Why Can&#x27;t We Admit What We...May 21, 2022 — In September 1994, something unexplainable happened in Ruwa, Zimbabwe...</p></details>
    Published: May 21, 2022  
 
 19. <a id="endnote-19"></a>
    Source: ufospensacolabeach.com  
-   Link: [https://www.ufospensacolabeach.com/the-30th-anniversary-of-the-ariel-school-ufo-incident/](https://www.ufospensacolabeach.com/the-30th-anniversary-of-the-ariel-school-ufo-incident/)  
+   Link: <a href="https://www.ufospensacolabeach.com/the-30th-anniversary-of-the-ariel-school-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-30th-anniversary-of-the-ariel-school-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 30th Anniversary of the Ariel School UFO incidentJul 17, 2024 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe...</p></details>
    Published: September 1994  

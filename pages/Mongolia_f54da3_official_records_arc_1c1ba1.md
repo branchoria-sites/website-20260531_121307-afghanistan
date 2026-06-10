@@ -245,7 +245,7 @@ next_link:
   permalink: /ulaanbaatar-2005/
   short_title: Ulaanbaatar 2005
   heading_title: What Happened Over Ulaanbaatar in 2005?
-date: '2026-06-09 01:34:27 '
+date: '2026-06-10 02:00:38 '
 header:
   og_image: /assets/images/Mongolia_f54da3_official_records_arc_1c1ba1-Illustration-1-social.jpg
   preview_image: /assets/images/Mongolia_f54da3_official_records_arc_1c1ba1-Illustration-1.webp
@@ -254,13 +254,13 @@ image: /assets/images/Mongolia_f54da3_official_records_arc_1c1ba1-Illustration-1
 
 ## Introduction
 
-For anyone trying to evaluate UFO reports in [Mongolia]({{ 'what-do-mongolias-ufo-reports-really/' | relative_url }}), the most important missing piece is not a dramatic secret file but the absence of a publicly accessible national archive of unidentified aerial sightings. Mongolia has a functioning civil aviation system, aviation regulators, and an accident-investigation structure, yet there is no known public repository comparable to the large UFO document releases seen in the United States or the United Kingdom. That absence shapes nearly every discussion of Mongolian UFO claims because aviation records are often the fastest way to determine whether an unusual sighting was linked to aircraft, balloons, satellites, rocket debris, weather phenomena, or an event already known to authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ais.mn/files/aip/eAIP/doc/CAAM_1999_eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ais.mn">[Ais]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ais.mn</span><span class="citation-popover-title">CAAM 1999 eng</span><span class="citation-popover-snippet">CIVIL AVIATION LAW OF MONGOLIA21 Jan 1999 — Air Accident Investigation Department shall carry out the investigation in cooperation with t...</span></span></span> [3ICAO 3ICAO]
+For anyone trying to evaluate UFO reports in Mongolia, the most important missing piece is not a dramatic secret file but the absence of a publicly accessible national archive of unidentified aerial sightings. Mongolia has a functioning civil aviation system, aviation regulators, and an accident-investigation structure, yet there is no known public repository comparable to the large UFO document releases seen in the United States or the United Kingdom. That absence shapes nearly every discussion of Mongolian UFO claims because aviation records are often the fastest way to determine whether an unusual sighting was linked to aircraft, balloons, satellites, rocket debris, weather phenomena, or an event already known to authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ais.mn/files/aip/eAIP/doc/CAAM_1999_eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ais.mn">[Ais]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ais.mn</span><span class="citation-popover-title">CAAM 1999 eng</span><span class="citation-popover-snippet">CIVIL AVIATION LAW OF MONGOLIA21 Jan 1999 — Air Accident Investigation Department shall carry out the investigation in cooperation with t...</span></span></span> [3ICAO 3ICAO]
 
 
 <img src="{{ "/assets/images/Mongolia_f54da3_official_records_arc_1c1ba1-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_official_records_arc_1c1ba1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_official_records_arc_1c1ba1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Civil Aviation as a Verification Path
 
-Mongolia's aviation system is governed through a civil aviation framework established under national aviation law and administered through state aviation authorities. The country is also integrated into international aviation structures through membership in the International Civil Aviation Organization (ICAO). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">ICAOFALForumMongolia 100 Years of Civil Aviation in MongoliaOn January 21, 1999, the &quot;Law on Civil Aviation&quot; was enacted, transforming th...</span><span class="citation-popover-meta">Published: January 21, 1999</span></span></span>
+Mongolia's aviation system is governed through a civil aviation framework established under national aviation law and administered through state aviation authorities. The country is also integrated into international aviation structures through membership in the International Civil Aviation Organization (ICAO). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">FALForumMongolia 100 Years of Civil Aviation in MongoliaOn January 21, 1999, the &quot;Law on Civil Aviation&quot; was enacted, transforming th...</span><span class="citation-popover-meta">Published: January 21, 1999</span></span></span>
 
 From a UFO-research perspective, this matters because aviation systems routinely generate records that can help explain unusual aerial observations. Depending on the event, potentially relevant records could include:
 
@@ -268,16 +268,16 @@ From a UFO-research perspective, this matters because aviation systems routinely
 * Radar observations.
 * Flight plans and aircraft movements.
 * Pilot reports.
-* Notices to airmen and airspace restrictions. * Incident reports submitted by aviation personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThis example UFO report was submitted to the Civil Aviation Authority, who then passed it on to the MOD....</span></span></span> * Air accident and incident investigation files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[icao.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">ICAOSafety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</span></span></span>
+* Notices to airmen and airspace restrictions. * Incident reports submitted by aviation personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThis example UFO report was submitted to the Civil Aviation Authority, who then passed it on to the MOD....</span></span></span> * Air accident and incident investigation files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[icao.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Safety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</span></span></span>
 
-Mongolia maintains an aviation accident-investigation function through its Aircraft Accident and Incident Investigation Bureau. The legal framework provides for investigation of aviation occurrences and determination of their causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">ICAOSafety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</span></span></span>
+Mongolia maintains an aviation accident-investigation function through its Aircraft Accident and Incident Investigation Bureau. The legal framework provides for investigation of aviation occurrences and determination of their causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Safety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</span></span></span>
 
 However, there is no publicly documented mechanism showing that reports of unidentified aerial phenomena are systematically collected, analysed, and released as a separate category. Unlike accident reports, which can produce formal investigation documents, alleged UFO sightings generally leave no obvious public paper trail in Mongolia.
 
 This distinction is important. A lack of publicly released UFO files does not prove that no reports were ever made to aviation authorities. It means that researchers cannot readily inspect the records and determine whether reports existed, how they were classified, or what conclusions were reached.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5JXWh5bF5eg" title="Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer">Irish Authorities Are Investigating UFOs Reported By 3 Commercial Pilots On A Single Night | TIME</a></p><p class="youtube-embed-meta">Channel: TIME &middot; Views: 151.3K &middot; Uploaded: November 2018 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5JXWh5bF5eg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
 
 ## What a Public UFO Archive Would Normally Contain
 
@@ -308,7 +308,7 @@ In Mongolia, researchers generally cannot perform this type of review because no
 
 The most notable feature of Mongolia's official UFO-record landscape is not secrecy in the classic Cold War sense but institutional silence.
 
-Publicly accessible sources reveal aviation regulators, aviation legislation, and accident-investigation bodies, yet they do not reveal a dedicated national programme for collecting and publishing UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">ICAOFALForumMongolia 100 Years of Civil Aviation in MongoliaOn January 21, 1999, the &quot;Law on Civil Aviation&quot; was enacted, transforming th...</span><span class="citation-popover-meta">Published: January 21, 1999</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">ICAOSafety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</span></span></span>
+Publicly accessible sources reveal aviation regulators, aviation legislation, and accident-investigation bodies, yet they do not reveal a dedicated national programme for collecting and publishing UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">FALForumMongolia 100 Years of Civil Aviation in MongoliaOn January 21, 1999, the &quot;Law on Civil Aviation&quot; was enacted, transforming th...</span><span class="citation-popover-meta">Published: January 21, 1999</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Safety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</span></span></span>
 
 This creates several challenges:
 
@@ -331,7 +331,7 @@ Researchers attempting to build a chronology of Mongolian sightings face a fragm
 As a result, Mongolia fits the category of an under-documented UFO environment rather than a heavily documented one.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FD6dCwx6tpg" title="UFO file release August 2011" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer">UFO file release August 2011</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 13.2K &middot; Uploaded: August 2011 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FD6dCwx6tpg">Open on YouTube</a></p></div></div></div>
 
 ## How Mongolia Differs from US and UK Records
 
@@ -370,90 +370,48 @@ That shortage affects how every sighting should be interpreted. A report lacking
 For researchers examining Mongolia's broader UFO history, this means that official aviation records remain more important as a potential verification pathway than as a known source of released UFO evidence. Until substantial archives become publicly available, the most reliable conclusion is that Mongolia possesses aviation institutions capable of generating records, but no publicly documented national UFO archive comparable to those released in countries such as the United States or the United Kingdom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</span></span></span> [3ICAO 3ICAO]
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FD6dCwx6tpg" title="UFO file release August 2011" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer">UFO file release August 2011</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 13.2K &middot; Uploaded: August 2011 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FD6dCwx6tpg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer">New UFO Files Reveal Risks To Commercial Flights | WION Podcast</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer">New UFO Files Reveal Risks To Commercial Flights | WION Podcast</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GeMvmwEBcC0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Are Mongolia&#x27;s Official UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Are Mongolia&#x27;s Official UFO Records?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Focuses heavily on official documentation and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Explains how official UFO reporting systems function.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly concerns government and aviation-linked reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides background on official case documentation worldwide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -487,75 +445,71 @@ For researchers examining Mongolia's broader UFO history, this means that offici
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-700735-where-are-mongolia-s-official-ufo-records-mongolia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -769,113 +723,113 @@ For researchers examining Mongolia's broader UFO history, this means that offici
 
 1. <a id="endnote-1"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history](https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAOFALForumMongolia 100 Years of Civil Aviation in MongoliaOn January 21, 1999, the &quot;Law on Civil Aviation&quot; was enacted, transforming th...</p></details>
+   Link: <a href="https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/events/facilitation-regional-forum-mongolia-2025-0/mongolia_aviation_history</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FALForumMongolia 100 Years of Civil Aviation in MongoliaOn January 21, 1999, the &quot;Law on Civil Aviation&quot; was enacted, transforming th...</p></details>
    Published: January 21, 1999  
 
 2. <a id="endnote-2"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/safety/AIG/AIA](https://www.icao.int/safety/AIG/AIA)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAOSafety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</p></details>
+   Link: <a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety AIAMongolia. Ministry of Road and Transportation of Mongolia. Aircraft Accident and Incident Investigation Bureau. NCAC bldg-1...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ais.mn  
    Title: CAAM 1999 eng  
-   Link: [https://ais.mn/files/aip/eAIP/doc/CAAM_1999_eng.pdf](https://ais.mn/files/aip/eAIP/doc/CAAM_1999_eng.pdf)  
+   Link: <a href="https://ais.mn/files/aip/eAIP/doc/CAAM_1999_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ais.mn/files/aip/eAIP/doc/CAAM_1999_eng.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIVIL AVIATION LAW OF MONGOLIA21 Jan 1999 — Air Accident Investigation Department shall carry out the investigation in cooperation with t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of textual and micr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing from 1952 to 2009 have been Declassified and released to the public...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: 2021-2025.state.gov  
    Title: u s mongolia air transport agreement  
-   Link: [https://2021-2025.state.gov/u-s-mongolia-air-transport-agreement/](https://2021-2025.state.gov/u-s-mongolia-air-transport-agreement/)  
+   Link: <a href="https://2021-2025.state.gov/u-s-mongolia-air-transport-agreement/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/u-s-mongolia-air-transport-agreement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>state.govU.S.-Mongolia Air Transport Agreement4 Aug 2023 — The Parties affirm that their obligation to each other to protect the security...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aviationknowledge.wikidot.com  
    Title: aviation:the role of mcaa the civil aviation authority of mo  
-   Link: [https://aviationknowledge.wikidot.com/aviation%3Athe-role-of-mcaa-the-civil-aviation-authority-of-mo](https://aviationknowledge.wikidot.com/aviation%3Athe-role-of-mcaa-the-civil-aviation-authority-of-mo)  
+   Link: <a href="https://aviationknowledge.wikidot.com/aviation%3Athe-role-of-mcaa-the-civil-aviation-authority-of-mo" target="_blank" rel="noopener noreferrer nofollow">https://aviationknowledge.wikidot.com/aviation%3Athe-role-of-mcaa-the-civil-aviation-authority-of-mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Authority - AviationKnowledge - WikidotThe MCAA is a government agency charged with professional oversight and regulation...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740)  
+   Link: <a href="https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 CFR Part 740 -- License ExceptionsA “License Exception” is an authorization contained in this part that allows you to export or reexpo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mcaa.gov.mn  
-   Link: [https://mcaa.gov.mn/page/mayagt](https://mcaa.gov.mn/page/mayagt)  
+   Link: <a href="https://mcaa.gov.mn/page/mayagt" target="_blank" rel="noopener noreferrer nofollow">https://mcaa.gov.mn/page/mayagt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Authority of MongoliaOfficial website of the Civil Aviation Authority of Mongolia (MCAA). Stay updated with the latest new...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: un.org  
-   Link: [https://www.un.org/unispal/document-source/international-civil-aviation-organization-icao/](https://www.un.org/unispal/document-source/international-civil-aviation-organization-icao/)  
+   Link: <a href="https://www.un.org/unispal/document-source/international-civil-aviation-organization-icao/" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/unispal/document-source/international-civil-aviation-organization-icao/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Civil Aviation Organization (ICAO) ArchivesIncidents, Incursions, Legal issues, Occupation, Self-government area/developmen...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/investigation/aaibs.php](https://aviation-safety.net/investigation/aaibs.php)  
+   Link: <a href="https://aviation-safety.net/investigation/aaibs.php" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/aaibs.php</a>  
 
 15. <a id="endnote-15"></a>
    Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/Pages/AviationQueryv2.aspx](https://www.ntsb.gov/Pages/AviationQueryv2.aspx)  
+   Link: <a href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/Pages/AviationQueryv2.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedebrief.org  
    Title: detailed analysis of the governments report on unidentified aerial phenomena  
-   Link: [https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/](https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/)  
+   Link: <a href="https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>incidents or 21 reports demonstrated “unusual UAP movement patterns or flight characteristics.... report would come out and say, “It&#x27;s A...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5JXWh5bF5eg](https://www.youtube.com/watch?v=5JXWh5bF5eg)  
+   Link: <a href="https://www.youtube.com/watch?v=5JXWh5bF5eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5JXWh5bF5eg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO file release February 2010 video is highly relevant because it features an expert guide walking through real historical data from...</p></details>
    Published: February 2010  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/photo.php?fbid=1512850634174904&id=100063499459215&set=a.1364399642353338](https://www.facebook.com/photo.php?fbid=1512850634174904&id=100063499459215&set=a.1364399642353338)  
+   Link: <a href="https://www.facebook.com/photo.php?fbid=1512850634174904&amp;id=100063499459215&amp;set=a.1364399642353338" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1512850634174904&amp;id=100063499459215&amp;set=a.1364399642353338</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 20, 2021, has resurfaced and is drawing renewed attention due to the strange behavior...</p></details>
    Published: January 20, 2021  
 
 19. <a id="endnote-19"></a>
    Source: taic.org.nz  
-   Link: [https://taic.org.nz/](https://taic.org.nz/)  
+   Link: <a href="https://taic.org.nz/" target="_blank" rel="noopener noreferrer nofollow">https://taic.org.nz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lved the same freight train on the Main South Line the night of 16 April 2026.Read more...</p></details>
    Published: April 2026  
 
 20. <a id="endnote-20"></a>
    Source: GOV.UK  
    Title: Paper file inventory March 2015 CSV v3 final.csv  
-   Link: [https://www.gov.uk/csv-preview/5a80073440f0b62302691135/Paper_file_inventory_March_2015_CSV_v3_final.csv](https://www.gov.uk/csv-preview/5a80073440f0b62302691135/Paper_file_inventory_March_2015_CSV_v3_final.csv)  
+   Link: <a href="https://www.gov.uk/csv-preview/5a80073440f0b62302691135/Paper_file_inventory_March_2015_CSV_v3_final.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/csv-preview/5a80073440f0b62302691135/Paper_file_inventory_March_2015_CSV_v3_final.csv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archive inventory (March 2015)28 May 2019 — Includes documents held as evidence in the Hess theft case and returned by the Prosecutor&#x27;s O...</p></details>
    Published: March 2015  

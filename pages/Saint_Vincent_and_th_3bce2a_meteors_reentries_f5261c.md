@@ -245,7 +245,7 @@ next_link:
   permalink: /records-908ec9/
   short_title: Records
   heading_title: Where Saint Vincent UFO Evidence Actually Comes From
-date: '2026-06-09 01:38:47 '
+date: '2026-06-10 02:05:42 '
 header:
   og_image: /assets/images/Saint_Vincent_and_th_3bce2a_meteors_reentries_f5261c-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Vincent_and_th_3bce2a_meteors_reentries_f5261c-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Saint_Vincent_and_th_3bce2a_meteors_reentries_f5261c-Illus
 
 ## Introduction
 
-In [Saint Vincent and the Grenadines]({{ 'saint-vincent-and-the-grenadines/' | relative_url }}), the most credible “UFO” explanations often begin with ordinary sky physics: meteors, fireballs, satellite re-entries and misleading satellite trains. The country’s public record is thin, but that thinness is useful. The best-documented incidents do not point to alien craft; they show how a bright, brief object over an island chain can trigger real concern before aviation, Coast Guard and astronomy checks narrow the possibilities. The key national pattern is that fiery objects seen over Bequia, Mustique, St Vincent or nearby Caribbean skies are more plausibly read as meteors, bolides or space debris unless stronger evidence appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">SearchlightWe didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stvincenttimes.com">[St Vincent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stvincenttimes.com</span><span class="citation-popover-title">St Vincent Times Meteor illuminates the skies over St</span><span class="citation-popover-snippet">Vincent (SVG)12 Sept 2023 — A luminous meteor disintegrated above the sky of St. Vincent, producing a vivid orange path accompanied by a...</span></span></span>
+In [Saint Vincent and the Grenadines]({{ 'saint-vincent-and-the-grenadines/' | relative_url }}), the most credible “UFO” explanations often begin with ordinary sky physics: meteors, fireballs, satellite re-entries and misleading satellite trains. The country’s public record is thin, but that thinness is useful. The best-documented incidents do not point to alien craft; they show how a bright, brief object over an island chain can trigger real concern before aviation, Coast Guard and astronomy checks narrow the possibilities. The key national pattern is that fiery objects seen over Bequia, Mustique, St Vincent or nearby Caribbean skies are more plausibly read as meteors, bolides or space debris unless stronger evidence appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stvincenttimes.com">[St Vincent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stvincenttimes.com</span><span class="citation-popover-title">St Vincent Times Meteor illuminates the skies over St</span><span class="citation-popover-snippet">Vincent (SVG)12 Sept 2023 — A luminous meteor disintegrated above the sky of St. Vincent, producing a vivid orange path accompanied by a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_meteors_reentries_f5261c-Illustration-1-dark.svg" | relative_url }}" alt="Likely Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_meteors_reentries_f5261c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_meteors_reentries_f5261c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ This page focuses on the mechanisms behind those false alarms. A meteor can look
 
 ## How fireballs look from an island horizon
 
-A fireball is not just a small “shooting star”. NASA defines a fireball as an unusually bright meteor, while the American Meteor Society describes a bolide as a fireball that ends in a bright terminal flash, often with fragmentation. Those details matter for [Saint Vincent and]({{ 'saint-vincent-and-the-grenadines/' | relative_url }}) the Grenadines because witnesses often report the features that make fireballs sound artificial: colour, apparent descent, sudden flaring, fragmentation and sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">Fireballs and bolides</span><span class="citation-popover-snippet">NASAA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith. Object...</span></span></span>
+A fireball is not just a small “shooting star”. NASA defines a fireball as an unusually bright meteor, while the American Meteor Society describes a bolide as a fireball that ends in a bright terminal flash, often with fragmentation. Those details matter for Saint Vincent and the Grenadines because witnesses often report the features that make fireballs sound artificial: colour, apparent descent, sudden flaring, fragmentation and sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">Fireballs and bolides</span><span class="citation-popover-snippet">A fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith. Object...</span></span></span>
 
 The September 2023 St Vincent meteor is a good example. St Vincent Times reported a luminous meteor over St Vincent with an orange path and green glow, seen from Prospect, Harmony Hall and Riley. Regional reporting from the Trinidad and Tobago Weather Center said the same event was spotted across Trinidad and Tobago, Grenada, St Vincent, Barbados and as far north as Antigua and Barbuda; it lasted less than ten seconds and was detected by GOES-16 Geostationary Lightning Mapper data over northern Grenada. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stvincenttimes.com">[St Vincent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stvincenttimes.com</span><span class="citation-popover-title">St Vincent Times Meteor illuminates the skies over St</span><span class="citation-popover-snippet">Vincent (SVG)12 Sept 2023 — A luminous meteor disintegrated above the sky of St. Vincent, producing a vivid orange path accompanied by a...</span></span></span>
 
@@ -273,11 +273,11 @@ For a local witness, that can feel close and dangerous. For an analyst, the broa
 
 ## Why the 2014 Bequia alarm fits the meteor problem
 
-The 24 July 2014 Bequia-Mustique case remains the clearest national false-alarm pattern. Residents in Bequia, Mustique and mainland St Vincent saw an object “on fire” moving rapidly through the evening sky between about 7:00 pm and 7:30 pm. The sighting prompted social-media rumours of a downed aircraft, but Air Traffic Control confirmed scheduled flights were accounted for, and the Coast Guard found no wreckage or debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">SearchlightWe didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span>
+The 24 July 2014 Bequia-Mustique case remains the clearest national false-alarm pattern. Residents in Bequia, Mustique and mainland St Vincent saw an object “on fire” moving rapidly through the evening sky between about 7:00 pm and 7:30 pm. The sighting prompted social-media rumours of a downed aircraft, but Air Traffic Control confirmed scheduled flights were accounted for, and the Coast Guard found no wreckage or debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span>
 
 The case was serious because the first interpretation was practical, not paranormal. In an island chain, a fiery descending object over water can mean an aircraft or vessel in distress. The Saint Vincent and the Grenadines Coastguard is the country’s local search-and-rescue agency, while the Airports Department’s responsibilities include air traffic control and meteorological services, so the institutional response matched the risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://security.gov.vc/security/index.php?Itemid=165&amp;id=44&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: security.gov.vc">[Ministry of National Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">security.gov.vc</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-What remained was an unidentified aerial event in the literal sense. The Coast Guard said it found nothing to prove whether the object was or was not a meteorite. That is not evidence of a craft; it is what happens when a likely fireball leaves no recoverable debris, especially over sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">SearchlightWe didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span>
+What remained was an unidentified aerial event in the literal sense. The Coast Guard said it found nothing to prove whether the object was or was not a meteorite. That is not evidence of a craft; it is what happens when a likely fireball leaves no recoverable debris, especially over sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h0p0zJCDtsU" title="In the skies above St. Vincent (SVG), a meteor is visible." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h0p0zJCDtsU" target="_blank" rel="noopener noreferrer">In the skies above St. Vincent (SVG), a meteor is visible.</a></p><p class="youtube-embed-meta">Channel: mohnne &middot; Views: 1.2K &middot; Uploaded: September 2023 &middot; Length: 1 minute 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h0p0zJCDtsU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h0p0zJCDtsU">Open on YouTube</a></p></div></div></div>
@@ -308,7 +308,7 @@ The lesson for Saint Vincent and the Grenadines is simple: “Starlink” is not
 
 Saint Vincent and the Grenadines has conditions that make sky misidentification more likely. The country’s sea horizons allow long views of objects that may be far away. The Grenadine islands give witnesses different angles on the same event. Darkness away from urban areas can make fireballs look intense, while cloud, haze and sea reflection can distort colour and apparent distance.
 
-The social pattern is just as important. A bright object seen over water can move through three interpretations within minutes: “meteor”, “plane crash” and “UFO”. The 2014 case followed that route because a burning object over Bequia and Mustique had obvious safety implications. The 2023 meteor followed a more modern route: short videos, island-to-island reports and quick online debate about whether the cause was a meteor, Starlink or something else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">SearchlightWe didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span>
+The social pattern is just as important. A bright object seen over water can move through three interpretations within minutes: “meteor”, “plane crash” and “UFO”. The 2014 case followed that route because a burning object over Bequia and Mustique had obvious safety implications. The 2023 meteor followed a more modern route: short videos, island-to-island reports and quick online debate about whether the cause was a meteor, Starlink or something else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</span><span class="citation-popover-meta">Published: July 31, 2014</span></span></span>
 
 A cautious local assessment should therefore ask practical questions first: exact time, direction, duration, colour, sound, fragmentation, flight checks, satellite predictions and whether neighbouring islands saw the same object. Those details usually decide whether a report belongs in a UFO archive, a meteor log or a re-entry database.
 
@@ -322,86 +322,44 @@ For this subtopic, the most useful distinction is between “not yet identified�
 The strongest current reading is that Saint Vincent and the Grenadines’ dramatic sky-light reports sit within a wider Caribbean pattern of meteors, bolides, re-entries and satellite confusion. The 2014 Bequia-Mustique alarm shows how a likely natural event can become a safety investigation. The 2023 St Vincent meteor shows how colour and regional visibility can produce mystery before data catches up. Starlink and other orbital debris add a newer layer, making careful cross-checking more important than ever.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When UFO Reports Become Meteors. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When UFO Reports Become Meteors, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
-        
-        <p class="fr-book-desc">Shows how ordinary celestial events become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison with cases that survived conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Directly explains meteor behaviour and visible atmospheric effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Builds understanding of objects commonly seen in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -435,75 +393,71 @@ The strongest current reading is that Saint Vincent and the Grenadines’ dramat
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-t-shirt-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-t-shirt-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-12ca2a-when-ufo-reports-become-meteors-saint-vincent-and-the-grenadines-ufo-poster-book-books-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -718,100 +672,100 @@ The strongest current reading is that Saint Vincent and the Grenadines’ dramat
 1. <a id="endnote-1"></a>
    Source: searchlight.vc  
    Title: We didn't find anything to say it was or wasn't a meteorite  
-   Link: [https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/](https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SearchlightWe didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</p></details>
+   Link: <a href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We didn&#x27;t find anything to say it was or wasn&#x27;t a meteoriteJuly 31, 2014 — 31 Jul 2014 — The St Vincent and the Grenadines Coa...</p></details>
    Published: July 31, 2014  
 
 2. <a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
    Title: Fireballs and bolides  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/intro.html](https://cneos.jpl.nasa.gov/fireballs/intro.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith. Object...</p></details>
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith. Object...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
 4. <a id="endnote-4"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
 5. <a id="endnote-5"></a>
    Source: security.gov.vc  
-   Link: [https://security.gov.vc/security/index.php?Itemid=165&id=44&option=com_content&view=article](https://security.gov.vc/security/index.php?Itemid=165&id=44&option=com_content&view=article)  
+   Link: <a href="https://security.gov.vc/security/index.php?Itemid=165&amp;id=44&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://security.gov.vc/security/index.php?Itemid=165&amp;id=44&amp;option=com_content&amp;view=article</a>  
 
 6. <a id="endnote-6"></a>
    Source: security.gov.vc  
-   Link: [https://security.gov.vc/security/index.php?Itemid=15&id=4&option=com_content&view=article](https://security.gov.vc/security/index.php?Itemid=15&id=4&option=com_content&view=article)  
+   Link: <a href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article</a>  
 
 7. <a id="endnote-7"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries](https://aerospace.org/reentries)  
+   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
 
 8. <a id="endnote-8"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries/44954](https://aerospace.org/reentries/44954)  
+   Link: <a href="https://aerospace.org/reentries/44954" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries/44954</a>  
 
 9. <a id="endnote-9"></a>
    Source: earthsky.org  
    Title: Earth Sky Starlink satellite disintegrates over the Caribbean  
-   Link: [https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/](https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/)  
+   Link: <a href="https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/</a>  
 
 10. <a id="endnote-10"></a>
    Source: stvincenttimes.com  
    Title: St Vincent Times Meteor illuminates the skies over St  
-   Link: [https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/](https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/)  
+   Link: <a href="https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent (SVG)12 Sept 2023 — A luminous meteor disintegrated above the sky of St. Vincent, producing a vivid orange path accompanied by a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ttweathercenter.com  
    Title: meteor burns up over eastern caribbean spotted in tt  
-   Link: [https://ttweathercenter.com/2023/09/12/meteor-burns-up-over-eastern-caribbean-spotted-in-tt/](https://ttweathercenter.com/2023/09/12/meteor-burns-up-over-eastern-caribbean-spotted-in-tt/)  
+   Link: <a href="https://ttweathercenter.com/2023/09/12/meteor-burns-up-over-eastern-caribbean-spotted-in-tt/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/2023/09/12/meteor-burns-up-over-eastern-caribbean-spotted-in-tt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trinidad and Tobago Weather CenterMeteor Burns Up Over Eastern Caribbean, Spotted In T&amp;T12 Sept 2023 — View of the meteor that has been s...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VZw08so_Gwo](https://www.youtube.com/watch?v=VZw08so_Gwo)  
+   Link: <a href="https://www.youtube.com/watch?v=VZw08so_Gwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZw08so_Gwo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball in sky over Cayman likely old space station falling to Earth...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Space junk: The mystery flying object that lit up Melbourne's sky, revealed  
-   Link: [https://www.youtube.com/watch?v=hC8Tw1FFhUc](https://www.youtube.com/watch?v=hC8Tw1FFhUc)  
+   Link: <a href="https://www.youtube.com/watch?v=hC8Tw1FFhUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hC8Tw1FFhUc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Still not aliens - Starlink satellites pass over Ohio Thursday night...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: In the skies above St. Vincent (SVG), a meteor is visible  
-   Link: [https://www.youtube.com/watch?v=h0p0zJCDtsU](https://www.youtube.com/watch?v=h0p0zJCDtsU)  
+   Link: <a href="https://www.youtube.com/watch?v=h0p0zJCDtsU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h0p0zJCDtsU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Mystery: Meteors Light Up Skies Worldwide, Puzzle Scientists | GRAVITAS HIGHLIGHTS...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Not a UFO: Starlink satellite chain over North Carolina  
-   Link: [https://www.youtube.com/watch?v=hd1OiBbMygY](https://www.youtube.com/watch?v=hd1OiBbMygY)  
+   Link: <a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hd1OiBbMygY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris turns into a fireball in three regions of the country; watch the video...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Still not aliens  
-   Link: [https://www.youtube.com/watch?v=Vas3lWEGCQw](https://www.youtube.com/watch?v=Vas3lWEGCQw)  
+   Link: <a href="https://www.youtube.com/watch?v=Vas3lWEGCQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vas3lWEGCQw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO: Starlink satellite chain over North Carolina...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Fireball in sky over Cayman likely old space station falling to Earth  
-   Link: [https://www.youtube.com/watch?v=D5JL86VnLAk](https://www.youtube.com/watch?v=D5JL86VnLAk)  
+   Link: <a href="https://www.youtube.com/watch?v=D5JL86VnLAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D5JL86VnLAk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Satellite-turned-fireball shoots across sky...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: WATCH: Satellite-turned-fireball shoots across sky  
-   Link: [https://www.youtube.com/watch?v=1oc3XG3aOrI](https://www.youtube.com/watch?v=1oc3XG3aOrI)  
+   Link: <a href="https://www.youtube.com/watch?v=1oc3XG3aOrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1oc3XG3aOrI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space junk: The mystery flying object that lit up Melbourne&#x27;s sky, revealed...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ycsng6yLZDM](https://www.youtube.com/watch?v=ycsng6yLZDM)  
+   Link: <a href="https://www.youtube.com/watch?v=ycsng6yLZDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ycsng6yLZDM</a>  

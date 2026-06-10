@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /burkina-faso-f61e5f-index/
 description: Focused pages that expand on Burkina Faso.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Burkina_Faso_f61e5f
 parent_title: Burkina Faso

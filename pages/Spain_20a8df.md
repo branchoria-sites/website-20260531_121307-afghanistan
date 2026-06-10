@@ -1185,7 +1185,7 @@ next_link:
   title: Syrian UAP
   permalink: /syrian-arab-republic/
   short_title: Syrian UAP
-date: '2026-06-09 01:41:20 '
+date: '2026-06-10 02:08:35 '
 header:
   og_image: /assets/images/Spain_20a8df-overview-social.jpg
   preview_image: /assets/images/Spain_20a8df-overview.webp
@@ -1295,86 +1295,44 @@ Spain’s UFO history is rich, but it is not a simple catalogue of unsolved myst
 <img src="{{ "/assets/images/Spain_20a8df-Illustration-3-dark.svg" | relative_url }}" alt="Spain&#x27;s UFO Files: Mystery, Evidence, and... illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Spain&#x27;s UFO Files Mystery, Evidence, and Explanation. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Spain&#x27;s UFO Files Mystery, Evidence, and Explanation, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Provides historical context for official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on official witnesses, military reports and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Closely parallels Spain&#x27;s archive-driven UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Useful for understanding hoaxes, folklore and social narratives like Ummo.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1408,75 +1366,71 @@ Spain’s UFO history is rich, but it is not a simple catalogue of unsolved myst
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spains-ufo-files-mystery-evidence-and-spain-s-ufo-files-mystery-evidence-and-explanation-spain-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1690,313 +1644,313 @@ Spain’s UFO history is rich, but it is not a simple catalogue of unsolved myst
 
 1. <a id="endnote-1"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf](https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf)  
+   Link: <a href="https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10588466/files/Reliability_III-3_Campo-Perez.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: magonia.com  
    Title: cuadernos de ufologia deja de publicarse despues de 29 anos  
-   Link: [https://magonia.com/2012/04/13/cuadernos-de-ufologia-deja-de-publicarse-despues-de-29-anos/](https://magonia.com/2012/04/13/cuadernos-de-ufologia-deja-de-publicarse-despues-de-29-anos/)  
+   Link: <a href="https://magonia.com/2012/04/13/cuadernos-de-ufologia-deja-de-publicarse-despues-de-29-anos/" target="_blank" rel="noopener noreferrer nofollow">https://magonia.com/2012/04/13/cuadernos-de-ufologia-deja-de-publicarse-despues-de-29-anos/</a>  
 
 3. <a id="endnote-3"></a>
    Source: cadenaser.com  
-   Link: [https://cadenaser.com/emisora/2016/10/25/radio_sevilla/1477376679_376831.html](https://cadenaser.com/emisora/2016/10/25/radio_sevilla/1477376679_376831.html)  
+   Link: <a href="https://cadenaser.com/emisora/2016/10/25/radio_sevilla/1477376679_376831.html" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/emisora/2016/10/25/radio_sevilla/1477376679_376831.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in the Canary Islands  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands](https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_Canary_Islands</a>  
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon](https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon)  
+   Link: <a href="https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/16027101/Identificados_Los_OVNIS_de_Canarias_fueron_misiles_Poseidon</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Incidente del misil Poseidón de Canarias  
-   Link: [https://es.wikipedia.org/wiki/Incidente_del_misil_Poseid%C3%B3n_de_Canarias](https://es.wikipedia.org/wiki/Incidente_del_misil_Poseid%C3%B3n_de_Canarias)  
+   Link: <a href="https://es.wikipedia.org/wiki/Incidente_del_misil_Poseid%C3%B3n_de_Canarias" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_del_misil_Poseid%C3%B3n_de_Canarias</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Manises UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Manises_UFO_incident](https://en.wikipedia.org/wiki/Manises_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manises_UFO_incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: cadenaser.com  
-   Link: [https://cadenaser.com/emisora/2015/10/01/radio_valencia/1443721856_943060.html](https://cadenaser.com/emisora/2015/10/01/radio_valencia/1443721856_943060.html)  
+   Link: <a href="https://cadenaser.com/emisora/2015/10/01/radio_valencia/1443721856_943060.html" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/emisora/2015/10/01/radio_valencia/1443721856_943060.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: cadenaser.com  
-   Link: [https://cadenaser.com/ser/2017/11/16/cultura/1510826756_651730.html](https://cadenaser.com/ser/2017/11/16/cultura/1510826756_651730.html)  
+   Link: <a href="https://cadenaser.com/ser/2017/11/16/cultura/1510826756_651730.html" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/ser/2017/11/16/cultura/1510826756_651730.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/27920724/THE_MANISES_UFO_FILE](https://www.academia.edu/27920724/THE_MANISES_UFO_FILE)  
+   Link: <a href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/27920724/THE_MANISES_UFO_FILE</a>  
 
 11. <a id="endnote-11"></a>
    Source: apd.cat  
    Title: Noticies The declassified military file denies that Barcelona's radar  
-   Link: [https://www.apd.cat/en/barcelona/hospitalet-llobregat/the-declassified-military-file-denies-that-barcelona-s-radar-detected-the-supposed-ufo_11833_102.html](https://www.apd.cat/en/barcelona/hospitalet-llobregat/the-declassified-military-file-denies-that-barcelona-s-radar-detected-the-supposed-ufo_11833_102.html)  
+   Link: <a href="https://www.apd.cat/en/barcelona/hospitalet-llobregat/the-declassified-military-file-denies-that-barcelona-s-radar-detected-the-supposed-ufo_11833_102.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apd.cat/en/barcelona/hospitalet-llobregat/the-declassified-military-file-denies-that-barcelona-s-radar-detected-the-supposed-ufo_11833_102.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax</a>  
 
 13. <a id="endnote-13"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/centro-de-estudios-interplanetarios-cei-collections/](https://www.afu.se/centro-de-estudios-interplanetarios-cei-collections/)  
+   Link: <a href="https://www.afu.se/centro-de-estudios-interplanetarios-cei-collections/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/centro-de-estudios-interplanetarios-cei-collections/</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Fundación Anomalía  
-   Link: [https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Anomal%C3%ADa](https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Anomal%C3%ADa)  
+   Link: <a href="https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Anomal%C3%ADa" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Anomal%C3%ADa</a>  
 
 15. <a id="endnote-15"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/35786573/Spanish_Air_Force_UFO_Files_The_Secrets_End_pdf](https://www.academia.edu/35786573/Spanish_Air_Force_UFO_Files_The_Secrets_End_pdf)  
+   Link: <a href="https://www.academia.edu/35786573/Spanish_Air_Force_UFO_Files_The_Secrets_End_pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35786573/Spanish_Air_Force_UFO_Files_The_Secrets_End_pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: old.hessdalen.org  
-   Link: [https://old.hessdalen.org/sse/program/BriefCV_VJBallesterOlmos.pdf](https://old.hessdalen.org/sse/program/BriefCV_VJBallesterOlmos.pdf)  
+   Link: <a href="https://old.hessdalen.org/sse/program/BriefCV_VJBallesterOlmos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/sse/program/BriefCV_VJBallesterOlmos.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Planetary objects proposed in religion, astrology, ufology and pseudoscience  
-   Link: [https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience](https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Incidente OVNI de Manises  
-   Link: [https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises](https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises)  
+   Link: <a href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 20. <a id="endnote-20"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/record/6554749/files/DTU3.pdf](https://zenodo.org/record/6554749/files/DTU3.pdf)  
+   Link: <a href="https://zenodo.org/record/6554749/files/DTU3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/record/6554749/files/DTU3.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/jufoh/jufoh.pdf](https://archive.org/download/jufoh/jufoh.pdf)  
+   Link: <a href="https://archive.org/download/jufoh/jufoh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/jufoh/jufoh.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
    Title: 354868604 ufo contact from planet ummo pdf djvu.txt  
-   Link: [https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt](https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt)  
+   Link: <a href="https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt</a>  
 
 23. <a id="endnote-23"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: [https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf](https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf)  
+   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: archive.org  
    Title: Cuadernos de Ufologia 3a Epoca No 28  
-   Link: [https://archive.org/details/Cuadernos_de_Ufologia_3a_Epoca_No_28](https://archive.org/details/Cuadernos_de_Ufologia_3a_Epoca_No_28)  
+   Link: <a href="https://archive.org/details/Cuadernos_de_Ufologia_3a_Epoca_No_28" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/Cuadernos_de_Ufologia_3a_Epoca_No_28</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
    Title: Full text of "Wonders In The Sky  
-   Link: [https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt](https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt)  
+   Link: <a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/Documents/in/UFO_phenomena/TopPapers](https://www.academia.edu/Documents/in/UFO_phenomena/TopPapers)  
+   Link: <a href="https://www.academia.edu/Documents/in/UFO_phenomena/TopPapers" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/UFO_phenomena/TopPapers</a>  
 
 27. <a id="endnote-27"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43047669/Los_gigantes_de_G%C3%A1ldar_y_los_avistamientos_canarios](https://www.academia.edu/43047669/Los_gigantes_de_G%C3%A1ldar_y_los_avistamientos_canarios)  
+   Link: <a href="https://www.academia.edu/43047669/Los_gigantes_de_G%C3%A1ldar_y_los_avistamientos_canarios" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43047669/Los_gigantes_de_G%C3%A1ldar_y_los_avistamientos_canarios</a>  
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43024942/OVNIs_o_misiles_juzgue_usted_mismo](https://www.academia.edu/43024942/OVNIs_o_misiles_juzgue_usted_mismo)  
+   Link: <a href="https://www.academia.edu/43024942/OVNIs_o_misiles_juzgue_usted_mismo" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43024942/OVNIs_o_misiles_juzgue_usted_mismo</a>  
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
    Title: La monografia OVNI del Capitan Gonzalez de Boado  
-   Link: [https://www.academia.edu/9237337/La_monografia_OVNI_del_Capitan_Gonzalez_de_Boado](https://www.academia.edu/9237337/La_monografia_OVNI_del_Capitan_Gonzalez_de_Boado)  
+   Link: <a href="https://www.academia.edu/9237337/La_monografia_OVNI_del_Capitan_Gonzalez_de_Boado" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/9237337/La_monografia_OVNI_del_Capitan_Gonzalez_de_Boado</a>  
 
 30. <a id="endnote-30"></a>
    Source: academia.edu  
    Title: Bibliography V J Ballester Olmos 1965 2025  
-   Link: [https://www.academia.edu/145582281/Bibliography_V_J_Ballester_Olmos_1965_2025](https://www.academia.edu/145582281/Bibliography_V_J_Ballester_Olmos_1965_2025)  
+   Link: <a href="https://www.academia.edu/145582281/Bibliography_V_J_Ballester_Olmos_1965_2025" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145582281/Bibliography_V_J_Ballester_Olmos_1965_2025</a>  
 
 31. <a id="endnote-31"></a>
    Source: academia.edu  
    Title: Bibliography V J Ballester Olmos 1965 2023  
-   Link: [https://www.academia.edu/113605314/Bibliography_V_J_Ballester_Olmos_1965_2023](https://www.academia.edu/113605314/Bibliography_V_J_Ballester_Olmos_1965_2023)  
+   Link: <a href="https://www.academia.edu/113605314/Bibliography_V_J_Ballester_Olmos_1965_2023" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/113605314/Bibliography_V_J_Ballester_Olmos_1965_2023</a>  
 
 32. <a id="endnote-32"></a>
    Source: academia.edu  
    Title: The Reliability of UFO Witness Testimony  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 33. <a id="endnote-33"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
 
 34. <a id="endnote-34"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters](https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters)  
+   Link: <a href="https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters</a>  
 
 35. <a id="endnote-35"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43205123/UFO_Sponsorship_The_Case_of_Fundacion_Anomalia](https://www.academia.edu/43205123/UFO_Sponsorship_The_Case_of_Fundacion_Anomalia)  
+   Link: <a href="https://www.academia.edu/43205123/UFO_Sponsorship_The_Case_of_Fundacion_Anomalia" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43205123/UFO_Sponsorship_The_Case_of_Fundacion_Anomalia</a>  
 
 36. <a id="endnote-36"></a>
    Source: academia.edu  
    Title: Saucers in the Sixties  
-   Link: [https://www.academia.edu/47496557/Saucers_in_the_Sixties_UFOs_in_Latin_America_and_Spain](https://www.academia.edu/47496557/Saucers_in_the_Sixties_UFOs_in_Latin_America_and_Spain)  
+   Link: <a href="https://www.academia.edu/47496557/Saucers_in_the_Sixties_UFOs_in_Latin_America_and_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47496557/Saucers_in_the_Sixties_UFOs_in_Latin_America_and_Spain</a>  
 
 37. <a id="endnote-37"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day](https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day)  
+   Link: <a href="https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day</a>  
 
 38. <a id="endnote-38"></a>
    Source: academia.edu  
    Title: Mecenazgo OVNI la Fundacion Anomalia  
-   Link: [https://www.academia.edu/43205665/Mecenazgo_OVNI_la_Fundacion_Anomalia](https://www.academia.edu/43205665/Mecenazgo_OVNI_la_Fundacion_Anomalia)  
+   Link: <a href="https://www.academia.edu/43205665/Mecenazgo_OVNI_la_Fundacion_Anomalia" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43205665/Mecenazgo_OVNI_la_Fundacion_Anomalia</a>  
 
 39. <a id="endnote-39"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/31712515/A_Review_on_the_Relation_between_Population_Density_and_UFO_Sightings](https://www.academia.edu/31712515/A_Review_on_the_Relation_between_Population_Density_and_UFO_Sightings)  
+   Link: <a href="https://www.academia.edu/31712515/A_Review_on_the_Relation_between_Population_Density_and_UFO_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31712515/A_Review_on_the_Relation_between_Population_Density_and_UFO_Sightings</a>  
 
 40. <a id="endnote-40"></a>
    Source: academia.edu  
    Title: Characteristics of Close Encounters in Spain  
-   Link: [https://www.academia.edu/9079211/Characteristics_of_Close_Encounters_in_Spain](https://www.academia.edu/9079211/Characteristics_of_Close_Encounters_in_Spain)  
+   Link: <a href="https://www.academia.edu/9079211/Characteristics_of_Close_Encounters_in_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/9079211/Characteristics_of_Close_Encounters_in_Spain</a>  
 
 41. <a id="endnote-41"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu2/?page_id=8732](https://www.afu.se/afu2/?page_id=8732)  
+   Link: <a href="https://www.afu.se/afu2/?page_id=8732" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?page_id=8732</a>  
 
 42. <a id="endnote-42"></a>
    Source: afu.se  
    Title: AFU Magazines List 2017.xlsx  
-   Link: [https://www.afu.se/wp-content/uploads/2017/03/AFU-Magazines-List-2017.xlsx](https://www.afu.se/wp-content/uploads/2017/03/AFU-Magazines-List-2017.xlsx)  
+   Link: <a href="https://www.afu.se/wp-content/uploads/2017/03/AFU-Magazines-List-2017.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/wp-content/uploads/2017/03/AFU-Magazines-List-2017.xlsx</a>  
 
 43. <a id="endnote-43"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: bibliotecavirtual.defensa.gob.es  
-   Link: [https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do](https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do)  
+   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do</a>  
 
 45. <a id="endnote-45"></a>
    Source: elpais.com  
-   Link: [https://elpais.com/diario/1979/11/13/espana/311295627_850215.html](https://elpais.com/diario/1979/11/13/espana/311295627_850215.html)  
+   Link: <a href="https://elpais.com/diario/1979/11/13/espana/311295627_850215.html" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/diario/1979/11/13/espana/311295627_850215.html</a>  
 
 46. <a id="endnote-46"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: [https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html](https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html)  
+   Link: <a href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html</a>  
 
 47. <a id="endnote-47"></a>
    Source: bibliotecavirtual.defensa.gob.es  
-   Link: [https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo](https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo)  
+   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>› Listado de títulos...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: diariodesevilla.es  
    Title: Defensa desclasifica expedientes ovnis avistados 0 1075692533  
-   Link: [https://www.diariodesevilla.es/sevilla/Defensa-desclasifica-expedientes-ovnis-avistados_0_1075692533.html](https://www.diariodesevilla.es/sevilla/Defensa-desclasifica-expedientes-ovnis-avistados_0_1075692533.html)  
+   Link: <a href="https://www.diariodesevilla.es/sevilla/Defensa-desclasifica-expedientes-ovnis-avistados_0_1075692533.html" target="_blank" rel="noopener noreferrer nofollow">https://www.diariodesevilla.es/sevilla/Defensa-desclasifica-expedientes-ovnis-avistados_0_1075692533.html</a>  
 
 49. <a id="endnote-49"></a>
    Source: bibliotecavirtual.defensa.gob.es  
-   Link: [https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/catalogo_imagenes/grupo.do?path=101676](https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/catalogo_imagenes/grupo.do?path=101676)  
+   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/catalogo_imagenes/grupo.do?path=101676" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/catalogo_imagenes/grupo.do?path=101676</a>  
 
 50. <a id="endnote-50"></a>
    Source: elpais.com  
    Title: El País El ovni de Manises pudo ser un caza norteamericano  
-   Link: [https://elpais.com/diario/1980/01/25/espana/317602833_850215.html](https://elpais.com/diario/1980/01/25/espana/317602833_850215.html)  
+   Link: <a href="https://elpais.com/diario/1980/01/25/espana/317602833_850215.html" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/diario/1980/01/25/espana/317602833_850215.html</a>  
 
 51. <a id="endnote-51"></a>
    Source: manuelcarballal.com  
    Title: la confesion de jordan pena al policia  
-   Link: [https://www.manuelcarballal.com/2020/02/la-confesion-de-jordan-pena-al-policia.html](https://www.manuelcarballal.com/2020/02/la-confesion-de-jordan-pena-al-policia.html)  
+   Link: <a href="https://www.manuelcarballal.com/2020/02/la-confesion-de-jordan-pena-al-policia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.manuelcarballal.com/2020/02/la-confesion-de-jordan-pena-al-policia.html</a>  
 
 52. <a id="endnote-52"></a>
    Source: reddit.com  
    Title: The Ummo Affair  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/](https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h3jxnl/the_ummo_affair_a_very_complicated_ufo_hoax/</a>  
 
 53. <a id="endnote-53"></a>
    Source: spain1.es  
-   Link: [https://spain1.es/news/ufo.html](https://spain1.es/news/ufo.html)  
+   Link: <a href="https://spain1.es/news/ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://spain1.es/news/ufo.html</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/883153099972134/posts/1207996664154441/](https://www.facebook.com/groups/883153099972134/posts/1207996664154441/)  
+   Link: <a href="https://www.facebook.com/groups/883153099972134/posts/1207996664154441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883153099972134/posts/1207996664154441/</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/852591292422526/posts/1717523702595943/](https://www.facebook.com/groups/852591292422526/posts/1717523702595943/)  
+   Link: <a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/330157073801117/posts/2218330064983799/](https://www.facebook.com/groups/330157073801117/posts/2218330064983799/)  
+   Link: <a href="https://www.facebook.com/groups/330157073801117/posts/2218330064983799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/330157073801117/posts/2218330064983799/</a>  
 
 57. <a id="endnote-57"></a>
    Source: cadenaser.com  
-   Link: [https://cadenaser.com/emisora/2016/10/25/radio_valencia/1477379817_351200.html](https://cadenaser.com/emisora/2016/10/25/radio_valencia/1477379817_351200.html)  
+   Link: <a href="https://cadenaser.com/emisora/2016/10/25/radio_valencia/1477379817_351200.html" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/emisora/2016/10/25/radio_valencia/1477379817_351200.html</a>  
 
 58. <a id="endnote-58"></a>
    Source: ufoevidence.org  
    Title: Vicente-Juan Ballester Olmos  
-   Link: [https://www.ufoevidence.org/researchers/detail80.htm](https://www.ufoevidence.org/researchers/detail80.htm)  
+   Link: <a href="https://www.ufoevidence.org/researchers/detail80.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/researchers/detail80.htm</a>  
 
 59. <a id="endnote-59"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/2011/page/3/](https://www.euroufo.net/2011/page/3/)  
+   Link: <a href="https://www.euroufo.net/2011/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/2011/page/3/</a>  
 
 ### Additional References
 
 60. <a id="endnote-60"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aOttfrSi0Is](https://www.youtube.com/watch?v=aOttfrSi0Is)  
+   Link: <a href="https://www.youtube.com/watch?v=aOttfrSi0Is" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aOttfrSi0Is</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO that Shocked an Entire Continent - Manises UAP incident in Europe...</p></details>
 
 61. <a id="endnote-61"></a>
    Source: youtube.com  
    Title: The UFO that Shocked an Entire Continent  
-   Link: [https://www.youtube.com/watch?v=V10Q9AWsOfY](https://www.youtube.com/watch?v=V10Q9AWsOfY)  
+   Link: <a href="https://www.youtube.com/watch?v=V10Q9AWsOfY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V10Q9AWsOfY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Encounters in the Canary Islands | Franc Milburn...</p></details>
 
 62. <a id="endnote-62"></a>
    Source: youtube.com  
    Title: DECLASSIFIED UFO FILES: Why does science ignore them and governments don't?  
-   Link: [https://www.youtube.com/watch?v=wunCPG7EBXs](https://www.youtube.com/watch?v=wunCPG7EBXs)  
+   Link: <a href="https://www.youtube.com/watch?v=wunCPG7EBXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wunCPG7EBXs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: TRUMP OPENS the PENTAGON FILES | RTVE News...</p></details>
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
    Title: UAP Encounters in the Canary Islands | Franc Milburn  
-   Link: [https://www.youtube.com/watch?v=QMME0qFoMw0](https://www.youtube.com/watch?v=QMME0qFoMw0)  
+   Link: <a href="https://www.youtube.com/watch?v=QMME0qFoMw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QMME0qFoMw0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED UFO FILES: Why does science ignore them and governments don&#x27;t?...</p></details>
 
 64. <a id="endnote-64"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
 
 65. <a id="endnote-65"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711](https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711)  
+   Link: <a href="https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711</a>  
 
 66. <a id="endnote-66"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens](https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens)  
+   Link: <a href="https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens</a>  
 
 67. <a id="endnote-67"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/books/Catalogue_of_200_Type_I_UFO_Events_in_Spain_and_Portugal.pdf](https://cufos.org/PDFs/books/Catalogue_of_200_Type_I_UFO_Events_in_Spain_and_Portugal.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/Catalogue_of_200_Type_I_UFO_Events_in_Spain_and_Portugal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/Catalogue_of_200_Type_I_UFO_Events_in_Spain_and_Portugal.pdf</a>  
 
 68. <a id="endnote-68"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DQ7jVAoESKu/](https://www.instagram.com/p/DQ7jVAoESKu/)  
+   Link: <a href="https://www.instagram.com/p/DQ7jVAoESKu/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ7jVAoESKu/</a>  
 
 69. <a id="endnote-69"></a>
    Source: journalist.net  
-   Link: [https://journalist.net/journalists/by-organization/armed-forces](https://journalist.net/journalists/by-organization/armed-forces)  
+   Link: <a href="https://journalist.net/journalists/by-organization/armed-forces" target="_blank" rel="noopener noreferrer nofollow">https://journalist.net/journalists/by-organization/armed-forces</a>  

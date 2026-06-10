@@ -245,7 +245,7 @@ next_link:
   permalink: /salatun/
   short_title: Salatun
   heading_title: Was Indonesia Ever Officially Studying UFOs?
-date: '2026-06-09 01:29:55 '
+date: '2026-06-10 01:55:18 '
 header:
   og_image: /assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1-social.jpg
   preview_image: /assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-
 
 ## Introduction
 
-In January 2011, a striking **crop circle pattern in a rice field near Sleman, Yogyakarta, [Indonesia]({{ 'what-indonesias-ufo-record-really-shows/' | relative_url }})** sparked intense local interest and widespread speculation about a possible **UFO connection**. The pattern — sprawling circles and geometric shapes flattened into a swathe of ripening paddy — rapidly became a national talking point, with initial eyewitness reports, social‑media buzz, and even UFO enthusiasts linking the sighting to unusual aerial activity. Yet within days, scientific voices and official investigations **debunked the UFO hypothesis**, characterising the formation as **human‑made** and prompting broader reflection on how mysterious phenomena are interpreted in Indonesia’s UFO discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.antaranews.com">[ANTARA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.antaranews.com</span><span class="citation-popover-title">ANTARA News UFO-related &quot;crop circle&quot; found In Yogyakarta rice field</span><span class="citation-popover-snippet">ANTARA NewsUFO-related &quot;crop circle&quot; found In Yogyakarta rice field - ANTARA NewsJanuary 24, 2011...</span><span class="citation-popover-meta">Published: January 24, 2011</span></span></span>
+In January 2011, a striking **crop circle pattern in a rice field near Sleman, Yogyakarta, Indonesia** sparked intense local interest and widespread speculation about a possible **UFO connection**. The pattern — sprawling circles and geometric shapes flattened into a swathe of ripening paddy — rapidly became a national talking point, with initial eyewitness reports, social‑media buzz, and even UFO enthusiasts linking the sighting to unusual aerial activity. Yet within days, scientific voices and official investigations **debunked the UFO hypothesis**, characterising the formation as **human‑made** and prompting broader reflection on how mysterious phenomena are interpreted in Indonesia’s UFO discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.antaranews.com">[ANTARA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.antaranews.com</span><span class="citation-popover-title">ANTARA News UFO-related &quot;crop circle&quot; found In Yogyakarta rice field</span><span class="citation-popover-snippet">ANTARA NewsUFO-related &quot;crop circle&quot; found In Yogyakarta rice field - ANTARA NewsJanuary 24, 2011...</span><span class="citation-popover-meta">Published: January 24, 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1-dark.svg" | relative_url }}" alt="Crop Circle illustration 1" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -269,7 +269,7 @@ Initial local reporting highlighted both curiosity and mystery. Some villagers r
 
 ## Witness Claims and Media Momentum
 
-Within hours of news spreading, **UFO narratives circulated locally and online**, often framing the formation as a potential trace of an unidentified flying craft. Some villagers and commentators — mirroring crop‑circle folklore familiar from Europe and North America — expressed belief that the geometric precision and suddenness of the pattern pointed to phenomena beyond mundane explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philnews.ph/2011/01/27/crop-circle-in-indonesia-rumors-of-alien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philnews.ph">[PhilNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philnews.ph</span><span class="citation-popover-title">Phil News Crop Circle&#x27; in Indonesia Rumors of Alien | Phil News</span><span class="citation-popover-snippet">PhilNewsCrop Circle&#x27; in Indonesia Rumors of Alien | PhilNewsJanuary 27, 2011...</span><span class="citation-popover-meta">Published: January 27, 2011</span></span></span>
+Within hours of news spreading, **UFO narratives circulated locally and online**, often framing the formation as a potential trace of an unidentified flying craft. Some villagers and commentators — mirroring crop‑circle folklore familiar from Europe and North America — expressed belief that the geometric precision and suddenness of the pattern pointed to phenomena beyond mundane explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philnews.ph/2011/01/27/crop-circle-in-indonesia-rumors-of-alien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philnews.ph">[PhilNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philnews.ph</span><span class="citation-popover-title">Phil News Crop Circle&#x27; in Indonesia Rumors of Alien &#124; Phil News</span><span class="citation-popover-snippet">Crop Circle&#x27; in Indonesia Rumors of Alien &#124; PhilNewsJanuary 27, 2011...</span><span class="citation-popover-meta">Published: January 27, 2011</span></span></span>
 
 Media outlets amplified these speculations. Early reports noted how widespread crowds flocked to the site, treating the field as a curiosity worthy of live television segments. In some accounts, residents compared the Indonesian pattern to similar formations abroad, and local UFO enthusiast groups added their perspectives, suggesting that conventional explanations might fall short given the symmetry and scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regional.kompas.com/read/2011/01/24/14232650/Crop.Circle.di.Sleman.Masih.Misteri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regional.kompas.com">[regional.kompas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regional.kompas.com</span><span class="citation-popover-title">Crop Circle&#x27; di Sleman Masih &#x27;Misteri</span><span class="citation-popover-snippet">January 24, 2011...</span><span class="citation-popover-meta">Published: January 24, 2011</span></span></span>
 
@@ -293,7 +293,7 @@ Responding to the public attention and disputed claims, **Lembaga Penerbangan da
 
 Together these observations led LAPAN authorities to state categorically that the crop circle was **made by people, not by an unidentified flying object**. LAPAN representatives noted that if advanced technology were involved, the symmetry and physical condition of the plants would differ from what was found, and there would likely be other trace evidence characteristic of non‑human mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasional.kompas.com">[Kompas Nasional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasional.kompas.com</span><span class="citation-popover-title">Nasional Bukti-bukti &quot;Crop Circle&quot; Buatan Manusia</span><span class="citation-popover-snippet">Kompas NasionalBukti-bukti &quot;Crop Circle&quot; Buatan Manusia...</span></span></span>
 
-Some UFO‑enthusiast commentators contested this interpretation, proposing that the crop pattern might still reflect phenomena not easily reproduced on earth, but these views remained in the minority and lacked supporting physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1553798/komunitas-ufo-indonesia-crop-circle-di-sleman-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Komunitas UFO Indonesia: Crop Circle di Sleman Buatan Manusia</span><span class="citation-popover-snippet">detiknewsKomunitas UFO Indonesia: Crop Circle di Sleman Buatan ManusiaJanuary 25, 2011...</span><span class="citation-popover-meta">Published: January 25, 2011</span></span></span>
+Some UFO‑enthusiast commentators contested this interpretation, proposing that the crop pattern might still reflect phenomena not easily reproduced on earth, but these views remained in the minority and lacked supporting physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1553798/komunitas-ufo-indonesia-crop-circle-di-sleman-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Komunitas UFO Indonesia: Crop Circle di Sleman Buatan Manusia</span><span class="citation-popover-snippet">newsKomunitas UFO Indonesia: Crop Circle di Sleman Buatan ManusiaJanuary 25, 2011...</span><span class="citation-popover-meta">Published: January 25, 2011</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vD35Z_1oBDg" title="Bagaimana Kabar Crop Circle di Sleman Tahun 2011 Lalu yang Sempat Menghebohkan Indonesia Ini?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vD35Z_1oBDg" target="_blank" rel="noopener noreferrer">Bagaimana Kabar Crop Circle di Sleman Tahun 2011 Lalu yang Sempat Menghebohkan Indonesia Ini?</a></p><p class="youtube-embed-meta">Channel: Calon Sarjana &middot; Views: 21.6K &middot; Uploaded: May 2025 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vD35Z_1oBDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vD35Z_1oBDg">Open on YouTube</a></p></div></div></div>
@@ -302,7 +302,7 @@ Some UFO‑enthusiast commentators contested this interpretation, proposing that
 
 The Sleman crop circle episode is notable not because it unveiled unknown technology, but because it **illustrates how quickly UFO explanations can emerge and then be challenged by empirical inquiry within Indonesia**. In just a few days, the story transitioned from “possible extraterrestrial trace” to a **debunked phenomenon**, largely due to accessible investigation by scientists and law enforcement. This swift resolution contrasts with many unresolved sightings in the broader ufology record and underscores the role of grounded, evidence‑based analysis in distinguishing between cultural speculation and physical reality.
 
-Moreover, the event left a cultural imprint: public memory of the formation persists in local narratives, and even in physical commemoration — a **monument referencing the crop circle and UFO theme** now stands near the original location, blending folklore and education despite the scientific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: detik.com">[detikcom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">detik.com</span><span class="citation-popover-title">mengenang kembali crop circle sleman 2011 yang menghebohkan bekas ufo</span><span class="citation-popover-snippet">detikcomMengenang Kembali Crop Circle Sleman 2011 yang Menghebohkan, Bekas UFO?March 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+Moreover, the event left a cultural imprint: public memory of the formation persists in local narratives, and even in physical commemoration — a **monument referencing the crop circle and UFO theme** now stands near the original location, blending folklore and education despite the scientific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: detik.com">[detikcom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">detik.com</span><span class="citation-popover-title">mengenang kembali crop circle sleman 2011 yang menghebohkan bekas ufo</span><span class="citation-popover-snippet">comMengenang Kembali Crop Circle Sleman 2011 yang Menghebohkan, Bekas UFO?March 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 The Sleman case aligns with broader patterns in Indonesia’s UFO record, where intriguing patterns and eyewitness claims often generate rapid media cycles and public intrigue, but **detailed scrutiny typically points to terrestrial mechanisms**. For scholars and observers, the Yogyakarta crop circle remains a concrete example of how **anomalous appearances can attract extraordinary explanations, which are then tested and often overturned by methodical investigation**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasional.kompas.com">[Kompas Nasional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasional.kompas.com</span><span class="citation-popover-title">Nasional Bukti-bukti &quot;Crop Circle&quot; Buatan Manusia</span><span class="citation-popover-snippet">Kompas NasionalBukti-bukti &quot;Crop Circle&quot; Buatan Manusia...</span></span></span>
 
@@ -310,7 +310,7 @@ The Sleman case aligns with broader patterns in Indonesia’s UFO record, where 
 <img src="{{ "/assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-3-dark.svg" | relative_url }}" alt="Crop Circle illustration 3" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aftermath and Legacy
 
-In the years since 2011, the Sleman crop circle has become a **reference point in Indonesian discussions of crop patterns and UFO lore**, frequently compared with other mysterious sightings and debated in both sceptical and enthusiast circles. Although the scientific consensus remains that the 2011 formation was **man‑made**, the event continues to be cited in cultural conversations about how people perceive unexplained phenomena and how quickly speculative interpretations can spread before being rigorously assessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: detik.com">[detikcom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">detik.com</span><span class="citation-popover-title">mengenang kembali crop circle sleman 2011 yang menghebohkan bekas ufo</span><span class="citation-popover-snippet">detikcomMengenang Kembali Crop Circle Sleman 2011 yang Menghebohkan, Bekas UFO?March 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+In the years since 2011, the Sleman crop circle has become a **reference point in Indonesian discussions of crop patterns and UFO lore**, frequently compared with other mysterious sightings and debated in both sceptical and enthusiast circles. Although the scientific consensus remains that the 2011 formation was **man‑made**, the event continues to be cited in cultural conversations about how people perceive unexplained phenomena and how quickly speculative interpretations can spread before being rigorously assessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: detik.com">[detikcom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">detik.com</span><span class="citation-popover-title">mengenang kembali crop circle sleman 2011 yang menghebohkan bekas ufo</span><span class="citation-popover-snippet">comMengenang Kembali Crop Circle Sleman 2011 yang Menghebohkan, Bekas UFO?March 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 The episode also highlights a recurring theme in Indonesia’s UFO landscape: **extraordinary claims require extraordinary evidence**, and in the absence of such evidence, even dramatic patterns in nature often have mundane explanations anchored in human activity and social dynamics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasional.kompas.com">[Kompas Nasional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasional.kompas.com</span><span class="citation-popover-title">Nasional Bukti-bukti &quot;Crop Circle&quot; Buatan Manusia</span><span class="citation-popover-snippet">Kompas NasionalBukti-bukti &quot;Crop Circle&quot; Buatan Manusia...</span></span></span>
 
@@ -319,86 +319,44 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How a Crop Circle Became a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How a Crop Circle Became a UFO Story, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Connects local reports to wider global UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Useful for understanding how unusual reports become public controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits readers who arrive via UFO-related interpretations of the event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -432,75 +390,71 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -715,76 +669,76 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
 1. <a id="endnote-1"></a>
    Source: nasional.kompas.com  
    Title: Nasional Bukti-bukti &quot;Crop Circle&quot; Buatan Manusia  
-   Link: [https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena](https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena)  
+   Link: <a href="https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena" target="_blank" rel="noopener noreferrer nofollow">https://nasional.kompas.com/read/2011/01/25/20062531/~Sains~Fenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kompas NasionalBukti-bukti &amp;quot;Crop Circle&amp;quot; Buatan Manusia...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: regional.kompas.com  
    Title: 'Crop Circle' di Sleman Masih 'Misteri'  
-   Link: [https://regional.kompas.com/read/2011/01/24/14232650/Crop.Circle.di.Sleman.Masih.Misteri](https://regional.kompas.com/read/2011/01/24/14232650/Crop.Circle.di.Sleman.Masih.Misteri)  
+   Link: <a href="https://regional.kompas.com/read/2011/01/24/14232650/Crop.Circle.di.Sleman.Masih.Misteri" target="_blank" rel="noopener noreferrer nofollow">https://regional.kompas.com/read/2011/01/24/14232650/Crop.Circle.di.Sleman.Masih.Misteri</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 24, 2011...</p></details>
    Published: January 24, 2011  
 
 3. <a id="endnote-3"></a>
    Source: money.kompas.com  
    Title: &quot;Crop Circle&quot; Yogya, Pertama di Indonesia  
-   Link: [https://money.kompas.com/read/2011/01/24/12223588/~Sains~Fenomena](https://money.kompas.com/read/2011/01/24/12223588/~Sains~Fenomena)  
+   Link: <a href="https://money.kompas.com/read/2011/01/24/12223588/~Sains~Fenomena" target="_blank" rel="noopener noreferrer nofollow">https://money.kompas.com/read/2011/01/24/12223588/~Sains~Fenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 24, 2011...</p></details>
    Published: January 24, 2011  
 
 4. <a id="endnote-4"></a>
    Source: philnews.ph  
    Title: Phil News Crop Circle' in Indonesia Rumors of Alien | Phil News  
-   Link: [https://philnews.ph/2011/01/27/crop-circle-in-indonesia-rumors-of-alien/](https://philnews.ph/2011/01/27/crop-circle-in-indonesia-rumors-of-alien/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilNewsCrop Circle&#x27; in Indonesia Rumors of Alien | PhilNewsJanuary 27, 2011...</p></details>
+   Link: <a href="https://philnews.ph/2011/01/27/crop-circle-in-indonesia-rumors-of-alien/" target="_blank" rel="noopener noreferrer nofollow">https://philnews.ph/2011/01/27/crop-circle-in-indonesia-rumors-of-alien/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circle&#x27; in Indonesia Rumors of Alien | PhilNewsJanuary 27, 2011...</p></details>
    Published: January 27, 2011  
 
 5. <a id="endnote-5"></a>
    Source: en.antaranews.com  
    Title: ANTARA News UFO-related "crop circle" found In Yogyakarta rice field  
-   Link: [https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field](https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field)  
+   Link: <a href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow">https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANTARA NewsUFO-related &quot;crop circle&quot; found In Yogyakarta rice field - ANTARA NewsJanuary 24, 2011...</p></details>
    Published: January 24, 2011  
 
 6. <a id="endnote-6"></a>
    Source: news.detik.com  
    Title: news Komunitas UFO Indonesia: Crop Circle di Sleman Buatan Manusia  
-   Link: [https://news.detik.com/berita/d-1553798/komunitas-ufo-indonesia-crop-circle-di-sleman-buatan-manusia](https://news.detik.com/berita/d-1553798/komunitas-ufo-indonesia-crop-circle-di-sleman-buatan-manusia)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>detiknewsKomunitas UFO Indonesia: Crop Circle di Sleman Buatan ManusiaJanuary 25, 2011...</p></details>
+   Link: <a href="https://news.detik.com/berita/d-1553798/komunitas-ufo-indonesia-crop-circle-di-sleman-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow">https://news.detik.com/berita/d-1553798/komunitas-ufo-indonesia-crop-circle-di-sleman-buatan-manusia</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>newsKomunitas UFO Indonesia: Crop Circle di Sleman Buatan ManusiaJanuary 25, 2011...</p></details>
    Published: January 25, 2011  
 
 7. <a id="endnote-7"></a>
    Source: detik.com  
    Title: mengenang kembali crop circle sleman 2011 yang menghebohkan bekas ufo  
-   Link: [https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo](https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>detikcomMengenang Kembali Crop Circle Sleman 2011 yang Menghebohkan, Bekas UFO?March 23, 2026...</p></details>
+   Link: <a href="https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.detik.com/jogja/berita/d-8412164/mengenang-kembali-crop-circle-sleman-2011-yang-menghebohkan-bekas-ufo</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>comMengenang Kembali Crop Circle Sleman 2011 yang Menghebohkan, Bekas UFO?March 23, 2026...</p></details>
    Published: March 23, 2026  
 
 8. <a id="endnote-8"></a>
    Source: detik.com  
    Title: fenomena crop circle di sleman 2011 bikin gempar tapi dipuji sultan hb x  
-   Link: [https://www.detik.com/jogja/berita/d-8412209/fenomena-crop-circle-di-sleman-2011-bikin-gempar-tapi-dipuji-sultan-hb-x](https://www.detik.com/jogja/berita/d-8412209/fenomena-crop-circle-di-sleman-2011-bikin-gempar-tapi-dipuji-sultan-hb-x)  
+   Link: <a href="https://www.detik.com/jogja/berita/d-8412209/fenomena-crop-circle-di-sleman-2011-bikin-gempar-tapi-dipuji-sultan-hb-x" target="_blank" rel="noopener noreferrer nofollow">https://www.detik.com/jogja/berita/d-8412209/fenomena-crop-circle-di-sleman-2011-bikin-gempar-tapi-dipuji-sultan-hb-x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fenomena Crop Circle di Sleman 2011, Bikin Gempar tapi Dipuji Sultan HB XMarch 23, 2026 — * # Fenomena Crop Circle di Sleman 2011, Bikin...</p></details>
    Published: March 23, 2026  
 
 9. <a id="endnote-9"></a>
    Source: news.detik.com  
    Title: beta ufo indonesia crop circle di sleman bukan buatan manusia  
-   Link: [https://news.detik.com/berita/d-1553770/beta-ufo-indonesia-crop-circle-di-sleman-bukan-buatan-manusia](https://news.detik.com/berita/d-1553770/beta-ufo-indonesia-crop-circle-di-sleman-bukan-buatan-manusia)  
+   Link: <a href="https://news.detik.com/berita/d-1553770/beta-ufo-indonesia-crop-circle-di-sleman-bukan-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow">https://news.detik.com/berita/d-1553770/beta-ufo-indonesia-crop-circle-di-sleman-bukan-buatan-manusia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Indonesia: Crop Circle di Sleman Bukan Buatan ManusiaJanuary 25, 2011 — - detikNews Selasa, 25 Jan 2011 09:10 WIB Image: Beta UFO Ind...</p></details>
    Published: January 25, 2011  
 
 10. <a id="endnote-10"></a>
    Source: antaranews.com  
    Title: LAPA N: Crop Circle di Berbah Buatan Manusia  
-   Link: [https://www.antaranews.com/berita/243365/lapan-crop-circle-di-berbah-buatan-manusia](https://www.antaranews.com/berita/243365/lapan-crop-circle-di-berbah-buatan-manusia)  
+   Link: <a href="https://www.antaranews.com/berita/243365/lapan-crop-circle-di-berbah-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow">https://www.antaranews.com/berita/243365/lapan-crop-circle-di-berbah-buatan-manusia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LAPAN: Crop Circle di Berbah Buatan Manusia - ANTARA NewsJanuary 25, 2011 — LAPAN: CROP CIRCLE DI BERBAH BUATAN MANUSIA * Selasa, 25 Ja...</p></details>
    Published: January 25, 2011  
 
 11. <a id="endnote-11"></a>
    Source: news.detik.com  
    Title: crop circle asli pakai teknologi pemanasan  
-   Link: [https://news.detik.com/berita/d-1553303/crop-circle-asli-pakai-teknologi-pemanasan](https://news.detik.com/berita/d-1553303/crop-circle-asli-pakai-teknologi-pemanasan)  
+   Link: <a href="https://news.detik.com/berita/d-1553303/crop-circle-asli-pakai-teknologi-pemanasan" target="_blank" rel="noopener noreferrer nofollow">https://news.detik.com/berita/d-1553303/crop-circle-asli-pakai-teknologi-pemanasan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circle Asli Pakai Teknologi PemanasanJanuary 24, 2011 — CROP CIRCLE ASLI PAKAI TEKNOLOGI PEMANASAN - detikNews Senin, 24 Jan 2011 16:06 W...</p></details>
    Published: January 24, 2011  
 
@@ -792,64 +746,64 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
 
 12. <a id="endnote-12"></a>
    Source: news.okezone.com  
-   Link: [https://news.okezone.com/read/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia](https://news.okezone.com/read/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia)  
+   Link: <a href="https://news.okezone.com/read/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow">https://news.okezone.com/read/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pastikan Crop Circle Sleman Buatan Manusia: Okezone NewsJanuary 25, 2011 — LAPAN PASTIKAN CROP CIRCLE SLEMAN BUATAN MANUSIA Priyo Setyaw...</p></details>
    Published: January 25, 2011  
 
 13. <a id="endnote-13"></a>
    Source: sott.net  
    Title: Indonesia: Crop Circles Found in Yogya Rice Field — High Strangeness — Sott.net  
-   Link: [https://www.sott.net/article/222008-Indonesia-Crop-Circles-Found-in-Yogya-Rice-Field](https://www.sott.net/article/222008-Indonesia-Crop-Circles-Found-in-Yogya-Rice-Field)  
+   Link: <a href="https://www.sott.net/article/222008-Indonesia-Crop-Circles-Found-in-Yogya-Rice-Field" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/222008-Indonesia-Crop-Circles-Found-in-Yogya-Rice-Field</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 24, 2011 — HIGH STRANGENESS Image: Question INDONESIA: CROP CIRCLES FOUND IN YOGYA RICE FIELD The Jakarta Post Mon, 24 Jan 2011 0...</p></details>
    Published: January 24, 2011  
 
 14. <a id="endnote-14"></a>
    Source: voa-islam.com  
    Title: Astronom LAPAN: ''Jejak UFO'' di Sleman Buatan Manusia  
-   Link: [https://www.voa-islam.com/read/indonesiana/2011/01/24/12933/astronom-lapan-jejak-ufo-di-sleman-buatan-manusia/](https://www.voa-islam.com/read/indonesiana/2011/01/24/12933/astronom-lapan-jejak-ufo-di-sleman-buatan-manusia/)  
+   Link: <a href="https://www.voa-islam.com/read/indonesiana/2011/01/24/12933/astronom-lapan-jejak-ufo-di-sleman-buatan-manusia/" target="_blank" rel="noopener noreferrer nofollow">https://www.voa-islam.com/read/indonesiana/2011/01/24/12933/astronom-lapan-jejak-ufo-di-sleman-buatan-manusia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24, 2011 — Image: Astronom LAPAN: &#x27;&#x27;Jejak UFO&#x27;&#x27; di Sleman Buatan Manusia Senin, 22 Zulqaidah 1447 H / 24 Januari 2011 11:00 wib 10.412 vi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thejakartapost.com  
    Title: Mysterious crop circle found by farmer in Yogyakarta  
-   Link: [https://www.thejakartapost.com/news/2011/01/25/mysterious-crop-circle-found-farmer-yogyakarta.html](https://www.thejakartapost.com/news/2011/01/25/mysterious-crop-circle-found-farmer-yogyakarta.html)  
+   Link: <a href="https://www.thejakartapost.com/news/2011/01/25/mysterious-crop-circle-found-farmer-yogyakarta.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thejakartapost.com/news/2011/01/25/mysterious-crop-circle-found-farmer-yogyakarta.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tue, January 25, 2011 - The Jakarta PostJanuary 25, 2011 — MYSTERIOUS CROP CIRCLE FOUND BY FARMER IN YOGYAKARTA Alien intelligence?: A cr...</p></details>
    Published: January 25, 2011  
 
 16. <a id="endnote-16"></a>
    Source: news.okezone.com  
    Title: lapan pastikan crop circle sleman buatan manusia  
-   Link: [https://news.okezone.com/amp/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia](https://news.okezone.com/amp/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia)  
+   Link: <a href="https://news.okezone.com/amp/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia" target="_blank" rel="noopener noreferrer nofollow">https://news.okezone.com/amp/2011/01/25/340/417869/lapan-pastikan-crop-circle-sleman-buatan-manusia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pastikan Crop Circle Sleman Buatan Manusia: Okezone NewsJanuary 25, 2011 — HOME NEWS NUSANTARA LAPAN PASTIKAN CROP CIRCLE SLEMAN BUATAN...</p></details>
    Published: January 25, 2011  
 
 17. <a id="endnote-17"></a>
    Source: cropcirclearchives.co.uk  
    Title: Crop Circle at Krasakan, Sleman, Yogyakarta  
-   Link: [https://www.cropcirclearchives.co.uk/archives/inter2011/java/java2011a.html](https://www.cropcirclearchives.co.uk/archives/inter2011/java/java2011a.html)  
+   Link: <a href="https://www.cropcirclearchives.co.uk/archives/inter2011/java/java2011a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cropcirclearchives.co.uk/archives/inter2011/java/java2011a.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Java. Indonesia Reported 23rd January 2011January 23, 2011 — Krasakan, Sleman, Yogyakarta. Java. Indonesia. Reported 23rd January 2011 Ma...</p></details>
    Published: January 23, 2011  
 
 18. <a id="endnote-18"></a>
    Source: thejakartapost.com  
    Title: The Jakarta Post Issue: Crop circles found in Yogya rice field  
-   Link: [https://www.thejakartapost.com/news/2011/01/26/issue-crop-circles-found-yogya-rice-field.html](https://www.thejakartapost.com/news/2011/01/26/issue-crop-circles-found-yogya-rice-field.html)  
+   Link: <a href="https://www.thejakartapost.com/news/2011/01/26/issue-crop-circles-found-yogya-rice-field.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thejakartapost.com/news/2011/01/26/issue-crop-circles-found-yogya-rice-field.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Jakarta PostIssue: Crop circles found in Yogya rice field - Wed, January 26, 2011 - The Jakarta Post...</p></details>
    Published: January 26, 2011  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vD35Z_1oBDg](https://www.youtube.com/watch?v=vD35Z_1oBDg)  
+   Link: <a href="https://www.youtube.com/watch?v=vD35Z_1oBDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vD35Z_1oBDg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TJP Documentaries: Indonesia&#x27;s UFO Believers Never Stop Looking...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: TJP Documentaries: Indonesia's UFO Believers Never Stop Looking  
-   Link: [https://www.youtube.com/watch?v=jNB5bNlDVWE](https://www.youtube.com/watch?v=jNB5bNlDVWE)  
+   Link: <a href="https://www.youtube.com/watch?v=jNB5bNlDVWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jNB5bNlDVWE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MONUMEN UFO DI LOKASI BEKAS CROP CIRCLE SLEMAN...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: TERKUAK!! MISTERI PENAMPAKAN FENOMENA CROP CIRCLE UFO DI SLEMAN  
-   Link: [https://www.youtube.com/watch?v=TNZqxqxQXfQ](https://www.youtube.com/watch?v=TNZqxqxQXfQ)  
+   Link: <a href="https://www.youtube.com/watch?v=TNZqxqxQXfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TNZqxqxQXfQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Konferensi Komunitas Pencari Jejak Alien...</p></details>

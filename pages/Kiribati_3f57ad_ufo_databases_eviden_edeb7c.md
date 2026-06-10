@@ -239,7 +239,7 @@ next_link:
   permalink: /island-checks/
   short_title: Island Checks
   heading_title: Where Would Kiribati UFO Claims Be Checkable?
-date: '2026-06-09 01:31:05 '
+date: '2026-06-10 01:56:42 '
 header:
   og_image: /assets/images/Kiribati_3f57ad_ufo_databases_eviden_edeb7c-Illustration-1-social.jpg
   preview_image: /assets/images/Kiribati_3f57ad_ufo_databases_eviden_edeb7c-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Kiribati_3f57ad_ufo_databases_eviden_edeb7c-Illustration-1
 
 ## Introduction
 
-Public UFO/UAP reporting systems and compiled sighting databases contain **virtually no credible, verifiable entries specifically for [Kiribati]({{ 'what-is-really-known-about-kiribati-ufos/' | relative_url }})**—a striking contrast with countries that have deeper reporting traditions. In major repositories such as the National UFO Reporting Center (NUFORC), Enigma Labs, UFOFinder and other international aggregators, Kiribati either does not appear at all or is absent from structured, accessible indexes. This absence does not *prove* that no unidentified aerial phenomena have ever been seen over Kiribati, but it **places a burden on claims** and means that researchers must be highly cautious about interpreting sparse online mentions or speculative lists as evidence of historical or scientifically validated events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Public UFO/UAP reporting systems and compiled sighting databases contain **virtually no credible, verifiable entries specifically for Kiribati**—a striking contrast with countries that have deeper reporting traditions. In major repositories such as the National UFO Reporting Center (NUFORC), Enigma Labs, UFOFinder and other international aggregators, Kiribati either does not appear at all or is absent from structured, accessible indexes. This absence does not *prove* that no unidentified aerial phenomena have ever been seen over Kiribati, but it **places a burden on claims** and means that researchers must be highly cautious about interpreting sparse online mentions or speculative lists as evidence of historical or scientifically validated events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kiribati_3f57ad_ufo_databases_eviden_edeb7c-Illustration-1-dark.svg" | relative_url }}" alt="Databases illustration 1" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_ufo_databases_eviden_edeb7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_ufo_databases_eviden_edeb7c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,10 +256,10 @@ Public UFO/UAP reporting systems and compiled sighting databases contain **virtu
 
 Most well‑known public UFO databases are searchable by country or geographic region. In those that are easily queryable:
 
-* **NUFORC (National UFO Reporting Center):** A longstanding public repository of UFO/UAP sighting reports, NUFORC indexes reports by date, location and credibility tier, but **Kiribati does not feature as a distinct country entry** in the publicly accessible index. Reports are categorised globally, but small island nations with minimal submissions often do not show up clearly in country lists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **NUFORC (National UFO Reporting Center):** A longstanding public repository of UFO/UAP sighting reports, NUFORC indexes reports by date, location and credibility tier, but **Kiribati does not feature as a distinct country entry** in the publicly accessible index. Reports are categorised globally, but small island nations with minimal submissions often do not show up clearly in country lists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 * **Enigma Labs:** This modern crowd‑sourced sightings database allows browsing by country, and the most recent accessible country pages show substantial entries for well‑reported regions (e.g. the United Kingdom), but **there is no published Kiribati page with recorded sightings** in the main public interface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 * **UFOFinder:** A commercial‑style UFO archive drawing from multiple sources reports tens of thousands of sightings globally, but its published maps and access tools focus on populated continents and **do not highlight Kiribati as a documented location**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Other aggregators:** General aggregators like UAP Nexus and UAP Monitor compile data from NUFORC, MUFON and other sources, but their interactive interfaces show **no specific entries** tied to Kiribati in publicly visible reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap.nexus">[UAP NEXUS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap.nexus</span><span class="citation-popover-title">NEXUSUAP NEXUS | Global Sighting Aggregator</span><span class="citation-popover-snippet">Global Sighting Aggregator...</span></span></span>
+* **Other aggregators:** General aggregators like UAP Nexus and UAP Monitor compile data from NUFORC, MUFON and other sources, but their interactive interfaces show **no specific entries** tied to Kiribati in publicly visible reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap.nexus">[UAP NEXUS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap.nexus</span><span class="citation-popover-title">NEXUSUAP NEXUS &#124; Global Sighting Aggregator</span><span class="citation-popover-snippet">Global Sighting Aggregator...</span></span></span>
 
 This pattern—a consistent lack of country‑tagged reports for Kiribati—points to *absence from the most accessible global UFO databases* rather than robust case evidence. Absence in structured databases may be due to low reporting rates, geographic isolation, language barriers, or simply that no formal submissions have been made through the established channels.
 
@@ -270,7 +270,7 @@ This pattern—a consistent lack of country‑tagged reports for Kiribati—poin
 
 In UFO research, **community‑submitted databases are the primary public record for first‑hand sightings**: they document witness location, date, sighting descriptions, credibility tiers (in the case of NUFORC), and sometimes supplementary media or follow‑ups. When an entire nation appears to have **zero entries in these global repositories**, it implies several interpretive points:
 
-* **Lack of formal submissions:** A zero count in major databases doesn’t *prove* no one in Kiribati has ever seen an unexplained aerial event, but it does confirm that **no such events have been submitted through the common reporting channels** or have reached the public repository layer where researchers can access them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **Lack of formal submissions:** A zero count in major databases doesn’t *prove* no one in Kiribati has ever seen an unexplained aerial event, but it does confirm that **no such events have been submitted through the common reporting channels** or have reached the public repository layer where researchers can access them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 * **Reporting bias and awareness:** Populated, highly connected countries tend to have far more entries, partly because residents are more familiar with reporting systems and have easier internet access. Remote, sparsely populated island nations like Kiribati may simply produce **fewer structured submissions**, which in turn limits any statistical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 * **Implications for research:** For researchers focused on **evidence quality and verifiable cases**, a lack of database entries is a *qualitative signal* that raw claims from social forums or unverified websites require careful validation. Without structured witness metadata—location, time, witness count, and environmental conditions—it is difficult to assess a specific report’s strength or credibility.
 
@@ -281,7 +281,7 @@ In UFO research, **community‑submitted databases are the primary public record
 Despite the absence in structured databases, a handful of online pages and message‑board threads make **assertions or anecdotal comments** related to UFOs and Kiribati. Two common categories are:
 
 * **Speculative overseas UFO portals:** Some websites that accept self‑reported sightings globally include long prose about “Kiribati UFOs” or encourage Kiribati residents to submit experiences. These pages are typically **unmoderated forums or broad paranormal content sites** and lack structured, evidence‑led reporting or source verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/kiribati-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Kiribati UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research CenterGlobal UFOs: Kiribati UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
-* **Social media eyewitness anecdotes:** Internet forums occasionally host individual anecdotes from travellers or residents claiming to have seen unusual lights or orbs over Kiribati. These posts are *anecdotal*, not part of any systematic database, and do not include corroborating details suitable for scientific analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/flogxv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Personal witness of a UFO in the middle of the Pacific Ocean on an island</span><span class="citation-popover-snippet">RedditPersonal witness of a UFO in the middle of the Pacific Ocean on an islandMarch 20, 2020...</span><span class="citation-popover-meta">Published: March 20, 2020</span></span></span>
+* **Social media eyewitness anecdotes:** Internet forums occasionally host individual anecdotes from travellers or residents claiming to have seen unusual lights or orbs over Kiribati. These posts are *anecdotal*, not part of any systematic database, and do not include corroborating details suitable for scientific analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/flogxv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Personal witness of a UFO in the middle of the Pacific Ocean on an island</span><span class="citation-popover-snippet">Personal witness of a UFO in the middle of the Pacific Ocean on an islandMarch 20, 2020...</span><span class="citation-popover-meta">Published: March 20, 2020</span></span></span>
 
 Neither of these forms constitute structured entries in a recognized UFO reporting system; they remain **unverified personal accounts or promotional content** rather than evidence that meets documented quality thresholds.
 
@@ -310,99 +310,57 @@ For anyone researching UFO phenomena in Kiribati, the **key takeaway** is that *
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Formal submission through a recognized database (e.g. NUFORC, MUFON, or Enigma Labs). <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingShare UFO Sighting The #1 Destination for UFO Sighting Alerts and Aerial Intelligence 55,322 Sightings...</span></span></span>
+* Formal submission through a recognized database (e.g. NUFORC, MUFON, or Enigma Labs). <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingShare UFO Sighting The #1 Destination for UFO Sighting Alerts and Aerial Intelligence 55,322 Sightings...</span></span></span>
 * Multiple credible witnesses with consistent descriptions.
 * Supporting metadata (date, time, location coordinates) that allow cross‑checking with astronomical or human activity records.
 
 </div>
 
-Until such reports exist and are **indexed and verified**, Kiribati remains a region with *no publicly accessible, structured UFO sighting evidence in the major international databases*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+Until such reports exist and are **indexed and verified**, Kiribati remains a region with *no publicly accessible, structured UFO sighting evidence in the major international databases*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uiSqxzktor8" title="Website tracks ‘USO’s — unidentified submerged objects | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer">Website tracks ‘USO’s — unidentified submerged objects | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 61.4K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uiSqxzktor8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do UFO Databases Say About Kiribati?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do UFO Databases Say About Kiribati?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for discussions of report classification and database evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on documented cases and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses databases, reports and modern UFO evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Relevant to interpreting the absence of evidence and weak datasets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -436,75 +394,71 @@ Until such reports exist and are **indexed and verified**, Kiribati remains a re
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=databases-what-do-ufo-databases-say-about-kiribati-kiribati-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -719,106 +673,106 @@ Until such reports exist and are **indexed and verified**, Kiribati remains a re
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/gb](https://enigmalabs.io/explore/gb)  
+   Link: <a href="https://enigmalabs.io/explore/gb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gb</a>  
 
 3. <a id="endnote-3"></a>
    Source: ufofinder.com  
-   Link: [https://ufofinder.com/](https://ufofinder.com/)  
+   Link: <a href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/</a>  
 
 4. <a id="endnote-4"></a>
    Source: uap.nexus  
    Title: NEXUSUAP NEXUS | Global Sighting Aggregator  
-   Link: [https://uap.nexus/](https://uap.nexus/)  
+   Link: <a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting Aggregator...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Personal witness of a UFO in the middle of the Pacific Ocean on an island  
-   Link: [https://www.reddit.com/r/UFOs/comments/flogxv](https://www.reddit.com/r/UFOs/comments/flogxv)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditPersonal witness of a UFO in the middle of the Pacific Ocean on an islandMarch 20, 2020...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/flogxv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/flogxv</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Personal witness of a UFO in the middle of the Pacific Ocean on an islandMarch 20, 2020...</p></details>
    Published: March 20, 2020  
 
 6. <a id="endnote-6"></a>
    Source: usufocenter.com  
    Title: US UFO Research Center Global UFOs: Kiribati UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/kiribati-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/kiribati-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/kiribati-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/kiribati-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US UFO Research CenterGlobal UFOs: Kiribati UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
    Published: March 22, 2025  
 
 7. <a id="endnote-7"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingShare UFO Sighting The #1 Destination for UFO Sighting Alerts and Aerial Intelligence 55,322 Sightings...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: enigmalabs.io  
-   Link: [https://www.enigmalabs.io/explore](https://www.enigmalabs.io/explore)  
+   Link: <a href="https://www.enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/explore</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | UFO Sightings in United StatesUFO Sightings in United States Image: Copy to clipboard Enigma started receiving public sight...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/kp](https://enigmalabs.io/explore/kp)  
+   Link: <a href="https://enigmalabs.io/explore/kp" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/kp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in North Korea | Enigma LabsUFO Sightings in North Korea Image: Copy to clipboard Image: Email Sighting Image: Orange singl...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: apify.com  
-   Link: [https://apify.com/labrat011/ufo-sighting-scraper](https://apify.com/labrat011/ufo-sighting-scraper)  
+   Link: <a href="https://apify.com/labrat011/ufo-sighting-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/labrat011/ufo-sighting-scraper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Scraper · ApifyImage: UFO Sighting Scraper avatar UFO Sighting Scraper Pricing from $0.50 / 1,000 results Try for free Go to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nuforc/ufo-sightings/data](https://www.kaggle.com/datasets/nuforc/ufo-sightings/data)  
+   Link: <a href="https://www.kaggle.com/datasets/nuforc/ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nuforc/ufo-sightings/data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsNational UFO Reporting Center (NUFORC) and 1 collaborator · Updated 6 years ago arrow_drop_up[Button: 693] code Code file_do...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufosint.com  
-   Link: [https://ufosint.com/](https://ufosint.com/)  
+   Link: <a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Something in the Sky? Something in the Water hosts app launch for UFO sightings  
-   Link: [https://www.youtube.com/watch?v=FqXg8EbbXZU](https://www.youtube.com/watch?v=FqXg8EbbXZU)  
+   Link: <a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXg8EbbXZU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: weirdgoogleearth.com  
    Title: Crashed UFO in Kiribati?  
-   Link: [https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/](https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/)  
+   Link: <a href="https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Google EarthSeptember 10, 2021 — CRASHED UFO IN KIRIBATI? Weirder September 10, 2021 (2021-09-10T14:52:18-04:00) Crashed UFO in Kir...</p></details>
    Published: September 10, 2021  
 
 17. <a id="endnote-17"></a>
    Source: ufodatalive.com  
    Title: UF O Data Live | U.S  
-   Link: [https://www.ufodatalive.com/](https://www.ufodatalive.com/)  
+   Link: <a href="https://www.ufodatalive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Database, UAP Tracker &amp; Disclosure TimelineImage: UFO craft over desert landscape at dusk 37.2431° N 115.7930° W ALT: UNKNO...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ufodatacenter.org  
-   Link: [https://www.ufodatacenter.org/index.php](https://www.ufodatacenter.org/index.php)  
+   Link: <a href="https://www.ufodatacenter.org/index.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatacenter.org/index.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WELCOME TO UFO DATACENTER Explore the mysteries of t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Website tracks 'USO's — unidentified submerged objects | Jesse Weber Live  
-   Link: [https://www.youtube.com/watch?v=uiSqxzktor8](https://www.youtube.com/watch?v=uiSqxzktor8)  
+   Link: <a href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uiSqxzktor8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAP Enigma: Raw Uncensored Footage Of America&#x27;s UFOs...</p></details>

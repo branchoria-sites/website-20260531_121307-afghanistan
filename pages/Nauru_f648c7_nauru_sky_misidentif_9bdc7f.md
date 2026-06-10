@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-2928c1/
   short_title: Timeline
   heading_title: Why Is Nauru's UFO Timeline So Thin?
-date: '2026-06-09 01:35:14 '
+date: '2026-06-10 02:01:43 '
 header:
   og_image: /assets/images/Nauru_f648c7_nauru_sky_misidentif_9bdc7f-Illustration-1-social.jpg
   preview_image: /assets/images/Nauru_f648c7_nauru_sky_misidentif_9bdc7f-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Nauru_f648c7_nauru_sky_misidentif_9bdc7f-Illustration-1-so
 
 ## Introduction
 
-[Nauru]({{ 'what-do-nauru-ufo-reports-really-show/' | relative_url }}) does not have a large archive of investigated UFO cases, but it does have something that often produces ambiguous sightings: a tiny island surrounded by open ocean, with a single airport, tropical weather, active air routes, bright celestial objects, and very few reference points at night. In that setting, an unusual light can appear far larger, closer, or stranger than it really is.
+Nauru does not have a large archive of investigated UFO cases, but it does have something that often produces ambiguous sightings: a tiny island surrounded by open ocean, with a single airport, tropical weather, active air routes, bright celestial objects, and very few reference points at night. In that setting, an unusual light can appear far larger, closer, or stranger than it really is.
 
 
 <img src="{{ "/assets/images/Nauru_f648c7_nauru_sky_misidentif_9bdc7f-Illustration-1-dark.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Nauru_f648c7_nauru_sky_misidentif_9bdc7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nauru_f648c7_nauru_sky_misidentif_9bdc7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,7 +270,7 @@ A second factor is runway lighting. At night, approach lights, landing lights an
 
 The airport's importance also means weather observations are continuously tied to aviation operations. Nauru Meteorological Services specifically notes that its observations support airport activity and surrounding maritime operations. That creates a setting where aircraft, weather monitoring and changing atmospheric conditions regularly intersect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauru.gov.nr">[nauru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauru.gov.nr</span><span class="citation-popover-snippet">more...</span></span></span>
 
-Even routine airport maintenance can change how lights appear. Runway lighting outages, upgrades and airfield works occasionally alter the normal visual pattern around the airport. Someone accustomed to one arrangement of lights may suddenly encounter a different configuration and interpret it as an unfamiliar aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/nauruairlines/posts/upcoming-flight-updates-0810-april-2026nauru-airlines-sincerely-apologises-for-t/1387801243375194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">upcoming flight updates 0810 april 2026nauru airlines sincerely apologises for t</span><span class="citation-popover-snippet">Facebook08–10 APRIL 2026 Nauru Airlines sincerely apologises for...Although the runway lighting has since been restored and the airport...</span><span class="citation-popover-meta">Published: APRIL 2026</span></span></span>
+Even routine airport maintenance can change how lights appear. Runway lighting outages, upgrades and airfield works occasionally alter the normal visual pattern around the airport. Someone accustomed to one arrangement of lights may suddenly encounter a different configuration and interpret it as an unfamiliar aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/nauruairlines/posts/upcoming-flight-updates-0810-april-2026nauru-airlines-sincerely-apologises-for-t/1387801243375194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">upcoming flight updates 0810 april 2026nauru airlines sincerely apologises for t</span><span class="citation-popover-snippet">08–10 APRIL 2026 Nauru Airlines sincerely apologises for...Although the runway lighting has since been restored and the airport...</span><span class="citation-popover-meta">Published: APRIL 2026</span></span></span>
 
 ### Why Head-On Aircraft Can Look Unnatural
 
@@ -406,89 +406,47 @@ The most important lesson from Nauru's limited UFO record is not that witnesses 
 
 A small population means fewer independent observations. A small land area means many people view the same sky from similar angles. An airport concentrated in one location channels aircraft activity into predictable corridors. Tropical weather alters visibility. Open ocean removes distance cues. Birds, satellites and meteors remain highly visible against dark horizons.
 
-When reports emerge from such conditions, the first analytical question is usually not whether something extraordinary occurred. It is whether ordinary island-sky mechanisms can account for the sighting. Given the currently sparse public record from Nauru, airport approaches, atmospheric effects, celestial objects and natural wildlife remain stronger explanations than evidence for a confirmed unidentified phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/nauru-international-airport_nauru_6295682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoblue.com">[meteoblue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoblue.com</span><span class="citation-popover-snippet">Hourly simulations ✓ High resolution...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naurumet.com/observations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naurumet.com">[Nauru Meteorological Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naurumet.com</span><span class="citation-popover-snippet">Nauru Meteorological ServicesObservations | Nauru Meteorological ServicesThe met observations help support aviation operations at Nauru I...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://climateknowledgeportal.worldbank.org/country/nauru/climate-data-historical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climateknowledgeportal.worldbank.org">[Climate Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climateknowledgeportal.worldbank.org</span><span class="citation-popover-snippet">Climate Knowledge PortalNauru - Climatology (CRU) - Climate Change Knowledge PortalThis page presents Nauru&#x27;s climate context for the cur...</span></span></span>
+When reports emerge from such conditions, the first analytical question is usually not whether something extraordinary occurred. It is whether ordinary island-sky mechanisms can account for the sighting. Given the currently sparse public record from Nauru, airport approaches, atmospheric effects, celestial objects and natural wildlife remain stronger explanations than evidence for a confirmed unidentified phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/nauru-international-airport_nauru_6295682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoblue.com">[meteoblue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoblue.com</span><span class="citation-popover-snippet">Hourly simulations ✓ High resolution...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naurumet.com/observations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naurumet.com">[Nauru Meteorological Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naurumet.com</span><span class="citation-popover-snippet">Nauru Meteorological ServicesObservations &#124; Nauru Meteorological ServicesThe met observations help support aviation operations at Nauru I...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://climateknowledgeportal.worldbank.org/country/nauru/climate-data-historical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climateknowledgeportal.worldbank.org">[Climate Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climateknowledgeportal.worldbank.org</span><span class="citation-popover-snippet">Climate Knowledge PortalNauru - Climatology (CRU) - Climate Change Knowledge PortalThis page presents Nauru&#x27;s climate context for the cur...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Nauru&#x27;s Sky Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Nauru&#x27;s Sky Can Fool Witnesses, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers identify common objects mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Ideal for understanding bright planets, stars, and sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Examines common sources of aerial misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses observation challenges and witness interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -522,75 +480,71 @@ When reports emerge from such conditions, the first analytical question is usual
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-f62059-why-nauru-s-sky-can-fool-witnesses-nauru-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -804,138 +758,138 @@ When reports emerge from such conditions, the first analytical question is usual
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Nauru_Airlines](https://en.wikipedia.org/wiki/Nauru_Airlines)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nauru_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nauru_Airlines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru AirlinesNauru Air Corporation, trading as Nauru Airlines is the flag carrier of the Republic of Nauru. It operates scheduled int...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: upcoming flight updates 0810 april 2026nauru airlines sincerely apologises for t  
-   Link: [https://www.facebook.com/nauruairlines/posts/upcoming-flight-updates-0810-april-2026nauru-airlines-sincerely-apologises-for-t/1387801243375194/](https://www.facebook.com/nauruairlines/posts/upcoming-flight-updates-0810-april-2026nauru-airlines-sincerely-apologises-for-t/1387801243375194/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook08–10 APRIL 2026 Nauru Airlines sincerely apologises for...Although the runway lighting has since been restored and the airport...</p></details>
+   Link: <a href="https://www.facebook.com/nauruairlines/posts/upcoming-flight-updates-0810-april-2026nauru-airlines-sincerely-apologises-for-t/1387801243375194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nauruairlines/posts/upcoming-flight-updates-0810-april-2026nauru-airlines-sincerely-apologises-for-t/1387801243375194/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>08–10 APRIL 2026 Nauru Airlines sincerely apologises for...Although the runway lighting has since been restored and the airport...</p></details>
    Published: APRIL 2026  
 
 3. <a id="endnote-3"></a>
    Source: meteo365.es  
-   Link: [https://meteo365.es/airport/ANYN](https://meteo365.es/airport/ANYN)  
+   Link: <a href="https://meteo365.es/airport/ANYN" target="_blank" rel="noopener noreferrer nofollow">https://meteo365.es/airport/ANYN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud cover is measured on an eight point scale, 0 Oktas being clear sky, one Octa being 1/8 of the sky...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: meteoblue.com  
-   Link: [https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/nauru-international-airport_nauru_6295682](https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/nauru-international-airport_nauru_6295682)  
+   Link: <a href="https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/nauru-international-airport_nauru_6295682" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/nauru-international-airport_nauru_6295682</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hourly simulations ✓ High resolution...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: climendo.com  
-   Link: [https://www.climendo.com/en/nauru-international-airport/graphs](https://www.climendo.com/en/nauru-international-airport/graphs)  
+   Link: <a href="https://www.climendo.com/en/nauru-international-airport/graphs" target="_blank" rel="noopener noreferrer nofollow">https://www.climendo.com/en/nauru-international-airport/graphs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>weather from GFS, ECMWF, YR and ARPEGE. Temperature, wind, rain...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of birds of Nauru  
-   Link: [https://en.wikipedia.org/wiki/List_of_birds_of_Nauru](https://en.wikipedia.org/wiki/List_of_birds_of_Nauru)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_birds_of_Nauru" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_birds_of_Nauru</a>  
 
 7. <a id="endnote-7"></a>
    Source: naurumet.com  
-   Link: [https://www.naurumet.com/observations](https://www.naurumet.com/observations)  
+   Link: <a href="https://www.naurumet.com/observations" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/observations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru Meteorological ServicesObservations | Nauru Meteorological ServicesThe met observations help support aviation operations at Nauru I...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pacificwrecks.com  
-   Link: [https://pacificwrecks.com/airfield/nauru/index.html](https://pacificwrecks.com/airfield/nauru/index.html)  
+   Link: <a href="https://pacificwrecks.com/airfield/nauru/index.html" target="_blank" rel="noopener noreferrer nofollow">https://pacificwrecks.com/airfield/nauru/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Still in use today as Nauru Airport (Nauru...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: climateknowledgeportal.worldbank.org  
-   Link: [https://climateknowledgeportal.worldbank.org/country/nauru/climate-data-historical](https://climateknowledgeportal.worldbank.org/country/nauru/climate-data-historical)  
+   Link: <a href="https://climateknowledgeportal.worldbank.org/country/nauru/climate-data-historical" target="_blank" rel="noopener noreferrer nofollow">https://climateknowledgeportal.worldbank.org/country/nauru/climate-data-historical</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Knowledge PortalNauru - Climatology (CRU) - Climate Change Knowledge PortalThis page presents Nauru&#x27;s climate context for the cur...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nauru.gov.nr  
-   Link: [https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx](https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx)  
+   Link: <a href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: birdsnz.org.nz  
-   Link: [https://www.birdsnz.org.nz/wp-content/uploads/2021/12/Notornis_55_1_8.pdf](https://www.birdsnz.org.nz/wp-content/uploads/2021/12/Notornis_55_1_8.pdf)  
+   Link: <a href="https://www.birdsnz.org.nz/wp-content/uploads/2021/12/Notornis_55_1_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.birdsnz.org.nz/wp-content/uploads/2021/12/Notornis_55_1_8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Birds New ZealandThe Birds of Nauruby DW BUDEN · 2008 · Cited by 10 — Bird band recoveries indicate that many seabirds, especially black...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: en.tutiempo.net  
    Title: nauru airport  
-   Link: [https://en.tutiempo.net/nauru-airport.html](https://en.tutiempo.net/nauru-airport.html)  
+   Link: <a href="https://en.tutiempo.net/nauru-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://en.tutiempo.net/nauru-airport.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Nauru Airport (Nauru) - 15 daysSunday April 12 Cloudy 30°28°. Monday April 13 Partly cloudy with rain showers 30°28°. Tuesday April 14...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nauru-data.sprep.org  
    Title: Garnett (1987) To catch a frigate bird  
-   Link: [https://nauru-data.sprep.org/system/files/Garnett%20%281987%29%20To%20catch%20a%20frigate%20bird.pdf](https://nauru-data.sprep.org/system/files/Garnett%20%281987%29%20To%20catch%20a%20frigate%20bird.pdf)  
+   Link: <a href="https://nauru-data.sprep.org/system/files/Garnett%20%281987%29%20To%20catch%20a%20frigate%20bird.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nauru-data.sprep.org/system/files/Garnett%20%281987%29%20To%20catch%20a%20frigate%20bird.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987) To catch a frigate birdFrigate birds are, to Nauruans, very much birds of the spirit. When captive and tamed. they are more deitie...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: accuweather.com  
-   Link: [https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/astronomy-weather/4230_poi](https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/astronomy-weather/4230_poi)  
+   Link: <a href="https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/astronomy-weather/4230_poi" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/astronomy-weather/4230_poi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generally, the sky is at its best on crisp, clear winter nights and its worst during humid, hot summer...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aiffp.gov.au  
-   Link: [https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf](https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf)  
+   Link: <a href="https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru Airport Upgrade and Road Rehabilitation ProjectThe Government of Nauru has requested Australia&#x27;s assistance to rehabilitate the run...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/286711959_The_birds_of_Nauru](https://www.researchgate.net/publication/286711959_The_birds_of_Nauru)  
+   Link: <a href="https://www.researchgate.net/publication/286711959_The_birds_of_Nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286711959_The_birds_of_Nauru</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The birds of NauruThirty-four species of birds are recorded from the isolated Pacific island of Nauru. Six are treated as hypothetical pe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8vjn_LSm6dE](https://www.youtube.com/watch?v=8vjn_LSm6dE)  
+   Link: <a href="https://www.youtube.com/watch?v=8vjn_LSm6dE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8vjn_LSm6dE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hunting Noddy Bird | NAURU TraditionsA night out ride with new friends turned into an an experience of what Iʻd later learn as a past tim...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aerosouthpacific.com  
    Title: upcoming nauru airport runway resurfacing disrupts flights  
-   Link: [https://aerosouthpacific.com/blogs/news/upcoming-nauru-airport-runway-resurfacing-disrupts-flights](https://aerosouthpacific.com/blogs/news/upcoming-nauru-airport-runway-resurfacing-disrupts-flights)  
+   Link: <a href="https://aerosouthpacific.com/blogs/news/upcoming-nauru-airport-runway-resurfacing-disrupts-flights" target="_blank" rel="noopener noreferrer nofollow">https://aerosouthpacific.com/blogs/news/upcoming-nauru-airport-runway-resurfacing-disrupts-flights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Upcoming Nauru Airport Runway Resurfacing Disrupts...18 Mar 2025 — Flights to Nauru Airport (INU) between March 24 and May 31, 2025, wil...</p></details>
    Published: May 31, 2025  
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYQs-B2GrIQ/?hl=en](https://www.instagram.com/p/DYQs-B2GrIQ/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DYQs-B2GrIQ/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYQs-B2GrIQ/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ay mirage.” Heat rising from the runway bends light and makes...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pprune.org  
-   Link: [https://www.pprune.org/pacific-general-aviation-questions/668007-how-reliable-papi-certain-weather-conditions-2.html?styleid=18](https://www.pprune.org/pacific-general-aviation-questions/668007-how-reliable-papi-certain-weather-conditions-2.html?styleid=18)  
+   Link: <a href="https://www.pprune.org/pacific-general-aviation-questions/668007-how-reliable-papi-certain-weather-conditions-2.html?styleid=18" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/668007-how-reliable-papi-certain-weather-conditions-2.html?styleid=18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is PAPI in certain weather conditions - Page 21 Sept 2025 — In PNG some aerodromes use a budget PAPI, two PAPI lights oppose...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: traveladventures.org  
    Title: Travel story and photos by Boris Kester  
-   Link: [https://www.traveladventures.org/continents/oceania/nauru-coast07.html](https://www.traveladventures.org/continents/oceania/nauru-coast07.html)  
+   Link: <a href="https://www.traveladventures.org/continents/oceania/nauru-coast07.html" target="_blank" rel="noopener noreferrer nofollow">https://www.traveladventures.org/continents/oceania/nauru-coast07.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frigate birds caught in a net in Anabar in the northeast of...1 Jan 2012 — Frigate birds caught in a net in Anabar in the northeast of N...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: airfactsjournal.com  
    Title: how land airliner 7 runway lights  
-   Link: [https://airfactsjournal.com/2015/05/how-land-airliner-7-runway-lights/](https://airfactsjournal.com/2015/05/how-land-airliner-7-runway-lights/)  
+   Link: <a href="https://airfactsjournal.com/2015/05/how-land-airliner-7-runway-lights/" target="_blank" rel="noopener noreferrer nofollow">https://airfactsjournal.com/2015/05/how-land-airliner-7-runway-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to land an airliner with only 7 runway lights8 May 2015 — Apart from the mid-Pacific forecasts, there were few surprises, and our air...</p></details>
    Published: May 2015  
 
 23. <a id="endnote-23"></a>
    Source: aperezvoyages.com  
    Title: catching noddy bird nauru  
-   Link: [https://aperezvoyages.com/catching-noddy-bird-nauru/](https://aperezvoyages.com/catching-noddy-bird-nauru/)  
+   Link: <a href="https://aperezvoyages.com/catching-noddy-bird-nauru/" target="_blank" rel="noopener noreferrer nofollow">https://aperezvoyages.com/catching-noddy-bird-nauru/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catching and Eating Noddy Bird | A Unique Nauruan...12 Oct 2019 — A personal look at catching and eating noddy bird in Nauru, and how on...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: travellingartist.wordpress.com  
    Title: snatching birds from midair in nauru  
-   Link: [https://travellingartist.wordpress.com/2012/02/01/snatching-birds-from-midair-in-nauru/](https://travellingartist.wordpress.com/2012/02/01/snatching-birds-from-midair-in-nauru/)  
+   Link: <a href="https://travellingartist.wordpress.com/2012/02/01/snatching-birds-from-midair-in-nauru/" target="_blank" rel="noopener noreferrer nofollow">https://travellingartist.wordpress.com/2012/02/01/snatching-birds-from-midair-in-nauru/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The frigatebirds are first lured to the beach by scattering pieces of fresh fish on the sand.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AtVU7oK_lO8](https://www.youtube.com/watch?v=AtVU7oK_lO8)  
+   Link: <a href="https://www.youtube.com/watch?v=AtVU7oK_lO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AtVU7oK_lO8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Deserts Create Cities in the Sky?...</p></details>

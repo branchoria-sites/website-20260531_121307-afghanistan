@@ -1185,7 +1185,7 @@ next_link:
   title: El Salvador UFOs
   permalink: /what-really-flies-over-el-salvador/
   short_title: El Salvador UFOs
-date: '2026-06-09 01:30:51 '
+date: '2026-06-10 01:56:27 '
 header:
   og_image: /assets/images/Kenya_a84f56-overview-social.jpg
   preview_image: /assets/images/Kenya_a84f56-overview.webp
@@ -1200,7 +1200,7 @@ A major focus of recent Kenyan attention to unidentified objects stems from two 
 
 
 <img src="{{ "/assets/images/Kenya_a84f56-overview.webp" | relative_url }}" alt="Overview image for What Really Fell From Kenya&#x27;s Skies?" loading="eager" decoding="sync" fetchpriority="high">
-**Makueni metallic object (December 2024):** On 30 December 2024, residents of Mukuku Village in Makueni County observed a large metallic ring fall from the sky, weighing roughly 500 kg and measuring about 2.5 metres in diameter. The **Kenya Space Agency (KSA)** clarified that this was not of mysterious origin, stating it was a “separation ring from a launch vehicle (rocket)” — a component designed to detach during space missions and typically burn up on re‑entry or land in unpopulated areas. KSA secured the debris for further study and noted that under international space law such components sometimes land unpredictably. Local health authorities also issued cautionary guidance to avoid the site while investigation continued. <span class="citation-chip-wrap"><a class="citation-chip" href="https://africasnow.com/2025/01/02/makueni-ufo-object-ksa-reveals-details-of-the-metallic-item-fallen-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africasnow.com">[AfricasNow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africasnow.com</span><span class="citation-popover-snippet">AfricasNowMAKUENI UFO OBJECT: KSA Reveals Details Of The Metallic Item Fallen From The Sky - AfricasNowJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kenyans.co.ke">[Kenyans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kenyans.co.ke</span><span class="citation-popover-title">Kenyans Govt Unravels Mystery of 500kg Metallic Object Found in Makueni</span><span class="citation-popover-snippet">Govt Unravels Mystery of 500kg Metallic Object Found in Makueni - Kenyans.co.keJanuary 1, 2025 — GOVT UNRAVELS MYSTERY OF 500KG METALLIC...</span><span class="citation-popover-meta">Published: January 1, 2025</span></span></span>
+**Makueni metallic object (December 2024):** On 30 December 2024, residents of Mukuku Village in Makueni County observed a large metallic ring fall from the sky, weighing roughly 500 kg and measuring about 2.5 metres in diameter. The **Kenya Space Agency (KSA)** clarified that this was not of mysterious origin, stating it was a “separation ring from a launch vehicle (rocket)” — a component designed to detach during space missions and typically burn up on re‑entry or land in unpopulated areas. KSA secured the debris for further study and noted that under international space law such components sometimes land unpredictably. Local health authorities also issued cautionary guidance to avoid the site while investigation continued. <span class="citation-chip-wrap"><a class="citation-chip" href="https://africasnow.com/2025/01/02/makueni-ufo-object-ksa-reveals-details-of-the-metallic-item-fallen-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africasnow.com">[AfricasNow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africasnow.com</span><span class="citation-popover-snippet">MAKUENI UFO OBJECT: KSA Reveals Details Of The Metallic Item Fallen From The Sky - AfricasNowJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kenyans.co.ke">[Kenyans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kenyans.co.ke</span><span class="citation-popover-title">Kenyans Govt Unravels Mystery of 500kg Metallic Object Found in Makueni</span><span class="citation-popover-snippet">Govt Unravels Mystery of 500kg Metallic Object Found in Makueni - Kenyans.co.keJanuary 1, 2025 — GOVT UNRAVELS MYSTERY OF 500KG METALLIC...</span><span class="citation-popover-meta">Published: January 1, 2025</span></span></span>
 
 **Moyale/Wajir sightings (January 2025):** Shortly after the Makueni incident, residents in parts of North Eastern Kenya, including Moyale and surrounding Wajir and Turkana counties, reported seeing glowing objects in the sky that appeared to hover before falling. These sightings, widely shared on social media, were framed by witnesses as “UFOs,” but speculative commentary predominated and no official confirmation of extraterrestrial craft was issued. The reports coincided with local speculation linking them to space debris or atmospheric phenomena rather than anomalous technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=127990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[tuko]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 127990June 24, 2016 — NUFORC UFO SIGHTING 127990 Occurred: 2016-06-21 09:00 Local - Approximate Reported: 2016-06-20...</span><span class="citation-popover-meta">Published: June 21, 2016</span></span></span>. co.ke - Kenya news.
 
@@ -1215,7 +1215,7 @@ Several purported UFO sightings from Kenya are listed in international citizen�
 
 * **2016 Murang’a sighting:** A disk‑shaped object with lights was allegedly filmed by a passer‑by in Murang’a County. While the footage circulates online and in databases such as the National UFO Reporting Center (NUFORC), investigators and sceptical observers note a lack of corroborating evidence and strong potential for misidentification or video artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://youthvillage.co.ke/unidentified-flying-object-spotted-in-muranga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youthvillage.co.ke">[Youth Village Kenya]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youthvillage.co.ke</span><span class="citation-popover-title">Youth Village Kenya Unidentified Flying Object Spotted In Muranga</span><span class="citation-popover-snippet">Youth Village KenyaUnidentified Flying Object Spotted In Muranga - Youth Village KenyaJune 18, 2016...</span><span class="citation-popover-meta">Published: June 18, 2016</span></span></span>
 * **2020 Nairobi observation:** Another NUFORC report describes a shiny cylindrical object with an aura observed over Nairobi, seen by a single observer over an extended period. Without independent verification, such reports remain anecdotal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=127990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 127990June 24, 2016 — NUFORC UFO SIGHTING 127990 Occurred: 2016-06-21 09:00 Local - Approximate Reported: 2016-06-20...</span><span class="citation-popover-meta">Published: June 21, 2016</span></span></span>
-* **2026 Nairobi incident:** A claimed cube‑shaped object with lights was reported in early 2026; again the sole report and stylistic elements suggest subjective perception rather than confirmed anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 168782June 22, 2022...</span><span class="citation-popover-meta">Published: June 22, 2022</span></span></span>
+* **2026 Nairobi incident:** A claimed cube‑shaped object with lights was reported in early 2026; again the sole report and stylistic elements suggest subjective perception rather than confirmed anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 168782June 22, 2022...</span><span class="citation-popover-meta">Published: June 22, 2022</span></span></span>
 
 These database entries illustrate the pattern: public sightings capture attention but often lack corroboration, reliable instrumentation, or expert analysis necessary to classify them beyond “unidentified” in the strict observational sense. They should not be conflated with verified physical events or scientifically studied phenomena.
 
@@ -1225,7 +1225,7 @@ These database entries illustrate the pattern: public sightings capture attentio
 
 A handful of older or anecdotal claims circulate among enthusiasts and online forums:
 
-* **1978 coastal report:** One NUFORC entry recounts a supposed object emerging from the Indian Ocean off the Kenyan coast, seen by a small fishing party. This report remains a solitary account with no corroborating documentation from official sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=195014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 195014January 6, 2026...</span><span class="citation-popover-meta">Published: January 6, 2026</span></span></span>
+* **1978 coastal report:** One NUFORC entry recounts a supposed object emerging from the Indian Ocean off the Kenyan coast, seen by a small fishing party. This report remains a solitary account with no corroborating documentation from official sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=195014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 195014January 6, 2026...</span><span class="citation-popover-meta">Published: January 6, 2026</span></span></span>
 * **Unofficial lore and anecdotes:** Online discussions sometimes reference older sightings (e.g. Mombasa, Nyeri, western regions) or personal narratives of unexplained lights and motions. Such accounts are difficult to assess due to their informal nature and lack of date, time, or secondary corroboration.
 
 Importantly, independent “UFO” claims — including unverified sightings or online storytelling — are common worldwide and should be understood in the context of human perception, cultural narratives, and social media amplification rather than as established evidence of extraterrestrial craft.
@@ -1270,86 +1270,44 @@ This pattern mirrors wider global trends: unidentified events may remain unexpla
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Fell From Kenya&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Fell From Kenya&#x27;s Skies?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides context for unexplained objects, investigations and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers unidentified aerial incidents and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relevant to evaluating official statements and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers a framework for analyzing unexplained sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1383,75 +1341,71 @@ This pattern mirrors wider global trends: unidentified events may remain unexpla
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Space Debris Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3ca366191ea59bd22149.jpg' | relative_url }}" alt="Listing image for The Space Debris Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Space Debris Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space debris poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space debris poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Debris and Star Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d59a29e46b2c29e7722.jpg' | relative_url }}" alt="Listing image for Space Debris and Star Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Space Debris and Star Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space debris poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space debris poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Orbital Debris - Space Debris Paint Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6029a536301896c21fa1.jpg' | relative_url }}" alt="Listing image for Orbital Debris - Space Debris Paint Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Orbital Debris - Space Debris Paint Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space debris poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space debris poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Debris Plot Poster Orbital Diagram Science Wall Art"><img src="{{ '/assets/images/marketplace-covers/be0e70a97bf8de910a42.jpg' | relative_url }}" alt="Listing image for Space Debris Plot Poster Orbital Diagram Science Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Space Debris Plot Poster Orbital Diagram Science Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space debris poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space debris poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+debris+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space debris poster -book -books" data-ebay-reference="what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-space-debris-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-from-kenyas-skies-what-really-fell-from-kenya-s-skies-kenya-ufo-poster-book-books-series-television-ger&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1675,64 +1629,64 @@ In summary, Kenya’s “UFO phenomena,” as reported in public discourse, cons
 
 1. <a id="endnote-1"></a>
    Source: africasnow.com  
-   Link: [https://africasnow.com/2025/01/02/makueni-ufo-object-ksa-reveals-details-of-the-metallic-item-fallen-from-the-sky/](https://africasnow.com/2025/01/02/makueni-ufo-object-ksa-reveals-details-of-the-metallic-item-fallen-from-the-sky/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AfricasNowMAKUENI UFO OBJECT: KSA Reveals Details Of The Metallic Item Fallen From The Sky - AfricasNowJanuary 2, 2025...</p></details>
+   Link: <a href="https://africasnow.com/2025/01/02/makueni-ufo-object-ksa-reveals-details-of-the-metallic-item-fallen-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://africasnow.com/2025/01/02/makueni-ufo-object-ksa-reveals-details-of-the-metallic-item-fallen-from-the-sky/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAKUENI UFO OBJECT: KSA Reveals Details Of The Metallic Item Fallen From The Sky - AfricasNowJanuary 2, 2025...</p></details>
    Published: January 2, 2025  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=127990](https://nuforc.org/sighting/?id=127990)  
+   Link: <a href="https://nuforc.org/sighting/?id=127990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=127990</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 127990June 24, 2016 — NUFORC UFO SIGHTING 127990 Occurred: 2016-06-21 09:00 Local - Approximate Reported: 2016-06-20...</p></details>
    Published: June 21, 2016  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=168782](https://nuforc.org/sighting/?id=168782)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 168782June 22, 2022...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=168782" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168782</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 168782June 22, 2022...</p></details>
    Published: June 22, 2022  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195014](https://nuforc.org/sighting/?id=195014)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 195014January 6, 2026...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=195014" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195014</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 195014January 6, 2026...</p></details>
    Published: January 6, 2026  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191701](https://nuforc.org/sighting/?id=191701)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 191701September 2, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=191701" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191701</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191701September 2, 2025...</p></details>
    Published: September 2, 2025  
 
 6. <a id="endnote-6"></a>
    Source: kenyans.co.ke  
    Title: Kenyans Govt Unravels Mystery of 500kg Metallic Object Found in Makueni  
-   Link: [https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni](https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni)  
+   Link: <a href="https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni" target="_blank" rel="noopener noreferrer nofollow">https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Govt Unravels Mystery of 500kg Metallic Object Found in Makueni - Kenyans.co.keJanuary 1, 2025 — GOVT UNRAVELS MYSTERY OF 500KG METALLIC...</p></details>
    Published: January 1, 2025  
 
 7. <a id="endnote-7"></a>
    Source: kenyans.co.ke  
    Title: Kenyans Govt Issues Health Alert Over Makueni Rocket Debris  
-   Link: [https://www.kenyans.co.ke/news/107773-govt-issues-health-alert-over-makueni-rocket-debris](https://www.kenyans.co.ke/news/107773-govt-issues-health-alert-over-makueni-rocket-debris)  
+   Link: <a href="https://www.kenyans.co.ke/news/107773-govt-issues-health-alert-over-makueni-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://www.kenyans.co.ke/news/107773-govt-issues-health-alert-over-makueni-rocket-debris</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Govt Issues Health Alert Over Makueni Rocket Debris - Kenyans.co.keJanuary 4, 2025 — GOVT ISSUES HEALTH ALERT OVER MAKUENI ROCKET DEBRIS...</p></details>
    Published: January 4, 2025  
 
 8. <a id="endnote-8"></a>
    Source: ntvkenya.co.ke  
-   Link: [https://ntvkenya.co.ke/news/police-suspect-object-that-fell-from-sky-in-makueni-is-debris-from-satellite/](https://ntvkenya.co.ke/news/police-suspect-object-that-fell-from-sky-in-makueni-is-debris-from-satellite/)  
+   Link: <a href="https://ntvkenya.co.ke/news/police-suspect-object-that-fell-from-sky-in-makueni-is-debris-from-satellite/" target="_blank" rel="noopener noreferrer nofollow">https://ntvkenya.co.ke/news/police-suspect-object-that-fell-from-sky-in-makueni-is-debris-from-satellite/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTV KenyaNTV Kenya: Police suspect object that fell from sky in Makueni is debris from satelliteApril 24, 2026...</p></details>
    Published: April 24, 2026  
 
 9. <a id="endnote-9"></a>
    Source: youthvillage.co.ke  
    Title: Youth Village Kenya Unidentified Flying Object Spotted In Muranga  
-   Link: [https://youthvillage.co.ke/unidentified-flying-object-spotted-in-muranga/](https://youthvillage.co.ke/unidentified-flying-object-spotted-in-muranga/)  
+   Link: <a href="https://youthvillage.co.ke/unidentified-flying-object-spotted-in-muranga/" target="_blank" rel="noopener noreferrer nofollow">https://youthvillage.co.ke/unidentified-flying-object-spotted-in-muranga/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Youth Village KenyaUnidentified Flying Object Spotted In Muranga - Youth Village KenyaJune 18, 2016...</p></details>
    Published: June 18, 2016  
 
 10. <a id="endnote-10"></a>
    Source: africacheck.org  
-   Link: [https://africacheck.org/fact-checks/meta-programme-fact-checks/no-evidence-strange-creature-was-spotted-along-major-highway](https://africacheck.org/fact-checks/meta-programme-fact-checks/no-evidence-strange-creature-was-spotted-along-major-highway)  
+   Link: <a href="https://africacheck.org/fact-checks/meta-programme-fact-checks/no-evidence-strange-creature-was-spotted-along-major-highway" target="_blank" rel="noopener noreferrer nofollow">https://africacheck.org/fact-checks/meta-programme-fact-checks/no-evidence-strange-creature-was-spotted-along-major-highway</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa CheckNo evidence ‘strange creature’ was spotted along major highway in Kenya - Africa CheckAugust 13, 2025...</p></details>
    Published: August 13, 2025  
 
@@ -1740,62 +1694,62 @@ In summary, Kenya’s “UFO phenomena,” as reported in public discourse, cons
 
 11. <a id="endnote-11"></a>
    Source: kenyanews.go.ke  
-   Link: [https://www.kenyanews.go.ke/ig-kanja-breaks-silence-on-alleged-abduction-of-juja-mp-george-koimburi/](https://www.kenyanews.go.ke/ig-kanja-breaks-silence-on-alleged-abduction-of-juja-mp-george-koimburi/)  
+   Link: <a href="https://www.kenyanews.go.ke/ig-kanja-breaks-silence-on-alleged-abduction-of-juja-mp-george-koimburi/" target="_blank" rel="noopener noreferrer nofollow">https://www.kenyanews.go.ke/ig-kanja-breaks-silence-on-alleged-abduction-of-juja-mp-george-koimburi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IG Kanja breaks silence on alleged abduction of Juja MP George Koimburi – Kenya News AgencyMay 28, 2025 — IG KANJA BREAKS SILENCE ON ALLE...</p></details>
    Published: May 28, 2025  
 
 12. <a id="endnote-12"></a>
    Source: pulse.co.ke  
-   Link: [https://www.pulse.co.ke/articles/news/local/ps-mary-mothoni-issues-advisory-over-500kg-object-that-fell-from-the-sky-in-makueni-2025010409165334366](https://www.pulse.co.ke/articles/news/local/ps-mary-mothoni-issues-advisory-over-500kg-object-that-fell-from-the-sky-in-makueni-2025010409165334366)  
+   Link: <a href="https://www.pulse.co.ke/articles/news/local/ps-mary-mothoni-issues-advisory-over-500kg-object-that-fell-from-the-sky-in-makueni-2025010409165334366" target="_blank" rel="noopener noreferrer nofollow">https://www.pulse.co.ke/articles/news/local/ps-mary-mothoni-issues-advisory-over-500kg-object-that-fell-from-the-sky-in-makueni-2025010409165334366</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PS Mary Mothoni issues advisory over 500kg object that fell from the sky in Makueni | Pulse KenyaJanuary 4, 2025 — GOVT ISSUES ADVISORY &amp;...</p></details>
    Published: January 4, 2025  
 
 13. <a id="endnote-13"></a>
    Source: capitalfm.co.ke  
-   Link: [https://www.capitalfm.co.ke/news/2025/01/space-agency-clarifies-metallic-object-that-fell-from-sky-in-makueni-was-a-piece-of-a-rocket/](https://www.capitalfm.co.ke/news/2025/01/space-agency-clarifies-metallic-object-that-fell-from-sky-in-makueni-was-a-piece-of-a-rocket/)  
+   Link: <a href="https://www.capitalfm.co.ke/news/2025/01/space-agency-clarifies-metallic-object-that-fell-from-sky-in-makueni-was-a-piece-of-a-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalfm.co.ke/news/2025/01/space-agency-clarifies-metallic-object-that-fell-from-sky-in-makueni-was-a-piece-of-a-rocket/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2025 — SPACE AGENCY CLARIFIES METALLIC OBJECT THAT FELL FROM SKY IN MAKUENI IS A PIECE OF ROCKET The Agency stated that the ri...</p></details>
    Published: January 1, 2025  
 
 14. <a id="endnote-14"></a>
    Source: gadgets360.com  
-   Link: [https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482](https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482)  
+   Link: <a href="https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482" target="_blank" rel="noopener noreferrer nofollow">https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — SPACE DEBRIS CRASHES IN KENYAN VILLAGE, SUSPECTED ROCKET STAGE PART IDENTIFIED Space debris crashes in Kenya’s Mukuku v...</p></details>
    Published: January 4, 2025  
 
 15. <a id="endnote-15"></a>
    Source: euronews.com  
-   Link: [https://www.euronews.com/2025/01/03/kenya-investigates-giant-piece-of-space-debris-that-crash-landed-in-a-village](https://www.euronews.com/2025/01/03/kenya-investigates-giant-piece-of-space-debris-that-crash-landed-in-a-village)  
+   Link: <a href="https://www.euronews.com/2025/01/03/kenya-investigates-giant-piece-of-space-debris-that-crash-landed-in-a-village" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2025/01/03/kenya-investigates-giant-piece-of-space-debris-that-crash-landed-in-a-village</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 3, 2025 — KENYA INVESTIGATES GIANT PIECE OF SPACE DEBRIS THAT CRASH LANDED IN A VILLAGE Image: FILE PHOTO: Villagers gather on th...</p></details>
    Published: January 3, 2025  
 
 16. <a id="endnote-16"></a>
    Source: tukio.co.ke  
-   Link: [https://tukio.co.ke/kenya-space-agency-investigates-mysterious-space-debris-found-in-makueni-county-kenya/](https://tukio.co.ke/kenya-space-agency-investigates-mysterious-space-debris-found-in-makueni-county-kenya/)  
+   Link: <a href="https://tukio.co.ke/kenya-space-agency-investigates-mysterious-space-debris-found-in-makueni-county-kenya/" target="_blank" rel="noopener noreferrer nofollow">https://tukio.co.ke/kenya-space-agency-investigates-mysterious-space-debris-found-in-makueni-county-kenya/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2025 — Home KENYA Kenya Space Agency Investigates Mysterious Space Debris found in Makueni County * KENYA * NEWS KENYA SPACE A...</p></details>
    Published: January 1, 2025  
 
 17. <a id="endnote-17"></a>
    Source: techweez.com  
    Title: Another Mysterious Object Falls From the Sky in Kenya  
-   Link: [https://techweez.com/2025/01/10/space-debris-moyale/](https://techweez.com/2025/01/10/space-debris-moyale/)  
+   Link: <a href="https://techweez.com/2025/01/10/space-debris-moyale/" target="_blank" rel="noopener noreferrer nofollow">https://techweez.com/2025/01/10/space-debris-moyale/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2025 — ANOTHER MYSTERIOUS OBJECT FALLS FROM THE SKY IN KENYA Image: Sakwa Kombo by Sakwa Kombo January 10, 2025 in News Readi...</p></details>
    Published: January 10, 2025  
 
 18. <a id="endnote-18"></a>
    Source: the-star.co.ke  
    Title: Image: image by CYRUS OMBAT  
-   Link: [https://www.the-star.co.ke/news/2025-01-01-details-of-mysterious-object-that-fell-from-sky-in-makueni](https://www.the-star.co.ke/news/2025-01-01-details-of-mysterious-object-that-fell-from-sky-in-makueni)  
+   Link: <a href="https://www.the-star.co.ke/news/2025-01-01-details-of-mysterious-object-that-fell-from-sky-in-makueni" target="_blank" rel="noopener noreferrer nofollow">https://www.the-star.co.ke/news/2025-01-01-details-of-mysterious-object-that-fell-from-sky-in-makueni</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Details of mysterious object that fell from sky in MakueniJanuary 1, 2025 — News01 January 2025 - 22:09 DETAILS OF MYSTERIOUS OBJECT THAT...</p></details>
    Published: January 1, 2025  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Massive Mysterious Metal Ring Crashes Into Kenyan Village LIVE Updates  
-   Link: [https://www.youtube.com/watch?v=2iImHJTh0OM](https://www.youtube.com/watch?v=2iImHJTh0OM)  
+   Link: <a href="https://www.youtube.com/watch?v=2iImHJTh0OM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2iImHJTh0OM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Makueni Metal Object that fell from the Sky explained by Kenya Space Agency...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Makueni Metal Object that fell from the Sky explained by Kenya Space Agency  
-   Link: [https://www.youtube.com/watch?v=2fLmva-mrZw](https://www.youtube.com/watch?v=2fLmva-mrZw)  
+   Link: <a href="https://www.youtube.com/watch?v=2fLmva-mrZw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2fLmva-mrZw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Debris Crashes in Kenya: Growing Concern Over Space Junk...</p></details>

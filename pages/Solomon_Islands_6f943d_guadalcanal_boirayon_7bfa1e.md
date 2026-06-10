@@ -245,7 +245,7 @@ next_link:
   permalink: /malaita-crash/
   short_title: Malaita Crash
   heading_title: Did a Plane Really Crash off East Malaita?
-date: '2026-06-09 01:40:25 '
+date: '2026-06-10 02:07:33 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustr
 
 ## Introduction
 
-Guadalcanal sits at the centre of the modern [Solomon Islands]({{ 'what-really-happened-in-solomon/' | relative_url }}) UFO narrative not because it produced the strongest physical evidence, but because it became the setting for the most vivid and widely repeated stories. Most accounts trace back to claims made by Marius Boirayon, an Australian expatriate and former aircraft engineer who settled in the Solomon Islands during the 1990s. His descriptions of glowing objects emerging from the sea, moving into mountain regions and disappearing into inland lakes helped transform Guadalcanal from a wartime battlefield into a recurring location in international UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">9305902 solomon islands mysteries</span><span class="citation-popover-snippet">Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands. Marius Boirayon. 3.57. 23 ratings2 reviews.Read more...</span></span></span>
+Guadalcanal sits at the centre of the modern Solomon Islands UFO narrative not because it produced the strongest physical evidence, but because it became the setting for the most vivid and widely repeated stories. Most accounts trace back to claims made by Marius Boirayon, an Australian expatriate and former aircraft engineer who settled in the Solomon Islands during the 1990s. His descriptions of glowing objects emerging from the sea, moving into mountain regions and disappearing into inland lakes helped transform Guadalcanal from a wartime battlefield into a recurring location in international UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">9305902 solomon islands mysteries</span><span class="citation-popover-snippet">Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands. Marius Boirayon. 3.57. 23 ratings2 reviews.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1-dark.svg" | relative_url }}" alt="Guadalcanal illustration 1" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that Guadalcanal's reputation rests overwhelmingly on anecdotal reports, self-published investigations and promotional summaries rather than independently verified [records]({{ 'records-599eb0/' | relative_url }}). The island's role in the UFO story is therefore less about confirmed sightings and more about how local folklore, difficult terrain, wartime history and modern paranormal publishing became fused into a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdA Solomon Islands UFO Mystery | PDFThis document describes a man&#x27;s experiences living in the Solomon Islands and his numerous sight...</span></span></span>
+The difficulty is that Guadalcanal's reputation rests overwhelmingly on anecdotal reports, self-published investigations and promotional summaries rather than independently verified [records]({{ 'records-599eb0/' | relative_url }}). The island's role in the UFO story is therefore less about confirmed sightings and more about how local folklore, difficult terrain, wartime history and modern paranormal publishing became fused into a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">A Solomon Islands UFO Mystery &#124; PDFThis document describes a man&#x27;s experiences living in the Solomon Islands and his numerous sight...</span></span></span>
 
 ## Why Guadalcanal Became the Centre of the Story
 
@@ -272,7 +272,7 @@ Unlike cases built around a single documented event, Guadalcanal's UFO reputatio
 
 The most influential Guadalcanal accounts involve luminous objects reportedly travelling between the sea and inland mountain regions.
 
-Boirayon's best-known narrative describes repeated observations near villages on north-western Guadalcanal. According to versions of the story reproduced in articles and later books, bright circular objects were allegedly seen hovering above coastal waters before descending into the sea. Some reports describe silent movement, unusual brightness and apparent transitions between air and water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">The Giants of the Solomon Islands</span><span class="citation-popover-snippet">ScribdGiants and UFOs of the Solomon Islands | PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</span></span></span>
+Boirayon's best-known narrative describes repeated observations near villages on north-western Guadalcanal. According to versions of the story reproduced in articles and later books, bright circular objects were allegedly seen hovering above coastal waters before descending into the sea. Some reports describe silent movement, unusual brightness and apparent transitions between air and water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">The Giants of the Solomon Islands</span><span class="citation-popover-snippet">Giants and UFOs of the Solomon Islands &#124; PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</span></span></span>
 
 A recurring element is the claim that these objects followed a route from the ocean toward inland mountains and lakes. Promotional descriptions of Boirayon's book repeatedly state that glowing UFOs rose from waters near Guadalcanal and vanished into jungle lakes or mountainous regions. Goodreads WorldCat Several features made these stories especially attractive to UFO enthusiasts: <span class="citation-chip-wrap"><a class="citation-chip" href="https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[search.worldcat.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-snippet">of giants and UFOs in the Solomon IslandsNear where the sunken warships of the Battle of Guadalcanal lie, glowing UFOs rise out of the Pa...</span></span></span>
 
@@ -282,7 +282,7 @@ A recurring element is the claim that these objects followed a route from the oc
 * The reported movement between water and air resembles what modern researchers call trans-medium behaviour.
 * The objects were allegedly seen over multiple years rather than during a single incident.
 * Local folklore was presented as evidence that similar phenomena had been known long before modern UFO terminology arrived.
-* The stories linked coastal sightings with inland destinations, creating the impression of a hidden network rather than isolated events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdA Solomon Islands UFO Mystery | PDFThis document describes a man&#x27;s experiences living in the Solomon Islands and his numerous sight...</span></span></span>
+* The stories linked coastal sightings with inland destinations, creating the impression of a hidden network rather than isolated events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">A Solomon Islands UFO Mystery &#124; PDFThis document describes a man&#x27;s experiences living in the Solomon Islands and his numerous sight...</span></span></span>
 
 </div>
 
@@ -308,7 +308,7 @@ The geography itself encourages ambiguity. Guadalcanal's mountains rise sharply 
 
 Boirayon's influence expanded beyond simple UFO reports because he linked the sightings to local traditions commonly translated into English as the "[Dragon Snake]({{ 'dragon-snake/' | relative_url }})".
 
-According to his published accounts, villagers described a feared entity associated with glowing appearances, disappearances and dangerous encounters. In later UFO interpretations, these traditions were recast as possible descriptions of unidentified craft rather than supernatural beings. Scribd YogaEsoteric This reinterpretation became one of the defining features of the Guadalcanal and wider Solomon Islands UFO mythology. Rather than presenting <span class="citation-chip-wrap"><a class="citation-chip" href="https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yogaesoteric.net">[yogaesoteric.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yogaesoteric.net</span><span class="citation-popover-title">A UFO coming out of this lake at dusk incinerated my</span><span class="citation-popover-snippet">YogaEsotericThe Dragon Snake – A Solomon Islands UFO MysteryWhen the boys are out fishing at night, they see the UFOs going in one entran...</span></span></span> folklore and UFO sightings as separate subjects, Boirayon argued that they described the same phenomenon through different cultural frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesSolomon Islands UAP Waters: Dragon Snakes, Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</span></span></span> - Unlocking New Realities
+According to his published accounts, villagers described a feared entity associated with glowing appearances, disappearances and dangerous encounters. In later UFO interpretations, these traditions were recast as possible descriptions of unidentified craft rather than supernatural beings. Scribd YogaEsoteric This reinterpretation became one of the defining features of the Guadalcanal and wider Solomon Islands UFO mythology. Rather than presenting <span class="citation-chip-wrap"><a class="citation-chip" href="https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yogaesoteric.net">[yogaesoteric.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yogaesoteric.net</span><span class="citation-popover-title">A UFO coming out of this lake at dusk incinerated my</span><span class="citation-popover-snippet">The Dragon Snake – A Solomon Islands UFO MysteryWhen the boys are out fishing at night, they see the UFOs going in one entran...</span></span></span> folklore and UFO sightings as separate subjects, Boirayon argued that they described the same phenomenon through different cultural frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence</span><span class="citation-popover-snippet">Unlocking New RealitiesSolomon Islands UAP Waters: Dragon Snakes, Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</span></span></span> - Unlocking New Realities
 
 The challenge is evidential rather than cultural. The existence of local traditions is not in dispute, but the claim that those traditions refer to extraterrestrial craft remains speculative. Researchers examining folklore typically caution against treating symbolic narratives as literal historical records. A story can be culturally important without serving as proof of a physical object.
 
@@ -320,7 +320,7 @@ In the Guadalcanal case, the Dragon Snake became a bridge connecting oral tradit
 
 It is difficult to overstate how much the contemporary Solomon Islands UFO story depends on Marius Boirayon's work.
 
-His 2003 article "The Dragon Snake: A Solomon Islands UFO Mystery" and his later book *Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands* became the primary source material for many later retellings. Large portions of the narrative now circulating online can be traced directly or indirectly to those publications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docshare02.docshare.tips/files/13406/134060262.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docshare02.docshare.tips">[DocShare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docshare02.docshare.tips</span><span class="citation-popover-title">Doc Sharenexus</span><span class="citation-popover-snippet">DocSharenexusMarch 21, 2013 — Marius Boirayon&#x27;s article, &quot;The Dragon. Snake: A Solomon Islands UFO Mystery&quot;, is also published in this is...</span><span class="citation-popover-meta">Published: March 21, 2013</span></span></span> Goodreads The books and articles expanded beyond lights in the sky. They introduced claims involving hidden bases <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">9305902 solomon islands mysteries</span><span class="citation-popover-snippet">Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands. Marius Boirayon. 3.57. 23 ratings2 reviews.Read more...</span></span></span>, giant humanoids, ancient ruins, underwater activity and connections between multiple unexplained phenomena. Over time, these ideas became merged into a broader mythology centred on Guadalcanal and neighbouring islands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">The Giants of the Solomon Islands</span><span class="citation-popover-snippet">ScribdGiants and UFOs of the Solomon Islands | PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</span></span></span>
+His 2003 article "The Dragon Snake: A Solomon Islands UFO Mystery" and his later book *Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands* became the primary source material for many later retellings. Large portions of the narrative now circulating online can be traced directly or indirectly to those publications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docshare02.docshare.tips/files/13406/134060262.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docshare02.docshare.tips">[DocShare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docshare02.docshare.tips</span><span class="citation-popover-title">Doc Sharenexus</span><span class="citation-popover-snippet">nexusMarch 21, 2013 — Marius Boirayon&#x27;s article, &quot;The Dragon. Snake: A Solomon Islands UFO Mystery&quot;, is also published in this is...</span><span class="citation-popover-meta">Published: March 21, 2013</span></span></span> Goodreads The books and articles expanded beyond lights in the sky. They introduced claims involving hidden bases <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">9305902 solomon islands mysteries</span><span class="citation-popover-snippet">Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands. Marius Boirayon. 3.57. 23 ratings2 reviews.Read more...</span></span></span>, giant humanoids, ancient ruins, underwater activity and connections between multiple unexplained phenomena. Over time, these ideas became merged into a broader mythology centred on Guadalcanal and neighbouring islands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">The Giants of the Solomon Islands</span><span class="citation-popover-snippet">Giants and UFOs of the Solomon Islands &#124; PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</span></span></span>
 
 This influence has two important consequences.
 
@@ -337,103 +337,61 @@ Reviews of Boirayon's book illustrate this divide. Supporters regard it as an im
 
 The strongest conclusion that can be supported by publicly available evidence is relatively modest.
 
-There is clear documentation showing that Guadalcanal became the focal point of a modern UFO narrative through Boirayon's writings and related publications. There are also documented descriptions of alleged lights, sea-to-mountain movements and Dragon Snake traditions appearing in those sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">The Giants of the Solomon Islands</span><span class="citation-popover-snippet">ScribdGiants and UFOs of the Solomon Islands | PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/author/list/4350007.Marius_Boirayon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Marius Boirayon&#x27;s most popular book is Solomon Islands Mysteries: Accounts of Giants and UFOs...</span></span></span>
+There is clear documentation showing that Guadalcanal became the focal point of a modern UFO narrative through Boirayon's writings and related publications. There are also documented descriptions of alleged lights, sea-to-mountain movements and Dragon Snake traditions appearing in those sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">The Giants of the Solomon Islands</span><span class="citation-popover-snippet">Giants and UFOs of the Solomon Islands &#124; PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/author/list/4350007.Marius_Boirayon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Marius Boirayon&#x27;s most popular book is Solomon Islands Mysteries: Accounts of Giants and UFOs...</span></span></span>
 
 What remains unverified are the central extraordinary claims:
 
 * No publicly released physical evidence demonstrates the existence of a hidden UFO base on Guadalcanal.
 * No authenticated photographs or sensor records confirm the reported glowing craft.
 * No official Solomon Islands investigation has publicly validated the alleged sea-to-lake flight paths.
-* No recovered materials linked to the claims have entered the public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesSolomon Islands UAP Waters: Dragon Snakes, Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</span></span></span> - Unlocking New Realities
+* No recovered materials linked to the claims have entered the public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence</span><span class="citation-popover-snippet">Unlocking New RealitiesSolomon Islands UAP Waters: Dragon Snakes, Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</span></span></span> - Unlocking New Realities
 
 That leaves Guadalcanal in an unusual position within Solomon Islands UFO history. It is unquestionably the island most associated with the subject in books, documentaries and online discussions, yet its prominence comes primarily from narrative influence rather than evidential strength.
 
-The lasting significance of the Guadalcanal lights is therefore cultural as much as investigative. The stories show how wartime landscapes, local traditions and modern UFO beliefs can combine into a compelling regional mythology, even when the underlying evidence remains fragmentary and contested. Goodreads <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesSolomon Islands UAP Waters: Dragon Snakes, Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</span></span></span>
+The lasting significance of the Guadalcanal lights is therefore cultural as much as investigative. The stories show how wartime landscapes, local traditions and modern UFO beliefs can combine into a compelling regional mythology, even when the underlying evidence remains fragmentary and contested. Goodreads <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence</span><span class="citation-popover-snippet">Unlocking New RealitiesSolomon Islands UAP Waters: Dragon Snakes, Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</span></span></span>
 
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-3-dark.svg" | relative_url }}" alt="Guadalcanal illustration 3" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Guadalcanal Became the Center of the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Guadalcanal Became the Center of the Story, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Matches the folklore-plus-UFO narrative structure of Guadalcanal stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Balances anecdotal claims against stronger evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Guadalcanal+Richard+B.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guadalcanal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/96322-M.jpg" alt="Cover for Guadalcanal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Guadalcanal+Richard+B.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guadalcanal">Guadalcanal</a>
-        </h4>
-        <p class="fr-book-author">By Richard B. Frank</p>
-        
-        <p class="fr-book-desc">First published 1990. Subjects: Guadalcanal, Battle of, Solomon Islands, 1942-1943.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Guadalcanal+Richard+B.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -467,75 +425,71 @@ The lasting significance of the Guadalcanal lights is therefore cultural as much
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guadalcanal-why-guadalcanal-became-the-center-of-the-story-solomon-islands-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -750,118 +704,118 @@ The lasting significance of the Guadalcanal lights is therefore cultural as much
 1. <a id="endnote-1"></a>
    Source: goodreads.com  
    Title: 9305902 solomon islands mysteries  
-   Link: [https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries](https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries)  
+   Link: <a href="https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/9305902-solomon-islands-mysteries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands. Marius Boirayon. 3.57. 23 ratings2 reviews.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery](https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdA Solomon Islands UFO Mystery | PDFThis document describes a man&#x27;s experiences living in the Solomon Islands and his numerous sight...</p></details>
+   Link: <a href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Solomon Islands UFO Mystery | PDFThis document describes a man&#x27;s experiences living in the Solomon Islands and his numerous sight...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: uapedia.ai  
    Title: Solomon Islands discourse. (Solomon Giants UFO Update). Weighing the evidence  
-   Link: [https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/](https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesSolomon Islands UAP Waters: [Dragon Snakes](&amp;#123;&amp;#123; &#x27;dragon-snake/&#x27; | relative_url &amp;#125;&amp;#125;), Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</p></details>
+   Link: <a href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesSolomon Islands UAP Waters: [Dragon Snakes](&amp;#123;&amp;#123; &#x27;dragon-snake/&#x27; | relative_url &amp;#125;&amp;#125;), Iron Bottom...The Dragon Snake and alleged UAP bases of Guad...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: search.worldcat.org  
-   Link: [https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875](https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875)  
+   Link: <a href="https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/Solomon-Islands-mysteries-%3A-accounts-of-giants-and-UFOs-in-the-Solomon-Islands/oclc/834136875</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of giants and UFOs in the Solomon IslandsNear where the sunken warships of the Battle of Guadalcanal lie, glowing UFOs rise out of the Pa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: yogaesoteric.net  
    Title: A UFO coming out of this lake at dusk incinerated my  
-   Link: [https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/](https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YogaEsotericThe Dragon Snake – A Solomon Islands UFO MysteryWhen the boys are out fishing at night, they see the UFOs going in one entran...</p></details>
+   Link: <a href="https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://yogaesoteric.net/en/the-dragon-snake-a-solomon-islands-ufo-mystery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dragon Snake – A Solomon Islands UFO MysteryWhen the boys are out fishing at night, they see the UFOs going in one entran...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
    Title: The Giants of the Solomon Islands  
-   Link: [https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands](https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdGiants and UFOs of the Solomon Islands | PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</p></details>
+   Link: <a href="https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/87515566/The-Giants-of-the-Solomon-Islands</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Giants and UFOs of the Solomon Islands | PDFGiant Races Still Exist in The Solomon Islands: by Marius Boirayon © 2003. 3 pages. A S...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: docshare02.docshare.tips  
    Title: Doc Sharenexus  
-   Link: [https://docshare02.docshare.tips/files/13406/134060262.pdf](https://docshare02.docshare.tips/files/13406/134060262.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocSharenexusMarch 21, 2013 — Marius Boirayon&#x27;s article, &quot;The Dragon. Snake: A Solomon Islands UFO Mystery&quot;, is also published in this is...</p></details>
+   Link: <a href="https://docshare02.docshare.tips/files/13406/134060262.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docshare02.docshare.tips/files/13406/134060262.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nexusMarch 21, 2013 — Marius Boirayon&#x27;s article, &quot;The Dragon. Snake: A Solomon Islands UFO Mystery&quot;, is also published in this is...</p></details>
    Published: March 21, 2013  
 
 8. <a id="endnote-8"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/author/list/4350007.Marius_Boirayon](https://www.goodreads.com/author/list/4350007.Marius_Boirayon)  
+   Link: <a href="https://www.goodreads.com/author/list/4350007.Marius_Boirayon" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/4350007.Marius_Boirayon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marius Boirayon&#x27;s most popular book is Solomon Islands Mysteries: Accounts of Giants and UFOs...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: amazon.nl  
    Title: Accounts of Giants and UFOs in the Solomon Islands  
-   Link: [https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043](https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043)  
+   Link: <a href="https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Driedelige serie · Marius Boirayon. Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands. Engels editie. 4,3 4,3...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bibliotecapleyades.net  
    Title: A UFO coming out of this lake at dusk incinerated my  
-   Link: [https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm](https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_flyingobjects43.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dragon Snake - A Solomon Islands UFO MysteryWhen the boys are out fishing at night, they see the UFOs going in one entrance and comin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: books.apple.com  
-   Link: [https://books.apple.com/us/book/solomon-islands-mysteries/id490992255](https://books.apple.com/us/book/solomon-islands-mysteries/id490992255)  
+   Link: <a href="https://books.apple.com/us/book/solomon-islands-mysteries/id490992255" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/us/book/solomon-islands-mysteries/id490992255</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Islands Mysteries - Marius Boirayon9 Nov 2025 — Solomon Islands Mysteries. Accounts of Giants and UFOs in the Solomon Islands. Marius Boi...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: rense.com  
-   Link: [https://rense.com/general57/thedragonsnake.htm](https://rense.com/general57/thedragonsnake.htm)  
+   Link: <a href="https://rense.com/general57/thedragonsnake.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general57/thedragonsnake.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dragon SnakeWhen the boys are out fishing at night, they see the UFOs going in one entrance and coming out the other. A UFO coming ou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: evergreen.lib.in.us  
    Title: accounts of giants and UFOs in the Solomon Islands Boirayon, Marius, (author.)  
-   Link: [https://evergreen.lib.in.us/eg/opac/record/22018387](https://evergreen.lib.in.us/eg/opac/record/22018387)  
+   Link: <a href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow">https://evergreen.lib.in.us/eg/opac/record/22018387</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: Near where the sunken warships of the Battle of Guadalcanal lie, glowing UFOs rise out of the Pacific, fly into the...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: everand.com  
-   Link: [https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands](https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EverandSolomon Islands Mysteries: Accounts of Giants and UFOs...Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Is...</p></details>
+   Link: <a href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Mysteries: Accounts of Giants and UFOs...Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Is...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: amazon.es  
-   Link: [https://www.amazon.es/-/en/Marius-Boirayon/dp/1935487043](https://www.amazon.es/-/en/Marius-Boirayon/dp/1935487043)  
+   Link: <a href="https://www.amazon.es/-/en/Marius-Boirayon/dp/1935487043" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.es/-/en/Marius-Boirayon/dp/1935487043</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Mysteries: Accounts of Giants and Ufos in...In his book, the Solomon Islands emerge as a true stomping grounds for the a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ufoinsight.com  
    Title: the extraterrestrial giants of the solomon islands  
-   Link: [https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands](https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands)  
+   Link: <a href="https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/cryptozoology/bizarre-entities/the-extraterrestrial-giants-of-the-solomon-islands</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>luminous UFO-like craft that locals call “Dragon Snakes.” Former... Solomon Island Mysteries: Accounts of Giants and UFOs in the Solomon...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: biblio.com  
-   Link: [https://www.biblio.com/book/solomon-islands-mysteries-accounts-giants-ufos/d/456112702?srsltid=AfmBOor7BAfte8i1dGhlqDvfFFmWYvcfvYsnI_EVTz9FK5yxikXSISCM](https://www.biblio.com/book/solomon-islands-mysteries-accounts-giants-ufos/d/456112702?srsltid=AfmBOor7BAfte8i1dGhlqDvfFFmWYvcfvYsnI_EVTz9FK5yxikXSISCM)  
+   Link: <a href="https://www.biblio.com/book/solomon-islands-mysteries-accounts-giants-ufos/d/456112702?srsltid=AfmBOor7BAfte8i1dGhlqDvfFFmWYvcfvYsnI_EVTz9FK5yxikXSISCM" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/solomon-islands-mysteries-accounts-giants-ufos/d/456112702?srsltid=AfmBOor7BAfte8i1dGhlqDvfFFmWYvcfvYsnI_EVTz9FK5yxikXSISCM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Mysteries: Accounts of Giants and UFOs...Reader reviews for Solomon Islands Mysteries: Accounts of Giants and UFOs in th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/25330918129/posts/10161332782093130/](https://www.facebook.com/groups/25330918129/posts/10161332782093130/)  
+   Link: <a href="https://www.facebook.com/groups/25330918129/posts/10161332782093130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25330918129/posts/10161332782093130/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;events. [https://fb.watch/pZgUkk_Xql/?mibextid=Nif5oz...&quot;](https://fb.watch/pZgUkk_Xql/?mibextid=Nif5oz...&quot;)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cryptidz.fandom.com  
    Title: Solomon Island Giants  
-   Link: [https://cryptidz.fandom.com/wiki/Solomon_Island_Giants](https://cryptidz.fandom.com/wiki/Solomon_Island_Giants)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Solomon_Island_Giants" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Solomon_Island_Giants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki. Non-Cryptids. Former Cryptids; Hoaxes... Solomon Islands campaign of 1942–45, including the Battle of Guadalcanal. Most...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cOG1kZozQc8](https://www.youtube.com/watch?v=cOG1kZozQc8)  
+   Link: <a href="https://www.youtube.com/watch?v=cOG1kZozQc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cOG1kZozQc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ight and day, for over a century. NEW VIDEOS EVERY WEEK...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Proof of Secret Underwater Alien Base | Ancient Aliens | The Un Xplained Zone  
-   Link: [https://www.youtube.com/watch?v=GNHteMyWUYs](https://www.youtube.com/watch?v=GNHteMyWUYs)  
+   Link: <a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens...</p></details>

@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-events/
   short_title: Sky Events
   heading_title: Why Southern Eswatini Matters Most
-date: '2026-06-09 01:26:45 '
+date: '2026-06-10 01:51:27 '
 header:
   og_image: /assets/images/Eswatini_16cc7f_aviation_official_re_ec30af-Illustration-1-social.jpg
   preview_image: /assets/images/Eswatini_16cc7f_aviation_official_re_ec30af-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Eswatini_16cc7f_aviation_official_re_ec30af-Illustration-1
 
 ## Introduction
 
-[Eswatini]({{ 'what-is-really-in-eswatinis-ufo-record/' | relative_url }}) does not have a publicly known UFO investigation office, declassification programme or military archive comparable to the files released in larger countries. That absence shapes the entire evidence problem. If a pilot, air traffic controller or airport official in Eswatini reported an unexplained aerial object, the most likely destination would not be a secret “UFO bureau”, but the ordinary civil aviation safety system.
+Eswatini does not have a publicly known UFO investigation office, declassification programme or military archive comparable to the files released in larger countries. That absence shapes the entire evidence problem. If a pilot, air traffic controller or airport official in Eswatini reported an unexplained aerial object, the most likely destination would not be a secret “UFO bureau”, but the ordinary civil aviation safety system.
 
 
 <img src="{{ "/assets/images/Eswatini_16cc7f_aviation_official_re_ec30af-Illustration-1-dark.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_aviation_official_re_ec30af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_aviation_official_re_ec30af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ What is missing is equally revealing:
 
 This creates an unusual documentary landscape. There is evidence that aviation safety reporting exists, but almost no evidence that unexplained aerial cases have entered the public record through that system.
 
-The lack of publicly accessible files is not unique to Eswatini. Many smaller aviation authorities publish only accident summaries or selected safety reports. Internal occurrence logs, communications with pilots and air traffic records are often retained operationally rather than released publicly. International aviation guidance also allows substantial protection of sensitive safety data. ICAO and related aviation safety frameworks explicitly encourage confidential or protected reporting to improve safety culture rather than public disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20COSCAPSEA%20AND%20EASA%20ECCAIRS%202%20AND%20D4S/5-Presentations/OccRep_E2_D4S_Introduction_SE-ASIA_workshop_Bangkok_2025March12-13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Occ Rep E2 D4S</span><span class="citation-popover-snippet">On the collection, analysis and exchange of aviation safety information...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In other words]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting | SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span>, an absence of public UFO records does not automatically mean no reports were ever made. It may simply reflect how aviation reporting systems normally work.
+The lack of publicly accessible files is not unique to Eswatini. Many smaller aviation authorities publish only accident summaries or selected safety reports. Internal occurrence logs, communications with pilots and air traffic records are often retained operationally rather than released publicly. International aviation guidance also allows substantial protection of sensitive safety data. ICAO and related aviation safety frameworks explicitly encourage confidential or protected reporting to improve safety culture rather than public disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20COSCAPSEA%20AND%20EASA%20ECCAIRS%202%20AND%20D4S/5-Presentations/OccRep_E2_D4S_Introduction_SE-ASIA_workshop_Bangkok_2025March12-13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Occ Rep E2 D4S</span><span class="citation-popover-snippet">On the collection, analysis and exchange of aviation safety information...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In other words]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting &#124; SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span>, an absence of public UFO records does not automatically mean no reports were ever made. It may simply reflect how aviation reporting systems normally work.
 
 ## How aviation incidents are reported
 
@@ -298,86 +298,44 @@ The likely pathway would resemble standard ICAO practice:
 1. The pilot reports the occurrence to air traffic services or company operations.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Would an Eswatini UFO Report Go?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Would an Eswatini UFO Report Go?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Covers reporting systems and investigative approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly addresses pilot and official reporting of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Provides context for how unusual aircraft and aerospace activity can generate mystery reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
-        
-        <p class="fr-book-desc">Provides aviation-safety context relevant to unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -411,75 +369,71 @@ The likely pathway would resemble standard ICAO practice:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-a14e9a-where-would-an-eswatini-ufo-report-go-eswatini-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -689,14 +643,14 @@ The likely pathway would resemble standard ICAO practice:
 </script>
 </section>
 
-2. The incident enters an occurrence-reporting or safety-reporting process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting | SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span>
+2. The incident enters an occurrence-reporting or safety-reporting process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting &#124; SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span>
 3. Aviation authorities assess whether the event represents a hazard to air navigation.
 4. Investigators attempt ordinary explanations first: aircraft traffic, drones, weather, astronomical objects, military activity or technical malfunction.
 5. If unresolved, the case may remain classified operationally as “unidentified” without becoming a public UFO investigation.
 
 </div>
 
-International aviation systems already contain mechanisms for handling unknown airborne hazards. Mandatory occurrence reporting schemes are designed to capture anything that could affect flight safety, including objects or events not immediately identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">CAAOccurrence reporting | UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting | SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span> This distinction matters because a“UFO report” in aviation language does not necessarily become a dedicated UFO case file. It may instead appear under categories such as:
+International aviation systems already contain mechanisms for handling unknown airborne hazards. Mandatory occurrence reporting schemes are designed to capture anything that could affect flight safety, including objects or events not immediately identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">CAAOccurrence reporting &#124; UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting &#124; SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span> This distinction matters because a“UFO report” in aviation language does not necessarily become a dedicated UFO case file. It may instead appear under categories such as:
 
 * unidentified traffic
 * airspace incursion
@@ -728,7 +682,7 @@ than to claim extraterrestrial origins.
 
 That reporting culture helps explain why countries with functioning aviation systems can still appear to have “no UFO files”. The incidents may exist, but under technical safety classifications rather than popular terminology.
 
-The same pattern has appeared internationally. Recent public debates around UAP reporting in the United States and elsewhere often emerged from aviation safety reporting systems rather than classic civilian UFO organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fyi.org.nz">[FYI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fyi.org.nz</span><span class="citation-popover-snippet">FYIDisclosure of Civil Aviation Authority&#x27;s UAP/UFO Handling...February 14, 2024 — 14 Feb 2024 — This may include incident reports, rada...</span><span class="citation-popover-meta">Published: February 14, 2024</span></span></span>
+The same pattern has appeared internationally. Recent public debates around UAP reporting in the United States and elsewhere often emerged from aviation safety reporting systems rather than classic civilian UFO organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fyi.org.nz">[FYI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fyi.org.nz</span><span class="citation-popover-snippet">Disclosure of Civil Aviation Authority&#x27;s UAP/UFO Handling...February 14, 2024 — 14 Feb 2024 — This may include incident reports, rada...</span><span class="citation-popover-meta">Published: February 14, 2024</span></span></span>
 
 For Eswatini, with its comparatively small aviation sector and limited archival transparency, this dynamic becomes even more pronounced.
 
@@ -758,7 +712,7 @@ Another complication is the limited public visibility of Eswatini’s military a
 
 In many countries, unexplained aerial sightings become fragmented across civilian and military channels:
 
-* civil aviation logs <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">CAAOccurrence reporting | UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety...</span></span></span>
+* civil aviation logs <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">CAAOccurrence reporting &#124; UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety...</span></span></span>
 * air defence radar
 * military intelligence
 * police reporting
@@ -776,7 +730,7 @@ Eswatini provides a particularly difficult environment for retrospective verific
 As a result, even a genuine unexplained aerial observation could disappear into routine paperwork or never progress beyond verbal reporting.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJ5mW53llH8" title="Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJ5mW53llH8" target="_blank" rel="noopener noreferrer">Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 29.8K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJ5mW53llH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJ5mW53llH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ag2pzH6aSpY" title="Newly declassified UFO files reveal unexplained encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer">Newly declassified UFO files reveal unexplained encounters</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ag2pzH6aSpY">Open on YouTube</a></p></div></div></div>
 
 ## Why silence is not proof
 
@@ -808,7 +762,7 @@ A second explanation is institutional rather than conspiratorial. Reports may ex
 * aviation authorities do not classify them as UFO cases
 * records retention periods removed older files
 
-International aviation safety systems often prioritise confidentiality and operational learning over public disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">CAAOccurrence reporting | UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary Under this model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting | SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span>, “missing UFO files” are really ordinary inaccessible safety records.
+International aviation safety systems often prioritise confidentiality and operational learning over public disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">CAAOccurrence reporting &#124; UK Civil Aviation AuthorityOccurrence reporting helps improve aviation safety by ensuring that relevant safety...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary Under this model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Mandatory Occurrence Reporting &#124; SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</span></span></span>, “missing UFO files” are really ordinary inaccessible safety records.
 
 ### The speculative explanation
 
@@ -819,7 +773,7 @@ No leaked archive, whistleblower testimony, parliamentary inquiry or authenticat
 The stronger conclusion is narrower and more defensible: Eswatini’s aviation and governmental transparency systems are too limited to allow confident historical verification of most aerial claims.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ag2pzH6aSpY" title="Newly declassified UFO files reveal unexplained encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer">Newly declassified UFO files reveal unexplained encounters</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ag2pzH6aSpY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u-2kGzR2-o0" title="Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer">Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u-2kGzR2-o0">Open on YouTube</a></p></div></div></div>
 
 ## The practical verification problem
 
@@ -862,131 +816,131 @@ In Eswatini, the mystery is therefore less about hidden extraterrestrial files t
 1. <a id="endnote-1"></a>
    Source: icao.int  
    Title: Occ Rep E2 D4S  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20COSCAPSEA%20AND%20EASA%20ECCAIRS%202%20AND%20D4S/5-Presentations/OccRep_E2_D4S_Introduction_SE-ASIA_workshop_Bangkok_2025March12-13.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20COSCAPSEA%20AND%20EASA%20ECCAIRS%202%20AND%20D4S/5-Presentations/OccRep_E2_D4S_Introduction_SE-ASIA_workshop_Bangkok_2025March12-13.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20COSCAPSEA%20AND%20EASA%20ECCAIRS%202%20AND%20D4S/5-Presentations/OccRep_E2_D4S_Introduction_SE-ASIA_workshop_Bangkok_2025March12-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20COSCAPSEA%20AND%20EASA%20ECCAIRS%202%20AND%20D4S/5-Presentations/OccRep_E2_D4S_Introduction_SE-ASIA_workshop_Bangkok_2025March12-13.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the collection, analysis and exchange of aviation safety information...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/mandatory-occurrence-reporting](https://skybrary.aero/articles/mandatory-occurrence-reporting)  
+   Link: <a href="https://skybrary.aero/articles/mandatory-occurrence-reporting" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/mandatory-occurrence-reporting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mandatory Occurrence Reporting | SKYbrary Aviation SafetyThe objective of mandatory occurrence reporting is to collect and exchange infor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/mor](https://www.caa.co.uk/mor)  
+   Link: <a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: King Mswati III International Airport  
-   Link: [https://en.wikipedia.org/wiki/King_Mswati_III_International_Airport](https://en.wikipedia.org/wiki/King_Mswati_III_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/King_Mswati_III_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/King_Mswati_III_International_Airport</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Matsapha Airport  
-   Link: [https://en.wikipedia.org/wiki/Matsapha_Airport](https://en.wikipedia.org/wiki/Matsapha_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Matsapha_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matsapha_Airport</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of airlines of Eswatini  
-   Link: [https://en.wikipedia.org/wiki/List_of_airlines_of_Eswatini](https://en.wikipedia.org/wiki/List_of_airlines_of_Eswatini)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_airlines_of_Eswatini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_airlines_of_Eswatini</a>  
 
 7. <a id="endnote-7"></a>
    Source: fyi.org.nz  
-   Link: [https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications](https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FYIDisclosure of Civil Aviation Authority&#x27;s UAP/UFO Handling...February 14, 2024 — 14 Feb 2024 — This may include incident reports, rada...</p></details>
+   Link: <a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure of Civil Aviation Authority&#x27;s UAP/UFO Handling...February 14, 2024 — 14 Feb 2024 — This may include incident reports, rada...</p></details>
    Published: February 14, 2024  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Umbutfo Eswatini Defence Force  
-   Link: [https://en.wikipedia.org/wiki/Umbutfo_Eswatini_Defence_Force](https://en.wikipedia.org/wiki/Umbutfo_Eswatini_Defence_Force)  
+   Link: <a href="https://en.wikipedia.org/wiki/Umbutfo_Eswatini_Defence_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Umbutfo_Eswatini_Defence_Force</a>  
 
 9. <a id="endnote-9"></a>
    Source: catalog.archives.gov  
-   Link: [https://catalog.archives.gov/id/493468575](https://catalog.archives.gov/id/493468575)  
+   Link: <a href="https://catalog.archives.gov/id/493468575" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/493468575</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.gov[https://catalog.archives.gov/id/493468575No](https://catalog.archives.gov/id/493468575No) information is available for this page...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in South Africa... flying objects or UFOs in South Africa.... News24. Retrieved 28 February 2020. ↑ Lindemann, Michael...</p></details>
    Published: February 2020  
 
 11. <a id="endnote-11"></a>
    Source: eswacaa.co.sz  
-   Link: [https://www.eswacaa.co.sz/aaiid/](https://www.eswacaa.co.sz/aaiid/)  
+   Link: <a href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow">https://www.eswacaa.co.sz/aaiid/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Occurrence Number, Type, Aircraft Registration, Date of Occurrence, Interim. Statement. Final report. 17-001, Accident, ZS-HAJ...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: eswatinilii.org  
-   Link: [https://eswatinilii.org/akn/sz/act/2009/10/eng%402009-12-07](https://eswatinilii.org/akn/sz/act/2009/10/eng%402009-12-07)  
+   Link: <a href="https://eswatinilii.org/akn/sz/act/2009/10/eng%402009-12-07" target="_blank" rel="noopener noreferrer nofollow">https://eswatinilii.org/akn/sz/act/2009/10/eng%402009-12-07</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eswatini Legal Information InstituteCivil Aviation Authority Act, 2009(2)The Director General shall report the findings of the investigat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: Eswatini Civil Aviation Authority  
-   Link: [https://www.facebook.com/ESWACAA/](https://www.facebook.com/ESWACAA/)  
+   Link: <a href="https://www.facebook.com/ESWACAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESWACAA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Juan Carlos Salazar, Secretary General of the ICAO - International Civil Aviation Organization (ICAO).Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: warufo.com  
-   Link: [https://warufo.com/archive](https://warufo.com/archive)  
+   Link: <a href="https://warufo.com/archive" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/archive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All 158 Documents — WARUFO1 Flying Discs 1949, This file primarily contains incident reports on Unidentified Flying Objects (UFOs) writte...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/](https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/)  
+   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/</a>  
 
 16. <a id="endnote-16"></a>
    Source: flyeptspain.com  
-   Link: [https://www.flyeptspain.com/safety-reporting](https://www.flyeptspain.com/safety-reporting)  
+   Link: <a href="https://www.flyeptspain.com/safety-reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.flyeptspain.com/safety-reporting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Occurrence Reporting FormTo Report an Occurrence to Civil Aviation Authority (AESA) in SPAIN. Here you can submit an occurrence re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gov.im  
-   Link: [https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/occurrence-reporting/](https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/occurrence-reporting/)  
+   Link: <a href="https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/occurrence-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/occurrence-reporting/</a>  
 
 18. <a id="endnote-18"></a>
    Source: thainewsroom.com  
-   Link: [https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/](https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/)  
+   Link: <a href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings stir excitement in Chiang Mai · NASA launches study of UFOs despite &#x27;reputational risk&#x27; · They&#x27;re not...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: migflug.com  
-   Link: [https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/](https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/)  
+   Link: <a href="https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/pentagon-opens-the-ufo-vault-162-files-zero-answers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Opens the UFO Vault: 162 Files, Zero AnswersOn May 8, 2026, the Pentagon did something it has spent decades trying very hard not...</p></details>
    Published: May 8, 2026  
 
 20. <a id="endnote-20"></a>
    Source: the-european.eu  
    Title: pentagon reopens moon mystery in huge ufo files release  
-   Link: [https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html](https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html)  
+   Link: <a href="https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html" target="_blank" rel="noopener noreferrer nofollow">https://the-european.eu/story-60569/pentagon-reopens-moon-mystery-in-huge-ufo-files-release.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 May 2026 — New Pentagon UFO files have reopened investigation into an Apollo 17 Moon photograph and unexplained astronaut sightings in...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: evrimagaci.org  
    Title: pentagon releases trove of ufo files to public 539494  
-   Link: [https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOorj3JhadxtZegDFCz-sLmzWQQLBimP-e2YMwGPBJ_RBDKc8ICtQ](https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOorj3JhadxtZegDFCz-sLmzWQQLBimP-e2YMwGPBJ_RBDKc8ICtQ)  
+   Link: <a href="https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOorj3JhadxtZegDFCz-sLmzWQQLBimP-e2YMwGPBJ_RBDKc8ICtQ" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/pentagon-releases-trove-of-ufo-files-to-public-539494?srsltid=AfmBOorj3JhadxtZegDFCz-sLmzWQQLBimP-e2YMwGPBJ_RBDKc8ICtQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Trove Of UFO Files To Public8 May 2026 — Pentagon Releases Trove Of UFO Files To Public. Decades of government records...</p></details>
    Published: May 2026  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK  
-   Link: [https://www.youtube.com/watch?v=u-2kGzR2-o0](https://www.youtube.com/watch?v=u-2kGzR2-o0)  
+   Link: <a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u-2kGzR2-o0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Newly declassified UFO files reveal unexplained encounters...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: New UFO Files Reveal Risks To Commercial Flights | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=GeMvmwEBcC0](https://www.youtube.com/watch?v=GeMvmwEBcC0)  
+   Link: <a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Newly declassified UFO files reveal unexplained encounters  
-   Link: [https://www.youtube.com/watch?v=ag2pzH6aSpY](https://www.youtube.com/watch?v=ag2pzH6aSpY)  
+   Link: <a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ag2pzH6aSpY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files...</p></details>

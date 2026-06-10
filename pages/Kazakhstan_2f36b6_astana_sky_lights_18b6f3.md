@@ -239,7 +239,7 @@ next_link:
   permalink: /crash-legends/
   short_title: Crash Legends
   heading_title: Kazakhstan's Biggest UFO Legends Under Scrutiny
-date: '2026-06-09 01:30:46 '
+date: '2026-06-10 01:56:21 '
 header:
   og_image: /assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-1-social.jpg
   preview_image: /assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-1-
 
 ## Introduction
 
-In early June 2025, residents of **Astana**, the capital of **[Kazakhstan]({{ 'what-is-really-seen-over-kazakhstan/' | relative_url }})**, witnessed an unusual display of **bright, glowing lights crossing the night sky** that quickly circulated across social media and sparked widespread speculation about unidentified flying objects or “UFOs.” Multiple videos showed points of light moving in formation, prompting online debate and concern among observers. Within hours, Kazakh authorities issued official explanations, emphasising natural or space‑related causes rather than extraterrestrial visitation. This page surveys what was reported, what official agencies said, and how these explanations have been understood in context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nur.kz">[NUR.KZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nur.kz</span><span class="citation-popover-snippet">Откуда в небе над Казахстаном взялись загадочные светящиеся объекты, объяснили в МинцифрыJune 5, 2025...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
+In early June 2025, residents of **Astana**, the capital of **Kazakhstan**, witnessed an unusual display of **bright, glowing lights crossing the night sky** that quickly circulated across social media and sparked widespread speculation about unidentified flying objects or “UFOs.” Multiple videos showed points of light moving in formation, prompting online debate and concern among observers. Within hours, Kazakh authorities issued official explanations, emphasising natural or space‑related causes rather than extraterrestrial visitation. This page surveys what was reported, what official agencies said, and how these explanations have been understood in context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nur.kz">[NUR.KZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nur.kz</span><span class="citation-popover-snippet">Откуда в небе над Казахстаном взялись загадочные светящиеся объекты, объяснили в МинцифрыJune 5, 2025...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-1-dark.svg" | relative_url }}" alt="Astana Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -258,9 +258,6 @@ On the evening of **5 June 2025**, shortly after **22:00 local time**, resid
 
 Observers shared footage showing points of light that appeared synchronised and in line, which in some recordings inspired speculative explanations ranging from meteors and drones to unidentified aerial phenomena. Some people noted the spectacle’s duration was longer than typical shooting stars and the number of points suggested multiple simultaneous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newtimes.kz/obshchestvo/206706-v-nebe-nad-astanoi-zametili-strannye-ogni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtimes.kz">[Newtimes.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtimes.kz</span><span class="citation-popover-title">206706 v nebe nad astanoi zametili strannye ogni</span><span class="citation-popover-snippet">В небе над Астаной заметили странные огниJune 5, 2025...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EX2HlEDjTnA" title="Roscosmos - Soyuz MS-27 - Deorbit Burn &amp; Landing in Kazakhstan - December 9, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EX2HlEDjTnA" target="_blank" rel="noopener noreferrer">Roscosmos - Soyuz MS-27 - Deorbit Burn &amp; Landing in Kazakhstan - December 9, 2025</a></p><p class="youtube-embed-meta">Channel: SPACE AFFAIRS &middot; Views: 3.9K &middot; Uploaded: December 2025 &middot; Length: 2 hours 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EX2HlEDjTnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EX2HlEDjTnA">Open on YouTube</a></p></div></div></div>
-
 ## How Officials Explained the Lights
 
 ### Defence Ministry Response
@@ -269,19 +266,19 @@ The **Ministry of Defence of Kazakhstan** responded publicly to the reports with
 
 In Russian‑language statements, the Defence Ministry reiterated that the objects could be **space debris or meteor shower fragments** and emphasised that Kazakhstan’s air defence systems did not register any unknown craft in controlled airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nur.kz/society/2252853-minoborony-sdelalo-zayavlenie-iz-za-svetyashchihsya-obektov-v-nebe-nad-astanoy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nur.kz">[NUR.KZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nur.kz</span><span class="citation-popover-snippet">Минобороны сделало заявление из-за светящихся объектов в небе над АстанойJune 5, 2025...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
 
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EX2HlEDjTnA" title="Roscosmos - Soyuz MS-27 - Deorbit Burn &amp; Landing in Kazakhstan - December 9, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EX2HlEDjTnA" target="_blank" rel="noopener noreferrer">Roscosmos - Soyuz MS-27 - Deorbit Burn &amp; Landing in Kazakhstan - December 9, 2025</a></p><p class="youtube-embed-meta">Channel: SPACE AFFAIRS &middot; Views: 3.9K &middot; Uploaded: December 2025 &middot; Length: 2 hours 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EX2HlEDjTnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EX2HlEDjTnA">Open on YouTube</a></p></div></div></div>
+
 ### Ministry of Digital Development Clarification
 
 The **Ministry of Digital Development, Innovations and Aerospace Industry of Kazakhstan** (МЦРИАП) provided additional context, confirming that similar bright objects had been observed over **Central and Northern Kazakhstan** on the same night, and urged the public to rely only on official explanations. The ministry did not attribute the phenomenon to alien craft but suggested it was linked to known atmospheric or orbital conditions while noting in past years similar sightings over cities like **Almaty** and **Talgar** had also drawn speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nur.kz/society/2252835-strannye-svetyashchiesya-obekty-snyali-na-video-nad-astanoy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nur.kz">[NUR.KZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nur.kz</span><span class="citation-popover-title">2252835 strannye svetyashchiesya obekty snyali na video nad astanoy</span><span class="citation-popover-snippet">Странные светящиеся объекты сняли на видео над АстанойJune 29, 2025 — Жители столицы делятся в соцсетях видеороликами, на которых запечат...</span><span class="citation-popover-meta">Published: June 29, 2025</span></span></span>
 
-
-<img src="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-2-dark.svg" | relative_url }}" alt="Astana Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Expert Commentary
 
 Independent astronomers, such as **Alexander Yakushechkin**, weighed in through Russian news outlets, suggesting the characteristics of the lights — multiple fragmenting points and sustained bright trails — were more indicative of **artificial space object re‑entry** than of a true meteoroid stream associated with an established meteor shower. In his view, this could involve the **burn‑up of a satellite or rocket stage** rather than a natural meteor, and he noted that recent solar activity and magnetic disturbances might influence satellite decay into the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenta.ru">[Lenta.RU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenta.ru</span><span class="citation-popover-snippet">June 5, 2025...</span><span class="citation-popover-meta">Published: June 5, 2025</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXKq6aKvUrs" title="The Different Types of UFO You Should Know About" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXKq6aKvUrs" target="_blank" rel="noopener noreferrer">The Different Types of UFO You Should Know About</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXKq6aKvUrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXKq6aKvUrs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-2-dark.svg" | relative_url }}" alt="Astana Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Explanations Versus UFO Speculation
 
 Though initial social media commentary often referenced “UFOs,” there is **no published official evidence** supporting the presence of unknown craft over Astana on 5 June 2025 — either from aerospace radar tracking, national space agencies, or international space–object monitoring systems. Statements from Kazakhstan’s ministries consistently attribute the phenomenon to known **space debris re‑entry dynamics or natural astronomical events**, a conclusion in line with global aerospace agency practices when interpreting sudden luminous sky events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://qazinform.com/news/defense-ministry-issues-statement-regarding-strange-objects-spotted-in-the-sky-over-astana-02c6dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qazinform.com">[qazinform.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qazinform.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -311,86 +308,44 @@ Without such evidence, the combination of official statements and expert analysi
 <img src="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-3-dark.svg" | relative_url }}" alt="Astana Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_astana_sky_lights_18b6f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Were Astana&#x27;s Sky Lights Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Were Astana&#x27;s Sky Lights Really UFOs?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides broader context for public reactions to unexplained sky sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Addresses modern aerial sightings and the challenge of interpreting them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on cases supported by stronger evidence than social-media sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Helps explain bright sky events that are often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -424,75 +379,71 @@ Without such evidence, the combination of official statements and expert analysi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astana-lights-were-astana-s-sky-lights-really-ufos-kazakhstan-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -706,92 +657,92 @@ Without such evidence, the combination of official statements and expert analysi
 
 1. <a id="endnote-1"></a>
    Source: nur.kz  
-   Link: [https://www.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/](https://www.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/)  
+   Link: <a href="https://www.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/" target="_blank" rel="noopener noreferrer nofollow">https://www.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Откуда в небе над Казахстаном взялись загадочные светящиеся объекты, объяснили в МинцифрыJune 5, 2025...</p></details>
    Published: June 5, 2025  
 
 2. <a id="endnote-2"></a>
    Source: qazinform.com  
-   Link: [https://qazinform.com/news/defense-ministry-issues-statement-regarding-strange-objects-spotted-in-the-sky-over-astana-02c6dc](https://qazinform.com/news/defense-ministry-issues-statement-regarding-strange-objects-spotted-in-the-sky-over-astana-02c6dc)  
+   Link: <a href="https://qazinform.com/news/defense-ministry-issues-statement-regarding-strange-objects-spotted-in-the-sky-over-astana-02c6dc" target="_blank" rel="noopener noreferrer nofollow">https://qazinform.com/news/defense-ministry-issues-statement-regarding-strange-objects-spotted-in-the-sky-over-astana-02c6dc</a>  
 
 3. <a id="endnote-3"></a>
    Source: en.orda.kz  
    Title: kz Authorities Comment on Objects Observed in Kazakhstan Sky  
-   Link: [https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/](https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/)  
+   Link: <a href="https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/" target="_blank" rel="noopener noreferrer nofollow">https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comment on Objects Observed in Kazakhstan SkyJune 6, 2025...</p></details>
    Published: June 6, 2025  
 
 4. <a id="endnote-4"></a>
    Source: newtimes.kz  
    Title: 206706 v nebe nad astanoi zametili strannye ogni  
-   Link: [https://newtimes.kz/obshchestvo/206706-v-nebe-nad-astanoi-zametili-strannye-ogni](https://newtimes.kz/obshchestvo/206706-v-nebe-nad-astanoi-zametili-strannye-ogni)  
+   Link: <a href="https://newtimes.kz/obshchestvo/206706-v-nebe-nad-astanoi-zametili-strannye-ogni" target="_blank" rel="noopener noreferrer nofollow">https://newtimes.kz/obshchestvo/206706-v-nebe-nad-astanoi-zametili-strannye-ogni</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>В небе над Астаной заметили странные огниJune 5, 2025...</p></details>
    Published: June 5, 2025  
 
 5. <a id="endnote-5"></a>
    Source: nur.kz  
-   Link: [https://www.nur.kz/society/2252853-minoborony-sdelalo-zayavlenie-iz-za-svetyashchihsya-obektov-v-nebe-nad-astanoy/](https://www.nur.kz/society/2252853-minoborony-sdelalo-zayavlenie-iz-za-svetyashchihsya-obektov-v-nebe-nad-astanoy/)  
+   Link: <a href="https://www.nur.kz/society/2252853-minoborony-sdelalo-zayavlenie-iz-za-svetyashchihsya-obektov-v-nebe-nad-astanoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nur.kz/society/2252853-minoborony-sdelalo-zayavlenie-iz-za-svetyashchihsya-obektov-v-nebe-nad-astanoy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Минобороны сделало заявление из-за светящихся объектов в небе над АстанойJune 5, 2025...</p></details>
    Published: June 5, 2025  
 
 6. <a id="endnote-6"></a>
    Source: lenta.ru  
-   Link: [https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/](https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/)  
+   Link: <a href="https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/" target="_blank" rel="noopener noreferrer nofollow">https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 5, 2025...</p></details>
    Published: June 5, 2025  
 
 7. <a id="endnote-7"></a>
    Source: nur.kz  
    Title: 2252835 strannye svetyashchiesya obekty snyali na video nad astanoy  
-   Link: [https://www.nur.kz/society/2252835-strannye-svetyashchiesya-obekty-snyali-na-video-nad-astanoy/](https://www.nur.kz/society/2252835-strannye-svetyashchiesya-obekty-snyali-na-video-nad-astanoy/)  
+   Link: <a href="https://www.nur.kz/society/2252835-strannye-svetyashchiesya-obekty-snyali-na-video-nad-astanoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nur.kz/society/2252835-strannye-svetyashchiesya-obekty-snyali-na-video-nad-astanoy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Странные светящиеся объекты сняли на видео над АстанойJune 29, 2025 — Жители столицы делятся в соцсетях видеороликами, на которых запечат...</p></details>
    Published: June 29, 2025  
 
 8. <a id="endnote-8"></a>
    Source: orda.kz  
    Title: Позже аналогичные  
-   Link: [https://orda.kz/neopoznannye-ogni-v-nebe-nad-kazahstanom-mogut-byt-chastjami-rakety-ili-sputnikom-402692/](https://orda.kz/neopoznannye-ogni-v-nebe-nad-kazahstanom-mogut-byt-chastjami-rakety-ili-sputnikom-402692/)  
+   Link: <a href="https://orda.kz/neopoznannye-ogni-v-nebe-nad-kazahstanom-mogut-byt-chastjami-rakety-ili-sputnikom-402692/" target="_blank" rel="noopener noreferrer nofollow">https://orda.kz/neopoznannye-ogni-v-nebe-nad-kazahstanom-mogut-byt-chastjami-rakety-ili-sputnikom-402692/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Неопознанные огни в небе над Казахстаном могут быть частями ракеты или спутникомJune 29, 2025 — Первыми видео со светящимися огнями, движ...</p></details>
    Published: June 29, 2025  
 
 9. <a id="endnote-9"></a>
    Source: almaty.tv  
    Title: svet s nebes zhiteli astany vstrevozheny strannym iavleniem  
-   Link: [https://almaty.tv/ru/news/obschestvo/svet-s-nebes-zhiteli-astany-vstrevozheny-strannym-iavleniem](https://almaty.tv/ru/news/obschestvo/svet-s-nebes-zhiteli-astany-vstrevozheny-strannym-iavleniem)  
+   Link: <a href="https://almaty.tv/ru/news/obschestvo/svet-s-nebes-zhiteli-astany-vstrevozheny-strannym-iavleniem" target="_blank" rel="noopener noreferrer nofollow">https://almaty.tv/ru/news/obschestvo/svet-s-nebes-zhiteli-astany-vstrevozheny-strannym-iavleniem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Свет с небес: жители Астаны встревожены странным явлениемJune 5, 2025 — СВЕТ С НЕБЕС: ЖИТЕЛИ АСТАНЫ ВСТРЕВОЖЕНЫ СТРАННЫМ ЯВЛЕНИЕМ Image...</p></details>
    Published: June 5, 2025  
 
 10. <a id="endnote-10"></a>
    Source: spaceplace.nasa.gov  
    Title: meteor shower  
-   Link: [https://spaceplace.nasa.gov/meteor-shower/](https://spaceplace.nasa.gov/meteor-shower/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| NASA Space Place – NASA Science for KidsJuly 28, 2025 — WHAT IS A METEOR SHOWER? If it&#x27;s time for a meteor shower, you won&#x27;t need a tel...</p></details>
+   Link: <a href="https://spaceplace.nasa.gov/meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://spaceplace.nasa.gov/meteor-shower/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Space Place – NASA Science for KidsJuly 28, 2025 — WHAT IS A METEOR SHOWER? If it&#x27;s time for a meteor shower, you won&#x27;t need a tel...</p></details>
    Published: July 28, 2025  
 
 11. <a id="endnote-11"></a>
    Source: tengrinews.kz  
    Title: mtsriap obyyasnilo poyavlenie zagadochnyih ogney nebe 572207  
-   Link: [https://tengrinews.kz/kazakhstan_news/mtsriap-obyyasnilo-poyavlenie-zagadochnyih-ogney-nebe-572207/](https://tengrinews.kz/kazakhstan_news/mtsriap-obyyasnilo-poyavlenie-zagadochnyih-ogney-nebe-572207/)  
+   Link: <a href="https://tengrinews.kz/kazakhstan_news/mtsriap-obyyasnilo-poyavlenie-zagadochnyih-ogney-nebe-572207/" target="_blank" rel="noopener noreferrer nofollow">https://tengrinews.kz/kazakhstan_news/mtsriap-obyyasnilo-poyavlenie-zagadochnyih-ogney-nebe-572207/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>МЦРИАП объяснило появление загадочных огней в небе над КазахстаномJune 29, 2025 — Министерство цифрового развития, инноваций и аэрокосмич...</p></details>
    Published: June 29, 2025  
 
 12. <a id="endnote-12"></a>
    Source: ulysmedia.kz  
    Title: 52933 v astane zametili strannye svetiashchiesia obekty  
-   Link: [https://ulysmedia.kz/news/52933-v-astane-zametili-strannye-svetiashchiesia-obekty/](https://ulysmedia.kz/news/52933-v-astane-zametili-strannye-svetiashchiesia-obekty/)  
+   Link: <a href="https://ulysmedia.kz/news/52933-v-astane-zametili-strannye-svetiashchiesia-obekty/" target="_blank" rel="noopener noreferrer nofollow">https://ulysmedia.kz/news/52933-v-astane-zametili-strannye-svetiashchiesia-obekty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>В Астане заметили странные светящиеся объектыJune 29, 2025 — Жители Астаны ночью заметили в небе странное явление — десятки ярких огонько...</p></details>
    Published: June 29, 2025  
 
 13. <a id="endnote-13"></a>
    Source: novochag.ru  
    Title: Минцифры объяснило, что это был фрагмент китайской ракеты  
-   Link: [https://www.novochag.ru/obshchestvo/novosti/v-kazahstane-nashli-obyyasnenie-zagadochnym-ognyam-v-nebe-kotorye-vzbudorajili-mir/](https://www.novochag.ru/obshchestvo/novosti/v-kazahstane-nashli-obyyasnenie-zagadochnym-ognyam-v-nebe-kotorye-vzbudorajili-mir/)  
+   Link: <a href="https://www.novochag.ru/obshchestvo/novosti/v-kazahstane-nashli-obyyasnenie-zagadochnym-ognyam-v-nebe-kotorye-vzbudorajili-mir/" target="_blank" rel="noopener noreferrer nofollow">https://www.novochag.ru/obshchestvo/novosti/v-kazahstane-nashli-obyyasnenie-zagadochnym-ognyam-v-nebe-kotorye-vzbudorajili-mir/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>В Казахстане нашли объяснение загадочным огням в небе, которые взбудоражили мирJune 29, 2025 — Жители Казахстана увидели загадочные огни...</p></details>
    Published: June 29, 2025  
 
 14. <a id="endnote-14"></a>
    Source: aa.com.tr  
-   Link: [https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BC%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D1%81%D0%B2%D0%B5%D1%82%D1%8F%D1%89%D0%B8%D0%B5%D1%81%D1%8F-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%B3%D1%83%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BE%D0%B1%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B0/3590237](https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BC%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D1%81%D0%B2%D0%B5%D1%82%D1%8F%D1%89%D0%B8%D0%B5%D1%81%D1%8F-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%B3%D1%83%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BE%D0%B1%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B0/3590237)  
+   Link: <a href="https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BC%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D1%81%D0%B2%D0%B5%D1%82%D1%8F%D1%89%D0%B8%D0%B5%D1%81%D1%8F-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%B3%D1%83%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BE%D0%B1%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B0/3590237" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BC%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0-%D1%81%D0%B2%D0%B5%D1%82%D1%8F%D1%89%D0%B8%D0%B5%D1%81%D1%8F-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%B3%D1%83%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BE%D0%B1%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B0/3590237</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>МО Казахстана: светящиеся объекты над Астаной могут быть обломками космического аппаратаJune 5, 2025 — МО КАЗАХСТАНА: СВЕТЯЩИЕСЯ ОБЪЕКТЫ...</p></details>
    Published: June 5, 2025  
 
@@ -799,66 +750,66 @@ Without such evidence, the combination of official statements and expert analysi
 
 15. <a id="endnote-15"></a>
    Source: eadaily.com  
-   Link: [https://eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic](https://eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic)  
+   Link: <a href="https://eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic" target="_blank" rel="noopener noreferrer nofollow">https://eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EADaily, June 6th, 2025 — Accidents, AsiaJune 6, 2025 — THE MINISTRY OF DEFENSE OF KAZAKHSTAN COMMENTED ON THE APPEARANCE OF UFOS IN THE...</p></details>
    Published: June 6, 2025  
 
 16. <a id="endnote-16"></a>
    Source: kp.ru  
-   Link: [https://www.kp.ru/online/news/6410594](https://www.kp.ru/online/news/6410594)  
+   Link: <a href="https://www.kp.ru/online/news/6410594" target="_blank" rel="noopener noreferrer nofollow">https://www.kp.ru/online/news/6410594</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — НовостиОбщество5 июня 2025 19:37 В НЕБЕ НАД КАЗАХСТАНОМ ЗАМЕТИЛИ СВЕТЯЩИЕСЯ ОБЪЕКТЫ: В МИНОБОРОНЫ ОБЪЯСНИЛИ СТРАННОЕ ЯВЛЕНИЕ В...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: forbes.kz  
-   Link: [https://forbes.kz/articles/prichiny-poyavleniya-komet-nad-nebom-astany-i-drugih-gorodov-ozvuchili-vmtsriap-543e88](https://forbes.kz/articles/prichiny-poyavleniya-komet-nad-nebom-astany-i-drugih-gorodov-ozvuchili-vmtsriap-543e88)  
+   Link: <a href="https://forbes.kz/articles/prichiny-poyavleniya-komet-nad-nebom-astany-i-drugih-gorodov-ozvuchili-vmtsriap-543e88" target="_blank" rel="noopener noreferrer nofollow">https://forbes.kz/articles/prichiny-poyavleniya-komet-nad-nebom-astany-i-drugih-gorodov-ozvuchili-vmtsriap-543e88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Причины появления «комет» над небом Астаны и других городов озвучили в МЦРИАПJune 29, 2025 — Поздно вечером 5 июня жители Астаны, Караган...</p></details>
    Published: June 29, 2025  
 
 18. <a id="endnote-18"></a>
    Source: zakon.kz  
    Title: Яркие светящиеся объекты, словно метеоры, оставляли за собой следы. Это  
-   Link: [https://www.zakon.kz/stati/6480048-zagadka-nochi-svetyashchiesya-trassy-v-nebe-i-zemnoe-obyasnenie.html](https://www.zakon.kz/stati/6480048-zagadka-nochi-svetyashchiesya-trassy-v-nebe-i-zemnoe-obyasnenie.html)  
+   Link: <a href="https://www.zakon.kz/stati/6480048-zagadka-nochi-svetyashchiesya-trassy-v-nebe-i-zemnoe-obyasnenie.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zakon.kz/stati/6480048-zagadka-nochi-svetyashchiesya-trassy-v-nebe-i-zemnoe-obyasnenie.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Загадка ночи: светящиеся трассы в небе и земное объяснениеJune 29, 2025 — В ночь с 5 на 6 июня 2025 года небо озадачило жителей Казахстана...</p></details>
    Published: June 29, 2025  
 
 19. <a id="endnote-19"></a>
    Source: rtvi.com  
    Title: neizvestnye svetyashhiesya obekty zametili v nebe nad kazahstanom  
-   Link: [https://rtvi.com/news/neizvestnye-svetyashhiesya-obekty-zametili-v-nebe-nad-kazahstanom/](https://rtvi.com/news/neizvestnye-svetyashhiesya-obekty-zametili-v-nebe-nad-kazahstanom/)  
+   Link: <a href="https://rtvi.com/news/neizvestnye-svetyashhiesya-obekty-zametili-v-nebe-nad-kazahstanom/" target="_blank" rel="noopener noreferrer nofollow">https://rtvi.com/news/neizvestnye-svetyashhiesya-obekty-zametili-v-nebe-nad-kazahstanom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Неизвестные светящиеся объекты заметили в небе над КазахстаномJune 29, 2025 — В ночь на 6 июня жители Центрального и Северного Казахстана...</p></details>
    Published: June 29, 2025  
 
 20. <a id="endnote-20"></a>
    Source: lada.kz  
    Title: Таинственные огни над Казахстаном: что это было на самом деле?  
-   Link: [https://www.lada.kz/kazakhstan-news/139281-tainstvennye-ogni-nad-kazakhstanom-chto-eto-bylo-na-samom-dele-video.html](https://www.lada.kz/kazakhstan-news/139281-tainstvennye-ogni-nad-kazakhstanom-chto-eto-bylo-na-samom-dele-video.html)  
+   Link: <a href="https://www.lada.kz/kazakhstan-news/139281-tainstvennye-ogni-nad-kazakhstanom-chto-eto-bylo-na-samom-dele-video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lada.kz/kazakhstan-news/139281-tainstvennye-ogni-nad-kazakhstanom-chto-eto-bylo-na-samom-dele-video.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(видео)June 29, 2025 — Жители нескольких регионов Казахстана стали очевидцами необычного светового явления в ночном небе. Министерство ци...</p></details>
    Published: June 29, 2025  
 
 21. <a id="endnote-21"></a>
    Source: vedomosti.ru  
    Title: Над Астаной засняли пролет неизвестных светящихся объектов  
-   Link: [https://www.vedomosti.ru/society/news/2025/06/06/1115456-nad-astanoi-prolet](https://www.vedomosti.ru/society/news/2025/06/06/1115456-nad-astanoi-prolet)  
+   Link: <a href="https://www.vedomosti.ru/society/news/2025/06/06/1115456-nad-astanoi-prolet" target="_blank" rel="noopener noreferrer nofollow">https://www.vedomosti.ru/society/news/2025/06/06/1115456-nad-astanoi-prolet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ВедомостиJune 6, 2025 — Главная / Общество / 06 июня 2025, 00:33 НАД АСТАНОЙ ЗАСНЯЛИ ПРОЛЕТ НЕИЗВЕСТНЫХ СВЕТЯЩИХСЯ ОБЪЕКТОВ Ведомости Жит...</p></details>
    Published: June 6, 2025  
 
 22. <a id="endnote-22"></a>
    Source: orbitaltoday.com  
    Title: BREAKIN G: Strange Glowing Objects Spotted Over Kazakhstan  
-   Link: [https://orbitaltoday.com/2025/06/05/strange-glowing-objects-spotted-over-kazakhstan/](https://orbitaltoday.com/2025/06/05/strange-glowing-objects-spotted-over-kazakhstan/)  
+   Link: <a href="https://orbitaltoday.com/2025/06/05/strange-glowing-objects-spotted-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaltoday.com/2025/06/05/strange-glowing-objects-spotted-over-kazakhstan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING: Strange Glowing Objects Spotted Over KazakhstanJune 29, 2025 — Mysterious glowing objects lit up the skies over Kazakhstan and...</p></details>
    Published: June 29, 2025  
 
 23. <a id="endnote-23"></a>
    Source: pkzsk.info  
    Title: Ранее это же зрелище наблюдали в  
-   Link: [https://pkzsk.info/na-severe-kazakhstana-videli-yarko-svetyashhiesya-obekty-v-atmosfere-net-povoda-dlya-paniki/](https://pkzsk.info/na-severe-kazakhstana-videli-yarko-svetyashhiesya-obekty-v-atmosfere-net-povoda-dlya-paniki/)  
+   Link: <a href="https://pkzsk.info/na-severe-kazakhstana-videli-yarko-svetyashhiesya-obekty-v-atmosfere-net-povoda-dlya-paniki/" target="_blank" rel="noopener noreferrer nofollow">https://pkzsk.info/na-severe-kazakhstana-videli-yarko-svetyashhiesya-obekty-v-atmosfere-net-povoda-dlya-paniki/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>На севере Казахстана видели ярко светящиеся объекты в атмосфере: нет повода для паникиJune 29, 2025 — Вечером 5 июня яркие огни в небе ви...</p></details>
    Published: June 29, 2025  
 
 24. <a id="endnote-24"></a>
    Source: ria.ru  
    Title: astronom 2021196100  
-   Link: [https://ria.ru/20250605/astronom-2021196100.html](https://ria.ru/20250605/astronom-2021196100.html)  
+   Link: <a href="https://ria.ru/20250605/astronom-2021196100.html" target="_blank" rel="noopener noreferrer nofollow">https://ria.ru/20250605/astronom-2021196100.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Астроном объяснил происхождение светящихся объектов над АстанойJune 5, 2025 — 22:35 05.06.2025 (обновлено: 03:03 06.06.2025) Астроном объ...</p></details>
    Published: June 5, 2025  

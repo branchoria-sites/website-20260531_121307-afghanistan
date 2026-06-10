@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /slovakia-b6c149-index/
 description: Focused pages that expand on What Is Really Behind Slovakia's UFO....
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Slovakia_b6c149
 parent_title: What Is Really Behind Slovakia's UFO...

@@ -1185,7 +1185,7 @@ next_link:
   title: Sudan UFOs
   permalink: /what-really-appeared-over-sudan/
   short_title: Sudan UFOs
-date: '2026-06-09 01:35:31 '
+date: '2026-06-10 02:02:02 '
 header:
   og_image: /assets/images/New_Zealand_3d3336-overview-social.jpg
   preview_image: /assets/images/New_Zealand_3d3336-overview.webp
@@ -1210,11 +1210,11 @@ The current official position is narrower than many UFO enthusiasts assume. In a
 
 New Zealand’s UFO history is best understood as a sequence of waves and landmark cases rather than as a single mystery. The cases most often cited are not equal in evidential value.
 
-The early “mystery airship” period belongs to the pre-saucer era. New Zealand Geographic’s long-form account describes a 1909 flap in which witnesses reported strange craft at a time when air travel was still novel and no airships were known to be flying in New Zealand. The same article notes that many reports came from apparently respectable witnesses and included daylight encounters, while researcher Murray Bott argued that several night sightings could not easily be reduced to Mars, Venus or Jupiter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies | New Zealand Geographic</span><span class="citation-popover-snippet">NZGeoCrowded skies | New Zealand Geographic...</span></span></span> This is historically interesting, but it is not strong physical evidence; it shows how local technology, press culture and witness interpretation shaped what people thought they saw.
+The early “mystery airship” period belongs to the pre-saucer era. New Zealand Geographic’s long-form account describes a 1909 flap in which witnesses reported strange craft at a time when air travel was still novel and no airships were known to be flying in New Zealand. The same article notes that many reports came from apparently respectable witnesses and included daylight encounters, while researcher Murray Bott argued that several night sightings could not easily be reduced to Mars, Venus or Jupiter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> This is historically interesting, but it is not strong physical evidence; it shows how local technology, press culture and witness interpretation shaped what people thought they saw.
 
 The 1959 Blenheim case, usually known through Eileen Moreland’s report, is more specific but still difficult to test. It appears in the official file description as a major component of AIR 244/10/1, alongside media requests and interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span> Later retellings describe a close daylight or early-morning encounter on a Marlborough farm, but the central evidence remains witness testimony rather than recoverable instrument data.
 
-The 1969 Ngatea “landing trace” case sits in the contested physical-evidence category. New Zealand Geographic recounts how a Hauraki Plains farmer noticed a bleached patch of manuka, after which local investigators measured three depressions arranged in a triangle and reported unusual damage to nearby vegetation. The account also reports claims of radioactivity in samples and dead spiders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies | New Zealand Geographic</span><span class="citation-popover-snippet">NZGeoCrowded skies | New Zealand Geographic...</span></span></span> Those details make the case vivid, but they also show the difficulty: without modern chain-of-custody controls, independent sampling, and transparent laboratory replication, the reported traces cannot carry the evidential weight that UFO advocates often place on them.
+The 1969 Ngatea “landing trace” case sits in the contested physical-evidence category. New Zealand Geographic recounts how a Hauraki Plains farmer noticed a bleached patch of manuka, after which local investigators measured three depressions arranged in a triangle and reported unusual damage to nearby vegetation. The account also reports claims of radioactivity in samples and dead spiders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> Those details make the case vivid, but they also show the difficulty: without modern chain-of-custody controls, independent sampling, and transparent laboratory replication, the reported traces cannot carry the evidential weight that UFO advocates often place on them.
 
 The 1972 Ashburton space-debris event is valuable precisely because it points away from UFO romance. It appears in the NZDF file description as a “Space Debris” report rather than as a simple unexplained craft case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span> In a national UFO archive, cases like this are essential: they show why investigators need to separate unknown-at-first from unknown-after-investigation.
 
@@ -1247,7 +1247,7 @@ A useful way to read New Zealand’s UFO material is to separate three categorie
 
 **Mostly explained or weak:** Many archive items are weak as evidence for extraordinary craft because they are letters, second-hand reports, press clippings, or sightings without enough detail to reconstruct direction, duration, weather, aircraft traffic, astronomical conditions and observer reliability. The 1972 Ashburton item being framed in the file description as space debris is a reminder that some dramatic sky events begin as UFO reports and end as ordinary aerospace debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span>
 
-The Ngatea case remains intriguing as a local physical-trace story, but it is not “confirmed landing evidence” in the strict sense. The New Zealand Geographic account preserves the claims of depressions, damaged vegetation and radioactivity, yet the report is retrospective and dependent on investigator accounts rather than a modern forensic record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies | New Zealand Geographic</span><span class="citation-popover-snippet">NZGeoCrowded skies | New Zealand Geographic...</span></span></span> Its value is historical and sociological as much as evidential.
+The Ngatea case remains intriguing as a local physical-trace story, but it is not “confirmed landing evidence” in the strict sense. The New Zealand Geographic account preserves the claims of depressions, damaged vegetation and radioactivity, yet the report is retrospective and dependent on investigator accounts rather than a modern forensic record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> Its value is historical and sociological as much as evidential.
 
 
 <img src="{{ "/assets/images/New_Zealand_3d3336-Illustration-2-dark.svg" | relative_url }}" alt="What New Zealand&#x27;s UFO Files Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1263,7 +1263,7 @@ The South Island aviation setting also matters. A pilot report is not automatica
 
 New Zealand’s UFO culture has never been only official. Private researchers and local groups played a major role in collecting reports, visiting sites and arguing over interpretations. The National Library record for *The Kaikoura UFO Controversy* identifies it as a New Zealand UFO Studies Centre special issue with contributors including J. F. De Bock, B. S. Maccabee and D. R. Wood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://natlib.govt.nz/records/22136409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natlib.govt.nz">[National Library of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natlib.govt.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This matters because the Kaikōura debate was not only pilots versus the air force; it became a technical argument involving UFO researchers, optical analysis and official science.
 
-At the same time, local scepticism has been a strong part of the New Zealand record. The New Zealand Geographic feature is unusually useful because it neither treats every UFO claim as proof nor dismisses the whole field as nonsense. It notes that UFO shapes appear to evolve with cultural expectations, from airships to rockets to flying discs and later delta-wing forms, and argues that some residual reports may point to poorly understood atmospheric phenomena rather than extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies | New Zealand Geographic</span><span class="citation-popover-snippet">NZGeoCrowded skies | New Zealand Geographic...</span></span></span>
+At the same time, local scepticism has been a strong part of the New Zealand record. The New Zealand Geographic feature is unusually useful because it neither treats every UFO claim as proof nor dismisses the whole field as nonsense. It notes that UFO shapes appear to evolve with cultural expectations, from airships to rockets to flying discs and later delta-wing forms, and argues that some residual reports may point to poorly understood atmospheric phenomena rather than extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span>
 
 The most productive reading is therefore not believer versus debunker. New Zealand’s record works best as a layered archive: public sightings, local investigators, official caution, media amplification, and sceptical re-analysis. Each layer adds information, but each also adds bias.
 
@@ -1291,86 +1291,44 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
 <img src="{{ "/assets/images/New_Zealand_3d3336-Illustration-3-dark.svg" | relative_url }}" alt="What New Zealand&#x27;s UFO Files Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What New Zealand&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What New Zealand&#x27;s UFO Files Really Show, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers international investigations and contemporary UAP debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding how evidence in cases such as KaikÅ�ura is assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Excellent fit for readers exploring official files and well-documented cases like KaikÅ�ura.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader interpretive context for recurring sighting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1404,75 +1362,71 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-t-shirt-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-t-shirt-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-t-shirt-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-t-shirt-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealands-ufo-files-really-show-what-new-zealand-s-ufo-files-really-show-new-zealand-ufo-poster-book-books-serie&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1687,101 +1641,101 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
 1. <a id="endnote-1"></a>
    Source: files.bluebookfiles.org  
    Title: 1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959  
-   Link: [https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf](https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nzdf.mil.nz  
    Title: OIA 2023 4763 UAP UFO USO  
-   Link: [https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf](https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf)  
+   Link: <a href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/NewZealandUFO](https://archive.org/details/NewZealandUFO)  
+   Link: <a href="https://archive.org/details/NewZealandUFO" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/NewZealandUFO</a>  
 
 4. <a id="endnote-4"></a>
    Source: nzgeo.com  
    Title: Crowded skies | New Zealand Geographic  
-   Link: [https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/](https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NZGeoCrowded skies | New Zealand Geographic...</p></details>
+   Link: <a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowded skies | New Zealand Geographic...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
 
 7. <a id="endnote-7"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
 
 9. <a id="endnote-9"></a>
    Source: odt.co.nz  
-   Link: [https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings](https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings)  
+   Link: <a href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: [https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights](https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
 11. <a id="endnote-11"></a>
    Source: natlib.govt.nz  
-   Link: [https://natlib.govt.nz/records/22136409](https://natlib.govt.nz/records/22136409)  
+   Link: <a href="https://natlib.govt.nz/records/22136409" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22136409</a>  
 
 12. <a id="endnote-12"></a>
    Source: natlib.govt.nz  
-   Link: [https://natlib.govt.nz/records/22979464](https://natlib.govt.nz/records/22979464)  
+   Link: <a href="https://natlib.govt.nz/records/22979464" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22979464</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/211497820250134/posts/1346088006791104/](https://www.facebook.com/groups/211497820250134/posts/1346088006791104/)  
+   Link: <a href="https://www.facebook.com/groups/211497820250134/posts/1346088006791104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1346088006791104/</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand  
-   Link: [https://www.youtube.com/watch?v=j9iyUHmHaEo](https://www.youtube.com/watch?v=j9iyUHmHaEo)  
+   Link: <a href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j9iyUHmHaEo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s above the SKIES in NEW ZEALAND? | The BIZARRE history of NZ UFOs...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/](https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/)  
+   Link: <a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/](https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/)  
+   Link: <a href="https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/](https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/](https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/)  
+   Link: <a href="https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/</a>  
 
 19. <a id="endnote-19"></a>
    Source: digitalnz.org  
-   Link: [https://digitalnz.org/records/22746872](https://digitalnz.org/records/22746872)  
+   Link: <a href="https://digitalnz.org/records/22746872" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/records/22746872</a>  
 
 20. <a id="endnote-20"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file](https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file)  
+   Link: <a href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file</a>  
 
 21. <a id="endnote-21"></a>
    Source: justapedia.org  
-   Link: [https://justapedia.org/wiki/Kaikoura_lights](https://justapedia.org/wiki/Kaikoura_lights)  
+   Link: <a href="https://justapedia.org/wiki/Kaikoura_lights" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Kaikoura_lights</a>  
 
 22. <a id="endnote-22"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0](https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0)  
+   Link: <a href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0</a>  
 
 23. <a id="endnote-23"></a>
    Source: sbs.com.au  
-   Link: [https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche](https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche)  
+   Link: <a href="https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche</a>  

@@ -239,7 +239,7 @@ next_link:
   permalink: /archives-c4cfaa/
   short_title: Archives
   heading_title: What Do Mexico's UFO Records Actually Show?
-date: '2026-06-09 01:33:35 '
+date: '2026-06-10 01:59:11 '
 header:
   og_image: /assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-1-social.jpg
   preview_image: /assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-1-s
 
 ## Introduction
 
-The total solar eclipse of 11 July 1991 was one of the most watched astronomical events in Mexican history. Millions of people across central [Mexico]({{ 'what-really-happened-in-mexicos-ufo/' | relative_url }}) looked skyward as daylight briefly faded, and many had cameras ready to record the spectacle. Within days, reports of unidentified metallic objects seen during the eclipse became a national sensation. Television programmes broadcast amateur videos, witnesses compared experiences, and a new wave of Mexican UFO interest emerged that would influence public discussion for years afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Mexico City UFO</span><span class="citation-popover-snippet">Guillermo Arragin, a reporter, and Jaime Maussan, a journalist, were videotaping the...Read more...</span></span></span>
+The total solar eclipse of 11 July 1991 was one of the most watched astronomical events in Mexican history. Millions of people across central Mexico looked skyward as daylight briefly faded, and many had cameras ready to record the spectacle. Within days, reports of unidentified metallic objects seen during the eclipse became a national sensation. Television programmes broadcast amateur videos, witnesses compared experiences, and a new wave of Mexican UFO interest emerged that would influence public discussion for years afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Mexico City UFO</span><span class="citation-popover-snippet">Guillermo Arragin, a reporter, and Jaime Maussan, a journalist, were videotaping the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-1-dark.svg" | relative_url }}" alt="1991 Eclipse illustration 1" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ Yet the same event also produced one of the most enduring sceptical explanations
 
 ## The Eclipse That Drew Mass Attention
 
-The 1991 eclipse crossed densely populated parts of Mexico and attracted enormous public interest. Unlike many UFO cases that rely on a small number of witnesses, this event unfolded before millions of observers who were already concentrating on the sky at the same moment. Cameras, camcorders, television crews, and amateur astronomers were all focused on the eclipse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Mexico City</span><span class="citation-popover-snippet">TimeMexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
+The 1991 eclipse crossed densely populated parts of Mexico and attracted enormous public interest. Unlike many UFO cases that rely on a small number of witnesses, this event unfolded before millions of observers who were already concentrating on the sky at the same moment. Cameras, camcorders, television crews, and amateur astronomers were all focused on the eclipse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Mexico City</span><span class="citation-popover-snippet">Mexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
 
 This setting created ideal conditions for unusual observations. During totality, the sky darkened enough for bright planets and stars to become visible. Objects that would normally go unnoticed in daylight suddenly stood out. Many observers were also using zoom lenses and video equipment that amplified small points of light into larger, more ambiguous shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Mexico04b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">UF O hotspot or hotair?</span><span class="citation-popover-snippet">UFO hotspot or hotair? - Tim Printy&#x27;sMexico city has been considered a UFO &quot;hotspot&quot; since the solar eclipse of 1991.... the solar eclip...</span></span></span>
 
@@ -312,7 +312,7 @@ The debate persisted because both believers and sceptics pointed to genuine feat
 
 Supporters emphasised that sightings were reported from multiple locations and that several videos appeared to show similar objects. They argued that independent witnesses reduced the likelihood of simple error. Some also claimed that the brightness and apparent shape of the objects were inconsistent with an ordinary planet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Mexico City UFO</span><span class="citation-popover-snippet">Guillermo Arragin, a reporter, and Jaime Maussan, a journalist, were videotaping the...Read more...</span></span></span>
 
-Another factor was timing. Because the reports emerged during a dramatic celestial event, many witnesses felt they had carefully observed what they were seeing rather than catching only a brief glimpse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Mexico City</span><span class="citation-popover-snippet">TimeMexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
+Another factor was timing. Because the reports emerged during a dramatic celestial event, many witnesses felt they had carefully observed what they were seeing rather than catching only a brief glimpse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Mexico City</span><span class="citation-popover-snippet">Mexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
 
 ### Arguments favouring Venus
 
@@ -340,92 +340,50 @@ The lasting significance of the 1991 eclipse sightings lies less in proving or d
 
 The case combines several elements that frequently appear in mass sighting episodes: a rare natural event, intense public attention, widespread recording technology, and an ambiguous visual target. The Venus explanation remains the dominant sceptical interpretation because it accounts for the object's position, brightness, and apparent lack of movement while also explaining the strange shapes seen on video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Mexico04b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">UF O hotspot or hotair?</span><span class="citation-popover-snippet">UFO hotspot or hotair? - Tim Printy&#x27;sMexico city has been considered a UFO &quot;hotspot&quot; since the solar eclipse of 1991.... the solar eclip...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Mexico04b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">UF O hotspot or hotair?</span><span class="citation-popover-snippet">UFO hotspot or hotair? - Tim Printy&#x27;sMexico city has been considered a UFO &quot;hotspot&quot; since the solar eclipse of 1991.... the solar eclip...</span></span></span>
 
-At the same time, the eclipse remains important within Mexican UFO culture because many witnesses continue to regard the recordings as evidence that something more than a planet was present. That unresolved disagreement is precisely why the 1991 eclipse remains one of Mexico's most discussed UFO episodes: it sits at the intersection of astronomy, media influence, eyewitness testimony, and the enduring challenge of interpreting unusual things seen in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Mexico City UFO</span><span class="citation-popover-snippet">Guillermo Arragin, a reporter, and Jaime Maussan, a journalist, were videotaping the...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Mexico City</span><span class="citation-popover-snippet">TimeMexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
+At the same time, the eclipse remains important within Mexican UFO culture because many witnesses continue to regard the recordings as evidence that something more than a planet was present. That unresolved disagreement is precisely why the 1991 eclipse remains one of Mexico's most discussed UFO episodes: it sits at the intersection of astronomy, media influence, eyewitness testimony, and the enduring challenge of interpreting unusual things seen in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Mexico City UFO</span><span class="citation-popover-snippet">Guillermo Arragin, a reporter, and Jaime Maussan, a journalist, were videotaping the...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Mexico City</span><span class="citation-popover-snippet">Mexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-3-dark.svg" | relative_url }}" alt="1991 Eclipse illustration 3" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_1991_eclipse_sightin_55f676-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Eclipse Spark UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Did the Eclipse Spark UFO Reports?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on witness reports and the interpretation of unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides broader context for major UFO waves and public fascination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how extraordinary sightings can emerge from cultural and observational contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Addresses misperception, extraordinary claims, and observational error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -459,75 +417,71 @@ At the same time, the eclipse remains important within Mexican UFO culture becau
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-eclipse-why-did-the-eclipse-spark-ufo-reports-mexico-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -742,86 +696,86 @@ At the same time, the eclipse remains important within Mexican UFO culture becau
 1. <a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Mexico UFO  
-   Link: [https://unsolved.com/gallery/mexico-ufo/](https://unsolved.com/gallery/mexico-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/mexico-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/mexico-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesMexico UFO - Unsolved MysteriesHundreds of people in Mexico City witness the same UFO during an eclipse. Read more abou...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: content.time.com  
    Title: Mexico City  
-   Link: [https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html](https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeMexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</p></details>
+   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072471%2C00.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico City - 6 UFO Hot Spots Around the World19 May 2011 — In Mexico City, people reported seeing much more than a rare celestial ev...</p></details>
    Published: May 2011  
 
 3. <a id="endnote-3"></a>
    Source: astronomyufo.com  
-   Link: [https://www.astronomyufo.com/UFO/mexico.htm](https://www.astronomyufo.com/UFO/mexico.htm)  
+   Link: <a href="https://www.astronomyufo.com/UFO/mexico.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/mexico.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>None given. UFO shown in daylight faintly. Later shows UFO in the dark. This is consistent with the visibility of Venus during the eclips...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: astronomyufo.com  
    Title: UF O hotspot or hotair?  
-   Link: [https://www.astronomyufo.com/UFO/Mexico04b.htm](https://www.astronomyufo.com/UFO/Mexico04b.htm)  
+   Link: <a href="https://www.astronomyufo.com/UFO/Mexico04b.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Mexico04b.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hotspot or hotair? - Tim Printy&#x27;sMexico city has been considered a UFO &quot;hotspot&quot; since the solar eclipse of 1991.... the solar eclip...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Mexico City UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO](https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Mexico_City_UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guillermo Arragin, a reporter, and Jaime Maussan, a journalist, were videotaping the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bdlunw/mexico_solar_eclipse_ufos_1991_footage_previously/](https://www.reddit.com/r/UFOs/comments/1bdlunw/mexico_solar_eclipse_ufos_1991_footage_previously/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditMexico Solar Eclipse UFOs: 1991 Footage (previously...March 13, 2024 — Jaime Maussan produced, directed and hosted Mexico&#x27;s editio...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bdlunw/mexico_solar_eclipse_ufos_1991_footage_previously/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bdlunw/mexico_solar_eclipse_ufos_1991_footage_previously/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico Solar Eclipse UFOs: 1991 Footage (previously...March 13, 2024 — Jaime Maussan produced, directed and hosted Mexico&#x27;s editio...</p></details>
    Published: March 13, 2024  
 
 7. <a id="endnote-7"></a>
    Source: deseret.com  
-   Link: [https://www.deseret.com/1997/12/6/19349951/where-s-e-t-in-mexico-maybe-for-ufo-session/](https://www.deseret.com/1997/12/6/19349951/where-s-e-t-in-mexico-maybe-for-ufo-session/)  
+   Link: <a href="https://www.deseret.com/1997/12/6/19349951/where-s-e-t-in-mexico-maybe-for-ufo-session/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/12/6/19349951/where-s-e-t-in-mexico-maybe-for-ufo-session/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsWhere&#x27;s E.T.? In Mexico, maybe, for UFO session6 Dec 1997 — It all stems from the eclipse of the sun on July 11, 1991, accord...</p></details>
    Published: July 11, 1991  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/](https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/199zbg6/mass_ufo_sighting_in_mexico_1991_captured_in_at/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass UFO sighting in Mexico, 1991 captured in at least six...TIL during a total eclipse on July 11, 1991 in Mexico City millions of peop...</p></details>
    Published: July 11, 1991  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: july 1991 eclipse mexico photo real or fake  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1nnqoka/july_1991_eclipse_mexico_photo_real_or_fake/](https://www.reddit.com/r/Astronomy/comments/1nnqoka/july_1991_eclipse_mexico_photo_real_or_fake/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1nnqoka/july_1991_eclipse_mexico_photo_real_or_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1nnqoka/july_1991_eclipse_mexico_photo_real_or_fake/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;July 1991 Eclipse (Mexico) Photo - Real or Fake?I found this photo over on r/HistoryPorn [https://www.reddit.com/r/HistoryPorn/s/uTbCD6eEM...&quot;](https://www.reddit.com/r/HistoryPorn/s/uTbCD6eEM...&quot;)...</p></details>
    Published: july 1991  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Unexplained Signs Of Alien Life Scientists Discovered In Mexico  
-   Link: [https://www.youtube.com/watch?v=Ow23xndxIY8](https://www.youtube.com/watch?v=Ow23xndxIY8)  
+   Link: <a href="https://www.youtube.com/watch?v=Ow23xndxIY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ow23xndxIY8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican UFO...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mexican UFO  
-   Link: [https://www.youtube.com/watch?v=xWYQRJmx1fs](https://www.youtube.com/watch?v=xWYQRJmx1fs)  
+   Link: <a href="https://www.youtube.com/watch?v=xWYQRJmx1fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWYQRJmx1fs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious UFOs Filmed Over Mexico | Mexico Contact Point | Full Documentary...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bycartography.com  
    Title: Cartography Lights in the Sky  
-   Link: [https://bycartography.com/en/stories/lights-in-the-sky/](https://bycartography.com/en/stories/lights-in-the-sky/)  
+   Link: <a href="https://bycartography.com/en/stories/lights-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://bycartography.com/en/stories/lights-in-the-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CartographyLights in the Sky - CartographyMaussan assured viewers that the recordings had been made by different people in various Mexica...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Jaime Maussan  
-   Link: [https://en.wikipedia.org/wiki/Jaime_Maussan](https://en.wikipedia.org/wiki/Jaime_Maussan)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jaime_Maussan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jaime_Maussan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaime MaussanJosé Jaime Maussan Flota (born 31 May 1953) is a Mexican journalist, television personality, and ufologist. He has promot...</p></details>
    Published: May 1953  
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXpeayak0hk/](https://www.instagram.com/reel/DXpeayak0hk/)  
+   Link: <a href="https://www.instagram.com/reel/DXpeayak0hk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXpeayak0hk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 11, 1991, remains one of the...This rare celestial alignment plunged the region into a premature twilight for nearly seven minutes...</p></details>
    Published: July 11, 1991  
 
@@ -830,54 +784,54 @@ At the same time, the eclipse remains important within Mexican UFO culture becau
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: during mexicos longest solar eclipse in 1991 eyewitnesses captured ufos flying t  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/](https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/during-mexicos-longest-solar-eclipse-in-1991-eyewitnesses-captured-ufos-flying-t/1036757588653673/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During Mexico&#x27;s longest solar eclipse in 1991...OCCULT UAPs: Mexico City 1991 Solar Eclipse Exposed Multiple Apparent UFOs to Video Camc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7p4spday5cs](https://www.youtube.com/watch?v=7p4spday5cs)  
+   Link: <a href="https://www.youtube.com/watch?v=7p4spday5cs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7p4spday5cs</a>  
 
 17. <a id="endnote-17"></a>
    Source: jasoncolavito.com  
    Title: on nasa scientist richard stotherss evaluation of roman ufo sightings  
-   Link: [https://www.jasoncolavito.com/blog/on-nasa-scientist-richard-stotherss-evaluation-of-roman-ufo-sightings](https://www.jasoncolavito.com/blog/on-nasa-scientist-richard-stotherss-evaluation-of-roman-ufo-sightings)  
+   Link: <a href="https://www.jasoncolavito.com/blog/on-nasa-scientist-richard-stotherss-evaluation-of-roman-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/on-nasa-scientist-richard-stotherss-evaluation-of-roman-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On NASA Scientist Richard Stothers&#x27;s Evaluation of Roman...5 Mar 2015 — On Friday&#x27;s edition of Ancient Aliens the show claimed that NASA...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mydarkpath.com  
-   Link: [https://www.mydarkpath.com/51-mexicanufo](https://www.mydarkpath.com/51-mexicanufo)  
+   Link: <a href="https://www.mydarkpath.com/51-mexicanufo" target="_blank" rel="noopener noreferrer nofollow">https://www.mydarkpath.com/51-mexicanufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In Mexico, a UFO is known as an OVNI [pronounced Ov-nee], an acronym for “Objeto Volador No...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: atlasobscura.com  
    Title: how one man has explained almost every internet ufo theory  
-   Link: [https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory](https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory)  
+   Link: <a href="https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/how-one-man-has-explained-almost-every-internet-ufo-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How One Man Has Explained Almost Every Internet UFO...6 Jun 2016 — (In the video above, which shows the so-called “Zig-Zag UFO” from STS...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/vidsou.htm](https://ufologie.patrickgross.org/htm/vidsou.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/vidsou.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/vidsou.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at close sight: South American footageThis piece of footage was recorded during 1991 in Mexico by an unknown cameraman...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mexiconewsdaily.com  
    Title: mexico attracts people from outer space as well  
-   Link: [https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/](https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/)  
+   Link: <a href="https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/" target="_blank" rel="noopener noreferrer nofollow">https://mexiconewsdaily.com/mexico-living/mexico-attracts-people-from-outer-space-as-well/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico attracts people not only of this world, but from outer...5 Sept 2020 — By far, the best-known is Jaime Maussan, who has hosted a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/](https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/)  
+   Link: <a href="https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>arent UFO cases ever. Mexico City Eclipse Sightings (1991...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wearemitu.com  
-   Link: [https://wearemitu.com/wearemitu/news/mexico-ufo-sightings/](https://wearemitu.com/wearemitu/news/mexico-ufo-sightings/)  
+   Link: <a href="https://wearemitu.com/wearemitu/news/mexico-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wearemitu.com/wearemitu/news/mexico-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico Ranks 6 in the World for UFO SightingsJul 26, 2023 — The infamous Mexico City UFO incident of 1991 offers a fascinating starting p...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: UF Os Spotted During Mexico's Solar Eclipse  
-   Link: [https://www.facebook.com/TheUnXplainedZone/videos/ufos-spotted-during-mexicos-solar-eclipse-ufo-files/698038269773420/](https://www.facebook.com/TheUnXplainedZone/videos/ufos-spotted-during-mexicos-solar-eclipse-ufo-files/698038269773420/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/videos/ufos-spotted-during-mexicos-solar-eclipse-ufo-files/698038269773420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/ufos-spotted-during-mexicos-solar-eclipse-ufo-files/698038269773420/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Spotted During Mexico&#x27;s Solar Eclipse - FacebookJuly 10, 2025 — During Mexico&#x27;s longest solar eclipse in 1991, eyewitnesses captured...</p></details>
    Published: July 10, 2025  

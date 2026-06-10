@@ -245,7 +245,7 @@ next_link:
   permalink: /yopougon-case/
   short_title: Yopougon Case
   heading_title: Was Yopougon 2011 a UFO Case?
-date: '2026-06-09 01:24:47 '
+date: '2026-06-10 01:49:21 '
 header:
   og_image: /assets/images/Cote_d_Ivoire_f8cb1a_ufo_misidentificatio_aa312a-Illustration-1-social.jpg
   preview_image: /assets/images/Cote_d_Ivoire_f8cb1a_ufo_misidentificatio_aa312a-Illustration-1.webp
@@ -285,7 +285,7 @@ Similarly, bright celestial objects such as Venus can appear unusually large or 
 
 ### Why satellites increasingly matter in African UFO reports
 
-One major modern source of confusion is the visibility of satellite constellations, especially Starlink. These satellites often appear as bright moving chains or “trains” of lights crossing the sky in sequence. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</span></span></span> The effect is dramatic enough that pilots, journalists, and members of the public repeatedly mistake them for unknown craft. Recent aviation and astronomy research has documented how Starlink formations have generated UFO reports across multiple regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Airline Pilots Couldn&#x27;t Stop Seeing UFOs. Turns Out They Were Just Starlink Satellites. · Researchers use...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+One major modern source of confusion is the visibility of satellite constellations, especially Starlink. These satellites often appear as bright moving chains or “trains” of lights crossing the sky in sequence. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</span></span></span> The effect is dramatic enough that pilots, journalists, and members of the public repeatedly mistake them for unknown craft. Recent aviation and astronomy research has documented how Starlink formations have generated UFO reports across multiple regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Airline Pilots Couldn&#x27;t Stop Seeing UFOs. Turns Out They Were Just Starlink Satellites. · Researchers use...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 This matters for Côte d’Ivoire because the country sits within viewing ranges regularly crossed by low-Earth-orbit satellites visible shortly after sunset or before dawn. A viewer unfamiliar with satellite trains may interpret:
 
@@ -300,7 +300,7 @@ This matters for Côte d’Ivoire because the country sits within viewing ranges
 
 In reality, satellites often vanish abruptly when they move out of reflected sunlight and into Earth’s shadow. To a casual observer, this looks like an object instantly cloaking or shooting away.
 
-Reports from elsewhere in Africa show the same confusion pattern. Viral clips from Zambia, Kenya, and Nigeria have frequently been framed online as UFO events despite matching known satellite behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/10luu7r/four_luminous_ufos_are_filmed_in_lusaka_zambia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditFour luminous UFOs are filmed in Lusaka, Zambia, South...January 26, 2023 — On January 20, 2023, a UFO sighting was reported in Lu...</span><span class="citation-popover-meta">Published: January 26, 2023</span></span></span> The important point is not that every African sighting is solved, but that the same visual misunderstandings recur across different countries.
+Reports from elsewhere in Africa show the same confusion pattern. Viral clips from Zambia, Kenya, and Nigeria have frequently been framed online as UFO events despite matching known satellite behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/10luu7r/four_luminous_ufos_are_filmed_in_lusaka_zambia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Four luminous UFOs are filmed in Lusaka, Zambia, South...January 26, 2023 — On January 20, 2023, a UFO sighting was reported in Lu...</span><span class="citation-popover-meta">Published: January 26, 2023</span></span></span> The important point is not that every African sighting is solved, but that the same visual misunderstandings recur across different countries.
 
 ### Aircraft lights and “hovering” objects
 
@@ -443,7 +443,7 @@ A heavily compressed light source can therefore appear to “morph” or “chan
 
 Debunking a sighting does not automatically mean witnesses were lying. Human perception is not designed for precise astronomical interpretation under poor conditions.
 
-Research on visual cognition and perception errors shows that expectation, ambiguity, stress, and rarity all affect interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFailures of Perception in the Low-Prevalence Effect</span><span class="citation-popover-snippet">PMC - NIHby MC Hout · 2015 · Cited by 150 — These results strongly argue that low-prevalence misses represent failures of perception when...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/36695509.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Patterns of error perceptual and cognitive bias in...by LC Jones · 2005 · Cited by 9 — The search for answers to these questions is more...</span></span></span> When observers encounter an unfamiliar light in the sky:
+Research on visual cognition and perception errors shows that expectation, ambiguity, stress, and rarity all affect interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFailures of Perception in the Low-Prevalence Effect</span><span class="citation-popover-snippet">NIHby MC Hout · 2015 · Cited by 150 — These results strongly argue that low-prevalence misses represent failures of perception when...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/36695509.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Patterns of error perceptual and cognitive bias in...by LC Jones · 2005 · Cited by 9 — The search for answers to these questions is more...</span></span></span> When observers encounter an unfamiliar light in the sky:
 
 * distance estimation becomes unreliable;
 * speed is hard to judge;
@@ -463,7 +463,7 @@ Before treating an Ivorian sky video as genuinely anomalous, several ordinary ex
 * Was the footage shot toward the sun?
 * Is there visible digital zoom?
 * Could the timing match aircraft arrivals or departures?
-* Were Starlink satellites visible that evening? <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[news.sky.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">starlink satellites leads to ufo reports 12297446</span><span class="citation-popover-snippet">satellites leads to UFO reports | World NewsThe string of lights were determined to be Starlink satellites launched by SpaceX...</span></span></span>
+* Were Starlink satellites visible that evening? <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[news.sky.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">starlink satellites leads to ufo reports 12297446</span><span class="citation-popover-snippet">satellites leads to UFO reports &#124; World NewsThe string of lights were determined to be Starlink satellites launched by SpaceX...</span></span></span>
 * Did the object disappear gradually or instantly into shadow?
 * Is the apparent movement actually camera shake?
 * Does the object move independently of the camera frame?
@@ -503,86 +503,44 @@ That does not make the reports culturally unimportant. They reveal how people in
 In practice, most Ivorian UFO claims become less mysterious once ordinary optical, astronomical, and technological explanations are examined carefully.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Are People Seeing in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Are People Seeing in the Sky?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly addresses misidentification, extraordinary claims, and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Explains why people perceive patterns and meanings in ambiguous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Covers common categories of sightings and mistaken identifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Useful for understanding belief, rumors, and unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -616,75 +574,71 @@ In practice, most Ivorian UFO claims become less mysterious once ordinary optica
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-what-are-people-seeing-in-the-sky-cote-d-ivoire-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -898,179 +852,179 @@ In practice, most Ivorian UFO claims become less mysterious once ordinary optica
 
 1. <a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>gs cannot be assess. Around 7 % of the sightings...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ication or by some perception mistake.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellites: Facts, tracking and impact on astronomyMay 5, 2026 — 5 May 2026 — The satellites can appear as a string of pear...</p></details>
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomyMay 5, 2026 — 5 May 2026 — The satellites can appear as a string of pear...</p></details>
    Published: May 5, 2026  
 
 4. <a id="endnote-4"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/](https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/)  
+   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/10luu7r/four_luminous_ufos_are_filmed_in_lusaka_zambia/](https://www.reddit.com/r/HighStrangeness/comments/10luu7r/four_luminous_ufos_are_filmed_in_lusaka_zambia/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditFour luminous UFOs are filmed in Lusaka, Zambia, South...January 26, 2023 — On January 20, 2023, a UFO sighting was reported in Lu...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10luu7r/four_luminous_ufos_are_filmed_in_lusaka_zambia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10luu7r/four_luminous_ufos_are_filmed_in_lusaka_zambia/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Four luminous UFOs are filmed in Lusaka, Zambia, South...January 26, 2023 — On January 20, 2023, a UFO sighting was reported in Lu...</p></details>
    Published: January 26, 2023  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2205176794/posts/10160954591481795/](https://www.facebook.com/groups/2205176794/posts/10160954591481795/)  
+   Link: <a href="https://www.facebook.com/groups/2205176794/posts/10160954591481795/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2205176794/posts/10160954591481795/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 October at around 1845Hrs in East Africa. UFO sighting...24 October at around 1845Hrs in East Africa. UFO sighting Nairobi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFailures of Perception in the Low-Prevalence Effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5543182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5543182/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MC Hout · 2015 · Cited by 150 — These results strongly argue that low-prevalence misses represent failures of perception when...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5543182/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MC Hout · 2015 · Cited by 150 — These results strongly argue that low-prevalence misses represent failures of perception when...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/36695509.pdf](https://core.ac.uk/download/pdf/36695509.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/36695509.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/36695509.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patterns of error perceptual and cognitive bias in...by LC Jones · 2005 · Cited by 9 — The search for answers to these questions is more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: news.sky.com  
    Title: starlink satellites leads to ufo reports 12297446  
-   Link: [https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446](https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446)  
+   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites leads to UFO reports | World NewsThe string of lights were determined to be Starlink satellites launched by SpaceX...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/](https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/)  
+   Link: <a href="https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Africa. Jody Helmsman...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mealtimevideos/comments/mcfqj6/in_1994_a_ufo_allegedly_landed_at_a_school_in/](https://www.reddit.com/r/mealtimevideos/comments/mcfqj6/in_1994_a_ufo_allegedly_landed_at_a_school_in/)  
+   Link: <a href="https://www.reddit.com/r/mealtimevideos/comments/mcfqj6/in_1994_a_ufo_allegedly_landed_at_a_school_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mealtimevideos/comments/mcfqj6/in_1994_a_ufo_allegedly_landed_at_a_school_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruwa...... Africa...lol...give me a break....there lying brats... I saw what could only be explained as a UFO and an alien being in the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: space.com  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is often mistaken for UFOs be...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YiFhAkH-I5s](https://www.youtube.com/watch?v=YiFhAkH-I5s)  
+   Link: <a href="https://www.youtube.com/watch?v=YiFhAkH-I5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YiFhAkH-I5s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n Çorum How can you watch Sözcü Television?...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/xdl2eKen_BA](https://www.youtube.com/shorts/xdl2eKen_BA)  
+   Link: <a href="https://www.youtube.com/shorts/xdl2eKen_BA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/xdl2eKen_BA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Explained: Starlink Satellites or Something...I believe they&#x27;re starlink satellites but every once in a while you&#x27;ll see a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: My UFO Mistake  
-   Link: [https://www.youtube.com/watch?v=_YIS16GfzfQ](https://www.youtube.com/watch?v=_YIS16GfzfQ)  
+   Link: <a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YIS16GfzfQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Jupiter and Venus 'could be mistaken for UFOs'  
-   Link: [https://www.youtube.com/watch?v=P-ymwG9mDhE](https://www.youtube.com/watch?v=P-ymwG9mDhE)  
+   Link: <a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SHOCKING Math Error Behind Viral UFO Videos | Mick West...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The SHOCKING Math Error Behind Viral UFO Videos | Mick West  
-   Link: [https://www.youtube.com/watch?v=ypfbhfEXnBo](https://www.youtube.com/watch?v=ypfbhfEXnBo)  
+   Link: <a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypfbhfEXnBo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over India DEBUNK...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Over India DEBUNK  
-   Link: [https://www.youtube.com/watch?v=uuhkVTJ6A_c](https://www.youtube.com/watch?v=uuhkVTJ6A_c)  
+   Link: <a href="https://www.youtube.com/watch?v=uuhkVTJ6A_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uuhkVTJ6A_c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in the Sky | Chasing UFOs...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Lights in the Sky | Chasing UFOs  
-   Link: [https://www.youtube.com/watch?v=SX43D0_i6Rs](https://www.youtube.com/watch?v=SX43D0_i6Rs)  
+   Link: <a href="https://www.youtube.com/watch?v=SX43D0_i6Rs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SX43D0_i6Rs</a>  
 
 21. <a id="endnote-21"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: [https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/](https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/)  
+   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Airline Pilots Couldn&#x27;t Stop Seeing UFOs. Turns Out They Were Just Starlink Satellites. · Researchers use...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/11/us-news/broken-starlink-satellite-mistaken-for-ongoing-meteor-shower-after-creating-fireworks-display-across-several-us-states/](https://nypost.com/2024/11/11/us-news/broken-starlink-satellite-mistaken-for-ongoing-meteor-shower-after-creating-fireworks-display-across-several-us-states/)  
+   Link: <a href="https://nypost.com/2024/11/11/us-news/broken-starlink-satellite-mistaken-for-ongoing-meteor-shower-after-creating-fireworks-display-across-several-us-states/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/11/us-news/broken-starlink-satellite-mistaken-for-ongoing-meteor-shower-after-creating-fireworks-display-across-several-us-states/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it was later identified as a human-made phenomenon—a SpaceX Starlink satellite re-entering Earth&#x27;s atmosphere. Reports of the ev...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c](https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c)  
+   Link: <a href="https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c</a>  
 
 24. <a id="endnote-24"></a>
    Source: arstechnica.com  
    Title: a lot of people are mistaking elon musks starlink satellites for uaps  
-   Link: [https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)  
+   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — SpaceX&#x27;s Starlink Internet satellites are responsible for...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchers.westernsydney.edu.au  
    Title: two sources of bias explain errors in facial age estimation  
-   Link: [https://researchers.westernsydney.edu.au/en/publications/two-sources-of-bias-explain-errors-in-facial-age-estimation/](https://researchers.westernsydney.edu.au/en/publications/two-sources-of-bias-explain-errors-in-facial-age-estimation/)  
+   Link: <a href="https://researchers.westernsydney.edu.au/en/publications/two-sources-of-bias-explain-errors-in-facial-age-estimation/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.westernsydney.edu.au/en/publications/two-sources-of-bias-explain-errors-in-facial-age-estimation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sources of bias explain errors in facial age estimationby CWG Clifford · 2018 · Cited by 60 — Here, we present the first systematic test...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: zmescience.com  
    Title: elon musks starlink satellites are triggering a ufo craze  
-   Link: [https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/](https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/)  
+   Link: <a href="https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk&#x27;s Starlink satellites are triggering a &quot;UFO&quot; craze24 May 2021 — While seeing these satellites in the sky can be an exciting exp...</p></details>
    Published: May 2021  
 
 27. <a id="endnote-27"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports surge after Elon Musk launches &#x27;eerie&#x27; satellite...20 Apr 2020 — The launch of the Starlink satellites, which are designed t...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: inquirer.com  
    Title: Starlink satellites look strange, but they're not UFOs  
-   Link: [https://www.inquirer.com/news/philadelphia/starlink-satellite-train-philadelphia-area-elon-musk-20230922.html](https://www.inquirer.com/news/philadelphia/starlink-satellite-train-philadelphia-area-elon-musk-20230922.html)  
+   Link: <a href="https://www.inquirer.com/news/philadelphia/starlink-satellite-train-philadelphia-area-elon-musk-20230922.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirer.com/news/philadelphia/starlink-satellite-train-philadelphia-area-elon-musk-20230922.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Sept 2023 — “Convinced the kids it was aliens,” she wrote. As any good parent should. Incidentally, she was correct — about Starlink...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
    Title: Key Point 4 Scientific methods guide analysis. GEIPAN  
-   Link: [https://www.linkedin.com/posts/uap-news-wire_france-runs-one-of-the-longest-continuous-activity-7422582108898091008-SA57](https://www.linkedin.com/posts/uap-news-wire_france-runs-one-of-the-longest-continuous-activity-7422582108898091008-SA57)  
+   Link: <a href="https://www.linkedin.com/posts/uap-news-wire_france-runs-one-of-the-longest-continuous-activity-7422582108898091008-SA57" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/uap-news-wire_france-runs-one-of-the-longest-continuous-activity-7422582108898091008-SA57</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s GEIPAN program: transparent UAP research with...Why it matters Observer quality reduces errors tied to perception or lack of te...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRRp5uoCdFQ/](https://www.instagram.com/reel/DRRp5uoCdFQ/)  
+   Link: <a href="https://www.instagram.com/reel/DRRp5uoCdFQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRp5uoCdFQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ot UFOs!... Starlink is having more trouble in southern Africa🛰️...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: [https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage](https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage)  
+   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: popsci.com  
    Title: Popular Science You didn't see a UFO  
-   Link: [https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/](https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/)  
+   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — &#x27; No, it&#x27;s just a meteor, because it blew up in only two seconds. Or: &#x27;Is this a UFO?&#x27;...</p></details>

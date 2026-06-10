@@ -239,7 +239,7 @@ next_link:
   permalink: /sky-checks-f62059/
   short_title: Sky Checks
   heading_title: Why Nauru's Sky Can Fool Witnesses
-date: '2026-06-09 01:35:12 '
+date: '2026-06-10 02:01:41 '
 header:
   og_image: /assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1-social.jpg
   preview_image: /assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1.webp
@@ -248,17 +248,17 @@ image: /assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1-so
 
 ## Introduction
 
-The most defensible conclusion about [Nauru]({{ 'what-do-nauru-ufo-reports-really-show/' | relative_url }})’s presence in UFO databases is also the least dramatic: the island appears in at least one NUFORC-linked statistical source, but those database mentions do not, on their own, establish a verified Nauruan UFO incident. The available record is extremely thin, and some apparent Nauru references become less reliable when traced back to their source entries. That makes Nauru a useful case study in how UFO databases should be read.
+The most defensible conclusion about Nauru’s presence in UFO databases is also the least dramatic: the island appears in at least one NUFORC-linked statistical source, but those database mentions do not, on their own, establish a verified Nauruan UFO incident. The available record is extremely thin, and some apparent Nauru references become less reliable when traced back to their source entries. That makes Nauru a useful case study in how UFO databases should be read.
 
 
 <img src="{{ "/assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1-dark.svg" | relative_url }}" alt="Database Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers, the value of a database entry is not that it proves an event occurred exactly as reported. Its value is that it preserves a lead. In Nauru’s case, the distinction between a lead and evidence is crucial because the public trail contains only a handful of references, limited case detail, and at least one example showing how location-related indexing can create misleading impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=151165" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 151165August 20, 2023 — NUFORC UFO Sighting 151165; Occurred: 2019-11-20 19:00 Local; Reported: 2019-11-29 20...</span><span class="citation-popover-meta">Published: November 20, 2019</span></span></span>
+For researchers, the value of a database entry is not that it proves an event occurred exactly as reported. Its value is that it preserves a lead. In Nauru’s case, the distinction between a lead and evidence is crucial because the public trail contains only a handful of references, limited case detail, and at least one example showing how location-related indexing can create misleading impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=151165" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 151165August 20, 2023 — NUFORC UFO Sighting 151165; Occurred: 2019-11-20 19:00 Local; Reported: 2019-11-29 20...</span><span class="citation-popover-meta">Published: November 20, 2019</span></span></span>
 
 ## What Do Nauru's Database Mentions Prove?
 
 A frequently cited reference point is a cross-national UFO reporting table that lists Nauru among countries appearing in a broader NUFORC-derived dataset. The table attributes two reports to Nauru, placing it within a global comparison of reported sightings rather than presenting a detailed national case history. What it demonstrates is that Nauru entered a reporting database. What it does not demonstrate is that investigators confirmed two unusual aerial events on the island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Preliminary Analysis of Historical UFO Report Data</span><span class="citation-popover-snippet">reports from the National UFO Reporting Center (NUFORC) database. offers preliminary answers to several key questions regarding unidentif...</span></span></span>
 
-That distinction matters because NUFORC is fundamentally a public reporting system. Witnesses submit accounts through online forms, telephone reports and other channels, and the resulting database contains reports of varying quality and completeness. NUFORC itself describes its role as collecting and disseminating witness reports rather than certifying that every report represents an objectively unexplained phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+That distinction matters because NUFORC is fundamentally a public reporting system. Witnesses submit accounts through online forms, telephone reports and other channels, and the resulting database contains reports of varying quality and completeness. NUFORC itself describes its role as collecting and disseminating witness reports rather than certifying that every report represents an objectively unexplained phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 For a country as small as Nauru, even a tiny database count can appear significant. Yet a statistical entry without supporting documentation leaves several unanswered questions:
 
@@ -290,7 +290,7 @@ The problem becomes even sharper in microstates such as Nauru. With a population
 
 One of the most important reliability issues surrounding Nauru-related database references is the possibility of location mismatches.
 
-An often-circulated example connected to Nauru references an “amber lights” sighting associated in some secondary listings with wording mentioning Nauru International Airport. However, the underlying NUFORC entry itself identifies the location as Tonopah, Nevada, United States. The report describes several amber lights appearing and fading over roughly ten seconds and was filed as a Nevada sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+An often-circulated example connected to Nauru references an “amber lights” sighting associated in some secondary listings with wording mentioning Nauru International Airport. However, the underlying NUFORC entry itself identifies the location as Tonopah, Nevada, United States. The report describes several amber lights appearing and fading over roughly ten seconds and was filed as a Nevada sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 This does not necessarily mean the original NUFORC record is wrong. Instead, it illustrates how errors can emerge when data are copied, scraped, reformatted or indexed by third-party websites. A location keyword, airport reference, metadata field or automated parsing process can sometimes cause a report to appear connected to a place that was not actually the reported sighting location.
 
@@ -305,7 +305,7 @@ Several common failure points appear repeatedly in UFO datasets:
 * **Automated geocoding errors:** software assigns coordinates based on incomplete location data.
 * **Duplicate imports:** the same case appears in multiple databases under slightly different labels.
 * **Country-level aggregation mistakes:** records become attached to the wrong national category during large-scale data processing.
-* **Incomplete metadata:** crucial contextual information is missing when a database is exported or reformatted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
+* **Incomplete metadata:** crucial contextual information is missing when a database is exported or reformatted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
 
 </div>
 
@@ -384,86 +384,44 @@ For researchers trying to understand Nauru's UFO history, the database trail rem
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Nauru&#x27;s Database Mentions Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Nauru&#x27;s Database Mentions Prove?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong match for database entries, classifications, and case quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contrasts documented cases with weaker database references.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Directly relevant to database reliability and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Useful for understanding cataloging and historical case records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -497,75 +455,71 @@ For researchers trying to understand Nauru's UFO history, the database trail rem
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Pin Gerry Anderson TV Series Logo Enamel Lapel Tie Tac Pin ðŸ‡¬ðŸ‡§ Seller"><img src="{{ '/assets/images/marketplace-covers/b8551e5aa90e5637a633.jpg' | relative_url }}" alt="Listing image for UFO SHADO Pin Gerry Anderson TV Series Logo Enamel Lapel Tie Tac Pin ðŸ‡¬ðŸ‡§ Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Pin Gerry Anderson TV Series Logo Enamel Lapel Tie Tac Pin ðŸ‡¬ðŸ‡§ Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo pin" data-ebay-reference="database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-trail-what-do-nauru-s-database-mentions-prove-nauru-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -779,148 +733,148 @@ For researchers trying to understand Nauru's UFO history, the database trail rem
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=151165](https://nuforc.org/sighting/?id=151165)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 151165August 20, 2023 — NUFORC UFO Sighting 151165; Occurred: 2019-11-20 19:00 Local; Reported: 2019-11-29 20...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=151165" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=151165</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 151165August 20, 2023 — NUFORC UFO Sighting 151165; Occurred: 2019-11-20 19:00 Local; Reported: 2019-11-29 20...</p></details>
    Published: November 20, 2019  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A Preliminary Analysis of Historical UFO Report Data  
-   Link: [https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data](https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data)  
+   Link: <a href="https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports from the National UFO Reporting Center (NUFORC) database. offers preliminary answers to several key questions regarding unidentif...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureLooking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — Figure 1 shows the monthly number of...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — Figure 1 shows the monthly number of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2218-1997/11/10/326](https://www.mdpi.com/2218-1997/11/10/326)  
+   Link: <a href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-1997/11/10/326</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Reliability Scale for Assessing Reports of...by D Schulze-Makuch · 2025 — Hundreds of thousands of sightings have been reported...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 198. 2026/04, 213. 2026/03, 201. 2026/02, 178. 2026/01, 284. 2025/12...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 675. USA - Alabama, 1523. USA - Arkansas, 1363. U...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — The site operates with a small, largely anonymous team, with little public insight into the review proce...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it investigated in 2023, 31% could not be conclusively explained due to...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencenews.org  
    Title: scientists serious ufo uap security  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists are getting serious about UFOs. Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as unexplained anomalous phenomena, or UAPs, a...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:Instead of reporting to UFO data collection centers, we concur with the NASA UAP Independent Study Team&#x27;s recommen...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: refugeecouncil.org.au  
-   Link: [https://www.refugeecouncil.org.au/operation-sovereign-borders-offshore-detention-statistics/](https://www.refugeecouncil.org.au/operation-sovereign-borders-offshore-detention-statistics/)  
+   Link: <a href="https://www.refugeecouncil.org.au/operation-sovereign-borders-offshore-detention-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.refugeecouncil.org.au/operation-sovereign-borders-offshore-detention-statistics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Offshore processing statisticsHow many people are in Nauru or Manus Island as part of Australia&#x27;s offshore processing policy? Find the ke...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/](https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/)  
+   Link: <a href="https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[OC] UFO Reports in the Contiguous United StatesThe worldwide map of UFO reports was here a few days ago, and it showed a clear preferenc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNote that while this is a crowdsourced database compiled from the reports of hundreds of thousands...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/66381885/A_Preliminary_Analysis_of_Historical_UFO_Report_Data](https://www.academia.edu/66381885/A_Preliminary_Analysis_of_Historical_UFO_Report_Data)  
+   Link: <a href="https://www.academia.edu/66381885/A_Preliminary_Analysis_of_Historical_UFO_Report_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/66381885/A_Preliminary_Analysis_of_Historical_UFO_Report_Data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5 plots the relative frequency of four of the UFO shapes: disks, triangles, cigars...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: militarytimes.com  
    Title: ufo sightings linked to military training locations report finds  
-   Link: [https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/](https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/)  
+   Link: <a href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>civilians were located within 18 miles of a military operations area. Using publicly available data from the National UFO Reporting Cente...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: steeped.ai  
    Title: ufo sightings data analysis exploring tier 1 reports  
-   Link: [https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/](https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/)  
+   Link: <a href="https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/" target="_blank" rel="noopener noreferrer nofollow">https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data Analysis: Exploring 1500+ Tier 1 ReportsJan 21, 2026 — This round, we completed a Steeped Dive on the National UFO Rep...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseThis analysis suggests that orange, white, and red are the most frequently observed colors in the reported UFO sightings, accordi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: washingtonpost.com  
    Title: stop ufo mania no evidence of aliens  
-   Link: [https://www.washingtonpost.com/magazine/2021/08/11/stop-ufo-mania-no-evidence-of-aliens/](https://www.washingtonpost.com/magazine/2021/08/11/stop-ufo-mania-no-evidence-of-aliens/)  
+   Link: <a href="https://www.washingtonpost.com/magazine/2021/08/11/stop-ufo-mania-no-evidence-of-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/magazine/2021/08/11/stop-ufo-mania-no-evidence-of-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mania Is Out of Control. Please Stop.11 Aug 2021 — The alien explanation for UFOs requires a massive infrastructure of... The issue...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsIdentifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of t...</p></details>

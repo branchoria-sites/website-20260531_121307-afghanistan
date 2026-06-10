@@ -1180,7 +1180,7 @@ next_link:
   title: Albanian UFOs
   permalink: /albania/
   short_title: Albanian UFOs
-date: '2026-06-09 01:09:24 '
+date: '2026-06-10 01:34:19 '
 header:
   og_image: /assets/images/Afghanistan_c69153-overview-social.jpg
   preview_image: /assets/images/Afghanistan_c69153-overview.webp
@@ -1223,7 +1223,7 @@ This case is important because it looks like the kind of incident that belongs i
 
 By the mid-2020s, Afghanistan-related UAP discussion became mixed with broader U.S. disclosure efforts. AARO’s public site provides official imagery, case-resolution summaries, congressional products, UAP records, and reporting trends. Its imagery archive includes Middle East and South Asian cases, some resolved as balloons, birds, commercial aircraft, or likely sensor artefacts, and others left unresolved because the data does not support a firm identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
-In May 2026, the U.S. Department of War’s PURSUE page announced rolling releases of unresolved UAP-related records, saying the materials were being posted as they were discovered and declassified. The page explicitly warns that unresolved cases can remain unresolved for several reasons, including insufficient data, and that resolved cases are handled separately through statutory reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/) Stars and Stripes reported that the first tranche contained 162 files, including videos submitted by U.S. Indo-Pacific Command, U.S. Central Command, and U.S. European Command described as unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stripes.com/theaters/us/2026-05-08/pentagon-ufo-files-release-21612115.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripes.com">[Stars and Stripes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In May 2026, the U.S. Department of War’s PURSUE page announced rolling releases of unresolved UAP-related records, saying the materials were being posted as they were discovered and declassified. The page explicitly warns that unresolved cases can remain unresolved for several reasons, including insufficient data, and that resolved cases are handled separately through statutory reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/) Stars and Stripes reported that the first tranche contained 162 files, including videos submitted by U.S. Indo-Pacific Command, U.S. Central Command, and U.S. European Command described as unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stripes.com/theaters/us/2026-05-08/pentagon-ufo-files-release-21612115.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripes.com">[Stars and Stripes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Afghanistan therefore sits inside a larger CENTCOM and South Asia evidence environment rather than a tidy national UFO archive. Some releases may be relevant to the region, but the strongest public reading is still conservative: these records show that objects or sensor returns were not definitively identified at the time of release, not that they were confirmed anomalous craft.
 
@@ -1255,7 +1255,7 @@ A fair evidence split for these clips is:
 
 The most useful official source for modern Afghanistan-related UAP analysis is not an Afghan government body but the U.S. AARO system and associated declassification channels. AARO’s public site states that it leads U.S. government efforts to address UAP through a rigorous scientific framework and a data-driven approach. It also hosts official imagery, case-resolution reports, reporting trends, congressional products, records, and a FAQ. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Congressional Press Products</span><span class="citation-popover-snippet">AARO Congressional/Press Products...</span></span></span>
 
-AARO’s 2024 media briefing is central to interpreting Afghanistan material. Director Jon Kosloski said AARO had received more than 1,600 UAP reports, including 757 during the relevant reporting period, and had resolved hundreds as commonplace objects such as balloons, birds, drones, satellites, and aircraft. He also said more than 900 reports lacked enough scientific data for analysis and were retained in an active archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</span></span></span>(https://www.war.gov/ufo/)
+AARO’s 2024 media briefing is central to interpreting Afghanistan material. Director Jon Kosloski said AARO had received more than 1,600 UAP reports, including 757 during the relevant reporting period, and had resolved hundreds as commonplace objects such as balloons, birds, drones, satellites, and aircraft. He also said more than 900 reports lacked enough scientific data for analysis and were retained in an active archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(https://www.war.gov/ufo/)
 
 That framework matters for Afghanistan because many claims come from incomplete video. AARO’s official imagery archive shows how a case can be:
 
@@ -1278,7 +1278,7 @@ The official record therefore supports a sober conclusion: Afghanistan-related U
 
 Afghanistan’s local UFO record is thin for understandable reasons. Decades of conflict, displacement, limited press freedom at different periods, language barriers, and uneven digitisation all make civilian sighting archives difficult to build. A local witness may have seen something genuinely unusual, but the public pathway from witness to verifiable record is weak: many stories appear only in podcasts, social posts, paranormal catalogues, or foreign-language retellings without primary documentation.
 
-Local Afghan media has reported on U.S. UFO-file releases, but usually as international news rather than as an Afghan domestic investigation. Ariana News, for example, covered the May 2026 U.S. government UFO-file release and noted that analysts said many documents had already been public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ariananews.af/trump-releases-government-ufo-files-more-expected/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ariananews.af">[Ariana News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ariananews.af</span><span class="citation-popover-snippet">Trump releases government UFO files, more expected | Ariana News | Afghanistan News...</span></span></span> That is useful as a sign of local media awareness, but it does not create a national Afghan case archive.
+Local Afghan media has reported on U.S. UFO-file releases, but usually as international news rather than as an Afghan domestic investigation. Ariana News, for example, covered the May 2026 U.S. government UFO-file release and noted that analysts said many documents had already been public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ariananews.af/trump-releases-government-ufo-files-more-expected/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ariananews.af">[Ariana News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ariananews.af</span><span class="citation-popover-snippet">Trump releases government UFO files, more expected &#124; Ariana News &#124; Afghanistan News...</span></span></span> That is useful as a sign of local media awareness, but it does not create a national Afghan case archive.
 
 For readers trying to assess Afghan UFO claims, the reliability test should be stricter than usual:
 
@@ -1317,7 +1317,7 @@ This region-level pattern links Afghanistan naturally to sibling country pages o
 
 A strong Afghanistan case would not need to look spectacular. It would need to be well documented. The best candidate would include original sensor footage, unedited metadata, exact date and location, platform details, radar or other sensor correlation, witness statements from named or accountable personnel, weather and wind data, and a published analysis showing why aircraft, drones, balloons, flares, birds, satellites, and sensor artefacts were unlikely.
 
-By contrast, a visually dramatic clip with no provenance remains weak. AARO’s own case language is useful here: unresolved does not mean anomalous; it often means the available data does not allow a scientific determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)
+By contrast, a visually dramatic clip with no provenance remains weak. AARO’s own case language is useful here: unresolved does not mean anomalous; it often means the available data does not allow a scientific determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)
 
 For Afghanistan, the most defensible evidence hierarchy is:
 
@@ -1338,86 +1338,44 @@ Afghanistan’s UFO record is real but narrow: it is mostly a military-sensor an
 The best reading is neither dismissal nor belief. Afghanistan deserves a place in any country-by-country UAP project because it sits at the intersection of modern drone warfare, military surveillance, classified releases, and difficult-to-interpret sensor imagery. But the current public evidence supports caution: confirmed unidentified observations exist, contested military-style videos circulate widely, and debunked Afghanistan captions show how easily the country’s war-zone imagery can be pulled into UFO mythology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Counts as Afghan UFO Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Counts as Afghan UFO Evidence?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Focuses on official investigations and military reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for assessing what counts as credible evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers military and intelligence-linked UAP claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Matches the page&#x27;s focus on evidence, pilots, and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1451,75 +1409,71 @@ The best reading is neither dismissal nor belief. Afghanistan deserves a place i
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="afghanistan-what-really-counts-as-afghan-ufo-evidence-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afghanistan-what-really-counts-as-afghan-ufo-evidence-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1733,408 +1687,408 @@ The best reading is neither dismissal nor belief. Afghanistan deserves a place i
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 6. <a id="endnote-6"></a>
    Source: afghanistan-analysts.org  
    Title: Afghanistan Analysts Network  
-   Link: [https://www.afghanistan-analysts.org/en/reports/international-engagement/drone-warfare-1-afghanistan-birthplace-of-the-armed-drone/](https://www.afghanistan-analysts.org/en/reports/international-engagement/drone-warfare-1-afghanistan-birthplace-of-the-armed-drone/)  
+   Link: <a href="https://www.afghanistan-analysts.org/en/reports/international-engagement/drone-warfare-1-afghanistan-birthplace-of-the-armed-drone/" target="_blank" rel="noopener noreferrer nofollow">https://www.afghanistan-analysts.org/en/reports/international-engagement/drone-warfare-1-afghanistan-birthplace-of-the-armed-drone/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Congressional/Press Products...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP Encounters | U.S. Department of War...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: stripes.com  
-   Link: [https://www.stripes.com/theaters/us/2026-05-08/pentagon-ufo-files-release-21612115.html](https://www.stripes.com/theaters/us/2026-05-08/pentagon-ufo-files-release-21612115.html)  
+   Link: <a href="https://www.stripes.com/theaters/us/2026-05-08/pentagon-ufo-files-release-21612115.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2026-05-08/pentagon-ufo-files-release-21612115.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Full 10 minute video showing glowing multi-colored UAP orbs  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1gsfwfw/full_10_minute_video_showing_glowing_multicolored/](https://www.reddit.com/r/HighStrangeness/comments/1gsfwfw/full_10_minute_video_showing_glowing_multicolored/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1gsfwfw/full_10_minute_video_showing_glowing_multicolored/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gsfwfw/full_10_minute_video_showing_glowing_multicolored/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/](https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gsdwl6/full_10_minute_video_showing_glowing_multicolored/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/article/fact-check/video-does-not-show-ufo-sighting-in-afghanistan-was-likely-created-with-cgi-idUSL1N35A22Z/](https://www.reuters.com/article/fact-check/video-does-not-show-ufo-sighting-in-afghanistan-was-likely-created-with-cgi-idUSL1N35A22Z/)  
+   Link: <a href="https://www.reuters.com/article/fact-check/video-does-not-show-ufo-sighting-in-afghanistan-was-likely-created-with-cgi-idUSL1N35A22Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/video-does-not-show-ufo-sighting-in-afghanistan-was-likely-created-with-cgi-idUSL1N35A22Z/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 14. <a id="endnote-14"></a>
    Source: ariananews.af  
    Title: Ariana News  
-   Link: [https://www.ariananews.af/trump-releases-government-ufo-files-more-expected/](https://www.ariananews.af/trump-releases-government-ufo-files-more-expected/)  
+   Link: <a href="https://www.ariananews.af/trump-releases-government-ufo-files-more-expected/" target="_blank" rel="noopener noreferrer nofollow">https://www.ariananews.af/trump-releases-government-ufo-files-more-expected/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump releases government UFO files, more expected | Ariana News | Afghanistan News...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/2691268/department-of-defense-uap-task-force/](https://www.war.gov/News/Releases/Release/Article/2691268/department-of-defense-uap-task-force/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2691268/department-of-defense-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2691268/department-of-defense-uap-task-force/</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Tag/246580/?Page=27](https://www.war.gov/News/Tag/246580/?Page=27)  
+   Link: <a href="https://www.war.gov/News/Tag/246580/?Page=27" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/246580/?Page=27</a>  
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
    Title: pentagon press secretary air force brig gen pat ryder holds a press briefing  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3513447/pentagon-press-secretary-air-force-brig-gen-pat-ryder-holds-a-press-briefing/](https://www.war.gov/News/Transcripts/Transcript/Article/3513447/pentagon-press-secretary-air-force-brig-gen-pat-ryder-holds-a-press-briefing/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3513447/pentagon-press-secretary-air-force-brig-gen-pat-ryder-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3513447/pentagon-press-secretary-air-force-brig-gen-pat-ryder-holds-a-press-briefing/</a>  
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: dod remembers afghan vets details disaster aid announces unidentified anomalous  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3513417/dod-remembers-afghan-vets-details-disaster-aid-announces-unidentified-anomalous/](https://www.war.gov/News/News-Stories/Article/Article/3513417/dod-remembers-afghan-vets-details-disaster-aid-announces-unidentified-anomalous/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3513417/dod-remembers-afghan-vets-details-disaster-aid-announces-unidentified-anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3513417/dod-remembers-afghan-vets-details-disaster-aid-announces-unidentified-anomalous/</a>  
 
 19. <a id="endnote-19"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: pentagon press secretary air force maj gen pat ryder holds a press briefing  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/](https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/</a>  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/?Page=79&Search=Venezuelans+in+the+U.S.+%26+worldwide+ERUPT+in+joy+as+dictator+Nicolas+Maduro+is+CAPTURED+-+The+White+House+%28.gov%29](https://www.war.gov/News/?Page=79&Search=Venezuelans+in+the+U.S.+%26+worldwide+ERUPT+in+joy+as+dictator+Nicolas+Maduro+is+CAPTURED+-+The+White+House+%28.gov%29)  
+   Link: <a href="https://www.war.gov/News/?Page=79&amp;Search=Venezuelans+in+the+U.S.+%26+worldwide+ERUPT+in+joy+as+dictator+Nicolas+Maduro+is+CAPTURED+-+The+White+House+%28.gov%29" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/?Page=79&amp;Search=Venezuelans+in+the+U.S.+%26+worldwide+ERUPT+in+joy+as+dictator+Nicolas+Maduro+is+CAPTURED+-+The+White+House+%28.gov%29</a>  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: deputy pentagon press secretary sabrina singh holds a press briefing  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965597/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/](https://www.war.gov/News/Transcripts/Transcript/Article/3965597/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965597/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965597/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: pentagon press secretary john f kirby holds a press briefing  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3034995/pentagon-press-secretary-john-f-kirby-holds-a-press-briefing/](https://www.war.gov/News/Transcripts/Transcript/Article/3034995/pentagon-press-secretary-john-f-kirby-holds-a-press-briefing/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3034995/pentagon-press-secretary-john-f-kirby-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3034995/pentagon-press-secretary-john-f-kirby-holds-a-press-briefing/</a>  
 
 24. <a id="endnote-24"></a>
    Source: war.gov  
    Title: secretary of defense lloyd j austin iii holds an on camera on the record press  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3972916/secretary-of-defense-lloyd-j-austin-iii-holds-an-on-camera-on-the-record-press/](https://www.war.gov/News/Transcripts/Transcript/Article/3972916/secretary-of-defense-lloyd-j-austin-iii-holds-an-on-camera-on-the-record-press/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3972916/secretary-of-defense-lloyd-j-austin-iii-holds-an-on-camera-on-the-record-press/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3972916/secretary-of-defense-lloyd-j-austin-iii-holds-an-on-camera-on-the-record-press/</a>  
 
 25. <a id="endnote-25"></a>
    Source: war.gov  
    Title: c 17 crews help to realign assets to afghanistan  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/1436103/c-17-crews-help-to-realign-assets-to-afghanistan/](https://www.war.gov/News/News-Stories/Article/Article/1436103/c-17-crews-help-to-realign-assets-to-afghanistan/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/1436103/c-17-crews-help-to-realign-assets-to-afghanistan/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/1436103/c-17-crews-help-to-realign-assets-to-afghanistan/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Military/comments/1no1ytd/hank_green_debunking_the_recently_leaked_ufo/](https://www.reddit.com/r/Military/comments/1no1ytd/hank_green_debunking_the_recently_leaked_ufo/)  
+   Link: <a href="https://www.reddit.com/r/Military/comments/1no1ytd/hank_green_debunking_the_recently_leaked_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Military/comments/1no1ytd/hank_green_debunking_the_recently_leaked_ufo/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/](https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
    Title: a declassified project blue book file from 1956  
-   Link: [https://www.reddit.com/r/UFOs/comments/1njlqme/a_declassified_project_blue_book_file_from_1956/](https://www.reddit.com/r/UFOs/comments/1njlqme/a_declassified_project_blue_book_file_from_1956/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1njlqme/a_declassified_project_blue_book_file_from_1956/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1njlqme/a_declassified_project_blue_book_file_from_1956/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
    Title: kabul ufo 1956 foia documents  
-   Link: [https://www.reddit.com/r/UFOs/comments/s54bdi/kabul_ufo_1956_foia_documents/](https://www.reddit.com/r/UFOs/comments/s54bdi/kabul_ufo_1956_foia_documents/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/s54bdi/kabul_ufo_1956_foia_documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/s54bdi/kabul_ufo_1956_foia_documents/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
    Title: The varied geography of Afghanistan  
-   Link: [https://www.reddit.com/r/geography/comments/18nb0m4/the_varied_geography_of_afghanistan_its_more_than/](https://www.reddit.com/r/geography/comments/18nb0m4/the_varied_geography_of_afghanistan_its_more_than/)  
+   Link: <a href="https://www.reddit.com/r/geography/comments/18nb0m4/the_varied_geography_of_afghanistan_its_more_than/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geography/comments/18nb0m4/the_varied_geography_of_afghanistan_its_more_than/</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_NU5VbysFJE&vl=en](https://www.youtube.com/watch?v=_NU5VbysFJE&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=_NU5VbysFJE&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NU5VbysFJE&amp;vl=en</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/live/64zlyzojpPM?pp=QAFIAQ%3D%3D](https://www.youtube.com/live/64zlyzojpPM?pp=QAFIAQ%3D%3D)  
+   Link: <a href="https://www.youtube.com/live/64zlyzojpPM?pp=QAFIAQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/live/64zlyzojpPM?pp=QAFIAQ%3D%3D</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Missile vs. UFO Video  
-   Link: [https://www.youtube.com/watch?v=cTedmssoj24](https://www.youtube.com/watch?v=cTedmssoj24)  
+   Link: <a href="https://www.youtube.com/watch?v=cTedmssoj24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cTedmssoj24</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XVHGT58rnlc](https://www.youtube.com/watch?v=XVHGT58rnlc)  
+   Link: <a href="https://www.youtube.com/watch?v=XVHGT58rnlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVHGT58rnlc</a>  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5NNzA5A16nY](https://www.youtube.com/watch?v=5NNzA5A16nY)  
+   Link: <a href="https://www.youtube.com/watch?v=5NNzA5A16nY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5NNzA5A16nY</a>  
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FY4aRfx17vQ](https://www.youtube.com/watch?v=FY4aRfx17vQ)  
+   Link: <a href="https://www.youtube.com/watch?v=FY4aRfx17vQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FY4aRfx17vQ</a>  
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eYhViuizq-w](https://www.youtube.com/watch?v=eYhViuizq-w)  
+   Link: <a href="https://www.youtube.com/watch?v=eYhViuizq-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYhViuizq-w</a>  
 
 39. <a id="endnote-39"></a>
    Source: m.youtube.com  
    Title: Rhm Wqr Vh2Xs  
-   Link: [https://m.youtube.com/shorts/RhmWqrVh2Xs](https://m.youtube.com/shorts/RhmWqrVh2Xs)  
+   Link: <a href="https://m.youtube.com/shorts/RhmWqrVh2Xs" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/shorts/RhmWqrVh2Xs</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AtATajiT1Tk](https://www.youtube.com/watch?v=AtATajiT1Tk)  
+   Link: <a href="https://www.youtube.com/watch?v=AtATajiT1Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AtATajiT1Tk</a>  
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CJdo0ncbcM4](https://www.youtube.com/watch?v=CJdo0ncbcM4)  
+   Link: <a href="https://www.youtube.com/watch?v=CJdo0ncbcM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CJdo0ncbcM4</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/](https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/trump-releases-new-ufo-files-us-jet-shoots-down-mystery-ufo-the-pentagon-has-rel/1505512951609687/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/](https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/)  
+   Link: <a href="https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deutschewellenews/videos/the-us-military-has-released-a-batch-of-classified-ufo-videos-some-show-objects-/768153866293290/](https://www.facebook.com/deutschewellenews/videos/the-us-military-has-released-a-batch-of-classified-ufo-videos-some-show-objects-/768153866293290/)  
+   Link: <a href="https://www.facebook.com/deutschewellenews/videos/the-us-military-has-released-a-batch-of-classified-ufo-videos-some-show-objects-/768153866293290/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deutschewellenews/videos/the-us-military-has-released-a-batch-of-classified-ufo-videos-some-show-objects-/768153866293290/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
    Title: a 2022 declassified video reveals spherical uaps demonstrating transmedium capab  
-   Link: [https://www.facebook.com/WIONews/posts/a-2022-declassified-video-reveals-spherical-uaps-demonstrating-transmedium-capab/1348648997374271/](https://www.facebook.com/WIONews/posts/a-2022-declassified-video-reveals-spherical-uaps-demonstrating-transmedium-capab/1348648997374271/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/a-2022-declassified-video-reveals-spherical-uaps-demonstrating-transmedium-capab/1348648997374271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/a-2022-declassified-video-reveals-spherical-uaps-demonstrating-transmedium-capab/1348648997374271/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/isro.spaceinsight/videos/spherical-uap-caught-on-camera-over-afghanistanthis-is-some-of-the-most-compelli/1478622937611425/](https://www.facebook.com/isro.spaceinsight/videos/spherical-uap-caught-on-camera-over-afghanistanthis-is-some-of-the-most-compelli/1478622937611425/)  
+   Link: <a href="https://www.facebook.com/isro.spaceinsight/videos/spherical-uap-caught-on-camera-over-afghanistanthis-is-some-of-the-most-compelli/1478622937611425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isro.spaceinsight/videos/spherical-uap-caught-on-camera-over-afghanistanthis-is-some-of-the-most-compelli/1478622937611425/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WCNCtv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1233997832102270/](https://www.facebook.com/WCNCtv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1233997832102270/)  
+   Link: <a href="https://www.facebook.com/WCNCtv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1233997832102270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCNCtv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1233997832102270/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
    Title: in 2011 us military flir footage captured four unidentified orbs over kandaharth  
-   Link: [https://www.facebook.com/PaulSteelePodcast/videos/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/1276664704377843/](https://www.facebook.com/PaulSteelePodcast/videos/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/1276664704377843/)  
+   Link: <a href="https://www.facebook.com/PaulSteelePodcast/videos/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/1276664704377843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PaulSteelePodcast/videos/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/1276664704377843/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/](https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/)  
+   Link: <a href="https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
    Title: in 2011 us military flir footage captured four unidentified orbs over kandaharth  
-   Link: [https://www.facebook.com/PaulSteelePodcast/posts/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/10241171761133128/](https://www.facebook.com/PaulSteelePodcast/posts/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/10241171761133128/)  
+   Link: <a href="https://www.facebook.com/PaulSteelePodcast/posts/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/10241171761133128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PaulSteelePodcast/posts/in-2011-us-military-flir-footage-captured-four-unidentified-orbs-over-kandaharth/10241171761133128/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/](https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/)  
+   Link: <a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/footage-allegedly-recorded-by-united-states-military-systems-in-afghanistan-has-/842581862094570/](https://www.facebook.com/ancientwhispers/posts/footage-allegedly-recorded-by-united-states-military-systems-in-afghanistan-has-/842581862094570/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/footage-allegedly-recorded-by-united-states-military-systems-in-afghanistan-has-/842581862094570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/footage-allegedly-recorded-by-united-states-military-systems-in-afghanistan-has-/842581862094570/</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ProudCanadiansOnline/posts/video-from-the-us-department-of-defense-is-said-to-show-drone-footage-of-a-uap-u/1217801687057774/](https://www.facebook.com/ProudCanadiansOnline/posts/video-from-the-us-department-of-defense-is-said-to-show-drone-footage-of-a-uap-u/1217801687057774/)  
+   Link: <a href="https://www.facebook.com/ProudCanadiansOnline/posts/video-from-the-us-department-of-defense-is-said-to-show-drone-footage-of-a-uap-u/1217801687057774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ProudCanadiansOnline/posts/video-from-the-us-department-of-defense-is-said-to-show-drone-footage-of-a-uap-u/1217801687057774/</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-long-whispered-account-from-soldiers-stationed-in-afghanistan-during-the-1989-/1490612009732100/](https://www.facebook.com/HiddenFactsss/posts/a-long-whispered-account-from-soldiers-stationed-in-afghanistan-during-the-1989-/1490612009732100/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-long-whispered-account-from-soldiers-stationed-in-afghanistan-during-the-1989-/1490612009732100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-long-whispered-account-from-soldiers-stationed-in-afghanistan-during-the-1989-/1490612009732100/</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BroBible/posts/video-of-a-large-flying-saucer-shaped-ufo-recorded-by-a-military-sensor-over-a-c/1177566104410516/](https://www.facebook.com/BroBible/posts/video-of-a-large-flying-saucer-shaped-ufo-recorded-by-a-military-sensor-over-a-c/1177566104410516/)  
+   Link: <a href="https://www.facebook.com/BroBible/posts/video-of-a-large-flying-saucer-shaped-ufo-recorded-by-a-military-sensor-over-a-c/1177566104410516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/video-of-a-large-flying-saucer-shaped-ufo-recorded-by-a-military-sensor-over-a-c/1177566104410516/</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/16wapt/posts/the-pentagon-released-its-second-set-of-ufo-files-on-friday-revealing-additional/1432046005630670/](https://www.facebook.com/16wapt/posts/the-pentagon-released-its-second-set-of-ufo-files-on-friday-revealing-additional/1432046005630670/)  
+   Link: <a href="https://www.facebook.com/16wapt/posts/the-pentagon-released-its-second-set-of-ufo-files-on-friday-revealing-additional/1432046005630670/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/16wapt/posts/the-pentagon-released-its-second-set-of-ufo-files-on-friday-revealing-additional/1432046005630670/</a>  
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PakistanTVGlobal/posts/security-analyst-sheharyar-khan-says-that-historically-the-taliban-did-not-have-/1348437470641394/](https://www.facebook.com/PakistanTVGlobal/posts/security-analyst-sheharyar-khan-says-that-historically-the-taliban-did-not-have-/1348437470641394/)  
+   Link: <a href="https://www.facebook.com/PakistanTVGlobal/posts/security-analyst-sheharyar-khan-says-that-historically-the-taliban-did-not-have-/1348437470641394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PakistanTVGlobal/posts/security-analyst-sheharyar-khan-says-that-historically-the-taliban-did-not-have-/1348437470641394/</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KhaamaPressGlobal/posts/there-are-reports-that-china-is-installing-anti-drone-systems-at-bagram-airport-/893689532782456/](https://www.facebook.com/KhaamaPressGlobal/posts/there-are-reports-that-china-is-installing-anti-drone-systems-at-bagram-airport-/893689532782456/)  
+   Link: <a href="https://www.facebook.com/KhaamaPressGlobal/posts/there-are-reports-that-china-is-installing-anti-drone-systems-at-bagram-airport-/893689532782456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KhaamaPressGlobal/posts/there-are-reports-that-china-is-installing-anti-drone-systems-at-bagram-airport-/893689532782456/</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UrbanAtlas1/videos/afghanistans-geography-explained-geography-fyp-explore-centralasia-afghanistan/1867169350643987/](https://www.facebook.com/UrbanAtlas1/videos/afghanistans-geography-explained-geography-fyp-explore-centralasia-afghanistan/1867169350643987/)  
+   Link: <a href="https://www.facebook.com/UrbanAtlas1/videos/afghanistans-geography-explained-geography-fyp-explore-centralasia-afghanistan/1867169350643987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UrbanAtlas1/videos/afghanistans-geography-explained-geography-fyp-explore-centralasia-afghanistan/1867169350643987/</a>  
 
 61. <a id="endnote-61"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYz-D_ryiyX/](https://www.instagram.com/reel/DYz-D_ryiyX/)  
+   Link: <a href="https://www.instagram.com/reel/DYz-D_ryiyX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYz-D_ryiyX/</a>  
 
 62. <a id="endnote-62"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&img_index=13](https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&img_index=13)  
+   Link: <a href="https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&amp;img_index=13" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&amp;img_index=13</a>  
 
 63. <a id="endnote-63"></a>
    Source: instagram.com  
    Title: DUOCxu WAH9B  
-   Link: [https://www.instagram.com/reel/DUOCxuWAH9B/](https://www.instagram.com/reel/DUOCxuWAH9B/)  
+   Link: <a href="https://www.instagram.com/reel/DUOCxuWAH9B/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUOCxuWAH9B/</a>  
 
 64. <a id="endnote-64"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYrXDCsygil/](https://www.instagram.com/reel/DYrXDCsygil/)  
+   Link: <a href="https://www.instagram.com/reel/DYrXDCsygil/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYrXDCsygil/</a>  
 
 65. <a id="endnote-65"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVJX41xiJJp/](https://www.instagram.com/reel/DVJX41xiJJp/)  
+   Link: <a href="https://www.instagram.com/reel/DVJX41xiJJp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVJX41xiJJp/</a>  
 
 66. <a id="endnote-66"></a>
    Source: instagram.com  
    Title: DWt6x JLk RK  
-   Link: [https://www.instagram.com/reel/DWt6xJLkRK-/](https://www.instagram.com/reel/DWt6xJLkRK-/)  
+   Link: <a href="https://www.instagram.com/reel/DWt6xJLkRK-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWt6xJLkRK-/</a>  
 
 67. <a id="endnote-67"></a>
    Source: instagram.com  
    Title: DYH7HXINk Al  
-   Link: [https://www.instagram.com/p/DYH7HXINkAl/](https://www.instagram.com/p/DYH7HXINkAl/)  
+   Link: <a href="https://www.instagram.com/p/DYH7HXINkAl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYH7HXINkAl/</a>  
 
 68. <a id="endnote-68"></a>
    Source: instagram.com  
    Title: DYyd m5FG49  
-   Link: [https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&img_index=6](https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&img_index=6)  
+   Link: <a href="https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&amp;img_index=6" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYyd-m5FG49/?hl=pl&amp;img_index=6</a>  
 
 69. <a id="endnote-69"></a>
    Source: instagram.com  
    Title: DVFmtc Vlfj O  
-   Link: [https://www.instagram.com/reel/DVFmtcVlfjO/](https://www.instagram.com/reel/DVFmtcVlfjO/)  
+   Link: <a href="https://www.instagram.com/reel/DVFmtcVlfjO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVFmtcVlfjO/</a>  
 
 70. <a id="endnote-70"></a>
    Source: youtube.com  
    Title: AARO’s Assessment of UAP Cases  
-   Link: [https://www.youtube.com/watch?v=k4T6U2z70e8](https://www.youtube.com/watch?v=k4T6U2z70e8)  
+   Link: <a href="https://www.youtube.com/watch?v=k4T6U2z70e8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4T6U2z70e8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Military Radar Technician Reacts to UAP Evidence...</p></details>
 
 71. <a id="endnote-71"></a>
    Source: youtube.com  
    Title: Former Military Radar Technician Reacts to UAP Evidence  
-   Link: [https://www.youtube.com/watch?v=nbC6dFb35Jo](https://www.youtube.com/watch?v=nbC6dFb35Jo)  
+   Link: <a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nbC6dFb35Jo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO Videos Explained...</p></details>
 
 72. <a id="endnote-72"></a>
    Source: youtube.com  
    Title: Pentagon UFO Videos Explained  
-   Link: [https://www.youtube.com/watch?v=Z216f272aYw](https://www.youtube.com/watch?v=Z216f272aYw)  
+   Link: <a href="https://www.youtube.com/watch?v=Z216f272aYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z216f272aYw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI to Decode UFO Databases...</p></details>
 
 73. <a id="endnote-73"></a>
    Source: youtube.com  
    Title: Governments Using AI to Decode UFO Databases  
-   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Military Sensor Anomalies and Parallax...</p></details>
 
 74. <a id="endnote-74"></a>
    Source: youtube.com  
    Title: Understanding Military Sensor Anomalies and Parallax  
-   Link: [https://www.youtube.com/watch?v=Sm555776yE4](https://www.youtube.com/watch?v=Sm555776yE4)  
+   Link: <a href="https://www.youtube.com/watch?v=Sm555776yE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sm555776yE4</a>  
 
 75. <a id="endnote-75"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft](https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft)  
+   Link: <a href="https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft</a>  
 
 76. <a id="endnote-76"></a>
    Source: kids.nationalgeographic.com  
-   Link: [https://kids.nationalgeographic.com/geography/countries/article/afghanistan](https://kids.nationalgeographic.com/geography/countries/article/afghanistan)  
+   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/afghanistan</a>  
 
 77. <a id="endnote-77"></a>
    Source: ospreyflightsolutions.com  
    Title: afghanistan analysis of the post war aviation operating environment  
-   Link: [https://www.ospreyflightsolutions.com/afghanistan-analysis-of-the-post-war-aviation-operating-environment](https://www.ospreyflightsolutions.com/afghanistan-analysis-of-the-post-war-aviation-operating-environment)  
+   Link: <a href="https://www.ospreyflightsolutions.com/afghanistan-analysis-of-the-post-war-aviation-operating-environment" target="_blank" rel="noopener noreferrer nofollow">https://www.ospreyflightsolutions.com/afghanistan-analysis-of-the-post-war-aviation-operating-environment</a>  
 
 78. <a id="endnote-78"></a>
    Source: britannica.com  
    Title: Afghanistan War  
-   Link: [https://www.britannica.com/event/Afghanistan-War](https://www.britannica.com/event/Afghanistan-War)  
+   Link: <a href="https://www.britannica.com/event/Afghanistan-War" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Afghanistan-War</a>  
 
 79. <a id="endnote-79"></a>
    Source: q-files.com  
-   Link: [https://www.q-files.com/geography/asia/afghanistan](https://www.q-files.com/geography/asia/afghanistan)  
+   Link: <a href="https://www.q-files.com/geography/asia/afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://www.q-files.com/geography/asia/afghanistan</a>  
 
 ### Additional References
 
 80. <a id="endnote-80"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
 81. <a id="endnote-81"></a>
    Source: airandspaceforces.com  
-   Link: [https://www.airandspaceforces.com/article/0611afghanistan/](https://www.airandspaceforces.com/article/0611afghanistan/)  
+   Link: <a href="https://www.airandspaceforces.com/article/0611afghanistan/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611afghanistan/</a>  
 
 82. <a id="endnote-82"></a>
    Source: afghan-web.com  
-   Link: [https://www.afghan-web.com/geography/](https://www.afghan-web.com/geography/)  
+   Link: <a href="https://www.afghan-web.com/geography/" target="_blank" rel="noopener noreferrer nofollow">https://www.afghan-web.com/geography/</a>  
 
 83. <a id="endnote-83"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/afghanistan-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/afghanistan-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/afghanistan-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/afghanistan-ufo-sightings.html</a>  
 
 84. <a id="endnote-84"></a>
    Source: waru.edu  
-   Link: [https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21](https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21)  
+   Link: <a href="https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21</a>  
 
 85. <a id="endnote-85"></a>
    Source: dkiapcss.edu  
-   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
 
 86. <a id="endnote-86"></a>
    Source: raf.mod.uk  
-   Link: [https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol16-iss2-1-pdf/](https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol16-iss2-1-pdf/)  
+   Link: <a href="https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol16-iss2-1-pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol16-iss2-1-pdf/</a>  
 
 87. <a id="endnote-87"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
 88. <a id="endnote-88"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 89. <a id="endnote-89"></a>
    Source: thebureauinvestigates.com  
    Title: us drones hit taliban more than terrorist networks despite end of afghan war  
-   Link: [https://www.thebureauinvestigates.com/stories/2016-06-16/us-drones-hit-taliban-more-than-terrorist-networks-despite-end-of-afghan-war](https://www.thebureauinvestigates.com/stories/2016-06-16/us-drones-hit-taliban-more-than-terrorist-networks-despite-end-of-afghan-war)  
+   Link: <a href="https://www.thebureauinvestigates.com/stories/2016-06-16/us-drones-hit-taliban-more-than-terrorist-networks-despite-end-of-afghan-war" target="_blank" rel="noopener noreferrer nofollow">https://www.thebureauinvestigates.com/stories/2016-06-16/us-drones-hit-taliban-more-than-terrorist-networks-despite-end-of-afghan-war</a>  

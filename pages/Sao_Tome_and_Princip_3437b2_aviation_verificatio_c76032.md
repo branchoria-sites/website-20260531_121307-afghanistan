@@ -239,7 +239,7 @@ next_link:
   permalink: /false-positives/
   short_title: False Positives
   heading_title: Why So Many Sao Tome UFO Searches Mislead
-date: '2026-06-09 01:39:16 '
+date: '2026-06-10 02:06:14 '
 header:
   og_image: /assets/images/Sao_Tome_and_Princip_3437b2_aviation_verificatio_c76032-Illustration-1-social.jpg
   preview_image: /assets/images/Sao_Tome_and_Princip_3437b2_aviation_verificatio_c76032-Illustration-1.webp
@@ -306,7 +306,7 @@ Recent aviation modernisation discussions, including plans for runway extension,
 
 The clearest demonstration of why aviation records matter comes not from a UFO case but from a thoroughly investigated aviation accident.
 
-On 29 July 2017, an Antonov An-74 cargo aircraft at São Tomé International Airport aborted take-off after the crew observed multiple large birds ahead of the aircraft. The rejected take-off resulted in a runway overrun and destruction of the aircraft. Investigations documented pilot observations, tower communications, runway conditions, operational decisions, and bird-hazard issues in considerable detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryAN72, Sao Tome, Sao Tome &amp; Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large eagles ri...</span><span class="citation-popover-meta">Published: July 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baaa-acro.com/crash/crash-antonov-74tk-100-sao-tome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[Bureau of Aircraft Accidents Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-snippet">Crash of an Antonov AN-74TK-100 in São ToméThe aircraft exited runway 29 during a rejected take off. The Flight Navigator sustained an in...</span></span></span>
+On 29 July 2017, an Antonov An-74 cargo aircraft at São Tomé International Airport aborted take-off after the crew observed multiple large birds ahead of the aircraft. The rejected take-off resulted in a runway overrun and destruction of the aircraft. Investigations documented pilot observations, tower communications, runway conditions, operational decisions, and bird-hazard issues in considerable detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">AN72, Sao Tome, Sao Tome &amp; Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large eagles ri...</span><span class="citation-popover-meta">Published: July 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baaa-acro.com/crash/crash-antonov-74tk-100-sao-tome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[Bureau of Aircraft Accidents Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-snippet">Crash of an Antonov AN-74TK-100 in São ToméThe aircraft exited runway 29 during a rejected take off. The Flight Navigator sustained an in...</span></span></span>
 
 The importance of the incident for UFO verification is methodological rather than sensational.
 
@@ -317,7 +317,7 @@ The investigation established:
 * Airport operational conditions.
 * Communications between the crew and tower.
 * Environmental hazards near the runway.
-* Competing explanations for what the crew observed. Flight Safety Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary Crucially]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryAN72, Sao Tome, Sao Tome &amp; Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large eagles ri...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>, the event shows how unusual observations in the sky or near a runway can be transformed from anecdote into a documented case through aviation reporting systems. Rather than relying on memory or media accounts, investigators had access to operational records, technical analysis, and formal findings.
+* Competing explanations for what the crew observed. Flight Safety Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary Crucially]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">AN72, Sao Tome, Sao Tome &amp; Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large eagles ri...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>, the event shows how unusual observations in the sky or near a runway can be transformed from anecdote into a documented case through aviation reporting systems. Rather than relying on memory or media accounts, investigators had access to operational records, technical analysis, and formal findings.
 
 A hypothetical UFO report involving pilots near São Tomé would benefit from the same process. Even if the object remained unidentified, investigators could establish what happened, when it happened, who observed it, and what known explanations had already been excluded.
 
@@ -360,86 +360,44 @@ Any future claim that an unusual object appeared over São Tomé, Príncipe, or 
 In practical terms, the aviation trail—tower logs, pilot reports, airport records, weather observations, and INAC documentation—is the most credible route by which a genuine unexplained aerial event in São Tomé and Príncipe could move from anecdote to verifiable case.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Would a Real UFO Report Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Would a Real UFO Report Be Verified?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Illustrates structured case documentation and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how sightings are investigated and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Includes discussion of military, aviation and reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong focus on pilots, aviation evidence and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -473,75 +431,71 @@ In practical terms, the aviation trail—tower logs, pilot reports, airport reco
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-where-would-a-real-ufo-report-be-verified-sao-tome-and-principe-ufo-poster-book-books-series-television-g&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -756,102 +710,102 @@ In practical terms, the aviation trail—tower logs, pilot reports, airport reco
 1. <a id="endnote-1"></a>
    Source: ddd.uab.cat  
    Title: RebeloCarla TFMGAa2018 19  
-   Link: [https://ddd.uab.cat/pub/trerecpro/2018/203739/RebeloCarla_TFMGAa2018-19.pdf](https://ddd.uab.cat/pub/trerecpro/2018/203739/RebeloCarla_TFMGAa2018-19.pdf)  
+   Link: <a href="https://ddd.uab.cat/pub/trerecpro/2018/203739/RebeloCarla_TFMGAa2018-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ddd.uab.cat/pub/trerecpro/2018/203739/RebeloCarla_TFMGAa2018-19.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation (INAC) in 1998 [20]. STP currently has 2 airports, the second one being in Principe island (IATA: PCP, ICAO: FPPR), built...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: São Tomé International Airport  
-   Link: [https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport](https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Príncipe Airport  
-   Link: [https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport](https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport</a>  
 
 4. <a id="endnote-4"></a>
    Source: trade.gov  
    Title: [Sao Tome and Principe](&#123;&#123; 'sao-tome-and-principe/' | relative_url &#125;&#125;)  
-   Link: [https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-infrastructure](https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-infrastructure)  
+   Link: <a href="https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-infrastructure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrastructure11 Aug 2022 —... Infrastructure signed an agreement for the expansion and modernization of the STP international airport...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017](https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryAN72, Sao Tome, Sao Tome &amp; Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large eagles ri...</p></details>
+   Link: <a href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN72, Sao Tome, Sao Tome &amp; Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large eagles ri...</p></details>
    Published: July 2017  
 
 6. <a id="endnote-6"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/319843](https://aviation-safety.net/wikibase/319843)  
+   Link: <a href="https://aviation-safety.net/wikibase/319843" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/319843</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Antonov An-74TK-100 UR-CKC, Saturday 29 July...29 Jul 2017 — An Antonov 74TK-100 cargo plane, operated b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: atc-network.com  
    Title: ATC Network INAC  
-   Link: [https://www.atc-network.com/atc-organisations/inac-sao-tome-and-principe](https://www.atc-network.com/atc-organisations/inac-sao-tome-and-principe)  
+   Link: <a href="https://www.atc-network.com/atc-organisations/inac-sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/inac-sao-tome-and-principe</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INAC - Sao Tome and PrincipeINAC - Sao Tome and Principe. Visiting address. Postal address. Neighborhood Airport Sao Tome Agua Grande 97...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
    Title: Federal Aviation Administrationsao tome and principe Airports of Entry  
-   Link: [https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/ST.pdf](https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/ST.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/ST.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/ST.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>sao tome and principeAirports of Entry. FPST · Sao Tome International Airport · FPPR · Principe Airport (by special permission only) (VFR...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/crash/crash-antonov-74tk-100-sao-tome](https://www.baaa-acro.com/crash/crash-antonov-74tk-100-sao-tome)  
+   Link: <a href="https://www.baaa-acro.com/crash/crash-antonov-74tk-100-sao-tome" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/crash/crash-antonov-74tk-100-sao-tome</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crash of an Antonov AN-74TK-100 in São ToméThe aircraft exited runway 29 during a rejected take off. The Flight Navigator sustained an in...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/afiplan-contractingstates](https://www.icao.int/afiplan-contractingstates)  
+   Link: <a href="https://www.icao.int/afiplan-contractingstates" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/afiplan-contractingstates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFIPlan-ContractingStatesDirector General Gambia Civil Aviation Authority Address Banjul International Airport Private Mail Bag 285. Banj...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/marco-merens-649b1a98_aviation-safety-oversight-activity-7030566030070484992-DNmE](https://www.linkedin.com/posts/marco-merens-649b1a98_aviation-safety-oversight-activity-7030566030070484992-DNmE)  
+   Link: <a href="https://www.linkedin.com/posts/marco-merens-649b1a98_aviation-safety-oversight-activity-7030566030070484992-DNmE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/marco-merens-649b1a98_aviation-safety-oversight-activity-7030566030070484992-DNmE</a>  
 
 12. <a id="endnote-12"></a>
    Source: kupi.com  
-   Link: [https://www.kupi.com/en-ae/explore/sao-tome-principe/sao-tome/sao-tome-island-airport](https://www.kupi.com/en-ae/explore/sao-tome-principe/sao-tome/sao-tome-island-airport)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/sao-tome-principe/sao-tome/sao-tome-island-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/sao-tome-principe/sao-tome/sao-tome-island-airport</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome International Airport (TMS) Guide &amp; ServicesComplete guide to Sao Tome International Airport (TMS). Find details on terminals, t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: afcac.org  
-   Link: [https://www.afcac.org/spotlight20_saotome/](https://www.afcac.org/spotlight20_saotome/)  
+   Link: <a href="https://www.afcac.org/spotlight20_saotome/" target="_blank" rel="noopener noreferrer nofollow">https://www.afcac.org/spotlight20_saotome/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao TomeSao Tome &amp; Principe, under the Single Air Transport Market – SAATM, is committed to establishing a framework for the liberalizati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aeroinside.com  
-   Link: [https://www.aeroinside.com/9987/cavok-an74-at-sao-tome-on-jul-29th-2017-rejected-takeoff-due-to-flock-of-birds-results-in-runway-overrun](https://www.aeroinside.com/9987/cavok-an74-at-sao-tome-on-jul-29th-2017-rejected-takeoff-due-to-flock-of-birds-results-in-runway-overrun)  
+   Link: <a href="https://www.aeroinside.com/9987/cavok-an74-at-sao-tome-on-jul-29th-2017-rejected-takeoff-due-to-flock-of-birds-results-in-runway-overrun" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroinside.com/9987/cavok-an74-at-sao-tome-on-jul-29th-2017-rejected-takeoff-due-to-flock-of-birds-results-in-runway-overrun</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cavok AN74 at Sao Tome on Jul 29th 2017, rejected...6 Dec 2018 — Sao Tome&#x27;s Civil Aviation Authority reported the aircraft rejected take...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: macaubusiness.com  
    Title: sao tome air traffic controllers threaten strike over icao non conformities  
-   Link: [https://macaubusiness.com/sao-tome-air-traffic-controllers-threaten-strike-over-icao-non-conformities/](https://macaubusiness.com/sao-tome-air-traffic-controllers-threaten-strike-over-icao-non-conformities/)  
+   Link: <a href="https://macaubusiness.com/sao-tome-air-traffic-controllers-threaten-strike-over-icao-non-conformities/" target="_blank" rel="noopener noreferrer nofollow">https://macaubusiness.com/sao-tome-air-traffic-controllers-threaten-strike-over-icao-non-conformities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome: Air traffic controllers threaten strike over ICAO...22 Jul 2025 — Sao Tome and Principe air traffic controllers are threatenin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: newsaero.info  
-   Link: [https://newsaero.info/airlines/air-traffic-controllers-in-prncipe-call-off-strike-yet-national-strike-warning-persists?true=8899](https://newsaero.info/airlines/air-traffic-controllers-in-prncipe-call-off-strike-yet-national-strike-warning-persists?true=8899)  
+   Link: <a href="https://newsaero.info/airlines/air-traffic-controllers-in-prncipe-call-off-strike-yet-national-strike-warning-persists?true=8899" target="_blank" rel="noopener noreferrer nofollow">https://newsaero.info/airlines/air-traffic-controllers-in-prncipe-call-off-strike-yet-national-strike-warning-persists?true=8899</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tomé and Príncipe, have suspended the strike action they launched a week...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: flytag.co  
    Title: sao tome overflight and landing permits  
-   Link: [https://flytag.co/locations/africa/sao-tome-overflight-and-landing-permits.html](https://flytag.co/locations/africa/sao-tome-overflight-and-landing-permits.html)  
+   Link: <a href="https://flytag.co/locations/africa/sao-tome-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/locations/africa/sao-tome-overflight-and-landing-permits.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome Overflight Permits 2026: Fast &amp; Trusted ApprovalGet trusted Sao Tome overflight permits with fast, compliant coordination for ai...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ReportYourself/posts/investigation-presence-of-birds-on-runway-caused-sao-tome-plane-crashdue-to-the-/10155880730332703/](https://www.facebook.com/ReportYourself/posts/investigation-presence-of-birds-on-runway-caused-sao-tome-plane-crashdue-to-the-/10155880730332703/)  
+   Link: <a href="https://www.facebook.com/ReportYourself/posts/investigation-presence-of-birds-on-runway-caused-sao-tome-plane-crashdue-to-the-/10155880730332703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ReportYourself/posts/investigation-presence-of-birds-on-runway-caused-sao-tome-plane-crashdue-to-the-/10155880730332703/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strike damaged the cockpit windshield during flight. The...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w)  
+   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Deep-Dive: Strange Flight Characteristics in Declassified UFO Reports...</p></details>

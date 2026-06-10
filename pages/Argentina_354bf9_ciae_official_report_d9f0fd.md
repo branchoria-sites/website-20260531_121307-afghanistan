@@ -214,10 +214,10 @@ breadcrumb_links:
   short_title: Argentina OVNI
 sibling_links:
 - basename: Argentina_354bf9_1960s_sighting_waves_30f9e6
-  title: 1960s Waves | Argentina's UFO Stories, Records, and Reality Checks
-  permalink: /1960s-waves/
-  short_title: 1960s Waves
-  heading_title: Why Argentina's 1960s UFO Waves Still Matter
+  title: 1960 s Waves | Argentina's UFO Stories, Records, and Reality Checks
+  permalink: /1960-s-waves/
+  short_title: 1960 s Waves
+  heading_title: Why Argentina's 1960 s UFO Waves Still Matter
 - basename: Argentina_354bf9_evidence_gaps_1106c2
   title: Evidence Gaps | Argentina's UFO Stories, Records, and Reality Checks
   permalink: /evidence-gaps/
@@ -235,17 +235,17 @@ up_link:
   short_title: Argentina OVNI
 prev_link:
   basename: Argentina_354bf9_1960s_sighting_waves_30f9e6
-  title: 1960s Waves | Argentina's UFO Stories, Records, and Reality Checks
-  permalink: /1960s-waves/
-  short_title: 1960s Waves
-  heading_title: Why Argentina's 1960s UFO Waves Still Matter
+  title: 1960 s Waves | Argentina's UFO Stories, Records, and Reality Checks
+  permalink: /1960-s-waves/
+  short_title: 1960 s Waves
+  heading_title: Why Argentina's 1960 s UFO Waves Still Matter
 next_link:
   basename: Argentina_354bf9_evidence_gaps_1106c2
   title: Evidence Gaps | Argentina's UFO Stories, Records, and Reality Checks
   permalink: /evidence-gaps/
   short_title: Evidence Gaps
   heading_title: Which Argentine UFO Claims Hold Up Best?
-date: '2026-06-09 01:12:57 '
+date: '2026-06-10 01:38:25 '
 header:
   og_image: /assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-1-social.jpg
   preview_image: /assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-
 
 ## Introduction
 
-In [Argentina]({{ 'argentinas-ufo-stories-records-and/' | relative_url }}), the **Centro de Identificación Aeroespacial (CIAE)** is the official aerospace‑phenomenon investigation body within the **Argentine Air Force**, charged with analysing reported **unidentified aerial phenomena (UAP)** — locally referred to as *OVNIs* — to determine their actual causes and publish formal explanations. Created on **4 April 2019** through the restructuring of a long‑standing predecessor, the Comisión de Estudio de Fenómenos Aeroespaciales (CEFAe), CIAE’s mandate is to organise, coordinate and execute investigations of aerospace events, identify conventional origins where possible, and issue conclusions to relevant agencies while also responding to citizen reports with technically grounded resolutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argentina.gob.ar">[Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argentina.gob.ar</span><span class="citation-popover-title">Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar</span><span class="citation-popover-snippet">Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar</span></span></span>
+In Argentina, the **Centro de Identificación Aeroespacial (CIAE)** is the official aerospace‑phenomenon investigation body within the **Argentine Air Force**, charged with analysing reported **unidentified aerial phenomena (UAP)** — locally referred to as *OVNIs* — to determine their actual causes and publish formal explanations. Created on **4 April 2019** through the restructuring of a long‑standing predecessor, the Comisión de Estudio de Fenómenos Aeroespaciales (CEFAe), CIAE’s mandate is to organise, coordinate and execute investigations of aerospace events, identify conventional origins where possible, and issue conclusions to relevant agencies while also responding to citizen reports with technically grounded resolutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argentina.gob.ar">[Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argentina.gob.ar</span><span class="citation-popover-title">Argentina Centro de Identificación Aeroespacial &#124; Argentina.gob.ar</span><span class="citation-popover-snippet">Argentina Centro de Identificación Aeroespacial &#124; Argentina.gob.ar</span></span></span>
 
 
 <img src="{{ "/assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-1-dark.svg" | relative_url }}" alt="CIAE Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -309,7 +309,7 @@ Across these reports the frequent conventional explanations include:
 * **Astronomical or space objects:** stars, planets, the International Space Station, and especially **satellite illuminations and reentry debris** (e.g., Starlink series). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ar ciae annual 2023 informe ciae 2023</span><span class="citation-popover-snippet">UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificación Aeroespacial (CIAE) / Fuerza Aérea Argentina · 2024 · UFO Transparen...</span></span></span>
 * **Human‑made aerial activity:** commercial aircraft, civil drones and balloons responsible for unusual light patterns or movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ar ciae annual 2023 informe ciae 2023</span><span class="citation-popover-snippet">UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificación Aeroespacial (CIAE) / Fuerza Aérea Argentina · 2024 · UFO Transparen...</span></span></span>
 
-CIAE’s 2023 report classified seaborn causes in fine detail, noting dozens of optical aberrations, biological sources, astronomical identifications, and aeronautical contributions — including multiple satellite and drone cases — to close the entire annual docket. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argentina.gob.ar">[Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argentina.gob.ar</span><span class="citation-popover-title">Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar</span><span class="citation-popover-snippet">Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar</span></span></span>
+CIAE’s 2023 report classified seaborn causes in fine detail, noting dozens of optical aberrations, biological sources, astronomical identifications, and aeronautical contributions — including multiple satellite and drone cases — to close the entire annual docket. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argentina.gob.ar">[Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argentina.gob.ar</span><span class="citation-popover-title">Argentina Centro de Identificación Aeroespacial &#124; Argentina.gob.ar</span><span class="citation-popover-snippet">Argentina Centro de Identificación Aeroespacial &#124; Argentina.gob.ar</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wr2veKjqnAc" title="Entrevista al comodoro Lianza sobre la actividad de la CIAE - TV Pública" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wr2veKjqnAc" target="_blank" rel="noopener noreferrer">Entrevista al comodoro Lianza sobre la actividad de la CIAE - TV Pública</a></p><p class="youtube-embed-meta">Channel: FuerzaAerea_Arg &middot; Views: 276 &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wr2veKjqnAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wr2veKjqnAc">Open on YouTube</a></p></div></div></div>
@@ -318,8 +318,8 @@ CIAE’s 2023 report classified seaborn causes in fine detail, noting dozens of 
 
 At first glance, the absence of officially “unexplained” cases might appear to underplay the broader public interest in UFO phenomena. However, CIAE’s work serves several substantive functions:
 
-* **Public transparency and accountability:** By publishing annual reports and clearly stating criteria for analysis and classification, CIAE supports an open record that counters speculation with documented investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argentina.gob.ar">[Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argentina.gob.ar</span><span class="citation-popover-title">Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar</span><span class="citation-popover-snippet">Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar</span></span></span>
-* **Methodological consistency:** Adapting GEIPAN’s structured classification framework aligns Argentina’s practice with international standards of sighting analysis, emphasising evidence over anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
+* **Public transparency and accountability:** By publishing annual reports and clearly stating criteria for analysis and classification, CIAE supports an open record that counters speculation with documented investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argentina.gob.ar">[Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argentina.gob.ar</span><span class="citation-popover-title">Argentina Centro de Identificación Aeroespacial &#124; Argentina.gob.ar</span><span class="citation-popover-snippet">Argentina Centro de Identificación Aeroespacial &#124; Argentina.gob.ar</span></span></span>
+* **Methodological consistency:** Adapting GEIPAN’s structured classification framework aligns Argentina’s practice with international standards of sighting analysis, emphasising evidence over anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 * **Refining observational literacy:** Many resolved cases, such as satellite reflections or drone misidentifications, illustrate common perceptual and photographic pitfalls — powerful educational steps in improving public understanding of aerospace phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ar ciae annual 2023 informe ciae 2023</span><span class="citation-popover-snippet">UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificación Aeroespacial (CIAE) / Fuerza Aérea Argentina · 2024 · UFO Transparen...</span></span></span>
 * **Institutional learning:** CIAE has retrospectively revisited older examples under new analytical techniques, reclassifying legacy sightings and demonstrating that professional pilot testimony does not inherently carry greater evidentiary weight once subject to rigorous technical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ar ciae annual 2023 informe ciae 2023</span><span class="citation-popover-snippet">UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificación Aeroespacial (CIAE) / Fuerza Aérea Argentina · 2024 · UFO Transparen...</span></span></span>
 
@@ -329,86 +329,44 @@ In sum, while Argentina’s official UFO reports do not endorse unexplained or e
 <img src="{{ "/assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-3-dark.svg" | relative_url }}" alt="CIAE Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_ciae_official_report_d9f0fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Argentina&#x27;s Official UFO Reports Actually Find. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Argentina&#x27;s Official UFO Reports Actually Find, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Demonstrates how authorities analyze and classify reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains methodologies for evaluating sighting evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores contemporary government and military approaches to UAPs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Most closely aligned with official reporting and aviation-focused investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -442,75 +400,71 @@ In sum, while Argentina’s official UFO reports do not endorse unexplained or e
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ciae-reports-what-argentina-s-official-ufo-reports-actually-find-argentina-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -725,122 +679,122 @@ In sum, while Argentina’s official UFO reports do not endorse unexplained or e
 1. <a id="endnote-1"></a>
    Source: argentina.gob.ar  
    Title: Argentina Centro de Identificación Aeroespacial | Argentina.gob.ar  
-   Link: [https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial](https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial)  
+   Link: <a href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial</a>  
 
 2. <a id="endnote-2"></a>
    Source: ufotransparency.com  
    Title: intl ar ciae annual 2023 informe ciae 2023  
-   Link: [https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023](https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023)  
+   Link: <a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificación Aeroespacial (CIAE) / Fuerza Aérea Argentina · 2024 · UFO Transparen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufotransparency.com  
    Title: intl ar ciae annual 2025 informe ciae 2025  
-   Link: [https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025](https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025)  
+   Link: <a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCIAE Informe de Casos 2025, Centro de Investigación Aeroespacial (CIAE, ex–Centro de Identificación Aeroespacial) / Fuerz...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: argentina.gob.ar  
-   Link: [https://www.argentina.gob.ar/sites/default/files/2018/11/informe-ciae-2023.pdf](https://www.argentina.gob.ar/sites/default/files/2018/11/informe-ciae-2023.pdf)  
+   Link: <a href="https://www.argentina.gob.ar/sites/default/files/2018/11/informe-ciae-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/sites/default/files/2018/11/informe-ciae-2023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCCIÓN El CentroNovember 1, 2025...</p></details>
    Published: November 1, 2025  
 
 5. <a id="endnote-5"></a>
    Source: geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: [https://www.geipan.fr/en/node/440](https://www.geipan.fr/en/node/440)  
+   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
 
 6. <a id="endnote-6"></a>
    Source: ufotransparency.com  
    Title: intl ar ciae annual 2018 informe ciae 2018  
-   Link: [https://ufotransparency.com/files/intl-ar-ciae-annual-2018-informe-ciae-2018](https://ufotransparency.com/files/intl-ar-ciae-annual-2018-informe-ciae-2018)  
+   Link: <a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2018-informe-ciae-2018" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2018-informe-ciae-2018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAE Informe de Casos 2018, Comisión de Estudio de Fenómenos Aeroespaciales (CEFAe) / Fuerza Aérea Argentina · 2019 · UFO TransparencyJa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ufotransparency.com  
    Title: intl ar ciae annual 2016 informe ciae 2016  
-   Link: [https://ufotransparency.com/files/intl-ar-ciae-annual-2016-informe-ciae-2016](https://ufotransparency.com/files/intl-ar-ciae-annual-2016-informe-ciae-2016)  
+   Link: <a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2016-informe-ciae-2016" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2016-informe-ciae-2016</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAE Informe de Casos 2016, Comisión de Estudio de Fenómenos Aeroespaciales (CEFAe) / Fuerza Aérea Argentina · 2017 · UFO TransparencyJa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: argentina.gob.ar  
-   Link: [https://www.argentina.gob.ar/node/120772](https://www.argentina.gob.ar/node/120772)  
+   Link: <a href="https://www.argentina.gob.ar/node/120772" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/node/120772</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro de Identificación Aeroespacial | Argentina.gob.arCENTRO DE IDENTIFICACIÓN AEROESPACIAL El Centro de Identificación Aeroespacial fu...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: argentina.gob.ar  
    Title: historial de actividades 2025  
-   Link: [https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial/historial-de-actividades-2025](https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial/historial-de-actividades-2025)  
+   Link: <a href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial/historial-de-actividades-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial/historial-de-actividades-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DE ACTIVIDADES 2025 Compartir en redes sociales * Compartir en Facebook * Compartir en X * Compartir en Linkedin * Compartir en Whatsapp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: argentina.gob.ar  
    Title: historial de actividades 2020  
-   Link: [https://www.argentina.gob.ar/centro-de-identificacion-aeroespacial/historial-de-actividades-2020](https://www.argentina.gob.ar/centro-de-identificacion-aeroespacial/historial-de-actividades-2020)  
+   Link: <a href="https://www.argentina.gob.ar/centro-de-identificacion-aeroespacial/historial-de-actividades-2020" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/centro-de-identificacion-aeroespacial/historial-de-actividades-2020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DE ACTIVIDADES 2020 Compartir en redes sociales * Compartir en Facebook * Compartir en X * Compartir en Linkedin * Compartir en Whatsapp...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/international/findings/ar](https://ufotransparency.com/international/findings/ar)  
+   Link: <a href="https://ufotransparency.com/international/findings/ar" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/findings/ar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argentina findings · 02 International Disclosure · UFO TransparencyDI02 · INTERNATIONAL DISCLOSURE 550 FILES·LAST 7D AGO 550 Files·276 In...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Entrevista al comodoro Lianza sobre la actividad de la CIAE  
-   Link: [http://www.youtube.com/watch?v=wr2veKjqnAc](http://www.youtube.com/watch?v=wr2veKjqnAc)  
+   Link: <a href="http://www.youtube.com/watch?v=wr2veKjqnAc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wr2veKjqnAc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro de Identificación Aeroespacial - Resolución Caso Bariloche...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Centro de Identificación Aeroespacial  
-   Link: [http://www.youtube.com/watch?v=DQPm-i-IDm4](http://www.youtube.com/watch?v=DQPm-i-IDm4)  
+   Link: <a href="http://www.youtube.com/watch?v=DQPm-i-IDm4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DQPm-i-IDm4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Análisis de las luces de satélites Starlink - Fenómenos TN...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: mnews.com.ar  
-   Link: [https://mnews.com.ar/notas/32955](https://mnews.com.ar/notas/32955)  
+   Link: <a href="https://mnews.com.ar/notas/32955" target="_blank" rel="noopener noreferrer nofollow">https://mnews.com.ar/notas/32955</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS en Argentina: así trabaja el organismo especializado en analizar los casos nacionalesSeptember 22, 2022 — ARGENTINA INCREIBLE OVNIS...</p></details>
    Published: September 22, 2022  
 
 15. <a id="endnote-15"></a>
    Source: elfederalmendoza.com.ar  
-   Link: [https://elfederalmendoza.com.ar/index.php/2025/09/07/ovnis-en-argentina-estos-son-los-casos-que-investigo-la-fuerza-aerea/](https://elfederalmendoza.com.ar/index.php/2025/09/07/ovnis-en-argentina-estos-son-los-casos-que-investigo-la-fuerza-aerea/)  
+   Link: <a href="https://elfederalmendoza.com.ar/index.php/2025/09/07/ovnis-en-argentina-estos-son-los-casos-que-investigo-la-fuerza-aerea/" target="_blank" rel="noopener noreferrer nofollow">https://elfederalmendoza.com.ar/index.php/2025/09/07/ovnis-en-argentina-estos-son-los-casos-que-investigo-la-fuerza-aerea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 7, 2025 — OVNIS EN ARGENTINA: ESTOS SON LOS CASOS QUE INVESTIGÓ LA FUERZA AÉREA PORREDACCIÓN EL FEDERAL Sep 7, 2025 Image Desde...</p></details>
    Published: September 7, 2025  
 
 16. <a id="endnote-16"></a>
    Source: labrujula24.com  
    Title: La Fuerza Aérea investigó más de 350 avistajes de ovnis registrados en el país  
-   Link: [https://www.labrujula24.com/notas/2023/08/12/la-fuerza-aerea-investigo-mas-de-350-avistajes-de-ovnis-registrados-en-el-pais-n312320/](https://www.labrujula24.com/notas/2023/08/12/la-fuerza-aerea-investigo-mas-de-350-avistajes-de-ovnis-registrados-en-el-pais-n312320/)  
+   Link: <a href="https://www.labrujula24.com/notas/2023/08/12/la-fuerza-aerea-investigo-mas-de-350-avistajes-de-ovnis-registrados-en-el-pais-n312320/" target="_blank" rel="noopener noreferrer nofollow">https://www.labrujula24.com/notas/2023/08/12/la-fuerza-aerea-investigo-mas-de-350-avistajes-de-ovnis-registrados-en-el-pais-n312320/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La Brújula 24August 12, 2023 — LA FUERZA AÉREA INVESTIGÓ MÁS DE 350 AVISTAJES DE OVNIS REGISTRADOS EN EL PAÍS LA FUERZA AÉREA INVESTIGÓ M...</p></details>
    Published: August 12, 2023  
 
 17. <a id="endnote-17"></a>
    Source: cadena3.com  
    Title: La Fuerza Aérea argentina tiene un equipo que estudia si hay ovnis: "Sólo dudas"  
-   Link: [https://www.cadena3.com/amp/noticia/amamos-argentina/la-fuerza-aerea-argentina-tiene-un-equipo-que-estudia-si-hay-ovnis-solo-dudas_550750](https://www.cadena3.com/amp/noticia/amamos-argentina/la-fuerza-aerea-argentina-tiene-un-equipo-que-estudia-si-hay-ovnis-solo-dudas_550750)  
+   Link: <a href="https://www.cadena3.com/amp/noticia/amamos-argentina/la-fuerza-aerea-argentina-tiene-un-equipo-que-estudia-si-hay-ovnis-solo-dudas_550750" target="_blank" rel="noopener noreferrer nofollow">https://www.cadena3.com/amp/noticia/amamos-argentina/la-fuerza-aerea-argentina-tiene-un-equipo-que-estudia-si-hay-ovnis-solo-dudas_550750</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amamos Argentina LA FUERZA AÉREA ARGENTINA TIENE UN EQUIPO QUE ESTUDIA SI HAY OVNIS: &quot;SÓLO DUDAS&quot; 12/05/2026 | 23:21 SE TRATA DEL CEN...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: fenix951.com.ar  
-   Link: [https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844](https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844)  
+   Link: <a href="https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844" target="_blank" rel="noopener noreferrer nofollow">https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ovnis en Argentina: los 36 casos que investigó la Fuerza Aérea y cómo los resolvióMay 25, 2025 — OVNIS EN ARGENTINA: LOS 36 CASOS QUE INV...</p></details>
    Published: May 25, 2025  
 
 19. <a id="endnote-19"></a>
    Source: infobae.com  
-   Link: [https://www.infobae.com/sociedad/2020/01/12/los-23-casos-de-avistamiento-de-ovnis-que-los-argentinos-denunciaron-en-2019-y-un-organismo-estatal-investigo/](https://www.infobae.com/sociedad/2020/01/12/los-23-casos-de-avistamiento-de-ovnis-que-los-argentinos-denunciaron-en-2019-y-un-organismo-estatal-investigo/)  
+   Link: <a href="https://www.infobae.com/sociedad/2020/01/12/los-23-casos-de-avistamiento-de-ovnis-que-los-argentinos-denunciaron-en-2019-y-un-organismo-estatal-investigo/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/sociedad/2020/01/12/los-23-casos-de-avistamiento-de-ovnis-que-los-argentinos-denunciaron-en-2019-y-un-organismo-estatal-investigo/</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: 2 de Julio  
-   Link: [http://www.youtube.com/watch?v=9fIizecF4eQ](http://www.youtube.com/watch?v=9fIizecF4eQ)  
+   Link: <a href="http://www.youtube.com/watch?v=9fIizecF4eQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9fIizecF4eQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La verdad detrás de los avistamientos OVNI en Argentina...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Análisis de las luces de satélites Starlink  
-   Link: [http://www.youtube.com/watch?v=xloo0anXLHc](http://www.youtube.com/watch?v=xloo0anXLHc)  
+   Link: <a href="http://www.youtube.com/watch?v=xloo0anXLHc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xloo0anXLHc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 de Julio - Día Mundial del OVNI...</p></details>

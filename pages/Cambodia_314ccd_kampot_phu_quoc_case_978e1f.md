@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings/
   short_title: Sightings
   heading_title: How Reliable Are Cambodia's UFO Witness Stories?
-date: '2026-06-09 01:23:39 '
+date: '2026-06-10 01:48:08 '
 header:
   og_image: /assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1-social.jpg
   preview_image: /assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1.webp
@@ -254,23 +254,23 @@ image: /assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1
 
 ## Introduction
 
-The 2008 Kampot–Phu Quoc debris incident remains [Cambodia]({{ 'what-really-happened-in-cambodias-ufo/' | relative_url }})’s most substantial UFO-linked case because it involved physical fragments, cross-border reporting, military attention, aviation checks, and identifiable witnesses rather than anonymous lights in the sky. Yet the case is also a useful example of how the term “UFO” can distort public understanding. The object was unidentified, but the evidence never clearly pointed toward extraterrestrial technology. Instead, investigators on both the Cambodian and Vietnamese sides treated it as a possible aircraft, missile, drone, or military-related debris event from the beginning. The Mail & Guardian HanoiTimes What makes the case enduring is not a spectacular claim of alien visitation <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>, but the unresolved gap between the dramatic explosion reports and the absence of any confirmed crashed aircraft. Metal fragments were recovered along the coast near Kampot and on Vietnam’s Phu Quoc Island, airlines across the region denied losing aircraft, and officials publicly contradicted one another in the first 48 hours. The result was a regional mystery that briefly entered international headlines as a possible “UFO explosion”.
+The 2008 Kampot–Phu Quoc debris incident remains Cambodia’s most substantial UFO-linked case because it involved physical fragments, cross-border reporting, military attention, aviation checks, and identifiable witnesses rather than anonymous lights in the sky. Yet the case is also a useful example of how the term “UFO” can distort public understanding. The object was unidentified, but the evidence never clearly pointed toward extraterrestrial technology. Instead, investigators on both the Cambodian and Vietnamese sides treated it as a possible aircraft, missile, drone, or military-related debris event from the beginning. The Mail & Guardian HanoiTimes What makes the case enduring is not a spectacular claim of alien visitation <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>, but the unresolved gap between the dramatic explosion reports and the absence of any confirmed crashed aircraft. Metal fragments were recovered along the coast near Kampot and on Vietnam’s Phu Quoc Island, airlines across the region denied losing aircraft, and officials publicly contradicted one another in the first 48 hours. The result was a regional mystery that briefly entered international headlines as a possible “UFO explosion”.
 
 
 <img src="{{ "/assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1-dark.svg" | relative_url }}" alt="Kampot Case illustration 1" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Happened Over the Gulf of Thailand?
 
-On 27 May 2008, residents on and around Vietnam’s Phu Quoc Island reported hearing a loud aerial explosion. Witnesses described smoke trails and falling debris over the sea and coastal areas near the Cambodia–Vietnam maritime boundary. Vietnamese state media quickly characterised the event as involving an “unidentified flying object”, using the term literally because the object had not yet been identified. The Mail & Guardian HanoiTimes Phu Quoc lies only a short distance from Cambodia’s Kampot coastline <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>, and reports soon emerged from Cambodian fishing communities and coastal villages as well. According to Cambodian provincial police and local reporting, villagers in Kampot heard a blast and later recovered metallic fragments from rice fields and fishing nets. Some debris reportedly washed ashore as far as Sihanoukville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+On 27 May 2008, residents on and around Vietnam’s Phu Quoc Island reported hearing a loud aerial explosion. Witnesses described smoke trails and falling debris over the sea and coastal areas near the Cambodia–Vietnam maritime boundary. Vietnamese state media quickly characterised the event as involving an “unidentified flying object”, using the term literally because the object had not yet been identified. The Mail & Guardian HanoiTimes Phu Quoc lies only a short distance from Cambodia’s Kampot coastline <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>, and reports soon emerged from Cambodian fishing communities and coastal villages as well. According to Cambodian provincial police and local reporting, villagers in Kampot heard a blast and later recovered metallic fragments from rice fields and fishing nets. Some debris reportedly washed ashore as far as Sihanoukville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 The earliest confusion came from conflicting official statements. Cambodian military figures initially suggested a small aircraft might have crashed in Kampot province, but those statements were later withdrawn when no aircraft wreckage, bodies, flight records, or distress signals were found. Reuters reported that Cambodia’s air force retracted the crash claim within a day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2008 05 28 vietnam reports ufo explosion off cambodia coast</span><span class="citation-popover-snippet">The Mail &amp; GuardianVietnam reports &#x27;UFO&#x27; explosion off Cambodia coast28 May 2008 — An unidentified flying object exploded in mid-air over...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
-Vietnamese authorities meanwhile launched searches around northern Phu Quoc. Soldiers and local officials attempted to locate additional debris and possible victims, though none were found. Vietnamese aviation authorities stated that no Vietnamese civil or military aircraft had been operating in the area at the reported time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+Vietnamese authorities meanwhile launched searches around northern Phu Quoc. Soldiers and local officials attempted to locate additional debris and possible victims, though none were found. Vietnamese aviation authorities stated that no Vietnamese civil or military aircraft had been operating in the area at the reported time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 ## Witness Reports and Metal Fragments
 
-The most important evidence in the case was not eyewitness testimony alone but the recovery of physical debris. Reports from both countries consistently described grey metallic fragments, some painted green-yellow, with screws and panel-like characteristics associated with aircraft materials. Several recovered pieces were unusually large for ordinary household debris, including one fragment roughly 1.5 metres long. The Mail & Guardian HanoiTimes Cambodian accounts gave the incident an especially dramatic quality because some witnesses claimed fragments fell directly into inhabited are <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> as. The Cambodia Daily reported that a villager said a metal piece landed in his rice field and nearly struck him. Fishing crews later recovered additional pieces from coastal waters near Kampot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+The most important evidence in the case was not eyewitness testimony alone but the recovery of physical debris. Reports from both countries consistently described grey metallic fragments, some painted green-yellow, with screws and panel-like characteristics associated with aircraft materials. Several recovered pieces were unusually large for ordinary household debris, including one fragment roughly 1.5 metres long. The Mail & Guardian HanoiTimes Cambodian accounts gave the incident an especially dramatic quality because some witnesses claimed fragments fell directly into inhabited are <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> as. The Cambodia Daily reported that a villager said a metal piece landed in his rice field and nearly struck him. Fishing crews later recovered additional pieces from coastal waters near Kampot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
-Vietnamese local officials added details that strengthened the impression of an aerial breakup event rather than a simple explosion on the ground. Witnesses in Cua Can commune reportedly saw smoke trails in the sky after hearing the blast, while military personnel searched for signs of wreckage across a broad coastal zone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/phuquoc2008.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UfologieSomething called UFO exploded in Vietnam, 2008An unidentified flying object crashed on Phu Quoc island on May 27, 2008. Residents...</span><span class="citation-popover-meta">Published: May 27, 2008</span></span></span>
+Vietnamese local officials added details that strengthened the impression of an aerial breakup event rather than a simple explosion on the ground. Witnesses in Cua Can commune reportedly saw smoke trails in the sky after hearing the blast, while military personnel searched for signs of wreckage across a broad coastal zone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/phuquoc2008.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Something called UFO exploded in Vietnam, 2008An unidentified flying object crashed on Phu Quoc island on May 27, 2008. Residents...</span><span class="citation-popover-meta">Published: May 27, 2008</span></span></span>
 
 At the same time, the evidence had important limitations:
 
@@ -292,7 +292,7 @@ Those absences became central to later sceptical interpretations of the incident
 
 ## Cambodian and Vietnamese Aviation Checks
 
-One reason the incident attracted sustained attention was the unusually visible cross-border investigation. Cambodian and Vietnamese authorities publicly coordinated aviation inquiries almost immediately after the explosion reports. Airlines in Vietnam, Cambodia, and Thailand were contacted to determine whether any commercial aircraft had disappeared from radar or failed to arrive. None had. The Mail & Guardian HanoiTimes Vietnamese reporting stressed that the explosion occurred in international airspace frequently used by civilian flights. Officials from Kien <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> Giang province stated that defence experts were dispatched to examine the recovered fragments and determine whether they came from an aircraft, missile, or another airborne object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+One reason the incident attracted sustained attention was the unusually visible cross-border investigation. Cambodian and Vietnamese authorities publicly coordinated aviation inquiries almost immediately after the explosion reports. Airlines in Vietnam, Cambodia, and Thailand were contacted to determine whether any commercial aircraft had disappeared from radar or failed to arrive. None had. The Mail & Guardian HanoiTimes Vietnamese reporting stressed that the explosion occurred in international airspace frequently used by civilian flights. Officials from Kien <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> Giang province stated that defence experts were dispatched to examine the recovered fragments and determine whether they came from an aircraft, missile, or another airborne object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 Cambodian local authorities were more speculative in public. One Kampot police official suggested the debris may have come from a drone or surveillance craft that exploded at the end of a mission. That interpretation was never formally substantiated, but it reflected a broader regional concern about military or intelligence hardware operating over maritime border zones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
@@ -314,7 +314,7 @@ The phrase “UFO explosion” appeared in headlines within hours because the ca
 
 </div>
 
-Vietnamese state-linked reporting itself used the term “unidentified flying object”, which international media then reproduced. The Mail & Guardian HanoiTimes This wording mattered. In ordinary aviation language <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>, “UFO” simply means an object that has not yet been identified. But in popular culture the term strongly implies extraterrestrial craft. As Reuters and other outlets repeated the phrase, the story migrated rapidly into paranormal websites, UFO forums, and later YouTube compilations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">UFO blamed for mystery explosion in Vietnam</span><span class="citation-popover-snippet">The TelegraphUFO blamed for mystery explosion in Vietnam29 May 2008 — The island&#x27;s military chief Col Nguyen Van Qui described the craft...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+Vietnamese state-linked reporting itself used the term “unidentified flying object”, which international media then reproduced. The Mail & Guardian HanoiTimes This wording mattered. In ordinary aviation language <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[hanoitimes.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>, “UFO” simply means an object that has not yet been identified. But in popular culture the term strongly implies extraterrestrial craft. As Reuters and other outlets repeated the phrase, the story migrated rapidly into paranormal websites, UFO forums, and later YouTube compilations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[The Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">UFO blamed for mystery explosion in Vietnam</span><span class="citation-popover-snippet">The TelegraphUFO blamed for mystery explosion in Vietnam29 May 2008 — The island&#x27;s military chief Col Nguyen Van Qui described the craft...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 Some later internet retellings added claims that were absent from the original reporting, including assertions about glowing craft, alien bodies, or military cover-ups. Those claims do not appear in the contemporaneous Reuters, Vietnam News Agency, or Cambodian newspaper coverage. The original reports remained comparatively restrained and focused mainly on unexplained debris and aviation uncertainty. The Mail & Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
@@ -324,13 +324,13 @@ Some later internet retellings added claims that were absent from the original r
 
 ### A conventional aircraft breakup
 
-The most straightforward explanation is that the debris came from an aircraft-related event that never became publicly identified. The fragments were metallic, riveted, and apparently aerodynamic in construction. Witnesses described an airborne explosion rather than strange manoeuvring lights or structured craft behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+The most straightforward explanation is that the debris came from an aircraft-related event that never became publicly identified. The fragments were metallic, riveted, and apparently aerodynamic in construction. Witnesses described an airborne explosion rather than strange manoeuvring lights or structured craft behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 However, this explanation faces a major problem: no airline or military authority acknowledged losing an aircraft. In modern aviation, a complete disappearance without international awareness is difficult to reconcile with civil flight tracking systems, even in 2008.
 
 ### Military hardware or missile debris
 
-Several observers proposed that the fragments may have originated from military equipment rather than a passenger aircraft. The Gulf of Thailand region has long hosted military patrol activity, naval exercises, and sensitive border monitoring. Some analysts later speculated about a missile malfunction, drone breakup, or detached fuel tank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.scribd.com/document/561966067/Vietnam-reports-UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.scribd.com</span><span class="citation-popover-snippet">ScribdVietnam UFO Explosion Reports Analysis | PDF... UFO&quot; explosion - what could this be/has anything heard anything related to this? On...</span></span></span>
+Several observers proposed that the fragments may have originated from military equipment rather than a passenger aircraft. The Gulf of Thailand region has long hosted military patrol activity, naval exercises, and sensitive border monitoring. Some analysts later speculated about a missile malfunction, drone breakup, or detached fuel tank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.scribd.com/document/561966067/Vietnam-reports-UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.scribd.com</span><span class="citation-popover-snippet">Vietnam UFO Explosion Reports Analysis &#124; PDF... UFO&quot; explosion - what could this be/has anything heard anything related to this? On...</span></span></span>
 
 This interpretation aligns more closely with the lack of passenger remains and the absence of a known commercial aviation disaster. It also fits Cambodian local police speculation about a drone-related incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
@@ -343,7 +343,7 @@ Yet no government publicly confirmed a military loss either, leaving this theory
 
 A smaller number of commentators suggested the fragments may have originated from re-entering rocket or satellite debris. Such events can scatter metallic fragments across large areas and sometimes create loud sonic effects.
 
-The difficulty with this theory is the witness testimony describing an apparent explosion over a relatively localised zone rather than a long atmospheric re-entry trail. Reports also described panel-like pieces more consistent with aircraft construction than with burnt space debris, though no complete metallurgical findings were released publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+The difficulty with this theory is the witness testimony describing an apparent explosion over a relatively localised zone rather than a long atmospheric re-entry trail. Reports also described panel-like pieces more consistent with aircraft construction than with burnt space debris, though no complete metallurgical findings were released publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoitimes.vn">[HanoiTimes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoitimes.vn</span><span class="citation-popover-title">vietnam probes mystery ufo incident 44917</span><span class="citation-popover-snippet">Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yMMZTNKAz1k" title="Debris from unidentified flying object washes up in Orchid Island｜Taiwan News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yMMZTNKAz1k" target="_blank" rel="noopener noreferrer">Debris from unidentified flying object washes up in Orchid Island｜Taiwan News</a></p><p class="youtube-embed-meta">Channel: Formosa News (民視英語新聞) &middot; Views: 288 &middot; Uploaded: December 2025 &middot; Length: 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yMMZTNKAz1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yMMZTNKAz1k">Open on YouTube</a></p></div></div></div>
@@ -364,86 +364,44 @@ For researchers comparing Cambodia with neighbouring countries, the Kampot event
 <img src="{{ "/assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-3-dark.svg" | relative_url }}" alt="Kampot Case illustration 3" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did the Kampot Explosion Really Involve a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did the Kampot Explosion Really Involve a UFO?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides methods for evaluating conflicting witness and physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Useful comparison for debris and unidentified-object cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relevant to cases involving physical evidence and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores unresolved incidents and investigative gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -477,75 +435,71 @@ For researchers comparing Cambodia with neighbouring countries, the Kampot event
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -760,93 +714,93 @@ For researchers comparing Cambodia with neighbouring countries, the Kampot event
 1. <a id="endnote-1"></a>
    Source: hanoitimes.vn  
    Title: vietnam probes mystery ufo incident 44917  
-   Link: [https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html](https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HanoiTimesVietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</p></details>
+   Link: <a href="https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html" target="_blank" rel="noopener noreferrer nofollow">https://hanoitimes.vn/vietnam-probes-mystery-ufo-incident-44917.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnam probes mystery &#x27;UFO&#x27; incident29 May 2008 — The authorities of the southern province of Kien Giang reported a UFO explos...</p></details>
    Published: May 2008  
 
 2. <a id="endnote-2"></a>
    Source: ru.scribd.com  
-   Link: [https://ru.scribd.com/document/561966067/Vietnam-reports-UFO](https://ru.scribd.com/document/561966067/Vietnam-reports-UFO)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdVietnam UFO Explosion Reports Analysis | PDF... UFO&quot; explosion - what could this be/has anything heard anything related to this? On...</p></details>
+   Link: <a href="https://ru.scribd.com/document/561966067/Vietnam-reports-UFO" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/561966067/Vietnam-reports-UFO</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnam UFO Explosion Reports Analysis | PDF... UFO&quot; explosion - what could this be/has anything heard anything related to this? On...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/video/watch/idRW870410122025RP1/](https://www.reuters.com/video/watch/idRW870410122025RP1/)  
+   Link: <a href="https://www.reuters.com/video/watch/idRW870410122025RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW870410122025RP1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai security guards stay to protect homes from looters...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/news/picture/in-the-ruins-of-tianjin-idUKRTX1O9TS/](https://www.reuters.com/news/picture/in-the-ruins-of-tianjin-idUKRTX1O9TS/)  
+   Link: <a href="https://www.reuters.com/news/picture/in-the-ruins-of-tianjin-idUKRTX1O9TS/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/news/picture/in-the-ruins-of-tianjin-idUKRTX1O9TS/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the ruins of TianjinImages from the aftermath of deadly blasts in the Chinese port city. Rescue workers stand in front of a damaged bu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: cambodians flee their lives into dire conditions amid border clashes 2025 12 11  
-   Link: [https://www.reuters.com/world/china/cambodians-flee-their-lives-into-dire-conditions-amid-border-clashes-2025-12-11/](https://www.reuters.com/world/china/cambodians-flee-their-lives-into-dire-conditions-amid-border-clashes-2025-12-11/)  
+   Link: <a href="https://www.reuters.com/world/china/cambodians-flee-their-lives-into-dire-conditions-amid-border-clashes-2025-12-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/cambodians-flee-their-lives-into-dire-conditions-amid-border-clashes-2025-12-11/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambodians flee for their lives into dire conditions amid...11 Dec 2025 — Bullets were flying as Cambodian casino worker Chay Rey and he...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yMMZTNKAz1k](https://www.youtube.com/watch?v=yMMZTNKAz1k)  
+   Link: <a href="https://www.youtube.com/watch?v=yMMZTNKAz1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yMMZTNKAz1k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>from what appears to be a part of a rocket or the fuselage of a plane...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Kp2nrCG12GU](https://www.youtube.com/watch?v=Kp2nrCG12GU)  
+   Link: <a href="https://www.youtube.com/watch?v=Kp2nrCG12GU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kp2nrCG12GU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rnment in an ongoing border dispute with Thailand triggered by the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UZKKQZnkNY4](https://www.youtube.com/watch?v=UZKKQZnkNY4)  
+   Link: <a href="https://www.youtube.com/watch?v=UZKKQZnkNY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZKKQZnkNY4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 640th Piece That Solved The MysteryWhen the 640th piece of wreckage surfaced, investigators finally solved the mystery of why China A...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xsYO3F1ZhFk](https://www.youtube.com/watch?v=xsYO3F1ZhFk)  
+   Link: <a href="https://www.youtube.com/watch?v=xsYO3F1ZhFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xsYO3F1ZhFk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explosion over CambodiaAn interesting find. Cambodian police are investigating the source of mysterious metal debris found in Kampot...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Young man from Kien Giang creates UFO  
-   Link: [https://www.youtube.com/watch?v=PeL5Ml3ixRQ](https://www.youtube.com/watch?v=PeL5Ml3ixRQ)  
+   Link: <a href="https://www.youtube.com/watch?v=PeL5Ml3ixRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PeL5Ml3ixRQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OR NOT? | Ch3Thailand...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO OR NOT? | Ch3Thailand  
-   Link: [https://www.youtube.com/watch?v=3skbevoRsbI](https://www.youtube.com/watch?v=3skbevoRsbI)  
+   Link: <a href="https://www.youtube.com/watch?v=3skbevoRsbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3skbevoRsbI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The first video provides direct historical documentation of the 2008 incident involving the investigation of metallic debris in Kampot an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mg.co.za  
    Title: 2008 05 28 vietnam reports ufo explosion off cambodia coast  
-   Link: [https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/](https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/)  
+   Link: <a href="https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mail &amp; GuardianVietnam reports &#x27;UFO&#x27; explosion off Cambodia coast28 May 2008 — An unidentified flying object exploded in mid-air over...</p></details>
    Published: May 2008  
 
 13. <a id="endnote-13"></a>
    Source: english.cambodiadaily.com  
    Title: aircraft debris was found on kampot coast local officials  
-   Link: [https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/](https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/)  
+   Link: <a href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</p></details>
    Published: May 2008  
 
 14. <a id="endnote-14"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/phuquoc2008.htm](https://ufologie.patrickgross.org/htm/phuquoc2008.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UfologieSomething called UFO exploded in Vietnam, 2008An unidentified flying object crashed on Phu Quoc island on May 27, 2008. Residents...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/htm/phuquoc2008.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/phuquoc2008.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Something called UFO exploded in Vietnam, 2008An unidentified flying object crashed on Phu Quoc island on May 27, 2008. Residents...</p></details>
    Published: May 27, 2008  
 
 15. <a id="endnote-15"></a>
    Source: telegraph.co.uk  
    Title: UFO blamed for mystery explosion in Vietnam  
-   Link: [https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html](https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html)  
+   Link: <a href="https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The TelegraphUFO blamed for mystery explosion in Vietnam29 May 2008 — The island&#x27;s military chief Col Nguyen Van Qui described the craft...</p></details>
    Published: May 2008  
 
 16. <a id="endnote-16"></a>
    Source: zeenews.india.com  
-   Link: [https://zeenews.india.com/taxonomy/term/1037332](https://zeenews.india.com/taxonomy/term/1037332)  
+   Link: <a href="https://zeenews.india.com/taxonomy/term/1037332" target="_blank" rel="noopener noreferrer nofollow">https://zeenews.india.com/taxonomy/term/1037332</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reports UFO explosion | Out of Line News29 May 2008 — An unidentified flying object exploded in mid-air over a southern Vietnamese island...</p></details>
    Published: May 2008  
 
@@ -854,59 +808,59 @@ For researchers comparing Cambodia with neighbouring countries, the Kampot event
 
 17. <a id="endnote-17"></a>
    Source: mg.co.za  
-   Link: [https://mg.co.za/tag/kung-mony/](https://mg.co.za/tag/kung-mony/)  
+   Link: <a href="https://mg.co.za/tag/kung-mony/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/tag/kung-mony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kung-monyAn unidentified flying object exploded in mid-air over a southern Vietnamese island... Residents of Phu Quoc Island found shard...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aviationweek.com  
-   Link: [https://aviationweek.com/investigators-are-looking-several-theories-behind-why-thai-airways-international-boeing-737-400](https://aviationweek.com/investigators-are-looking-several-theories-behind-why-thai-airways-international-boeing-737-400)  
+   Link: <a href="https://aviationweek.com/investigators-are-looking-several-theories-behind-why-thai-airways-international-boeing-737-400" target="_blank" rel="noopener noreferrer nofollow">https://aviationweek.com/investigators-are-looking-several-theories-behind-why-thai-airways-international-boeing-737-400</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigators are looking into several theories behind why...12 Mar 2001 — Investigators are looking into several theories behind why a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reliefweb.int  
    Title: Vietnam floods kill 14, Hanoi streets under water  
-   Link: [https://reliefweb.int/report/viet-nam/vietnam-floods-kill-14-hanoi-streets-under-water](https://reliefweb.int/report/viet-nam/vietnam-floods-kill-14-hanoi-streets-under-water)  
+   Link: <a href="https://reliefweb.int/report/viet-nam/vietnam-floods-kill-14-hanoi-streets-under-water" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/viet-nam/vietnam-floods-kill-14-hanoi-streets-under-water</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Viet Nam31 Oct 2008 — HANOI, Oct 31 (Reuters) - Floods from heavy rain in Vietnam&#x27;s central provinces have killed at least 14 people in t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ww2aircraft.net  
    Title: ufo explodes over phu quoc island viet nam.13398  
-   Link: [https://ww2aircraft.net/forum/threads/ufo-explodes-over-phu-quoc-island-viet-nam.13398/](https://ww2aircraft.net/forum/threads/ufo-explodes-over-phu-quoc-island-viet-nam.13398/)  
+   Link: <a href="https://ww2aircraft.net/forum/threads/ufo-explodes-over-phu-quoc-island-viet-nam.13398/" target="_blank" rel="noopener noreferrer nofollow">https://ww2aircraft.net/forum/threads/ufo-explodes-over-phu-quoc-island-viet-nam.13398/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO explodes over Phu Quoc Island (Viet Nam)29 May 2008 — An unidentified flying object exploded at about 10am yesterday morning (28.05...</p></details>
    Published: May 2008  
 
 21. <a id="endnote-21"></a>
    Source: fauna-flora.org  
    Title: FFI 2008 Cambodian Journal of Natural History  
-   Link: [https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_2008_Cambodian-Journal-of-Natural-History.pdf](https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_2008_Cambodian-Journal-of-Natural-History.pdf)  
+   Link: <a href="https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_2008_Cambodian-Journal-of-Natural-History.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_2008_Cambodian-Journal-of-Natural-History.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambodian Journal of Natural HistoryIn 2008, a new guidebook will docu- ment at least 63 species of amphibians that have been collected i...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: sự cố ufo phát nổ tại phú quốc năm 2008  
-   Link: [https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en)  
+   Link: <a href="https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;UFO&quot; incident that exploded in Phu Quoc in 2008In May 2008, an unidentified flying object, or UFO, exploded and crashed in the sky a...</p></details>
    Published: May 2008  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Thai Airways International Flight 114  
-   Link: [https://en.wikipedia.org/wiki/Thai_Airways_International_Flight_114](https://en.wikipedia.org/wiki/Thai_Airways_International_Flight_114)  
+   Link: <a href="https://en.wikipedia.org/wiki/Thai_Airways_International_Flight_114" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thai_Airways_International_Flight_114</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai Airways International Flight 114An explosion during this process started a fire that destroyed the aircraft. Six people on board...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: khmernz.blogspot.com  
    Title: vietnam reports ufo explosion off 29  
-   Link: [https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html](https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html)  
+   Link: <a href="https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html" target="_blank" rel="noopener noreferrer nofollow">https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO explodes over Phu Quoc Island.&quot; Soldiers were sent out to look for wreckage and survivors, and local authorities contacted airlines i...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: khmerization.blogspot.com  
-   Link: [https://khmerization.blogspot.com/2008/05/ufo-blamed-for-mystery-explosion-in.html](https://khmerization.blogspot.com/2008/05/ufo-blamed-for-mystery-explosion-in.html)  
+   Link: <a href="https://khmerization.blogspot.com/2008/05/ufo-blamed-for-mystery-explosion-in.html" target="_blank" rel="noopener noreferrer nofollow">https://khmerization.blogspot.com/2008/05/ufo-blamed-for-mystery-explosion-in.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnam30 May 2008 — Islanders on Phu Quoc, close to the coast of Cambodia, heard a loud bang and saw shards of metal up to 5ft-long rain...</p></details>
    Published: May 2008  
 
 26. <a id="endnote-26"></a>
    Source: khmernz.blogspot.com  
-   Link: [https://khmernz.blogspot.com/2008/06/vietnamese-government-confirms-ufo.html](https://khmernz.blogspot.com/2008/06/vietnamese-government-confirms-ufo.html)  
+   Link: <a href="https://khmernz.blogspot.com/2008/06/vietnamese-government-confirms-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://khmernz.blogspot.com/2008/06/vietnamese-government-confirms-ufo.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnamese Government Confirms UFO ExplosionIt is reported that many residents found what are described as &quot;many gray metal pieces, inclu...</p></details>

@@ -217,7 +217,7 @@ sibling_links:
   title: Kera & Kofu | What Makes Japan's UFO Record So Unusual?
   permalink: /kera-kofu/
   short_title: Kera & Kofu
-  heading_title: Why Japan's 1970s UFO Cases Still Matter
+  heading_title: Why Japan's 1970 s UFO Cases Still Matter
 - basename: Japan_fcf29f_ufo_tourism_japan_7febb2
   title: UFO Tourism | What Makes Japan's UFO Record So Unusual?
   permalink: /ufo-tourism/
@@ -238,8 +238,8 @@ next_link:
   title: Kera & Kofu | What Makes Japan's UFO Record So Unusual?
   permalink: /kera-kofu/
   short_title: Kera & Kofu
-  heading_title: Why Japan's 1970s UFO Cases Still Matter
-date: '2026-06-09 01:30:37 '
+  heading_title: Why Japan's 1970 s UFO Cases Still Matter
+date: '2026-06-10 01:56:05 '
 header:
   og_image: /assets/images/Japan_fcf29f_japan_uap_defence_10793d-Illustration-1-social.jpg
   preview_image: /assets/images/Japan_fcf29f_japan_uap_defence_10793d-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Japan_fcf29f_japan_uap_defence_10793d-Illustration-1-socia
 
 ## Introduction
 
-[Japan]({{ 'what-makes-japans-ufo-record-so-unusual/' | relative_url }})’s official approach to unidentified aerial phenomena (UAP), often still called UFOs in public discussion, is fundamentally a defence and surveillance issue rather than an extraterrestrial one. Tokyo’s concern is not whether unexplained objects come from another world, but whether an unidentified object in or near Japanese airspace could represent a drone, balloon, intelligence platform, military aircraft, sensor anomaly, or another security risk. That distinction became especially important after 2020, when the Ministry of Defence introduced formal reporting procedures for unidentified objects and linked the subject directly to national defence responsibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japantimes.co.jp">[The Japan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japantimes.co.jp</span><span class="citation-popover-title">japan defense ministry ufo</span><span class="citation-popover-snippet">The Japan TimesJapanese Defense Ministry unveils protocol for...14 Sept 2020 — In a statement, Kono asked SDF members to record and phot...</span></span></span>
+Japan’s official approach to unidentified aerial phenomena (UAP), often still called UFOs in public discussion, is fundamentally a defence and surveillance issue rather than an extraterrestrial one. Tokyo’s concern is not whether unexplained objects come from another world, but whether an unidentified object in or near Japanese airspace could represent a drone, balloon, intelligence platform, military aircraft, sensor anomaly, or another security risk. That distinction became especially important after 2020, when the Ministry of Defence introduced formal reporting procedures for unidentified objects and linked the subject directly to national defence responsibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japantimes.co.jp">[The Japan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japantimes.co.jp</span><span class="citation-popover-title">japan defense ministry ufo</span><span class="citation-popover-snippet">The Japan TimesJapanese Defense Ministry unveils protocol for...14 Sept 2020 — In a statement, Kono asked SDF members to record and phot...</span></span></span>
 
 
 <img src="{{ "/assets/images/Japan_fcf29f_japan_uap_defence_10793d-Illustration-1-dark.svg" | relative_url }}" alt="Defence Policy illustration 1" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f_japan_uap_defence_10793d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f_japan_uap_defence_10793d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -328,7 +328,7 @@ In 2024, a cross-party group of Japanese lawmakers argued that the government sh
 
 That parliamentary effort revealed how the issue is increasingly discussed within Japan’s security establishment. The core question is no longer “Are UFOs real?” but rather “Can Japan reliably identify everything operating near its territory?”
 
-American reporting has also influenced perceptions of regional activity. AARO reporting-trend graphics have shown concentrations of reports around areas with extensive military activity, including regions near Japan and the Korean Peninsula. However, those maps do not demonstrate the presence of extraordinary craft. They more likely reflect where large numbers of sensors, aircraft, ships, and trained observers operate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Reporting TrendsUAP Reporting Trends. January 1, 1996 - January 15, 2026. Closed Cases... Reported UAP Morphology. Not all UAP r...</span><span class="citation-popover-meta">Published: January 1, 1996</span></span></span>
+American reporting has also influenced perceptions of regional activity. AARO reporting-trend graphics have shown concentrations of reports around areas with extensive military activity, including regions near Japan and the Korean Peninsula. However, those maps do not demonstrate the presence of extraordinary craft. They more likely reflect where large numbers of sensors, aircraft, ships, and trained observers operate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Reporting TrendsUAP Reporting Trends. January 1, 1996 - January 15, 2026. Closed Cases... Reported UAP Morphology. Not all UAP r...</span><span class="citation-popover-meta">Published: January 1, 1996</span></span></span>
 
 For Japanese planners, the value of American cooperation lies less in spectacular cases than in access to analytical methods, reporting systems, and intelligence-sharing frameworks.
 
@@ -339,7 +339,7 @@ For Japanese planners, the value of American cooperation lies less in spectacula
 
 A recurring theme in both Japanese and American defence discussions is that many unidentified reports eventually turn out to be ordinary objects seen under difficult conditions.
 
-AARO’s published trend data indicate that the majority of resolved cases have been identified as balloons, while others have been attributed to drones, birds, aircraft, satellites, or miscellaneous causes. Report descriptions are often broad categories such as lights, spheres, or ambiguous sensor contacts rather than detailed observations of structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Trends 1996 2024 508</span><span class="citation-popover-snippet">AAROUAP REPORTING TRENDS: JANUARY 1, 1996UAP REPORTING TRENDS: JANUARY 1, 1996 – OCTOBER 10, 2024. REPORTED-UAP ALTITUDES. 8.7%. 8.0%. 10...</span><span class="citation-popover-meta">Published: January 1, 1996</span></span></span>
+AARO’s published trend data indicate that the majority of resolved cases have been identified as balloons, while others have been attributed to drones, birds, aircraft, satellites, or miscellaneous causes. Report descriptions are often broad categories such as lights, spheres, or ambiguous sensor contacts rather than detailed observations of structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Trends 1996 2024 508</span><span class="citation-popover-snippet">UAP REPORTING TRENDS: JANUARY 1, 1996UAP REPORTING TRENDS: JANUARY 1, 1996 – OCTOBER 10, 2024. REPORTED-UAP ALTITUDES. 8.7%. 8.0%. 10...</span><span class="citation-popover-meta">Published: January 1, 1996</span></span></span>
 
 This matters because military surveillance systems are designed to detect anomalies, not necessarily to explain them immediately. An object can be operationally significant even when its identity remains uncertain at first observation.
 
@@ -361,91 +361,49 @@ The most important thing to understand about Japan’s defence approach is that 
 
 In practice, the policy sits alongside concerns about air-defence readiness, drone detection, maritime surveillance, intelligence collection, and alliance coordination. The reporting framework introduced in 2020 was not designed to prove or disprove alien visitation. It was designed to ensure that unusual observations enter a formal chain of documentation and analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japantimes.co.jp">[The Japan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japantimes.co.jp</span><span class="citation-popover-title">japan defense ministry ufo</span><span class="citation-popover-snippet">The Japan TimesJapanese Defense Ministry unveils protocol for...14 Sept 2020 — In a statement, Kono asked SDF members to record and phot...</span></span></span>
 
-The debate among Japanese lawmakers in 2024 reinforced that orientation. Supporters of stronger UAP monitoring argued that unidentified objects could represent surveillance systems or advanced weapons platforms and therefore deserved serious attention regardless of their ultimate explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/us-japan-strike-deals-defense-space-leaders-summit-2024-04-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us japan strike deals defense space leaders summit 2024 04 10</span><span class="citation-popover-snippet">ReutersUS, Japan, Philippines strike deals on defense, investment...11 Apr 2024 — US, Japan, Philippines strike deals on defense, invest...</span></span></span>
+The debate among Japanese lawmakers in 2024 reinforced that orientation. Supporters of stronger UAP monitoring argued that unidentified objects could represent surveillance systems or advanced weapons platforms and therefore deserved serious attention regardless of their ultimate explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/us-japan-strike-deals-defense-space-leaders-summit-2024-04-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us japan strike deals defense space leaders summit 2024 04 10</span><span class="citation-popover-snippet">US, Japan, Philippines strike deals on defense, investment...11 Apr 2024 — US, Japan, Philippines strike deals on defense, invest...</span></span></span>
 
 As a result, Japan’s official UAP story differs sharply from many popular UFO narratives. The government has not presented evidence of extraterrestrial craft. What it has done is incorporate unidentified objects into a broader security framework centred on detection, documentation, intelligence analysis, and protection of national airspace. In modern Japanese policy, the mystery is secondary; the surveillance challenge comes first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japantimes.co.jp">[The Japan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japantimes.co.jp</span><span class="citation-popover-title">japan defense ministry ufo</span><span class="citation-popover-snippet">The Japan TimesJapanese Defense Ministry unveils protocol for...14 Sept 2020 — In a statement, Kono asked SDF members to record and phot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">pentagon ufo report says most sightings ordinary objects phenomena 2024 03 08</span><span class="citation-popover-snippet">military has spent decades deflecting, debunking and discrediting observations of UFOs and &quot;flying saucers&quot; dating back to the 1940s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Japan Treats UAP as an Airspace Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Japan Treats UAP as an Airspace Problem, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Focuses on government, defence, intelligence, and UAP policy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores national-security dimensions of UAP incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Centers on military, aviation, and government reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Examines state handling of UFO reports and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -479,75 +437,71 @@ As a result, Japan’s official UAP story differs sharply from many popular UFO 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-policy-why-japan-treats-uap-as-an-airspace-problem-japan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -761,126 +715,126 @@ As a result, Japan’s official UAP story differs sharply from many popular UFO 
 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/](https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The move is prompted by findings from the U.S. government&#x27;s All-domain Anomaly Resolution Office (AARO) that reported numerous sightings...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: us japan strike deals defense space leaders summit 2024 04 10  
-   Link: [https://www.reuters.com/world/us/us-japan-strike-deals-defense-space-leaders-summit-2024-04-10/](https://www.reuters.com/world/us/us-japan-strike-deals-defense-space-leaders-summit-2024-04-10/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersUS, Japan, Philippines strike deals on defense, investment...11 Apr 2024 — US, Japan, Philippines strike deals on defense, invest...</p></details>
+   Link: <a href="https://www.reuters.com/world/us/us-japan-strike-deals-defense-space-leaders-summit-2024-04-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-japan-strike-deals-defense-space-leaders-summit-2024-04-10/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Japan, Philippines strike deals on defense, investment...11 Apr 2024 — US, Japan, Philippines strike deals on defense, invest...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Title: pentagon ufo report says most sightings ordinary objects phenomena 2024 03 08  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>military has spent decades deflecting, debunking and discrediting observations of UFOs and &quot;flying saucers&quot; dating back to the 1940s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</p></details>
    Published: March 9, 2024  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Reporting TrendsUAP Reporting Trends. January 1, 1996 - January 15, 2026. Closed Cases... Reported UAP Morphology. Not all UAP r...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsUAP Reporting Trends. January 1, 1996 - January 15, 2026. Closed Cases... Reported UAP Morphology. Not all UAP r...</p></details>
    Published: January 1, 1996  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Trends 1996 2024 508  
-   Link: [https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf](https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP REPORTING TRENDS: JANUARY 1, 1996UAP REPORTING TRENDS: JANUARY 1, 1996 – OCTOBER 10, 2024. REPORTED-UAP ALTITUDES. 8.7%. 8.0%. 10...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP REPORTING TRENDS: JANUARY 1, 1996UAP REPORTING TRENDS: JANUARY 1, 1996 – OCTOBER 10, 2024. REPORTED-UAP ALTITUDES. 8.7%. 8.0%. 10...</p></details>
    Published: January 1, 1996  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/us/us-releases-second-batch-government-declassified-ufo-files-2026-05-22/](https://www.reuters.com/world/us/us-releases-second-batch-government-declassified-ufo-files-2026-05-22/)  
+   Link: <a href="https://www.reuters.com/world/us/us-releases-second-batch-government-declassified-ufo-files-2026-05-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-releases-second-batch-government-declassified-ufo-files-2026-05-22/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Department on Friday released a second batch of previously classified files on ​alleged UFO sightings, including references...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: japans government flux after election gives no party majority yen hit 2024 10 28  
-   Link: [https://www.reuters.com/world/asia-pacific/japans-government-flux-after-election-gives-no-party-majority-yen-hit-2024-10-28/](https://www.reuters.com/world/asia-pacific/japans-government-flux-after-election-gives-no-party-majority-yen-hit-2024-10-28/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/japans-government-flux-after-election-gives-no-party-majority-yen-hit-2024-10-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/japans-government-flux-after-election-gives-no-party-majority-yen-hit-2024-10-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s government in flux after election gives no party...Oct 28, 2024 — The make-up of Japan&#x27;s future government was in flux on Monday...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/japans-pm-promises-discipline-military-mishandling-classified-information-2024-07-12/](https://www.reuters.com/world/asia-pacific/japans-pm-promises-discipline-military-mishandling-classified-information-2024-07-12/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/japans-pm-promises-discipline-military-mishandling-classified-information-2024-07-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/japans-pm-promises-discipline-military-mishandling-classified-information-2024-07-12/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan disciplines military top brass for mishandling...11 Jul 2024 — Japan on Friday disciplined more than 200 defence personnel, includ...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
    Title: The glitch in Japan's plans to bolster U.S  
-   Link: [https://www.reuters.com/world/glitch-japans-plans-bolster-us-defence-2024-04-26/](https://www.reuters.com/world/glitch-japans-plans-bolster-us-defence-2024-04-26/)  
+   Link: <a href="https://www.reuters.com/world/glitch-japans-plans-bolster-us-defence-2024-04-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/glitch-japans-plans-bolster-us-defence-2024-04-26/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>defence26 Apr 2024 — Japan faces an uphill battle in creating the systems and finding the people it needs to plug these vulnerabilities...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: japans foreign minister says asian nato is an idea future 2024 10 02  
-   Link: [https://www.reuters.com/world/japan/japans-foreign-minister-says-asian-nato-is-an-idea-future-2024-10-02/](https://www.reuters.com/world/japan/japans-foreign-minister-says-asian-nato-is-an-idea-future-2024-10-02/)  
+   Link: <a href="https://www.reuters.com/world/japan/japans-foreign-minister-says-asian-nato-is-an-idea-future-2024-10-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/japan/japans-foreign-minister-says-asian-nato-is-an-idea-future-2024-10-02/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japanese ministers say they are not pursuing PM&#x27;s &#x27;Asian...02 Oct 2024 — Japan&#x27;s foreign and defence ministers said on Wednesday they ar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: us japan urge nations not deploy nuclear weapons orbit 2024 03 18  
-   Link: [https://www.reuters.com/world/us-japan-urge-nations-not-deploy-nuclear-weapons-orbit-2024-03-18/](https://www.reuters.com/world/us-japan-urge-nations-not-deploy-nuclear-weapons-orbit-2024-03-18/)  
+   Link: <a href="https://www.reuters.com/world/us-japan-urge-nations-not-deploy-nuclear-weapons-orbit-2024-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-japan-urge-nations-not-deploy-nuclear-weapons-orbit-2024-03-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Japan urge nations not to deploy nuclear weapons in...18 Mar 2024 — Security Council resolution stressing that nations should comply...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: us uk australia considering cooperation with japan aukus pact 2024 04 08  
-   Link: [https://www.reuters.com/world/us-uk-australia-considering-cooperation-with-japan-aukus-pact-2024-04-08/](https://www.reuters.com/world/us-uk-australia-considering-cooperation-with-japan-aukus-pact-2024-04-08/)  
+   Link: <a href="https://www.reuters.com/world/us-uk-australia-considering-cooperation-with-japan-aukus-pact-2024-04-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-uk-australia-considering-cooperation-with-japan-aukus-pact-2024-04-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Australia said on Monday they are considering working with Japan through their AUKUS security pact, despite U.S...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
    Published: May 1, 2023  
 
 16. <a id="endnote-16"></a>
    Source: japantimes.co.jp  
    Title: japan defense ministry ufo  
-   Link: [https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/](https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/)  
+   Link: <a href="https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.japantimes.co.jp/news/2020/09/14/national/japan-defense-ministry-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Japan TimesJapanese Defense Ministry unveils protocol for...14 Sept 2020 — In a statement, Kono asked SDF members to record and phot...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thediplomat.com  
    Title: japans defense ministry launches protocol for ufo sightings  
-   Link: [https://thediplomat.com/2020/09/japans-defense-ministry-launches-protocol-for-ufo-sightings/](https://thediplomat.com/2020/09/japans-defense-ministry-launches-protocol-for-ufo-sightings/)  
+   Link: <a href="https://thediplomat.com/2020/09/japans-defense-ministry-launches-protocol-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://thediplomat.com/2020/09/japans-defense-ministry-launches-protocol-for-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s Defense Ministry Launches Protocol for UFO...18 Sept 2020 — The new official procedures, announced this week, expect the SDF to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dkiapcss.edu  
-   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asia-Pacific Center for Security StudiesA Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — In 2020...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: khaosodenglish.com  
    Title: japan defense chief gives order what to do on ufo sightings  
-   Link: [https://www.khaosodenglish.com/news/international/2020/09/15/japan-defense-chief-gives-order-what-to-do-on-ufo-sightings/](https://www.khaosodenglish.com/news/international/2020/09/15/japan-defense-chief-gives-order-what-to-do-on-ufo-sightings/)  
+   Link: <a href="https://www.khaosodenglish.com/news/international/2020/09/15/japan-defense-chief-gives-order-what-to-do-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.khaosodenglish.com/news/international/2020/09/15/japan-defense-chief-gives-order-what-to-do-on-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Defense Chief Gives Order What to Do on UFO...15 Sept 2020 — Japanese Defense Minister Taro Kono on Monday instructed the Self-Def...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: japantimes.co.jp  
    Title: The Japan Times Tokyo analyzing Pentagon UFO file trove with sightings  
-   Link: [https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/](https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/)  
+   Link: <a href="https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings released by the Pentagon on Friday — including two videos of unidentified anomalous phenomena (UAP) spotted near Japan...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Taro Kono  
-   Link: [https://en.wikipedia.org/wiki/Taro_Kono](https://en.wikipedia.org/wiki/Taro_Kono)  
+   Link: <a href="https://en.wikipedia.org/wiki/Taro_Kono" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taro_Kono</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taro Kono... Kono unveiled an official protocol for encountering unidentified aerial phenomena in September 2020. During his last week...</p></details>
    Published: September 2020  
 
@@ -889,60 +843,60 @@ As a result, Japan’s official UAP story differs sharply from many popular UFO 
 22. <a id="endnote-22"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scmp.com  
    Title: japan sets parliamentary group probe ufo sightings move research mainstream  
-   Link: [https://www.scmp.com/week-asia/politics/article/3264559/japan-sets-parliamentary-group-probe-ufo-sightings-move-research-mainstream](https://www.scmp.com/week-asia/politics/article/3264559/japan-sets-parliamentary-group-probe-ufo-sightings-move-research-mainstream)  
+   Link: <a href="https://www.scmp.com/week-asia/politics/article/3264559/japan-sets-parliamentary-group-probe-ufo-sightings-move-research-mainstream" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/week-asia/politics/article/3264559/japan-sets-parliamentary-group-probe-ufo-sightings-move-research-mainstream</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan sets up parliamentary group to probe UFO sightings...30 May 2024 — The group said it would push for the government to track and in...</p></details>
    Published: May 2024  
 
 24. <a id="endnote-24"></a>
    Source: sandboxx.us  
    Title: japan follows us navy lead establishes ufo reporting procedures  
-   Link: [https://www.sandboxx.us/news/japan-follows-us-navy-lead-establishes-ufo-reporting-procedures/](https://www.sandboxx.us/news/japan-follows-us-navy-lead-establishes-ufo-reporting-procedures/)  
+   Link: <a href="https://www.sandboxx.us/news/japan-follows-us-navy-lead-establishes-ufo-reporting-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandboxx.us/news/japan-follows-us-navy-lead-establishes-ufo-reporting-procedures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan follows US Navy lead, establishes UFO reporting...14 Sept 2020 — Japanese Defense Minister Taro Kono has announced new standing or...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYFoSfgHUi_/](https://www.instagram.com/p/DYFoSfgHUi_/)  
+   Link: <a href="https://www.instagram.com/p/DYFoSfgHUi_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFoSfgHUi_/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Indo-Pacific Command reported UAP that resembles a football-shaped body near Japan. The U.S. Army reported UAP in North America in 2026.R...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: en.protothema.gr  
    Title: japan lawmakers call on government to take action on ufos  
-   Link: [https://en.protothema.gr/2024/05/30/japan-lawmakers-call-on-government-to-take-action-on-ufos/](https://en.protothema.gr/2024/05/30/japan-lawmakers-call-on-government-to-take-action-on-ufos/)  
+   Link: <a href="https://en.protothema.gr/2024/05/30/japan-lawmakers-call-on-government-to-take-action-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://en.protothema.gr/2024/05/30/japan-lawmakers-call-on-government-to-take-action-on-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>call on government to take action on UFOs30 May 2024 — Japan: Lawmakers call on government to take action on UFOs... #aliens#japan#scien...</p></details>
    Published: May 2024  
 
 27. <a id="endnote-27"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: dailysabah.com  
-   Link: [https://www.dailysabah.com/world/asia-pacific/japan-lawmakers-launch-group-to-probe-ufo-sightings-threat](https://www.dailysabah.com/world/asia-pacific/japan-lawmakers-launch-group-to-probe-ufo-sightings-threat)  
+   Link: <a href="https://www.dailysabah.com/world/asia-pacific/japan-lawmakers-launch-group-to-probe-ufo-sightings-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.dailysabah.com/world/asia-pacific/japan-lawmakers-launch-group-to-probe-ufo-sightings-threat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily SabahJapan lawmakers launch group to probe UFO sightings...06 Jun 2024 — Japan lawmakers launch group to probe UFO sightings, &#x27;thr...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: news.sky.com  
    Title: japanese military given instructions on ufos 12072428  
-   Link: [https://news.sky.com/story/japanese-military-given-instructions-on-ufos-12072428](https://news.sky.com/story/japanese-military-given-instructions-on-ufos-12072428)  
+   Link: <a href="https://news.sky.com/story/japanese-military-given-instructions-on-ufos-12072428" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/japanese-military-given-instructions-on-ufos-12072428</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military given instructions on UFOs15 Sept 2020 — The Japanese military have been given instructions to record and report sightings of un...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thedebrief.org  
    Title: year in review the nashville bombing and ufos in 2020  
-   Link: [https://thedebrief.org/year-in-review-the-nashville-bombing-and-ufos-in-2020/](https://thedebrief.org/year-in-review-the-nashville-bombing-and-ufos-in-2020/)  
+   Link: <a href="https://thedebrief.org/year-in-review-the-nashville-bombing-and-ufos-in-2020/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/year-in-review-the-nashville-bombing-and-ufos-in-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Year in Review: The Nashville Bombing, and UFOs in 202031 Dec 2020 — Earlier in 2020, Japan also released new protocols for defense perso...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: uaplogbook.com  
    Title: Japan UAP footage review: what Kihara actually said  
-   Link: [https://uaplogbook.com/japan-kihara-uap-footage/](https://uaplogbook.com/japan-kihara-uap-footage/)  
+   Link: <a href="https://uaplogbook.com/japan-kihara-uap-footage/" target="_blank" rel="noopener noreferrer nofollow">https://uaplogbook.com/japan-kihara-uap-footage/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2026 — The war.gov UFO files · Corbell and the missing... Reuters via ThePrint: Japan lawmakers want govt to guard against secur...</p></details>
    Published: May 15, 2026  

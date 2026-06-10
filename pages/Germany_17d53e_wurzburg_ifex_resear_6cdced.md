@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-f8496c/
   short_title: Records Gap
   heading_title: Why Germany Has No UFO Office
-date: '2026-06-09 01:27:46 '
+date: '2026-06-10 01:52:34 '
 header:
   og_image: /assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1-social.jpg
   preview_image: /assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1-
 
 ## Introduction
 
-[Germany]({{ 'what-germanys-ufo-record-really-shows/' | relative_url }})’s UAP discussion has traditionally depended on eyewitness testimony, private investigation groups and fragmented media reporting. The work emerging from the Interdisciplinary Research Center for Extraterrestrial Studies, usually shortened to IFEX, marks a notable shift away from that older pattern. Instead of treating unidentified aerial phenomena mainly as stories to be collected after the fact, IFEX has tried to build a framework based on aviation reporting, sensor systems, machine-assisted observation and structured data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[Universität Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">Universität Würzburg UAP Reporting Center for Pilots</span><span class="citation-popover-snippet">Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[2Universität Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">Universität Würzburg UAP Reporting Center for Pilots</span><span class="citation-popover-snippet">Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</span></span></span>
+Germany’s UAP discussion has traditionally depended on eyewitness testimony, private investigation groups and fragmented media reporting. The work emerging from the Interdisciplinary Research Center for Extraterrestrial Studies, usually shortened to IFEX, marks a notable shift away from that older pattern. Instead of treating unidentified aerial phenomena mainly as stories to be collected after the fact, IFEX has tried to build a framework based on aviation reporting, sensor systems, machine-assisted observation and structured data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[Universität Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">Universität Würzburg UAP Reporting Center for Pilots</span><span class="citation-popover-snippet">Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[2Universität Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">Universität Würzburg UAP Reporting Center for Pilots</span><span class="citation-popover-snippet">Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1-dark.svg" | relative_url }}" alt="IFEX Research illustration 1" data-theme-src-dark="{{ "/assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,7 +280,7 @@ This institutional positioning matters because Germany lacks a national equivale
 
 The language used by the centre reflects that change. IFEX materials consistently emphasise “scientific methods”, “sound data foundations” and multimodal observation rather than extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[Universität Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">Universität Würzburg UAP Reporting Center for Pilots</span><span class="citation-popover-snippet">Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[2Universität Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">Universität Würzburg UAP Reporting Center for Pilots</span><span class="citation-popover-snippet">Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</span></span></span>
 
-The centre also links German work to a broader international trend. IFEX workshops and publications reference efforts such as Harvard’s Galileo Project and other technical UAP-monitoring initiatives that rely on calibrated instruments instead of anecdotal reports alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1d3dru9/ifex_at_university_of_w%C3%BCrzburg_to_host_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditIFEX at University of Würzburg to host an interdisciplinary...May 29, 2024 — May 29, 2024 — IFEX at University of Würzburg to host...</span><span class="citation-popover-meta">Published: May 29, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The centre also links German work to a broader international trend. IFEX workshops and publications reference efforts such as Harvard’s Galileo Project and other technical UAP-monitoring initiatives that rely on calibrated instruments instead of anecdotal reports alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1d3dru9/ifex_at_university_of_w%C3%BCrzburg_to_host_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">IFEX at University of Würzburg to host an interdisciplinary...May 29, 2024 — May 29, 2024 — IFEX at University of Würzburg to host...</span><span class="citation-popover-meta">Published: May 29, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 ## The Core Idea: Instrument-Based UAP Research
 
@@ -372,7 +372,7 @@ That distinction is important. The German approach remains cautious, decentralis
 
 The Friesenheim-Oberweier case is not widely regarded as Germany’s strongest UFO incident in evidential terms. Its importance lies more in how it illustrates the kind of cases modern German UAP researchers want to evaluate differently.
 
-References to Friesenheim-Oberweier appear in broader discussions about contemporary UAP reporting and evidence handling rather than as a definitive solved-or-unsolved event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3images.coroflot.com">[Coroflot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3images.coroflot.com</span><span class="citation-popover-snippet">Coroflotfor authorized reporting of UAP through the All-domain...November 28, 2025 — 12 Oct 2024 — (Interdisciplinary Research Center fo...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+References to Friesenheim-Oberweier appear in broader discussions about contemporary UAP reporting and evidence handling rather than as a definitive solved-or-unsolved event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3images.coroflot.com">[Coroflot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3images.coroflot.com</span><span class="citation-popover-snippet">for authorized reporting of UAP through the All-domain...November 28, 2025 — 12 Oct 2024 — (Interdisciplinary Research Center fo...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 ### The case highlights the gap between visibility and data quality
 
@@ -397,7 +397,7 @@ The lesson researchers draw is not “this proves extraterrestrial craft”. The
 
 ### It demonstrates why aviation-grade documentation matters
 
-Cases like Friesenheim-Oberweier become more valuable if they include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3images.coroflot.com">[s3images.coroflot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3images.coroflot.com</span><span class="citation-popover-snippet">Coroflotfor authorized reporting of UAP through the All-domain...November 28, 2025 — 12 Oct 2024 — (Interdisciplinary Research Center fo...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+Cases like Friesenheim-Oberweier become more valuable if they include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3images.coroflot.com">[s3images.coroflot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3images.coroflot.com</span><span class="citation-popover-snippet">for authorized reporting of UAP through the All-domain...November 28, 2025 — 12 Oct 2024 — (Interdisciplinary Research Center fo...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -453,7 +453,7 @@ That balance partly explains why IFEX has attracted attention beyond UFO culture
 
 Within Germany, IFEX occupies a different niche from older civilian UFO groups.
 
-Volunteer organisations such as CENAP focus heavily on identification and debunking, often explaining sightings through astronomical or atmospheric causes. IFEX instead concentrates on improving the technical quality of future reports. The two approaches are not necessarily opposed; in practice they can complement one another. Better data increases both the chance of correct identification and the chance of isolating genuinely unresolved events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">UFOs over Germany: An expert provides clarity</span><span class="citation-popover-snippet">DeutschlandUFOs over Germany: An expert provides clarityNovember 29, 2024 — 29 Nov 2024 — Unidentified flying objects: A network of volun...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
+Volunteer organisations such as CENAP focus heavily on identification and debunking, often explaining sightings through astronomical or atmospheric causes. IFEX instead concentrates on improving the technical quality of future reports. The two approaches are not necessarily opposed; in practice they can complement one another. Better data increases both the chance of correct identification and the chance of isolating genuinely unresolved events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">UFOs over Germany: An expert provides clarity</span><span class="citation-popover-snippet">UFOs over Germany: An expert provides clarityNovember 29, 2024 — 29 Nov 2024 — Unidentified flying objects: A network of volun...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
 
 The Würzburg initiative also connects Germany to a broader international shift in UAP research. Conferences and publications associated with IFEX increasingly discuss:
 
@@ -478,86 +478,44 @@ No publicly released IFEX dataset has demonstrated evidence of non-human technol
 That may sound less dramatic than popular UFO narratives, but it is arguably more important for long-term credibility. Germany’s UAP debate is slowly moving from “Who saw something strange?” toward “What instruments recorded, correlated and ruled out?” The IFEX model is significant because it attempts to build that second stage from within a recognised university and aviation context rather than from outside the scientific system.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can Instruments Improve German UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can Instruments Improve German UFO Cases?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers contemporary UAP investigations and data collection efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights cases supported by trained observers and technical data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Matches the page&#x27;s focus on evidence, observation, and methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader theoretical context for unexplained phenomena research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -591,75 +549,71 @@ That may sound less dramatic than popular UFO narratives, but it is arguably mor
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage German Shepherd Camping UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1ab55e3ae4312daef4d.jpg' | relative_url }}" alt="Listing image for Vintage German Shepherd Camping UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage German Shepherd Camping UFO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for German UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: German UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALLARME ROSSO ATTACO German A3 movie poster 1974 GERRY ANDERSON RARE"><img src="{{ '/assets/images/marketplace-covers/8c6897ff09663a824a1f.jpg' | relative_url }}" alt="Listing image for UFO ALLARME ROSSO ATTACO German A3 movie poster 1974 GERRY ANDERSON RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALLARME ROSSO ATTACO German A3 movie poster 1974 GERRY ANDERSON RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for German UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: German UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO IN CONCERT 1975 German made promo poster Michael Schenker RARE"><img src="{{ '/assets/images/marketplace-covers/c70224008eebfa5fce55.jpg' | relative_url }}" alt="Listing image for UFO IN CONCERT 1975 German made promo poster Michael Schenker RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO IN CONCERT 1975 German made promo poster Michael Schenker RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for German UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: German UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK"><img src="{{ '/assets/images/marketplace-covers/3e58c504dd0d760805b5.jpg' | relative_url }}" alt="Listing image for V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for German UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: German UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=German+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="German UFO poster -book -books" data-ebay-reference="ifex-research-can-instruments-improve-german-ufo-cases-germany-german-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifex-research-can-instruments-improve-german-ufo-cases-germany-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -873,151 +827,151 @@ That may sound less dramatic than popular UFO narratives, but it is arguably mor
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1d3dru9/ifex_at_university_of_w%C3%BCrzburg_to_host_an/](https://www.reddit.com/r/UFOs/comments/1d3dru9/ifex_at_university_of_w%C3%BCrzburg_to_host_an/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIFEX at University of Würzburg to host an interdisciplinary...May 29, 2024 — May 29, 2024 — IFEX at University of Würzburg to host...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d3dru9/ifex_at_university_of_w%C3%BCrzburg_to_host_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d3dru9/ifex_at_university_of_w%C3%BCrzburg_to_host_an/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFEX at University of Würzburg to host an interdisciplinary...May 29, 2024 — May 29, 2024 — IFEX at University of Würzburg to host...</p></details>
    Published: May 29, 2024  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://arxiv.org/abs/2502.06794](https://arxiv.org/abs/2502.06794)  
+   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.07956](https://arxiv.org/abs/2411.07956)  
+   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
 5. <a id="endnote-5"></a>
    Source: bild.de  
-   Link: [https://www.bild.de/cmsid/665d8d35d8fdef6f3c064d8c](https://www.bild.de/cmsid/665d8d35d8fdef6f3c064d8c)  
+   Link: <a href="https://www.bild.de/cmsid/665d8d35d8fdef6f3c064d8c" target="_blank" rel="noopener noreferrer nofollow">https://www.bild.de/cmsid/665d8d35d8fdef6f3c064d8c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mit einem interdisziplinären Ansatz, der Experten aus verschiedenen Disziplinen wie Politik, Philosophie und Naturwissenschaften einbezie...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: grewi.de  
-   Link: [https://www.grewi.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/](https://www.grewi.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/)  
+   Link: <a href="https://www.grewi.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.grewi.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In its investigation of UAP/UFO-sightings by...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: s3images.coroflot.com  
-   Link: [https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf](https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coroflotfor authorized reporting of UAP through the All-domain...November 28, 2025 — 12 Oct 2024 — (Interdisciplinary Research Center fo...</p></details>
+   Link: <a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>for authorized reporting of UAP through the All-domain...November 28, 2025 — 12 Oct 2024 — (Interdisciplinary Research Center fo...</p></details>
    Published: November 28, 2025  
 
 8. <a id="endnote-8"></a>
    Source: deutschland.de  
    Title: UFOs over Germany: An expert provides clarity  
-   Link: [https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap](https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeutschlandUFOs over Germany: An expert provides clarityNovember 29, 2024 — 29 Nov 2024 — Unidentified flying objects: A network of volun...</p></details>
+   Link: <a href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow">https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Germany: An expert provides clarityNovember 29, 2024 — 29 Nov 2024 — Unidentified flying objects: A network of volun...</p></details>
    Published: November 29, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/](https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/</a>  
 
 10. <a id="endnote-10"></a>
    Source: uni-wuerzburg.de  
    Title: Universität Würzburg UAP Reporting Center for Pilots  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/](https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universität WürzburgUAP Reporting Center for Pilots - IFEXJan 13, 2026 — The Interdisciplinary Research Center for Extraterrestrial Studi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: uni-wuerzburg.de  
    Title: Universität Würzburg IFEX  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/](https://www.uni-wuerzburg.de/en/ifex/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universität WürzburgIFEX - Interdisciplinary Research Center for Extraterrestrial...Mar 3, 2026 — The center is dedicated to developing...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uni-wuerzburg.de  
    Title: uap reports  
-   Link: [https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Extraterrestrial Studies (IFEX) at the University of Würzburg. Among other things, IFEX is dedicated to scientific research in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: uni-wuerzburg.de  
    Title: Universität Würzburg UAP & SETI  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti/](https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universität WürzburgUAP &amp; SETI - IFEX - Interdisciplinary Research...UAP (Unidentified Anomalous Phenomena), formerly commonly referred...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nachrichten.idw-online.de  
    Title: uap reporting university of wuerzburg and federal aviation office cooperate  
-   Link: [https://nachrichten.idw-online.de/2025/07/14/uap-reporting-university-of-wuerzburg-and-federal-aviation-office-cooperate](https://nachrichten.idw-online.de/2025/07/14/uap-reporting-university-of-wuerzburg-and-federal-aviation-office-cooperate)  
+   Link: <a href="https://nachrichten.idw-online.de/2025/07/14/uap-reporting-university-of-wuerzburg-and-federal-aviation-office-cooperate" target="_blank" rel="noopener noreferrer nofollow">https://nachrichten.idw-online.de/2025/07/14/uap-reporting-university-of-wuerzburg-and-federal-aviation-office-cooperate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IDW NachrichtenUAP Reporting: University of Würzburg and Federal...Jul 14, 2025 — There are many reports from pilots who have sighted un...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: grenzwissenschaft-aktuell.de  
-   Link: [https://www.grenzwissenschaft-aktuell.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/](https://www.grenzwissenschaft-aktuell.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/)  
+   Link: <a href="https://www.grenzwissenschaft-aktuell.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.grenzwissenschaft-aktuell.de/university-of-wuerzburg-and-german-federal-aviation-office-cooperate-on-uap-reporting-center-for-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In its investigation of UAP/UFO-sightings by...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: uni-wuerzburg.de  
    Title: ifex seti uap conference 2025  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/](https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universität WürzburgIFEX SETI &amp; UAP Conference 2025We hereby announce that we have scheduled another conference on the subjects of SETI a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uni-wuerzburg.de  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/news/](https://www.uni-wuerzburg.de/en/ifex/news/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/news/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFEX - Interdisciplinary Research Center for...Prof. Hakan Kayal speaks about scientific research on UAPs in an interview for the German...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/hakan-kayal-78977a340_universityofwuerzburg-ifex-uap-activity-7445481622197518336-wudn](https://www.linkedin.com/posts/hakan-kayal-78977a340_universityofwuerzburg-ifex-uap-activity-7445481622197518336-wudn)  
+   Link: <a href="https://www.linkedin.com/posts/hakan-kayal-78977a340_universityofwuerzburg-ifex-uap-activity-7445481622197518336-wudn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/hakan-kayal-78977a340_universityofwuerzburg-ifex-uap-activity-7445481622197518336-wudn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hakan Kayal&#x27;s PostAdvancing Scientific UAP Research Through Dialogue with... Studies (IFEX) at the University of Würzburg on April 1, 20...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: newmediaeuropeanpress.eu  
-   Link: [https://www.newmediaeuropeanpress.eu/2025/05/13/european-centre-for-information-unveils-groundbreaking-report-on-unidentified-aerial-phenomena/](https://www.newmediaeuropeanpress.eu/2025/05/13/european-centre-for-information-unveils-groundbreaking-report-on-unidentified-aerial-phenomena/)  
+   Link: <a href="https://www.newmediaeuropeanpress.eu/2025/05/13/european-centre-for-information-unveils-groundbreaking-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmediaeuropeanpress.eu/2025/05/13/european-centre-for-information-unveils-groundbreaking-report-on-unidentified-aerial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Centre for Information Unveils Groundbreaking...13 May 2025 — The European Centre for Information has released a landmark compr...</p></details>
    Published: May 2025  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university](https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university)  
+   Link: <a href="https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research into Unidentified Anomalous Phenomena (UAP)...20 Jan 2026 — The Interdisciplinary Research Center for Extraterrestrial Studies...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: leonarddavid.com  
    Title: german university center includes study of unidentified aerial phenomenon  
-   Link: [https://www.leonarddavid.com/german-university-center-includes-study-of-unidentified-aerial-phenomenon/](https://www.leonarddavid.com/german-university-center-includes-study-of-unidentified-aerial-phenomenon/)  
+   Link: <a href="https://www.leonarddavid.com/german-university-center-includes-study-of-unidentified-aerial-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/german-university-center-includes-study-of-unidentified-aerial-phenomenon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>German University Center Includes Study of Unidentified...11 Feb 2022 — IFEX focuses on extraterrestrial research projects in the contex...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/anews/posts/germanys-nationwide-unidentified-flying-object-ufo-reporting-centre-received-man/1160288619464223/](https://www.facebook.com/anews/posts/germanys-nationwide-unidentified-flying-object-ufo-reporting-centre-received-man/1160288619464223/)  
+   Link: <a href="https://www.facebook.com/anews/posts/germanys-nationwide-unidentified-flying-object-ufo-reporting-centre-received-man/1160288619464223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anews/posts/germanys-nationwide-unidentified-flying-object-ufo-reporting-centre-received-man/1160288619464223/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4, 2025, witnesses across Germany reported an extraordinary aerial phenomenon. A massive cylindrical craft appeared in the night sky...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uni-wuerzburg.de  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/](https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection of materials, publications and media contributions13 Jan 2026 — UAP Reporting Center for Pilots · Collection of materials...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: meinbavaria.de  
    Title: ufo encounter over germany university researchers  
-   Link: [https://www.meinbavaria.de/ufo-encounter-over-germany-university-researchers/](https://www.meinbavaria.de/ufo-encounter-over-germany-university-researchers/)  
+   Link: <a href="https://www.meinbavaria.de/ufo-encounter-over-germany-university-researchers/" target="_blank" rel="noopener noreferrer nofollow">https://www.meinbavaria.de/ufo-encounter-over-germany-university-researchers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO encounter over Germany: University researchers...12 Oct 2025 — Led by Professor Hakan Kayal, IFEX has become Europe&#x27;s only academic...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: uni-wuerzburg.de  
    Title: Research & Projects  
-   Link: [https://www.uni-wuerzburg.de/en/ifex/research-projects/](https://www.uni-wuerzburg.de/en/ifex/research-projects/)  
+   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFEX3 Mar 2026 — IFEX projects and relevant activities · Development of technologies for space exploration · Exploration of the solar sys...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: welt.de  
    Title: DIE WELTTrau Dich!  
-   Link: [https://www.welt.de/article6951ef8ff6fc544dba9b5f83](https://www.welt.de/article6951ef8ff6fc544dba9b5f83)  
+   Link: <a href="https://www.welt.de/article6951ef8ff6fc544dba9b5f83" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/article6951ef8ff6fc544dba9b5f83</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wo man unerklärbare Himmelsphänomene melden kannDer Artikel beleuchtet die zunehmende wissenschaftliche und öffentliche Beschäftigung mit...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: IFE X SETI and UAP Conference  
-   Link: [https://www.youtube.com/watch?v=6LeGSpDfmbU](https://www.youtube.com/watch?v=6LeGSpDfmbU)  
+   Link: <a href="https://www.youtube.com/watch?v=6LeGSpDfmbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LeGSpDfmbU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFEX SETI and UAP Conference - B. Friscourt... IFEX SETI and UAP Conference held on September 17, 2025 in Würzburg... Go to channel Prof...</p></details>
    Published: September 17, 2025  

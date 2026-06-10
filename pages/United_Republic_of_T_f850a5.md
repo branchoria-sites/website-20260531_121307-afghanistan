@@ -1185,7 +1185,7 @@ next_link:
   title: US UFOs
   permalink: /united-states/
   short_title: US UFOs
-date: '2026-06-09 01:44:18 '
+date: '2026-06-10 02:12:03 '
 header:
   og_image: /assets/images/United_Republic_of_T_f850a5-overview-social.jpg
   preview_image: /assets/images/United_Republic_of_T_f850a5-overview.webp
@@ -1323,86 +1323,44 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Tanzania&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Tanzania&#x27;s UFO Reports Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for evaluating limited and anecdotal reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Offers context for global UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a framework for assessing sparse international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Fits a page focused on evidence quality and weak data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1436,75 +1394,71 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=united-republic-of-tanzania-what-do-tanzania-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1719,243 +1673,243 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Tanzania  
-   Link: [https://nuforc.org/subndx/?id=cTanzania](https://nuforc.org/subndx/?id=cTanzania)  
+   Link: <a href="https://nuforc.org/subndx/?id=cTanzania" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTanzania</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=23133](https://nuforc.org/sighting/?id=23133)  
+   Link: <a href="https://nuforc.org/sighting/?id=23133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23133</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=67950](https://nuforc.org/sighting/?id=67950)  
+   Link: <a href="https://nuforc.org/sighting/?id=67950" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=67950</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 7. <a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm](https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: project1947.com  
    Title: Recent Research Updates and Announcements Mt. Kilimanjaro, Tanganyika,  
-   Link: [https://www.project1947.com/articles/update1015.htm](https://www.project1947.com/articles/update1015.htm)  
+   Link: <a href="https://www.project1947.com/articles/update1015.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/update1015.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: spacewatch.lpl.arizona.edu  
-   Link: [https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it](https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it)  
+   Link: <a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/mission/hubble/overview/faqs/](https://science.nasa.gov/mission/hubble/overview/faqs/)  
+   Link: <a href="https://science.nasa.gov/mission/hubble/overview/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/hubble/overview/faqs/</a>  
 
 11. <a id="endnote-11"></a>
    Source: noblemania.com  
    Title: Tanzania school, day 1: UFO crash  
-   Link: [https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html](https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html)  
+   Link: <a href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: the science of sunglint 84333  
-   Link: [https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/](https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: about hubble  
-   Link: [https://science.nasa.gov/mission/hubble/overview/about-hubble/](https://science.nasa.gov/mission/hubble/overview/about-hubble/)  
+   Link: <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/hubble/overview/about-hubble/</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 19. <a id="endnote-19"></a>
    Source: declassified.ca  
    Title: UF O Sightings  
-   Link: [https://declassified.ca/ufo-sightings/](https://declassified.ca/ufo-sightings/)  
+   Link: <a href="https://declassified.ca/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://declassified.ca/ufo-sightings/</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt](https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 22. <a id="endnote-22"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
 23. <a id="endnote-23"></a>
    Source: noblemania.blogspot.com  
-   Link: [https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html](https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html)  
+   Link: <a href="https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html" target="_blank" rel="noopener noreferrer nofollow">https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: threadreaderapp.com  
-   Link: [https://threadreaderapp.com/thread/1759473544327840044](https://threadreaderapp.com/thread/1759473544327840044)  
+   Link: <a href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow">https://threadreaderapp.com/thread/1759473544327840044</a>  
 
 25. <a id="endnote-25"></a>
    Source: michuzi.co.tz  
    Title: Michuzi UFO SIGHTING ON TANZANIAN SKIES?  
-   Link: [https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0](https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0)  
+   Link: <a href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0</a>  
 
 26. <a id="endnote-26"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
 27. <a id="endnote-27"></a>
    Source: tcaa.go.tz  
    Title: Tanzania Civil Aviation Authority Air Navigation Service  
-   Link: [https://tcaa.go.tz/page?mn=2&p=Air+Navigation+Service&token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61](https://tcaa.go.tz/page?mn=2&p=Air+Navigation+Service&token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61)  
+   Link: <a href="https://tcaa.go.tz/page?mn=2&amp;p=Air+Navigation+Service&amp;token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61" target="_blank" rel="noopener noreferrer nofollow">https://tcaa.go.tz/page?mn=2&amp;p=Air+Navigation+Service&amp;token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61</a>  
 
 28. <a id="endnote-28"></a>
    Source: tcaa.go.tz  
-   Link: [https://www.tcaa.go.tz/](https://www.tcaa.go.tz/)  
+   Link: <a href="https://www.tcaa.go.tz/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/</a>  
 
 29. <a id="endnote-29"></a>
    Source: tcaa.go.tz  
-   Link: [https://www.tcaa.go.tz/page?mn=61&p=Air+Navigation+Inspectorate.&token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69](https://www.tcaa.go.tz/page?mn=61&p=Air+Navigation+Inspectorate.&token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69)  
+   Link: <a href="https://www.tcaa.go.tz/page?mn=61&amp;p=Air+Navigation+Inspectorate.&amp;token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=61&amp;p=Air+Navigation+Inspectorate.&amp;token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69</a>  
 
 30. <a id="endnote-30"></a>
    Source: tcaa.go.tz  
    Title: Tanzania Civil Aviation Authority Air Navigation Services  
-   Link: [https://www.tcaa.go.tz/page?mn=4&p=Air+Navigation+Services&token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758](https://www.tcaa.go.tz/page?mn=4&p=Air+Navigation+Services&token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758)  
+   Link: <a href="https://www.tcaa.go.tz/page?mn=4&amp;p=Air+Navigation+Services&amp;token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=4&amp;p=Air+Navigation+Services&amp;token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758</a>  
 
 31. <a id="endnote-31"></a>
    Source: tcaa.go.tz  
    Title: Tanzania Civil Aviation Authority Advisory Circular  
-   Link: [https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf](https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf)  
+   Link: <a href="https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 33. <a id="endnote-33"></a>
    Source: tcaa.go.tz  
-   Link: [https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf](https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf)  
+   Link: <a href="https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: tcaa.go.tz  
-   Link: [https://www.tcaa.go.tz/page?mn=13&p=AIM+publication&token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616](https://www.tcaa.go.tz/page?mn=13&p=AIM+publication&token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616)  
+   Link: <a href="https://www.tcaa.go.tz/page?mn=13&amp;p=AIM+publication&amp;token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=13&amp;p=AIM+publication&amp;token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Tanzania Civil Aviation Authority  
-   Link: [https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority](https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Hubble Space Telescope  
-   Link: [https://en.wikipedia.org/wiki/Hubble_Space_Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hubble_Space_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hubble_Space_Telescope</a>  
 
 37. <a id="endnote-37"></a>
    Source: threadreaderapp.com  
-   Link: [https://threadreaderapp.com/scrolly/1759473544327840044](https://threadreaderapp.com/scrolly/1759473544327840044)  
+   Link: <a href="https://threadreaderapp.com/scrolly/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow">https://threadreaderapp.com/scrolly/1759473544327840044</a>  
 
 38. <a id="endnote-38"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/fireballs/](https://www.imo.net/observations/fireballs/fireballs/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
 39. <a id="endnote-39"></a>
    Source: tz.linkedin.com  
    Title: tanzania civil aviation authority  
-   Link: [https://tz.linkedin.com/company/tanzania-civil-aviation-authority](https://tz.linkedin.com/company/tanzania-civil-aviation-authority)  
+   Link: <a href="https://tz.linkedin.com/company/tanzania-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://tz.linkedin.com/company/tanzania-civil-aviation-authority</a>  
 
 40. <a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL](https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL)  
+   Link: <a href="https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL</a>  
 
 41. <a id="endnote-41"></a>
    Source: dproz.com  
-   Link: [https://dproz.com/companies/tanzania-civil-aviation-authority](https://dproz.com/companies/tanzania-civil-aviation-authority)  
+   Link: <a href="https://dproz.com/companies/tanzania-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://dproz.com/companies/tanzania-civil-aviation-authority</a>  
 
 42. <a id="endnote-42"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full)  
+   Link: <a href="https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full</a>  
 
 43. <a id="endnote-43"></a>
    Source: eoportal.org  
    Title: hubble space telescope  
-   Link: [https://www.eoportal.org/other-space-activities/hubble-space-telescope](https://www.eoportal.org/other-space-activities/hubble-space-telescope)  
+   Link: <a href="https://www.eoportal.org/other-space-activities/hubble-space-telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/hubble-space-telescope</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VYIVgyPglfQ](https://www.youtube.com/watch?v=VYIVgyPglfQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VYIVgyPglfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VYIVgyPglfQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kilimanjaro&quot; &quot;UFO&quot; 1951 The 1951 Flying Saucer Review, Issue No. 1 - Unexplained UFO Encounters &amp; Aerial Mysteries The Future Past...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: NASA UAP Independent Study Report — Press Conference (  
-   Link: [https://www.youtube.com/watch?v=uDbo7fq7Rq0](https://www.youtube.com/watch?v=uDbo7fq7Rq0)  
+   Link: <a href="https://www.youtube.com/watch?v=uDbo7fq7Rq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uDbo7fq7Rq0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa UFO report: What we learned from UAP study - BBC News...</p></details>
    Published: September 14, 2023  
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: UFO Sightings That Were Officially Documented  
-   Link: [https://www.youtube.com/watch?v=V5pFPM2ZaF8](https://www.youtube.com/watch?v=V5pFPM2ZaF8)  
+   Link: <a href="https://www.youtube.com/watch?v=V5pFPM2ZaF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5pFPM2ZaF8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1951 Flying Saucer Review, Issue No. 1 - Unexplained UFO Encounters &amp; Aerial Mysteries...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Nasa UFO report: What we learned from UAP study  
-   Link: [https://www.youtube.com/watch?v=eTaltOQLVLU](https://www.youtube.com/watch?v=eTaltOQLVLU)  
+   Link: <a href="https://www.youtube.com/watch?v=eTaltOQLVLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eTaltOQLVLU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: whitehouse.gov  
-   Link: [https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/](https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/)  
+   Link: <a href="https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/</a>  
 
 49. <a id="endnote-49"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 50. <a id="endnote-50"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: [https://www.youtube.com/watch?v=LFswmAii4rw](https://www.youtube.com/watch?v=LFswmAii4rw)  
+   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Were Officially Documented...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 53. <a id="endnote-53"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by](https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by)  
+   Link: <a href="https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by</a>  

@@ -239,7 +239,7 @@ prev_link:
   permalink: /sky-checks-3278e7/
   short_title: Sky Checks
   heading_title: How to Check Vanuatu Moving Lights
-date: '2026-06-09 01:44:57 '
+date: '2026-06-10 02:12:47 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_volcano_glow_77dd77-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_volcano_glow_77dd77-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Vanuatu_d16ad2_volcano_glow_77dd77-Illustration-1-social.j
 
 ## Introduction
 
-In [Vanuatu]({{ 'what-really-explains-vanuatus-strange/' | relative_url }}), one of the first questions to ask about a reported UFO light is not “What was flying?” but “Which volcano was active?” Across the archipelago, volcanic systems regularly generate red glows, flashing bursts, illuminated steam clouds, ash plumes and horizon reflections that can appear startlingly artificial at night. In some locations, these effects are so common that they form the country's strongest and most practical filter against misidentifying ordinary natural phenomena as unexplained aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">VMGDThe volcanic alert Level for East Epi submarine has been at the Level 1 since 1st February 2023. The current observations are consist...</span><span class="citation-popover-meta">Published: February 2023</span></span></span>
+In Vanuatu, one of the first questions to ask about a reported UFO light is not “What was flying?” but “Which volcano was active?” Across the archipelago, volcanic systems regularly generate red glows, flashing bursts, illuminated steam clouds, ash plumes and horizon reflections that can appear startlingly artificial at night. In some locations, these effects are so common that they form the country's strongest and most practical filter against misidentifying ordinary natural phenomena as unexplained aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">The volcanic alert Level for East Epi submarine has been at the Level 1 since 1st February 2023. The current observations are consist...</span><span class="citation-popover-meta">Published: February 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_volcano_glow_77dd77-Illustration-1-dark.svg" | relative_url }}" alt="Volcano Glow illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_volcano_glow_77dd77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_volcano_glow_77dd77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ Several additional effects increase the risk of misidentification:
 
 * **Pulsing brightness:** Strombolian eruptions often occur as repeated bursts. To a distant observer, the light appears to brighten and fade rhythmically, creating the impression of an object changing power or moving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Meteorology and Geohazards DepartmentMin 23°C, Max 28°C. 10 knot(s). Volcano Alerts Level Summary. View More · East Epi. 1 · Yasur, Tanna...</span></span></span>
 * **Cloud illumination:** Ash and steam can scatter volcanic light into unusual shapes, especially under low cloud cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcano.cfm?vn=257100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramYasurThe Vanuatu Meteorology and Geohazards Department (VMGD) reported that activity at Yasur continued at a...</span></span></span>
-* **Sea reflections:** Around island coastlines, red volcanic light may reflect from haze, cloud layers or the ocean surface, making the source appear displaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">VMGDThe volcanic alert Level for East Epi submarine has been at the Level 1 since 1st February 2023. The current observations are consist...</span><span class="citation-popover-meta">Published: February 2023</span></span></span>
+* **Sea reflections:** Around island coastlines, red volcanic light may reflect from haze, cloud layers or the ocean surface, making the source appear displaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">The volcanic alert Level for East Epi submarine has been at the Level 1 since 1st February 2023. The current observations are consist...</span><span class="citation-popover-meta">Published: February 2023</span></span></span>
 * **Hidden geography:** A volcano located behind ridges or on another island can produce a visible glow while the crater itself remains out of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">rsday monthly and/or whenever there...Read more...</span></span></span>
-* **Night-time depth errors:** Over open water, observers often struggle to estimate distance. A volcanic glow tens of kilometres away can seem much closer and more local than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaVanuatu | History, People, &amp; Location3 days ago — Vanuatu, country in the southwestern Pacific Ocean, consisting o...</span></span></span>
+* **Night-time depth errors:** Over open water, observers often struggle to estimate distance. A volcanic glow tens of kilometres away can seem much closer and more local than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaVanuatu &#124; History, People, &amp; Location3 days ago — Vanuatu, country in the southwestern Pacific Ocean, consisting o...</span></span></span>
 
 These mechanisms are particularly important in UFO assessment because they can create the appearance of structured behaviour without requiring any aircraft or unknown object.
 
@@ -274,7 +274,7 @@ These mechanisms are particularly important in UFO assessment because they can c
 
 The clearest example is Mount Yasur on Tanna.
 
-Yasur is among the world's most continuously active volcanoes. The Vanuatu Meteorology and Geo-Hazards Department describes it as a volcano characterised by ongoing Strombolian and Vulcanian activity, while historical [records]({{ 'records-gap-f983d7/' | relative_url }}) trace persistent eruptive behaviour back to at least the eighteenth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes/yasur" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">n for Yasur. Yasur, located...Read more...</span></span></span>
+Yasur is among the world's most continuously active volcanoes. The Vanuatu Meteorology and Geo-Hazards Department describes it as a volcano characterised by ongoing Strombolian and Vulcanian activity, while historical records trace persistent eruptive behaviour back to at least the eighteenth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes/yasur" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">n for Yasur. Yasur, located...Read more...</span></span></span>
 
 At night, Yasur routinely produces:
 
@@ -372,7 +372,7 @@ The VMGD publishes volcanic alert levels and monitoring updates for active syste
 
 ### Identify the witness location
 
-An observation from Tanna, Ambrym, Epi or nearby islands should immediately trigger a volcanic review. Geography matters because a glow may originate from another island rather than from the observer's immediate surroundings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaVanuatu | History, People, &amp; Location3 days ago — Vanuatu, country in the southwestern Pacific Ocean, consisting o...</span></span></span>
+An observation from Tanna, Ambrym, Epi or nearby islands should immediately trigger a volcanic review. Geography matters because a glow may originate from another island rather than from the observer's immediate surroundings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaVanuatu &#124; History, People, &amp; Location3 days ago — Vanuatu, country in the southwestern Pacific Ocean, consisting o...</span></span></span>
 
 ### Compare the reported colour
 
@@ -398,86 +398,44 @@ However, the country's volcanic environment changes the burden of proof. In many
 That makes volcano glow less a minor possibility than the central screening mechanism in Vanuatu's UFO landscape. Before any report can be considered genuinely anomalous, investigators need to establish that the islands' most persistent producer of strange lights was not responsible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Meteorology and Geohazards DepartmentMin 23°C, Max 28°C. 10 knot(s). Volcano Alerts Level Summary. View More · East Epi. 1 · Yasur, Tanna...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Meteorology and Geohazards DepartmentMin 23°C, Max 28°C. 10 knot(s). Volcano Alerts Level Summary. View More · East Epi. 1 · Yasur, Tanna...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Volcanoes Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Volcanoes Look Like UFOs, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for separating natural phenomena from anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between documented cases and natural explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -511,75 +469,71 @@ That makes volcano glow less a minor possibility than the central screening mech
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=volcano-glow-when-volcanoes-look-like-ufos-vanuatu-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -793,152 +747,152 @@ That makes volcano glow less a minor possibility than the central screening mech
 
 1. <a id="endnote-1"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/geohazards/volcanoes](https://www.vmgd.gov.vu/geohazards/volcanoes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VMGDThe volcanic alert Level for East Epi submarine has been at the Level 1 since 1st February 2023. The current observations are consist...</p></details>
+   Link: <a href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The volcanic alert Level for East Epi submarine has been at the Level 1 since 1st February 2023. The current observations are consist...</p></details>
    Published: February 2023  
 
 2. <a id="endnote-2"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/geohazards](https://www.vmgd.gov.vu/geohazards)  
+   Link: <a href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rsday monthly and/or whenever there...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/geohazards/volcanoes/yasur](https://www.vmgd.gov.vu/geohazards/volcanoes/yasur)  
+   Link: <a href="https://www.vmgd.gov.vu/geohazards/volcanoes/yasur" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes/yasur</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n for Yasur. Yasur, located...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/geohazards/volcanoes/benbow-and-marum](https://www.vmgd.gov.vu/geohazards/volcanoes/benbow-and-marum)  
+   Link: <a href="https://www.vmgd.gov.vu/geohazards/volcanoes/benbow-and-marum" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes/benbow-and-marum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>akes that were visible at night. However...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: yasur.com  
    Title: Volcano, Vanuatu  
-   Link: [https://www.yasur.com/](https://www.yasur.com/)  
+   Link: <a href="https://www.yasur.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.yasur.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ongoing Strombolian and occasional Vulcanian explosions continue from the crater vents, with gas, ash...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Vanuatu](https://www.britannica.com/place/Vanuatu)  
+   Link: <a href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Vanuatu</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaVanuatu | History, People, &amp; Location3 days ago — Vanuatu, country in the southwestern Pacific Ocean, consisting o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: christoph.today  
    Title: vanuatu volcano  
-   Link: [https://christoph.today/vanuatu-volcano/](https://christoph.today/vanuatu-volcano/)  
+   Link: <a href="https://christoph.today/vanuatu-volcano/" target="_blank" rel="noopener noreferrer nofollow">https://christoph.today/vanuatu-volcano/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is one of the most active volcanoes in the world. The glow of the volcano&#x27;s lava is supposedly...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Ambrym's Lava Lakes  
-   Link: [https://science.nasa.gov/earth/earth-observatory/ambryms-lava-lakes-80014/](https://science.nasa.gov/earth/earth-observatory/ambryms-lava-lakes-80014/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/ambryms-lava-lakes-80014/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/ambryms-lava-lakes-80014/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceAmbrym&#x27;s Lava LakesDecember 19, 2012 — The Earth Observing-1 satellite captured this view of twin lava lakes in Vanuatu. One...</p></details>
    Published: December 19, 2012  
 
 9. <a id="endnote-9"></a>
    Source: jpl.nasa.gov  
-   Link: [https://www.jpl.nasa.gov/images/pia18067-nighttime-look-at-ambrym-volcano-vanuatu-by-nasa-spacecraft/](https://www.jpl.nasa.gov/images/pia18067-nighttime-look-at-ambrym-volcano-vanuatu-by-nasa-spacecraft/)  
+   Link: <a href="https://www.jpl.nasa.gov/images/pia18067-nighttime-look-at-ambrym-volcano-vanuatu-by-nasa-spacecraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia18067-nighttime-look-at-ambrym-volcano-vanuatu-by-nasa-spacecraft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Nighttime Look at Ambrym Volcano, Vanuatu by NASA...12 Feb 2014 — In this February 12, 2014 ASTER ni...</p></details>
    Published: February 12, 2014  
 
 10. <a id="endnote-10"></a>
    Source: ambrym.com  
-   Link: [https://www.ambrym.com/eruptions.html](https://www.ambrym.com/eruptions.html)  
+   Link: <a href="https://www.ambrym.com/eruptions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ambrym.com/eruptions.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Excellent visibility on 10 September enabled sighting of a 10-m-diameter, crusted lava pond. Red lava was...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: vanuatu.travel  
    Title: Plan your South Pacific holiday with official tourism guide  
-   Link: [https://www.vanuatu.travel/](https://www.vanuatu.travel/)  
+   Link: <a href="https://www.vanuatu.travel/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanuatu.travel/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanuatu Tourism Office - Vanuatu Islands: Discover Pacific...Explore Vanuatu&#x27;s stunning islands - diving, volcanoes, beaches, culture &amp;...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/foreign-travel-advice/vanuatu](https://www.gov.uk/foreign-travel-advice/vanuatu)  
+   Link: <a href="https://www.gov.uk/foreign-travel-advice/vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/vanuatu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>travel advice19 Mar 2026 — FCDO travel advice for Vanuatu. Includes safety and security, insurance, entry requirements and legal differences...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: vmgd.gov.vu  
-   Link: [https://www.vmgd.gov.vu/](https://www.vmgd.gov.vu/)  
+   Link: <a href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorology and Geohazards DepartmentMin 23°C, Max 28°C. 10 knot(s). Volcano Alerts Level Summary. View More · East Epi. 1 · Yasur, Tanna...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gov.vu  
-   Link: [https://www.gov.vu/index.php/about/about-vanuatu](https://www.gov.vu/index.php/about/about-vanuatu)  
+   Link: <a href="https://www.gov.vu/index.php/about/about-vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.vu/index.php/about/about-vanuatu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About VanuatuThe Republic of Vanuatu is an island nation located in the South Pacific Ocean. The archipelago is located some 1,750 km eas...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: volcano.si.edu  
-   Link: [https://volcano.si.edu/volcano.cfm?vn=257100](https://volcano.si.edu/volcano.cfm?vn=257100)  
+   Link: <a href="https://volcano.si.edu/volcano.cfm?vn=257100" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramYasurThe Vanuatu Meteorology and Geohazards Department (VMGD) reported that activity at Yasur continued at a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: volcano.si.edu  
-   Link: [https://volcano.si.edu/volcano.cfm?vn=257040](https://volcano.si.edu/volcano.cfm?vn=257040)  
+   Link: <a href="https://volcano.si.edu/volcano.cfm?vn=257040" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257040</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramAmbrymNo lava lake could be seen from the rim of Benbow crater; however, a strong glow above Benbow was visi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wovo.iavceivolcano.org  
    Title: volcanic alert levels  
-   Link: [https://wovo.iavceivolcano.org/volcanic-alert-levels/](https://wovo.iavceivolcano.org/volcanic-alert-levels/)  
+   Link: <a href="https://wovo.iavceivolcano.org/volcanic-alert-levels/" target="_blank" rel="noopener noreferrer nofollow">https://wovo.iavceivolcano.org/volcanic-alert-levels/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alert LevelsWorldwide Volcanic Hazard Alert Levels: General information and caution about the use of Volcanic Alert Levels. Aviation Col...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thecommonwealth.org  
-   Link: [https://thecommonwealth.org/our-member-countries/vanuatu](https://thecommonwealth.org/our-member-countries/vanuatu)  
+   Link: <a href="https://thecommonwealth.org/our-member-countries/vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/vanuatu</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Mount_Yasur](https://en.wikipedia.org/wiki/Mount_Yasur)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mount_Yasur" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mount_Yasur</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount YasurMount Yasur is an active volcano on Tanna Island, Vanuatu, 361 m (1,184... Jump up to: 1 2 3 &quot;Volcano alert level&quot;. Vanuat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Vanuatu](https://en.wikipedia.org/wiki/Vanuatu)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vanuatu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VanuatuThe archipelago, which is of volcanic origin, is 1,750 km (1,090 mi) east of northern Australia, 540 km (340 mi) northeast of N...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: flightcentre.co.nz  
-   Link: [https://www.flightcentre.co.nz/holidays/vu/travel-guide](https://www.flightcentre.co.nz/holidays/vu/travel-guide)  
+   Link: <a href="https://www.flightcentre.co.nz/holidays/vu/travel-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.flightcentre.co.nz/holidays/vu/travel-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanuatu Travel GuideVanuatu is that perfect mix of wild, untouched paradise and welcoming South Pacific haven. It&#x27;s known for its breatht...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: flightcentre.co.uk  
-   Link: [https://www.flightcentre.co.uk/holidays/vu/travel-guide](https://www.flightcentre.co.uk/holidays/vu/travel-guide)  
+   Link: <a href="https://www.flightcentre.co.uk/holidays/vu/travel-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.flightcentre.co.uk/holidays/vu/travel-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanuatu Travel GuideVanuatu is that perfect mix of wild, untouched paradise and welcoming South Pacific haven. It&#x27;s known for its breatht...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=foGNIMeqFyg](https://www.youtube.com/watch?v=foGNIMeqFyg)  
+   Link: <a href="https://www.youtube.com/watch?v=foGNIMeqFyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foGNIMeqFyg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambrym Volcano&#x27;s Lava Lakes: A decade of fiery GeologyIn the heart of the South Pacific, nestled amidst the Vanuatu archipelago, lies the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: volcanolive.com  
-   Link: [https://volcanolive.com/ambrym1.html](https://volcanolive.com/ambrym1.html)  
+   Link: <a href="https://volcanolive.com/ambrym1.html" target="_blank" rel="noopener noreferrer nofollow">https://volcanolive.com/ambrym1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elsewhere inside Benbow crater, Pele&#x27;s hair covered the ground and fumaroles were...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nationalgeographic.com  
    Title: lava lakes drained catastrophically scientists caught action  
-   Link: [https://www.nationalgeographic.com/science/article/lava-lakes-drained-catastrophically-scientists-caught-action](https://www.nationalgeographic.com/science/article/lava-lakes-drained-catastrophically-scientists-caught-action)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/lava-lakes-drained-catastrophically-scientists-caught-action" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lava-lakes-drained-catastrophically-scientists-caught-action</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These lava lakes drained catastrophically—and scientists...27 Jan 2020 — Some 14 billion cubic feet of magma squeezed through deep crack...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
    Title: I don't really know how to explain this properly  
-   Link: [https://www.instagram.com/reel/DYrSBIORk37/](https://www.instagram.com/reel/DYrSBIORk37/)  
+   Link: <a href="https://www.instagram.com/reel/DYrSBIORk37/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYrSBIORk37/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can see the red glow get brighter. Then you hear the explosion and the ground shakes. Then glowing lava gets launched int...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/435140823270692/posts/26400942586263827/](https://www.facebook.com/groups/435140823270692/posts/26400942586263827/)  
+   Link: <a href="https://www.facebook.com/groups/435140823270692/posts/26400942586263827/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/435140823270692/posts/26400942586263827/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng online but the information is limited. My flight to Port...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tannaadventures.com  
    Title: Making A Booking: Advice and Info  
-   Link: [https://www.tannaadventures.com/Tanna%20Adventures-VolcanoActivityGuide.html](https://www.tannaadventures.com/Tanna%20Adventures-VolcanoActivityGuide.html)  
+   Link: <a href="https://www.tannaadventures.com/Tanna%20Adventures-VolcanoActivityGuide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tannaadventures.com/Tanna%20Adventures-VolcanoActivityGuide.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Volcano Activity GuideThe alert level for Mt Yasur is updated on the Vanuatu Government Vanuatu Geohazards Observatory Website [http://www...&quot;](http://www...&quot;)...</p></details>

@@ -239,7 +239,7 @@ next_link:
   permalink: /official-records-dfb956/
   short_title: Official Records
   heading_title: What Costa Rica's UFO Archives Really Show
-date: '2026-06-09 01:24:36 '
+date: '2026-06-10 01:49:09 '
 header:
   og_image: /assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-1-social.jpg
   preview_image: /assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-1-so
 
 ## Introduction
 
-[Costa Rica]({{ 'what-really-happened-in-costa-ricas-ufo/' | relative_url }})’s international reputation in UFO culture rests largely on a single photograph: an aerial image taken over Lake Cote on 4 September 1971 during a government mapping mission. Unlike most famous UFO photographs, the Lake Cote image did not emerge from an anonymous witness account or a sensational press leak. It came from a documented survey flight conducted by Costa Rica’s Instituto Geográfico Nacional, using professional photogrammetry equipment intended for topographic mapping rather than anomaly hunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.co.cr">[Costa Rica Star News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.co.cr</span><span class="citation-popover-snippet">Costa Rica Star NewsBest UFO Photo in the World Taken at Arenal, Costa Rica 45...On September 4, 1971, the Costa Rican National Geograph...</span><span class="citation-popover-meta">Published: September 4, 1971</span></span></span>
+Costa Rica’s international reputation in UFO culture rests largely on a single photograph: an aerial image taken over Lake Cote on 4 September 1971 during a government mapping mission. Unlike most famous UFO photographs, the Lake Cote image did not emerge from an anonymous witness account or a sensational press leak. It came from a documented survey flight conducted by Costa Rica’s Instituto Geográfico Nacional, using professional photogrammetry equipment intended for topographic mapping rather than anomaly hunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.co.cr">[Costa Rica Star News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.co.cr</span><span class="citation-popover-snippet">sta Rica Star NewsBest UFO Photo in the World Taken at Arenal, Costa Rica 45...On September 4, 1971, the Costa Rican National Geograph...</span><span class="citation-popover-meta">Published: September 4, 1971</span></span></span>
 
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-1-dark.svg" | relative_url }}" alt="Lake Cote illustration 1" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,16 +256,16 @@ That unusually clear provenance is why the photograph still attracts attention m
 
 ## How the mapping photograph entered the record
 
-The photograph was taken during an aerial survey linked to hydroelectric planning around the Arenal region in northern Costa Rica. The mission used a high-resolution mapping camera mounted beneath the aircraft, automatically exposing frames at regular intervals while flying over Lake Cote and the surrounding terrain. Later accounts identify aerial photographer Sergio Loaiza as the principal operator associated with the mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://keithmayerson.com/works/best-photograph-of-a-ufo-ever-taken-costa-rica-1971-by-sergio-loaiza/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keithmayerson.com">[Keith Mayerson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keithmayerson.com</span><span class="citation-popover-title">best photograph of a ufo ever taken costa rica 1971 by sergio loaiza</span><span class="citation-popover-snippet">Keith Mayerson“Best Photograph of a UFO Ever Taken”: Costa Rica 1971...It was taken in 1971 by a surveyor and aerial photographer Sergio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.co.cr">[Costa Rica Star News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.co.cr</span><span class="citation-popover-snippet">Costa Rica Star NewsBest UFO Photo in the World Taken at Arenal, Costa Rica 45...On September 4, 1971, the Costa Rican National Geograph...</span><span class="citation-popover-meta">Published: September 4, 1971</span></span></span>
+The photograph was taken during an aerial survey linked to hydroelectric planning around the Arenal region in northern Costa Rica. The mission used a high-resolution mapping camera mounted beneath the aircraft, automatically exposing frames at regular intervals while flying over Lake Cote and the surrounding terrain. Later accounts identify aerial photographer Sergio Loaiza as the principal operator associated with the mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://keithmayerson.com/works/best-photograph-of-a-ufo-ever-taken-costa-rica-1971-by-sergio-loaiza/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keithmayerson.com">[Keith Mayerson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keithmayerson.com</span><span class="citation-popover-title">best photograph of a ufo ever taken costa rica 1971 by sergio loaiza</span><span class="citation-popover-snippet">Keith Mayerson“Best Photograph of a UFO Ever Taken”: Costa Rica 1971...It was taken in 1971 by a surveyor and aerial photographer Sergio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.co.cr">[Costa Rica Star News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.co.cr</span><span class="citation-popover-snippet">sta Rica Star NewsBest UFO Photo in the World Taken at Arenal, Costa Rica 45...On September 4, 1971, the Costa Rican National Geograph...</span><span class="citation-popover-meta">Published: September 4, 1971</span></span></span>
 
 The key point is that nobody on board reported seeing a strange craft during the flight itself. The object appeared only after the film was developed. That fact cuts in two directions:
 
 * Believers argue it reduces the likelihood of a staged hoax because the image emerged accidentally from routine survey work.
 * Critics argue it increases the possibility that the anomaly was photographic rather than physical, since there was no visual confirmation from the crew.
 
-The image later became catalogued in Costa Rica’s archival system rather than disappearing into private UFO collections. That institutional chain matters because many famous UFO photographs lack a verifiable original negative or documented custody history. The Lake Cote case at least preserves a traceable connection between the original survey work and later public discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+The image later became catalogued in Costa Rica’s archival system rather than disappearing into private UFO collections. That institutional chain matters because many famous UFO photographs lack a verifiable original negative or documented custody history. The Lake Cote case at least preserves a traceable connection between the original survey work and later public discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
-Another important detail is that the image appeared in only one frame. Analysts have long noted that adjacent photographs from the same flight sequence, commonly identified as frames 299 and 301, do not show the same object. Supporters interpret this as evidence of a fast-moving object crossing the field of view between exposures. Sceptics see the same fact as consistent with a transient defect or contamination affecting a single frame of film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+Another important detail is that the image appeared in only one frame. Analysts have long noted that adjacent photographs from the same flight sequence, commonly identified as frames 299 and 301, do not show the same object. Supporters interpret this as evidence of a fast-moving object crossing the field of view between exposures. Sceptics see the same fact as consistent with a transient defect or contamination affecting a single frame of film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MzGV76EyVdM" title="The Cote Photo - Coming Summer 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MzGV76EyVdM" target="_blank" rel="noopener noreferrer">The Cote Photo - Coming Summer 2026</a></p><p class="youtube-embed-meta">Channel: Great Films LLC &middot; Views: 70.3K &middot; Uploaded: March 2026 &middot; Length: 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MzGV76EyVdM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MzGV76EyVdM">Open on YouTube</a></p></div></div></div>
@@ -274,7 +274,7 @@ Another important detail is that the image appeared in only one frame. Analysts 
 
 The image that became famous is generally referred to as frame 300. It appears to show a metallic, disc-like object above or near the lake surface. Because the camera pointed downward rather than toward the horizon, the geometry differs from most civilian UFO photographs. There are no clouds, skyline references, or dramatic perspective cues. Instead, the object appears against the relatively uniform background of water and shoreline.
 
-In 1989, aerospace researcher Richard Haines and computer scientist and UFO investigator Jacques Vallée published one of the most detailed examinations of the photograph in the Journal of Scientific Exploration under the title “Photo Analysis of an Aerial Disc Over Costa Rica”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+In 1989, aerospace researcher Richard Haines and computer scientist and UFO investigator Jacques Vallée published one of the most detailed examinations of the photograph in the Journal of Scientific Exploration under the title “Photo Analysis of an Aerial Disc Over Costa Rica”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
 Their analysis focused on several features that made the case unusually interesting:
 
@@ -289,9 +289,9 @@ Their analysis focused on several features that made the case unusually interest
 
 </div>
 
-Haines and Vallée did not claim extraterrestrial proof. Their actual conclusion was narrower and more careful. They argued that the image represented an unidentified aerial object and that conventional explanations available at the time did not fully account for the photographic characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+Haines and Vallée did not claim extraterrestrial proof. Their actual conclusion was narrower and more careful. They argued that the image represented an unidentified aerial object and that conventional explanations available at the time did not fully account for the photographic characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
-One reason the photograph gained such influence in UFO literature is that it appeared during a period when researchers increasingly distrusted eyewitness testimony alone. The Lake Cote image seemed to offer something rarer: a technically documented image linked to government survey work. Jacques Vallée later described it as one of the few UFO photographs he considered genuinely difficult to dismiss outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/the-best-ufo-photo-ever-taken-c0b1eb07c5e7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">the best ufo photo ever taken c0b1eb07c5e7</span><span class="citation-popover-snippet">MediumThe Best UFO Photo Ever Taken? | Point of Contact2021 is the 50th anniversary of this photo being taken. In those five decades, the...</span></span></span>
+One reason the photograph gained such influence in UFO literature is that it appeared during a period when researchers increasingly distrusted eyewitness testimony alone. The Lake Cote image seemed to offer something rarer: a technically documented image linked to government survey work. Jacques Vallée later described it as one of the few UFO photographs he considered genuinely difficult to dismiss outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/the-best-ufo-photo-ever-taken-c0b1eb07c5e7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">the best ufo photo ever taken c0b1eb07c5e7</span><span class="citation-popover-snippet">The Best UFO Photo Ever Taken? &#124; Point of Contact2021 is the 50th anniversary of this photo being taken. In those five decades, the...</span></span></span>
 
 The image also benefited from timing. By the late twentieth century, many famous UFO photographs had already been exposed as hoaxes involving models, reflections, or manipulated negatives. The Costa Rican photograph survived longer than most because investigators struggled to produce a single universally accepted mundane explanation.
 
@@ -299,7 +299,7 @@ The image also benefited from timing. By the late twentieth century, many famous
 <img src="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-2-dark.svg" | relative_url }}" alt="Lake Cote illustration 2" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics still question the image
 
-The strongest sceptical criticism emerged in the same publication that popularised the case. Marilyn E. Bruner of Lockheed Palo Alto Research Laboratory reviewed the image and argued that the anomaly probably did not represent a physical object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/990030806/jse-03-2-haines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Scribdjse_03_2_haines | PDF | Shadow | Exposure (Photography)Journal of Scientific Exploration, Vol. 3, No. 2... Photo analysis of an ae...</span></span></span>
+The strongest sceptical criticism emerged in the same publication that popularised the case. Marilyn E. Bruner of Lockheed Palo Alto Research Laboratory reviewed the image and argued that the anomaly probably did not represent a physical object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/990030806/jse-03-2-haines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">jse_03_2_haines &#124; PDF &#124; Shadow &#124; Exposure (Photography)Journal of Scientific Exploration, Vol. 3, No. 2... Photo analysis of an ae...</span></span></span>
 
 Her objections centred on the technical behaviour of the image itself rather than broad dismissal of UFO reports. She pointed to several unusual characteristics:
 
@@ -313,9 +313,9 @@ Her objections centred on the technical behaviour of the image itself rather tha
 
 </div>
 
-Bruner suggested the anomaly could instead be a pressure mark, defect, or other artefact created during film handling or processing. That critique became foundational for later sceptical analysis because it addressed the physical properties of the negative rather than witness credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+Bruner suggested the anomaly could instead be a pressure mark, defect, or other artefact created during film handling or processing. That critique became foundational for later sceptical analysis because it addressed the physical properties of the negative rather than witness credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
-More recent online investigators have revisited the case using higher-resolution scans released decades later. Some analysts on forums such as Metabunk argued that the clearer scans strengthen the artefact explanation because the object’s texture and edges resemble film contamination or damage more than a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">1971 lake cote lago de cote ufo aerial photo.11729</span><span class="citation-popover-snippet">Metabunk1971 Lake Cote / Lago de Cote UFO Aerial PhotoMay 10, 2021 — 1971 Lake Cote / Lago de Cote UFO Aerial Photo. Thread starter Mick...</span><span class="citation-popover-meta">Published: May 10, 2021</span></span></span>
+More recent online investigators have revisited the case using higher-resolution scans released decades later. Some analysts on forums such as Metabunk argued that the clearer scans strengthen the artefact explanation because the object’s texture and edges resemble film contamination or damage more than a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">1971 lake cote lago de cote ufo aerial photo.11729</span><span class="citation-popover-snippet">1971 Lake Cote / Lago de Cote UFO Aerial PhotoMay 10, 2021 — 1971 Lake Cote / Lago de Cote UFO Aerial Photo. Thread starter Mick...</span><span class="citation-popover-meta">Published: May 10, 2021</span></span></span>
 
 Several competing sceptical explanations have circulated over the years:
 
@@ -360,7 +360,7 @@ That tension explains why the image continues appearing in discussions of histor
 <img src="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-3-dark.svg" | relative_url }}" alt="Lake Cote illustration 3" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_lake_cote_photo_d83cd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most defensible conclusion
 
-The strongest evidence-based position on the Lake Cote photograph is cautious rather than sensational. The image is real in the narrow sense that a documented aerial survey negative genuinely contains the anomalous form seen in frame 300. The photograph was not invented on the internet decades later, and no conclusive proof of deliberate fakery has emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+The strongest evidence-based position on the Lake Cote photograph is cautious rather than sensational. The image is real in the narrow sense that a documented aerial survey negative genuinely contains the anomalous form seen in frame 300. The photograph was not invented on the internet decades later, and no conclusive proof of deliberate fakery has emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Photo Analysis of an Aerial Disc Over Costa Rica</span><span class="citation-popover-snippet">Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
 However, that does not establish that the image depicts an extraterrestrial craft or even a physical airborne object. The sceptical technical objections remain serious and unresolved. The photograph’s existence is not disputed; its interpretation is.
 
@@ -371,86 +371,44 @@ That distinction is important because the Lake Cote case is often overstated in 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Is the Lake Cote Photo Real Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Is the Lake Cote Photo Real Evidence?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contains well-documented cases useful for comparison with Lake Cote.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to evaluating photographic UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides historical context for enduring photographic mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for assessing competing explanations for unusual imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -484,75 +442,71 @@ That distinction is important because the Lake Cote case is often overstated in 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Georgina Moon 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/33939c607f706aab2791.jpg' | relative_url }}" alt="Listing image for UFO (TV) Georgina Moon 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Georgina Moon 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Ed Bishop, Michael Billington 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/1d97c4c0eb634564f625.jpg' | relative_url }}" alt="Listing image for UFO (TV) Ed Bishop, Michael Billington 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Ed Bishop, Michael Billington 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-cote-is-the-lake-cote-photo-real-evidence-costa-rica-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -767,81 +721,81 @@ That distinction is important because the Lake Cote case is often overstated in 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: Photo Analysis of an Aerial Disc Over Costa Rica  
-   Link: [https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf](https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPPhoto Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</p></details>
+   Link: <a href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Analysis of an Aerial Disc Over Costa RicaJuly 16, 2013 — by RF HAINES · Cited by 2 — We are grateful to Marilyn Bruner for he...</p></details>
    Published: July 16, 2013  
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/990030806/jse-03-2-haines](https://www.scribd.com/document/990030806/jse-03-2-haines)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribdjse_03_2_haines | PDF | Shadow | Exposure (Photography)Journal of Scientific Exploration, Vol. 3, No. 2... Photo analysis of an ae...</p></details>
+   Link: <a href="https://www.scribd.com/document/990030806/jse-03-2-haines" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/990030806/jse-03-2-haines</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>jse_03_2_haines | PDF | Shadow | Exposure (Photography)Journal of Scientific Exploration, Vol. 3, No. 2... Photo analysis of an ae...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: medium.com  
    Title: the best ufo photo ever taken c0b1eb07c5e7  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/the-best-ufo-photo-ever-taken-c0b1eb07c5e7](https://medium.com/on-the-trail-of-the-saucers/the-best-ufo-photo-ever-taken-c0b1eb07c5e7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumThe Best UFO Photo Ever Taken? | Point of Contact2021 is the 50th anniversary of this photo being taken. In those five decades, the...</p></details>
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-best-ufo-photo-ever-taken-c0b1eb07c5e7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-best-ufo-photo-ever-taken-c0b1eb07c5e7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best UFO Photo Ever Taken? | Point of Contact2021 is the 50th anniversary of this photo being taken. In those five decades, the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: 1971 lake cote lago de cote ufo aerial photo.11729  
-   Link: [https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/](https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metabunk1971 Lake Cote / Lago de Cote UFO Aerial PhotoMay 10, 2021 — 1971 Lake Cote / Lago de Cote UFO Aerial Photo. Thread starter Mick...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1971 Lake Cote / Lago de Cote UFO Aerial PhotoMay 10, 2021 — 1971 Lake Cote / Lago de Cote UFO Aerial Photo. Thread starter Mick...</p></details>
    Published: May 10, 2021  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: page 4  
-   Link: [https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/page-4](https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/page-4)  
+   Link: <a href="https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/page-4" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/1971-lake-cote-lago-de-cote-ufo-aerial-photo.11729/page-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bruner was the only one of the three qualified by education and profession to do photo analysis. Vallee and Haines had no...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
    Title: NEW HIGH RESOLUTION SCAN OF EXTRAORDINARY UAP IMAGE UAP Media UK  
-   Link: [https://www.scribd.com/document/827320581/NEW-HIGH-RESOLUTION-SCAN-OF-EXTRAORDINARY-UAP-IMAGE-UAP-Media-UK](https://www.scribd.com/document/827320581/NEW-HIGH-RESOLUTION-SCAN-OF-EXTRAORDINARY-UAP-IMAGE-UAP-Media-UK)  
+   Link: <a href="https://www.scribd.com/document/827320581/NEW-HIGH-RESOLUTION-SCAN-OF-EXTRAORDINARY-UAP-IMAGE-UAP-Media-UK" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/827320581/NEW-HIGH-RESOLUTION-SCAN-OF-EXTRAORDINARY-UAP-IMAGE-UAP-Media-UK</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Res Scan of Costa Rica UFO Image | PDFMay 6, 2022 — A new high-resolution scan of a 1971 UAP image captured over Lake Cote, Costa Ri...</p></details>
    Published: May 6, 2022  
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Cristina_Gomez/is-this-the-clearest-ufo-evidence-ever-found-e25959f47d96](https://medium.com/%40Cristina_Gomez/is-this-the-clearest-ufo-evidence-ever-found-e25959f47d96)  
+   Link: <a href="https://medium.com/%40Cristina_Gomez/is-this-the-clearest-ufo-evidence-ever-found-e25959f47d96" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/is-this-the-clearest-ufo-evidence-ever-found-e25959f47d96</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>researchers and skeptics alike.... Journal of...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: news.co.cr  
-   Link: [https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/](https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Costa Rica Star NewsBest UFO Photo in the World Taken at Arenal, Costa Rica 45...On September 4, 1971, the Costa Rican National Geograph...</p></details>
+   Link: <a href="https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/" target="_blank" rel="noopener noreferrer nofollow">https://news.co.cr/best-ufo-photo-in-the-world-taken-at-arenal-costa-rica-45-yrs-ago/50584/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>sta Rica Star NewsBest UFO Photo in the World Taken at Arenal, Costa Rica 45...On September 4, 1971, the Costa Rican National Geograph...</p></details>
    Published: September 4, 1971  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographsOn 4 September 1971, during an aerial survey by the National Geographic Institute of Costa Rica, what looks like a UFO...</p></details>
    Published: September 1971  
 
 10. <a id="endnote-10"></a>
    Source: keithmayerson.com  
    Title: best photograph of a ufo ever taken costa rica 1971 by sergio loaiza  
-   Link: [https://keithmayerson.com/works/best-photograph-of-a-ufo-ever-taken-costa-rica-1971-by-sergio-loaiza/](https://keithmayerson.com/works/best-photograph-of-a-ufo-ever-taken-costa-rica-1971-by-sergio-loaiza/)  
+   Link: <a href="https://keithmayerson.com/works/best-photograph-of-a-ufo-ever-taken-costa-rica-1971-by-sergio-loaiza/" target="_blank" rel="noopener noreferrer nofollow">https://keithmayerson.com/works/best-photograph-of-a-ufo-ever-taken-costa-rica-1971-by-sergio-loaiza/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Mayerson“Best Photograph of a UFO Ever Taken”: Costa Rica 1971...It was taken in 1971 by a surveyor and aerial photographer Sergio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O  
-   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Lake Cote  
-   Link: [https://en.wikipedia.org/wiki/Lake_Cote](https://en.wikipedia.org/wiki/Lake_Cote)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lake_Cote" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake_Cote</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lake CoteOn 4 September 1971, during an aerial survey by the National Geographic Institute of Costa Rica, what looks like a UFO was ph...</p></details>
    Published: September 1971  
 
 13. <a id="endnote-13"></a>
    Source: journal.com.ph  
-   Link: [https://journal.com.ph/photographic-evidence-the-best-ufo-photo-ever-taken/](https://journal.com.ph/photographic-evidence-the-best-ufo-photo-ever-taken/)  
+   Link: <a href="https://journal.com.ph/photographic-evidence-the-best-ufo-photo-ever-taken/" target="_blank" rel="noopener noreferrer nofollow">https://journal.com.ph/photographic-evidence-the-best-ufo-photo-ever-taken/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photographic Evidence - The Best UFO Photo Ever Taken?May 12, 2021 — In 1989, Vallee and Haines wrote a “Photo Analysis of an Aerial Disc...</p></details>
    Published: May 12, 2021  
 
@@ -849,57 +803,57 @@ That distinction is important because the Lake Cote case is often overstated in 
 
 14. <a id="endnote-14"></a>
    Source: pacodeandbulletin.gov  
-   Link: [https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf](https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf)  
+   Link: <a href="https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclaimed Property OwnersEach year, the Treasury Department (Department) receives millions of dollars in unclaimed property. Common types...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: whelanfuneralhome.ca  
-   Link: [https://www.whelanfuneralhome.ca/services_archive.html](https://www.whelanfuneralhome.ca/services_archive.html)  
+   Link: <a href="https://www.whelanfuneralhome.ca/services_archive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whelanfuneralhome.ca/services_archive.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Obituary NoticesIt is with great sadness that the family of Audrey Echlin announce her passing on December 26, 2024, at hospital in Ottaw...</p></details>
    Published: December 26, 2024  
 
 16. <a id="endnote-16"></a>
    Source: chambers.com  
-   Link: [https://chambers.com/all-lawyers-usa-5](https://chambers.com/all-lawyers-usa-5)  
+   Link: <a href="https://chambers.com/all-lawyers-usa-5" target="_blank" rel="noopener noreferrer nofollow">https://chambers.com/all-lawyers-usa-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Lawyers in USA | Chambers and Partners RankingsFind out about top lawyers in USA, including information about their rankings, article...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Skeda:Sept 1971 Lake Cote UAP Full Size RGB Drum Scan cropped levels.jpg  
-   Link: [https://sq.m.wikipedia.org/wiki/Skeda%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg](https://sq.m.wikipedia.org/wiki/Skeda%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg)  
+   Link: <a href="https://sq.m.wikipedia.org/wiki/Skeda%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg" target="_blank" rel="noopener noreferrer nofollow">https://sq.m.wikipedia.org/wiki/Skeda%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeda:Sept 1971 - Lake Cote UAP - Full Size RGB Drum...This work was first published in Costa Rica and is now in the public domain be...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:Sept 1971 Lake Cote UAP Full Size RGB Drum Scan cropped levels.jpg  
-   Link: [https://commons.wikimedia.org/wiki/File%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg](https://commons.wikimedia.org/wiki/File%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ASept_1971_-_Lake_Cote_UAP_-_Full_Size_RGB_Drum_Scan_cropped_levels.jpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Sept 1971 - Lake Cote UAP - Full Size RGB Drum...This work was first published in Costa Rica and is now in the public...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ndtv.com  
    Title: 50-Year-Old "Best Photograph Of A UFO Ever Taken" Goes  
-   Link: [https://www.ndtv.com/offbeat/50-year-old-best-photograph-of-a-ufo-ever-taken-goes-viral-2959696](https://www.ndtv.com/offbeat/50-year-old-best-photograph-of-a-ufo-ever-taken-goes-viral-2959696)  
+   Link: <a href="https://www.ndtv.com/offbeat/50-year-old-best-photograph-of-a-ufo-ever-taken-goes-viral-2959696" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/offbeat/50-year-old-best-photograph-of-a-ufo-ever-taken-goes-viral-2959696</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2022 — The photo was taken by Sergio Loaiza in 1971 as he flew over Costa Rica on a mission to survey land for the construction of...</p></details>
    Published: May 9, 2022  
 
 20. <a id="endnote-20"></a>
    Source: ladbible.com  
    Title: costa rica sergio loaiza ufo pic 816774 20240825  
-   Link: [https://www.ladbible.com/community/weird/costa-rica-sergio-loaiza-ufo-pic-816774-20240825](https://www.ladbible.com/community/weird/costa-rica-sergio-loaiza-ufo-pic-816774-20240825)  
+   Link: <a href="https://www.ladbible.com/community/weird/costa-rica-sergio-loaiza-ufo-pic-816774-20240825" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/community/weird/costa-rica-sergio-loaiza-ufo-pic-816774-20240825</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Best UFO picture ever taken&#x27; sees object appear over a...Aug 25, 2024 — A photo called the &#x27;best UFO picture ever taken&#x27; has been share...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/qry74x/was_the_lake_cote_ufo_ever_explained_or_have/](https://www.reddit.com/r/UFOs/comments/qry74x/was_the_lake_cote_ufo_ever_explained_or_have/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/qry74x/was_the_lake_cote_ufo_ever_explained_or_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qry74x/was_the_lake_cote_ufo_ever_explained_or_have/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y the US, according to cartographer Sergio Loaiza · r/UFOs -...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: budget.hawaii.gov  
    Title: City County of Honolulu A L  
-   Link: [https://budget.hawaii.gov/wp-content/uploads/2013/01/City-County-of-Honolulu-A-L.pdf](https://budget.hawaii.gov/wp-content/uploads/2013/01/City-County-of-Honolulu-A-L.pdf)  
+   Link: <a href="https://budget.hawaii.gov/wp-content/uploads/2013/01/City-County-of-Honolulu-A-L.pdf" target="_blank" rel="noopener noreferrer nofollow">https://budget.hawaii.gov/wp-content/uploads/2013/01/City-County-of-Honolulu-A-L.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>County Of Honolulu - Department of Budget and FinancePursuant to Chapter 523A, Hawaii Revised Statutes, and based upon reports filed with...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/503899843640143/posts/1124883658208422/](https://www.facebook.com/groups/503899843640143/posts/1124883658208422/)  
+   Link: <a href="https://www.facebook.com/groups/503899843640143/posts/1124883658208422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/503899843640143/posts/1124883658208422/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thank you Marilyn for giving me the OK to use your amazing photo...</p></details>

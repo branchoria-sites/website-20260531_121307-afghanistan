@@ -239,7 +239,7 @@ next_link:
   permalink: /geipan-system/
   short_title: GEIPAN System
   heading_title: 'Inside GEIPAN: France''s UFO Investigation Process'
-date: '2026-06-09 01:27:13 '
+date: '2026-06-10 01:51:57 '
 header:
   og_image: /assets/images/France_e3772a_1990_mass_sighting_e_bb86a8-Illustration-1-social.jpg
   preview_image: /assets/images/France_e3772a_1990_mass_sighting_e_bb86a8-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/France_e3772a_1990_mass_sighting_e_bb86a8-Illustration-1-s
 
 ## Introduction
 
-On the evening of 5 November 1990, thousands of people across [France]({{ 'how-france-investigates-and-archives-ufo/' | relative_url }}) reported seeing an enormous luminous object crossing the sky. Witnesses described glowing triangles, cigar-shaped craft, silent formations, fiery fragments and vast dark structures moving slowly overhead. Police stations, local newspapers and the French gendarmerie were flooded with reports. For many observers, it looked unlike any conventional aircraft and became one of the largest UFO waves in modern French history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/Oberg/901105-French_wave.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">901105 French wave</span><span class="citation-popover-snippet">“French UFO wave” November 5, 1990Nov 5, 1990 — “French UFO wave”. November 5, 1990. • Thousands of witness reports, artwork... • Typica...</span><span class="citation-popover-meta">Published: November 5, 1990</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">simulation rentree atmospherique 1990</span><span class="citation-popover-snippet">Nouvelle simulation de la rentrée atmosphérique du 5...10 Mar 2015 — Le 5 Novembre 1990, à partir de 19h, plus de mille témoins répartis...</span></span></span>
+On the evening of 5 November 1990, thousands of people across France reported seeing an enormous luminous object crossing the sky. Witnesses described glowing triangles, cigar-shaped craft, silent formations, fiery fragments and vast dark structures moving slowly overhead. Police stations, local newspapers and the French gendarmerie were flooded with reports. For many observers, it looked unlike any conventional aircraft and became one of the largest UFO waves in modern French history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/Oberg/901105-French_wave.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">901105 French wave</span><span class="citation-popover-snippet">“French UFO wave” November 5, 1990Nov 5, 1990 — “French UFO wave”. November 5, 1990. • Thousands of witness reports, artwork... • Typica...</span><span class="citation-popover-meta">Published: November 5, 1990</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">simulation rentree atmospherique 1990</span><span class="citation-popover-snippet">Nouvelle simulation de la rentrée atmosphérique du 5...10 Mar 2015 — Le 5 Novembre 1990, à partir de 19h, plus de mille témoins répartis...</span></span></span>
 
 
 <img src="{{ "/assets/images/France_e3772a_1990_mass_sighting_e_bb86a8-Illustration-1-dark.svg" | relative_url }}" alt="1990 Mass Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/France_e3772a_1990_mass_sighting_e_bb86a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a_1990_mass_sighting_e_bb86a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,7 +280,7 @@ This variation became central to later explanations. Although observers believed
 
 One reason the event became so persuasive was the unusual visual behaviour of atmospheric re-entry debris. A rocket stage breaking apart at very high altitude does not necessarily resemble a meteor streaking across the sky for a few seconds. Instead, it can produce multiple glowing fragments travelling together in a stable formation over a long period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">simulation rentree atmospherique 1990</span><span class="citation-popover-snippet">Nouvelle simulation de la rentrée atmosphérique du 5...10 Mar 2015 — Le 5 Novembre 1990, à partir de 19h, plus de mille témoins répartis...</span></span></span>
 
-In the French case, the Proton rocket stage entered the atmosphere at altitudes roughly between 100 and 50 kilometres while slowing dramatically. The debris cloud remained visible over a huge geographical area and persisted long enough for witnesses to study it carefully rather than glimpse it briefly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerogend.com">[AEROGEND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerogend.com</span><span class="citation-popover-snippet">AEROGEND5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</span><span class="citation-popover-meta">Published: September 28, 2024</span></span></span>
+In the French case, the Proton rocket stage entered the atmosphere at altitudes roughly between 100 and 50 kilometres while slowing dramatically. The debris cloud remained visible over a huge geographical area and persisted long enough for witnesses to study it carefully rather than glimpse it briefly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerogend.com">[AEROGEND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerogend.com</span><span class="citation-popover-snippet">5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</span><span class="citation-popover-meta">Published: September 28, 2024</span></span></span>
 
 That produced several perceptual effects.
 
@@ -301,7 +301,7 @@ As a result, scattered glowing fragments became “windows”, “engines” or 
 
 ### The illusion of slow movement
 
-Re-entering debris can appear strangely slow because of its great distance and shallow trajectory across the horizon. Witnesses frequently compared the phenomenon to an aircraft hovering or gliding silently. Yet the actual velocity remained enormous by ordinary aviation standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerogend.com">[AEROGEND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerogend.com</span><span class="citation-popover-snippet">AEROGEND5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</span><span class="citation-popover-meta">Published: September 28, 2024</span></span></span>
+Re-entering debris can appear strangely slow because of its great distance and shallow trajectory across the horizon. Witnesses frequently compared the phenomenon to an aircraft hovering or gliding silently. Yet the actual velocity remained enormous by ordinary aviation standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerogend.com">[AEROGEND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerogend.com</span><span class="citation-popover-snippet">5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</span><span class="citation-popover-meta">Published: September 28, 2024</span></span></span>
 
 The mismatch between apparent speed and expected speed reinforced the impression that the object was under intelligent control.
 
@@ -393,7 +393,7 @@ The case pushed investigators to improve several practices:
 
 </div>
 
-The event also shaped public understanding of French UFO research. Some UFO enthusiasts viewed the Proton explanation as overly dismissive, while sceptics saw the case as one of the strongest demonstrations of mass misidentification in Europe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerogend.com">[AEROGEND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerogend.com</span><span class="citation-popover-snippet">AEROGEND5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</span><span class="citation-popover-meta">Published: September 28, 2024</span></span></span>
+The event also shaped public understanding of French UFO research. Some UFO enthusiasts viewed the Proton explanation as overly dismissive, while sceptics saw the case as one of the strongest demonstrations of mass misidentification in Europe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerogend.com">[AEROGEND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerogend.com</span><span class="citation-popover-snippet">5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</span><span class="citation-popover-meta">Published: September 28, 2024</span></span></span>
 
 Within the broader French archive, the 1990 wave remains a crucial contrast to more localised cases such as Trans-en-Provence or Valensole. Those cases centred on close encounters and alleged physical traces, whereas the 1990 wave involved a large-scale observational event with a strong aerospace explanation.
 
@@ -409,86 +409,44 @@ Importantly, the case does not reduce all UFO reports to mistakes or inventions.
 That lesson continues to influence how French investigators evaluate modern reports. GEIPAN’s approach increasingly treats UFO sightings not simply as mysteries to solve, but as interactions between physical events, human perception and cultural expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ning the anonymity of witnesses. GEIPAN is not...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ning the anonymity of witnesses. GEIPAN is not...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The 1990 French UFO Wave Mass Witness Reports Explained. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The 1990 French UFO Wave Mass Witness Reports Explained, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines patterns in reported sightings and explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how large-scale sighting waves are classified and analyzed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights cases involving multiple independent witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful context for mass interpretations of unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -522,75 +480,71 @@ That lesson continues to influence how French investigators evaluate modern repo
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-mass-sighting-the-1990-french-ufo-wave-mass-witness-reports-explained-france-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -805,94 +759,94 @@ That lesson continues to influence how French investigators evaluate modern repo
 1. <a id="endnote-1"></a>
    Source: satobs.org  
    Title: 901105 French wave  
-   Link: [https://satobs.org/seesat_ref/Oberg/901105-French_wave.pdf](https://satobs.org/seesat_ref/Oberg/901105-French_wave.pdf)  
+   Link: <a href="https://satobs.org/seesat_ref/Oberg/901105-French_wave.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/Oberg/901105-French_wave.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“French UFO wave” November 5, 1990Nov 5, 1990 — “French UFO wave”. November 5, 1990. • Thousands of witness reports, artwork... • Typica...</p></details>
    Published: November 5, 1990  
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: simulation rentree atmospherique 1990  
-   Link: [https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990](https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nouvelle simulation de la rentrée atmosphérique du 5...10 Mar 2015 — Le 5 Novembre 1990, à partir de 19h, plus de mille témoins répartis...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1990-11-01225](https://www.cnes-geipan.fr/fr/cas/1990-11-01225)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1990-11-01225" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-11-01225</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RENTREE ATMOSPHERIQUE 5 NOVEMBRE 1990Le GEIPAN classe ce cas &quot;A&quot; comme observation de la rentrée dans l&#x27;atmosphère du 3ième étage d&#x27;une f...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf](https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>onship between the rise of UFO reports and geophysical variables such as faults (first...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: u-sphere.com  
-   Link: [https://www.u-sphere.com/index.php?title=Atmospheric_reentry_of_05-11-1990](https://www.u-sphere.com/index.php?title=Atmospheric_reentry_of_05-11-1990)  
+   Link: <a href="https://www.u-sphere.com/index.php?title=Atmospheric_reentry_of_05-11-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.u-sphere.com/index.php?title=Atmospheric_reentry_of_05-11-1990</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric reentry of 05-11-1990 - U-Sphere5 Nov 1990 — NASA&#x27;s response arrives on November 8 indicating, for November 5, the reentry of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aerogend.com  
-   Link: [https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/](https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AEROGEND5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</p></details>
+   Link: <a href="https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/" target="_blank" rel="noopener noreferrer nofollow">https://aerogend.com/5-novembre-1990-rencontre-du-1er-type/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 novembre 1990: RR1 - Rencontre rapprochée du 1er type.September 28, 2024 — 28 Sept 2024 — GF: Oui, le GEIPAN privilégie l&#x27;hyp...</p></details>
    Published: September 28, 2024  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO waveThe Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to Ap...</p></details>
    Published: November 1989  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 9. <a id="endnote-9"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 7, 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Chronologie des observations d'ovnis en France  
-   Link: [https://fr.wikipedia.org/wiki/Chronologie_des_observations_d%27ovnis_en_France](https://fr.wikipedia.org/wiki/Chronologie_des_observations_d%27ovnis_en_France)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Chronologie_des_observations_d%27ovnis_en_France" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Chronologie_des_observations_d%27ovnis_en_France</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Années 1990; 6 Années...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesDespite claims of cover-ups, conspiracy theories about alien spaceships largely lack verifiable proof, relying...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan](https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan)  
+   Link: <a href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Série OVNI(s): 5 choses à savoir sur le GEIPAN (qui existe...18 Jan 2026 — La rentrée dans l&#x27;atmosphère de débris spatiaux (satellites...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&field_classification_des_cas_target_id%5B12%5D=12&field_classification_des_cas_target_id%5B13%5D=13&field_classification_des_cas_target_id%5B14%5D=14&field_classification_des_cas_target_id%5B15%5D=15&field_classification_des_cas_target_id%5B16%5D=16&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_date_value=&field_departement_target_id=&field_document_existe_ou_pas_value=1&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmin%5D=&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=field_departement_textuel&page=40&select-category-export=nothing&sort=desc&video=on](https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&field_classification_des_cas_target_id%5B12%5D=12&field_classification_des_cas_target_id%5B13%5D=13&field_classification_des_cas_target_id%5B14%5D=14&field_classification_des_cas_target_id%5B15%5D=15&field_classification_des_cas_target_id%5B16%5D=16&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_date_value=&field_departement_target_id=&field_document_existe_ou_pas_value=1&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmin%5D=&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=field_departement_textuel&page=40&select-category-export=nothing&sort=desc&video=on)  
+   Link: <a href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=40&amp;select-category-export=nothing&amp;sort=desc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=40&amp;select-category-export=nothing&amp;sort=desc&amp;video=on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casRentrée atmosphérique, 09/06/2011, 1978-12-11, voir. [MER] LAT -1.22, LON -81.12... 1990-11-06, voir. (REG) OCCITANIE (O...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ning the anonymity of witnesses. GEIPAN is not...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: [https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf](https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf)  
+   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — (AP), &quot;Russian rocket body re-entry mistaken for meteor shower&quot;, Amarillo Globe-. News, Nov 29...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
 17. <a id="endnote-17"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Belgium UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO](https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomThe mystery of the Belgium UFOs began on November 29, 1989, just outside of the small town of Eupen...</p></details>
    Published: November 29, 1989  
 
@@ -900,57 +854,57 @@ That lesson continues to influence how French investigators evaluate modern repo
 
 18. <a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FRENCH GOVERNMENT UFO STUDYThe above report has reportedly been approved by GEPAN&#x27;s supervisory scientl.&#x27;ic counsel. Note: the original r...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/](https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Flying SaucersBut GEIPAN does classify 23 percent of sightings as “unidentified phenomena,” and last year, about 10 cases w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: 5 novembre 1990 la nuit où des milliers de français ont vu des ovni dans le cie  
-   Link: [https://www.facebook.com/Brestinfo/posts/-5-novembre-1990-la-nuit-o%C3%B9-des-milliers-de-fran%C3%A7ais-ont-vu-des-ovni-dans-le-cie/1412753076992951/](https://www.facebook.com/Brestinfo/posts/-5-novembre-1990-la-nuit-o%C3%B9-des-milliers-de-fran%C3%A7ais-ont-vu-des-ovni-dans-le-cie/1412753076992951/)  
+   Link: <a href="https://www.facebook.com/Brestinfo/posts/-5-novembre-1990-la-nuit-o%C3%B9-des-milliers-de-fran%C3%A7ais-ont-vu-des-ovni-dans-le-cie/1412753076992951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Brestinfo/posts/-5-novembre-1990-la-nuit-o%C3%B9-des-milliers-de-fran%C3%A7ais-ont-vu-des-ovni-dans-le-cie/1412753076992951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 novembre 1990: la nuit où des milliers de Français...5 novembre 1990: la nuit où des milliers de Français ont vu des &quot;OVNI&quot; dans le...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: [https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave](https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave)  
+   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: castbox.fm  
    Title: Montreal UFO connected to the 1990 French UFO Wave! id6344249 id801545607  
-   Link: [https://castbox.fm/episode/Montreal-UFO-connected-to-the-1990-French-UFO-Wave%21-id6344249-id801545607](https://castbox.fm/episode/Montreal-UFO-connected-to-the-1990-French-UFO-Wave%21-id6344249-id801545607)  
+   Link: <a href="https://castbox.fm/episode/Montreal-UFO-connected-to-the-1990-French-UFO-Wave%21-id6344249-id801545607" target="_blank" rel="noopener noreferrer nofollow">https://castbox.fm/episode/Montreal-UFO-connected-to-the-1990-French-UFO-Wave%21-id6344249-id801545607</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Montreal UFO connected to the 1990 French UFO Wave!Apr 27, 2025 — Starting around 7 PM, THOUSANDS – yes, THOUSANDS – of reports flooded p...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: ufo aliens on the cover of murzilka soviet magazine 1990  
-   Link: [https://www.facebook.com/sovietvisuals/posts/ufo-aliens-on-the-cover-of-murzilka-soviet-magazine-1990/1048061527536635/](https://www.facebook.com/sovietvisuals/posts/ufo-aliens-on-the-cover-of-murzilka-soviet-magazine-1990/1048061527536635/)  
+   Link: <a href="https://www.facebook.com/sovietvisuals/posts/ufo-aliens-on-the-cover-of-murzilka-soviet-magazine-1990/1048061527536635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sovietvisuals/posts/ufo-aliens-on-the-cover-of-murzilka-soviet-magazine-1990/1048061527536635/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO aliens on the cover of Murzilka Soviet magazine, 1990.Most of the reports were concluded to be optical illusions caused by high-altit...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: discoveryuk.com  
    Title: the belgian ufo wave close encounter or mass hysteria  
-   Link: [https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/](https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave: Close Encounter or Mass Hysteria?3 Sept 2024 — Between November 1989 and March 1990 all over Belgium, UFOs were spo...</p></details>
    Published: November 1989  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cc1tve/the_debrief_the_new_director_of_geipan_frances/](https://www.reddit.com/r/UFOs/comments/1cc1tve/the_debrief_the_new_director_of_geipan_frances/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cc1tve/the_debrief_the_new_director_of_geipan_frances/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cc1tve/the_debrief_the_new_director_of_geipan_frances/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ghting reports to SEPRA, thus providing the agency with a...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qdPS04bh0mQ](https://www.youtube.com/watch?v=qdPS04bh0mQ)  
+   Link: <a href="https://www.youtube.com/watch?v=qdPS04bh0mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdPS04bh0mQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he USSR - Lights Out #123... Glenn Dennis Interview, 11/19/1990...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: real photo taken during the belgian ufo wave  
-   Link: [https://www.reddit.com/r/UFOs/comments/10wh18n/real_photo_taken_during_the_belgian_ufo_wave/](https://www.reddit.com/r/UFOs/comments/10wh18n/real_photo_taken_during_the_belgian_ufo_wave/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/10wh18n/real_photo_taken_during_the_belgian_ufo_wave/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10wh18n/real_photo_taken_during_the_belgian_ufo_wave/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of people who&#x27;ve been abducted report being in a black triangle like thing that can go...Read more...</p></details>

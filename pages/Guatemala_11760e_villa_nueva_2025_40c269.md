@@ -239,7 +239,7 @@ prev_link:
   permalink: /database-reports/
   short_title: Database Reports
   heading_title: Mapping Guatemala’s UFO Reports Through Public Databases
-date: '2026-06-09 01:28:20 '
+date: '2026-06-10 01:53:15 '
 header:
   og_image: /assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-1-social.jpg
   preview_image: /assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-1.webp
@@ -248,15 +248,15 @@ image: /assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-1-so
 
 ## Introduction
 
-In late May 2025, observers across Villa Nueva, a populous municipality just south of [Guatemala]({{ 'what-guatemalas-ufo-reports-really/' | relative_url }}) City, reported an unusual aerial spectacle: a series of bright lights arranged in a horizontal formation, seen lingering in the night sky over the southern valley. The event — widely recorded on mobile phones from multiple vantage points including Bárcena and nearby hills — quickly drew local attention and remains unresolved, with official commentators labelling it a **UAP** (Unidentified Aerial Phenomenon) and no definitive explanation confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emisorasunidas.com">[Emisoras Unidas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emisorasunidas.com</span><span class="citation-popover-snippet">Emisoras UnidasEsto dice un experto guatemalteco sobre el objeto luminoso captado en el cielo de Villa NuevaMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+In late May 2025, observers across Villa Nueva, a populous municipality just south of Guatemala City, reported an unusual aerial spectacle: a series of bright lights arranged in a horizontal formation, seen lingering in the night sky over the southern valley. The event — widely recorded on mobile phones from multiple vantage points including Bárcena and nearby hills — quickly drew local attention and remains unresolved, with official commentators labelling it a **UAP** (Unidentified Aerial Phenomenon) and no definitive explanation confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emisorasunidas.com">[Emisoras Unidas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emisorasunidas.com</span><span class="citation-popover-snippet">Emisoras UnidasEsto dice un experto guatemalteco sobre el objeto luminoso captado en el cielo de Villa NuevaMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-1-dark.svg" | relative_url }}" alt="Villa Nueva 2025 illustration 1" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Chronology and Witnessed Pattern
 
-On the evening of **28 May 2025**, numerous residents in Villa Nueva and adjacent areas captured footage of a linear array of **six white lights** suspended in the sky for several minutes before disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emisorasunidas.com">[Emisoras Unidas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emisorasunidas.com</span><span class="citation-popover-snippet">Emisoras UnidasEsto dice un experto guatemalteco sobre el objeto luminoso captado en el cielo de Villa NuevaMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span> The anomaly was reported from various neighbourhoods such as Bárcena, and recordings circulated rapidly on social media and messaging platforms, showing the lights from different angles and in slightly varied formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible UFO Spotted By Multiple Witnesses Has Local Media Stumped</span><span class="citation-popover-snippet">BroBibleUFO Spotted By Multiple Witnesses Has Local Media StumpedJune 2, 2025...</span><span class="citation-popover-meta">Published: June 2, 2025</span></span></span>
+On the evening of **28 May 2025**, numerous residents in Villa Nueva and adjacent areas captured footage of a linear array of **six white lights** suspended in the sky for several minutes before disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emisorasunidas.com">[Emisoras Unidas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emisorasunidas.com</span><span class="citation-popover-snippet">Emisoras UnidasEsto dice un experto guatemalteco sobre el objeto luminoso captado en el cielo de Villa NuevaMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span> The anomaly was reported from various neighbourhoods such as Bárcena, and recordings circulated rapidly on social media and messaging platforms, showing the lights from different angles and in slightly varied formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible UFO Spotted By Multiple Witnesses Has Local Media Stumped</span><span class="citation-popover-snippet">UFO Spotted By Multiple Witnesses Has Local Media StumpedJune 2, 2025...</span><span class="citation-popover-meta">Published: June 2, 2025</span></span></span>
 
-Local media characterised the phenomenon as both **persistent and widely observed**, with some witnesses and commentators comparing the scene to an aerial vessel or “mothership,” though this language stems from speculative descriptions rather than any confirmed physical interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">iHeartWatch: Multiple Witnesses Film &#x27;Mothership&#x27; UFO Over Guatemalan City | iHeartRadio | Coast to Coast AM with George NooryMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+Local media characterised the phenomenon as both **persistent and widely observed**, with some witnesses and commentators comparing the scene to an aerial vessel or “mothership,” though this language stems from speculative descriptions rather than any confirmed physical interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Watch: Multiple Witnesses Film &#x27;Mothership&#x27; UFO Over Guatemalan City &#124; iHeartRadio &#124; Coast to Coast AM with George NooryMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nWlqGVgchRY" title="Avistamiento OVNI en Guatemala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nWlqGVgchRY" target="_blank" rel="noopener noreferrer">Avistamiento OVNI en Guatemala</a></p><p class="youtube-embed-meta">Channel: TN23 Guatemala &middot; Views: 89.0K &middot; Uploaded: November 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nWlqGVgchRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nWlqGVgchRY">Open on YouTube</a></p></div></div></div>
@@ -273,9 +273,9 @@ Despite this, local analysis did **not endorse any specific extraordinary origin
 <img src="{{ "/assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-2-dark.svg" | relative_url }}" alt="Villa Nueva 2025 illustration 2" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_villa_nueva_2025_40c269-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Media and Public Reaction
 
-The sighting rapidly drew attention beyond Guatemala’s news outlets. International aggregator and alternative news sites circulated clips and summaries, sometimes with sensational labels such as “UFO” or “mothership,” which reflect public intrigue more than validated scientific positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible UFO Spotted By Multiple Witnesses Has Local Media Stumped</span><span class="citation-popover-snippet">BroBibleUFO Spotted By Multiple Witnesses Has Local Media StumpedJune 2, 2025...</span><span class="citation-popover-meta">Published: June 2, 2025</span></span></span> These news items helped spread awareness of the event to broader audiences but did not add independently verified evidence or expert interpretation.
+The sighting rapidly drew attention beyond Guatemala’s news outlets. International aggregator and alternative news sites circulated clips and summaries, sometimes with sensational labels such as “UFO” or “mothership,” which reflect public intrigue more than validated scientific positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible UFO Spotted By Multiple Witnesses Has Local Media Stumped</span><span class="citation-popover-snippet">UFO Spotted By Multiple Witnesses Has Local Media StumpedJune 2, 2025...</span><span class="citation-popover-meta">Published: June 2, 2025</span></span></span> These news items helped spread awareness of the event to broader audiences but did not add independently verified evidence or expert interpretation.
 
-Locally, the videos and eyewitness reports sparked debate on social media platforms, with some users sharing theories ranging from drones to atmospheric phenomena, though many such comments lacked concrete substantiation. These discussions highlight how rapidly visual reports can proliferate and evolve in online contexts, separate from formal inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/guatemala/comments/1kwic3b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Dron u OVNI?</span><span class="citation-popover-snippet">RedditDron u OVNI?May 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
+Locally, the videos and eyewitness reports sparked debate on social media platforms, with some users sharing theories ranging from drones to atmospheric phenomena, though many such comments lacked concrete substantiation. These discussions highlight how rapidly visual reports can proliferate and evolve in online contexts, separate from formal inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/guatemala/comments/1kwic3b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Dron u OVNI?</span><span class="citation-popover-snippet">Dron u OVNI?May 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqf9ddA0VDc" title="OVNI en Guatemala Luces Misteriosas en el cielo del Cerro de Bárcenas en Villa Nueva hoy mayo 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqf9ddA0VDc" target="_blank" rel="noopener noreferrer">OVNI en Guatemala Luces Misteriosas en el cielo del Cerro de Bárcenas en Villa Nueva hoy mayo 2025</a></p><p class="youtube-embed-meta">Channel: LeyendaMisterioTV &middot; Views: 525 &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqf9ddA0VDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqf9ddA0VDc">Open on YouTube</a></p></div></div></div>
@@ -308,86 +308,44 @@ This unresolved status underscores both the challenges and limitations of interp
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Unraveling the 2025 Villa Nueva UFO Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Unraveling the 2025 Villa Nueva UFO Lights, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
-        
-        <p class="fr-book-desc">Places recent sightings within a longer reporting tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relevant to evaluating contemporary UAP incidents and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for analysing witness reports and observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
-        
-        <p class="fr-book-desc">Explores interpretations of unusual lights and recurring phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -421,75 +379,71 @@ This unresolved status underscores both the challenges and limitations of interp
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=villa-nueva-2025-unraveling-the-2025-villa-nueva-ufo-lights-guatemala-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -704,45 +658,45 @@ This unresolved status underscores both the challenges and limitations of interp
 1. <a id="endnote-1"></a>
    Source: brobible.com  
    Title: Bro Bible UFO Spotted By Multiple Witnesses Has Local Media Stumped  
-   Link: [https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/](https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BroBibleUFO Spotted By Multiple Witnesses Has Local Media StumpedJune 2, 2025...</p></details>
+   Link: <a href="https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/ufo-filmed-multiple-witnesses-guatemala/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Spotted By Multiple Witnesses Has Local Media StumpedJune 2, 2025...</p></details>
    Published: June 2, 2025  
 
 2. <a id="endnote-2"></a>
    Source: news.iheart.com  
-   Link: [https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/](https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iHeartWatch: Multiple Witnesses Film &#x27;Mothership&#x27; UFO Over Guatemalan City | iHeartRadio | Coast to Coast AM with George NooryMay 30, 2025...</p></details>
+   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Multiple Witnesses Film &#x27;Mothership&#x27; UFO Over Guatemalan City | iHeartRadio | Coast to Coast AM with George NooryMay 30, 2025...</p></details>
    Published: May 30, 2025  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Dron u OVNI?  
-   Link: [https://www.reddit.com/r/guatemala/comments/1kwic3b](https://www.reddit.com/r/guatemala/comments/1kwic3b)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDron u OVNI?May 27, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/guatemala/comments/1kwic3b" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/guatemala/comments/1kwic3b</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dron u OVNI?May 27, 2025...</p></details>
    Published: May 27, 2025  
 
 4. <a id="endnote-4"></a>
    Source: guatemala.com  
-   Link: [https://www.guatemala.com/noticias/comunidad/cierres-vehiculares-en-villa-nueva-del-1-al-7-de-julio-2025-por-estudios-preventivos.html](https://www.guatemala.com/noticias/comunidad/cierres-vehiculares-en-villa-nueva-del-1-al-7-de-julio-2025-por-estudios-preventivos.html)  
+   Link: <a href="https://www.guatemala.com/noticias/comunidad/cierres-vehiculares-en-villa-nueva-del-1-al-7-de-julio-2025-por-estudios-preventivos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.guatemala.com/noticias/comunidad/cierres-vehiculares-en-villa-nueva-del-1-al-7-de-julio-2025-por-estudios-preventivos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cierres vehiculares en Ruta al Pacífico por estudios geológicos en primeros días de julio 2025June 27, 2025 — CIERRES VEHICULARES EN VILL...</p></details>
    Published: June 27, 2025  
 
 5. <a id="endnote-5"></a>
    Source: guatemala.com  
-   Link: [https://www.guatemala.com/noticias/comunidad/cierre-vehicular-en-villa-nueva-km-17-5-de-ruta-al-pacifico-del-14-al-17-de-marzo-2025.html](https://www.guatemala.com/noticias/comunidad/cierre-vehicular-en-villa-nueva-km-17-5-de-ruta-al-pacifico-del-14-al-17-de-marzo-2025.html)  
+   Link: <a href="https://www.guatemala.com/noticias/comunidad/cierre-vehicular-en-villa-nueva-km-17-5-de-ruta-al-pacifico-del-14-al-17-de-marzo-2025.html" target="_blank" rel="noopener noreferrer nofollow">https://www.guatemala.com/noticias/comunidad/cierre-vehicular-en-villa-nueva-km-17-5-de-ruta-al-pacifico-del-14-al-17-de-marzo-2025.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rutas alternas por cierre vehicular en Villa Nueva, km 17.5 de ruta al Pacífico, del 14 al 17 de marzo 2025March 14, 2025 — RUTAS ALTERNA...</p></details>
    Published: March 14, 2025  
 
 6. <a id="endnote-6"></a>
    Source: emisorasunidas.com  
-   Link: [https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/](https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/)  
+   Link: <a href="https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow">https://emisorasunidas.com/nacional/2025/05/30/experto-habla-del-ovni-captado-en-villa-nueva/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emisoras UnidasEsto dice un experto guatemalteco sobre el objeto luminoso captado en el cielo de Villa NuevaMay 30, 2025...</p></details>
    Published: May 30, 2025  
 
 7. <a id="endnote-7"></a>
    Source: emisorasunidas.com  
    Title: cierre transito cuesta zope barcena villa nueva accidente  
-   Link: [https://emisorasunidas.com/nacional/2025/03/07/cierre-transito-cuesta-zope-barcena-villa-nueva-accidente/](https://emisorasunidas.com/nacional/2025/03/07/cierre-transito-cuesta-zope-barcena-villa-nueva-accidente/)  
+   Link: <a href="https://emisorasunidas.com/nacional/2025/03/07/cierre-transito-cuesta-zope-barcena-villa-nueva-accidente/" target="_blank" rel="noopener noreferrer nofollow">https://emisorasunidas.com/nacional/2025/03/07/cierre-transito-cuesta-zope-barcena-villa-nueva-accidente/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paso complicado tras accidente en cuesta del Zope, Villa NuevaMarch 7, 2025 — PASO COMPLICADO TRAS ACCIDENTE EN CUESTA DEL ZOPE, VILLA NU...</p></details>
    Published: March 7, 2025  
 
@@ -750,62 +704,62 @@ This unresolved status underscores both the challenges and limitations of interp
 
 8. <a id="endnote-8"></a>
    Source: agn.gt  
-   Link: [https://agn.gt/pnc-recupera-vivienda-de-victima-de-extorsion-y-captura-a-cinco-pandilleros-en-villa-nueva/](https://agn.gt/pnc-recupera-vivienda-de-victima-de-extorsion-y-captura-a-cinco-pandilleros-en-villa-nueva/)  
+   Link: <a href="https://agn.gt/pnc-recupera-vivienda-de-victima-de-extorsion-y-captura-a-cinco-pandilleros-en-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow">https://agn.gt/pnc-recupera-vivienda-de-victima-de-extorsion-y-captura-a-cinco-pandilleros-en-villa-nueva/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PNC recupera vivienda de víctima de extorsión y captura a cinco pandilleros en Villa Nueva - Agencia Guatemalteca de NoticiasOctober 1, 2...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mingob.gob.gt  
-   Link: [https://mingob.gob.gt/trabajo-interinstitucional-pnc-y-agentes-de-transito-de-villa-nueva-intervienen-en-capturas/](https://mingob.gob.gt/trabajo-interinstitucional-pnc-y-agentes-de-transito-de-villa-nueva-intervienen-en-capturas/)  
+   Link: <a href="https://mingob.gob.gt/trabajo-interinstitucional-pnc-y-agentes-de-transito-de-villa-nueva-intervienen-en-capturas/" target="_blank" rel="noopener noreferrer nofollow">https://mingob.gob.gt/trabajo-interinstitucional-pnc-y-agentes-de-transito-de-villa-nueva-intervienen-en-capturas/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministerio de GobernaciónMarch 3, 2025 — TRABAJO INTERINSTITUCIONAL: PNC Y AGENTES DE TRÁNSITO DE VILLA NUEVA INTERVIENEN EN CAPTURAS mar...</p></details>
    Published: March 3, 2025  
 
 10. <a id="endnote-10"></a>
    Source: publinews.gt  
-   Link: [https://www.publinews.gt/noticias/2025/09/26/balacera-en-villa-nueva-deja-dos-fallecidos-y-dos-heridos-de-gravedad/](https://www.publinews.gt/noticias/2025/09/26/balacera-en-villa-nueva-deja-dos-fallecidos-y-dos-heridos-de-gravedad/)  
+   Link: <a href="https://www.publinews.gt/noticias/2025/09/26/balacera-en-villa-nueva-deja-dos-fallecidos-y-dos-heridos-de-gravedad/" target="_blank" rel="noopener noreferrer nofollow">https://www.publinews.gt/noticias/2025/09/26/balacera-en-villa-nueva-deja-dos-fallecidos-y-dos-heridos-de-gravedad/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2025 — BALACERA EN VILLA NUEVA DEJA DOS FALLECIDOS Y DOS HERIDOS DE GRAVEDAD UNA INTENSA BALACERA CONTRA VARIAS PERSONAS EN...</p></details>
    Published: September 26, 2025  
 
 11. <a id="endnote-11"></a>
    Source: coasttocoastam.com  
    Title: Watch: Multiple Witnesses Film 'Mothership' UFO Over Guatemalan City  
-   Link: [https://www.coasttocoastam.com/article/watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/](https://www.coasttocoastam.com/article/watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/)  
+   Link: <a href="https://www.coasttocoastam.com/article/watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/article/watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 29, 2025 — Multiple witnesses in Guatemala captured footage of a curious UFO that some have likened to an alien mothership...</p></details>
    Published: June 29, 2025  
 
 12. <a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: Other resolutions: 320 × 240 pixels | 640 × 480 pixel  
-   Link: [https://commons.wikimedia.org/wiki/File%3AVilla-Nueva-Guatemala-2025.jpg](https://commons.wikimedia.org/wiki/File%3AVilla-Nueva-Guatemala-2025.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AVilla-Nueva-Guatemala-2025.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AVilla-Nueva-Guatemala-2025.jpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Villa-Nueva-Guatemala-2025.jpg - Wikimedia CommonsJuly 13, 2025 — FILE:VILLA-NUEVA-GUATEMALA-2025.JPG * File * Discussi...</p></details>
    Published: July 13, 2025  
 
 13. <a id="endnote-13"></a>
    Source: publinews.gt  
    Title: Incendio forestal afecta sector residencial de Villa Nueva – Publinews  
-   Link: [https://www.publinews.gt/noticias/2026/01/01/incendio-forestal-afecta-sector-residencial-de-villa-nueva/](https://www.publinews.gt/noticias/2026/01/01/incendio-forestal-afecta-sector-residencial-de-villa-nueva/)  
+   Link: <a href="https://www.publinews.gt/noticias/2026/01/01/incendio-forestal-afecta-sector-residencial-de-villa-nueva/" target="_blank" rel="noopener noreferrer nofollow">https://www.publinews.gt/noticias/2026/01/01/incendio-forestal-afecta-sector-residencial-de-villa-nueva/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expandir Image:. Cuerpos de emergencia trabajan en el lugar. (Foto: RRSS) Por Gustavo E. M...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bufora.org.uk  
    Title: Light Phenomenon over Newent  
-   Link: [https://www.bufora.org.uk/post/light-phenomenon-over-newent](https://www.bufora.org.uk/post/light-phenomenon-over-newent)  
+   Link: <a href="https://www.bufora.org.uk/post/light-phenomenon-over-newent" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/post/light-phenomenon-over-newent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2025 — LIGHT PHENOMENON OVER NEWENT * Aug 30, 2025 * 3 min read Sighting Account At approximately 22:36 on 14 August 2025, whi...</p></details>
    Published: August 30, 2025  
 
 15. <a id="endnote-15"></a>
    Source: villanueva.gob.gt  
    Title: Municipalidad de Villa Nueva  
-   Link: [https://www.villanueva.gob.gt/](https://www.villanueva.gob.gt/)  
+   Link: <a href="https://www.villanueva.gob.gt/" target="_blank" rel="noopener noreferrer nofollow">https://www.villanueva.gob.gt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nosotros NUESTROS SERVICIOS ESTADO DE CUENTA IUSI Ingresa el número de contribuyente para conocer el saldo actual del IUSI [Select] [Inpu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: publinews.gt  
    Title: Expandir Image: Kilóme  
-   Link: [https://www.publinews.gt/noticias/2025/06/18/mortal-accidente-en-villa-nueva-cisterna-de-combustible-se-incendia-en-carretera-vas/](https://www.publinews.gt/noticias/2025/06/18/mortal-accidente-en-villa-nueva-cisterna-de-combustible-se-incendia-en-carretera-vas/)  
+   Link: <a href="https://www.publinews.gt/noticias/2025/06/18/mortal-accidente-en-villa-nueva-cisterna-de-combustible-se-incendia-en-carretera-vas/" target="_blank" rel="noopener noreferrer nofollow">https://www.publinews.gt/noticias/2025/06/18/mortal-accidente-en-villa-nueva-cisterna-de-combustible-se-incendia-en-carretera-vas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortal accidente en Villa Nueva: Cisterna de combustible se incendia en carretera VAS – PublinewsJune 18, 2025 — MORTAL ACCIDENTE EN VILL...</p></details>
    Published: June 18, 2025  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dqf9ddA0VDc](https://www.youtube.com/watch?v=dqf9ddA0VDc)  
+   Link: <a href="https://www.youtube.com/watch?v=dqf9ddA0VDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dqf9ddA0VDc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI fue visto en Bárcenas Villa Nueva...</p></details>

@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-rumours/
   short_title: Sky Rumours
   heading_title: Why Bahrain Sky Events Become UFO Stories
-date: '2026-06-09 01:16:18 '
+date: '2026-06-10 01:41:36 '
 header:
   og_image: /assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1-social.jpg
   preview_image: /assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1.webp
@@ -254,28 +254,28 @@ image: /assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1-soci
 
 ## Introduction
 
-In November 2015 a still photograph claiming to show an unidentified flying object over the coastal town of **Al‑Hidd** in [Bahrain]({{ 'what-did-bahrains-ufo-sightings-really/' | relative_url }}) circulated widely on local social media. The image quickly became one of the most‑visible UFO‑labelled items associated with Bahrain’s modest record of anomalous sky reports — yet unlike better documented regional astronomical or atmospheric sightings, the **Hidd photograph never attained verifiable [evidence]({{ 'evidence/' | relative_url }}) beyond online reposts**. Subsequent commentary at the time suggested the “object” might be a cloud form or a digitally altered image, and no independent documentation or official investigation has been published to support the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? | THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
+In November 2015 a still photograph claiming to show an unidentified flying object over the coastal town of **Al‑Hidd** in Bahrain circulated widely on local social media. The image quickly became one of the most‑visible UFO‑labelled items associated with Bahrain’s modest record of anomalous sky reports — yet unlike better documented regional astronomical or atmospheric sightings, the **Hidd photograph never attained verifiable [evidence]({{ 'evidence/' | relative_url }}) beyond online reposts**. Subsequent commentary at the time suggested the “object” might be a cloud form or a digitally altered image, and no independent documentation or official investigation has been published to support the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNE &#124; KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1-dark.svg" | relative_url }}" alt="Hidd Photo illustration 1" data-theme-src-dark="{{ "/assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the photograph spread online
 
-In late November 2015, Bahraini users on platforms such as Twitter, Instagram and Facebook shared a photograph purportedly showing a “huge mysterious object” emerging from cloud cover above the eastern coast of Hidd. According to a report in **The Daily Tribune (News of Bahrain)**, the picture **quickly proliferated through personal social‑network accounts** and sparked spirited discussion about what it depicted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? | THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
+In late November 2015, Bahraini users on platforms such as Twitter, Instagram and Facebook shared a photograph purportedly showing a “huge mysterious object” emerging from cloud cover above the eastern coast of Hidd. According to a report in **The Daily Tribune (News of Bahrain)**, the picture **quickly proliferated through personal social‑network accounts** and sparked spirited discussion about what it depicted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNE &#124; KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
 
-Local commentators did not identify any named eyewitnesses or linked videos; instead, the claim’s visibility rested entirely on the viral posting of that single image. No subsequent follow‑up by the same outlets located additional independent photographs, audio recordings, radar tracks, or corroborating accounts from unrelated observers. The dissemination pattern resembled many other social‑media–driven sky‑sightings, where a compelling still image circulates far beyond its originating context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? | THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
+Local commentators did not identify any named eyewitnesses or linked videos; instead, the claim’s visibility rested entirely on the viral posting of that single image. No subsequent follow‑up by the same outlets located additional independent photographs, audio recordings, radar tracks, or corroborating accounts from unrelated observers. The dissemination pattern resembled many other social‑media–driven sky‑sightings, where a compelling still image circulates far beyond its originating context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNE &#124; KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/USQabqvO44k" title="Clouds That Look Like UFOs? Weird Clouds | Earth Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=USQabqvO44k" target="_blank" rel="noopener noreferrer">Clouds That Look Like UFOs? Weird Clouds | Earth Science</a></p><p class="youtube-embed-meta">Channel: BBC Earth Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=USQabqvO44k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=USQabqvO44k">Open on YouTube</a></p></div></div></div>
 
 ## Cloud shapes, editing doubts and context
 
-Within the social‑media threads that accompanied the Hidd photograph, many viewers **immediately disputed its interpretation as an anomalous craft**, suggesting more prosaic explanations: irregular cloud formations or an electronically edited picture. These early sceptical responses were reported alongside the initial coverage itself, underscoring that public reception was mixed rather than uniformly credulous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? | THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
+Within the social‑media threads that accompanied the Hidd photograph, many viewers **immediately disputed its interpretation as an anomalous craft**, suggesting more prosaic explanations: irregular cloud formations or an electronically edited picture. These early sceptical responses were reported alongside the initial coverage itself, underscoring that public reception was mixed rather than uniformly credulous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNE &#124; KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
 
 The photograph’s visual content — a large, vaguely defined form within cloud outlines — resembles common natural phenomena that can trick both lay observers and casual photographers:
 
 * **Pareidolia in cloud structures**, where random cloud contours appear to suggest solid shapes.
 * **Artifacts from image compression or camera exposure**, which can enhance contrast in ways that produce anomalous silhouettes.
-* **Digital alteration or filters**, a practice widespread on social media and known to generate hoax UFO images. (Broader fact‑checking investigations of 2015 online UFO images have noted identical composite saucer shapes appearing in unrelated photos worldwide, often linked to smartphone filters or contest‑generated overlays rather than genuine sky phenomena.) <span class="citation-chip-wrap"><a class="citation-chip" href="https://factcheck.afp.com/ufo-photos-its-hoax-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.afp.com">[AFP Fact Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.afp.com</span><span class="citation-popover-title">ufo photos its hoax 2015</span><span class="citation-popover-snippet">AFP Fact CheckUFO photos? It’s a hoax from 2015 | Fact CheckFebruary 12, 2019...</span><span class="citation-popover-meta">Published: February 12, 2019</span></span></span>
+* **Digital alteration or filters**, a practice widespread on social media and known to generate hoax UFO images. (Broader fact‑checking investigations of 2015 online UFO images have noted identical composite saucer shapes appearing in unrelated photos worldwide, often linked to smartphone filters or contest‑generated overlays rather than genuine sky phenomena.) <span class="citation-chip-wrap"><a class="citation-chip" href="https://factcheck.afp.com/ufo-photos-its-hoax-2015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.afp.com">[AFP Fact Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.afp.com</span><span class="citation-popover-title">ufo photos its hoax 2015</span><span class="citation-popover-snippet">AFP Fact CheckUFO photos? It’s a hoax from 2015 &#124; Fact CheckFebruary 12, 2019...</span><span class="citation-popover-meta">Published: February 12, 2019</span></span></span>
 
 No official weather, atmospheric, or aviation analysis was published that would explicitly confirm or debunk the specific cloud shape seen in the Hidd photo. However, given the lack of additional angles or source metadata, photographic interpretation remains highly ambiguous.
 
@@ -305,92 +305,50 @@ Because of these gaps, the photograph **remains unverified in evidential terms**
 
 ## Why the Hidd case matters to the Bahrain UFO record
 
-Although it never produced high‑quality evidence or a resolved explanation, the 2015 Hidd photograph illustrates a recurring dynamic in Bahrain’s UFO‑labelled reports: **the rapid amplification of intriguing visuals on social media without corresponding empirical backing**. In Bahrain’s broader UFO context — where most reported sky phenomena are later explained as meteors, aircraft, satellites, or atmospheric effects once additional data are consulted — the Hidd photo underscores how **public interest can outpace the available evidence**. Engaging with such claims helps clarify that not all widely‑shared images originate from verified observations, and that critical evaluation is essential when assessing unverified sky phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? | THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
+Although it never produced high‑quality evidence or a resolved explanation, the 2015 Hidd photograph illustrates a recurring dynamic in Bahrain’s UFO‑labelled reports: **the rapid amplification of intriguing visuals on social media without corresponding empirical backing**. In Bahrain’s broader UFO context — where most reported sky phenomena are later explained as meteors, aircraft, satellites, or atmospheric effects once additional data are consulted — the Hidd photo underscores how **public interest can outpace the available evidence**. Engaging with such claims helps clarify that not all widely‑shared images originate from verified observations, and that critical evaluation is essential when assessing unverified sky phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNE &#124; KINGDOM OF BAHRAINNovember 23, 2015...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-3-dark.svg" | relative_url }}" alt="Hidd Photo illustration 3" data-theme-src-dark="{{ "/assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why the Hidd UFO Photo Stayed Unproven. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why the Hidd UFO Photo Stayed Unproven, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses witness reliability and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Covers weak evidence, hoaxes, and common mistakes in UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between stronger and weaker UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explores critical thinking and evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -424,75 +382,71 @@ Although it never produced high‑quality evidence or a resolved explanation, th
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidd-photo-why-the-hidd-ufo-photo-stayed-unproven-bahrain-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -706,39 +660,39 @@ Although it never produced high‑quality evidence or a resolved explanation, th
 
 1. <a id="endnote-1"></a>
    Source: newsofbahrain.com  
-   Link: [https://www.newsofbahrain.com/bahrain/9387.html](https://www.newsofbahrain.com/bahrain/9387.html)  
+   Link: <a href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/bahrain/9387.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News of BahrainUFO in Bahrain? | THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 23, 2015...</p></details>
    Published: November 23, 2015  
 
 2. <a id="endnote-2"></a>
    Source: factcheck.afp.com  
    Title: ufo photos its hoax 2015  
-   Link: [https://factcheck.afp.com/ufo-photos-its-hoax-2015](https://factcheck.afp.com/ufo-photos-its-hoax-2015)  
+   Link: <a href="https://factcheck.afp.com/ufo-photos-its-hoax-2015" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/ufo-photos-its-hoax-2015</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFP Fact CheckUFO photos? It’s a hoax from 2015 | Fact CheckFebruary 12, 2019...</p></details>
    Published: February 12, 2019  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=124605](https://nuforc.org/sighting/?id=124605)  
+   Link: <a href="https://nuforc.org/sighting/?id=124605" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=124605</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 124605December 10, 2015 — NUFORC UFO SIGHTING 124605 Occurred: 2015-12-10 17:30 Local Reported: 2015-12-10 09:00 Paci...</p></details>
    Published: December 10, 2015  
 
 4. <a id="endnote-4"></a>
    Source: newsofbahrain.com  
    Title: UF O in Kuwait?  
-   Link: [https://www.newsofbahrain.com/bahrain/8582.html](https://www.newsofbahrain.com/bahrain/8582.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 11, 2015 — *** Image UFO in Kuwait? | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN iframe Imag...</p></details>
+   Link: <a href="https://www.newsofbahrain.com/bahrain/8582.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/bahrain/8582.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DAILY TRIBUNE | KINGDOM OF BAHRAINNovember 11, 2015 — *** Image UFO in Kuwait? | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN iframe Imag...</p></details>
    Published: November 11, 2015  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=119933](https://nuforc.org/sighting/?id=119933)  
+   Link: <a href="https://nuforc.org/sighting/?id=119933" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=119933</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 119933July 3, 2015 — NUFORC UFO SIGHTING 119933 Occurred: 2015-07-01 17:30 Local Reported: 2015-07-01 19:07 Pacific D...</p></details>
    Published: July 1, 2015  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=118018](https://nuforc.org/sighting/?id=118018)  
+   Link: <a href="https://nuforc.org/sighting/?id=118018" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=118018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 118018March 26, 2015 — NUFORC UFO SIGHTING 118018 Occurred: 2015-03-22 21:00 Local Reported: 2015-03-24 15:48 Pacific...</p></details>
    Published: March 22, 2015  
 
@@ -746,67 +700,67 @@ Although it never produced high‑quality evidence or a resolved explanation, th
 
 7. <a id="endnote-7"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/science/alien-found-in-san-jose-after-ufo-sighting-appears-to-be-deer-foetus-was-taken-before-california-test-missile-launch-a6728951.html](https://www.independent.co.uk/news/science/alien-found-in-san-jose-after-ufo-sighting-appears-to-be-deer-foetus-was-taken-before-california-test-missile-launch-a6728951.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IndependentNovember 13, 2015 — ‘ALIEN FOUND AFTER UFO SIGHTING&#x27; APPEARS TO BE A DEER FOETUS, PICTURE FROM BEFORE CALIFORNIA TEST MISSILE...</p></details>
+   Link: <a href="https://www.independent.co.uk/news/science/alien-found-in-san-jose-after-ufo-sighting-appears-to-be-deer-foetus-was-taken-before-california-test-missile-launch-a6728951.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/alien-found-in-san-jose-after-ufo-sighting-appears-to-be-deer-foetus-was-taken-before-california-test-missile-launch-a6728951.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 13, 2015 — ‘ALIEN FOUND AFTER UFO SIGHTING&#x27; APPEARS TO BE A DEER FOETUS, PICTURE FROM BEFORE CALIFORNIA TEST MISSILE...</p></details>
    Published: November 13, 2015  
 
 8. <a id="endnote-8"></a>
    Source: geekslop.com  
-   Link: [https://www.geekslop.com/life/strange/strange-news/2015/previously-unknown-navy-uss-trepang-ufo-photos-anonymous-navy-submarine](https://www.geekslop.com/life/strange/strange-news/2015/previously-unknown-navy-uss-trepang-ufo-photos-anonymous-navy-submarine)  
+   Link: <a href="https://www.geekslop.com/life/strange/strange-news/2015/previously-unknown-navy-uss-trepang-ufo-photos-anonymous-navy-submarine" target="_blank" rel="noopener noreferrer nofollow">https://www.geekslop.com/life/strange/strange-news/2015/previously-unknown-navy-uss-trepang-ufo-photos-anonymous-navy-submarine</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geek SlopJuly 10, 2015 — Posted on July 10, 2015May 25, 2023 by dimensionsnews ANONYMOUS MAN RELEASES CACHE OF PHOTOS HE CLAIMS ARE PREVI...</p></details>
    Published: July 10, 2015  
 
 9. <a id="endnote-9"></a>
    Source: dongascience.com  
    Title: An Unidentified Aerial Formation of Twelve Lights Photographed Over Bahrain  
-   Link: [https://www.dongascience.com/en/news/14850](https://www.dongascience.com/en/news/14850)  
+   Link: <a href="https://www.dongascience.com/en/news/14850" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/14850</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DongA ScienceNovember 23, 2016 — AN UNIDENTIFIED AERIAL FORMATION OF TWELVE LIGHTS PHOTOGRAPHED OVER BAHRAIN &lt;팝뉴스&gt; 2016.11.23 06:00 KST [...</p></details>
    Published: November 23, 2016  
 
 10. <a id="endnote-10"></a>
    Source: petapixel.com  
    Title: Missile Test 'UFO' Captured in Photos and Videos | Peta Pixel  
-   Link: [https://petapixel.com/2015/11/08/missile-test-ufo-captured-in-photos-and-videos/](https://petapixel.com/2015/11/08/missile-test-ufo-captured-in-photos-and-videos/)  
+   Link: <a href="https://petapixel.com/2015/11/08/missile-test-ufo-captured-in-photos-and-videos/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2015/11/08/missile-test-ufo-captured-in-photos-and-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Test &#x27;UFO&#x27; Captured in Photos and Videos | PetaPixelNovember 8, 2015 — * * * * * # Missile Test ‘UFO’ Captured in Photos and Vide...</p></details>
    Published: November 8, 2015  
 
 11. <a id="endnote-11"></a>
    Source: forbes.com  
    Title: contributors publish independent expert analyses and insights  
-   Link: [https://www.forbes.com/sites/startswithabang/2015/11/22/no-iss-astronaut-scott-kelly-did-not-take-a-picture-of-a-ufo/](https://www.forbes.com/sites/startswithabang/2015/11/22/no-iss-astronaut-scott-kelly-did-not-take-a-picture-of-a-ufo/)  
+   Link: <a href="https://www.forbes.com/sites/startswithabang/2015/11/22/no-iss-astronaut-scott-kelly-did-not-take-a-picture-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/startswithabang/2015/11/22/no-iss-astronaut-scott-kelly-did-not-take-a-picture-of-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No, ISS Astronaut Scott Kelly Did Not Take A Picture Of A UFONovember 22, 2015 — NO, ISS ASTRONAUT SCOTT KELLY DID NOT TAKE A PICTURE OF...</p></details>
    Published: November 22, 2015  
 
 12. <a id="endnote-12"></a>
    Source: theufodatabase.com  
    Title: uss theodore roosevelt incident gimbal video screenshot  
-   Link: [https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gimbal-video-screenshot](https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gimbal-video-screenshot)  
+   Link: <a href="https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gimbal-video-screenshot" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gimbal-video-screenshot</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot of &quot;Gimbal&quot; video | The UFO DatabaseSCREENSHOT OF &quot;GIMBAL&quot; VIDEO IMAGE: SHARE Image: Screenshot of Screenshot of the &quot;Gimbal&quot;...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thexenologist.com  
    Title: One man in England set out to find the origin of thi  
-   Link: [https://www.thexenologist.com/2015/08/this-picture-of-ufo-image-is-trying-to.html](https://www.thexenologist.com/2015/08/this-picture-of-ufo-image-is-trying-to.html)  
+   Link: <a href="https://www.thexenologist.com/2015/08/this-picture-of-ufo-image-is-trying-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thexenologist.com/2015/08/this-picture-of-ufo-image-is-trying-to.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This picture of a “UFO” image is trying to break the internet ~ The XenologistAugust 21, 2015 — 21 AUGUST, 2015 THIS PICTURE OF A “UFO” I...</p></details>
    Published: August 21, 2015  
 
 14. <a id="endnote-14"></a>
    Source: inverse.com  
    Title: 9487 why 2015 was a weird year for ufo sightings  
-   Link: [https://www.inverse.com/article/9487-why-2015-was-a-weird-year-for-ufo-sightings](https://www.inverse.com/article/9487-why-2015-was-a-weird-year-for-ufo-sightings)  
+   Link: <a href="https://www.inverse.com/article/9487-why-2015-was-a-weird-year-for-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/article/9487-why-2015-was-a-weird-year-for-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why 2015 Was a Weird Year for UFO SightingsDecember 22, 2015 — WHY 2015 WAS A WEIRD YEAR FOR UFO SIGHTINGS We&#x27;re no closer to finding int...</p></details>
    Published: December 22, 2015  
 
 15. <a id="endnote-15"></a>
    Source: koreatimes.co.kr  
    Title: Photos show UFO over Cornwall  
-   Link: [https://www.koreatimes.co.kr/amp/world/20150223/photos-show-ufo-over-cornwall/](https://www.koreatimes.co.kr/amp/world/20150223/photos-show-ufo-over-cornwall/)  
+   Link: <a href="https://www.koreatimes.co.kr/amp/world/20150223/photos-show-ufo-over-cornwall/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/amp/world/20150223/photos-show-ufo-over-cornwall/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Korea TimesFebruary 23, 2015 — Photos show UFO over Cornwall - The Korea Times PHOTOS SHOW UFO OVER CORNWALL Image: image Unidentifie...</p></details>
    Published: February 23, 2015  
 
 16. <a id="endnote-16"></a>
    Source: koreatimes.co.kr  
    Title: Photos show UFO over Cornwall  
-   Link: [https://www.koreatimes.co.kr/world/20150223/photos-show-ufo-over-cornwall](https://www.koreatimes.co.kr/world/20150223/photos-show-ufo-over-cornwall)  
+   Link: <a href="https://www.koreatimes.co.kr/world/20150223/photos-show-ufo-over-cornwall" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/world/20150223/photos-show-ufo-over-cornwall</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Korea TimesFebruary 23, 2015 — PHOTOS SHOW UFO OVER CORNWALL Listen Listen Text Size Print By Ko Dong-hwan * Published Feb 23, 2015 5...</p></details>
    Published: February 23, 2015  

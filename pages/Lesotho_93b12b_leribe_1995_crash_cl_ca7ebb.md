@@ -239,7 +239,7 @@ next_link:
   permalink: /maseru-sightings/
   short_title: Maseru Sightings
   heading_title: Why Do Lights Over Maseru Become UFO Reports?
-date: '2026-06-09 01:31:49 '
+date: '2026-06-10 01:57:25 '
 header:
   og_image: /assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1-social.jpg
   preview_image: /assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1-
 
 ## Introduction
 
-The alleged UFO crash near Leribe in September 1995 is the most widely repeated UFO story connected to [Lesotho]({{ 'what-is-really-known-about-lesotho-ufos/' | relative_url }}). In many retellings, it is presented as an African equivalent of Roswell: a mysterious craft supposedly crashes, military forces recover it, and secret documents reveal a hidden extraterrestrial encounter. The problem is that almost every dramatic detail appears to originate from later UFO literature, anonymous documents, or recycled internet accounts rather than verifiable records.
+The alleged UFO crash near Leribe in September 1995 is the most widely repeated UFO story connected to Lesotho. In many retellings, it is presented as an African equivalent of Roswell: a mysterious craft supposedly crashes, military forces recover it, and secret documents reveal a hidden extraterrestrial encounter. The problem is that almost every dramatic detail appears to originate from later UFO literature, anonymous documents, or recycled internet accounts rather than verifiable records.
 
 
 <img src="{{ "/assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1-dark.svg" | relative_url }}" alt="Leribe Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike some UFO cases that at least begin with named witnesses, police reports, newspaper coverage, or contemporaneous photographs, the Leribe story suffers from a weak and fragmented source trail. Researchers who examined the claim in the 1990s repeatedly questioned its authenticity, while later sceptical reviews classified the supporting documents as probable hoaxes. As a result, the Leribe incident occupies an unusual place in [southern African]({{ 'regional-folklore/' | relative_url }}) UFO folklore: famous within enthusiast circles, but poorly supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoafrinews.com">[UFO Africanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoafrinews.com</span><span class="citation-popover-title">UFO Africanews UFO Afrinews</span><span class="citation-popover-snippet">UFO AfricanewsUFO AfrinewsOctober 18, 2008 — To me, UFOs are still the greatest mystery of our time. LESOTHO - ANOTHER UFO HOAX? I have m...</span><span class="citation-popover-meta">Published: October 18, 2008</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+Unlike some UFO cases that at least begin with named witnesses, police reports, newspaper coverage, or contemporaneous photographs, the Leribe story suffers from a weak and fragmented source trail. Researchers who examined the claim in the 1990s repeatedly questioned its authenticity, while later sceptical reviews classified the supporting documents as probable hoaxes. As a result, the Leribe incident occupies an unusual place in southern African UFO folklore: famous within enthusiast circles, but poorly supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoafrinews.com">[UFO Africanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoafrinews.com</span><span class="citation-popover-title">UFO Africanews UFO Afrinews</span><span class="citation-popover-snippet">UFO AfricanewsUFO AfrinewsOctober 18, 2008 — To me, UFOs are still the greatest mystery of our time. LESOTHO - ANOTHER UFO HOAX? I have m...</span><span class="citation-popover-meta">Published: October 18, 2008</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 ## How the crash story is usually told
 
@@ -315,7 +315,7 @@ The hoax discussion centres on the documents rather than on a single witness acc
 
 Several UFO researchers connected the Leribe material to earlier controversial crash-retrieval claims in southern Africa. The name most frequently mentioned in those debates is James van Greunen, who had already become associated with disputed documents concerning the alleged 1989 Kalahari crash. Critics argued that the Lesotho papers displayed similar problems and may have emerged from the same network of claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 4x4community.co.za">[4x4 Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">4x4community.co.za</span><span class="citation-popover-title">301112 1989 Kalahari UFO crash</span><span class="citation-popover-snippet">4x4 CommunityThread: 1989 Kalahari UFO crash30 Jul 2018 — &quot;According to supposed leaked documents an alien craft was shot down by South A...</span></span></span>
 
-Researcher Michael Hesemann reportedly described the Lesotho case as a complete hoax after failing to locate supporting evidence. Other investigators were less categorical but still regarded the documents with strong suspicion. The common thread was that years of investigation failed to produce the expected witnesses, records, or physical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Lesotho UFO crash documents</span><span class="citation-popover-snippet">HandWikiUnsolved:UFO sightings in South AfricaAccording to supposed leaked documents an alien craft was shot down by South African...</span></span></span>
+Researcher Michael Hesemann reportedly described the Lesotho case as a complete hoax after failing to locate supporting evidence. Other investigators were less categorical but still regarded the documents with strong suspicion. The common thread was that years of investigation failed to produce the expected witnesses, records, or physical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Lesotho UFO crash documents</span><span class="citation-popover-snippet">Unsolved:UFO sightings in South AfricaAccording to supposed leaked documents an alien craft was shot down by South African...</span></span></span>
 
 This distinction matters. A hoax allegation is strongest when forged material can be directly demonstrated. In the Leribe case, many researchers instead reached a practical conclusion: the documentary evidence was unreliable enough that the crash narrative could not be treated as established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoafrinews.com">[UFO Africanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoafrinews.com</span><span class="citation-popover-title">UFO Africanews UFO Afrinews</span><span class="citation-popover-snippet">UFO AfricanewsUFO AfrinewsOctober 18, 2008 — To me, UFOs are still the greatest mystery of our time. LESOTHO - ANOTHER UFO HOAX? I have m...</span><span class="citation-popover-meta">Published: October 18, 2008</span></span></span>
 
@@ -347,86 +347,44 @@ For readers trying to separate folklore from evidence, the key takeaway is strai
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did a UFO Really Crash Near Leribe?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did a UFO Really Crash Near Leribe?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for evaluating witness testimony and unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly relevant to hoax assessment and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
-        <p class="fr-book-desc">Provides context for why Leribe is often compared to Roswell-style narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
-        
-        <p class="fr-book-desc">Helps readers compare evidence standards between crash stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,75 +418,71 @@ For readers trying to separate folklore from evidence, the key takeaway is strai
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1383516a19caebfce044.jpg' | relative_url }}" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leribe-claim-did-a-ufo-really-crash-near-leribe-lesotho-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -743,112 +697,112 @@ For readers trying to separate folklore from evidence, the key takeaway is strai
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
 2. <a id="endnote-2"></a>
    Source: handwiki.org  
    Title: "Lesotho UFO crash documents  
-   Link: [https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa](https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HandWikiUnsolved:UFO sightings in South AfricaAccording to supposed leaked documents an alien craft was shot down by South African...</p></details>
+   Link: <a href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:UFO sightings in South AfricaAccording to supposed leaked documents an alien craft was shot down by South African...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: groups.google.com  
    Title: Kvsl ETHu BEM  
-   Link: [https://groups.google.com/g/alt.alien.visitors/c/KvslETHuBEM](https://groups.google.com/g/alt.alien.visitors/c/KvslETHuBEM)  
+   Link: <a href="https://groups.google.com/g/alt.alien.visitors/c/KvslETHuBEM" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.alien.visitors/c/KvslETHuBEM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRICAN GOV&#x27;T RECOVER CRASHED UFO IN 1995?... happened scarcely 15 months ago. But could the documents be real? Or are they more likely...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufoac.com  
    Title: UFO ACWas a UFO shot down over the Kalahari?On  
-   Link: [https://ufoac.com/was-a-ufo-shot-down-over-the-kalahari.html](https://ufoac.com/was-a-ufo-shot-down-over-the-kalahari.html)  
+   Link: <a href="https://ufoac.com/was-a-ufo-shot-down-over-the-kalahari.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/was-a-ufo-shot-down-over-the-kalahari.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was a UFO shot down over the Kalahari?On June 21, 1996, German ufologist Hans-Jorgen Kaiborg received an anonymous letter with secret doc...</p></details>
    Published: June 21, 1996  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: 1995 lesotho ufo crash  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1puw2z3/1995_lesotho_ufo_crash/](https://www.reddit.com/r/UFOs_Archive/comments/1puw2z3/1995_lesotho_ufo_crash/)  
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1puw2z3/1995_lesotho_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1puw2z3/1995_lesotho_ufo_crash/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs_ArchiveA few years later, I came across rumors of a UFO crash that had supposedly occurred in Lesotho. According to the stories, t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/](https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 2mo ago...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufoafrinews.com  
    Title: UFO Africanews UFO Afrinews  
-   Link: [https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf](https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf)  
+   Link: <a href="https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoafrinews.com/pdfs/UFO_AFRINEWS14-150.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO AfricanewsUFO AfrinewsOctober 18, 2008 — To me, UFOs are still the greatest mystery of our time. LESOTHO - ANOTHER UFO HOAX? I have m...</p></details>
    Published: October 18, 2008  
 
 9. <a id="endnote-9"></a>
    Source: ufoinsight.com  
    Title: ufo crash recovery kingdom lesotho  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/ufo-crash-recovery-kingdom-lesotho](https://www.ufoinsight.com/ufos/cover-ups/ufo-crash-recovery-kingdom-lesotho)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/ufo-crash-recovery-kingdom-lesotho" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/ufo-crash-recovery-kingdom-lesotho</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash, And Recovery In The Kingdom Of Lesotho?4 Aug 2018 — The site of the apparent crash was within the farm boundaries of a South A...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: 4x4community.co.za  
    Title: 301112 1989 Kalahari UFO crash  
-   Link: [https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash](https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash)  
+   Link: <a href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4x4 CommunityThread: 1989 Kalahari UFO crash30 Jul 2018 — &quot;According to supposed leaked documents an alien craft was shot down by South A...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...[Section V] Hovered, tracked by South African Air Force searchlights; witnesses said UFO &quot;wit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/](https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/)  
+   Link: <a href="https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cynthia Hind was a friend of mine. We both investigated...UFO sightings in South Africa Below is a list of alleged sightings of unidenti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/](https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/)  
+   Link: <a href="https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Klarer&#x27;s alleged extraterrestrial encounter in...UFO sightings in South Africa Below is a list of alleged sightings of unident...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43166176/NOT_NO_PLACE_Johannesburg_fragments_of_spaces_and_times](https://www.academia.edu/43166176/NOT_NO_PLACE_Johannesburg_fragments_of_spaces_and_times)  
+   Link: <a href="https://www.academia.edu/43166176/NOT_NO_PLACE_Johannesburg_fragments_of_spaces_and_times" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43166176/NOT_NO_PLACE_Johannesburg_fragments_of_spaces_and_times</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: sandton ufo fake pmbs a mysteryjohannesburg south africans can rest assured they  
-   Link: [https://www.facebook.com/WitnessKZN/posts/sandton-ufo-fake-pmbs-a-mysteryjohannesburg-south-africans-can-rest-assured-they/1101965136511084/](https://www.facebook.com/WitnessKZN/posts/sandton-ufo-fake-pmbs-a-mysteryjohannesburg-south-africans-can-rest-assured-they/1101965136511084/)  
+   Link: <a href="https://www.facebook.com/WitnessKZN/posts/sandton-ufo-fake-pmbs-a-mysteryjohannesburg-south-africans-can-rest-assured-they/1101965136511084/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WitnessKZN/posts/sandton-ufo-fake-pmbs-a-mysteryjohannesburg-south-africans-can-rest-assured-they/1101965136511084/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sandton UFO fake, Pmb&#x27;s a mystery JOHANNESBURG –...1995 Lesotho crash According to supposed leaked documents an alien craft crashed in L...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: ministry of health epidemiologist dr avery hinds lamented a big jump in covid19  
-   Link: [https://www.facebook.com/ttnewsday/posts/ministry-of-health-epidemiologist-dr-avery-hinds-lamented-a-big-jump-in-covid19-/1788746521317944/](https://www.facebook.com/ttnewsday/posts/ministry-of-health-epidemiologist-dr-avery-hinds-lamented-a-big-jump-in-covid19-/1788746521317944/)  
+   Link: <a href="https://www.facebook.com/ttnewsday/posts/ministry-of-health-epidemiologist-dr-avery-hinds-lamented-a-big-jump-in-covid19-/1788746521317944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ttnewsday/posts/ministry-of-health-epidemiologist-dr-avery-hinds-lamented-a-big-jump-in-covid19-/1788746521317944/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MINISTRY of Health epidemiologist Dr Avery Hinds...MINISTRY of Health epidemiologist Dr Avery Hinds lamented a big jump in covid19 cases...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/edwinlionel.strydom/posts/the-flying-saucer-roadhouse-one-step-on-from-having-an-aircraft-on-the-roof-to-p/1988177688633163/](https://www.facebook.com/edwinlionel.strydom/posts/the-flying-saucer-roadhouse-one-step-on-from-having-an-aircraft-on-the-roof-to-p/1988177688633163/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe Flying Saucer roadhouse 🎖 One step on from having an aircraft on the roof to pull in the punters was the use of dramatic ‘spa...</p></details>
+   Link: <a href="https://www.facebook.com/edwinlionel.strydom/posts/the-flying-saucer-roadhouse-one-step-on-from-having-an-aircraft-on-the-roof-to-p/1988177688633163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edwinlionel.strydom/posts/the-flying-saucer-roadhouse-one-step-on-from-having-an-aircraft-on-the-roof-to-p/1988177688633163/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer roadhouse 🎖 One step on from having an aircraft on the roof to pull in the punters was the use of dramatic ‘spa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/198974621009525/posts/1849970502576587/](https://www.facebook.com/groups/198974621009525/posts/1849970502576587/)  
+   Link: <a href="https://www.facebook.com/groups/198974621009525/posts/1849970502576587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/198974621009525/posts/1849970502576587/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent matric certificate, and they reported that they did not...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: 10 Strange UFO Sightings in South Africa?!  
-   Link: [https://www.youtube.com/watch?v=UfRSPMb63eg](https://www.youtube.com/watch?v=UfRSPMb63eg)  
+   Link: <a href="https://www.youtube.com/watch?v=UfRSPMb63eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfRSPMb63eg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Retrieval - The Kalahari UAP Incident // 3D CGI Animation / Unreal Engine 5...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: justice.gov.za  
-   Link: [https://www.justice.gov.za/trc/report/finalreport/volume%202.pdf](https://www.justice.gov.za/trc/report/finalreport/volume%202.pdf)  
+   Link: <a href="https://www.justice.gov.za/trc/report/finalreport/volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov.za/trc/report/finalreport/volume%202.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eveloped and gross violations of human rights occurred...</p></details>

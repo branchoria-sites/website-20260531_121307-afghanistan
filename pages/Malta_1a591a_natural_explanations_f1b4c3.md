@@ -239,7 +239,7 @@ next_link:
   permalink: /key-sightings/
   short_title: Key Sightings
   heading_title: Which Malta UFO Sightings Still Stand Out?
-date: '2026-06-09 01:33:16 '
+date: '2026-06-10 01:58:50 '
 header:
   og_image: /assets/images/Malta_1a591a_natural_explanations_f1b4c3-Illustration-1-social.jpg
   preview_image: /assets/images/Malta_1a591a_natural_explanations_f1b4c3-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Malta_1a591a_natural_explanations_f1b4c3-Illustration-1-so
 
 ## Introduction
 
-Most reported UFO sightings in [Malta]({{ 'what-has-malta-really-seen-in-the-sky/' | relative_url }}) do not come with radar data, multiple calibrated recordings, or formal scientific investigation. They are usually photographs, short videos, eyewitness descriptions, or social media posts showing unusual lights, shapes, or movements over the islands. That does not make the witnesses dishonest, but it does mean that many reports can be tested against more ordinary explanations before concluding that something extraordinary occurred.
+Most reported UFO sightings in Malta do not come with radar data, multiple calibrated recordings, or formal scientific investigation. They are usually photographs, short videos, eyewitness descriptions, or social media posts showing unusual lights, shapes, or movements over the islands. That does not make the witnesses dishonest, but it does mean that many reports can be tested against more ordinary explanations before concluding that something extraordinary occurred.
 
 
 <img src="{{ "/assets/images/Malta_1a591a_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Malta_1a591a_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malta_1a591a_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -416,86 +416,44 @@ For Malta, the evidence landscape remains particularly thin. Many sightings are 
 That distinction matters because it preserves room for genuine investigation. A report can remain unresolved while still having a plausible natural explanation. In the Maltese context, where most cases rely on limited documentation, that is often the most defensible position.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Else Could Malta&#x27;s UFOs Have Been?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Else Could Malta&#x27;s UFOs Have Been?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong focus on classification, investigation, and separating explainable cases from unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights the difference between weak sightings and stronger evidence-backed reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Explains astronomical and observational mistakes often involved in UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims and common misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -529,75 +487,71 @@ That distinction matters because it preserves room for genuine investigation. A 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-88b806-what-else-could-malta-s-ufos-have-been-malta-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -811,114 +765,114 @@ That distinction matters because it preserves room for genuine investigation. A 
 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/maltatoday/posts/videos-and-photos-across-social-media-have-shown-an-unidentified-object-in-malte/1368872298615894/](https://www.facebook.com/maltatoday/posts/videos-and-photos-across-social-media-have-shown-an-unidentified-object-in-malte/1368872298615894/)  
+   Link: <a href="https://www.facebook.com/maltatoday/posts/videos-and-photos-across-social-media-have-shown-an-unidentified-object-in-malte/1368872298615894/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maltatoday/posts/videos-and-photos-across-social-media-have-shown-an-unidentified-object-in-malte/1368872298615894/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos and photos across social media have shown an...UFO Sighting Update in Malta! ❕We&#x27;ve been getting lots of messages about those int...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 2012 United Kingdom meteoroid  
-   Link: [https://en.wikipedia.org/wiki/2012_United_Kingdom_meteoroid](https://en.wikipedia.org/wiki/2012_United_Kingdom_meteoroid)  
+   Link: <a href="https://en.wikipedia.org/wiki/2012_United_Kingdom_meteoroid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2012_United_Kingdom_meteoroid</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/timesofmalta/posts/we-need-to-face-the-possibility-that-some-of-the-strange-flying-objects-that-out/10155876677203175/](https://www.facebook.com/timesofmalta/posts/we-need-to-face-the-possibility-that-some-of-the-strange-flying-objects-that-out/10155876677203175/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookWe need to face the possibility that some of the strange...According to Kean, “roughly 90 to 95 percent of UFO sightings can be...</p></details>
+   Link: <a href="https://www.facebook.com/timesofmalta/posts/we-need-to-face-the-possibility-that-some-of-the-strange-flying-objects-that-out/10155876677203175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofmalta/posts/we-need-to-face-the-possibility-that-some-of-the-strange-flying-objects-that-out/10155876677203175/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We need to face the possibility that some of the strange...According to Kean, “roughly 90 to 95 percent of UFO sightings can be...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/maltaaviationoutlook/posts/mavio-conference-and-awards-the-longest-running-and-most-respected-aviation-awar/3705226716162795/](https://www.facebook.com/maltaaviationoutlook/posts/mavio-conference-and-awards-the-longest-running-and-most-respected-aviation-awar/3705226716162795/)  
+   Link: <a href="https://www.facebook.com/maltaaviationoutlook/posts/mavio-conference-and-awards-the-longest-running-and-most-respected-aviation-awar/3705226716162795/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maltaaviationoutlook/posts/mavio-conference-and-awards-the-longest-running-and-most-respected-aviation-awar/3705226716162795/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MAviO Conference and Awards: The longest running...Unusal sight at Malta International Airport. With no parking stands available aircra...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/luca.barbetta.50/photos/d41d8cd9/2858183264388939/](https://www.facebook.com/luca.barbetta.50/photos/d41d8cd9/2858183264388939/)  
+   Link: <a href="https://www.facebook.com/luca.barbetta.50/photos/d41d8cd9/2858183264388939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/luca.barbetta.50/photos/d41d8cd9/2858183264388939/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo was shot by credible sources, a Malta Police Officer. Photo was shot from the coast in Marsaxlokk in Malta, and the original scope...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: ANOMAL Y IN THE SKY!!!  
-   Link: [https://www.facebook.com/groups/this.is.malta/posts/816371640618921/](https://www.facebook.com/groups/this.is.malta/posts/816371640618921/)  
+   Link: <a href="https://www.facebook.com/groups/this.is.malta/posts/816371640618921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/this.is.malta/posts/816371640618921/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A video just came in from Qawra...A video just came in from Qawra, Malta showing what witnesses suspect to be a UFO/UAP. Witnesses said...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/](https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arly morning sky and even experts are calling it “a true mystery.”...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July](https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July)  
+   Link: <a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/July</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Portal:Aviation/Anniversaries/JulyJuly 1 · 2012 – A MAFFS-equipped Air Force Lockheed C-130H Hercules, assigned to the 145th Airlift W...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: timesofmalta.com  
    Title: It s not a bird it s not a plane it may be a UFO.428455  
-   Link: [https://timesofmalta.com/article/It-s-not-a-bird-it-s-not-a-plane-it-may-be-a-UFO.428455](https://timesofmalta.com/article/It-s-not-a-bird-it-s-not-a-plane-it-may-be-a-UFO.428455)  
+   Link: <a href="https://timesofmalta.com/article/It-s-not-a-bird-it-s-not-a-plane-it-may-be-a-UFO.428455" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/It-s-not-a-bird-it-s-not-a-plane-it-may-be-a-UFO.428455</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of MaltaIt&#x27;s not a bird,it&#x27;s not a plane,it may be a UFOJuly 13, 2012 — 13 Jul 2012 — Zfort Ertfay quickly interrupted a brisk walk...</p></details>
    Published: July 13, 2012  
 
 12. <a id="endnote-12"></a>
    Source: timesofmalta.com  
    Title: watch mysterious cloud sky spacex satellites expert.1094369  
-   Link: [https://timesofmalta.com/article/watch-mysterious-cloud-sky-spacex-satellites-expert.1094369](https://timesofmalta.com/article/watch-mysterious-cloud-sky-spacex-satellites-expert.1094369)  
+   Link: <a href="https://timesofmalta.com/article/watch-mysterious-cloud-sky-spacex-satellites-expert.1094369" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/watch-mysterious-cloud-sky-spacex-satellites-expert.1094369</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of MaltaWhat was that mysterious shape in the night sky?24 Jun 2024 — The “air balloon” and “white line” spotted in the sky on Sund...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: timesofmalta.com  
    Title: UFO in Marsaxlokk.462864  
-   Link: [https://timesofmalta.com/article/-UFO-in-Marsaxlokk.462864](https://timesofmalta.com/article/-UFO-in-Marsaxlokk.462864)  
+   Link: <a href="https://timesofmalta.com/article/-UFO-in-Marsaxlokk.462864" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/-UFO-in-Marsaxlokk.462864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of Malta&#x27;UFO&#x27; in Marsaxlokk25 Mar 2013 — An unidentified flying object was caught on camera in Marsaxlokk and the image was posted...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: timesofmalta3.rssing.com  
    Title: UF O over Marsaxlokk?  
-   Link: [https://timesofmalta3.rssing.com/chan-4325555/article1921.html](https://timesofmalta3.rssing.com/chan-4325555/article1921.html)  
+   Link: <a href="https://timesofmalta3.rssing.com/chan-4325555/article1921.html" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta3.rssing.com/chan-4325555/article1921.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Marsaxlokk? - Times Of MaltaAn unidentified flying object was caught on camera in Marsaxlokk and the image was posted on a websi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: timesofmalta.com  
    Title: 1845 glowing objects volcano gas or ufo.591193  
-   Link: [https://timesofmalta.com/article/1845-glowing-objects-volcano-gas-or-ufo.591193](https://timesofmalta.com/article/1845-glowing-objects-volcano-gas-or-ufo.591193)  
+   Link: <a href="https://timesofmalta.com/article/1845-glowing-objects-volcano-gas-or-ufo.591193" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/1845-glowing-objects-volcano-gas-or-ufo.591193</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of Malta1845 glowing objects: volcano gas or UFO?6 Nov 2015 — On June 18, 1845, a fireball appeared near Mount Lebanon at the same...</p></details>
    Published: June 18, 1845  
 
 16. <a id="endnote-16"></a>
    Source: independent.com.mt  
    Title: What are they 6736257573  
-   Link: [https://www.independent.com.mt/articles/2024-01-07/blogs-opinions/What-are-they-6736257573](https://www.independent.com.mt/articles/2024-01-07/blogs-opinions/What-are-they-6736257573)  
+   Link: <a href="https://www.independent.com.mt/articles/2024-01-07/blogs-opinions/What-are-they-6736257573" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.com.mt/articles/2024-01-07/blogs-opinions/What-are-they-6736257573</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are they?7 Jan 2024 — On June 18, 1845, at 9:30pm, three mysterious glowing objects rose from the sea off Malta, a phenomenon some w...</p></details>
    Published: June 18, 1845  
 
 17. <a id="endnote-17"></a>
    Source: ufosightingsdaily.com  
-   Link: [https://www.ufosightingsdaily.com/search/label/power?m=0](https://www.ufosightingsdaily.com/search/label/power?m=0)  
+   Link: <a href="https://www.ufosightingsdaily.com/search/label/power?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/search/label/power?m=0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Daily: powerHere is a UFO report that came in today, but occurred back in 2006. Look closely, you can even see into the cle...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — “Ratcliffe: UFO sighting numbers &#x27;far greater&#x27; than publicly disclosed,” Fox...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: timesofmalta.com  
    Title: british defence ministry releases secret close encounter documents.353069  
-   Link: [https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069](https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069)  
+   Link: <a href="https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Defence Ministry releases secret close-encounter...3 Mar 2011 — The files contain over 8,500 pages of UFO sightings and reports...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: timesofmalta.com  
    Title: sitemap articles 2016 3.xml  
-   Link: [https://timesofmalta.com/sitemap_articles-2016-3.xml](https://timesofmalta.com/sitemap_articles-2016-3.xml)  
+   Link: <a href="https://timesofmalta.com/sitemap_articles-2016-3.xml" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/sitemap_articles-2016-3.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sitemap_articles-2016-3.xml... Malta-as-a-logistics-hub.624719&lt;/loc&gt; &lt;lastmod&gt;2022-10-25&lt;/lastmod&gt; &lt;/url&gt;... police.624652&lt;/loc&gt; &lt;lastmo...</p></details>
    Published: October 25, 2022  
 
@@ -926,50 +880,50 @@ That distinction matters because it preserves room for genuine investigation. A 
 
 21. <a id="endnote-21"></a>
    Source: ufosightingsdaily.com  
-   Link: [https://www.ufosightingsdaily.com/search/label/Malta?m=0](https://www.ufosightingsdaily.com/search/label/Malta?m=0)  
+   Link: <a href="https://www.ufosightingsdaily.com/search/label/Malta?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/search/label/Malta?m=0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Daily: MaltaAn unidentified flying object was caught on camera in Marsaxlokk and the image was posted on a website document...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: family.gov.mt  
-   Link: [https://family.gov.mt/wp-content/uploads/2023/04/Annual-Report-2009.pdf](https://family.gov.mt/wp-content/uploads/2023/04/Annual-Report-2009.pdf)  
+   Link: <a href="https://family.gov.mt/wp-content/uploads/2023/04/Annual-Report-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://family.gov.mt/wp-content/uploads/2023/04/Annual-Report-2009.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORTS OF GOVERNMENT DEPARTMENTSThe second year of the 11th Legislature proved to be a very busy year for the Maltese Parliament. Its. 6...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sweetstudy.com  
-   Link: [https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183](https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183)  
+   Link: <a href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo sighting data explorationU.F.O. shoots at large meteor over Toronto&amp;#44 Canada three times and disintegrates it.... Four Green Meteo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 25. <a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...As a final assessment, it should be noted that very few of the sightings were simil...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/54284313/The-World-We-Live-in-1901](https://www.scribd.com/document/54284313/The-World-We-Live-in-1901)  
+   Link: <a href="https://www.scribd.com/document/54284313/The-World-We-Live-in-1901" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/54284313/The-World-We-Live-in-1901</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Events Shaping Our World: 1901-2012 | PDFThe UFO was sighted by the crew of an Air France A320 airliner, and reported to air traffic control...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: Have you ever encountered a UFO sighting?  
-   Link: [https://www.reddit.com/r/malta/comments/16vii1u/have_you_ever_encountered_a_ufo_sighting/](https://www.reddit.com/r/malta/comments/16vii1u/have_you_ever_encountered_a_ufo_sighting/)  
+   Link: <a href="https://www.reddit.com/r/malta/comments/16vii1u/have_you_ever_encountered_a_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/malta/comments/16vii1u/have_you_ever_encountered_a_ufo_sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>👽🇲🇹: r/maltaI also recall reading a report saying that in the 1960s UFOs were reported flying over Valletta, though I&#x27;m inclined to thin...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en](https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I have seen some incredible phenomena. Most of which happens...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=x9uSaD0_ch8](https://www.youtube.com/watch?v=x9uSaD0_ch8)  
+   Link: <a href="https://www.youtube.com/watch?v=x9uSaD0_ch8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x9uSaD0_ch8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: GIANTS Constructed HUGE Maltese Structures?! (Season 19) | History...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=T-P4GCxDSlM](https://www.youtube.com/watch?v=T-P4GCxDSlM)  
+   Link: <a href="https://www.youtube.com/watch?v=T-P4GCxDSlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T-P4GCxDSlM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre UFO Sightings Spotted By Pilots | Strange But True | Our Life...</p></details>

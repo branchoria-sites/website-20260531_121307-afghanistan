@@ -1185,7 +1185,7 @@ next_link:
   title: Guinea UFOs
   permalink: /what-do-ufo-reports-in-guinea-really/
   short_title: Guinea UFOs
-date: '2026-06-09 01:42:27 '
+date: '2026-06-10 02:09:54 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6-overview-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6-overview.webp
@@ -1194,7 +1194,7 @@ image: /assets/images/Timor-Leste_2d79f6-overview-social.jpg
 
 ## Introduction
 
-The country’s geography matters. Timor-Leste is mountainous, coastal, and seasonally variable, with narrow northern coastal strips, higher inland terrain, a dry season from May to November, and a wet season from December to April. Those conditions can produce very different viewing circumstances between Dili, Ainaro, Oe-Cusse, Suai, Baucau, Atauro, and the southern coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-title">Tourism Timor-Leste Timor Leste Geography &amp; Climate | Tourism Timor Leste</span><span class="citation-popover-snippet">Tourism Timor-Leste Timor Leste Geography &amp; Climate | Tourism Timor Leste</span></span></span>
+The country’s geography matters. Timor-Leste is mountainous, coastal, and seasonally variable, with narrow northern coastal strips, higher inland terrain, a dry season from May to November, and a wet season from December to April. Those conditions can produce very different viewing circumstances between Dili, Ainaro, Oe-Cusse, Suai, Baucau, Atauro, and the southern coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-title">Tourism Timor-Leste Timor Leste Geography &amp; Climate &#124; Tourism Timor Leste</span><span class="citation-popover-snippet">Tourism Timor-Leste Timor Leste Geography &amp; Climate &#124; Tourism Timor Leste</span></span></span>
 
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6-overview.webp" | relative_url }}" alt="Overview image for What Do Timor Leste UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
@@ -1269,86 +1269,44 @@ For Timor-Leste, the most useful investigation checklist is local and concrete: 
 1. **Pin down the place.** Dili harbour, Cristo Rei, Hera, Comoro, Ainaro town, Suai airport, Oe-Cusse, Atauro, Baucau, and the southern coast have very different sightlines and likely explanations.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Timor Leste UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Timor Leste UFO Reports Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding how sparse reports are analyzed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Addresses cultural interpretation of unusual sightings across different societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a solid grounding in credible UFO case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Helpful for understanding anecdotal reports and perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1382,75 +1340,71 @@ For Timor-Leste, the most useful investigation checklist is local and concrete: 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-alien-art-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-alien-art-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-t-shirt-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-t-shirt-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-timor-leste-ufo-reports-really-what-do-timor-leste-ufo-reports-really-show-timor-leste-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1674,7 +1628,7 @@ A future strong case would look very different from the current public material.
 
 The highest-yield places to watch, from an evidence perspective, are not necessarily the most dramatic. Dili is valuable because more people have phones and aircraft/harbour explanations can be checked. Suai and Oe-Cusse are valuable because aviation activity is changing and therefore can be correlated. Inland municipalities such as Ainaro are valuable because darker skies can produce clearer observations, but also more distance and lighting misjudgements.
 
-For now, Timor-Leste’s UFO record is best described as sparse, locally intriguing, and unproven. The Ainaro report deserves preservation as a notable national entry; [Dili video claims]({{ 'dili-videos/' | relative_url }}) deserve caution until original evidence is available; and official aviation context should be treated as essential background for any future sighting analysis.
+For now, Timor-Leste’s UFO record is best described as sparse, locally intriguing, and unproven. The Ainaro report deserves preservation as a notable national entry; Dili video claims deserve caution until original evidence is available; and official aviation context should be treated as essential background for any future sighting analysis.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syO16KikNFY" title="Footage shows &#x27;fireball&#x27; meteor lighting up skies in eastern Australia | ABC NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syO16KikNFY" target="_blank" rel="noopener noreferrer">Footage shows &#x27;fireball&#x27; meteor lighting up skies in eastern Australia | ABC NEWS</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia) &middot; Views: 11.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syO16KikNFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syO16KikNFY">Open on YouTube</a></p></div></div></div>
@@ -1683,182 +1637,182 @@ For now, Timor-Leste’s UFO record is best described as sparse, locally intrigu
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=30416](https://nuforc.org/sighting/?id=30416)  
+   Link: <a href="https://nuforc.org/sighting/?id=30416" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30416</a>  
 
 2. <a id="endnote-2"></a>
    Source: timeanddate.com  
    Title: Time and Date Night Sky Tonight: Visible Planets in Dili  
-   Link: [https://www.timeanddate.com/astronomy/night/timor-leste/dili](https://www.timeanddate.com/astronomy/night/timor-leste/dili)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/timor-leste/dili</a>  
 
 3. <a id="endnote-3"></a>
    Source: icao.int  
    Title: WP19 Update on efforts by Timor Leste to improve ANS standards and compliance  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APANPIRG36/03-Working%20Papers/WP19%20Update%20on%20efforts%20by%20Timor-Leste%20to%20improve%20ANS%20standards%20and%20compliance.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APANPIRG36/03-Working%20Papers/WP19%20Update%20on%20efforts%20by%20Timor-Leste%20to%20improve%20ANS%20standards%20and%20compliance.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APANPIRG36/03-Working%20Papers/WP19%20Update%20on%20efforts%20by%20Timor-Leste%20to%20improve%20ANS%20standards%20and%20compliance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APANPIRG36/03-Working%20Papers/WP19%20Update%20on%20efforts%20by%20Timor-Leste%20to%20improve%20ANS%20standards%20and%20compliance.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: timor-leste.gov.tl  
-   Link: [https://timor-leste.gov.tl/?lang=en&p=20598&print=1](https://timor-leste.gov.tl/?lang=en&p=20598&print=1)  
+   Link: <a href="https://timor-leste.gov.tl/?lang=en&amp;p=20598&amp;print=1" target="_blank" rel="noopener noreferrer nofollow">https://timor-leste.gov.tl/?lang=en&amp;p=20598&amp;print=1</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 7. <a id="endnote-7"></a>
    Source: icao.int  
    Title: 02 APPENDICES TO THE REPORT reviewed by the meeting  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/01-Report/02%20APPENDICES-TO-THE-REPORT-reviewed-by-the-meeting.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/01-Report/02%20APPENDICES-TO-THE-REPORT-reviewed-by-the-meeting.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/01-Report/02%20APPENDICES-TO-THE-REPORT-reviewed-by-the-meeting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/01-Report/02%20APPENDICES-TO-THE-REPORT-reviewed-by-the-meeting.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: icao.int  
    Title: Flimsy 01 Doc7383 Aeronautical Information Services Provided by States  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AAITF18/Flimsies/Flimsy-01-Doc7383-Aeronautical-Information-Services-Provided-by-States.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AAITF18/Flimsies/Flimsy-01-Doc7383-Aeronautical-Information-Services-Provided-by-States.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AAITF18/Flimsies/Flimsy-01-Doc7383-Aeronautical-Information-Services-Provided-by-States.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AAITF18/Flimsies/Flimsy-01-Doc7383-Aeronautical-Information-Services-Provided-by-States.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-A.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-A.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-A.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: icao.int  
    Title: APAC new eANP Vol II April 2026  
-   Link: [https://www.icao.int/sites/default/files/APAC/APAC-ANP/APAC-new-eANP-Vol-II_April-2026.pdf](https://www.icao.int/sites/default/files/APAC/APAC-ANP/APAC-new-eANP-Vol-II_April-2026.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/APAC-ANP/APAC-new-eANP-Vol-II_April-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/APAC-ANP/APAC-new-eANP-Vol-II_April-2026.pdf</a>  
    Published: April 2026  
 
 11. <a id="endnote-11"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP10-AI6-APANPIRG-Air-Navigation-Deficiencies-in-AOP-Field-A.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP10-AI6-APANPIRG-Air-Navigation-Deficiencies-in-AOP-Field-A.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP10-AI6-APANPIRG-Air-Navigation-Deficiencies-in-AOP-Field-A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-AA-WG-8/03-Working%20Papers/WP10-AI6-APANPIRG-Air-Navigation-Deficiencies-in-AOP-Field-A.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: icao.int  
    Title: Appendices A H to the Report  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APAAWG7/1-Report/Appendices-A-H-to-the-Report.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APAAWG7/1-Report/Appendices-A-H-to-the-Report.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APAAWG7/1-Report/Appendices-A-H-to-the-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20APAAWG7/1-Report/Appendices-A-H-to-the-Report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: icao.int  
    Title: AMRD Part IV COM Charts v18 0 v1  
-   Link: [https://www.icao.int/sites/default/files/EURNAT/Documents/EUR%20and%20Nat%20Docs/EUR%20Documents/EUR%20Documents/ATS%20Messaging%20Routing%20Directory/AMRD-Part-IV-COM-Charts-v18_0-v1.pdf](https://www.icao.int/sites/default/files/EURNAT/Documents/EUR%20and%20Nat%20Docs/EUR%20Documents/EUR%20Documents/ATS%20Messaging%20Routing%20Directory/AMRD-Part-IV-COM-Charts-v18_0-v1.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/EURNAT/Documents/EUR%20and%20Nat%20Docs/EUR%20Documents/EUR%20Documents/ATS%20Messaging%20Routing%20Directory/AMRD-Part-IV-COM-Charts-v18_0-v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/EURNAT/Documents/EUR%20and%20Nat%20Docs/EUR%20Documents/EUR%20Documents/ATS%20Messaging%20Routing%20Directory/AMRD-Part-IV-COM-Charts-v18_0-v1.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-ADO-TF-7/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-ADO-TF-07-A.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-ADO-TF-7/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-ADO-TF-07-A.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-ADO-TF-7/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-ADO-TF-07-A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2026/2026%20AP-ADO-TF-7/03-Working%20Papers/WP03-AI2-Relevant-Outcomes-of-APANPIRG36-ADO-TF-07-A.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: icao.int  
    Title: Appendices to the Report  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20AOP%20SG9/1-Report/Appendices%20to%20the%20Report.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20AOP%20SG9/1-Report/Appendices%20to%20the%20Report.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20AOP%20SG9/1-Report/Appendices%20to%20the%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20AOP%20SG9/1-Report/Appendices%20to%20the%20Report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/environmental-protection/Documents/SAP/Timor-Leste-State-Action-Plan2025.pdf](https://www.icao.int/sites/default/files/environmental-protection/Documents/SAP/Timor-Leste-State-Action-Plan2025.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/environmental-protection/Documents/SAP/Timor-Leste-State-Action-Plan2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/environmental-protection/Documents/SAP/Timor-Leste-State-Action-Plan2025.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&mode=nightsky&month=4&n=768&year=2015](https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&mode=nightsky&month=4&n=768&year=2015)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=4&amp;n=768&amp;year=2015" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=4&amp;n=768&amp;year=2015</a>  
 
 19. <a id="endnote-19"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 23. <a id="endnote-23"></a>
    Source: awm.gov.au  
    Title: Dili (Timor-Leste)  
-   Link: [https://www.awm.gov.au/advanced-search?all=true&collection=true&facet_related_subjects=Dili+%28Timor-Leste%29+-+Aerial+views.&library=true&military-events=true&people=true&places=true&query=&units=true](https://www.awm.gov.au/advanced-search?all=true&collection=true&facet_related_subjects=Dili+%28Timor-Leste%29+-+Aerial+views.&library=true&military-events=true&people=true&places=true&query=&units=true)  
+   Link: <a href="https://www.awm.gov.au/advanced-search?all=true&amp;collection=true&amp;facet_related_subjects=Dili+%28Timor-Leste%29+-+Aerial+views.&amp;library=true&amp;military-events=true&amp;people=true&amp;places=true&amp;query=&amp;units=true" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/advanced-search?all=true&amp;collection=true&amp;facet_related_subjects=Dili+%28Timor-Leste%29+-+Aerial+views.&amp;library=true&amp;military-events=true&amp;people=true&amp;places=true&amp;query=&amp;units=true</a>  
 
 24. <a id="endnote-24"></a>
    Source: timorleste.tl  
    Title: Tourism Timor-Leste Timor Leste Geography & Climate | Tourism Timor Leste  
-   Link: [https://www.timorleste.tl/east-timor/about/geography-climate/](https://www.timorleste.tl/east-timor/about/geography-climate/)  
+   Link: <a href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow">https://www.timorleste.tl/east-timor/about/geography-climate/</a>  
 
 25. <a id="endnote-25"></a>
    Source: usufocenter.com  
    Title: UFO Research Center Global UFOs: Timor Leste UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/timor-leste-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/timor-leste-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/timor-leste-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/timor-leste-ufo-sightings.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 27. <a id="endnote-27"></a>
    Source: data.worldbank.org  
    Title: timor leste  
-   Link: [https://data.worldbank.org/country/timor-leste](https://data.worldbank.org/country/timor-leste)  
+   Link: <a href="https://data.worldbank.org/country/timor-leste" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/timor-leste</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ph5wdZzCD48](https://www.youtube.com/watch?v=Ph5wdZzCD48)  
+   Link: <a href="https://www.youtube.com/watch?v=Ph5wdZzCD48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ph5wdZzCD48</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Timor Leste  
-   Link: [https://en.wikipedia.org/wiki/Timor-Leste](https://en.wikipedia.org/wiki/Timor-Leste)  
+   Link: <a href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timor-Leste</a>  
 
 30. <a id="endnote-30"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Timor](https://www.britannica.com/place/Timor)  
+   Link: <a href="https://www.britannica.com/place/Timor" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Timor</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: pacificclimatechangescience.org  
-   Link: [https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/5_PACCSAP-Timor-Leste-9pp_WEB.pdf](https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/5_PACCSAP-Timor-Leste-9pp_WEB.pdf)  
+   Link: <a href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/5_PACCSAP-Timor-Leste-9pp_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/5_PACCSAP-Timor-Leste-9pp_WEB.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349524408_Improvement_of_Coding_for_Solar_Radiation_Forecasting_in_Dili_Timor_Leste-A_WRF_Case_Study](https://www.researchgate.net/publication/349524408_Improvement_of_Coding_for_Solar_Radiation_Forecasting_in_Dili_Timor_Leste-A_WRF_Case_Study)  
+   Link: <a href="https://www.researchgate.net/publication/349524408_Improvement_of_Coding_for_Solar_Radiation_Forecasting_in_Dili_Timor_Leste-A_WRF_Case_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349524408_Improvement_of_Coding_for_Solar_Radiation_Forecasting_in_Dili_Timor_Leste-A_WRF_Case_Study</a>  
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWvIZ_8yFyc/?hl=en](https://www.instagram.com/reel/DWvIZ_8yFyc/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DWvIZ_8yFyc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWvIZ_8yFyc/?hl=en</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/freehourmalta/videos/a-drone-malfunction-caused-almost-90-drones-to-fall-from-the-sky-during-vivid-sy/1017657057605530/](https://www.facebook.com/freehourmalta/videos/a-drone-malfunction-caused-almost-90-drones-to-fall-from-the-sky-during-vivid-sy/1017657057605530/)  
+   Link: <a href="https://www.facebook.com/freehourmalta/videos/a-drone-malfunction-caused-almost-90-drones-to-fall-from-the-sky-during-vivid-sy/1017657057605530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freehourmalta/videos/a-drone-malfunction-caused-almost-90-drones-to-fall-from-the-sky-during-vivid-sy/1017657057605530/</a>  
 
 35. <a id="endnote-35"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYFSm2OCiU9/](https://www.instagram.com/reel/DYFSm2OCiU9/)  
+   Link: <a href="https://www.instagram.com/reel/DYFSm2OCiU9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYFSm2OCiU9/</a>  
 
 36. <a id="endnote-36"></a>
    Source: asiafoundation.org  
-   Link: [https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf](https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf)  
+   Link: <a href="https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: videohive.net  
-   Link: [https://videohive.net/item/aerial-drone-of-capital-city-dili-in-timor-leste-south-east-asia-high-up-and-lowering-towards-buil/37335904](https://videohive.net/item/aerial-drone-of-capital-city-dili-in-timor-leste-south-east-asia-high-up-and-lowering-towards-buil/37335904)  
+   Link: <a href="https://videohive.net/item/aerial-drone-of-capital-city-dili-in-timor-leste-south-east-asia-high-up-and-lowering-towards-buil/37335904" target="_blank" rel="noopener noreferrer nofollow">https://videohive.net/item/aerial-drone-of-capital-city-dili-in-timor-leste-south-east-asia-high-up-and-lowering-towards-buil/37335904</a>  
 
 38. <a id="endnote-38"></a>
    Source: portugalresident.com  
-   Link: [https://www.portugalresident.com/air-force-alert-for-ufo/](https://www.portugalresident.com/air-force-alert-for-ufo/)  
+   Link: <a href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/air-force-alert-for-ufo/</a>  
 
 39. <a id="endnote-39"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNlI0FgI2hD/?hl=en](https://www.instagram.com/reel/DNlI0FgI2hD/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNlI0FgI2hD/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNlI0FgI2hD/?hl=en</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3718863601513797/posts/8168173623249417/](https://www.facebook.com/groups/3718863601513797/posts/8168173623249417/)  
+   Link: <a href="https://www.facebook.com/groups/3718863601513797/posts/8168173623249417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3718863601513797/posts/8168173623249417/</a>  

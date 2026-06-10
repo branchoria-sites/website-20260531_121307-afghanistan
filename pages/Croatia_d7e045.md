@@ -1156,10 +1156,10 @@ sibling_links:
   short_title: San Marino UFOs
 child_links:
 - basename: Croatia_d7e045_yugoslav_aviation_ca_d2c52a
-  title: 1970s Aviation Cases | What Croatia’s UFO Records Reveal About...
-  permalink: /1970s-aviation-cases/
-  short_title: 1970s Aviation Cases
-  heading_title: How 1970s Aviation Reports Shaped Croatia’s UFO History
+  title: 1970 s Aviation Cases | What Croatia’s UFO Records Reveal About...
+  permalink: /1970-s-aviation-cases/
+  short_title: 1970 s Aviation Cases
+  heading_title: How 1970 s Aviation Reports Shaped Croatia’s UFO History
 - basename: Croatia_d7e045_zagreb_drone_crash_61da8d
   title: 2022 Zagreb Drone | What Croatia’s UFO Records Reveal About...
   permalink: /2022-zagreb-drone/
@@ -1185,7 +1185,7 @@ next_link:
   title: Bahrain UFOs
   permalink: /what-did-bahrains-ufo-sightings-really/
   short_title: Bahrain UFOs
-date: '2026-06-09 01:24:48 '
+date: '2026-06-10 01:49:22 '
 header:
   og_image: /assets/images/Croatia_d7e045-overview-social.jpg
   preview_image: /assets/images/Croatia_d7e045-overview.webp
@@ -1341,86 +1341,44 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Croatiaâ€™s UFO Records Reveal About Unidentified Objects. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Croatia’s UFO Records Reveal About Unidentified Objects, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Relevant to comparing strong and weak case evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for evaluating unidentified-object reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Matches the page&#x27;s focus on aviation-linked and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding cultural layers in UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1454,75 +1412,71 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatias-ufo-records-reveal-about-what-croatia-s-ufo-records-reveal-about-unidentified-obje-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1736,432 +1690,432 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/](https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/)  
+   Link: <a href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/</a>  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: soviet era drone that crashed croatia carried aerial bomb experts say 2022 04 13  
-   Link: [https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/](https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/)  
+   Link: <a href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/</a>  
 
 3. <a id="endnote-3"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 4. <a id="endnote-4"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 5. <a id="endnote-5"></a>
    Source: duap-polaris.hr  
    Title: 124 172 aviacijski puk  
-   Link: [https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html](https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: duap-polaris.hr  
    Title: 129 panadria  
-   Link: [https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html](https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: duap-polaris.hr  
    Title: 106 guliano  
-   Link: [https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html](https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/2008dec.htm](https://www.ufologie.patrickgross.org/htm/2008dec.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/2008dec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/2008dec.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: tportal.hr  
-   Link: [https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427](https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427)  
+   Link: <a href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow">https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427</a>  
 
 10. <a id="endnote-10"></a>
    Source: index.hr  
    Title: Istina o NLO-u nad Zagrebom: Kad vidite cijelu fotografiju  
-   Link: [https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx](https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx)  
+   Link: <a href="https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx</a>  
 
 11. <a id="endnote-11"></a>
    Source: sunce-st.org  
    Title: Seagrass circles in the Adriatic  
-   Link: [https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/](https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/)  
+   Link: <a href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow">https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/</a>  
 
 12. <a id="endnote-12"></a>
    Source: independent.academia.edu  
    Title: Donat Petricioli  
-   Link: [https://independent.academia.edu/DonatPetricioli](https://independent.academia.edu/DonatPetricioli)  
+   Link: <a href="https://independent.academia.edu/DonatPetricioli" target="_blank" rel="noopener noreferrer nofollow">https://independent.academia.edu/DonatPetricioli</a>  
 
 13. <a id="endnote-13"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/hr](https://enigmalabs.io/explore/hr)  
+   Link: <a href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/hr</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: NL O Pan Adria incident  
-   Link: [https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident](https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident)  
+   Link: <a href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident</a>  
 
 16. <a id="endnote-16"></a>
    Source: program4102.rssing.com  
    Title: Na rubu znanosti: NLO i 172. avijacijski puk  
-   Link: [https://program4102.rssing.com/chan-63354506/article24391.html](https://program4102.rssing.com/chan-63354506/article24391.html)  
+   Link: <a href="https://program4102.rssing.com/chan-63354506/article24391.html" target="_blank" rel="noopener noreferrer nofollow">https://program4102.rssing.com/chan-63354506/article24391.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: tportal.hr  
-   Link: [https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310](https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310)  
+   Link: <a href="https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310" target="_blank" rel="noopener noreferrer nofollow">https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310</a>  
 
 18. <a id="endnote-18"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 19. <a id="endnote-19"></a>
    Source: reuters.com  
    Title: Croatia's scientists seek to ward off threat to Posidonia seagrass  
-   Link: [https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/](https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=187438](https://nuforc.org/sighting/?id=187438)  
+   Link: <a href="https://nuforc.org/sighting/?id=187438" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187438</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191332](https://nuforc.org/sighting/?id=191332)  
+   Link: <a href="https://nuforc.org/sighting/?id=191332" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191332</a>  
 
 22. <a id="endnote-22"></a>
    Source: pristupinfo.hr  
    Title: o povjereniku za informiranje  
-   Link: [https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en](https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en)  
+   Link: <a href="https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en</a>  
 
 23. <a id="endnote-23"></a>
    Source: morh.hr  
    Title: izvjesce o provedbi zakona o pravu na pristup informacijama za 2025 godinu  
-   Link: [https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/](https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/)  
+   Link: <a href="https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/</a>  
 
 24. <a id="endnote-24"></a>
    Source: morh.hr  
-   Link: [https://www.morh.hr/](https://www.morh.hr/)  
+   Link: <a href="https://www.morh.hr/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/</a>  
 
 25. <a id="endnote-25"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: [https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/](https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/)  
+   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
 27. <a id="endnote-27"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident](https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: 2022 Zagreb Tu 141 drone crash  
-   Link: [https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash](https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash)  
+   Link: <a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Pad bespilotne letjelice u Zagrebu 2022  
-   Link: [https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022](https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022)  
+   Link: <a href="https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Pan Adria NLO incident  
-   Link: [https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident](https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident)  
+   Link: <a href="https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Neidentifikovani leteći objekat  
-   Link: [https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat](https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat)  
+   Link: <a href="https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: [https://sh.wikipedia.org/wiki/Kategorija%3AUfologija](https://sh.wikipedia.org/wiki/Kategorija%3AUfologija)  
+   Link: <a href="https://sh.wikipedia.org/wiki/Kategorija%3AUfologija" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Kategorija%3AUfologija</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: [https://sh.wikipedia.org/wiki/Kategorija%3A1977](https://sh.wikipedia.org/wiki/Kategorija%3A1977)  
+   Link: <a href="https://sh.wikipedia.org/wiki/Kategorija%3A1977" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Kategorija%3A1977</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Dodatak:Popis epizoda emisije Na rubu znanosti  
-   Link: [https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti](https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti)  
+   Link: <a href="https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Access to public information in Croatia  
-   Link: [https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia](https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia</a>  
 
 39. <a id="endnote-39"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=39714](https://nuforc.org/sighting/?id=39714)  
+   Link: <a href="https://nuforc.org/sighting/?id=39714" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39714</a>  
 
 40. <a id="endnote-40"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/news2008.htm](https://www.ufologie.patrickgross.org/htm/news2008.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/news2008.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/news2008.htm</a>  
 
 41. <a id="endnote-41"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/2008decf.htm](https://www.ufologie.patrickgross.org/htm/2008decf.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/2008decf.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/2008decf.htm</a>  
 
 42. <a id="endnote-42"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr](https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr)  
+   Link: <a href="https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr</a>  
 
 43. <a id="endnote-43"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z](https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z)  
+   Link: <a href="https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z</a>  
 
 44. <a id="endnote-44"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776](https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776)  
+   Link: <a href="https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776</a>  
 
 45. <a id="endnote-45"></a>
    Source: morh.hr  
    Title: manji incident tijekom uvjezbavanja na jarunu  
-   Link: [https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/](https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/)  
+   Link: <a href="https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/</a>  
 
 46. <a id="endnote-46"></a>
    Source: js.ugd.edu.mk  
-   Link: [https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0](https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0)  
+   Link: <a href="https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0" target="_blank" rel="noopener noreferrer nofollow">https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0</a>  
 
 47. <a id="endnote-47"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 48. <a id="endnote-48"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/](https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/</a>  
 
 50. <a id="endnote-50"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/](https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/)  
+   Link: <a href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/</a>  
 
 51. <a id="endnote-51"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/](https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/)  
+   Link: <a href="https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/</a>  
 
 52. <a id="endnote-52"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr](https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr</a>  
 
 53. <a id="endnote-53"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/](https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
 
 54. <a id="endnote-54"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/](https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/</a>  
 
 55. <a id="endnote-55"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/](https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/</a>  
 
 56. <a id="endnote-56"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/](https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
 
 57. <a id="endnote-57"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/](https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/)  
+   Link: <a href="https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/</a>  
 
 58. <a id="endnote-58"></a>
    Source: pristupinfo.hr  
-   Link: [https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf](https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf)  
+   Link: <a href="https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 60. <a id="endnote-60"></a>
    Source: index.hr  
-   Link: [https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx](https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx)  
+   Link: <a href="https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx</a>  
 
 61. <a id="endnote-61"></a>
    Source: index.hr  
-   Link: [https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx](https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx)  
+   Link: <a href="https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx</a>  
 
 62. <a id="endnote-62"></a>
    Source: duap-polaris.hr  
    Title: DUA P Polaris  
-   Link: [https://duap-polaris.hr/polaris/index.php](https://duap-polaris.hr/polaris/index.php)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php</a>  
 
 63. <a id="endnote-63"></a>
    Source: duap-polaris.hr  
    Title: Kineski Roswell  
-   Link: [https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html](https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html</a>  
 
 64. <a id="endnote-64"></a>
    Source: duap-polaris.hr  
-   Link: [https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html](https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html)  
+   Link: <a href="https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html</a>  
 
 65. <a id="endnote-65"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 66. <a id="endnote-66"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 67. <a id="endnote-67"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 68. <a id="endnote-68"></a>
    Source: catalog.archives.gov  
-   Link: [https://catalog.archives.gov/id/567812943](https://catalog.archives.gov/id/567812943)  
+   Link: <a href="https://catalog.archives.gov/id/567812943" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/567812943</a>  
 
 69. <a id="endnote-69"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/276375](https://aviation-safety.net/wikibase/276375)  
+   Link: <a href="https://aviation-safety.net/wikibase/276375" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/276375</a>  
 
 70. <a id="endnote-70"></a>
    Source: nato.int  
-   Link: [https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives](https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives)  
+   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives</a>  
 
 71. <a id="endnote-71"></a>
    Source: acsce.edu.in  
-   Link: [https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/](https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/)  
+   Link: <a href="https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/</a>  
 
 72. <a id="endnote-72"></a>
    Source: history.state.gov  
-   Link: [https://history.state.gov/countries/archives/croatia](https://history.state.gov/countries/archives/croatia)  
+   Link: <a href="https://history.state.gov/countries/archives/croatia" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/croatia</a>  
 
 73. <a id="endnote-73"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 74. <a id="endnote-74"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_](https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_)  
+   Link: <a href="https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_</a>  
 
 75. <a id="endnote-75"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=npl7uuMe_u8](https://www.youtube.com/watch?v=npl7uuMe_u8)  
+   Link: <a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Croatia - Aliens - Križevci - NEW FOOTAGE...</p></details>
 
 76. <a id="endnote-76"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=R5dhT82VAy4](https://www.youtube.com/watch?v=R5dhT82VAy4)  
+   Link: <a href="https://www.youtube.com/watch?v=R5dhT82VAy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R5dhT82VAy4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Triangle of Pag! Motorcycle adventure towards TET Croatia...</p></details>
 
 77. <a id="endnote-77"></a>
    Source: theguardian.com  
    Title: The Guardian Military drone from Ukraine war crashes into Croatian  
-   Link: [https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb](https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb)  
+   Link: <a href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb</a>  
 
 78. <a id="endnote-78"></a>
    Source: globalmeteornetwork.org  
    Title: Global Meteor Network How the Global Meteor Network came to be  
-   Link: [https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/](https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/)  
+   Link: <a href="https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/</a>  
 
 79. <a id="endnote-79"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/](https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
 
 80. <a id="endnote-80"></a>
    Source: emeteornews.net  
    Title: global meteor network report 2023  
-   Link: [https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/](https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/)  
+   Link: <a href="https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/</a>  
 
 81. <a id="endnote-81"></a>
    Source: emeteornews.net  
    Title: global meteor network report 2024  
-   Link: [https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/](https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/)  
+   Link: <a href="https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/</a>  
 
 82. <a id="endnote-82"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
 83. <a id="endnote-83"></a>
    Source: freedominfo.org  
-   Link: [https://www.freedominfo.org/regions/europe/croatia/](https://www.freedominfo.org/regions/europe/croatia/)  
+   Link: <a href="https://www.freedominfo.org/regions/europe/croatia/" target="_blank" rel="noopener noreferrer nofollow">https://www.freedominfo.org/regions/europe/croatia/</a>  
 
 84. <a id="endnote-84"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
 
 85. <a id="endnote-85"></a>
    Source: globalmeteornetwork.org  
-   Link: [https://globalmeteornetwork.org/weblog/HR/index.html](https://globalmeteornetwork.org/weblog/HR/index.html)  
+   Link: <a href="https://globalmeteornetwork.org/weblog/HR/index.html" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/weblog/HR/index.html</a>  
 
 86. <a id="endnote-86"></a>
    Source: theguardian.com  
    Title: pentagon ufo files  
-   Link: [https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files](https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files)  
+   Link: <a href="https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files</a>  
 
 87. <a id="endnote-87"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore](https://enigmalabs.io/explore)  
+   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
 
 ### Additional References
 
 88. <a id="endnote-88"></a>
    Source: youtube.com  
    Title: A Drone Fell on Croatia — Today We React in 15 Minutes | PM Andrej Plenković  
-   Link: [https://www.youtube.com/watch?v=4Kh0cep4X60](https://www.youtube.com/watch?v=4Kh0cep4X60)  
+   Link: <a href="https://www.youtube.com/watch?v=4Kh0cep4X60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Kh0cep4X60</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Compilation April - July 2013 CROATIA Hrvatska...</p></details>
    Published: July 2013  
 
 89. <a id="endnote-89"></a>
    Source: youtube.com  
    Title: UFO Triangle of Pag! Motorcycle adventure towards TET Croatia  
-   Link: [https://www.youtube.com/watch?v=TKPSIMEzp9c](https://www.youtube.com/watch?v=TKPSIMEzp9c)  
+   Link: <a href="https://www.youtube.com/watch?v=TKPSIMEzp9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TKPSIMEzp9c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Drone Fell on Croatia — Today We React in 15 Minutes | PM Andrej Plenković...</p></details>
 
 90. <a id="endnote-90"></a>
    Source: amazon.ie  
-   Link: [https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260](https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260)  
+   Link: <a href="https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260</a>  
 
 91. <a id="endnote-91"></a>
    Source: yumpu.com  
-   Link: [https://www.yumpu.com/user/arhiva.morh.hr](https://www.yumpu.com/user/arhiva.morh.hr)  
+   Link: <a href="https://www.yumpu.com/user/arhiva.morh.hr" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/user/arhiva.morh.hr</a>  
 
 92. <a id="endnote-92"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/203751257427440/posts/357955572007007/](https://www.facebook.com/groups/203751257427440/posts/357955572007007/)  
+   Link: <a href="https://www.facebook.com/groups/203751257427440/posts/357955572007007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203751257427440/posts/357955572007007/</a>  
 
 93. <a id="endnote-93"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/](https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
 94. <a id="endnote-94"></a>
    Source: monitor.hr  
-   Link: [https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/](https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/)  
+   Link: <a href="https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/" target="_blank" rel="noopener noreferrer nofollow">https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/</a>  
 
 95. <a id="endnote-95"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/320707950/172-avijacijski-puk](https://www.scribd.com/document/320707950/172-avijacijski-puk)  
+   Link: <a href="https://www.scribd.com/document/320707950/172-avijacijski-puk" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/320707950/172-avijacijski-puk</a>  
 
 96. <a id="endnote-96"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE](https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE)  
+   Link: <a href="https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE</a>  
 
 97. <a id="endnote-97"></a>
    Source: thinkaboutitdocs.com  
-   Link: [https://thinkaboutitdocs.com/tag/croatia-sightings/](https://thinkaboutitdocs.com/tag/croatia-sightings/)  
+   Link: <a href="https://thinkaboutitdocs.com/tag/croatia-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/tag/croatia-sightings/</a>  

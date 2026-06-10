@@ -245,7 +245,7 @@ next_link:
   permalink: /military-reports-2025/
   short_title: Military Reports 2025
   heading_title: What Did 2025 Military UAP Reports Reveal About Djibouti?
-date: '2026-06-09 01:25:47 '
+date: '2026-06-10 01:50:24 '
 header:
   og_image: /assets/images/Djibouti_60a8b0_infrared_uap_video_d_03da4d-Illustration-1-social.jpg
   preview_image: /assets/images/Djibouti_60a8b0_infrared_uap_video_d_03da4d-Illustration-1.webp
@@ -254,24 +254,24 @@ image: /assets/images/Djibouti_60a8b0_infrared_uap_video_d_03da4d-Illustration-1
 
 ## Introduction
 
-In 2025 the **United States Africa Command (USAFRICOM)** submitted to the U.S. government’s **All‑domain Anomaly Resolution Office (AARO)** a short clip of infrared (IR) footage captured near **[Djibouti]({{ 'djibouti/' | relative_url }})** that remains officially listed as an *unresolved UAP (Unidentified Aerial Phenomenon) report*. The footage — publicly posted in May 2026 via official channels such as the U.S. Department of War’s multimedia archive — shows a fleeting, indistinct thermal contrast crossing the sensor’s field of view over the Horn of Africa. Unlike more prominent UAP cases that have received detailed commentary and follow‑up analysis, the Djibouti IR recording has limited contextual metadata and no accompanying observer account, leaving analysts and public trackers alike with a record that is reported but not fully explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+In 2025 the **United States Africa Command (USAFRICOM)** submitted to the U.S. government’s **All‑domain Anomaly Resolution Office (AARO)** a short clip of infrared (IR) footage captured near **[Djibouti]({{ 'djibouti/' | relative_url }})** that remains officially listed as an *unresolved UAP (Unidentified Aerial Phenomenon) report*. The footage — publicly posted in May 2026 via official channels such as the U.S. Department of War’s multimedia archive — shows a fleeting, indistinct thermal contrast crossing the sensor’s field of view over the Horn of Africa. Unlike more prominent UAP cases that have received detailed commentary and follow‑up analysis, the Djibouti IR recording has limited contextual metadata and no accompanying observer account, leaving analysts and public trackers alike with a record that is reported but not fully explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 &#124; PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_infrared_uap_video_d_03da4d-Illustration-1-dark.svg" | relative_url }}" alt="IR Video Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_infrared_uap_video_d_03da4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_infrared_uap_video_d_03da4d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Video Capture Context
 
-The IR clip tied to **“DOW‑UAP‑PR43, Unresolved UAP Report, Africa, 2025”** was made available on the **U.S. Department of War multimedia site** and the **Defense Visual Information Distribution Service (DVIDS)** in May 2026, following broader U.S. government declassification activity around UAP materials. The uploader is identified as the All‑domain Anomaly Resolution Office, and the video runs just a few seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Videos | U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War Videos | U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+The IR clip tied to **“DOW‑UAP‑PR43, Unresolved UAP Report, Africa, 2025”** was made available on the **U.S. Department of War multimedia site** and the **Defense Visual Information Distribution Service (DVIDS)** in May 2026, following broader U.S. government declassification activity around UAP materials. The uploader is identified as the All‑domain Anomaly Resolution Office, and the video runs just a few seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Videos &#124; U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War Videos &#124; U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
 According to the official caption, the footage was obtained by an **infrared sensor aboard a U.S. military platform** operating within the **Africa Command area of responsibility**, which includes Djibouti and surrounding airspace. The sensor was likely part of a targeting or reconnaissance suite capable of detecting thermal contrast, but operators did not provide a written or verbal witness narrative about the sighting. The public record attaches only a terse description of the clip’s content, not the platform type, altitude, mission context, or supporting instrumentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">pr 001 unresolved uap report africa 2022</span><span class="citation-popover-snippet">DVIDS - Video - PR-001 Unresolved UAP Report, Africa 2022August 7, 2025 — PR-001 UNRESOLVED UAP REPORT, AFRICA 2022 [Input] video size: [...</span><span class="citation-popover-meta">Published: August 7, 2025</span></span></span>
 
-While the video itself is brief, investigators and open‑source archives note that it shows **a small, low‑resolution contrast area moving left to right** before exiting the frame. Some third‑party trackers have looped the clip for viewing and produced still captures, but the apparent lack of identifiable shape, shadows, or motion cues beyond contrast makes precise interpretation difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+While the video itself is brief, investigators and open‑source archives note that it shows **a small, low‑resolution contrast area moving left to right** before exiting the frame. Some third‑party trackers have looped the clip for viewing and produced still captures, but the apparent lack of identifiable shape, shadows, or motion cues beyond contrast makes precise interpretation difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 &#124; PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1AInzA41N1I" title="Pentagon Releases Footage Of Spherical Black UAP Seen In CENTCOM Area Of Responsibility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1AInzA41N1I" target="_blank" rel="noopener noreferrer">Pentagon Releases Footage Of Spherical Black UAP Seen In CENTCOM Area Of Responsibility</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 76.5K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1AInzA41N1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1AInzA41N1I">Open on YouTube</a></p></div></div></div>
 
 ## Analysis Attempts
 
-Because the Djibouti clip lacks traditional supporting data — such as radar tracks, multispectral imaging, accompanying communications logs, or operator commentary — analytical attempts to characterise it have been limited. Publicly accessible summaries, such as the score assigned on the *PURSUE UFO Tracker*, quantify some aspects of evidentiary quality (e.g., sensor type recorded, single‑instrument capture, and unresolved classification), but emphasise that the clip’s brevity and lack of corroboration constrain rigorous interpretation. Under that scoring, the encounter remains **“unresolved”** after a conventional analytic pass and does not indicate an extraordinary kinematic profile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Because the Djibouti clip lacks traditional supporting data — such as radar tracks, multispectral imaging, accompanying communications logs, or operator commentary — analytical attempts to characterise it have been limited. Publicly accessible summaries, such as the score assigned on the *PURSUE UFO Tracker*, quantify some aspects of evidentiary quality (e.g., sensor type recorded, single‑instrument capture, and unresolved classification), but emphasise that the clip’s brevity and lack of corroboration constrain rigorous interpretation. Under that scoring, the encounter remains **“unresolved”** after a conventional analytic pass and does not indicate an extraordinary kinematic profile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 &#124; PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 In contrast with more detailed public UAP video releases — such as those involving multisensor aircraft pods with visible spectrum and IR overlays — the Djibouti case offers only one modality and no flight path data. For analysts working with open footage of UAP phenomena, multiple sensor streams often help distinguish between sensor artefacts, thermal reflections, or mundane airborne objects (e.g. balloons, drones, birds) by cross‑referencing appearance and motion signatures. The absence of such auxiliary data here means few criteria are available to reject conventional explanations confidently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/media/official-usg-footage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -285,14 +285,14 @@ Public discussion among enthusiasts and skeptics reflects this constraint: some 
 
 Several concrete limitations affect how this infrared recording can be understood:
 
-* **Lack of contextual metadata:** The report does not include sensor specifications (e.g. wavelength band, resolution), platform type, flight details, or witness report. The absence of such information severely limits independent analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Videos | U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War Videos | U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
-* **Single‑sensor capture:** With no corroborating radar, optical, or multispectral data, distinguishing between a genuine physical object and sensor or display artefacts (e.g. thermal noise, slewing indicator flicker) is challenging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+* **Lack of contextual metadata:** The report does not include sensor specifications (e.g. wavelength band, resolution), platform type, flight details, or witness report. The absence of such information severely limits independent analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Videos &#124; U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War Videos &#124; U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+* **Single‑sensor capture:** With no corroborating radar, optical, or multispectral data, distinguishing between a genuine physical object and sensor or display artefacts (e.g. thermal noise, slewing indicator flicker) is challenging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pursueufotracker.com">[Pursue UFO Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pursueufotracker.com</span><span class="citation-popover-title">unresolved uap report djibouti 2025</span><span class="citation-popover-snippet">Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 &#124; PURSUE UFO TrackerMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 * **Extremely short duration:** At roughly two seconds of recorded movement, the clip offers minimal temporal information. In contrast to longer unresolved IR encounters that have drawn more detailed commentary, such as those with several minutes of continuous footage from Africa Command in other years, the Djibouti case is too brief to enable trajectory or behaviour modelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">pr 001 unresolved uap report africa 2022</span><span class="citation-popover-snippet">DVIDS - Video - PR-001 Unresolved UAP Report, Africa 2022August 7, 2025 — PR-001 UNRESOLVED UAP REPORT, AFRICA 2022 [Input] video size: [...</span><span class="citation-popover-meta">Published: August 7, 2025</span></span></span>
 * **No reported follow‑up:** There are no publicly available records of any formal debrief, imaging from other nearby assets, or post‑event analysis that would help contextualise this report formally.
 
 Given these gaps, the official classification remains “unresolved”: the video depicts a contrast pattern that was not identified at the time of reporting, but there is no analytical basis on the public record to label it as anomalous beyond its unidentified status.
 
-In sum, the 2025 Djibouti infrared video stands as a **brief, officially released military sensor recording** that has been catalogued as a UAP report without further explanation. Its evidentiary value lies primarily in its documentation of an unidentified sensor event rather than in providing clear evidence of any specific physical phenomenon or object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Videos | U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War Videos | U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+In sum, the 2025 Djibouti infrared video stands as a **brief, officially released military sensor recording** that has been catalogued as a UAP report without further explanation. Its evidentiary value lies primarily in its documentation of an unidentified sensor event rather than in providing clear evidence of any specific physical phenomenon or object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Videos &#124; U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War Videos &#124; U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
@@ -302,86 +302,44 @@ In sum, the 2025 Djibouti infrared video stands as a **brief, officially release
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Can Infrared UAP Footage Near Djibouti Tell US?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Can Infrared UAP Footage Near Djibouti Tell US?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers contemporary sensor-based UAP evidence and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Emphasises radar, pilot observations, and corroborating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how observational evidence should be evaluated scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores how modern UAP narratives form around technology and evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -415,75 +373,71 @@ In sum, the 2025 Djibouti infrared video stands as a **brief, officially release
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-video-evidence-what-can-infrared-uap-footage-near-djibouti-tell-us-djibouti-ufo-poster-book-books-series-television-g&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -698,53 +652,53 @@ In sum, the 2025 Djibouti infrared video stands as a **brief, officially release
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War Videos | U.S. Department of War  
-   Link: [https://www.war.gov/Multimedia/Videos?videoid=1006159](https://www.war.gov/Multimedia/Videos?videoid=1006159)  
+   Link: <a href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos?videoid=1006159</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: Videos | U.S  
-   Link: [https://www.war.gov/Multimedia/Videos/videoid/1006073/](https://www.war.gov/Multimedia/Videos/videoid/1006073/)  
+   Link: <a href="https://www.war.gov/Multimedia/Videos/videoid/1006073/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos/videoid/1006073/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarJanuary 1, 2024 — Image: The United States Central Command submitted a report of an unidentified anomalous phenomenon (U...</p></details>
    Published: January 1, 2024  
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3K_views_3m](https://www.youtube.com/watch?v=3K_views_3m)  
+   Link: <a href="https://www.youtube.com/watch?v=3K_views_3m" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3K_views_3m</a>  
 
 4. <a id="endnote-4"></a>
    Source: pursueufotracker.com  
    Title: unresolved uap report djibouti 2025  
-   Link: [https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025](https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025)  
+   Link: <a href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pursue UFO TrackerUnresolved UAP Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
 5. <a id="endnote-5"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/1006159/dow-uap-pr43-unresolved-uap-report-africa-2025](https://www.dvidshub.net/video/1006159/dow-uap-pr43-unresolved-uap-report-africa-2025)  
+   Link: <a href="https://www.dvidshub.net/video/1006159/dow-uap-pr43-unresolved-uap-report-africa-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006159/dow-uap-pr43-unresolved-uap-report-africa-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025May 8, 2026...</p></details>
    Published: May 8, 2026  
 
 6. <a id="endnote-6"></a>
    Source: disclosuremonitor.com  
-   Link: [https://disclosuremonitor.com/media/official-usg-footage](https://disclosuremonitor.com/media/official-usg-footage)  
+   Link: <a href="https://disclosuremonitor.com/media/official-usg-footage" target="_blank" rel="noopener noreferrer nofollow">https://disclosuremonitor.com/media/official-usg-footage</a>  
 
 7. <a id="endnote-7"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023](https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023)  
+   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - PR-003, Unresolved UAP Report, Africa 2023January 1, 2023...</p></details>
    Published: January 1, 2023  
 
 8. <a id="endnote-8"></a>
    Source: pursueufotracker.com  
    Title: unresolved uap report djibouti 2025  
-   Link: [https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025.html](https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025.html)  
+   Link: <a href="https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025.html" target="_blank" rel="noopener noreferrer nofollow">https://pursueufotracker.com/files/unresolved-uap-report-djibouti-2025.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026 — UNRESOLVED UAP REPORT, DJIBOUTI, 2025 66 Agency DoD Category mili...</p></details>
    Published: May 8, 2026  
 
 9. <a id="endnote-9"></a>
    Source: dvidshub.net  
    Title: pr 001 unresolved uap report africa 2022  
-   Link: [https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022](https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022)  
+   Link: <a href="https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDS - Video - PR-001 Unresolved UAP Report, Africa 2022August 7, 2025 — PR-001 UNRESOLVED UAP REPORT, AFRICA 2022 [Input] video size: [...</p></details>
    Published: August 7, 2025  
 
@@ -752,58 +706,58 @@ In sum, the 2025 Djibouti infrared video stands as a **brief, officially release
 
 10. <a id="endnote-10"></a>
    Source: ufofeed.com  
-   Link: [https://www.ufofeed.com/126771/aaro-has-posted-another-unresolved-case-video-this-footage-captured-by-an-infrared-sensor-in-2024-was-later-reported-to-aaro-as-a-uap-this-report-remains-unresolved-due-to-lack-of-technical-dat/](https://www.ufofeed.com/126771/aaro-has-posted-another-unresolved-case-video-this-footage-captured-by-an-infrared-sensor-in-2024-was-later-reported-to-aaro-as-a-uap-this-report-remains-unresolved-due-to-lack-of-technical-dat/)  
+   Link: <a href="https://www.ufofeed.com/126771/aaro-has-posted-another-unresolved-case-video-this-footage-captured-by-an-infrared-sensor-in-2024-was-later-reported-to-aaro-as-a-uap-this-report-remains-unresolved-due-to-lack-of-technical-dat/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/126771/aaro-has-posted-another-unresolved-case-video-this-footage-captured-by-an-infrared-sensor-in-2024-was-later-reported-to-aaro-as-a-uap-this-report-remains-unresolved-due-to-lack-of-technical-dat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This report remains unresolved due to lack of technical data&quot; - UFO FEEDMay 16, 2025 — AARO HAS POSTED ANOTHER UNRESOLVED CASE (VIDEO): “...</p></details>
    Published: May 16, 2025  
 
 11. <a id="endnote-11"></a>
    Source: they-are-here.com  
    Title: Department of War VID DOW UAP PR43 Unresolved UAP Report Africa 2025  
-   Link: [https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/](https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/)  
+   Link: <a href="https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/" target="_blank" rel="noopener noreferrer nofollow">https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025May 8, 2026 — DOW-UAP-PR43, UNRESOLVED UAP REPORT, AFRICA, 2025 Department of War VID Fi...</p></details>
    Published: May 8, 2026  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Pbx9zXlJEIc](https://www.youtube.com/watch?v=Pbx9zXlJEIc)  
+   Link: <a href="https://www.youtube.com/watch?v=Pbx9zXlJEIc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pbx9zXlJEIc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Footage Of Spherical Black UAP Seen In CENTCOM Area Of Responsibility...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aliensodds.com  
    Title: — 161 declassified UAP files  
-   Link: [https://www.aliensodds.com/](https://www.aliensodds.com/)  
+   Link: <a href="https://www.aliensodds.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensodds.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You decide which are real.UNRESOLVED UAP REPORT, ARABIAN GULF, 2020 The United States Central Command submitted a report of an unidentifi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/dow-uap-pr081-18-oct-2020-callsign-observes-uap](https://ufotransparency.com/files/dow-uap-pr081-18-oct-2020-callsign-observes-uap)  
+   Link: <a href="https://ufotransparency.com/files/dow-uap-pr081-18-oct-2020-callsign-observes-uap" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-pr081-18-oct-2020-callsign-observes-uap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRICOM Five-Second Transit Infrared October 2020, Department of War · 2026 · UFO TransparencyMay 22, 2026 — AFRICOM FIVE-SECOND TRANSIT...</p></details>
    Published: May 22, 2026  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO / DoD UAP Footage – PR 018, Unresolved UAP Report, Europe 2024...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1AInzA41N1I](https://www.youtube.com/watch?v=1AInzA41N1I)  
+   Link: <a href="https://www.youtube.com/watch?v=1AInzA41N1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1AInzA41N1I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military sensors capture mysterious, unexplained aerial phenomena...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uapufo.org  
    Title: OVERVIEW This topic is built  
-   Link: [https://uapufo.org/topics/pentagon-ufo-videos](https://uapufo.org/topics/pentagon-ufo-videos)  
+   Link: <a href="https://uapufo.org/topics/pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://uapufo.org/topics/pentagon-ufo-videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO Videos | UAP UFOUAP / UFO topic PENTAGON UFO VIDEOS Official UAP videos and Pentagon UFO videos grouped with source metadata...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: europeafrica.army.mil  
    Title: mil Video Player  
-   Link: [https://www.europeafrica.army.mil/Newsroom/VideoPlayer?videoid=973055](https://www.europeafrica.army.mil/Newsroom/VideoPlayer?videoid=973055)  
+   Link: <a href="https://www.europeafrica.army.mil/Newsroom/VideoPlayer?videoid=973055" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/Newsroom/VideoPlayer?videoid=973055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Europe and Africa Download Embed Share PR-003, Unresolved UAP Report, Africa 2023 All Domain Anomaly Resolution Office Jan. 1, 2023...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ufo-declassified.com  
    Title: DO W-UAP-PR070  
-   Link: [https://ufo-declassified.com/documents/release-02-file-029-dow-uap-pr070-iir-1-655-s0301-23-eglin-afb-aircrew-observed-unidentified-aerial-phenomena-uap-on/](https://ufo-declassified.com/documents/release-02-file-029-dow-uap-pr070-iir-1-655-s0301-23-eglin-afb-aircrew-observed-unidentified-aerial-phenomena-uap-on/)  
+   Link: <a href="https://ufo-declassified.com/documents/release-02-file-029-dow-uap-pr070-iir-1-655-s0301-23-eglin-afb-aircrew-observed-unidentified-aerial-phenomena-uap-on/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-declassified.com/documents/release-02-file-029-dow-uap-pr070-iir-1-655-s0301-23-eglin-afb-aircrew-observed-unidentified-aerial-phenomena-uap-on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR070 - &quot;IIR 1 655 S0301 23/Eglin AFB Aircrew Observed Unidentified Aerial Phenomena (UAP) on 13 Feb 23&quot; | UFO DeclassifiedMay 22...</p></details>

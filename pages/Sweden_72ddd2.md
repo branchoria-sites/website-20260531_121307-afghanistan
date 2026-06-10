@@ -1185,7 +1185,7 @@ next_link:
   title: NZ UFOs
   permalink: /what-new-zealands-ufo-files-really-show/
   short_title: NZ UFOs
-date: '2026-06-09 01:41:57 '
+date: '2026-06-10 02:09:21 '
 header:
   og_image: /assets/images/Sweden_72ddd2-overview-social.jpg
   preview_image: /assets/images/Sweden_72ddd2-overview.webp
@@ -1299,86 +1299,44 @@ Sweden’s own contribution is distinctive: it combines a dramatic early Cold Wa
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Makes Sweden&#x27;s UFO Record Different?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Makes Sweden&#x27;s UFO Record Different?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding how Sweden&#x27;s reports were categorized and studied.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Supports discussion of military and civilian UFO record keeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for official investigations and archival evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Fits Sweden&#x27;s evidence-focused approach to unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1412,59 +1370,71 @@ Sweden’s own contribution is distinctive: it combines a dramatic early Cold Wa
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-t-shirt-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-t-shirt-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-t-shirt-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-t-shirt-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-sweden-s-ufo-record-different-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-makes-sweden-s-ufo-record-different-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-swedens-ufo-record-different-what-makes-sweden-s-ufo-record-different-sweden-ufo-poster-book-books-series-tel&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1678,187 +1648,187 @@ Sweden’s own contribution is distinctive: it combines a dramatic early Cold Wa
 
 1. <a id="endnote-1"></a>
    Source: ufo.se  
-   Link: [https://www.ufo.se/index.php/english](https://www.ufo.se/index.php/english)  
+   Link: <a href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php/english</a>  
 
 2. <a id="endnote-2"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/](https://www.afu.se/)  
+   Link: <a href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/</a>  
 
 3. <a id="endnote-3"></a>
    Source: riksarkivet.se  
    Title: Arkivpodden – Spökraketer  
-   Link: [https://riksarkivet.se/resurser/spokraketer](https://riksarkivet.se/resurser/spokraketer)  
+   Link: <a href="https://riksarkivet.se/resurser/spokraketer" target="_blank" rel="noopener noreferrer nofollow">https://riksarkivet.se/resurser/spokraketer</a>  
 
 4. <a id="endnote-4"></a>
    Source: docdroid.net  
    Title: Doc Droid  
-   Link: [https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf](https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf)  
+   Link: <a href="https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aftonbladet.se  
    Title: UFO sågs på Värmdö av överbefälhavaren Helge Jung  
-   Link: [https://www.aftonbladet.se/nyheter/a/JO6rQ7/ufo-sags-pa-varmdo-av-overbefalhavaren-helge-jung](https://www.aftonbladet.se/nyheter/a/JO6rQ7/ufo-sags-pa-varmdo-av-overbefalhavaren-helge-jung)  
+   Link: <a href="https://www.aftonbladet.se/nyheter/a/JO6rQ7/ufo-sags-pa-varmdo-av-overbefalhavaren-helge-jung" target="_blank" rel="noopener noreferrer nofollow">https://www.aftonbladet.se/nyheter/a/JO6rQ7/ufo-sags-pa-varmdo-av-overbefalhavaren-helge-jung</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ängelholm UFO memorial  
-   Link: [https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial](https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial)  
+   Link: <a href="https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/%C3%84ngelholm_UFO_memorial</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 2009 Norwegian spiral anomaly  
-   Link: [https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly](https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly)  
+   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
 
 8. <a id="endnote-8"></a>
    Source: su.se  
    Title: Unexpected patterns in historical astronomical observations  
-   Link: [https://www.su.se/english/news/articles/2025-10-20-unexpected-patterns-in-historical-astronomical-observations](https://www.su.se/english/news/articles/2025-10-20-unexpected-patterns-in-historical-astronomical-observations)  
+   Link: <a href="https://www.su.se/english/news/articles/2025-10-20-unexpected-patterns-in-historical-astronomical-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.su.se/english/news/articles/2025-10-20-unexpected-patterns-in-historical-astronomical-observations</a>  
 
 9. <a id="endnote-9"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Archives for the Unexplained  
-   Link: [https://en.wikipedia.org/wiki/Archives_for_the_Unexplained](https://en.wikipedia.org/wiki/Archives_for_the_Unexplained)  
+   Link: <a href="https://en.wikipedia.org/wiki/Archives_for_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_for_the_Unexplained</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: [https://en.wikipedia.org/wiki/Ghost_rockets](https://en.wikipedia.org/wiki/Ghost_rockets)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in Sweden  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Sweden](https://en.wikipedia.org/wiki/UFO_sightings_in_Sweden)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Sweden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Sweden</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Aligned, Multiple transient Events in the First Palomar Sky Survey  
-   Link: [https://en.wikipedia.org/wiki/Aligned%2C_Multiple-transient_Events_in_the_First_Palomar_Sky_Survey](https://en.wikipedia.org/wiki/Aligned%2C_Multiple-transient_Events_in_the_First_Palomar_Sky_Survey)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aligned%2C_Multiple-transient_Events_in_the_First_Palomar_Sky_Survey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aligned%2C_Multiple-transient_Events_in_the_First_Palomar_Sky_Survey</a>  
 
 16. <a id="endnote-16"></a>
    Source: csblogg.ufo.se  
    Title: se AF U – A presentation  
-   Link: [https://csblogg.ufo.se/csblogg3/?page_id=67179](https://csblogg.ufo.se/csblogg3/?page_id=67179)  
+   Link: <a href="https://csblogg.ufo.se/csblogg3/?page_id=67179" target="_blank" rel="noopener noreferrer nofollow">https://csblogg.ufo.se/csblogg3/?page_id=67179</a>  
 
 17. <a id="endnote-17"></a>
    Source: ufo.se  
-   Link: [https://www.ufo.se/index.php/2-uncategorised](https://www.ufo.se/index.php/2-uncategorised)  
+   Link: <a href="https://www.ufo.se/index.php/2-uncategorised" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php/2-uncategorised</a>  
 
 18. <a id="endnote-18"></a>
    Source: ufo.se  
-   Link: [https://www.ufo.se/images/UFO/pdf/EsotericismandUFOResearch.pdf](https://www.ufo.se/images/UFO/pdf/EsotericismandUFOResearch.pdf)  
+   Link: <a href="https://www.ufo.se/images/UFO/pdf/EsotericismandUFOResearch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/images/UFO/pdf/EsotericismandUFOResearch.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: ufo.se  
-   Link: [https://www.ufo.se/images/UFO/pdf/A_Critical_Appraisal_of_George_Adamski.pdf](https://www.ufo.se/images/UFO/pdf/A_Critical_Appraisal_of_George_Adamski.pdf)  
+   Link: <a href="https://www.ufo.se/images/UFO/pdf/A_Critical_Appraisal_of_George_Adamski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/images/UFO/pdf/A_Critical_Appraisal_of_George_Adamski.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: riksarkivet.se  
-   Link: [https://riksarkivet.se/utforska-och-bestall/podd-och-video/arkivpodden/dokumenten-berattar](https://riksarkivet.se/utforska-och-bestall/podd-och-video/arkivpodden/dokumenten-berattar)  
+   Link: <a href="https://riksarkivet.se/utforska-och-bestall/podd-och-video/arkivpodden/dokumenten-berattar" target="_blank" rel="noopener noreferrer nofollow">https://riksarkivet.se/utforska-och-bestall/podd-och-video/arkivpodden/dokumenten-berattar</a>  
 
 21. <a id="endnote-21"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu2/](https://www.afu.se/afu2/)  
+   Link: <a href="https://www.afu.se/afu2/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/</a>  
 
 22. <a id="endnote-22"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu2/?page_id=4778](https://www.afu.se/afu2/?page_id=4778)  
+   Link: <a href="https://www.afu.se/afu2/?page_id=4778" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?page_id=4778</a>  
 
 23. <a id="endnote-23"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu2/wp-content/uploads/2016/12/AFU_Annual_Report_2014.pdf](https://www.afu.se/afu2/wp-content/uploads/2016/12/AFU_Annual_Report_2014.pdf)  
+   Link: <a href="https://www.afu.se/afu2/wp-content/uploads/2016/12/AFU_Annual_Report_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/wp-content/uploads/2016/12/AFU_Annual_Report_2014.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/afu50/](https://www.afu.se/afu50/)  
+   Link: <a href="https://www.afu.se/afu50/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu50/</a>  
 
 25. <a id="endnote-25"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/ufo-intelligence-report-raises-new-concerns-about-government-transparency/](https://www.afu.se/ufo-intelligence-report-raises-new-concerns-about-government-transparency/)  
+   Link: <a href="https://www.afu.se/ufo-intelligence-report-raises-new-concerns-about-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/ufo-intelligence-report-raises-new-concerns-about-government-transparency/</a>  
 
 26. <a id="endnote-26"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/collections/report-files/](https://www.afu.se/collections/report-files/)  
+   Link: <a href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/report-files/</a>  
 
 27. <a id="endnote-27"></a>
    Source: space.com  
    Title: vasco vanishing stars citizen science project  
-   Link: [https://www.space.com/vasco-vanishing-stars-citizen-science-project](https://www.space.com/vasco-vanishing-stars-citizen-science-project)  
+   Link: <a href="https://www.space.com/vasco-vanishing-stars-citizen-science-project" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/vasco-vanishing-stars-citizen-science-project</a>  
 
 28. <a id="endnote-28"></a>
    Source: history.com  
    Title: of UFOs  
-   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
+   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
 
 29. <a id="endnote-29"></a>
    Source: scientificamerican.com  
    Title: did astronomers photograph ufos orbiting earth in the 1950s  
-   Link: [https://www.scientificamerican.com/article/did-astronomers-photograph-ufos-orbiting-earth-in-the-1950s/](https://www.scientificamerican.com/article/did-astronomers-photograph-ufos-orbiting-earth-in-the-1950s/)  
+   Link: <a href="https://www.scientificamerican.com/article/did-astronomers-photograph-ufos-orbiting-earth-in-the-1950s/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/did-astronomers-photograph-ufos-orbiting-earth-in-the-1950s/</a>  
 
 30. <a id="endnote-30"></a>
    Source: area51aliencenter.net  
    Title: ghost rockets in 1946  
-   Link: [https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/](https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/)  
+   Link: <a href="https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/historical-events/ghost-rockets-in-1946/</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Clas Svahn, Files of the Unexplained, UFOs & More  
-   Link: [http://www.youtube.com/watch?v=me4eA3y-ytw](http://www.youtube.com/watch?v=me4eA3y-ytw)  
+   Link: <a href="http://www.youtube.com/watch?v=me4eA3y-ytw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=me4eA3y-ytw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweden ghost rockets UFO-Sverige AFU Norrköping Clas Svahn: Revealing The World&#x27;s Largest UFO Archive, Among Other Things (SHORT VERSION)...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015447.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015447.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015447.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015447.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Clas Svahn, Sweden's UFOs, Ghost Rockets, Military Cases & More  
-   Link: [http://www.youtube.com/watch?v=eAnn0VYKJfw](http://www.youtube.com/watch?v=eAnn0VYKJfw)  
+   Link: <a href="http://www.youtube.com/watch?v=eAnn0VYKJfw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=eAnn0VYKJfw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Sitting On More UFO Evidence Than Anyone Alive...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Man Sitting On More UFO Evidence Than Anyone Alive  
-   Link: [http://www.youtube.com/watch?v=Rjr3Yq-dMUE](http://www.youtube.com/watch?v=Rjr3Yq-dMUE)  
+   Link: <a href="http://www.youtube.com/watch?v=Rjr3Yq-dMUE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rjr3Yq-dMUE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Sweden and Archives For the Unexplained...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Archives for the Unexplained Tour in Sweden part 1  
-   Link: [http://www.youtube.com/watch?v=4GDL6gr1QuA](http://www.youtube.com/watch?v=4GDL6gr1QuA)  
+   Link: <a href="http://www.youtube.com/watch?v=4GDL6gr1QuA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4GDL6gr1QuA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clas Svahn, Files of the Unexplained, UFOs &amp; More...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368083059_The_Vanishing_and_Appearing_Sources_during_a_Century_of_Observations_Project_I_USNO_Objects_Missing_in_Modern_Sky_Surveys_and_Follow-up_Observations_of_a_Missing_Star](https://www.researchgate.net/publication/368083059_The_Vanishing_and_Appearing_Sources_during_a_Century_of_Observations_Project_I_USNO_Objects_Missing_in_Modern_Sky_Surveys_and_Follow-up_Observations_of_a_Missing_Star)  
+   Link: <a href="https://www.researchgate.net/publication/368083059_The_Vanishing_and_Appearing_Sources_during_a_Century_of_Observations_Project_I_USNO_Objects_Missing_in_Modern_Sky_Surveys_and_Follow-up_Observations_of_a_Missing_Star" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368083059_The_Vanishing_and_Appearing_Sources_during_a_Century_of_Observations_Project_I_USNO_Objects_Missing_in_Modern_Sky_Surveys_and_Follow-up_Observations_of_a_Missing_Star</a>  
 
 37. <a id="endnote-37"></a>
    Source: spreaker.com  
-   Link: [https://www.spreaker.com/episode/387-clas-svahn--56339079](https://www.spreaker.com/episode/387-clas-svahn--56339079)  
+   Link: <a href="https://www.spreaker.com/episode/387-clas-svahn--56339079" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/387-clas-svahn--56339079</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1muie4u/a_ufo_memorial_in_%C3%A4ngelholm_sweden/](https://www.reddit.com/r/UFOs/comments/1muie4u/a_ufo_memorial_in_%C3%A4ngelholm_sweden/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1muie4u/a_ufo_memorial_in_%C3%A4ngelholm_sweden/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1muie4u/a_ufo_memorial_in_%C3%A4ngelholm_sweden/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/inpaknuten/posts/1708417659186623/](https://www.facebook.com/groups/inpaknuten/posts/1708417659186623/)  
+   Link: <a href="https://www.facebook.com/groups/inpaknuten/posts/1708417659186623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/inpaknuten/posts/1708417659186623/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/dr-beatriz-villarroel-astronomer-for-the-nordic-institute-for-theoretical-physic/773871788353174/](https://www.facebook.com/NewsNationNow/posts/dr-beatriz-villarroel-astronomer-for-the-nordic-institute-for-theoretical-physic/773871788353174/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/dr-beatriz-villarroel-astronomer-for-the-nordic-institute-for-theoretical-physic/773871788353174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/dr-beatriz-villarroel-astronomer-for-the-nordic-institute-for-theoretical-physic/773871788353174/</a>  

@@ -239,7 +239,7 @@ next_link:
   permalink: /official-files/
   short_title: Official Files
   heading_title: What Official UAP Files Really Show
-date: '2026-06-09 01:09:34 '
+date: '2026-06-10 01:34:29 '
 header:
   og_image: /assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-1-social.jpg
   preview_image: /assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-1.webp
@@ -248,17 +248,17 @@ image: /assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustratio
 
 ## Introduction
 
-The **Kandahar Unidentified Aircraft Encounter** refers to a widely circulated 2015 military air‑safety report in which a U.S. Air Force aerial refuelling crew visually sighted an **“unidentified aircraft”** while flying a tanker mission over **[Afghanistan]({{ 'afghanistan/' | relative_url }}) near Kandahar** during ongoing combat operations. Unlike sensationalised internet accounts that frame it as evidence of extraordinary craft, the case is best understood through its **air‑safety and sensor context**, where lack of corroborating tracking data coupled with distant visual perception left identity unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+The **Kandahar Unidentified Aircraft Encounter** refers to a widely circulated 2015 military air‑safety report in which a U.S. Air Force aerial refuelling crew visually sighted an **“unidentified aircraft”** while flying a tanker mission over **[Afghanistan]({{ 'afghanistan/' | relative_url }}) near Kandahar** during ongoing combat operations. Unlike sensationalised internet accounts that frame it as evidence of extraordinary craft, the case is best understood through its **air‑safety and sensor context**, where lack of corroborating tracking data coupled with distant visual perception left identity unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-1-dark.svg" | relative_url }}" alt="Kandahar Case illustration 1" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Tanker Crew Reported
 
-On **21 April 2015**, a **KC‑135R Stratotanker** assigned to the **379th Air Expeditionary Wing** (part of **Air Forces Central Command**) was conducting an **operational aerial refuelling mission** over Afghanistan, operating in Kandahar’s wider airspace, when the flight crew visually acquired another aircraft that they could not identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+On **21 April 2015**, a **KC‑135R Stratotanker** assigned to the **379th Air Expeditionary Wing** (part of **Air Forces Central Command**) was conducting an **operational aerial refuelling mission** over Afghanistan, operating in Kandahar’s wider airspace, when the flight crew visually acquired another aircraft that they could not identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
-* **Visual sighting:** The crew reported seeing an **aircraft of unknown type** while engaged in refuelling operations in coordination with a combat jet (which itself carried functioning air‑to‑air radar). <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
-* **Sensor inconclusive:** Neither the refuelled fighter’s radar nor **tactical air traffic control radar** detected the object. It remained absent from electronic surveillance despite the visual report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
-* **Operational outcome:** The tanker completed its mission and returned safely to base without further engagement or collision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* **Visual sighting:** The crew reported seeing an **aircraft of unknown type** while engaged in refuelling operations in coordination with a combat jet (which itself carried functioning air‑to‑air radar). <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* **Sensor inconclusive:** Neither the refuelled fighter’s radar nor **tactical air traffic control radar** detected the object. It remained absent from electronic surveillance despite the visual report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* **Operational outcome:** The tanker completed its mission and returned safely to base without further engagement or collision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
 There is **no public official record** of further identification, nor any release of detailed flight data or confirmed visual imagery linked to this encounter.
 
@@ -270,7 +270,7 @@ There is **no public official record** of further identification, nor any releas
 Understanding this incident requires appreciating the limitations of air‑domain sensing in a war‑zone environment:
 
 * **Air traffic control coverage in Afghanistan** has historically been fragmented, with Afghan civil authorities sharing responsibility under SIGAR reports on civil aviation capabilities — meaning **surveillance integration was incomplete** during coalition operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sigar.mil/Reports/Article-Display/Article/4028895/civil-aviation-us-efforts-improved-afghan-capabilities-but-the-afghan-governmen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sigar.mil">[sigar.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sigar.mil</span><span class="citation-popover-title">Civil Aviation: U.S</span><span class="citation-popover-snippet">Efforts Improved Afghan Capabilities, but the Afghan Government Did Not Assume Airspace Management as Planned &gt; Special Inspector General...</span></span></span>
-* **Military radars** (both tanker‑borne and fighter‑borne) are optimised for friendly or hostile air traffic and do not guarantee detection of all classes of platforms, particularly if an aircraft is at a distance, is non‑emitting, or is detected visually outside a radar beam. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* **Military radars** (both tanker‑borne and fighter‑borne) are optimised for friendly or hostile air traffic and do not guarantee detection of all classes of platforms, particularly if an aircraft is at a distance, is non‑emitting, or is detected visually outside a radar beam. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 * In such environments, a **visual sighting without corroborating radar or sensor data** leaves room for misidentification, forced perspective, or ordinary aircraft being misperceived against complex terrain and lighting conditions.
 
 Radar gaps are often cited in aviation safety reports to explain why something seen visually does not appear on electronic plots — without implying anything anomalous about the object’s nature.
@@ -281,11 +281,11 @@ Radar gaps are often cited in aviation safety reports to explain why something s
 
 The encounter has occasionally been invoked in online UFO/UAP discussions, but there is **no credible evidence that the object exhibited extraordinary performance or non‑conventional behaviour**:
 
-* At the **official level**, this incident appears only as an **unresolved “unidentified aircraft”** in crew encounter reports; there is **no release of imaging, manoeuvre data, or corroborating sensor records** that would satisfy scientific or aerospace analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* At the **official level**, this incident appears only as an **unresolved “unidentified aircraft”** in crew encounter reports; there is **no release of imaging, manoeuvre data, or corroborating sensor records** that would satisfy scientific or aerospace analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 * **Absence of radar/air traffic control confirmation** does not inherently imply exotic physics — numerous civilian and military aircraft operate with transponders off or below radar coverage, especially in complex airspaces like Kandahar’s during 2015.
 * The Pentagon’s broader policy on unidentified aerial phenomena emphasises that many logged events result from **data limitations or routine objects**, and only a small subset remain without explanation after rigorous analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provi...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
 
-Therefore, rather than evidence of a non‑terrestrial or technologically anomalous craft, the Kandahar encounter stands as a **case of an ordinary unidentified visual sighting within a military air‑safety context** — unresolved because of data gaps, not because of confirmed extraordinary traits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+Therefore, rather than evidence of a non‑terrestrial or technologically anomalous craft, the Kandahar encounter stands as a **case of an ordinary unidentified visual sighting within a military air‑safety context** — unresolved because of data gaps, not because of confirmed extraordinary traits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XIQYFfT5PNs" title="2 new UAP videos surface, taken by military drones | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XIQYFfT5PNs" target="_blank" rel="noopener noreferrer">2 new UAP videos surface, taken by military drones | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XIQYFfT5PNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XIQYFfT5PNs">Open on YouTube</a></p></div></div></div>
@@ -297,7 +297,7 @@ Therefore, rather than evidence of a non‑terrestrial or technologically anomal
 
 This 2015 case sits amid a wider pattern of **military aircrew reports** during the Afghanistan conflict, particularly involving aerial refuelling aircraft such as the KC‑135:
 
-* Other 2015 crew encounters listed in declassified or de‑identified military records include several near‑miss events where tanker crews saw or were warned of traffic that was not tracked by radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* Other 2015 crew encounters listed in declassified or de‑identified military records include several near‑miss events where tanker crews saw or were warned of traffic that was not tracked by radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">The HC-130P’s crew first</span><span class="citation-popover-snippet">The War Zone&#x27; &#124; Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 * These reports underline the **air‑safety focus** — crews filed them because of potential hazards, not because they perceived messages about extraterrestrial visitation.
 
 In the **Afghanistan UAP/UFO landscape**, such occurrences reflect the **intense surveillance and high operational tempo** of coalition air operations, where sensor limitations, varying air traffic density, and multinational aircraft movements can give rise to unresolved sightings without implying anything beyond normal aviation phenomena.
@@ -306,86 +306,44 @@ In the **Afghanistan UAP/UFO landscape**, such occurrences reflect the **intense
 <img src="{{ "/assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-3-dark.svg" | relative_url }}" alt="Kandahar Case illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_kandahar_aircraft_en_b03b99-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The Kandahar Encounter Without the Hype. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The Kandahar Encounter Without the Hype, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly relates to aircrew observations and unresolved aircraft encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Discusses military reporting and intelligence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores military witness accounts and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for evaluating aircraft encounter reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -419,75 +377,71 @@ In the **Afghanistan UAP/UFO landscape**, such occurrences reflect the **intense
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kandahar-case-the-kandahar-encounter-without-the-hype-afghanistan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -701,26 +655,26 @@ In the **Afghanistan UAP/UFO landscape**, such occurrences reflect the **intense
 
 1. <a id="endnote-1"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft](https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft)  
+   Link: <a href="https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/34377/here-are-the-air-forces-reports-on-aircrew-encounters-with-unidentified-flying-craft</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHere Are The Air Force&#x27;s Reports On Aircrew Encounters...26 Jun 2020 — On May 15, 2015, a KC-135R Stratotanker from the 100t...</p></details>
    Published: May 15, 2015  
 
 2. <a id="endnote-2"></a>
    Source: sigar.mil  
    Title: Civil Aviation: U.S  
-   Link: [https://www.sigar.mil/Reports/Article-Display/Article/4028895/civil-aviation-us-efforts-improved-afghan-capabilities-but-the-afghan-governmen/](https://www.sigar.mil/Reports/Article-Display/Article/4028895/civil-aviation-us-efforts-improved-afghan-capabilities-but-the-afghan-governmen/)  
+   Link: <a href="https://www.sigar.mil/Reports/Article-Display/Article/4028895/civil-aviation-us-efforts-improved-afghan-capabilities-but-the-afghan-governmen/" target="_blank" rel="noopener noreferrer nofollow">https://www.sigar.mil/Reports/Article-Display/Article/4028895/civil-aviation-us-efforts-improved-afghan-capabilities-but-the-afghan-governmen/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efforts Improved Afghan Capabilities, but the Afghan Government Did Not Assume Airspace Management as Planned &gt; Special Inspector General...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provi...</p></details>
    Published: June 25, 2021  
 
 4. <a id="endnote-4"></a>
    Source: exonews.org  
    Title: The HC-130P’s crew first  
-   Link: [https://exonews.org/tag/the-war-zone/](https://exonews.org/tag/the-war-zone/)  
+   Link: <a href="https://exonews.org/tag/the-war-zone/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/tag/the-war-zone/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The War Zone&#x27; | Exo News• #2 July 2, 2014: 58th Special Operations Wing – An “unidentified helicopter” flew under the two aircraft at a...</p></details>
    Published: July 2, 2014  
 
@@ -728,54 +682,54 @@ In the **Afghanistan UAP/UFO landscape**, such occurrences reflect the **intense
 
 5. <a id="endnote-5"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/crash/crash-boeing-kc-135r-stratotanker-near-chaldovar-3-killed](https://www.baaa-acro.com/crash/crash-boeing-kc-135r-stratotanker-near-chaldovar-3-killed)  
+   Link: <a href="https://www.baaa-acro.com/crash/crash-boeing-kc-135r-stratotanker-near-chaldovar-3-killed" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/crash/crash-boeing-kc-135r-stratotanker-near-chaldovar-3-killed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crash of a Boeing KC-135R Stratotanker near ChaldovarThe mishap crew (MC), which consisted of the mishap pilot (MP), mishap co-pilot (MCP...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DefenseNews/posts/mid-mission-refuel-during-operation-epic-fury-a-us-air-force-a-10-thunderbolt-ii/1346061390889250/](https://www.facebook.com/DefenseNews/posts/mid-mission-refuel-during-operation-epic-fury-a-us-air-force-a-10-thunderbolt-ii/1346061390889250/)  
+   Link: <a href="https://www.facebook.com/DefenseNews/posts/mid-mission-refuel-during-operation-epic-fury-a-us-air-force-a-10-thunderbolt-ii/1346061390889250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DefenseNews/posts/mid-mission-refuel-during-operation-epic-fury-a-us-air-force-a-10-thunderbolt-ii/1346061390889250/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mid-mission refuel during Operation Epic FuryU.S. Air Force KC-135 Stratotanker refueling Aircraft from the Kansas Air National Guard&#x27;s 1...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2015/sep/08/afghanistan-police-killed-us-friendly-fire-airstrike](https://www.theguardian.com/world/2015/sep/08/afghanistan-police-killed-us-friendly-fire-airstrike)  
+   Link: <a href="https://www.theguardian.com/world/2015/sep/08/afghanistan-police-killed-us-friendly-fire-airstrike" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2015/sep/08/afghanistan-police-killed-us-friendly-fire-airstrike</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Input] Afghan police deploy near the airport in Kabul, Afghanistan. Eleven of their colleagues are reported killed by friendly...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/340th-expeditionary-air-refueling-squadron-boom-operator.html](https://www.alamy.com/stock-photo/340th-expeditionary-air-refueling-squadron-boom-operator.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/340th-expeditionary-air-refueling-squadron-boom-operator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/340th-expeditionary-air-refueling-squadron-boom-operator.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force personnel conduct aerial refueling from a KC-135 Stratotanker over Afghanistan, supporting Operation Enduring Freedom and enabl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: turkiyetoday.com  
    Title: 4 dead after us kc 135 refueling aircraft crashes in western iraq 3216166  
-   Link: [https://www.turkiyetoday.com/region/4-dead-after-us-kc-135-refueling-aircraft-crashes-in-western-iraq-3216166](https://www.turkiyetoday.com/region/4-dead-after-us-kc-135-refueling-aircraft-crashes-in-western-iraq-3216166)  
+   Link: <a href="https://www.turkiyetoday.com/region/4-dead-after-us-kc-135-refueling-aircraft-crashes-in-western-iraq-3216166" target="_blank" rel="noopener noreferrer nofollow">https://www.turkiyetoday.com/region/4-dead-after-us-kc-135-refueling-aircraft-crashes-in-western-iraq-3216166</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 dead after US KC-135 refueling aircraft crashes in...13 Mar 2026 — CENTCOM said four crew members died after a US KC-135 refueling air...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qJUtzYfGE4k](https://www.youtube.com/watch?v=qJUtzYfGE4k)  
+   Link: <a href="https://www.youtube.com/watch?v=qJUtzYfGE4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJUtzYfGE4k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING: US Military Aircraft Hit? &#x27;SHOCK EMERGENCY...A U.S. Air Force KC-135 tanker reportedly triggered an emergency alert after squa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uapcaucus.com  
    Title: reconstruction of potential flight paths for the january 2015 gimbal uap  
-   Link: [https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap](https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap)  
+   Link: <a href="https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 “Gimbal” UAPJune 8, 2023 — RECONSTRUCTION OF POTENTIAL FLIGHT PATHS FOR THE...</p></details>
    Published: january 2015  
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2015/oct/02/us-denies-taliban-shot-down-cargo-plane-in-afghanistan](https://www.theguardian.com/us-news/2015/oct/02/us-denies-taliban-shot-down-cargo-plane-in-afghanistan)  
+   Link: <a href="https://www.theguardian.com/us-news/2015/oct/02/us-denies-taliban-shot-down-cargo-plane-in-afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2015/oct/02/us-denies-taliban-shot-down-cargo-plane-in-afghanistan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Input] An Afghan soldier stands guard at the crash site near Jalalabad airport. Photograph: AFP/Getty View image in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thebureauinvestigates.com  
    Title: get the data a list of us air and drone strikes afghanistan 2015  
-   Link: [https://www.thebureauinvestigates.com/drone-war/data/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2015](https://www.thebureauinvestigates.com/drone-war/data/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2015)  
+   Link: <a href="https://www.thebureauinvestigates.com/drone-war/data/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2015" target="_blank" rel="noopener noreferrer nofollow">https://www.thebureauinvestigates.com/drone-war/data/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2015</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afghanistan: Reported US air and drone strikes 2015 | TBIJAFGHANISTAN: REPORTED US AIR AND DRONE STRIKES 2015 A note on our data and meth...</p></details>

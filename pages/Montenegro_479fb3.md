@@ -1185,7 +1185,7 @@ next_link:
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
   short_title: Argentina OVNI
-date: '2026-06-09 01:34:31 '
+date: '2026-06-10 02:00:43 '
 header:
   og_image: /assets/images/Montenegro_479fb3-overview-social.jpg
   preview_image: /assets/images/Montenegro_479fb3-overview.webp
@@ -1200,9 +1200,9 @@ Multiple instances logged by civilian reporting platforms such as the *National 
 
 
 <img src="{{ "/assets/images/Montenegro_479fb3-overview.webp" | relative_url }}" alt="Overview image for Are UFOs Really Seen Over Montenegro?" loading="eager" decoding="sync" fetchpriority="high">
-* **Podgorica – April 2017:** A witness near the capital reported seeing 4–5 *shining balls in a triangular formation* moving silently across the night sky; the objects reportedly *turned and disappeared* without sound, leading the observer to rule out aircraft or meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 133825April 28, 2017...</span><span class="citation-popover-meta">Published: April 28, 2017</span></span></span>
-* **Herceg Novi – August 2017:** Two observers described a *large, symmetrical black object*, resembling a double‑sided pyramid, that *hovered silently* in daylight before vanishing without trace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=188716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 188716April 6, 2025...</span><span class="citation-popover-meta">Published: April 6, 2025</span></span></span>
-* **Danilovgrad – August 2025:** A more recent report by multiple witnesses, including a law enforcement officer, described *three circular yellow‑light objects* emerging from a mountain range at night and disappearing abruptly as if they “vanished”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 191518August 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
+* **Podgorica – April 2017:** A witness near the capital reported seeing 4–5 *shining balls in a triangular formation* moving silently across the night sky; the objects reportedly *turned and disappeared* without sound, leading the observer to rule out aircraft or meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 133825April 28, 2017...</span><span class="citation-popover-meta">Published: April 28, 2017</span></span></span>
+* **Herceg Novi – August 2017:** Two observers described a *large, symmetrical black object*, resembling a double‑sided pyramid, that *hovered silently* in daylight before vanishing without trace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=188716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 188716April 6, 2025...</span><span class="citation-popover-meta">Published: April 6, 2025</span></span></span>
+* **Danilovgrad – August 2025:** A more recent report by multiple witnesses, including a law enforcement officer, described *three circular yellow‑light objects* emerging from a mountain range at night and disappearing abruptly as if they “vanished”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 191518August 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
 
 These reports originate from civilian submitters to databases run by independent enthusiasts; such databases are **not official scientific registries** and typically **do not verify the physical reality of the phenomena or their extraterrestrial nature**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/montenegro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1210,7 +1210,7 @@ These reports originate from civilian submitters to databases run by independent
 <img src="{{ "/assets/images/Montenegro_479fb3-Illustration-1-dark.svg" | relative_url }}" alt="Are UFOs Really Seen Over Montenegro? illustration 1" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social Media and Viral Clips
 
-Over the years, social channels and local online groups intermittently circulate **amateur clips and claimed footage** of unidentified lights over places like **Berane, Podgorica, Budva and Igalo**. In one example from 2019, a video shared on Facebook depicted a moving light in the sky over **Berana**, with commentary ranging from speculation about alien visitors to jokes about *wind‑blown plastic bags*. There is **no corroborating evidence from authoritative sources** on this or similar clips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+Over the years, social channels and local online groups intermittently circulate **amateur clips and claimed footage** of unidentified lights over places like **Berane, Podgorica, Budva and Igalo**. In one example from 2019, a video shared on Facebook depicted a moving light in the sky over **Berana**, with commentary ranging from speculation about alien visitors to jokes about *wind‑blown plastic bags*. There is **no corroborating evidence from authoritative sources** on this or similar clips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO &#124; Mondo</span><span class="citation-popover-snippet">Berane snimak NLO &#124; Mondo...</span></span></span>
 
 ## Historic and Cultural Reports
 
@@ -1257,86 +1257,44 @@ Although Montenegro has its own witness reports, without formal investigation or
 <img src="{{ "/assets/images/Montenegro_479fb3-Illustration-3-dark.svg" | relative_url }}" alt="Are UFOs Really Seen Over Montenegro? illustration 3" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Are UFOs Really Seen Over Montenegro?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Are UFOs Really Seen Over Montenegro?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Broad international UFO coverage suits a country-level overview.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Addresses credible reports and government-related evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for interpreting regional UFO folklore and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides background on global sightings and recurring themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1370,75 +1328,71 @@ Although Montenegro has its own witness reports, without formal investigation or
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufos-really-seen-over-montenegro-montenegro-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1653,162 +1607,162 @@ Although Montenegro has its own witness reports, without formal investigation or
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=133825](https://nuforc.org/sighting/?id=133825)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 133825April 28, 2017...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=133825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133825</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 133825April 28, 2017...</p></details>
    Published: April 28, 2017  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=188716](https://nuforc.org/sighting/?id=188716)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 188716April 6, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=188716" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188716</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 188716April 6, 2025...</p></details>
    Published: April 6, 2025  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191518](https://nuforc.org/sighting/?id=191518)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 191518August 9, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=191518" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191518</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191518August 9, 2025...</p></details>
    Published: August 9, 2025  
 
 5. <a id="endnote-5"></a>
    Source: mondo.rs  
    Title: Berane snimak NLO | Mondo  
-   Link: [https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html](https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MondoBerane snimak NLO | Mondo...</p></details>
+   Link: <a href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow">https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Berane snimak NLO | Mondo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.vijesti.me  
    Title: General Jna's confession, military pilots from Golubovac chased the plane  
-   Link: [https://en.vijesti.me/fun/interesting/348359/General-Jna%27s-confession%2C-military-pilots-from-Golubovac-chased-the-plane](https://en.vijesti.me/fun/interesting/348359/General-Jna%27s-confession%2C-military-pilots-from-Golubovac-chased-the-plane)  
+   Link: <a href="https://en.vijesti.me/fun/interesting/348359/General-Jna%27s-confession%2C-military-pilots-from-Golubovac-chased-the-plane" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/fun/interesting/348359/General-Jna%27s-confession%2C-military-pilots-from-Golubovac-chased-the-plane</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of a JNA general: Military pilots from Golubovac chased a UFOSeptember 9, 2011...</p></details>
    Published: September 9, 2011  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 8. <a id="endnote-8"></a>
    Source: telegraf.rs  
    Title: CRNOGORC E POSETILI VANZEMALJCI: NLO iznad Podgorice?  
-   Link: [https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice](https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice)  
+   Link: <a href="https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRNOGORCE POSETILI VANZEMALJCI: NLO iznad Podgorice? - Telegraf.rsMay 11, 2013...</p></details>
    Published: May 11, 2013  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ufology](https://en.wikipedia.org/wiki/Ufology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 11. <a id="endnote-11"></a>
    Source: vijesti.me  
    Title: Neobičan let tri "gazele" iznad Tivta  
-   Link: [https://www.vijesti.me/vijesti/drustvo/223574/neobican-let-tri-gazele-iznad-tivta](https://www.vijesti.me/vijesti/drustvo/223574/neobican-let-tri-gazele-iznad-tivta)  
+   Link: <a href="https://www.vijesti.me/vijesti/drustvo/223574/neobican-let-tri-gazele-iznad-tivta" target="_blank" rel="noopener noreferrer nofollow">https://www.vijesti.me/vijesti/drustvo/223574/neobican-let-tri-gazele-iznad-tivta</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 6, 2014 — NEOBIČAN LET TRI &quot;GAZELE&quot; IZNAD TIVTA Oni koji duže pamte, prisjetili su se dijela repertoara nekadašnje helikopterske a...</p></details>
    Published: August 6, 2014  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=37545](https://nuforc.org/sighting/?id=37545)  
+   Link: <a href="https://nuforc.org/sighting/?id=37545" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=37545</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 37545June 18, 2004 — NUFORC UFO SIGHTING 37545 Occurred: 2004-06-11 22:35 Local Reported: 2004-06-12 17:23 Pacific Du...</p></details>
    Published: June 11, 2004  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=29114](https://nuforc.org/sighting/?id=29114)  
+   Link: <a href="https://nuforc.org/sighting/?id=29114" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29114</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 29114June 10, 2003 — NUFORC UFO SIGHTING 29114 Occurred: 2003-05-06 12:30 Local Reported: 2003-06-09 11:30 Pacific Du...</p></details>
    Published: May 6, 2003  
 
 14. <a id="endnote-14"></a>
    Source: en.vijesti.me  
-   Link: [https://en.vijesti.me/bbc/668806/reports-of-NLO-observations-tickled-the-curiosity-of-the-American-space-agency-NASA](https://en.vijesti.me/bbc/668806/reports-of-NLO-observations-tickled-the-curiosity-of-the-American-space-agency-NASA)  
+   Link: <a href="https://en.vijesti.me/bbc/668806/reports-of-NLO-observations-tickled-the-curiosity-of-the-American-space-agency-NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/bbc/668806/reports-of-NLO-observations-tickled-the-curiosity-of-the-American-space-agency-NASA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For the first time in nearly 76 years of America&#x27;s obsession...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: en.vijesti.me  
    Title: foto tramp objavio prethodno povjerljive dosijee o nlo ima  
-   Link: [https://en.vijesti.me/world-a/globus/807827/foto-tramp-objavio-prethodno-povjerljive-dosijee-o-nlo-ima](https://en.vijesti.me/world-a/globus/807827/foto-tramp-objavio-prethodno-povjerljive-dosijee-o-nlo-ima)  
+   Link: <a href="https://en.vijesti.me/world-a/globus/807827/foto-tramp-objavio-prethodno-povjerljive-dosijee-o-nlo-ima" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/world-a/globus/807827/foto-tramp-objavio-prethodno-povjerljive-dosijee-o-nlo-ima</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump releases previously classified UFO files8 May 2026 — US President Donald Trump and Defense Secretary Pete Hegseth have released doz...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: en.vijesti.me  
    Title: alien theories, the US military report does not confirm or deny NLO activity  
-   Link: [https://en.vijesti.me/bbc/545139/alien-theories%2C-the-US-military-report-does-not-confirm-or-deny-NLO-activity](https://en.vijesti.me/bbc/545139/alien-theories%2C-the-US-military-report-does-not-confirm-or-deny-NLO-activity)  
+   Link: <a href="https://en.vijesti.me/bbc/545139/alien-theories%2C-the-US-military-report-does-not-confirm-or-deny-NLO-activity" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/bbc/545139/alien-theories%2C-the-US-military-report-does-not-confirm-or-deny-NLO-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories: US Army Report &#x27;Neither Confirms nor...4 Jun 2021 — A US government report on UFO sightings found no evidence of extraterrestr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsAlthough often viewed as abnormal, UFO sightings are reported frequently. During the United States&#x27; init...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: telegraf.rs  
-   Link: [https://www.telegraf.rs/teme/ufo](https://www.telegraf.rs/teme/ufo)  
+   Link: <a href="https://www.telegraf.rs/teme/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/teme/ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>april * 0 * Amerikanci POGODILI NLO RAKETOM, objavljen snimak incidenta! Svedoci tvrde: &quot;Vojska uništava izveštaje&quot; * 1 * Bivši pilo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thephenomenon.app  
-   Link: [https://thephenomenon.app/montenegro/](https://thephenomenon.app/montenegro/)  
+   Link: <a href="https://thephenomenon.app/montenegro/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/montenegro/</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: kurir.rs  
-   Link: [https://www.kurir.rs/region/crna-gora/2994093/video-najcuvaniji-tajni-izvestaj-sfrj-konacno-otkriven-tito-iz-igala-pratio-poteru-za-nlo-vanzemaljci-blokirali-migove](https://www.kurir.rs/region/crna-gora/2994093/video-najcuvaniji-tajni-izvestaj-sfrj-konacno-otkriven-tito-iz-igala-pratio-poteru-za-nlo-vanzemaljci-blokirali-migove)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| KurirFebruary 12, 2018 — igra mačke i miša trajala danima (VIDEO) NAJČUVANIJI TAJNI IZVEŠTAJ SFRJ KONAČNO OTKRIVEN: TITO IZ IGALA PRATI...</p></details>
+   Link: <a href="https://www.kurir.rs/region/crna-gora/2994093/video-najcuvaniji-tajni-izvestaj-sfrj-konacno-otkriven-tito-iz-igala-pratio-poteru-za-nlo-vanzemaljci-blokirali-migove" target="_blank" rel="noopener noreferrer nofollow">https://www.kurir.rs/region/crna-gora/2994093/video-najcuvaniji-tajni-izvestaj-sfrj-konacno-otkriven-tito-iz-igala-pratio-poteru-za-nlo-vanzemaljci-blokirali-migove</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KurirFebruary 12, 2018 — igra mačke i miša trajala danima (VIDEO) NAJČUVANIJI TAJNI IZVEŠTAJ SFRJ KONAČNO OTKRIVEN: TITO IZ IGALA PRATI...</p></details>
    Published: February 12, 2018  
 
 21. <a id="endnote-21"></a>
    Source: mappr.co  
-   Link: [https://www.mappr.co/counties/montenegro-municipalities/](https://www.mappr.co/counties/montenegro-municipalities/)  
+   Link: <a href="https://www.mappr.co/counties/montenegro-municipalities/" target="_blank" rel="noopener noreferrer nofollow">https://www.mappr.co/counties/montenegro-municipalities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Municipalities of Montenegro | MapprHerceg Novi. It has a surface area of 235 square kilometers. The population... Mapped: US UFO Sighti...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: artangel.org.uk  
-   Link: [https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/](https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/)  
+   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldUFO sightings from around the world. Preliminary research for Witness, a project commissioned by Artan...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: in.pinterest.com  
-   Link: [https://in.pinterest.com/pin/montenegro--436145545136226427/](https://in.pinterest.com/pin/montenegro--436145545136226427/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>interests. Montenegro Herceg Novi · Ufo Sightings In Montenegro · Podgorica Montenegro · Blue Cave Montenegro · Perast Montenegro Old Tow...</p></details>
+   Link: <a href="https://in.pinterest.com/pin/montenegro--436145545136226427/" target="_blank" rel="noopener noreferrer nofollow">https://in.pinterest.com/pin/montenegro--436145545136226427/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>terests. Montenegro Herceg Novi · Ufo Sightings In Montenegro · Podgorica Montenegro · Blue Cave Montenegro · Perast Montenegro Old Tow...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: oxben.com.tr  
-   Link: [https://oxben.com.tr/ufo/](https://oxben.com.tr/ufo/)  
+   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pinterest.com  
-   Link: [https://www.pinterest.com/ideas/ufo-sightings-in-montenegro/902191486758/](https://www.pinterest.com/ideas/ufo-sightings-in-montenegro/902191486758/)  
+   Link: <a href="https://www.pinterest.com/ideas/ufo-sightings-in-montenegro/902191486758/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/ideas/ufo-sightings-in-montenegro/902191486758/</a>  
 
 27. <a id="endnote-27"></a>
    Source: espreso.co.rs  
-   Link: [https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video](https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video)  
+   Link: <a href="https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video" target="_blank" rel="noopener noreferrer nofollow">https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(VIDEO)November 12, 2019 — Image: NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO) Vanzemaljci, F...</p></details>
    Published: November 12, 2019  
 
 28. <a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Information. Home Helpful LinksNSA FOIA Frequently Requested Information UFO...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ufoinsight.com  
    Title: The Rasanac UFO Incident – The “Probable” UFO Landing Case  
-   Link: [https://www.ufoinsight.com/ufos/close-encounters/the-rasanac-ufo-incident](https://www.ufoinsight.com/ufos/close-encounters/the-rasanac-ufo-incident)  
+   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/the-rasanac-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/the-rasanac-ufo-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJanuary 24, 2024 — THE RASANAC UFO INCIDENT – THE “PROBABLE” UFO LANDING CASE By Marcus Lowth Image: Published Date January 24...</p></details>
    Published: January 24, 2024  

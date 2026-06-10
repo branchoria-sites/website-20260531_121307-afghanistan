@@ -239,7 +239,7 @@ next_link:
   permalink: /imphal-scramble/
   short_title: Imphal Scramble
   heading_title: What Happened Over Imphal Airport?
-date: '2026-06-09 01:29:45 '
+date: '2026-06-10 01:55:07 '
 header:
   og_image: /assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-1-social.jpg
   preview_image: /assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-1.webp
@@ -248,17 +248,17 @@ image: /assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-1-soc
 
 ## Introduction
 
-In [India]({{ 'what-do-indias-ufo-reports-really-show/' | relative_url }}), as elsewhere, reports of unidentified aerial phenomena (UAP) or “UFOs” often attract intense curiosity and emotional testimony. Yet the photographic and video *evidence* that accompanies many of these claims usually falls short of establishing a clear, extraordinary explanation. This article explores *why most UFO photos and videos remain inconclusive* from a physical‑evidence perspective while **valuing the sincerity of witnesses** who genuinely believe they captured something unusual. Understanding the limitations of visual evidence helps distinguish between what was *experienced* and what can be *substantiated*, and it guards against dismissing observers outright simply because their recordings lack scientific proof.
+In India, as elsewhere, reports of unidentified aerial phenomena (UAP) or “UFOs” often attract intense curiosity and emotional testimony. Yet the photographic and video *evidence* that accompanies many of these claims usually falls short of establishing a clear, extraordinary explanation. This article explores *why most UFO photos and videos remain inconclusive* from a physical‑evidence perspective while **valuing the sincerity of witnesses** who genuinely believe they captured something unusual. Understanding the limitations of visual evidence helps distinguish between what was *experienced* and what can be *substantiated*, and it guards against dismissing observers outright simply because their recordings lack scientific proof.
 
 
 <img src="{{ "/assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Checks illustration 1" data-theme-src-dark="{{ "/assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Visual Evidence Often Fails to Convince
 
-Many reported UFO photos and videos are ambiguous, lacking the necessary detail or context for reliable identification. Images of distant lights or shapes against a featureless sky can be alluring but are often insufficient to distinguish between ordinary objects and genuinely unexplained phenomena. Experts who analyse UFO imagery emphasize that a single photograph *alone* rarely proves anything definitive: it must be accompanied by well‑documented contextual data such as precise timing, multiple vantage points, and environmental information to be scientifically useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+Many reported UFO photos and videos are ambiguous, lacking the necessary detail or context for reliable identification. Images of distant lights or shapes against a featureless sky can be alluring but are often insufficient to distinguish between ordinary objects and genuinely unexplained phenomena. Experts who analyse UFO imagery emphasize that a single photograph *alone* rarely proves anything definitive: it must be accompanied by well‑documented contextual data such as precise timing, multiple vantage points, and environmental information to be scientifically useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
-Aerial objects photographed at a distance often appear as mere dots, streaks, or vague blobs because most cameras – including smartphones – are not designed to capture fast‑moving or small distant targets. Variables like focus issues, autofocus hunting, camera shake, zoom settings, and automatic exposure adjustments can produce misleading visuals. These limitations contribute to widespread *blurriness* and *lack of reference points* that make subsequent analysis inconclusive even when the witness sincerely believes they saw something unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+Aerial objects photographed at a distance often appear as mere dots, streaks, or vague blobs because most cameras – including smartphones – are not designed to capture fast‑moving or small distant targets. Variables like focus issues, autofocus hunting, camera shake, zoom settings, and automatic exposure adjustments can produce misleading visuals. These limitations contribute to widespread *blurriness* and *lack of reference points* that make subsequent analysis inconclusive even when the witness sincerely believes they saw something unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
-Crucially, the human eye and memory can also misremember relative size, motion, and speed under uncommon conditions, and these perceptual factors compound the challenge when trying to interpret static or dynamic imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? | The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Crucially, the human eye and memory can also misremember relative size, motion, and speed under uncommon conditions, and these perceptual factors compound the challenge when trying to interpret static or dynamic imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? &#124; The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? &#124; The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EDyZvv3D3ws" title="Congress UFO Hearing - It&#x27;s even crazier than you think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer">Congress UFO Hearing - It&#x27;s even crazier than you think</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 190.9K &middot; Uploaded: July 2023 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EDyZvv3D3ws">Open on YouTube</a></p></div></div></div>
@@ -269,8 +269,8 @@ Analysts find that many “UFO” photos and videos can be linked to **known and
 
 * **Balloons, drones, and aircraft lights:** These can look like unexplained objects when seen at distance, especially against the sky at dusk or night. By contrast, local flight paths or event balloon releases often coincide with spike periods of reports worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 * **Satellites and Starlink trains:** A line of satellites reflecting sunlight can produce strange sequences of lights that appear to move in formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.advenaresearch.com/articles/some-common-misidentifications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advenaresearch.com">[advenaresearch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advenaresearch.com</span><span class="citation-popover-title">Advena Research</span><span class="citation-popover-snippet">Advancing UAP ResearchMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
-* **Optical and sensor artifacts:** Camera lenses can produce *lens flare*, *blooming,* or *reflections* that mimic solid shape outlines. Infra‑red cameras and other sensors can exaggerate or distort heat sources in ways that make mundane objects appear anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1t7heoq/what_looks_like_a_structured_craft_in_this_flir/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWhat looks like a “structured craft” in this FLIR footage is likely a known sensor blooming artifact, not the object’s actual shape...</span></span></span>
-* **Atmospheric effects and planets:** Bright planets such as Venus or Jupiter, meteors, or atmospheric refraction phenomena can appear as slowly moving or hovering points of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? | The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+* **Optical and sensor artifacts:** Camera lenses can produce *lens flare*, *blooming,* or *reflections* that mimic solid shape outlines. Infra‑red cameras and other sensors can exaggerate or distort heat sources in ways that make mundane objects appear anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1t7heoq/what_looks_like_a_structured_craft_in_this_flir/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What looks like a “structured craft” in this FLIR footage is likely a known sensor blooming artifact, not the object’s actual shape...</span></span></span>
+* **Atmospheric effects and planets:** Bright planets such as Venus or Jupiter, meteors, or atmospheric refraction phenomena can appear as slowly moving or hovering points of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? &#124; The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? &#124; The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 These conventional explanations are not meant to dismiss individual experiences but to show how easily objective visual data can be misread without careful cross‑checking against other information.
 
@@ -308,93 +308,51 @@ Without such multi‑sensor corroboration, visual evidence, no matter how compel
 <img src="{{ "/assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Checks illustration 3" data-theme-src-dark="{{ "/assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_ufo_evidence_checks_4ec399-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
-In India and around the world, the gap between what witnesses see and what evidence can be scientifically validated often stems from the limitations of photographic and video documentation rather than witness credibility. Recognising common misidentifications and technical artefacts makes it easier to appreciate why most UFO images remain unresolved, while still honouring the commitment of those who report unusual sky phenomena. The distinction between *unidentified* and *unexplainable* evidence is central here: identifying the limits of data does not diminish the lived experience, but it clarifies what claims the available evidence can reliably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs | BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs | BUFORA</span></span></span>
+In India and around the world, the gap between what witnesses see and what evidence can be scientifically validated often stems from the limitations of photographic and video documentation rather than witness credibility. Recognising common misidentifications and technical artefacts makes it easier to appreciate why most UFO images remain unresolved, while still honouring the commitment of those who report unusual sky phenomena. The distinction between *unidentified* and *unexplainable* evidence is central here: identifying the limits of data does not diminish the lived experience, but it clarifies what claims the available evidence can reliably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-title">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO Photographs &#124; BUFORA</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdf9CCEypFk" title="The UFO Evidence I&#x27;m Taking Seriously" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer">The UFO Evidence I&#x27;m Taking Seriously</a></p><p class="youtube-embed-meta">Channel: Astrum Extra &middot; Views: 495.5K &middot; Uploaded: October 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdf9CCEypFk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Most UFO Photos Stay Unproven. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Most UFO Photos Stay Unproven, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines how sightings should be assessed scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Specifically examines physical-evidence claims and limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights stronger cases with multiple forms of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly addresses evidence standards and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -428,75 +386,71 @@ In India and around the world, the gap between what witnesses see and what evide
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-why-most-ufo-photos-stay-unproven-india-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -711,41 +665,41 @@ In India and around the world, the gap between what witnesses see and what evide
 1. <a id="endnote-1"></a>
    Source: bufora.org.uk  
    Title: BUFORAAnalysis of UFO Photographs | BUFORA  
-   Link: [https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs](https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs)  
+   Link: <a href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs</a>  
 
 2. <a id="endnote-2"></a>
    Source: planetary.org  
    Title: The Planetary Society Are UFOs or UAPs real? | The Planetary Society  
-   Link: [https://www.planetary.org/articles/are-ufos-or-uaps-real](https://www.planetary.org/articles/are-ufos-or-uaps-real)  
+   Link: <a href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/are-ufos-or-uaps-real</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
 3. <a id="endnote-3"></a>
    Source: advenaresearch.com  
    Title: Advena Research  
-   Link: [https://www.advenaresearch.com/articles/some-common-misidentifications](https://www.advenaresearch.com/articles/some-common-misidentifications)  
+   Link: <a href="https://www.advenaresearch.com/articles/some-common-misidentifications" target="_blank" rel="noopener noreferrer nofollow">https://www.advenaresearch.com/articles/some-common-misidentifications</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing UAP ResearchMay 12, 2026...</p></details>
    Published: May 12, 2026  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1t7heoq/what_looks_like_a_structured_craft_in_this_flir/](https://www.reddit.com/r/UFOs/comments/1t7heoq/what_looks_like_a_structured_craft_in_this_flir/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhat looks like a “structured craft” in this FLIR footage is likely a known sensor blooming artifact, not the object’s actual shape...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t7heoq/what_looks_like_a_structured_craft_in_this_flir/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t7heoq/what_looks_like_a_structured_craft_in_this_flir/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What looks like a “structured craft” in this FLIR footage is likely a known sensor blooming artifact, not the object’s actual shape...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: simpli.com  
    Title: How to Verify If a UFO Sighting Is Authentic  
-   Link: [https://www.simpli.com/people/verify-ufo-sighting-authentic](https://www.simpli.com/people/verify-ufo-sighting-authentic)  
+   Link: <a href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow">https://www.simpli.com/people/verify-ufo-sighting-authentic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10, 2026...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bufora.org.uk  
    Title: BUFORAGUIDE TO UFOS | BUFORA  
-   Link: [https://www.bufora.org.uk/guide-to-ufos](https://www.bufora.org.uk/guide-to-ufos)  
+   Link: <a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026...</p></details>
    Published: May 11, 2026  
 
@@ -753,66 +707,66 @@ In India and around the world, the gap between what witnesses see and what evide
 
 8. <a id="endnote-8"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/ufos-look-a-lot-more-like-spying-than-extraterrestrials/](https://www.scientificamerican.com/article/ufos-look-a-lot-more-like-spying-than-extraterrestrials/)  
+   Link: <a href="https://www.scientificamerican.com/article/ufos-look-a-lot-more-like-spying-than-extraterrestrials/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ufos-look-a-lot-more-like-spying-than-extraterrestrials/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 16, 2023 — Chinese Spy Balloon Saga Shows UFOs Deserve Serious Investigations By shunting pilot observations aside, the Pentagon...</p></details>
    Published: February 16, 2023  
 
 9. <a id="endnote-9"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense’s All-Domain Anomaly Resolution Office (AARO), established in 2022. Speaking before the panel, he emphasized th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 November / December 2018 The important things to remember about UFOs are, first, that they are just alleged sightings th...</p></details>
    Published: December 2018  
 
 11. <a id="endnote-11"></a>
    Source: newspaceeconomy.ca  
    Title: The Truth Behind Fake Flying Saucers: Understanding UFO Hoaxes  
-   Link: [https://newspaceeconomy.ca/2025/02/16/the-truth-behind-fake-flying-saucers-understanding-ufo-hoaxes/](https://newspaceeconomy.ca/2025/02/16/the-truth-behind-fake-flying-saucers-understanding-ufo-hoaxes/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/02/16/the-truth-behind-fake-flying-saucers-understanding-ufo-hoaxes/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/16/the-truth-behind-fake-flying-saucers-understanding-ufo-hoaxes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 19, 2026 — COMMON CHARACTERISTICS OF UFO HOAXES While UFO hoaxes can manifest in a wide variety of forms, from crude...</p></details>
    Published: May 19, 2026  
 
 12. <a id="endnote-12"></a>
    Source: nextgov.com  
    Title: Why people tend to believe UFOs are extraterrestrial  
-   Link: [https://www.nextgov.com/ideas/2023/07/why-people-tend-believe-ufos-are-extraterrestrial/388560/](https://www.nextgov.com/ideas/2023/07/why-people-tend-believe-ufos-are-extraterrestrial/388560/)  
+   Link: <a href="https://www.nextgov.com/ideas/2023/07/why-people-tend-believe-ufos-are-extraterrestrial/388560/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/07/why-people-tend-believe-ufos-are-extraterrestrial/388560/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWJuly 18, 2023 — WHY PEOPLE TEND TO BELIEVE UFOS ARE EXTRATERRESTRIAL ImageImage By Barry Markovsky, Distinguished Professor Em...</p></details>
    Published: July 18, 2023  
 
 13. <a id="endnote-13"></a>
    Source: revlox.com  
    Title: How to Evaluate UFO Videos Without Jumping to Aliens  
-   Link: [https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/](https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/)  
+   Link: <a href="https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2026 — Image: How to Evaluate UFO Videos How to Evaluate UFO Videos Weird World 13 Apr 2026 HOW TO EVALUATE UFO VIDEOS WITHOUT...</p></details>
    Published: April 13, 2026  
 
 14. <a id="endnote-14"></a>
    Source: scientificamerican.com  
    Title: A Word about Those UFO Videos | Scientific American  
-   Link: [https://www.scientificamerican.com/blog/observations/a-word-about-those-ufo-videos/](https://www.scientificamerican.com/blog/observations/a-word-about-those-ufo-videos/)  
+   Link: <a href="https://www.scientificamerican.com/blog/observations/a-word-about-those-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/blog/observations/a-word-about-those-ufo-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2020 — Opinion May 6, 2020 Add Us On GoogleAdd SciAm A Word about Those UFO Videos I’m an astrophysicist, but that doesn’t mean I...</p></details>
    Published: May 6, 2020  
 
 15. <a id="endnote-15"></a>
    Source: realclearscience.com  
    Title: Surveys show that nearly half of Americans  
-   Link: [https://www.realclearscience.com/articles/2020/12/07/why_ufo_sightings_arent_persuasive_652151.html](https://www.realclearscience.com/articles/2020/12/07/why_ufo_sightings_arent_persuasive_652151.html)  
+   Link: <a href="https://www.realclearscience.com/articles/2020/12/07/why_ufo_sightings_arent_persuasive_652151.html" target="_blank" rel="noopener noreferrer nofollow">https://www.realclearscience.com/articles/2020/12/07/why_ufo_sightings_arent_persuasive_652151.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Sightings Aren&#x27;t Persuasive | RealClearScienceDecember 7, 2020 — WHY UFO SIGHTINGS AREN&#x27;T PERSUASIVE By Chris Impey If intelligen...</p></details>
    Published: December 7, 2020  
 
 16. <a id="endnote-16"></a>
    Source: scientificamerican.com  
    Title: advanced technology programs, the forth  
-   Link: [https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/](https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/)  
+   Link: <a href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021 — June 8, 2021 9 min read Add Us On GoogleAdd SciAm Experts Wei...</p></details>
    Published: June 8, 2021  
 
 17. <a id="endnote-17"></a>
    Source: newspaceeconomy.ca  
    Title: Why Do We Think UFOs Are Alien?  
-   Link: [https://newspaceeconomy.ca/2025/11/10/why-do-we-think-ufos-are-alien/](https://newspaceeconomy.ca/2025/11/10/why-do-we-think-ufos-are-alien/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/11/10/why-do-we-think-ufos-are-alien/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/10/why-do-we-think-ufos-are-alien/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 11, 2026 — THE PROSAIC SKY: WHAT MOST UFOS REALLY ARE To maintain an objective perspective, it is essential to ackno...</p></details>
    Published: May 11, 2026  

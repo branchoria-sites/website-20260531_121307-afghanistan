@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-e320d1/
   short_title: Records Gap
   heading_title: Why Burundi Has No Clear UFO File
-date: '2026-06-09 01:23:02 '
+date: '2026-06-10 01:47:31 '
 header:
   og_image: /assets/images/Burundi_461758_mundane_explanations_53a83b-Illustration-1-social.jpg
   preview_image: /assets/images/Burundi_461758_mundane_explanations_53a83b-Illustration-1.webp
@@ -285,7 +285,7 @@ This approach mirrors how professional astronomy and aviation investigators hand
 
 The strongest mundane explanation for many Burundi sky reports is aviation activity around Bujumbura.
 
-Melchior Ndadaye International Airport is Burundi’s primary international airport and the country’s only major paved-runway facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Melchior Ndadaye International Airport</span><span class="citation-popover-snippet">Melchior Ndadaye International Airport</span></span></span> Flights operate in and out of the city on regional routes linking Burundi with East African hubs including Nairobi, Kigali, Entebbe and Addis Ababa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kiwi.com">[Kiwi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kiwi.com</span><span class="citation-popover-snippet">KiwiFlights from Bujumbura International airportFind flights from Bujumbura International airport to popular destinations on Kiwi.com. Co...</span></span></span>
+Melchior Ndadaye International Airport is Burundi’s primary international airport and the country’s only major paved-runway facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Melchior Ndadaye International Airport</span><span class="citation-popover-snippet">Melchior Ndadaye International Airport</span></span></span> Flights operate in and out of the city on regional routes linking Burundi with East African hubs including Nairobi, Kigali, Entebbe and Addis Ababa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kiwi.com">[Kiwi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kiwi.com</span><span class="citation-popover-snippet">Flights from Bujumbura International airportFind flights from Bujumbura International airport to popular destinations on Kiwi.com. Co...</span></span></span>
 
 That matters because aircraft can appear deeply unusual at night, especially to observers without a clear sense of distance or flight direction.
 
@@ -304,7 +304,7 @@ Several normal aviation features are commonly mistaken for unusual craft:
 
 </div>
 
-The FAA’s international flight information for Burundi confirms that night flights are authorised at [Bujumbura airport]({{ 'bujumbura/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Island Hopping. The IFIM Staff is not aware of any Island Hopping requirements or...Read more...</span></span></span> Airport references also note high-intensity lighting systems and instrument approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acukwik.com/Airports/BURUNDI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acukwik.com">[AC-U-KWIK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acukwik.com</span><span class="citation-popover-snippet">11811 x 148, 17/35. Runway Surface. Asphalt. PCN. INTERNATIONAL. Local Standard Time. 2:38:15 PM. More Airport Information (Click...</span></span></span> These are precisely the conditions that can generate striking night-time light sightings.
+The FAA’s international flight information for Burundi confirms that night flights are authorised at Bujumbura airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Island Hopping. The IFIM Staff is not aware of any Island Hopping requirements or...Read more...</span></span></span> Airport references also note high-intensity lighting systems and instrument approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acukwik.com/Airports/BURUNDI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acukwik.com">[AC-U-KWIK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acukwik.com</span><span class="citation-popover-snippet">11811 x 148, 17/35. Runway Surface. Asphalt. PCN. INTERNATIONAL. Local Standard Time. 2:38:15 PM. More Airport Information (Click...</span></span></span> These are precisely the conditions that can generate striking night-time light sightings.
 
 An observer standing along the lakeshore may see an approaching aircraft reflected through haze or low cloud layers, producing the impression of a glowing object hovering over the water. If the aircraft then turns, the light can appear to “jump” suddenly across the sky.
 
@@ -404,13 +404,13 @@ These mirages can make:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * boats appear suspended above the water
-* shoreline lights look airborne <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookCrazy night on Lake Ontario last night! The lights...Crazy night on Lake Ontario last night! The lights from the Canadian shorel...</span></span></span>
+* shoreline lights look airborne <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Crazy night on Lake Ontario last night! The lights...Crazy night on Lake Ontario last night! The lights from the Canadian shorel...</span></span></span>
 * distant buildings appear stretched or duplicated
 * moving lights seem to hover or pulse
 
 </div>
 
-Similar effects are well documented over large lakes elsewhere in the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/interestingengineering/posts/the-fireball-flying-over-the-us-sky-wasnt-a-meteor-but-chinas-space-junk-making-/1014422927395811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the fireball flying over the us sky wasnt a meteor but chinas space junk making</span><span class="citation-popover-snippet">According to astronomers, it was a Chinese Satellite, SuperView 1:02, reentering the atmosphere...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookCrazy night on Lake Ontario last night! The lights...Crazy night on Lake Ontario last night! The lights from the Canadian shorel...</span></span></span> There is no reason Lake Tanganyika would be exempt from the same atmospheric behaviour.
+Similar effects are well documented over large lakes elsewhere in the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/interestingengineering/posts/the-fireball-flying-over-the-us-sky-wasnt-a-meteor-but-chinas-space-junk-making-/1014422927395811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the fireball flying over the us sky wasnt a meteor but chinas space junk making</span><span class="citation-popover-snippet">According to astronomers, it was a Chinese Satellite, SuperView 1:02, reentering the atmosphere...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Crazy night on Lake Ontario last night! The lights...Crazy night on Lake Ontario last night! The lights from the Canadian shorel...</span></span></span> There is no reason Lake Tanganyika would be exempt from the same atmospheric behaviour.
 
 Because Bujumbura sits directly beside the lake, observers can encounter these distortions without realising that weather conditions are altering what they see.
 
@@ -429,7 +429,7 @@ A bright aircraft low on the horizon can appear:
 
 The classic “hovering orb” description often fits a distant aircraft viewed through haze while flying toward the observer.
 
-Light from fishing activity can also contribute to confusion. Studies of Lake Tanganyika describe the widespread use of powerful lighting systems in night fishing operations, including modern LED lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31639142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAdoption and consequences of new light-fishing...by H Mgana · 2019 · Cited by 34 — Thus, the primary effect of the use of battery...</span></span></span> From shore, these lights can look detached from boats under certain weather conditions, especially when reflections and low cloud are involved.
+Light from fishing activity can also contribute to confusion. Studies of Lake Tanganyika describe the widespread use of powerful lighting systems in night fishing operations, including modern LED lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31639142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adoption and consequences of new light-fishing...by H Mgana · 2019 · Cited by 34 — Thus, the primary effect of the use of battery...</span></span></span> From shore, these lights can look detached from boats under certain weather conditions, especially when reflections and low cloud are involved.
 
 ## Why sincere witnesses can still misidentify what they saw
 
@@ -477,86 +477,44 @@ Without those elements, most Burundi UFO stories remain better understood as uni
 The important distinction is between “unidentified” and “unexplainable”. In Burundi’s case, the available evidence points much more strongly toward ordinary aviation, astronomy, and atmospheric explanations than toward exotic craft or hidden phenomena.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Could Burundi UFO Reports Really Be?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Could Burundi UFO Reports Really Be?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Examines conventional explanations alongside unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Explains ordinary causes behind UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides astronomy background relevant to sky sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Strong foundation for understanding misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -590,75 +548,71 @@ The important distinction is between “unidentified” and “unexplainable”.
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PROG ROCK METAL T-SHIRT unisex S-3XL"><img src="{{ '/assets/images/marketplace-covers/006b3c1e1415c091c9f2.jpg' | relative_url }}" alt="Listing image for UFO PROG ROCK METAL T-SHIRT unisex S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO PROG ROCK METAL T-SHIRT unisex S-3XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-97105f-what-could-burundi-ufo-reports-really-be-burundi-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -872,163 +826,163 @@ The important distinction is between “unidentified” and “unexplainable”.
 
 1. <a id="endnote-1"></a>
    Source: astronomycenter.net  
-   Link: [https://astronomycenter.net/srw/index.html](https://astronomycenter.net/srw/index.html)  
+   Link: <a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These are usually linked...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Melchior Ndadaye International Airport  
-   Link: [https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport](https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport</a>  
 
 3. <a id="endnote-3"></a>
    Source: kiwi.com  
-   Link: [https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/](https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KiwiFlights from Bujumbura International airportFind flights from Bujumbura International airport to popular destinations on Kiwi.com. Co...</p></details>
+   Link: <a href="https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Bujumbura International airportFind flights from Bujumbura International airport to popular destinations on Kiwi.com. Co...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf](https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/BI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Island Hopping. The IFIM Staff is not aware of any Island Hopping requirements or...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: breakingburundi.com  
    Title: BREAKING BURUNDIBurundi Halts Night Flights at Melchior Ndadaye Airport  
-   Link: [https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/](https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/)  
+   Link: <a href="https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/" target="_blank" rel="noopener noreferrer nofollow">https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 13, 2024 — Burundi has announced the temporary suspension of night flights at Melchior Ndadaye International Airport due to ongo...</p></details>
    Published: December 13, 2024  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/andikamagazine/posts/runway-rehabilitation-completed-at-melchior-ndadaye-international-airportthe-reh/1366681555469737/](https://www.facebook.com/andikamagazine/posts/runway-rehabilitation-completed-at-melchior-ndadaye-international-airportthe-reh/1366681555469737/)  
+   Link: <a href="https://www.facebook.com/andikamagazine/posts/runway-rehabilitation-completed-at-melchior-ndadaye-international-airportthe-reh/1366681555469737/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/andikamagazine/posts/runway-rehabilitation-completed-at-melchior-ndadaye-international-airportthe-reh/1366681555469737/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y is expected to improve safety, operational efficiency, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: the fireball flying over the us sky wasnt a meteor but chinas space junk making  
-   Link: [https://www.facebook.com/interestingengineering/posts/the-fireball-flying-over-the-us-sky-wasnt-a-meteor-but-chinas-space-junk-making-/1014422927395811/](https://www.facebook.com/interestingengineering/posts/the-fireball-flying-over-the-us-sky-wasnt-a-meteor-but-chinas-space-junk-making-/1014422927395811/)  
+   Link: <a href="https://www.facebook.com/interestingengineering/posts/the-fireball-flying-over-the-us-sky-wasnt-a-meteor-but-chinas-space-junk-making-/1014422927395811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/the-fireball-flying-over-the-us-sky-wasnt-a-meteor-but-chinas-space-junk-making-/1014422927395811/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to astronomers, it was a Chinese Satellite, SuperView 1:02, reentering the atmosphere...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: [https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29](https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 14, 2005 — Fata Morgana mirages also show alternating compressed and stretched zones. The optical phenomenon occurs because rays o...</p></details>
    Published: August 14, 2005  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/](https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookCrazy night on Lake Ontario last night! The lights...Crazy night on Lake Ontario last night! The lights from the Canadian shorel...</p></details>
+   Link: <a href="https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanusPhotography/posts/crazy-night-on-lake-ontario-last-night-the-lights-from-the-canadian-shoreline-br/3915673011821011/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crazy night on Lake Ontario last night! The lights...Crazy night on Lake Ontario last night! The lights from the Canadian shorel...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/](https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/)  
+   Link: <a href="https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/igihe/posts/telecommunication-failures-at-bujumbura-airport-disrupt-flights-including-presid/1311130124376711/](https://www.facebook.com/igihe/posts/telecommunication-failures-at-bujumbura-airport-disrupt-flights-including-presid/1311130124376711/)  
+   Link: <a href="https://www.facebook.com/igihe/posts/telecommunication-failures-at-bujumbura-airport-disrupt-flights-including-presid/1311130124376711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/igihe/posts/telecommunication-failures-at-bujumbura-airport-disrupt-flights-including-presid/1311130124376711/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sidential travel. Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tanganyikalinkstours/videos/welcomed-to-burundi-melchior-ndadaye-international-airport-bujumbura-visitburund/410316698213841/](https://www.facebook.com/tanganyikalinkstours/videos/welcomed-to-burundi-melchior-ndadaye-international-airport-bujumbura-visitburund/410316698213841/)  
+   Link: <a href="https://www.facebook.com/tanganyikalinkstours/videos/welcomed-to-burundi-melchior-ndadaye-international-airport-bujumbura-visitburund/410316698213841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tanganyikalinkstours/videos/welcomed-to-burundi-melchior-ndadaye-international-airport-bujumbura-visitburund/410316698213841/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>urundi #welcome #Bujumbura...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: Spring is mirage season on Lake Ontario  
-   Link: [https://www.facebook.com/ericsnitilwx/posts/spring-is-mirage-season-on-lake-ontario-what-youre-looking-at-here-isnt-real-its/1200162688142794/](https://www.facebook.com/ericsnitilwx/posts/spring-is-mirage-season-on-lake-ontario-what-youre-looking-at-here-isnt-real-its/1200162688142794/)  
+   Link: <a href="https://www.facebook.com/ericsnitilwx/posts/spring-is-mirage-season-on-lake-ontario-what-youre-looking-at-here-isnt-real-its/1200162688142794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ericsnitilwx/posts/spring-is-mirage-season-on-lake-ontario-what-youre-looking-at-here-isnt-real-its/1200162688142794/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What you&#x27;re...Spring is mirage season on Lake Ontario. What you&#x27;re looking at here isn&#x27;t real. It&#x27;s an illusion, created by sharp temper...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: CHEC K THIS OUT!  
-   Link: [https://www.facebook.com/KHOU11/posts/check-this-out-was-it-a-comet-possible-space-junk-whatever-it-was-our-sister-sta/10160502947584062/](https://www.facebook.com/KHOU11/posts/check-this-out-was-it-a-comet-possible-space-junk-whatever-it-was-our-sister-sta/10160502947584062/)  
+   Link: <a href="https://www.facebook.com/KHOU11/posts/check-this-out-was-it-a-comet-possible-space-junk-whatever-it-was-our-sister-sta/10160502947584062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHOU11/posts/check-this-out-was-it-a-comet-possible-space-junk-whatever-it-was-our-sister-sta/10160502947584062/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was it a comet? Possible space junk?...✨ Southern Skies Light Up: Satellite Re-Entry Mistaken for Meteor Showers!... php/news/34033-mys...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in the... meteor firebal...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: acukwik.com  
-   Link: [https://acukwik.com/Airports/BURUNDI](https://acukwik.com/Airports/BURUNDI)  
+   Link: <a href="https://acukwik.com/Airports/BURUNDI" target="_blank" rel="noopener noreferrer nofollow">https://acukwik.com/Airports/BURUNDI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11811 x 148, 17/35. Runway Surface. Asphalt. PCN. INTERNATIONAL. Local Standard Time. 2:38:15 PM. More Airport Information (Click...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31639142/](https://pubmed.ncbi.nlm.nih.gov/31639142/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAdoption and consequences of new light-fishing...by H Mgana · 2019 · Cited by 34 — Thus, the primary effect of the use of battery...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31639142/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31639142/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adoption and consequences of new light-fishing...by H Mgana · 2019 · Cited by 34 — Thus, the primary effect of the use of battery...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=y6Euxa6-ndk](https://www.youtube.com/watch?v=y6Euxa6-ndk)  
+   Link: <a href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6Euxa6-ndk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how they work! From simple water on the road to...... air can bend light to form a mirage, and look at the details behind how one of the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: peterzarkob.com  
    Title: Melchior Ndadaye International Airport  
-   Link: [https://peterzarkob.com/locations/melchior-ndadaye-international-airport/](https://peterzarkob.com/locations/melchior-ndadaye-international-airport/)  
+   Link: <a href="https://peterzarkob.com/locations/melchior-ndadaye-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://peterzarkob.com/locations/melchior-ndadaye-international-airport/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peter ZarkobThe airport features a single asphalt runway, designated 17/35, measuring 3.600 meters in length and 45 meters in width, allo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia word frequencies.txt  
-   Link: [https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt](https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt)  
+   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_word_frequencies.txt... lake 314715 points 314655 la 314504 events 314496 across 313069 police... ufo 6158 lose...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: albajet.com  
-   Link: [https://www.albajet.com/private-jet/burundi-bi/bujumbura-hbba](https://www.albajet.com/private-jet/burundi-bi/bujumbura-hbba)  
+   Link: <a href="https://www.albajet.com/private-jet/burundi-bi/bujumbura-hbba" target="_blank" rel="noopener noreferrer nofollow">https://www.albajet.com/private-jet/burundi-bi/bujumbura-hbba</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeroport De Bujumbura Private Jet CharterCharter a Private Jet to or from Bujumbura, Burundi ✈ Instantly compare the prices of over 5.000...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: skyscanner.com  
-   Link: [https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures](https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures)  
+   Link: <a href="https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura (BJM) Arrivals and Departures | Live Flight StatusCheck the status of your domestic or international Bujumbura (BJM) flight wit...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: skyscanner.net  
-   Link: [https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures](https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyscannerBujumbura Airport (BJM) Arrivals and DeparturesCheck the status of your domestic or international Bujumbura (BJM) flight with t...</p></details>
+   Link: <a href="https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) Arrivals and DeparturesCheck the status of your domestic or international Bujumbura (BJM) flight with t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kupi.com  
-   Link: [https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport](https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) guide – Melchior Ndadaye infoComplete guide to Melchior Ndadaye International Airport in Burundi. Find terminal d...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: universalweather.com  
-   Link: [https://www.universalweather.com/airports/HBBA-BJM-BUJUMBURA-INTERNATIONAL-AIRPORT-BUJUMBURA-BUJUMBURA-BURUNDI/](https://www.universalweather.com/airports/HBBA-BJM-BUJUMBURA-INTERNATIONAL-AIRPORT-BUJUMBURA-BUJUMBURA-BURUNDI/)  
+   Link: <a href="https://www.universalweather.com/airports/HBBA-BJM-BUJUMBURA-INTERNATIONAL-AIRPORT-BUJUMBURA-BUJUMBURA-BURUNDI/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/airports/HBBA-BJM-BUJUMBURA-INTERNATIONAL-AIRPORT-BUJUMBURA-BUJUMBURA-BURUNDI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Weather and AviationBujumbura Intl Airport (HBBA/BJM)Detailed airport and FBO/ground handling information for Bujumbura Intl ai...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: courses.cs.duke.edu  
-   Link: [https://courses.cs.duke.edu/fall14/compsci101/assign/assign5/code/lowerwords.txt](https://courses.cs.duke.edu/fall14/compsci101/assign/assign5/code/lowerwords.txt)  
+   Link: <a href="https://courses.cs.duke.edu/fall14/compsci101/assign/assign5/code/lowerwords.txt" target="_blank" rel="noopener noreferrer nofollow">https://courses.cs.duke.edu/fall14/compsci101/assign/assign5/code/lowerwords.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>duke.edulowerwords.txt... aircraft airdrop airdrops aired airedale airer airers aires airfare airfield... aliens alight align aligned al...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: [https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html](https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HyperPhysicsMirages and other atomospheric optic phenomenaMirages are produced by atmospheric refraction and are mainly seen in settings...</p></details>
+   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirages and other atomospheric optic phenomenaMirages are produced by atmospheric refraction and are mainly seen in settings...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: openaccessgovernment.org  
-   Link: [https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/](https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/)  
+   Link: <a href="https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/" target="_blank" rel="noopener noreferrer nofollow">https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining a meteor fireball: Research challenges claims...8 Mar 2024 — “Whatever was found on the sea floor is totally unrelated to this...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: forums.x-plane.org  
    Title: 59631 hbba bujumbura melchior ndadaye international airportburundi  
-   Link: [https://forums.x-plane.org/files/file/59631-hbba-bujumbura-melchior-ndadaye-international-airportburundi/](https://forums.x-plane.org/files/file/59631-hbba-bujumbura-melchior-ndadaye-international-airportburundi/)  
+   Link: <a href="https://forums.x-plane.org/files/file/59631-hbba-bujumbura-melchior-ndadaye-international-airportburundi/" target="_blank" rel="noopener noreferrer nofollow">https://forums.x-plane.org/files/file/59631-hbba-bujumbura-melchior-ndadaye-international-airportburundi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Melchior Ndadaye International Airport...Mar 29, 2020 — Melchior Ndadaye International Airport (IATA: BJM, ICAO: HBBA) is an...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thegreatlakeseye.com  
-   Link: [https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113](https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113)  
+   Link: <a href="https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113" target="_blank" rel="noopener noreferrer nofollow">https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ews and passengers increasingly vulnerable during take off and landing operations...</p></details>

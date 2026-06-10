@@ -245,7 +245,7 @@ next_link:
   permalink: /tanjung-sepat/
   short_title: Tanjung Sepat
   heading_title: Why Tanjung Sepat Became Malaysia's Big UFO Case
-date: '2026-06-09 01:33:01 '
+date: '2026-06-10 01:58:35 '
 header:
   og_image: /assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-social.jpg
   preview_image: /assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1
 
 ## Introduction
 
-[Malaysia]({{ 'what-do-malaysias-ufo-stories-really/' | relative_url }})’s earliest UFO folklore did not begin with radar operators, military pilots, or leaked government files. It began in schoolyards. During the late 1960s and 1970s, a cluster of stories emerged in which children reported miniature flying saucers, tiny humanoid occupants, and brief encounters on or near school grounds. These reports became some of the most distinctive episodes in Malaysian UFO history because they combined two unusual elements: child witnesses and extremely small “little men” figures, sometimes described as only a few inches tall.
+Malaysia’s earliest UFO folklore did not begin with radar operators, military pilots, or leaked government files. It began in schoolyards. During the late 1960s and 1970s, a cluster of stories emerged in which children reported miniature flying saucers, tiny humanoid occupants, and brief encounters on or near school grounds. These reports became some of the most distinctive episodes in Malaysian UFO history because they combined two unusual elements: child witnesses and extremely small “little men” figures, sometimes described as only a few inches tall.
 
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-dark.svg" | relative_url }}" alt="Schoolyard Tales illustration 1" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,9 +305,9 @@ The growth of the narrative demonstrates a common pattern in UFO folklore. A rel
 
 Bukit Mertajam was not presented as an isolated incident. Contemporary and later accounts repeatedly referred to other Malaysian school encounters involving miniature beings.
 
-One report mentioned a similar episode near Johor Bahru in which boys allegedly saw a small UFO and tiny occupants on school grounds. According to later retellings, a scorched patch of earth was reportedly found after the sighting, although documentation is sparse and surviving evidence is limited to secondary summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene | &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
+One report mentioned a similar episode near Johor Bahru in which boys allegedly saw a small UFO and tiny occupants on school grounds. According to later retellings, a scorched patch of earth was reportedly found after the sighting, although documentation is sparse and surviving evidence is limited to secondary summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene &#124; &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
 
-Another frequently cited case is linked to the Kuantan area. Later UFO catalogues claim that schoolboys encountered tiny humanoids at a school compound and that one creature was briefly captured before escaping. The story has circulated widely in paranormal databases but lacks the strong contemporary press footprint that makes Bukit Mertajam comparatively easier to trace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene | &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
+Another frequently cited case is linked to the Kuantan area. Later UFO catalogues claim that schoolboys encountered tiny humanoids at a school compound and that one creature was briefly captured before escaping. The story has circulated widely in paranormal databases but lacks the strong contemporary press footprint that makes Bukit Mertajam comparatively easier to trace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene &#124; &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
 
 The motif also appears in references to further Bukit Mertajam incidents during the 1970s. Some accounts describe repeated appearances of miniature craft around schools and nearby settlements. Because many of these reports survive mainly through UFO enthusiasts' archives rather than original newspaper collections, it is difficult to establish how many represent separate events and how many are retellings of the same core story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
 
@@ -352,86 +352,44 @@ From an evidential perspective, the picture is much less impressive. The cases d
 That does not make the stories worthless. Instead, it changes their significance. They are best understood as a distinctive chapter in Malaysia's UFO folklore: a period when schoolyards rather than airports became the stage for extraordinary claims, and when the country's most famous extraterrestrial visitors were not towering beings from giant spacecraft but tiny figures said to have stepped from miniature flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Malaysian UFO Tales Began in Schoolyards. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Malaysian UFO Tales Began in Schoolyards, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Explores historical anomalous sightings and cultural interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
-        
-        <p class="fr-book-desc">Provides broader UFO context around witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Contains many historical humanoid and schoolyard-style reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Strong fit for child-witness stories, folklore, and humanoid encounter traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -465,75 +423,71 @@ That does not make the stories worthless. Instead, it changes their significance
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schoolyard-tales-why-malaysian-ufo-tales-began-in-schoolyards-malaysia-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -748,64 +702,64 @@ That does not make the stories worthless. Instead, it changes their significance
 1. <a id="endnote-1"></a>
    Source: lingthemerciless.blogspot.com  
    Title: Aliens and UFOs  
-   Link: [https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html](https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html)  
+   Link: <a href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow">https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cilisos.my  
    Title: Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…  
-   Link: [https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/](https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/)  
+   Link: <a href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tall-white-aliens.com  
    Title: The Malaysian UFO Scene | "Tall-White" aliens CASE 1  
-   Link: [https://www.tall-white-aliens.com/the-malaysian-ufo-scene/](https://www.tall-white-aliens.com/the-malaysian-ufo-scene/)  
+   Link: <a href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.tall-white-aliens.com/the-malaysian-ufo-scene/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/documents/doc1038.htm](https://www.ufoevidence.org/documents/doc1038.htm)  
+   Link: <a href="https://www.ufoevidence.org/documents/doc1038.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1038.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanoid Encounters In MalaysiaOne small burnt patch on the ground was found. The UFO was gone.... Two schoolboys claimed to have seen t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: zulheimymaamor.blogspot.com  
    Title: ufo di malaysia  
-   Link: [https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html](https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html)  
+   Link: <a href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow">https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IN MALAYSIA10 Jan 2024 — August 1970 - six young boys at Stowell Primary School in Bukit Mertajam, Penang claimed to see a tiny flyin...</p></details>
    Published: August 1970  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Little green men  
-   Link: [https://en.wikipedia.org/wiki/Little_green_men](https://en.wikipedia.org/wiki/Little_green_men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Little_green_men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Little_green_men</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThe creatures have been variously described as goblins, aliens, &quot;little green men&quot;, owls, and circus mon...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journal.com.ph  
    Title: the weird invasion of miniature aliens in malaysia  
-   Link: [https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/](https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/)  
+   Link: <a href="https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal OnlineThe Weird Invasion Of Miniature Aliens In Malaysia28 Oct 2020 — On August 19, 1970, a miniature UFO was seen by schoolkids...</p></details>
    Published: August 19, 1970  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/617328327480084/posts/787673700445545/](https://www.facebook.com/groups/617328327480084/posts/787673700445545/)  
+   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/787673700445545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/787673700445545/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny humanoid sightings in Malaysian schools during 1970sThe earliest accounts trace back to 1970, when students in Johor Bahru reported...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/43941612171/posts/10162086467932172/](https://www.facebook.com/groups/43941612171/posts/10162086467932172/)  
+   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10162086467932172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10162086467932172/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia&#x27;s 1970 Bukit Mertajam incident with 15cm tall...25 Apr 2026 — In the yard of an elementary school, a group of children were not...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/561953866646271/posts/736586449183011/](https://www.facebook.com/groups/561953866646271/posts/736586449183011/)  
+   Link: <a href="https://www.facebook.com/groups/561953866646271/posts/736586449183011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/561953866646271/posts/736586449183011/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1970, six children were playing in a densely forested...# Will Trump disclose UFOs this year 2026? #alien #ufo #area51 #aliens #ufos...</p></details>
 
 ### Additional References
@@ -813,59 +767,59 @@ That does not make the stories worthless. Instead, it changes their significance
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: a group of 60 kids saw a ufo land in their school  
-   Link: [https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/](https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/)  
+   Link: <a href="https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A group of 60+ kids saw a ufo land in their school yard in 1994...There ARE a few dozen cases of UFO sightings by credible witnesses...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>students times son central original division men water near even women different french “ form just ” center 6 late london top court isla...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/](https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/)  
+   Link: <a href="https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l Stories, UFOs, Cryptids &amp; Mysteries. 4y · Public...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Tebedu, a district in Serian Division  
-   Link: [https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/](https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/)  
+   Link: <a href="https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Border entrance...Looi Kia Yeow tebedu are the first area being attacked by indonesia before sarawak merdeka and join malaysia. There wa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: paranormal-world.fandom.com  
    Title: Microterrestrials of Malaysia  
-   Link: [https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia](https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia)  
+   Link: <a href="https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal World Wiki - FandomOn the 20th of August 1970, two boys in the Bukit Mertajam, Pulau Pinang, Malaysia, went to the spot where...</p></details>
    Published: August 1970  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: Miniature Aliens and UFO's  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/](https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia 1970&#x27;s (This has...So I found out (by researching the 2016 Malaysia school shadow creature craze) that in the 70&#x27;s in Malaysia...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: Ariel School UFO Incident  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/](https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>all 71 known drawings by the...TIL In 1994, 60 children at Ariel school in Ruwa, Zimbabwe said they&#x27;d seen a &#x27;UFO&#x27; and &#x27;aliens with big...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blog.britishnewspaperarchive.co.uk  
    Title: incredible ufo sightings  
-   Link: [https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/](https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/)  
+   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>britishnewspaperarchive.co.uk10 Incredible UFO Sightings As Reported in Our Archive13 Jul 2022 — These ten accounts of UFO sightings are...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Westall 66 | Official Trailer | Doc Play  
-   Link: [https://www.youtube.com/watch?v=ZY-xj_b-c7c](https://www.youtube.com/watch?v=ZY-xj_b-c7c)  
+   Link: <a href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZY-xj_b-c7c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video from Australian Story provides a deep dive into the 1966 Westall mass sighting, documenting how a schoolyard setting and a lar...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: [https://www.youtube.com/watch?v=u4v6rSzXPjU](https://www.youtube.com/watch?v=u4v6rSzXPjU)  
+   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter...</p></details>

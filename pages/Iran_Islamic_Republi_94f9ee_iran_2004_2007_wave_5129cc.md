@@ -239,7 +239,7 @@ next_link:
   permalink: /kerman-2007/
   short_title: Kerman 2007
   heading_title: The 2007 Kerman UFO Reports Examined
-date: '2026-06-09 01:30:01 '
+date: '2026-06-10 01:55:24 '
 header:
   og_image: /assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1-social.jpg
   preview_image: /assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1.webp
@@ -252,7 +252,7 @@ Between 2004 and 2007, Iran experienced one of its most publicised modern waves 
 
 
 <img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1-dark.svg" | relative_url }}" alt="2004 2007 Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The significance of the 2004–2007 wave lies less in any single dramatic encounter and more in what it reveals about Iran's security environment. The sightings occurred during a period of heightened international attention on Iran's nuclear programme, increasing reports of aerial surveillance and intense domestic media interest. As a result, many Iranian UFO reports from these years occupied a grey area between folklore, national-security concerns and genuine uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
+The significance of the 2004–2007 wave lies less in any single dramatic encounter and more in what it reveals about Iran's security environment. The sightings occurred during a period of heightened international attention on Iran's nuclear programme, increasing reports of aerial surveillance and intense domestic media interest. As a result, many Iranian UFO reports from these years occupied a grey area between folklore, national-security concerns and genuine uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
 
 ## Northern Iran Became the Centre of the Wave
 
@@ -269,11 +269,11 @@ Reports frequently emphasised colour-changing lights. Witnesses described object
 
 The most important contextual factor behind the 2004–2007 wave was growing concern about foreign reconnaissance operations near Iran.
 
-In early 2005, reports emerged that the United States had been conducting covert drone flights over Iranian territory to gather intelligence related to nuclear facilities and air-defence systems. According to reporting based on U.S. officials, unmanned surveillance aircraft had been used to collect imagery, radar information and environmental samples. Iranian authorities reportedly lodged complaints about airspace incursions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
+In early 2005, reports emerged that the United States had been conducting covert drone flights over Iranian territory to gather intelligence related to nuclear facilities and air-defence systems. According to reporting based on U.S. officials, unmanned surveillance aircraft had been used to collect imagery, radar information and environmental samples. Iranian authorities reportedly lodged complaints about airspace incursions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
 
-This revelation transformed the interpretation of many UFO reports. Objects previously discussed as mysterious lights or possible extraterrestrial craft were increasingly viewed through a national-security lens. Formerly trained Iranian military personnel reportedly suggested that some sightings matched the behaviour of reconnaissance platforms rather than unknown phenomena. Witness descriptions of low lights, unusual movements and nocturnal activity fit a scenario that many observers associated with intelligence gathering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
+This revelation transformed the interpretation of many UFO reports. Objects previously discussed as mysterious lights or possible extraterrestrial craft were increasingly viewed through a national-security lens. Formerly trained Iranian military personnel reportedly suggested that some sightings matched the behaviour of reconnaissance platforms rather than unknown phenomena. Witness descriptions of low lights, unusual movements and nocturnal activity fit a scenario that many observers associated with intelligence gathering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
 
-The drone explanation did not solve every report. Many sightings occurred at distances too great for reliable identification, and some accounts contained features difficult to verify. However, the existence of real surveillance concerns created a plausible conventional explanation that was absent from many earlier UFO waves. In Iran's case, unidentified objects in the sky were no longer interpreted solely through the language of extraterrestrial visitation; they were increasingly linked to espionage, border monitoring and strategic rivalry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
+The drone explanation did not solve every report. Many sightings occurred at distances too great for reliable identification, and some accounts contained features difficult to verify. However, the existence of real surveillance concerns created a plausible conventional explanation that was absent from many earlier UFO waves. In Iran's case, unidentified objects in the sky were no longer interpreted solely through the language of extraterrestrial visitation; they were increasingly linked to espionage, border monitoring and strategic rivalry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
 
 ## Media Excitement Amplified the Sightings
 
@@ -304,7 +304,7 @@ The Kerman episode therefore illustrates a broader feature of the 2004–2007 pe
 
 Most researchers examining the 2004–2007 wave place the reports into three broad categories.
 
-**Possible surveillance activity.** The strongest conventional explanation for some sightings is the presence of reconnaissance aircraft or drones operating near sensitive areas. Public awareness of foreign intelligence gathering increased substantially during this period, making this interpretation especially relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
+**Possible surveillance activity.** The strongest conventional explanation for some sightings is the presence of reconnaissance aircraft or drones operating near sensitive areas. Public awareness of foreign intelligence gathering increased substantially during this period, making this interpretation especially relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
 
 **Astronomical and atmospheric phenomena.** Bright planets, meteors, atmospheric refraction and unusual viewing conditions can all create reports of coloured lights, apparent hovering and sudden movement. Many descriptions from northern Iran resemble categories frequently encountered in international UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
 
@@ -316,95 +316,53 @@ Most researchers examining the 2004–2007 wave place the reports into three bro
 
 The Iranian UFO wave of 2004–2007 occupies a different place in the country's history from the 1976 Tehran encounter. Rather than a single military case with documented official involvement, it was a dispersed social phenomenon shaped by regional sightings, media attention and national-security anxieties.
 
-The most notable feature of the wave is the way it intersected with concerns about foreign surveillance. As reports of American reconnaissance operations became public, many UFO stories acquired a plausible geopolitical context. This did not explain every sighting, but it changed the framework through which they were interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
+The most notable feature of the wave is the way it intersected with concerns about foreign surveillance. As reports of American reconnaissance operations became public, many UFO stories acquired a plausible geopolitical context. This did not explain every sighting, but it changed the framework through which they were interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span>
 
-As a result, the 2004–2007 period is best understood not as evidence of a single unexplained phenomenon but as a convergence of public fascination, limited observational evidence and real strategic tensions. It remains an important chapter in Iran's broader UFO history because it demonstrates how unidentified aerial reports can become intertwined with intelligence gathering, media narratives and national defence concerns long before any definitive explanation emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News UFO fever grips Iran</span><span class="citation-popover-snippet">ABC NewsUFO fever grips IranApril 29, 2004 — UFO fever grips Iran. Topic:Human Interest... and purple rays over the northern cities of T...</span><span class="citation-popover-meta">Published: April 29, 2004</span></span></span>
+As a result, the 2004–2007 period is best understood not as evidence of a single unexplained phenomenon but as a convergence of public fascination, limited observational evidence and real strategic tensions. It remains an important chapter in Iran's broader UFO history because it demonstrates how unidentified aerial reports can become intertwined with intelligence gathering, media narratives and national defence concerns long before any definitive explanation emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">u s drones checking on iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News UFO fever grips Iran</span><span class="citation-popover-snippet">ABC NewsUFO fever grips IranApril 29, 2004 — UFO fever grips Iran. Topic:Human Interest... and purple rays over the northern cities of T...</span><span class="citation-popover-meta">Published: April 29, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZGrsZo5qEbo" title="&#x27;UFO&#x27; Flying Over Iran Caught on Video by Airplane Passenger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZGrsZo5qEbo" target="_blank" rel="noopener noreferrer">&#x27;UFO&#x27; Flying Over Iran Caught on Video by Airplane Passenger</a></p><p class="youtube-embed-meta">Channel: Beyond Science &middot; Views: 91.6K &middot; Uploaded: November 2014 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZGrsZo5qEbo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZGrsZo5qEbo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Iranâ€™s UFO Sighting Wave. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Iran’s UFO Sighting Wave, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
-        
-        <p class="fr-book-desc">Substantial coverage of Mack&#x27;s UFO investigations, including the Zimbabwe case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a careful evidential framework useful for assessing famous cases like Ariel School.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+the+Cosmos%3A+Human+Transformation+and+Alien+Encounters+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to the Cosmos: Human Transformation and Alien Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+the+Cosmos%3A+Human+Transformation+and+Alien+Encounters+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to the Cosmos: Human Transformation and Alien Encounters">Passport to the Cosmos: Human Transformation and Alien Encoun...</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+the+Cosmos%3A+Human+Transformation+and+Alien+Encounters+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Believer%3A+Alien+Encounters%2C+Hard+Science%2C+and+the+Passion+of+John+Mack+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer: Alien Encounters, Hard Science, and the Passion of John Mack on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer%3A+Alien+Encounters%2C+Hard+Science%2C+and+the+Passion+of+John+Mack+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer: Alien Encounters, Hard Science, and the Passion of John Mack">The Believer: Alien Encounters, Hard Science, and the Passion...</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer%3A+Alien+Encounters%2C+Hard+Science%2C+and+the+Passion+of+John+Mack+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+the+Cosmos%3A+Human+Transformation+and+Alien+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to the Cosmos: Human Transformation and Alien Encounters</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -438,75 +396,71 @@ As a result, the 2004–2007 period is best understood not as evidence of a sing
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xemomorph Space Alien Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/cd2b55190da8b55d82f9.jpg' | relative_url }}" alt="Listing image for Xemomorph Space Alien Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Xemomorph Space Alien Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/f49295ff78f072290989.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/864aeffe7855cd72885c.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/4b51086b6e0f30a899b6.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2004-2007-wave-iran-s-ufo-sighting-wave-iran-islamic-republic-of-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -721,79 +675,79 @@ As a result, the 2004–2007 period is best understood not as evidence of a sing
 1. <a id="endnote-1"></a>
    Source: wired.com  
    Title: u s drones checking on iran  
-   Link: [https://www.wired.com/2005/02/u-s-drones-checking-on-iran/](https://www.wired.com/2005/02/u-s-drones-checking-on-iran/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDU.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</p></details>
+   Link: <a href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/02/u-s-drones-checking-on-iran/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Drones Checking on Iran13 Feb 2005 — UFO sightings flood in, but U.S.-trained Iranian military officers say they recognize the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Iran  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Iran](https://en.wikipedia.org/wiki/UFO_sightings_in_Iran)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Iran</a>  
 
 3. <a id="endnote-3"></a>
    Source: abc.net.au  
    Title: ABC News UFO fever grips Iran  
-   Link: [https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068](https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068)  
+   Link: <a href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsUFO fever grips IranApril 29, 2004 — UFO fever grips Iran. Topic:Human Interest... and purple rays over the northern cities of T...</p></details>
    Published: April 29, 2004  
 
 4. <a id="endnote-4"></a>
    Source: brecorder.com  
-   Link: [https://www.brecorder.com/news/3032501/](https://www.brecorder.com/news/3032501/)  
+   Link: <a href="https://www.brecorder.com/news/3032501/" target="_blank" rel="noopener noreferrer nofollow">https://www.brecorder.com/news/3032501/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business RecorderUFOs believed sighted over Iran16 Apr 2004 — Inhabitants of several towns in northern Iran have reported a string of sig...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf](https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE 9/11 COMMISSION REPORT... aliens, and a growing backlog in the applications for naturalizing immigrants.TheWhite House, the Justice D...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/](https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH | #Pentagon #UFO files REVEAL #mysterious #UAP...[https://youtu.be/7WmPy15hykk](https://youtu.be/7WmPy15hykk) #ufo #ufos #ufosightings #ufology. Why Are UFOs Obse...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: a glowing object lit up the skies above tehran and neighboring cities early satu  
-   Link: [https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/](https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/)  
+   Link: <a href="https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A glowing object lit up the skies above Tehran and...One of the strangest UFO incidents in history took place 1976; an episode that took...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nationalinterest.org  
    Title: spooked iranian pilots ufo encounter may have been american mach 10 drone 136182  
-   Link: [https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182](https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182)  
+   Link: <a href="https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/spooked-iranian-pilots-ufo-encounter-may-have-been-american-mach-10-drone-136182</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooked: Iranian Pilots&#x27; UFO Encounter May Have Been...23 Mar 2020 — Spooked: Iranian Pilots&#x27; UFO Encounter May Have Been With an Americ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/the-ufo-appeared-like-an-enormous-spaceship-and-was-seen-hovering-over-iran-it-b/817894880449688/](https://www.facebook.com/WIONews/posts/the-ufo-appeared-like-an-enormous-spaceship-and-was-seen-hovering-over-iran-it-b/817894880449688/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/the-ufo-appeared-like-an-enormous-spaceship-and-was-seen-hovering-over-iran-it-b/817894880449688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/the-ufo-appeared-like-an-enormous-spaceship-and-was-seen-hovering-over-iran-it-b/817894880449688/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTokers share video, ask &#x27;aliens headed to Earth?&#x27; A massive UFO was spotted beaming with...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: isgp-studies.com  
    Title: 2004 04 28 worldnetdaily dozens of ufo sightings excite iran  
-   Link: [https://isgp-studies.com/misc/UFOs/press-reports/2004-04-28-worldnetdaily-dozens-of-ufo-sightings-excite-iran](https://isgp-studies.com/misc/UFOs/press-reports/2004-04-28-worldnetdaily-dozens-of-ufo-sightings-excite-iran)  
+   Link: <a href="https://isgp-studies.com/misc/UFOs/press-reports/2004-04-28-worldnetdaily-dozens-of-ufo-sightings-excite-iran" target="_blank" rel="noopener noreferrer nofollow">https://isgp-studies.com/misc/UFOs/press-reports/2004-04-28-worldnetdaily-dozens-of-ufo-sightings-excite-iran</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens of UFO sightings excite Iran: Colorful lights over cities...28 Apr 2004 — The latest location on planet Earth to be hit with UFO...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Full text of "Anonymous Public Domain UFO/UAP Event  
-   Link: [https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt](https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt)  
+   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Bly and UFO. That document distinguishes UAP recovery from crashed... aliens had green fluid and black innards; Mike&#x27;s companion la...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/new-video-from-tehran-iran-shows-a-bright-object-hanging-silently-in-the-night-s/926464950372927/](https://www.facebook.com/ancientwhispers/posts/new-video-from-tehran-iran-shows-a-bright-object-hanging-silently-in-the-night-s/926464950372927/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/new-video-from-tehran-iran-shows-a-bright-object-hanging-silently-in-the-night-s/926464950372927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/new-video-from-tehran-iran-shows-a-bright-object-hanging-silently-in-the-night-s/926464950372927/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lights... UFO as displaying red, orange, and blue lights...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: beta.dawn.com  
    Title: 'UFO' sighting in Iran linked to espionage  
-   Link: [https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage](https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage)  
+   Link: <a href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow">https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dawn.com&#x27;UFO&#x27; sighting in Iran linked to espionage - Newspaper16 Apr 2004 — TEHRAN, April 15: Inhabitants of several towns in northern Ir...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/glowing-disc-shaped-ufo-seen-hovering-above-tehran-iran-night-sky-with-bright-gr/1613212907472009/](https://www.facebook.com/HiddenFactsss/posts/glowing-disc-shaped-ufo-seen-hovering-above-tehran-iran-night-sky-with-bright-gr/1613212907472009/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/glowing-disc-shaped-ufo-seen-hovering-above-tehran-iran-night-sky-with-bright-gr/1613212907472009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/glowing-disc-shaped-ufo-seen-hovering-above-tehran-iran-night-sky-with-bright-gr/1613212907472009/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lights staying still for minutes before drifting away...</p></details>

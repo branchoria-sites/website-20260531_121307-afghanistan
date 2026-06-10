@@ -239,7 +239,7 @@ prev_link:
   permalink: /evidence-check/
   short_title: Evidence Check
   heading_title: How Do Slovak UFO Reports Get Explained?
-date: '2026-06-09 01:40:11 '
+date: '2026-06-10 02:07:17 '
 header:
   og_image: /assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1
 
 ## Introduction
 
-The closest thing [Slovakia]({{ 'what-is-really-behind-slovakias-ufo/' | relative_url }}) has to a national UFO archive is not a government database, military release programme or declassified intelligence collection. It is a civilian project built around <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO Klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">|Prednášky|Kategórie|. Pozorovania. Hlásenia · Preverené pozorovania. |. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</span></span></span>, an organisation that has spent decades gathering witness reports, cataloguing unusual aerial observations and preserving stories that might otherwise have disappeared into local newspapers or private memory. According to the club's own history, it emerged during the political opening that followed the end of communist rule and eventually assembled hundreds of records covering UFO sightings, strange lights, alleged close encounters and related anomalous claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+The closest thing Slovakia has to a national UFO archive is not a government database, military release programme or declassified intelligence collection. It is a civilian project built around <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO Klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">Prednášky&#124;Kategórie&#124;. Pozorovania. Hlásenia · Preverené pozorovania. &#124;. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</span></span></span>, an organisation that has spent decades gathering witness reports, cataloguing unusual aerial observations and preserving stories that might otherwise have disappeared into local newspapers or private memory. According to the club's own history, it emerged during the political opening that followed the end of communist rule and eventually assembled hundreds of records covering UFO sightings, strange lights, alleged close encounters and related anomalous claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-dark.svg" | relative_url }}" alt="Trnava Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -405,86 +405,44 @@ In countries such as France, Britain or the United States, public debate often c
 That history helps explain why Slovak UFO discussions frequently revolve around individual sightings, recurring local hotspots and eyewitness recollections rather than leaked documents or official investigations. The Trnava archive is therefore more than a database of strange lights in the sky. It is the main surviving framework through which much of Slovakia's public UFO memory has been preserved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Who Keeps Slovakia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Who Keeps Slovakia&#x27;s UFO Records?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relates to cataloguing and assessing large UFO report archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines how researchers interpret accumulated case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights the importance of documentation and witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hynek UFO Report">Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Discusses investigation standards and report classification systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -518,75 +476,71 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trnava-archive-who-keeps-slovakia-s-ufo-records-slovakia-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -806,96 +760,96 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
    Title: UFO klub Trnava  
-   Link: [https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/](https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/)  
+   Link: <a href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ufo.klub.trnava/](https://www.facebook.com/ufo.klub.trnava/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookUFO klub TrnavaPozorovali ste UFO, či iný nezvyčajný jav? V tom prípade môžete vyplniť nasledujúci formulár a my sa pokúsime vaše...</p></details>
+   Link: <a href="https://www.facebook.com/ufo.klub.trnava/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufo.klub.trnava/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub TrnavaPozorovali ste UFO, či iný nezvyčajný jav? V tom prípade môžete vyplniť nasledujúci formulár a my sa pokúsime vaše...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: morebooks1929bost djvu.txt  
-   Link: [https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt](https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt)  
+   Link: <a href="https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Full text of &quot;More books&quot;Full text of &quot;More books&quot;. See other formats. / MORE BOOKS 1 Di gitized by the Internet Archive in 2015 [https://...&quot;](https://...&quot;)...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf](https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf)  
+   Link: <a href="https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nihil Obstat... uFo sighting began in November. 1989, the month in which the political... sightings of UFOs, or—put more simply— that ma...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/281043022231852/posts/728907320778751/](https://www.facebook.com/groups/281043022231852/posts/728907320778751/)  
+   Link: <a href="https://www.facebook.com/groups/281043022231852/posts/728907320778751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281043022231852/posts/728907320778751/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brzesko ceremony of remembrance and family history...Fifteen years ago, I uncovered a 291-page case file that the Nazis left behind—a fi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Lužifčák #175 Miroslav Karlík  
-   Link: [https://www.youtube.com/watch?v=Xz1fS2qRtWY](https://www.youtube.com/watch?v=Xz1fS2qRtWY)  
+   Link: <a href="https://www.youtube.com/watch?v=Xz1fS2qRtWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xz1fS2qRtWY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub Trnava. Kruhy v obilí a neznáme objekty. 1992 - 2008...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bUzmMEJ76zE](https://www.youtube.com/watch?v=bUzmMEJ76zE)  
+   Link: <a href="https://www.youtube.com/watch?v=bUzmMEJ76zE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUzmMEJ76zE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Život vo vesmíre! Svedectvo unesených velikánov, UFO klub Trnava 2010 - Ferdinand Varga...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufoklub-trnava.sk  
-   Link: [https://www.ufoklub-trnava.sk/](https://www.ufoklub-trnava.sk/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>|Prednášky|Kategórie|. Pozorovania. Hlásenia · Preverené pozorovania. |. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</p></details>
+   Link: <a href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoklub-trnava.sk/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prednášky|Kategórie|. Pozorovania. Hlásenia · Preverené pozorovania. |. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: carnivoreconservation.org  
-   Link: [https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf](https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf)  
+   Link: <a href="https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECCB... data showing that protected areas are not safe from invasions by alien plants. Studies of alien species in nature reserves locate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bulles.terre.be  
-   Link: [https://bulles.terre.be/terre_sf/](https://bulles.terre.be/terre_sf/)  
+   Link: <a href="https://bulles.terre.be/terre_sf/" target="_blank" rel="noopener noreferrer nofollow">https://bulles.terre.be/terre_sf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terre... aliens,sobaka,keyboard,kangaroo,sinner,soccer1,0.0.000,bonjour,socrates... observations,euro,incidents,vinyl,profession,haven,d...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ndl.ethernet.edu.et  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Services in New Democraciesby K Williams · Cited by 96 — This series includes books on general, political, historical, econo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html](https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html)  
+   Link: <a href="https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: fmk.ucm.sk  
-   Link: [https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf](https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf)  
+   Link: <a href="https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Media: On the EdgeMegatrends and Media is an international scientific event organised by the Faculty of Mass. Media Communication at...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: [https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt](https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt)  
+   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dokumen.pub  
    Title: East Central Europe in Exile Volume 1: Transatlantic  
-   Link: [https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html](https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html)  
+   Link: <a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: docomomo.com  
-   Link: [https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf](https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf)  
+   Link: <a href="https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>O. Conference which was held in Barcelona from...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf](https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Economic Studies within the Framework of...5 Aug 2023 — regions (&lt; 30 %)— Trnava, Nitra, Prešov and Košice regions, and (3) s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: socialspacejournal.eu  
    Title: Social Space Journal 22020(20)  
-   Link: [https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf](https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf)  
+   Link: <a href="https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e u nr 2/2020 (20)10 Dec 2020 — (1992), the dynamics of neo-slavery at work here is economic control... Cases from Boko Haram&#x27;s Founding...</p></details>

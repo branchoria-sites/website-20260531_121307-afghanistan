@@ -239,7 +239,7 @@ next_link:
   permalink: /modern-reports-fbd869/
   short_title: Modern Reports
   heading_title: Why Modern UFO Reports Often Collapse
-date: '2026-06-09 01:37:35 '
+date: '2026-06-10 02:04:15 '
 header:
   og_image: /assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-1-social.jpg
   preview_image: /assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-1.webp
@@ -288,7 +288,7 @@ One reason the Évora story generates confusion is that many later retellings ex
 
 The most commonly repeated summary is that scientists concluded the material may have been produced by a small insect of an unknown species or perhaps a microscopic or single-celled organism. That description sounds dramatic, but it is not equivalent to identifying an extraterrestrial substance. In fact, it points in the opposite direction: the investigators were considering biological explanations rather than technological ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Cabelo_de_anjo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cabelo de anjo</span><span class="citation-popover-snippet">Cabelo de anjo</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Cabello_de_%C3%A1ngel_%28fen%C3%B3meno%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cabello de ángel (fenómeno</span><span class="citation-popover-snippet">Cabello de ángel (fenómeno</span></span></span>
 
-Some later UFO publications expanded the story by describing tiny organisms supposedly observed among the filaments. These details became part of the mythology surrounding the event, but the surviving public record is fragmentary and does not provide the kind of documentation modern researchers would expect, such as preserved specimens, detailed laboratory notebooks or peer-reviewed publications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidarchives.fandom.com/wiki/Atmospheric_beast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidarchives.fandom.com">[cryptidarchives.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidarchives.fandom.com</span><span class="citation-popover-snippet">Atmospheric beast | Encyclopaedia of Cryptozoology | FandomThe angel hair was said to be sticky, and it &quot;rained&quot; on Évora for a few hours...</span></span></span>
+Some later UFO publications expanded the story by describing tiny organisms supposedly observed among the filaments. These details became part of the mythology surrounding the event, but the surviving public record is fragmentary and does not provide the kind of documentation modern researchers would expect, such as preserved specimens, detailed laboratory notebooks or peer-reviewed publications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidarchives.fandom.com/wiki/Atmospheric_beast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidarchives.fandom.com">[cryptidarchives.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidarchives.fandom.com</span><span class="citation-popover-snippet">Atmospheric beast &#124; Encyclopaedia of Cryptozoology &#124; FandomThe angel hair was said to be sticky, and it &quot;rained&quot; on Évora for a few hours...</span></span></span>
 
 That absence matters. Without surviving samples, later investigators cannot independently verify what was observed under the microscope, whether contamination occurred, or whether the material was interpreted correctly.
 
@@ -367,7 +367,7 @@ Third, the surviving documentation is incomplete. The lack of preserved samples 
 The disagreement begins after those points. Sceptics see the absence of hard evidence as a reason to favour ordinary explanations. UFO researchers often view the unresolved laboratory descriptions and witness reports as grounds for keeping the case open.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r2hbfzYH6QQ" title="Skeptics Vs. Believers: Alien Encounter Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r2hbfzYH6QQ" target="_blank" rel="noopener noreferrer">Skeptics Vs. Believers: Alien Encounter Stories</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network &middot; Views: 316.7K &middot; Uploaded: April 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r2hbfzYH6QQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r2hbfzYH6QQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CZNmvFntK-M" title="Загадъчното ВЕЩЕСТВО, което ПАДА след ПОЯВАТА на НЛО - Ангелска коса" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CZNmvFntK-M" target="_blank" rel="noopener noreferrer">Загадъчното ВЕЩЕСТВО, което ПАДА след ПОЯВАТА на НЛО - Ангелска коса</a></p><p class="youtube-embed-meta">Channel: The Clashers &middot; Views: 269.2K &middot; Uploaded: June 2022 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CZNmvFntK-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CZNmvFntK-M">Open on YouTube</a></p></div></div></div>
 
 ## Why Évora Still Matters in Portuguese UFO History
 
@@ -381,86 +381,44 @@ Within Portugal's UFO history, the case remains important because it sits at the
 <img src="{{ "/assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-3-dark.svg" | relative_url }}" alt="Evora illustration 3" data-theme-src-dark="{{ "/assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Fell From the Sky Over Evora?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Fell From the Sky Over Evora?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Directly engages with physical-trace cases, folklore, and unexplained material evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses trace cases and standards of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Adds a documented-investigation perspective to physical-evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dimensions%3A+A+Casebook+of+Alien+Contact+Jacques+Vall%C3%A9e&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions: A Casebook of Alien Contact on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions%3A+A+Casebook+of+Alien+Contact+Jacques+Vall%C3%A9e&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions: A Casebook of Alien Contact">Dimensions: A Casebook of Alien Contact</a>
-        </h4>
-        <p class="fr-book-author">By Jacques VallÃ©e</p>
-        
-        <p class="fr-book-desc">Contains unusual encounter and trace reports relevant to Ã‰vora.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions%3A+A+Casebook+of+Alien+Contact+Jacques+Vall%C3%A9e&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -494,75 +452,71 @@ Within Portugal's UFO history, the case remains important because it sits at the
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="evora-what-fell-from-the-sky-over-evora-portugal-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evora-what-fell-from-the-sky-over-evora-portugal-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -777,121 +731,121 @@ Within Portugal's UFO history, the case remains important because it sits at the
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Angel hair (folklore)  
-   Link: [https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29](https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cabelo de anjo  
-   Link: [https://pt.wikipedia.org/wiki/Cabelo_de_anjo](https://pt.wikipedia.org/wiki/Cabelo_de_anjo)  
+   Link: <a href="https://pt.wikipedia.org/wiki/Cabelo_de_anjo" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Cabelo_de_anjo</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Cabello de ángel (fenómeno)  
-   Link: [https://es.wikipedia.org/wiki/Cabello_de_%C3%A1ngel_%28fen%C3%B3meno%29](https://es.wikipedia.org/wiki/Cabello_de_%C3%A1ngel_%28fen%C3%B3meno%29)  
+   Link: <a href="https://es.wikipedia.org/wiki/Cabello_de_%C3%A1ngel_%28fen%C3%B3meno%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Cabello_de_%C3%A1ngel_%28fen%C3%B3meno%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: cryptidarchives.fandom.com  
-   Link: [https://cryptidarchives.fandom.com/wiki/Atmospheric_beast](https://cryptidarchives.fandom.com/wiki/Atmospheric_beast)  
+   Link: <a href="https://cryptidarchives.fandom.com/wiki/Atmospheric_beast" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Atmospheric_beast</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric beast | Encyclopaedia of Cryptozoology | FandomThe angel hair was said to be sticky, and it &quot;rained&quot; on Évora for a few hours...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/conteudos/instituto-universitario-de-evora/](https://arquivos.rtp.pt/conteudos/instituto-universitario-de-evora/)  
+   Link: <a href="https://arquivos.rtp.pt/conteudos/instituto-universitario-de-evora/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/instituto-universitario-de-evora/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universitário de ÉvoraNo Instituto Universitário de Évora, Ário Lobo de Azevedo, reitor da Universidade de Évora, refere aspetos do ensin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/place/evora/page/52/](https://arquivos.rtp.pt/place/evora/page/52/)  
+   Link: <a href="https://arquivos.rtp.pt/place/evora/page/52/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/place/evora/page/52/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rtp.ptÉvora – Página 52Documentário sobre o Alentejo Interior, a paisagem natural, o artesanato, o património arquitetónico e alguns dos...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/conteudos/garraiada-em-evora/](https://arquivos.rtp.pt/conteudos/garraiada-em-evora/)  
+   Link: <a href="https://arquivos.rtp.pt/conteudos/garraiada-em-evora/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/garraiada-em-evora/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>em ÉvoraGarraiada dos finalistas da Escola de Regentes Agrícolas de Évora...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/conteudos/poliedro-21/](https://arquivos.rtp.pt/conteudos/poliedro-21/)  
+   Link: <a href="https://arquivos.rtp.pt/conteudos/poliedro-21/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/poliedro-21/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rtp.ptPoliedroDocumentário sobre o património arquitectónico monumental e religioso da cidade de Évora, desde a pré-história até ao sécul...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/conteudos/atividades-culturais-em-evora/](https://arquivos.rtp.pt/conteudos/atividades-culturais-em-evora/)  
+   Link: <a href="https://arquivos.rtp.pt/conteudos/atividades-culturais-em-evora/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/atividades-culturais-em-evora/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>culturais em ÉvoraActividades e dinamização culturais em Évora, com destaque para o grau de participação dos seus habitantes e a acção da...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/conteudos/6o-aniversario-do-instituto-universitario-de-evora/](https://arquivos.rtp.pt/conteudos/6o-aniversario-do-instituto-universitario-de-evora/)  
+   Link: <a href="https://arquivos.rtp.pt/conteudos/6o-aniversario-do-instituto-universitario-de-evora/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/6o-aniversario-do-instituto-universitario-de-evora/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rtp.pt6º Aniversário do Instituto Universitário de ÉvoraReportagem da jornalista Fátima Martins Pereira sobre o funcionamento e atividade...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/place/evora/](https://arquivos.rtp.pt/place/evora/)  
+   Link: <a href="https://arquivos.rtp.pt/place/evora/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/place/evora/</a>  
 
 12. <a id="endnote-12"></a>
    Source: arquivos.rtp.pt  
-   Link: [https://arquivos.rtp.pt/conteudos/evora-6-mil-anos-de-historia/](https://arquivos.rtp.pt/conteudos/evora-6-mil-anos-de-historia/)  
+   Link: <a href="https://arquivos.rtp.pt/conteudos/evora-6-mil-anos-de-historia/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/evora-6-mil-anos-de-historia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rtp.ptÉvora, 6 Mil Anos de HistóriaPrograma apresentado por José Hermano Saraiva dedicado à cidade de Évora, com destaque para o seu patr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: vocal.media  
    Title: What the hell is angel hair?  
-   Link: [https://vocal.media/humans/what-the-hell-is-angel-hair](https://vocal.media/humans/what-the-hell-is-angel-hair)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Humans - Vocal MediaCharles Marney, an American UFO expert, has boldly speculated that the angel hair is the atomised remnants of UFO e...</p></details>
+   Link: <a href="https://vocal.media/humans/what-the-hell-is-angel-hair" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/humans/what-the-hell-is-angel-hair</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Humans - Vocal MediaCharles Marney, an American UFO expert, has boldly speculated that the angel hair is the atomised remnants of UFO e...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: easaonline.org  
-   Link: [https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf](https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf)  
+   Link: <a href="https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PORTUGUESE STUDIES REVIEWParte I: As novas fardas do luso-tropicalismo. The Lusotropical Flavor of Modernization: Brazil-Africa Relations...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/849994733672039/posts/1045095150828662/](https://www.facebook.com/groups/849994733672039/posts/1045095150828662/)  
+   Link: <a href="https://www.facebook.com/groups/849994733672039/posts/1045095150828662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/849994733672039/posts/1045095150828662/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings and Angel Hair in France and ItalyThe Évora event was a remarkable incident of angel hair phenomenon that occurred on Novem...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: paranormalphenomena.medium.com  
-   Link: [https://paranormalphenomena.medium.com/the-great-portuguese-ufo-cover-up-angel-hair-disappearing-evidence-and-a-mysterious-fire-98e4a52a1df0](https://paranormalphenomena.medium.com/the-great-portuguese-ufo-cover-up-angel-hair-disappearing-evidence-and-a-mysterious-fire-98e4a52a1df0)  
+   Link: <a href="https://paranormalphenomena.medium.com/the-great-portuguese-ufo-cover-up-angel-hair-disappearing-evidence-and-a-mysterious-fire-98e4a52a1df0" target="_blank" rel="noopener noreferrer nofollow">https://paranormalphenomena.medium.com/the-great-portuguese-ufo-cover-up-angel-hair-disappearing-evidence-and-a-mysterious-fire-98e4a52a1df0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Portuguese UFO Cover-Up: Angel Hair...Silvery UFOs release mysterious strands of &#x27;angel hair,&#x27; drifting down and sparking rumors o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: "Angel hair" is a phenomenon barely talked about  
-   Link: [https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/](https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What do...For those who don&#x27;t know, there&#x27;s a strange phenomenon generally associated with UFO sightings where a strange substance resem...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: uk.finance.yahoo.com  
    Title: 2014 11 27 ufo rains angel hair portugal video  
-   Link: [https://uk.finance.yahoo.com/news/2014-11-27-ufo-rains-angel-hair-portugal-video.html](https://uk.finance.yahoo.com/news/2014-11-27-ufo-rains-angel-hair-portugal-video.html)  
+   Link: <a href="https://uk.finance.yahoo.com/news/2014-11-27-ufo-rains-angel-hair-portugal-video.html" target="_blank" rel="noopener noreferrer nofollow">https://uk.finance.yahoo.com/news/2014-11-27-ufo-rains-angel-hair-portugal-video.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;angel hair&#x27; spotted in Portugal sky (video)27 Mar 2015 — Mysterious stands of &#x27;angel hair&#x27; falling through the sky in Portuga...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/gnwjjh/did_a_smalltown_college_professor_discover_the/](https://www.reddit.com/r/UnresolvedMysteries/comments/gnwjjh/did_a_smalltown_college_professor_discover_the/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/gnwjjh/did_a_smalltown_college_professor_discover_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/gnwjjh/did_a_smalltown_college_professor_discover_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>who took LSD to communicate telepathically with aliens in the desert...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scribd.com  
    Title: Analysis of Angel Hair Phenomenon | PDFThe  
-   Link: [https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair](https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair)  
+   Link: <a href="https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summary analyzes 215 reported cases of angel hair falls between 1947-2000. It finds that 57% involved UFO sightings, usually of disks, sp...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/473788983562912/posts/1372510793690722/](https://www.facebook.com/groups/473788983562912/posts/1372510793690722/)  
+   Link: <a href="https://www.facebook.com/groups/473788983562912/posts/1372510793690722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473788983562912/posts/1372510793690722/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>has been linked to UFO sightings or manifestations of the Virgin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: ufo angel hair in evora portugal in 1959  
-   Link: [https://www.reddit.com/r/ufo/comments/1hsv70n/ufo_angel_hair_in_evora_portugal_in_1959/?tl=pt-br](https://www.reddit.com/r/ufo/comments/1hsv70n/ufo_angel_hair_in_evora_portugal_in_1959/?tl=pt-br)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1hsv70n/ufo_angel_hair_in_evora_portugal_in_1959/?tl=pt-br" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hsv70n/ufo_angel_hair_in_evora_portugal_in_1959/?tl=pt-br</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo (Angel Hair) em Évora, Portugal, em 1959&quot;Era uma tarde ensolarada de novembro de 1959 quando o povo de Évora, uma cidade pacífica no...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ancient-code.com  
    Title: investigators from portugal studied angel hair that fell following ufo sightings  
-   Link: [https://www.ancient-code.com/investigators-from-portugal-studied-angel-hair-that-fell-following-ufo-sightings](https://www.ancient-code.com/investigators-from-portugal-studied-angel-hair-that-fell-following-ufo-sightings)  
+   Link: <a href="https://www.ancient-code.com/investigators-from-portugal-studied-angel-hair-that-fell-following-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-code.com/investigators-from-portugal-studied-angel-hair-that-fell-following-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens. Does this Ancient Egyptian manuscript show a UFO landing...</p></details>

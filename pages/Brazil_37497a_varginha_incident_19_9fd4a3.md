@@ -239,7 +239,7 @@ prev_link:
   permalink: /ufo-archives/
   short_title: UFO Archives
   heading_title: Exploring Brazil's Arquivo Nacional UFO Archives and Records
-date: '2026-06-09 01:21:30 '
+date: '2026-06-10 01:45:54 '
 header:
   og_image: /assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1-social.jpg
   preview_image: /assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1-s
 
 ## Introduction
 
-The 1996 Varginha incident remains the most famous and disputed UFO case in Brazilian history. What began as a local report of strange creatures seen in the city of Varginha, Minas Gerais, quickly evolved into a national sensation involving alleged extraterrestrial beings, military convoys, hospital secrecy, animal deaths, and rumours of an official cover-up. For believers, the case represents [Brazil]({{ 'what-brazils-ufo-records-reveal-about/' | relative_url }})’s closest equivalent to the Roswell legend in the United States. For sceptics and investigators, it is a textbook example of how fear, rumour, media amplification, and fragmented testimony can transform ordinary events into a lasting myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/SB835915673862027500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Wall Street JournalTale of Stinky Extraterrestrials Stirs Up UFO Crowd in Brazil28 Jun 1996 — Stanton Friedman, a Canada-based UFO ex...</span></span></span>
+The 1996 Varginha incident remains the most famous and disputed UFO case in Brazilian history. What began as a local report of strange creatures seen in the city of Varginha, Minas Gerais, quickly evolved into a national sensation involving alleged extraterrestrial beings, military convoys, hospital secrecy, animal deaths, and rumours of an official cover-up. For believers, the case represents Brazil’s closest equivalent to the Roswell legend in the United States. For sceptics and investigators, it is a textbook example of how fear, rumour, media amplification, and fragmented testimony can transform ordinary events into a lasting myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/SB835915673862027500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Wall Street JournalTale of Stinky Extraterrestrials Stirs Up UFO Crowd in Brazil28 Jun 1996 — Stanton Friedman, a Canada-based UFO ex...</span></span></span>
 
 
 <img src="{{ "/assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1-dark.svg" | relative_url }}" alt="Varginha Incident illustration 1" data-theme-src-dark="{{ "/assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,7 +273,7 @@ Several later accounts added further layers to the narrative:
 
 </div>
 
-Most of these claims emerged gradually over weeks and months rather than during the initial event itself, an important detail when assessing reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">varginha ufo press conference brazil files</span><span class="citation-popover-snippet">FliegerfaustVarginha UFO press conference: Fox witnesses vs Brazil files24 Jan 2026 — Varginha UFO press conference surges again. Compare...</span></span></span>
+Most of these claims emerged gradually over weeks and months rather than during the initial event itself, an important detail when assessing reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">varginha ufo press conference brazil files</span><span class="citation-popover-snippet">Varginha UFO press conference: Fox witnesses vs Brazil files24 Jan 2026 — Varginha UFO press conference surges again. Compare...</span></span></span>
 
 ## Why the Witness Accounts Became So Influential
 
@@ -349,9 +349,9 @@ As a result, separating original events from later additions became increasingly
 
 ## Documentary Revivals and Renewed Claims
 
-Interest in the case revived internationally with filmmaker James Fox’s 2022 documentary *Moment of Contact*, which presented Varginha as one of the strongest alien encounter cases ever documented. The film included interviews with witnesses, doctors, military personnel, and researchers who claimed the Brazilian government concealed the truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt21451264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">IMDbMoment of Contact (2022)... reported seeing a UFO crash and one or more strange creatures... alienufo sightingreference to the roswe...</span></span></span>
+Interest in the case revived internationally with filmmaker James Fox’s 2022 documentary *Moment of Contact*, which presented Varginha as one of the strongest alien encounter cases ever documented. The film included interviews with witnesses, doctors, military personnel, and researchers who claimed the Brazilian government concealed the truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt21451264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Moment of Contact (2022)... reported seeing a UFO crash and one or more strange creatures... alienufo sightingreference to the roswe...</span></span></span>
 
-The documentary significantly expanded English-speaking awareness of the incident and introduced new allegations, including claims that biological specimens and bodies were transported to military or university facilities. Some interviewees asserted that the United States became involved in recovering evidence. However, critics noted that many of these claims remained unsupported by independently verifiable documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">varginha ufo press conference brazil files</span><span class="citation-popover-snippet">FliegerfaustVarginha UFO press conference: Fox witnesses vs Brazil files24 Jan 2026 — Varginha UFO press conference surges again. Compare...</span></span></span>
+The documentary significantly expanded English-speaking awareness of the incident and introduced new allegations, including claims that biological specimens and bodies were transported to military or university facilities. Some interviewees asserted that the United States became involved in recovering evidence. However, critics noted that many of these claims remained unsupported by independently verifiable documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fliegerfaust.com">[Fliegerfaust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fliegerfaust.com</span><span class="citation-popover-title">varginha ufo press conference brazil files</span><span class="citation-popover-snippet">Varginha UFO press conference: Fox witnesses vs Brazil files24 Jan 2026 — Varginha UFO press conference surges again. Compare...</span></span></span>
 
 Recent press conferences and anniversary coverage have continued this pattern. Supporters argue that ageing witnesses now feel safer speaking publicly, while sceptics counter that memories after decades become less reliable and more susceptible to cultural reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">landmark brazilian ufo case reaches capitol hill as varginha incident turns 30</span><span class="citation-popover-snippet">The DebriefLandmark Brazilian UFO Case Reaches Capitol Hill as...30 Jan 2026 — Yet another videotaped witness, unnamed and his face obsc...</span></span></span>
 
@@ -403,86 +403,44 @@ Within Brazil’s wider UFO landscape, the Varginha incident occupies a unique p
 Yet the case also highlights a recurring tension in Brazilian UFO research: the gap between compelling testimony and verifiable evidence. Brazil possesses extensive declassified [UFO archives]({{ 'ufo-archives/' | relative_url }}) and a long history of official reporting, but Varginha demonstrates how quickly uncertain observations can evolve into national mythology when fear, secrecy, and media sensationalism converge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">In January 1996, several residents reported seeing a strange creature during a storm, described as having bulging red eyes, a heart-shape...</span><span class="citation-popover-meta">Published: January 1996</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Inside the Varginha Encounter Brazil&#x27;s Most Famous UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Inside the Varginha Encounter Brazil&#x27;s Most Famous UFO Case, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps situate close-encounter claims like Varginha within a wider UFO-report taxonomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers serious UFO context around official testimony and government handling of unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Relevant to the creature-witness and folklore-like spread of the Varginha narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports skeptical analysis of rumour, media amplification, testimony, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -516,75 +474,71 @@ Yet the case also highlights a recurring tension in Brazilian UFO research: the 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/569db291172e7ce323a5.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=varginha-incident-inside-the-varginha-encounter-brazil-s-most-famous-ufo-case-brazil-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -799,149 +753,149 @@ Yet the case also highlights a recurring tension in Brazilian UFO research: the 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Varginha UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Varginha_UFO_incident](https://en.wikipedia.org/wiki/Varginha_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Varginha_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varginha_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: brazils roswell moment the varginha incident revisited  
-   Link: [https://www.discoveryuk.com/mysteries/brazils-roswell-moment-the-varginha-incident-revisited/](https://www.discoveryuk.com/mysteries/brazils-roswell-moment-the-varginha-incident-revisited/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/brazils-roswell-moment-the-varginha-incident-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/brazils-roswell-moment-the-varginha-incident-revisited/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil&#x27;s Roswell Moment: The Varginha Incident Revisited14 Apr 2026 — The official explanation for this idea of &#x27;aliens&#x27; in Brazil is tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fliegerfaust.com  
    Title: varginha ufo press conference brazil files  
-   Link: [https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/](https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FliegerfaustVarginha UFO press conference: Fox witnesses vs Brazil files24 Jan 2026 — Varginha UFO press conference surges again. Compare...</p></details>
+   Link: <a href="https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/varginha-ufo-press-conference-brazil-files/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Varginha UFO press conference: Fox witnesses vs Brazil files24 Jan 2026 — Varginha UFO press conference surges again. Compare...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: The Varginha Incident is a fascinating, credible story  
-   Link: [https://www.reddit.com/r/aliens/comments/13fjudl/the_varginha_incident_is_a_fascinating_credible/](https://www.reddit.com/r/aliens/comments/13fjudl/the_varginha_incident_is_a_fascinating_credible/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/13fjudl/the_varginha_incident_is_a_fascinating_credible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13fjudl/the_varginha_incident_is_a_fascinating_credible/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2023 — The fact that by touching it, it can (or will) eventually kill you via toxin poisoning. The oily skin. I feel like...</p></details>
    Published: May 12, 2023  
 
 5. <a id="endnote-5"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt21451264/](https://www.imdb.com/title/tt21451264/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMDbMoment of Contact (2022)... reported seeing a UFO crash and one or more strange creatures... alienufo sightingreference to the roswe...</p></details>
+   Link: <a href="https://www.imdb.com/title/tt21451264/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt21451264/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moment of Contact (2022)... reported seeing a UFO crash and one or more strange creatures... alienufo sightingreference to the roswe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1hjr1aw/seriousregarding_what_the_nhi_said_to_the/](https://www.reddit.com/r/aliens/comments/1hjr1aw/seriousregarding_what_the_nhi_said_to_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1hjr1aw/seriousregarding_what_the_nhi_said_to_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hjr1aw/seriousregarding_what_the_nhi_said_to_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS-Regarding what the NHI said to the physician...SERIOUS-Regarding what the NHI said to the physician during the Varginha incident...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/10138t6/does_anyone_have_a_convincing_refutation_of_the/](https://www.reddit.com/r/skeptic/comments/10138t6/does_anyone_have_a_convincing_refutation_of_the/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/10138t6/does_anyone_have_a_convincing_refutation_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/10138t6/does_anyone_have_a_convincing_refutation_of_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>shed UFO, aliens walking around town and being seen from a distance of 8 feet.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/10kfgna/what_happened_in_varginha_brazil_in_1996_one_of/](https://www.reddit.com/r/aliens/comments/10kfgna/what_happened_in_varginha_brazil_in_1996_one_of/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/10kfgna/what_happened_in_varginha_brazil_in_1996_one_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/10kfgna/what_happened_in_varginha_brazil_in_1996_one_of/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened In Varginha, Brazil In 1996? One of the Best...In regard to the wasteland creature, an official inquiry led by the Brazili...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qjc61a/new_documents_related_to_the_varginha_case_are/](https://www.reddit.com/r/UFOs/comments/1qjc61a/new_documents_related_to_the_varginha_case_are/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qjc61a/new_documents_related_to_the_varginha_case_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qjc61a/new_documents_related_to_the_varginha_case_are/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpinas? r/aliens. • 3y...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsVarginha UFO incident, South AmericaBrazil; Varginha, Minas Gerais, In 1996, various individuals reporte...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/articles/SB835915673862027500](https://www.wsj.com/articles/SB835915673862027500)  
+   Link: <a href="https://www.wsj.com/articles/SB835915673862027500" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/SB835915673862027500</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalTale of Stinky Extraterrestrials Stirs Up UFO Crowd in Brazil28 Jun 1996 — Stanton Friedman, a Canada-based UFO ex...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary](https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary)  
+   Link: <a href="https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In January 1996, several residents reported seeing a strange creature during a storm, described as having bulging red eyes, a heart-shape...</p></details>
    Published: January 1996  
 
 13. <a id="endnote-13"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/international/2026-01-20/the-et-of-varginha-captivates-brazil-30-years-after-sighting-dismissed-by-a-military-investigation.html](https://english.elpais.com/international/2026-01-20/the-et-of-varginha-captivates-brazil-30-years-after-sighting-dismissed-by-a-military-investigation.html)  
+   Link: <a href="https://english.elpais.com/international/2026-01-20/the-et-of-varginha-captivates-brazil-30-years-after-sighting-dismissed-by-a-military-investigation.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/international/2026-01-20/the-et-of-varginha-captivates-brazil-30-years-after-sighting-dismissed-by-a-military-investigation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishThe &#x27;ET of Varginha&#x27; captivates Brazil 30 years after sighting...20 Jan 2026 — On January 20, 1996, three decades ago thi...</p></details>
    Published: January 20, 1996  
 
 14. <a id="endnote-14"></a>
    Source: skeptic.org.uk  
    Title: the demons of varginha the cultural context behind brazils famous ufo case  
-   Link: [https://www.skeptic.org.uk/2026/05/the-demons-of-varginha-the-cultural-context-behind-brazils-famous-ufo-case/](https://www.skeptic.org.uk/2026/05/the-demons-of-varginha-the-cultural-context-behind-brazils-famous-ufo-case/)  
+   Link: <a href="https://www.skeptic.org.uk/2026/05/the-demons-of-varginha-the-cultural-context-behind-brazils-famous-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2026/05/the-demons-of-varginha-the-cultural-context-behind-brazils-famous-ufo-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticThe demons of Varginha: The cultural context behind...7 days ago — In 1996, three girls claimed to see a strange creature in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedebrief.org  
    Title: landmark brazilian ufo case reaches capitol hill as varginha incident turns 30  
-   Link: [https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/](https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/)  
+   Link: <a href="https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefLandmark Brazilian UFO Case Reaches Capitol Hill as...30 Jan 2026 — Yet another videotaped witness, unnamed and his face obsc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lonestarplate.show  
    Title: james fox  
-   Link: [https://www.lonestarplate.show/episodes/james-fox](https://www.lonestarplate.show/episodes/james-fox)  
+   Link: <a href="https://www.lonestarplate.show/episodes/james-fox" target="_blank" rel="noopener noreferrer nofollow">https://www.lonestarplate.show/episodes/james-fox</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discusses New Film &#x27;Moment of Contact&#x27;, UFOS...7 Nov 2025 — The Moment of Contact movie is an exploration of extra-terrestrial encounter...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: silviolobo.com.br  
-   Link: [https://silviolobo.com.br/leitura/en/mysteries-xv/varginha-incident](https://silviolobo.com.br/leitura/en/mysteries-xv/varginha-incident)  
+   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/varginha-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/varginha-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Varginha Incident - Sílvio de Souza Lôbo Júnior2 days ago — Destruction of Evidence: There are reports that the bodies of creatures were...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L33D/](https://www.globalplayer.com/podcasts/42L33D/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastAndy is joined by Pavel from Psicoactivo for a special joint live stream looking at the latest developments in the UFO an...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/capturemovieslive/posts/1206426750732162/](https://www.facebook.com/groups/capturemovieslive/posts/1206426750732162/)  
+   Link: <a href="https://www.facebook.com/groups/capturemovieslive/posts/1206426750732162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/1206426750732162/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Brazil with Mysterious Hissing SoundBrazilian Air Force releases UFO audio recordings. World Mysteries Online ▻ Giorgio T...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/varginha-whistleblowers-hand-over-explosive-proof-us-recovered-alien-craft-1772358](https://www.ibtimes.co.uk/varginha-whistleblowers-hand-over-explosive-proof-us-recovered-alien-craft-1772358)  
+   Link: <a href="https://www.ibtimes.co.uk/varginha-whistleblowers-hand-over-explosive-proof-us-recovered-alien-craft-1772358" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/varginha-whistleblowers-hand-over-explosive-proof-us-recovered-alien-craft-1772358</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Varginha Whistleblowers Hand Over Explosive Proof of US...20 Jan 2026 — Witnesses from the 1996 Varginha incident say the United States...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2022/10/28/filmmaker-claims-video-exists-of-captured-alien-creature-from-brazil-ufo-incident/?sr_share=facebook](https://nypost.com/2022/10/28/filmmaker-claims-video-exists-of-captured-alien-creature-from-brazil-ufo-incident/?sr_share=facebook)  
+   Link: <a href="https://nypost.com/2022/10/28/filmmaker-claims-video-exists-of-captured-alien-creature-from-brazil-ufo-incident/?sr_share=facebook" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2022/10/28/filmmaker-claims-video-exists-of-captured-alien-creature-from-brazil-ufo-incident/?sr_share=facebook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker claims video exists of captured alien creature...28 Oct 2022 — In January 1996, locals in Varginha reported seeing a strange...</p></details>
    Published: January 1996  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GuardianUs/posts/sightings-in-varginha-in-1996-have-been-dismissed-as-hoax-but-saga-continues-to-/1335709075248668/](https://www.facebook.com/GuardianUs/posts/sightings-in-varginha-in-1996-have-been-dismissed-as-hoax-but-saga-continues-to-/1335709075248668/)  
+   Link: <a href="https://www.facebook.com/GuardianUs/posts/sightings-in-varginha-in-1996-have-been-dismissed-as-hoax-but-saga-continues-to-/1335709075248668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GuardianUs/posts/sightings-in-varginha-in-1996-have-been-dismissed-as-hoax-but-saga-continues-to-/1335709075248668/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings in Varginha in 1996 have been dismissed as...The official explanation later issued by the Brazilian government and military st...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5Zit-08rtkE](https://www.youtube.com/watch?v=5Zit-08rtkE)  
+   Link: <a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Zit-08rtkE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctor describes studying live alien | Reality CheckThe incident involved a cigar-shaped UFO crashing in Varginha, Brazil, and a subseque...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gsdWuPSalZI](https://www.youtube.com/watch?v=gsdWuPSalZI)  
+   Link: <a href="https://www.youtube.com/watch?v=gsdWuPSalZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gsdWuPSalZI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wall Street Journal UFO report &#x27;is a joke&#x27;: Ross CoulthartIt&#x27;s such a joke this Wall Street Journal article because it&#x27;s effectively admi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_82rN85QCPw](https://www.youtube.com/watch?v=_82rN85QCPw)  
+   Link: <a href="https://www.youtube.com/watch?v=_82rN85QCPw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_82rN85QCPw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Captured A Live Alien (NEW Proof Revealed)Contact New Revelations Of Alien Encounters” - a documentary exploring the 1996 Vargin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thesun.co.uk  
    Title: ufo aliens military blamed dwarf couple disabled man brazil  
-   Link: [https://www.thesun.co.uk/news/24734138/ufo-aliens-military-blamed-dwarf-couple-disabled-man-brazil/](https://www.thesun.co.uk/news/24734138/ufo-aliens-military-blamed-dwarf-couple-disabled-man-brazil/)  
+   Link: <a href="https://www.thesun.co.uk/news/24734138/ufo-aliens-military-blamed-dwarf-couple-disabled-man-brazil/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/24734138/ufo-aliens-military-blamed-dwarf-couple-disabled-man-brazil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilling story of &#x27;Roswell of Brazil&#x27; where &#x27;aliens crash...26 Dec 2023 — The commander claimed Mudinho, “was mistaken by the three terr...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nypost.com  
    Title: people saw aliens after ufo crashed in brazil in 1996 doc  
-   Link: [https://nypost.com/2022/10/29/people-saw-aliens-after-ufo-crashed-in-brazil-in-1996-doc/](https://nypost.com/2022/10/29/people-saw-aliens-after-ufo-crashed-in-brazil-in-1996-doc/)  
+   Link: <a href="https://nypost.com/2022/10/29/people-saw-aliens-after-ufo-crashed-in-brazil-in-1996-doc/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2022/10/29/people-saw-aliens-after-ufo-crashed-in-brazil-in-1996-doc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive | People saw aliens after UFO crashed in Brazil...29 Oct 2022 — More than two decades after they allegedly encountered the ali...</p></details>

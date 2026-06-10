@@ -1185,7 +1185,7 @@ next_link:
   title: Palau UAP
   permalink: /what-is-really-known-about-palau-ufos/
   short_title: Palau UAP
-date: '2026-06-09 01:35:53 '
+date: '2026-06-10 02:02:27 '
 header:
   og_image: /assets/images/Niger_6687e1-overview-social.jpg
   preview_image: /assets/images/Niger_6687e1-overview.webp
@@ -1194,7 +1194,7 @@ image: /assets/images/Niger_6687e1-overview-social.jpg
 
 ## Why Niger’s UFO Record Is So Thin
 
-The first problem is archival rather than spectacular: Niger does not appear to have a public national UAP reporting body, a searchable official case archive, or a well-known civilian UFO organisation with decades of published fieldwork. That sharply limits what can be assessed. By comparison, France’s GEIPAN, created within CNES in 1977, collects, analyses, archives and publishes unidentified aerospace phenomenon reports; it also stresses that it is not an extraterrestrial-life research body and that most reports are approached as potentially explainable observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">GEIPAN | CNES</span></span></span>
+The first problem is archival rather than spectacular: Niger does not appear to have a public national UAP reporting body, a searchable official case archive, or a well-known civilian UFO organisation with decades of published fieldwork. That sharply limits what can be assessed. By comparison, France’s GEIPAN, created within CNES in 1977, collects, analyses, archives and publishes unidentified aerospace phenomenon reports; it also stresses that it is not an extraterrestrial-life research body and that most reports are approached as potentially explainable observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
 
 <img src="{{ "/assets/images/Niger_6687e1-overview.webp" | relative_url }}" alt="Overview image for What Is Really Known About Niger UFOs?" loading="eager" decoding="sync" fetchpriority="high">
@@ -1240,7 +1240,7 @@ Niger’s evidence splits more by documentation quality than by dramatic content
 
 **Contested:** The Agadez uranium-area sighting pattern and the Tanout–Aderbissinat 2019–2020 incident belong here. They are specific enough to discuss, but not strong enough to treat as established anomalous events. UAP Afrique is useful because it records Niger-focused claims that are otherwise hard to find, yet the same source also moves from reported sightings into speculative ideas about extraterrestrial interest in uranium, which should be separated from the underlying testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapafrique.com/2024/04/29/niger-a-country-coveted-by-the-west-russia-and-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapafrique.com">[UAP AFRIQUE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapafrique.com</span><span class="citation-popover-title">UAP AFRIQUENiger: a country coveted by the West, Russia and Aliens – UAP AFRIQUE</span><span class="citation-popover-snippet">UAP AFRIQUENiger: a country coveted by the West, Russia and Aliens – UAP AFRIQUE</span></span></span>
 
-**Debunked or probably explained:** No major Niger UFO case in the available public record has a clean, formal debunking trail comparable to cases where a rocket re-entry, aircraft, balloon or hoax has been matched to witness accounts. However, the likely explanation space is familiar: meteors, re-entering debris, drones, aircraft lights, industrial activity, atmospheric effects and second-hand rumour. GEIPAN’s general methodology is relevant here because it explicitly treats “weirdness” as something often produced by ordinary phenomena such as meteors, lanterns, aircraft lights, orbital launcher activity and other known causes before leaving a case unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">GEIPAN | CNES</span></span></span>
+**Debunked or probably explained:** No major Niger UFO case in the available public record has a clean, formal debunking trail comparable to cases where a rocket re-entry, aircraft, balloon or hoax has been matched to witness accounts. However, the likely explanation space is familiar: meteors, re-entering debris, drones, aircraft lights, industrial activity, atmospheric effects and second-hand rumour. GEIPAN’s general methodology is relevant here because it explicitly treats “weirdness” as something often produced by ordinary phenomena such as meteors, lanterns, aircraft lights, orbital launcher activity and other known causes before leaving a case unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
 
 <img src="{{ "/assets/images/Niger_6687e1-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really Known About Niger UFOs? illustration 2" data-theme-src-dark="{{ "/assets/images/Niger_6687e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Niger_6687e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1272,86 +1272,44 @@ The responsible conclusion is restrained. Niger has a small public UFO record, w
 <img src="{{ "/assets/images/Niger_6687e1-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really Known About Niger UFOs? illustration 3" data-theme-src-dark="{{ "/assets/images/Niger_6687e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Niger_6687e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Known About Niger UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really Known About Niger UFOs?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps readers assess weak or incomplete reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a framework for evaluating sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Shows what strong official UFO documentation looks like.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how local traditions affect UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1385,75 +1343,71 @@ The responsible conclusion is restrained. Niger has a small public UFO record, w
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-niger-ufos-niger-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1668,315 +1622,315 @@ The responsible conclusion is restrained. Niger has a small public UFO record, w
 1. <a id="endnote-1"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 3. <a id="endnote-3"></a>
    Source: uapafrique.com  
    Title: UAP AFRIQUENiger: a country coveted by the West, Russia and Aliens – UAP AFRIQUE  
-   Link: [https://uapafrique.com/2024/04/29/niger-a-country-coveted-by-the-west-russia-and-aliens/](https://uapafrique.com/2024/04/29/niger-a-country-coveted-by-the-west-russia-and-aliens/)  
+   Link: <a href="https://uapafrique.com/2024/04/29/niger-a-country-coveted-by-the-west-russia-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2024/04/29/niger-a-country-coveted-by-the-west-russia-and-aliens/</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: us completes withdrawal from ab 201  
-   Link: [https://www.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/](https://www.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/)  
+   Link: <a href="https://www.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/</a>  
 
 5. <a id="endnote-5"></a>
    Source: orano.group  
    Title: mining sites  
-   Link: [https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites](https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites)  
+   Link: <a href="https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.orano.group/en/nuclear-expertise/orano-s-sites-around-the-world/uranium-mines/niger/mining-sites</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: Info: un appareil non identifié tombé entre Tanout et Aderbissinat  
-   Link: [https://www.facebook.com/PAirInfoAgadez/posts/info-un-appareil-non-identifi%C3%A9-tomb%C3%A9-entre-tanout-et-aderbissinat-suscite-inqui%C3%A9/2579380372147242/](https://www.facebook.com/PAirInfoAgadez/posts/info-un-appareil-non-identifi%C3%A9-tomb%C3%A9-entre-tanout-et-aderbissinat-suscite-inqui%C3%A9/2579380372147242/)  
+   Link: <a href="https://www.facebook.com/PAirInfoAgadez/posts/info-un-appareil-non-identifi%C3%A9-tomb%C3%A9-entre-tanout-et-aderbissinat-suscite-inqui%C3%A9/2579380372147242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAirInfoAgadez/posts/info-un-appareil-non-identifi%C3%A9-tomb%C3%A9-entre-tanout-et-aderbissinat-suscite-inqui%C3%A9/2579380372147242/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
 8. <a id="endnote-8"></a>
    Source: unoosa.org  
    Title: Recovery and Return of Objects Launched into Outer Space  
-   Link: [https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html](https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html)  
+   Link: <a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/](https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/)  
+   Link: <a href="https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iyaroson/posts/identified-object-ufo-seen-flying-over-akwanga-middle-belt-nigeria-air-space-wha/25611064475196881/</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/680370888693262/posts/26523165180653812/](https://www.facebook.com/groups/680370888693262/posts/26523165180653812/)  
+   Link: <a href="https://www.facebook.com/groups/680370888693262/posts/26523165180653812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/680370888693262/posts/26523165180653812/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ndifreke.a.etuk/posts/pls-do-we-have-ufo-in-nigeria-i-saw-something-last-night-a-big-bright-round-ligh/7525644310806937/](https://www.facebook.com/ndifreke.a.etuk/posts/pls-do-we-have-ufo-in-nigeria-i-saw-something-last-night-a-big-bright-round-ligh/7525644310806937/)  
+   Link: <a href="https://www.facebook.com/ndifreke.a.etuk/posts/pls-do-we-have-ufo-in-nigeria-i-saw-something-last-night-a-big-bright-round-ligh/7525644310806937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndifreke.a.etuk/posts/pls-do-we-have-ufo-in-nigeria-i-saw-something-last-night-a-big-bright-round-ligh/7525644310806937/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FRANCE24.English/videos/space-object-crashes-into-village/1144040250799039/](https://www.facebook.com/FRANCE24.English/videos/space-object-crashes-into-village/1144040250799039/)  
+   Link: <a href="https://www.facebook.com/FRANCE24.English/videos/space-object-crashes-into-village/1144040250799039/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FRANCE24.English/videos/space-object-crashes-into-village/1144040250799039/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: 2019 mo made a large impact the latest new entry on the cneos fireball and bolid  
-   Link: [https://www.facebook.com/100063944562099/posts/2019-mo-made-a-large-impact-the-latest-new-entry-on-the-cneos-fireball-and-bolid/10156054376146688/](https://www.facebook.com/100063944562099/posts/2019-mo-made-a-large-impact-the-latest-new-entry-on-the-cneos-fireball-and-bolid/10156054376146688/)  
+   Link: <a href="https://www.facebook.com/100063944562099/posts/2019-mo-made-a-large-impact-the-latest-new-entry-on-the-cneos-fireball-and-bolid/10156054376146688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063944562099/posts/2019-mo-made-a-large-impact-the-latest-new-entry-on-the-cneos-fireball-and-bolid/10156054376146688/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcworldservice/posts/this-huge-piece-of-planet-mars-was-recently-sold-for-us43-million-at-a-new-york-/1179545360866361/](https://www.facebook.com/bbcworldservice/posts/this-huge-piece-of-planet-mars-was-recently-sold-for-us43-million-at-a-new-york-/1179545360866361/)  
+   Link: <a href="https://www.facebook.com/bbcworldservice/posts/this-huge-piece-of-planet-mars-was-recently-sold-for-us43-million-at-a-new-york-/1179545360866361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/this-huge-piece-of-planet-mars-was-recently-sold-for-us43-million-at-a-new-york-/1179545360866361/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbcnightlynews/posts/a-bright-fireball-that-was-spotted-saturday-afternoon-in-the-skies-over-texas-wa/1296869088973729/](https://www.facebook.com/nbcnightlynews/posts/a-bright-fireball-that-was-spotted-saturday-afternoon-in-the-skies-over-texas-wa/1296869088973729/)  
+   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/a-bright-fireball-that-was-spotted-saturday-afternoon-in-the-skies-over-texas-wa/1296869088973729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/a-bright-fireball-that-was-spotted-saturday-afternoon-in-the-skies-over-texas-wa/1296869088973729/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LeedsBBC/videos/meteor-caught-on-camera/1380920703801283/](https://www.facebook.com/LeedsBBC/videos/meteor-caught-on-camera/1380920703801283/)  
+   Link: <a href="https://www.facebook.com/LeedsBBC/videos/meteor-caught-on-camera/1380920703801283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LeedsBBC/videos/meteor-caught-on-camera/1380920703801283/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mambojournal/posts/%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%91%F0%9D%90%84%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92-%F0%9D%90%94%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%94%F0%9D%90%8C-%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8B-%F0%9D%90%80%F0%9D%90%85%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%9F%93%F0%9D%9F%96-%F0%9D%90%98%F0%9D%90%84%F0%9D%90%80%F0%9D%90%91-%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%87-%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8Bniger/1528404899295759/](https://www.facebook.com/mambojournal/posts/%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%91%F0%9D%90%84%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92-%F0%9D%90%94%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%94%F0%9D%90%8C-%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8B-%F0%9D%90%80%F0%9D%90%85%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%9F%93%F0%9D%9F%96-%F0%9D%90%98%F0%9D%90%84%F0%9D%90%80%F0%9D%90%91-%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%87-%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8Bniger/1528404899295759/)  
+   Link: <a href="https://www.facebook.com/mambojournal/posts/%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%91%F0%9D%90%84%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92-%F0%9D%90%94%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%94%F0%9D%90%8C-%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8B-%F0%9D%90%80%F0%9D%90%85%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%9F%93%F0%9D%9F%96-%F0%9D%90%98%F0%9D%90%84%F0%9D%90%80%F0%9D%90%91-%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%87-%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8Bniger/1528404899295759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mambojournal/posts/%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%91%F0%9D%90%84%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92-%F0%9D%90%94%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%94%F0%9D%90%8C-%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8B-%F0%9D%90%80%F0%9D%90%85%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%9F%93%F0%9D%9F%96-%F0%9D%90%98%F0%9D%90%84%F0%9D%90%80%F0%9D%90%91-%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%87-%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8Bniger/1528404899295759/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Africacom/posts/nigers-uranium-isnt-just-yellowcake-its-a-goldmine-of-power-struggles-from-franc/1174588904703562/](https://www.facebook.com/Africacom/posts/nigers-uranium-isnt-just-yellowcake-its-a-goldmine-of-power-struggles-from-franc/1174588904703562/)  
+   Link: <a href="https://www.facebook.com/Africacom/posts/nigers-uranium-isnt-just-yellowcake-its-a-goldmine-of-power-struggles-from-franc/1174588904703562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Africacom/posts/nigers-uranium-isnt-just-yellowcake-its-a-goldmine-of-power-struggles-from-franc/1174588904703562/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/U.S.EmbassyNiamey/posts/us-department-of-defense-and-the-ministry-of-national-defense-of-the-republic-of/923004546533222/](https://www.facebook.com/U.S.EmbassyNiamey/posts/us-department-of-defense-and-the-ministry-of-national-defense-of-the-republic-of/923004546533222/)  
+   Link: <a href="https://www.facebook.com/U.S.EmbassyNiamey/posts/us-department-of-defense-and-the-ministry-of-national-defense-of-the-republic-of/923004546533222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/U.S.EmbassyNiamey/posts/us-department-of-defense-and-the-ministry-of-national-defense-of-the-republic-of/923004546533222/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: niger maradi kornaka ce mercredi 11 février 2026 aux environs de 11h00 heure loc  
-   Link: [https://www.facebook.com/100060809627956/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/1513387934031513/](https://www.facebook.com/100060809627956/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/1513387934031513/)  
+   Link: <a href="https://www.facebook.com/100060809627956/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/1513387934031513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100060809627956/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/1513387934031513/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: niger maradi kornaka ce mercredi 11 février 2026 aux environs de 11h00 heure loc  
-   Link: [https://www.facebook.com/gounga.djaji.7/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/3071521233032644/](https://www.facebook.com/gounga.djaji.7/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/3071521233032644/)  
+   Link: <a href="https://www.facebook.com/gounga.djaji.7/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/3071521233032644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gounga.djaji.7/posts/niger-maradi-kornaka-ce-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h00-heure-loc/3071521233032644/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: niger une mystérieuse sphère métallique tombée du ciel ce mercredi 11 février 2  
-   Link: [https://www.facebook.com/saidicus.leberger/posts/-niger-une-myst%C3%A9rieuse-sph%C3%A8re-m%C3%A9tallique-tomb%C3%A9e-du-ciel-ce-mercredi-11-f%C3%A9vrier-2/10231163956021859/](https://www.facebook.com/saidicus.leberger/posts/-niger-une-myst%C3%A9rieuse-sph%C3%A8re-m%C3%A9tallique-tomb%C3%A9e-du-ciel-ce-mercredi-11-f%C3%A9vrier-2/10231163956021859/)  
+   Link: <a href="https://www.facebook.com/saidicus.leberger/posts/-niger-une-myst%C3%A9rieuse-sph%C3%A8re-m%C3%A9tallique-tomb%C3%A9e-du-ciel-ce-mercredi-11-f%C3%A9vrier-2/10231163956021859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/saidicus.leberger/posts/-niger-une-myst%C3%A9rieuse-sph%C3%A8re-m%C3%A9tallique-tomb%C3%A9e-du-ciel-ce-mercredi-11-f%C3%A9vrier-2/10231163956021859/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WadataRadio/posts/ce-mercredi-11-f%C3%A9vrier-aux-environs-de-11-heures-un-objet-dont-lorigine-demeure-/938147398771193/](https://www.facebook.com/WadataRadio/posts/ce-mercredi-11-f%C3%A9vrier-aux-environs-de-11-heures-un-objet-dont-lorigine-demeure-/938147398771193/)  
+   Link: <a href="https://www.facebook.com/WadataRadio/posts/ce-mercredi-11-f%C3%A9vrier-aux-environs-de-11-heures-un-objet-dont-lorigine-demeure-/938147398771193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WadataRadio/posts/ce-mercredi-11-f%C3%A9vrier-aux-environs-de-11-heures-un-objet-dont-lorigine-demeure-/938147398771193/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/620274104756879/posts/25982659258091681/](https://www.facebook.com/groups/620274104756879/posts/25982659258091681/)  
+   Link: <a href="https://www.facebook.com/groups/620274104756879/posts/25982659258091681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/620274104756879/posts/25982659258091681/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: selon vous quest ce que cest hier mercredi 11 février 2026 aux environs de 11h d  
-   Link: [https://www.facebook.com/MissNiger1/posts/selon-vous-quest-ce-que-cest-hier-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h-d/26200965199538143/](https://www.facebook.com/MissNiger1/posts/selon-vous-quest-ce-que-cest-hier-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h-d/26200965199538143/)  
+   Link: <a href="https://www.facebook.com/MissNiger1/posts/selon-vous-quest-ce-que-cest-hier-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h-d/26200965199538143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissNiger1/posts/selon-vous-quest-ce-que-cest-hier-mercredi-11-f%C3%A9vrier-2026-aux-environs-de-11h-d/26200965199538143/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: state of the nation address by president cyril ramaphosa 12 february 2026 cape t  
-   Link: [https://www.facebook.com/KZNGOV/posts/state-of-the-nation-address-by-president-cyril-ramaphosa-12-february-2026-cape-t/1334321312062271/](https://www.facebook.com/KZNGOV/posts/state-of-the-nation-address-by-president-cyril-ramaphosa-12-february-2026-cape-t/1334321312062271/)  
+   Link: <a href="https://www.facebook.com/KZNGOV/posts/state-of-the-nation-address-by-president-cyril-ramaphosa-12-february-2026-cape-t/1334321312062271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KZNGOV/posts/state-of-the-nation-address-by-president-cyril-ramaphosa-12-february-2026-cape-t/1334321312062271/</a>  
    Published: february 2026  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: niamey acte sa rupture par décret en conseil des ministres du 18 mai 2026 le nig  
-   Link: [https://www.facebook.com/businessafrica.mediaoff/posts/niamey-acte-sa-rupture-par-d%C3%A9cret-en-conseil-des-ministres-du-18-mai-2026-le-nig/1444941577676811/](https://www.facebook.com/businessafrica.mediaoff/posts/niamey-acte-sa-rupture-par-d%C3%A9cret-en-conseil-des-ministres-du-18-mai-2026-le-nig/1444941577676811/)  
+   Link: <a href="https://www.facebook.com/businessafrica.mediaoff/posts/niamey-acte-sa-rupture-par-d%C3%A9cret-en-conseil-des-ministres-du-18-mai-2026-le-nig/1444941577676811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/businessafrica.mediaoff/posts/niamey-acte-sa-rupture-par-d%C3%A9cret-en-conseil-des-ministres-du-18-mai-2026-le-nig/1444941577676811/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceetVieMag/posts/comment-le-geipan-trie-t-il-les-t%C3%A9moignages-dovni-/1240982891514879/](https://www.facebook.com/ScienceetVieMag/posts/comment-le-geipan-trie-t-il-les-t%C3%A9moignages-dovni-/1240982891514879/)  
+   Link: <a href="https://www.facebook.com/ScienceetVieMag/posts/comment-le-geipan-trie-t-il-les-t%C3%A9moignages-dovni-/1240982891514879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceetVieMag/posts/comment-le-geipan-trie-t-il-les-t%C3%A9moignages-dovni-/1240982891514879/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/](https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/)  
+   Link: <a href="https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/253550249143357/posts/895392778292431/](https://www.facebook.com/groups/253550249143357/posts/895392778292431/)  
+   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/895392778292431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/895392778292431/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: forces used a fly away kit to counter the threat over a us installation accordin  
-   Link: [https://www.facebook.com/DefenseNews/posts/forces-used-a-fly-away-kit-to-counter-the-threat-over-a-us-installation-accordin/1348796937282362/](https://www.facebook.com/DefenseNews/posts/forces-used-a-fly-away-kit-to-counter-the-threat-over-a-us-installation-accordin/1348796937282362/)  
+   Link: <a href="https://www.facebook.com/DefenseNews/posts/forces-used-a-fly-away-kit-to-counter-the-threat-over-a-us-installation-accordin/1348796937282362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DefenseNews/posts/forces-used-a-fly-away-kit-to-counter-the-threat-over-a-us-installation-accordin/1348796937282362/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: what caused the air france flight 4590 incident  
-   Link: [https://www.facebook.com/MentourPilot/posts/what-caused-the-air-france-flight-4590-incident/1483645293128847/](https://www.facebook.com/MentourPilot/posts/what-caused-the-air-france-flight-4590-incident/1483645293128847/)  
+   Link: <a href="https://www.facebook.com/MentourPilot/posts/what-caused-the-air-france-flight-4590-incident/1483645293128847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MentourPilot/posts/what-caused-the-air-france-flight-4590-incident/1483645293128847/</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=144576](https://nuforc.org/sighting/?id=144576)  
+   Link: <a href="https://nuforc.org/sighting/?id=144576" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=144576</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=81960](https://nuforc.org/sighting/?id=81960)  
+   Link: <a href="https://nuforc.org/sighting/?id=81960" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81960</a>  
 
 35. <a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=106022](https://nuforc.org/sighting/?id=106022)  
+   Link: <a href="https://nuforc.org/sighting/?id=106022" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106022</a>  
 
 36. <a id="endnote-36"></a>
    Source: time.com  
-   Link: [https://time.com/3930602/first-reported-ufo/?jw_start=%7Bseek_to_second_number%7D](https://time.com/3930602/first-reported-ufo/?jw_start=%7Bseek_to_second_number%7D)  
+   Link: <a href="https://time.com/3930602/first-reported-ufo/?jw_start=%7Bseek_to_second_number%7D" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/?jw_start=%7Bseek_to_second_number%7D</a>  
 
 37. <a id="endnote-37"></a>
    Source: time.com  
    Title: ufo international space station scott kelly  
-   Link: [https://time.com/4124138/ufo-international-space-station-scott-kelly/](https://time.com/4124138/ufo-international-space-station-scott-kelly/)  
+   Link: <a href="https://time.com/4124138/ufo-international-space-station-scott-kelly/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4124138/ufo-international-space-station-scott-kelly/</a>  
 
 38. <a id="endnote-38"></a>
    Source: archive.org  
    Title: Complete Atlas of the World 2nd Revised Edition (2012) (DK Publishing) djvu.txt  
-   Link: [https://archive.org/stream/completeatlasoftheworld2ndrevisededition2012dkpublishing/Complete%20Atlas%20of%20the%20World%20-%202nd%20Revised%20Edition%20%282012%29%20%28DK%20Publishing%29_djvu.txt](https://archive.org/stream/completeatlasoftheworld2ndrevisededition2012dkpublishing/Complete%20Atlas%20of%20the%20World%20-%202nd%20Revised%20Edition%20%282012%29%20%28DK%20Publishing%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/completeatlasoftheworld2ndrevisededition2012dkpublishing/Complete%20Atlas%20of%20the%20World%20-%202nd%20Revised%20Edition%20%282012%29%20%28DK%20Publishing%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/completeatlasoftheworld2ndrevisededition2012dkpublishing/Complete%20Atlas%20of%20the%20World%20-%202nd%20Revised%20Edition%20%282012%29%20%28DK%20Publishing%29_djvu.txt</a>  
 
 39. <a id="endnote-39"></a>
    Source: archive.org  
    Title: Complete Atlas of the World (2012) djvu.txt  
-   Link: [https://archive.org/stream/CompleteAtlasOfTheWorld2012/Complete%20Atlas%20of%20the%20World%20%282012%29_djvu.txt](https://archive.org/stream/CompleteAtlasOfTheWorld2012/Complete%20Atlas%20of%20the%20World%20%282012%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/CompleteAtlasOfTheWorld2012/Complete%20Atlas%20of%20the%20World%20%282012%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CompleteAtlasOfTheWorld2012/Complete%20Atlas%20of%20the%20World%20%282012%29_djvu.txt</a>  
 
 40. <a id="endnote-40"></a>
    Source: archive.org  
    Title: Complete Atlas of the World 3rd Edition (2016) djvu.txt  
-   Link: [https://archive.org/stream/CompleteAtlasOfTheWorld3rdEdition2016/Complete%20Atlas%20of%20the%20World%203rd%20Edition%20%282016%29_djvu.txt](https://archive.org/stream/CompleteAtlasOfTheWorld3rdEdition2016/Complete%20Atlas%20of%20the%20World%203rd%20Edition%20%282016%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/CompleteAtlasOfTheWorld3rdEdition2016/Complete%20Atlas%20of%20the%20World%203rd%20Edition%20%282016%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CompleteAtlasOfTheWorld3rdEdition2016/Complete%20Atlas%20of%20the%20World%203rd%20Edition%20%282016%29_djvu.txt</a>  
 
 41. <a id="endnote-41"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/u_full_version/hatch_manual_djvu.txt](https://archive.org/stream/u_full_version/hatch_manual_djvu.txt)  
+   Link: <a href="https://archive.org/stream/u_full_version/hatch_manual_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/u_full_version/hatch_manual_djvu.txt</a>  
 
 42. <a id="endnote-42"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Mission & Geipan | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 43. <a id="endnote-43"></a>
    Source: data.worldbank.org  
    Title: World Bank Open Data Rural population (% of total population)  
-   Link: [https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=NE](https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=NE)  
+   Link: <a href="https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=NE" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=NE</a>  
 
 44. <a id="endnote-44"></a>
    Source: data.worldbank.org  
-   Link: [https://data.worldbank.org/country/niger](https://data.worldbank.org/country/niger)  
+   Link: <a href="https://data.worldbank.org/country/niger" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/niger</a>  
 
 45. <a id="endnote-45"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Aderbissinat](https://en.wikipedia.org/wiki/Aderbissinat)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aderbissinat" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aderbissinat</a>  
 
 46. <a id="endnote-46"></a>
    Source: Wikipedia  
-   Link: [https://fr.wikipedia.org/wiki/Aderbissinat](https://fr.wikipedia.org/wiki/Aderbissinat)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Aderbissinat" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Aderbissinat</a>  
 
 47. <a id="endnote-47"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Niger](https://en.wikipedia.org/wiki/Niger)  
+   Link: <a href="https://en.wikipedia.org/wiki/Niger" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Niger</a>  
 
 48. <a id="endnote-48"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 49. <a id="endnote-49"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/](https://www.cnes-geipan.fr/)  
+   Link: <a href="https://www.cnes-geipan.fr/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/</a>  
 
 50. <a id="endnote-50"></a>
    Source: documents.worldbank.org  
-   Link: [https://documents.worldbank.org/curated/en/849131559585844030/pdf/A-Destiny-Shaped-by-Water-A-Diagnostic-of-Water-Supply-Sanitation-and-Hygiene-WASH-and-Poverty-in-Niger.pdf](https://documents.worldbank.org/curated/en/849131559585844030/pdf/A-Destiny-Shaped-by-Water-A-Diagnostic-of-Water-Supply-Sanitation-and-Hygiene-WASH-and-Poverty-in-Niger.pdf)  
+   Link: <a href="https://documents.worldbank.org/curated/en/849131559585844030/pdf/A-Destiny-Shaped-by-Water-A-Diagnostic-of-Water-Supply-Sanitation-and-Hygiene-WASH-and-Poverty-in-Niger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.worldbank.org/curated/en/849131559585844030/pdf/A-Destiny-Shaped-by-Water-A-Diagnostic-of-Water-Supply-Sanitation-and-Hygiene-WASH-and-Poverty-in-Niger.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/330591603934555142/txt/Environmental-and-Social-Management-Framework-ESMF-ENHANCING-NIGER-NORTHEASTERN-CONNECTIVITY-P171793.txt](https://documents1.worldbank.org/curated/en/330591603934555142/txt/Environmental-and-Social-Management-Framework-ESMF-ENHANCING-NIGER-NORTHEASTERN-CONNECTIVITY-P171793.txt)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/330591603934555142/txt/Environmental-and-Social-Management-Framework-ESMF-ENHANCING-NIGER-NORTHEASTERN-CONNECTIVITY-P171793.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/330591603934555142/txt/Environmental-and-Social-Management-Framework-ESMF-ENHANCING-NIGER-NORTHEASTERN-CONNECTIVITY-P171793.txt</a>  
 
 52. <a id="endnote-52"></a>
    Source: documents1.worldbank.org  
    Title: Niger Urbanization Review Supporting Nigers Modern Oases  
-   Link: [https://documents1.worldbank.org/curated/en/205381613966216383/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases.pdf](https://documents1.worldbank.org/curated/en/205381613966216383/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/205381613966216383/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/205381613966216383/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: data.worldbank.org  
    Title: SP.RUR.TOT L.ZS  
-   Link: [https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS](https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS)  
+   Link: <a href="https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS</a>  
 
 54. <a id="endnote-54"></a>
    Source: documents1.worldbank.org  
    Title: Niger Urbanization Review Supporting Nigers Modern Oases Overview  
-   Link: [https://documents1.worldbank.org/curated/en/940571614009989948/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases-Overview.pdf](https://documents1.worldbank.org/curated/en/940571614009989948/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases-Overview.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/940571614009989948/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases-Overview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/940571614009989948/pdf/Niger-Urbanization-Review-Supporting-Nigers-Modern-Oases-Overview.pdf</a>  
 
 55. <a id="endnote-55"></a>
    Source: academieairespace.com  
    Title: GEIPA N studies UAPs/UFOs  
-   Link: [https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en](https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en)  
+   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
 
 56. <a id="endnote-56"></a>
    Source: infcis.iaea.org  
-   Link: [https://infcis.iaea.org/udepo/Resources/Countries/Niger.pdf](https://infcis.iaea.org/udepo/Resources/Countries/Niger.pdf)  
+   Link: <a href="https://infcis.iaea.org/udepo/Resources/Countries/Niger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://infcis.iaea.org/udepo/Resources/Countries/Niger.pdf</a>  
 
 57. <a id="endnote-57"></a>
    Source: afdb.org  
-   Link: [https://www.afdb.org/en/documents/niger-national-climate-change-profile](https://www.afdb.org/en/documents/niger-national-climate-change-profile)  
+   Link: <a href="https://www.afdb.org/en/documents/niger-national-climate-change-profile" target="_blank" rel="noopener noreferrer nofollow">https://www.afdb.org/en/documents/niger-national-climate-change-profile</a>  
 
 58. <a id="endnote-58"></a>
    Source: futures.issafrica.org  
-   Link: [https://futures.issafrica.org/geographic/countries/niger/](https://futures.issafrica.org/geographic/countries/niger/)  
+   Link: <a href="https://futures.issafrica.org/geographic/countries/niger/" target="_blank" rel="noopener noreferrer nofollow">https://futures.issafrica.org/geographic/countries/niger/</a>  
 
 59. <a id="endnote-59"></a>
    Source: openfactbook.org  
-   Link: [https://openfactbook.org/countries/niger/](https://openfactbook.org/countries/niger/)  
+   Link: <a href="https://openfactbook.org/countries/niger/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/niger/</a>  
 
 60. <a id="endnote-60"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/geography-and-cartography/niger](https://www.ebsco.com/research-starters/geography-and-cartography/niger)  
+   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/niger" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/niger</a>  
 
 ### Additional References
 
 61. <a id="endnote-61"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 62. <a id="endnote-62"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5P-MMjyVVA8](https://www.youtube.com/watch?v=5P-MMjyVVA8)  
+   Link: <a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon UFO Documentary | Talking Strange...</p></details>
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_-KpDsPxs5k](https://www.youtube.com/watch?v=_-KpDsPxs5k)  
+   Link: <a href="https://www.youtube.com/watch?v=_-KpDsPxs5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_-KpDsPxs5k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
 64. <a id="endnote-64"></a>
    Source: youtube.com  
    Title: The Ariel School UFO Incident: 60 Students Saw Aliens  
-   Link: [https://www.youtube.com/watch?v=JUNO7qqSJ9o](https://www.youtube.com/watch?v=JUNO7qqSJ9o)  
+   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
 65. <a id="endnote-65"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf</a>  
 
 66. <a id="endnote-66"></a>
    Source: war.gov  
    Title: joint statement from the us department of defense and the department of nationa  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3861097/joint-statement-from-the-us-department-of-defense-and-the-department-of-nationa/](https://www.war.gov/News/Releases/Release/Article/3861097/joint-statement-from-the-us-department-of-defense-and-the-department-of-nationa/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3861097/joint-statement-from-the-us-department-of-defense-and-the-department-of-nationa/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3861097/joint-statement-from-the-us-department-of-defense-and-the-department-of-nationa/</a>  
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
    Title: Ariel Phenomenon UFO Documentary | Talking Strange  
-   Link: [https://www.youtube.com/watch?v=gRtp_jUCq0o](https://www.youtube.com/watch?v=gRtp_jUCq0o)  
+   Link: <a href="https://www.youtube.com/watch?v=gRtp_jUCq0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gRtp_jUCq0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best UFO Sighting of the 1990s with Randall Nickerson...</p></details>
 
 68. <a id="endnote-68"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/230152865_Development_Agents_And_Nomadic_Agency_Four_Perspectives_in_the_Development_Market](https://www.researchgate.net/publication/230152865_Development_Agents_And_Nomadic_Agency_Four_Perspectives_in_the_Development_Market)  
+   Link: <a href="https://www.researchgate.net/publication/230152865_Development_Agents_And_Nomadic_Agency_Four_Perspectives_in_the_Development_Market" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230152865_Development_Agents_And_Nomadic_Agency_Four_Perspectives_in_the_Development_Market</a>  
 
 69. <a id="endnote-69"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332210794_Utilisation_of_oil_palm_kernel_by_Hooded_Vulture_N_monachus_in_The_Gambia](https://www.researchgate.net/publication/332210794_Utilisation_of_oil_palm_kernel_by_Hooded_Vulture_N_monachus_in_The_Gambia)  
+   Link: <a href="https://www.researchgate.net/publication/332210794_Utilisation_of_oil_palm_kernel_by_Hooded_Vulture_N_monachus_in_The_Gambia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332210794_Utilisation_of_oil_palm_kernel_by_Hooded_Vulture_N_monachus_in_The_Gambia</a>  
 
 70. <a id="endnote-70"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349231834_Vegetation_Dynamics_in_the_Northern_Zones_of_Niger_Case_of_the_Rural_Commune_of_Tanout_Zinder_and_Aderbissinat_Agadez](https://www.researchgate.net/publication/349231834_Vegetation_Dynamics_in_the_Northern_Zones_of_Niger_Case_of_the_Rural_Commune_of_Tanout_Zinder_and_Aderbissinat_Agadez)  
+   Link: <a href="https://www.researchgate.net/publication/349231834_Vegetation_Dynamics_in_the_Northern_Zones_of_Niger_Case_of_the_Rural_Commune_of_Tanout_Zinder_and_Aderbissinat_Agadez" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349231834_Vegetation_Dynamics_in_the_Northern_Zones_of_Niger_Case_of_the_Rural_Commune_of_Tanout_Zinder_and_Aderbissinat_Agadez</a>  

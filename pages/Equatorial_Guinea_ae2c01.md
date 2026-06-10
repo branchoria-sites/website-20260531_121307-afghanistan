@@ -1185,7 +1185,7 @@ next_link:
   title: Fiji UFOs
   permalink: /fiji/
   short_title: Fiji UFOs
-date: '2026-06-09 01:26:27 '
+date: '2026-06-10 01:51:08 '
 header:
   og_image: /assets/images/Equatorial_Guinea_ae2c01-overview-social.jpg
   preview_image: /assets/images/Equatorial_Guinea_ae2c01-overview.webp
@@ -1202,7 +1202,7 @@ For readers following a wider country-by-country UFO project, Equatorial Guinea 
 
 Equatorial Guinea’s geography makes ordinary sky reports harder to collect and compare. The country is split between the mainland region of Río Muni, Bioko Island, Annobón and smaller islands, with Malabo on Bioko and Bata on the mainland acting as the most visible urban centres. The World Bank estimates the population at about 1.8 million for 2024–2025, while Britannica describes the national territory as a mix of continental land, Bioko off Cameroon, Annobón far to the south-west, and smaller islands near the coast. A scattered national layout like this matters for UFO research because a light seen from Bioko, a maritime observation near Annobón, and an aircraft sighting near Bata would sit in very different reporting environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldbank.org/ext/en/country/equatorialguinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldbank.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The second reason is media visibility. Reporters Without Borders describes Equatorial Guinea as a country where “pre-censorship is the norm”, where state-controlled broadcasting dominates and where independent media space is extremely limited. That does not prove UFO reports are suppressed; it simply means that unusual-sky stories are unlikely to receive the ordinary local-newspaper treatment that has preserved many historical UFO cases elsewhere. In a country with weak media pluralism, the public record will naturally favour official political, security and development narratives over informal witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-title">Reporters Without Borders Equatorial Guinea | RSF</span><span class="citation-popover-snippet">Reporters Without Borders Equatorial Guinea | RSF</span></span></span>
+The second reason is media visibility. Reporters Without Borders describes Equatorial Guinea as a country where “pre-censorship is the norm”, where state-controlled broadcasting dominates and where independent media space is extremely limited. That does not prove UFO reports are suppressed; it simply means that unusual-sky stories are unlikely to receive the ordinary local-newspaper treatment that has preserved many historical UFO cases elsewhere. In a country with weak media pluralism, the public record will naturally favour official political, security and development narratives over informal witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-title">Reporters Without Borders Equatorial Guinea &#124; RSF</span><span class="citation-popover-snippet">Reporters Without Borders Equatorial Guinea &#124; RSF</span></span></span>
 
 The third reason is digital fragility. Access Now reported that Annobón experienced a major communications crisis in 2024 after protests over environmental concerns, with shutdown conditions making it harder for residents and journalists to document events. This is not a UFO incident, but it is directly relevant to evidence quality: where internet access can be interrupted, island-level reports of unusual lights, aircraft, drones or meteor events may never reach searchable public archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accessnow.org/press-release/keepiton-equatorial-guinea-authorities-end-internet-shutdown-in-annobon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accessnow.org">[Access Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accessnow.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1221,7 +1221,7 @@ The stamps still matter for an Equatorial Guinea UFO page because they are a rar
 
 ## What can be checked against aviation and official archives
 
-A practical UFO assessment starts by asking what ordinary aerial activity could produce sightings. SKYbrary, an aviation-safety knowledge base, lists Equatorial Guinea under ICAO nationality letters “FG” and identifies Malabo and Bata as territory airports, with Malabo located at Punta Europa on Bioko Island. The Aviation Safety Network records nine aviation occurrences for Equatorial Guinea, including incidents near Malabo, Bata, Baney and Annobón. These are not UFO cases, but they confirm that the country has had enough civil and state aviation activity for aircraft misidentification to be a plausible explanation for many hypothetical light-in-the-sky reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Equatorial Guinea | SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Equatorial Guinea | SKYbrary Aviation Safety</span></span></span>
+A practical UFO assessment starts by asking what ordinary aerial activity could produce sightings. SKYbrary, an aviation-safety knowledge base, lists Equatorial Guinea under ICAO nationality letters “FG” and identifies Malabo and Bata as territory airports, with Malabo located at Punta Europa on Bioko Island. The Aviation Safety Network records nine aviation occurrences for Equatorial Guinea, including incidents near Malabo, Bata, Baney and Annobón. These are not UFO cases, but they confirm that the country has had enough civil and state aviation activity for aircraft misidentification to be a plausible explanation for many hypothetical light-in-the-sky reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Equatorial Guinea &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Equatorial Guinea &#124; SKYbrary Aviation Safety</span></span></span>
 
 The Annobón aviation record is particularly relevant because the island is remote, weather-exposed and separated from the country’s main population centres. Aviation Safety Network’s country list includes a 2008 Antonov An-32 accident off Annobón Island, while its broader list includes older accidents around Bioko and Bata. In any future UFO claim from Annobón, investigators should first test mundane explanations such as aircraft approach lights, poor-weather flight activity, search operations, maritime lights, lightning, meteors, or atmospheric effects over the Gulf of Guinea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/database/countries/3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1233,7 +1233,7 @@ International official UFO archives do not currently appear to supply an Equator
 
 A disciplined evidence split is the safest way to handle Equatorial Guinea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Equatorial-Guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Confirmed material:** the country has a documented UFO-cultural artefact in the 1975 saucer stamp issue, and it has verifiable aviation geography and aviation accident history that would be relevant to any future sighting assessment. It also has a restricted media environment and documented communications vulnerabilities that affect how local reports would surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-title">Reporters Without Borders Equatorial Guinea | RSF</span><span class="citation-popover-snippet">Reporters Without Borders Equatorial Guinea | RSF</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zinio.com/publications/mas-alla/7665/issues/735599/articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zinio.com">[Zinio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zinio.com</span><span class="citation-popover-title">Table of contents for No. 435 in Mas Alla</span><span class="citation-popover-snippet">Table of contents for No. 435 in Mas Alla</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Equatorial Guinea | SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Equatorial Guinea | SKYbrary Aviation Safety</span></span></span>
+**Confirmed material:** the country has a documented UFO-cultural artefact in the 1975 saucer stamp issue, and it has verifiable aviation geography and aviation accident history that would be relevant to any future sighting assessment. It also has a restricted media environment and documented communications vulnerabilities that affect how local reports would surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-title">Reporters Without Borders Equatorial Guinea &#124; RSF</span><span class="citation-popover-snippet">Reporters Without Borders Equatorial Guinea &#124; RSF</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zinio.com/publications/mas-alla/7665/issues/735599/articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zinio.com">[Zinio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zinio.com</span><span class="citation-popover-title">Table of contents for No. 435 in Mas Alla</span><span class="citation-popover-snippet">Table of contents for No. 435 in Mas Alla</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Equatorial Guinea &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Equatorial Guinea &#124; SKYbrary Aviation Safety</span></span></span>
 
 **Contested or weak material:** broad web searches surface occasional uses of “UFO”, “OVNI” or “flying saucer” near Equatorial Guinea, but most are irrelevant commercial listings, generic UFO pages, social posts, or references to the 1975 stamps rather than sighting reports. Such material is not strong enough to form a national incident chronology.
 
@@ -1248,7 +1248,7 @@ The wider UAP field supports this cautious posture. NASA has described UAP as ob
 
 If a credible Equatorial Guinea UFO report did emerge, its location would matter as much as the object description.
 
-Malabo and northern Bioko would be the most likely places for aircraft-related misidentification because Malabo is the capital area, has an airport, and sits near maritime and energy infrastructure. Bright lights near the horizon, aircraft on approach, flares, offshore activity or weather phenomena around the Gulf of Guinea would all need to be checked before treating a sighting as anomalous. SKYbrary’s listing of Malabo at Punta Europa is a useful aviation anchor for this area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Equatorial Guinea | SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Equatorial Guinea | SKYbrary Aviation Safety</span></span></span>
+Malabo and northern Bioko would be the most likely places for aircraft-related misidentification because Malabo is the capital area, has an airport, and sits near maritime and energy infrastructure. Bright lights near the horizon, aircraft on approach, flares, offshore activity or weather phenomena around the Gulf of Guinea would all need to be checked before treating a sighting as anomalous. SKYbrary’s listing of Malabo at Punta Europa is a useful aviation anchor for this area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Equatorial Guinea &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Equatorial Guinea &#124; SKYbrary Aviation Safety</span></span></span>
 
 Bata and the Río Muni mainland would need a different filter. Bata is a major mainland urban centre and airport location; reports there would need comparison with domestic flights, regional aviation, military or police activity, weather over the coast, and road or port lighting. Aviation Safety Network’s records include incidents associated with Bata and nearby areas, which underlines that aircraft activity is part of the local sky environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/database/countries/3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1278,86 +1278,44 @@ The useful comparison is not whether Equatorial Guinea has “fewer UFOs” than
 That makes the country a reminder of an important rule for UFO research: absence of evidence should be handled carefully, but so should absence of documentation. Equatorial Guinea’s UFO file is not empty of interest, yet its strongest evidence is cultural and contextual rather than incident-based.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do We Really Know About UFOs in Equatorial Guinea?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do We Really Know About UFOs in Equatorial Guinea?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers investigative methods applicable to sparse case archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating limited and fragmented UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful where local evidence is sparse and readers need a wider UFO framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how folklore and limited records shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1391,75 +1349,71 @@ That makes the country a reminder of an important rule for UFO research: absence
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equatorial-guinea-what-do-we-really-know-about-ufos-in-equatorial-guinea-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1673,193 +1627,193 @@ That makes the country a reminder of an important rule for UFO research: absence
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 2. <a id="endnote-2"></a>
    Source: zinio.com  
    Title: Table of contents for No. 435 in Mas Alla  
-   Link: [https://www.zinio.com/publications/mas-alla/7665/issues/735599/articles](https://www.zinio.com/publications/mas-alla/7665/issues/735599/articles)  
+   Link: <a href="https://www.zinio.com/publications/mas-alla/7665/issues/735599/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.zinio.com/publications/mas-alla/7665/issues/735599/articles</a>  
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Equatorial-Guinea](https://www.britannica.com/place/Equatorial-Guinea)  
+   Link: <a href="https://www.britannica.com/place/Equatorial-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Equatorial-Guinea</a>  
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
    Title: Equatorial Guinea | SKYbrary Aviation Safety  
-   Link: [https://skybrary.aero/territories/equatorial-guinea](https://skybrary.aero/territories/equatorial-guinea)  
+   Link: <a href="https://skybrary.aero/territories/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/territories/equatorial-guinea</a>  
 
 5. <a id="endnote-5"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/database/countries/3C](https://aviation-safety.net/database/countries/3C)  
+   Link: <a href="https://aviation-safety.net/database/countries/3C" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/database/countries/3C</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 11. <a id="endnote-11"></a>
    Source: state.gov  
    Title: Equatorial Guinea  
-   Link: [https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/equatorial-guinea](https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/equatorial-guinea)  
+   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/equatorial-guinea</a>  
 
 12. <a id="endnote-12"></a>
    Source: 2009-2017.state.gov  
-   Link: [https://2009-2017.state.gov/outofdate/bgn/equatorialguinea/40580.htm](https://2009-2017.state.gov/outofdate/bgn/equatorialguinea/40580.htm)  
+   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/equatorialguinea/40580.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/equatorialguinea/40580.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Rio-Muni](https://www.britannica.com/place/Rio-Muni)  
+   Link: <a href="https://www.britannica.com/place/Rio-Muni" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Rio-Muni</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 15. <a id="endnote-15"></a>
    Source: rsf.org  
    Title: Reporters Without Borders Equatorial Guinea | RSF  
-   Link: [https://rsf.org/en/country/equatorial-guinea](https://rsf.org/en/country/equatorial-guinea)  
+   Link: <a href="https://rsf.org/en/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/equatorial-guinea</a>  
 
 16. <a id="endnote-16"></a>
    Source: worldbank.org  
-   Link: [https://www.worldbank.org/ext/en/country/equatorialguinea](https://www.worldbank.org/ext/en/country/equatorialguinea)  
+   Link: <a href="https://www.worldbank.org/ext/en/country/equatorialguinea" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/country/equatorialguinea</a>  
 
 17. <a id="endnote-17"></a>
    Source: accessnow.org  
-   Link: [https://www.accessnow.org/press-release/keepiton-equatorial-guinea-authorities-end-internet-shutdown-in-annobon/](https://www.accessnow.org/press-release/keepiton-equatorial-guinea-authorities-end-internet-shutdown-in-annobon/)  
+   Link: <a href="https://www.accessnow.org/press-release/keepiton-equatorial-guinea-authorities-end-internet-shutdown-in-annobon/" target="_blank" rel="noopener noreferrer nofollow">https://www.accessnow.org/press-release/keepiton-equatorial-guinea-authorities-end-internet-shutdown-in-annobon/</a>  
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06554432](https://www.cia.gov/readingroom/document/06554432)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06554432" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06554432</a>  
 
 19. <a id="endnote-19"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06935701](https://www.cia.gov/readingroom/document/06935701)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/194066330695805/posts/8011295465639480/](https://www.facebook.com/groups/194066330695805/posts/8011295465639480/)  
+   Link: <a href="https://www.facebook.com/groups/194066330695805/posts/8011295465639480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/194066330695805/posts/8011295465639480/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/857999296577104/posts/901441952232838/](https://www.facebook.com/groups/857999296577104/posts/901441952232838/)  
+   Link: <a href="https://www.facebook.com/groups/857999296577104/posts/901441952232838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/857999296577104/posts/901441952232838/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3662574880668021/posts/4273439362914900/](https://www.facebook.com/groups/3662574880668021/posts/4273439362914900/)  
+   Link: <a href="https://www.facebook.com/groups/3662574880668021/posts/4273439362914900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3662574880668021/posts/4273439362914900/</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Equatorial Guinea  
-   Link: [https://en.wikipedia.org/wiki/Equatorial_Guinea](https://en.wikipedia.org/wiki/Equatorial_Guinea)  
+   Link: <a href="https://en.wikipedia.org/wiki/Equatorial_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Equatorial_Guinea</a>  
 
 24. <a id="endnote-24"></a>
    Source: en.wikisource.org  
    Title: Equatorial Guinea  
-   Link: [https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Equatorial_Guinea](https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Equatorial_Guinea)  
+   Link: <a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Equatorial_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Equatorial_Guinea</a>  
 
 25. <a id="endnote-25"></a>
    Source: data.worldbank.org  
    Title: SP.URB.TOT L.IN.ZS  
-   Link: [https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GQ](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GQ)  
+   Link: <a href="https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GQ" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GQ</a>  
 
 26. <a id="endnote-26"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/099122425123033351/pdf/P500576-47736663-1ea3-4bc4-8ff4-cf28d6bdd470.pdf](https://documents1.worldbank.org/curated/en/099122425123033351/pdf/P500576-47736663-1ea3-4bc4-8ff4-cf28d6bdd470.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/099122425123033351/pdf/P500576-47736663-1ea3-4bc4-8ff4-cf28d6bdd470.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099122425123033351/pdf/P500576-47736663-1ea3-4bc4-8ff4-cf28d6bdd470.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: thedocs.worldbank.org  
-   Link: [https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf)  
+   Link: <a href="https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: data.worldbank.org  
    Title: SP.URB.GRO W  
-   Link: [https://data.worldbank.org/indicator/SP.URB.GROW?locations=GQ&view=map](https://data.worldbank.org/indicator/SP.URB.GROW?locations=GQ&view=map)  
+   Link: <a href="https://data.worldbank.org/indicator/SP.URB.GROW?locations=GQ&amp;view=map" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.URB.GROW?locations=GQ&amp;view=map</a>  
 
 29. <a id="endnote-29"></a>
    Source: data.worldbank.org  
    Title: equatorial guinea  
-   Link: [https://data.worldbank.org/country/equatorial-guinea](https://data.worldbank.org/country/equatorial-guinea)  
+   Link: <a href="https://data.worldbank.org/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/equatorial-guinea</a>  
 
 30. <a id="endnote-30"></a>
    Source: stampworld.com  
    Title: Equatorial Guinea  
-   Link: [https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21](https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21)  
+   Link: <a href="https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21" target="_blank" rel="noopener noreferrer nofollow">https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21</a>  
 
 31. <a id="endnote-31"></a>
    Source: relief.unboundmedicine.com  
    Title: Equatorial Guinea  
-   Link: [https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563071/all/Equatorial_Guinea](https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563071/all/Equatorial_Guinea)  
+   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563071/all/Equatorial_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563071/all/Equatorial_Guinea</a>  
 
 32. <a id="endnote-32"></a>
    Source: archive.doingbusiness.org  
    Title: equatorial guinea  
-   Link: [https://archive.doingbusiness.org/en/data/exploreeconomies/equatorial-guinea](https://archive.doingbusiness.org/en/data/exploreeconomies/equatorial-guinea)  
+   Link: <a href="https://archive.doingbusiness.org/en/data/exploreeconomies/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://archive.doingbusiness.org/en/data/exploreeconomies/equatorial-guinea</a>  
 
 33. <a id="endnote-33"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/geography-and-cartography/equatorial-guinea](https://www.ebsco.com/research-starters/geography-and-cartography/equatorial-guinea)  
+   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/equatorial-guinea</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: US Oil in Equatorial Guinea  
-   Link: [https://www.youtube.com/watch?v=aN2TIWomahQ](https://www.youtube.com/watch?v=aN2TIWomahQ)  
+   Link: <a href="https://www.youtube.com/watch?v=aN2TIWomahQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aN2TIWomahQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Fact Checks Money Laundering Scenes - Vanity Fair...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Professor Fact Checks Money Laundering Scenes  
-   Link: [https://www.youtube.com/watch?v=U0e7OCfAO64](https://www.youtube.com/watch?v=U0e7OCfAO64)  
+   Link: <a href="https://www.youtube.com/watch?v=U0e7OCfAO64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U0e7OCfAO64</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Postcolonial Equatoguinean Cultural and Historical Review...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PlatinumFMzw/posts/pressupdate-the-government-of-equatorial-guinea-has-restricted-its-citizens-from/1011023144371654/](https://www.facebook.com/PlatinumFMzw/posts/pressupdate-the-government-of-equatorial-guinea-has-restricted-its-citizens-from/1011023144371654/)  
+   Link: <a href="https://www.facebook.com/PlatinumFMzw/posts/pressupdate-the-government-of-equatorial-guinea-has-restricted-its-citizens-from/1011023144371654/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PlatinumFMzw/posts/pressupdate-the-government-of-equatorial-guinea-has-restricted-its-citizens-from/1011023144371654/</a>  
 
 37. <a id="endnote-37"></a>
    Source: evamaerey.github.io  
-   Link: [https://evamaerey.github.io/tidytuesday_walk_through/tidytuesday_highlights.html](https://evamaerey.github.io/tidytuesday_walk_through/tidytuesday_highlights.html)  
+   Link: <a href="https://evamaerey.github.io/tidytuesday_walk_through/tidytuesday_highlights.html" target="_blank" rel="noopener noreferrer nofollow">https://evamaerey.github.io/tidytuesday_walk_through/tidytuesday_highlights.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 39. <a id="endnote-39"></a>
    Source: ebay.co.uk  
-   Link: [https://www.ebay.co.uk/itm/373609142658](https://www.ebay.co.uk/itm/373609142658)  
+   Link: <a href="https://www.ebay.co.uk/itm/373609142658" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/373609142658</a>  
 
 40. <a id="endnote-40"></a>
    Source: portugalresident.com  
-   Link: [https://www.portugalresident.com/air-force-alert-for-ufo/](https://www.portugalresident.com/air-force-alert-for-ufo/)  
+   Link: <a href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/air-force-alert-for-ufo/</a>  
 
 41. <a id="endnote-41"></a>
    Source: kupi.com  
-   Link: [https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon](https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon</a>  
 
 42. <a id="endnote-42"></a>
    Source: shutterstock.com  
-   Link: [https://www.shutterstock.com/search/astronaut-stamps?page=3](https://www.shutterstock.com/search/astronaut-stamps?page=3)  
+   Link: <a href="https://www.shutterstock.com/search/astronaut-stamps?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/astronaut-stamps?page=3</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/](https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/)  
+   Link: <a href="https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/</a>  

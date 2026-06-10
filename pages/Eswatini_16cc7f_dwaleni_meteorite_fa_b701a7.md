@@ -239,7 +239,7 @@ next_link:
   permalink: /nhlangano/
   short_title: Nhlangano
   heading_title: How Strong Is the Nhlangano UFO Case?
-date: '2026-06-09 01:26:46 '
+date: '2026-06-10 01:51:29 '
 header:
   og_image: /assets/images/Eswatini_16cc7f_dwaleni_meteorite_fa_b701a7-Illustration-1-social.jpg
   preview_image: /assets/images/Eswatini_16cc7f_dwaleni_meteorite_fa_b701a7-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/Eswatini_16cc7f_dwaleni_meteorite_fa_b701a7-Illustration-1
 
 ## Introduction
 
-The Dwaleni meteorite fall of October 1970 is one of the most important [sky events]({{ 'sky-events/' | relative_url }}) ever recorded in Eswatini’s public history because it demonstrates how dramatic aerial phenomena can appear extraordinary while still having a completely natural explanation. Witnesses in the south-west of the country reported loud explosions, streaking light and frightening atmospheric effects over the [Nhlangano]({{ 'nhlangano/' | relative_url }}) area. In another context, such descriptions could easily have entered local folklore as a “mystery craft” or unexplained flying object. Instead, physical fragments were recovered and scientifically classified as meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for DwaleniAbbreviation: There is no official abbreviation for this meteorite. Observed fall: Yes Year fe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteorites.asu.edu/category/meteorites/page/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteorites.asu.edu">[meteorites.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteorites.asu.edu</span><span class="citation-popover-snippet">Page 19 - Buseck Center for Meteorite StudiesDwaleni is an ordinary (H4-6) chondrite that fell the morning of October 12, 1970, near Nhla...</span><span class="citation-popover-meta">Published: October 12, 1970</span></span></span>
+The Dwaleni meteorite fall of October 1970 is one of the most important [sky events]({{ 'sky-events/' | relative_url }}) ever recorded in Eswatini’s public history because it demonstrates how dramatic aerial phenomena can appear extraordinary while still having a completely natural explanation. Witnesses in the south-west of the country reported loud explosions, streaking light and frightening atmospheric effects over the [Nhlangano]({{ 'nhlangano/' | relative_url }}) area. In another context, such descriptions could easily have entered local folklore as a “mystery craft” or unexplained flying object. Instead, physical fragments were recovered and scientifically classified as meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for DwaleniAbbreviation: There is no official abbreviation for this meteorite. Observed fall: Yes Year fe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteorites.asu.edu/category/meteorites/page/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteorites.asu.edu">[meteorites.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteorites.asu.edu</span><span class="citation-popover-snippet">Page 19 - Buseck Center for Meteorite StudiesDwaleni is an ordinary (H4-6) chondrite that fell the morning of October 12, 1970, near Nhla...</span><span class="citation-popover-meta">Published: October 12, 1970</span></span></span>
 
 
 <img src="{{ "/assets/images/Eswatini_16cc7f_dwaleni_meteorite_fa_b701a7-Illustration-1-dark.svg" | relative_url }}" alt="Dwaleni illustration 1" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_dwaleni_meteorite_fa_b701a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_dwaleni_meteorite_fa_b701a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That makes Dwaleni especially valuable when discussing UFO claims in [Eswatini]({{ 'what-is-really-in-eswatinis-ufo-record/' | relative_url }}). It is not simply a meteorite story. It is a reality check about how human observers experience sudden sky events, how limited information can produce extraordinary interpretations, and how recovered evidence can transform an apparent mystery into a documented scientific case.
+That makes Dwaleni especially valuable when discussing UFO claims in Eswatini. It is not simply a meteorite story. It is a reality check about how human observers experience sudden sky events, how limited information can produce extraordinary interpretations, and how recovered evidence can transform an apparent mystery into a documented scientific case.
 
 ## When a Sky Mystery Was a Meteorite
 
@@ -273,7 +273,7 @@ Those details matter because they closely resemble elements commonly found in UF
 
 </div>
 
-Without recovered fragments, the Dwaleni incident could easily have remained an unresolved “strange object” story passed between witnesses. Instead, meteorite material was collected, studied and formally classified as an ordinary chondrite, specifically an H4-6 type meteorite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for DwaleniAbbreviation: There is no official abbreviation for this meteorite. Observed fall: Yes Year fe...</span></span></span>
+Without recovered fragments, the Dwaleni incident could easily have remained an unresolved “strange object” story passed between witnesses. Instead, meteorite material was collected, studied and formally classified as an ordinary chondrite, specifically an H4-6 type meteorite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for DwaleniAbbreviation: There is no official abbreviation for this meteorite. Observed fall: Yes Year fe...</span></span></span>
 
 This is one reason Dwaleni stands apart from many UFO reports in Eswatini and neighbouring regions. The event produced hard physical evidence that could be independently analysed rather than relying solely on memory or anecdote.
 
@@ -301,7 +301,7 @@ To a witness with no clear visual reference, that can resemble:
 
 </div>
 
-Modern fireball research confirms that meteorite entries frequently generate sonic booms and fragmentation sounds as objects disintegrate under atmospheric pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">SciELOAn investigation of the 27 July 2018 bolide and meteorite...by RL Gibson · 2021 · Cited by 2 — Despite meteorite debris being foun...</span><span class="citation-popover-meta">Published: July 2018</span></span></span>
+Modern fireball research confirms that meteorite entries frequently generate sonic booms and fragmentation sounds as objects disintegrate under atmospheric pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">An investigation of the 27 July 2018 bolide and meteorite...by RL Gibson · 2021 · Cited by 2 — Despite meteorite debris being foun...</span><span class="citation-popover-meta">Published: July 2018</span></span></span>
 
 ### The visual confusion
 
@@ -401,86 +401,44 @@ That last point is what separates it from folklore, rumour and many later UFO st
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When a Sky Mystery Was a Meteorite. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When a Sky Mystery Was a Meteorite, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
-        
-        <p class="fr-book-desc">Explains how meteorite events are identified and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers understand dramatic sky events that can resemble UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Provides scientific background on bright atmospheric entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers contrast between explainable and unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -514,75 +472,71 @@ That last point is what separates it from folklore, rumour and many later UFO st
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwaleni-when-a-sky-mystery-was-a-meteorite-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -796,102 +750,102 @@ That last point is what separates it from folklore, rumour and many later UFO st
 
 1. <a id="endnote-1"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/metbull.php?code=7755](https://www.lpi.usra.edu/meteor/metbull.php?code=7755)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LPIMeteoritical Bulletin: Entry for DwaleniAbbreviation: There is no official abbreviation for this meteorite. Observed fall: Yes Year fe...</p></details>
+   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=7755</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical Bulletin: Entry for DwaleniAbbreviation: There is no official abbreviation for this meteorite. Observed fall: Yes Year fe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: meteorites.asu.edu  
-   Link: [https://meteorites.asu.edu/category/meteorites/page/19](https://meteorites.asu.edu/category/meteorites/page/19)  
+   Link: <a href="https://meteorites.asu.edu/category/meteorites/page/19" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/category/meteorites/page/19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 19 - Buseck Center for Meteorite StudiesDwaleni is an ordinary (H4-6) chondrite that fell the morning of October 12, 1970, near Nhla...</p></details>
    Published: October 12, 1970  
 
 3. <a id="endnote-3"></a>
    Source: meteorites.asu.edu  
-   Link: [https://meteorites.asu.edu/meteorites/dwaleni](https://meteorites.asu.edu/meteorites/dwaleni)  
+   Link: <a href="https://meteorites.asu.edu/meteorites/dwaleni" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/dwaleni</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buseck Center for Meteorite Studies1 Oct 2018 — Dwaleni is an ordinary (H4-6) chondrite that fell the morning of October 12, 1970, near N...</p></details>
    Published: October 12, 1970  
 
 4. <a id="endnote-4"></a>
    Source: meteoritical.org  
-   Link: [https://meteoritical.org/publications/meteoritical-bulletin](https://meteoritical.org/publications/meteoritical-bulletin)  
+   Link: <a href="https://meteoritical.org/publications/meteoritical-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://meteoritical.org/publications/meteoritical-bulletin</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical SocietyThe Meteoritical BulletinThe Meteoritical Bulletin contains listings of all newly recognized and reclassified meteori...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/meteor/](https://www.lpi.usra.edu/meteor/)  
+   Link: <a href="https://www.lpi.usra.edu/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin: Search the DatabaseThe primary function of this database is to provide authoritative information about meteorite names, initial...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scielo.org.za  
-   Link: [https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&script=sci_abstract](https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&script=sci_abstract)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciELOAn investigation of the 27 July 2018 bolide and meteorite...by RL Gibson · 2021 · Cited by 2 — Despite meteorite debris being foun...</p></details>
+   Link: <a href="https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow">https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&amp;script=sci_abstract</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation of the 27 July 2018 bolide and meteorite...by RL Gibson · 2021 · Cited by 2 — Despite meteorite debris being foun...</p></details>
    Published: July 2018  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Meteorite fall  
-   Link: [https://en.wikipedia.org/wiki/Meteorite_fall](https://en.wikipedia.org/wiki/Meteorite_fall)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fallA meteorite fall, also called an observed fall, is a meteorite collected... Dwaleni, 12 October 1970, Swaziland · Shise...</p></details>
    Published: October 1970  
 
 8. <a id="endnote-8"></a>
    Source: meteoritic.com  
-   Link: [https://meteoritic.com/pages/new-meteorites-analyzed-and-classified-at-the-laboratory-for-meteorite-analysis-and-classification](https://meteoritic.com/pages/new-meteorites-analyzed-and-classified-at-the-laboratory-for-meteorite-analysis-and-classification)  
+   Link: <a href="https://meteoritic.com/pages/new-meteorites-analyzed-and-classified-at-the-laboratory-for-meteorite-analysis-and-classification" target="_blank" rel="noopener noreferrer nofollow">https://meteoritic.com/pages/new-meteorites-analyzed-and-classified-at-the-laboratory-for-meteorite-analysis-and-classification</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite Classifications &amp; ResearchMeteoritical Bulletin 113. Meteoritical Bulletin...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a9CBZjO3Y2A](https://www.youtube.com/watch?v=a9CBZjO3Y2A)  
+   Link: <a href="https://www.youtube.com/watch?v=a9CBZjO3Y2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9CBZjO3Y2A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EC Meteorite | Much to learn about origins of existence from a...A meteor hit the Earth&#x27;s atmosphere and landed right here on the Easter...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: geocoleccion.com  
-   Link: [https://www.geocoleccion.com/classification](https://www.geocoleccion.com/classification)  
+   Link: <a href="https://www.geocoleccion.com/classification" target="_blank" rel="noopener noreferrer nofollow">https://www.geocoleccion.com/classification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory will make several analysis and later, a scientist committee will review all...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mindat.org  
-   Link: [https://www.mindat.org/feature-935103.html](https://www.mindat.org/feature-935103.html)  
+   Link: <a href="https://www.mindat.org/feature-935103.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/feature-935103.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dwaleni, SwazilandDwaleni, Swaziland. Type: Populated place - a city, town, village, or other... Meteorites. Erratics. Extraterrestrial...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/swaicsa/posts/1654508625399688/](https://www.facebook.com/groups/swaicsa/posts/1654508625399688/)  
+   Link: <a href="https://www.facebook.com/groups/swaicsa/posts/1654508625399688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/swaicsa/posts/1654508625399688/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>okkeveld meteorite is a carbonaceous chondrite that fell in many pieces...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2427538690888656/posts/3478838002425381/](https://www.facebook.com/groups/2427538690888656/posts/3478838002425381/)  
+   Link: <a href="https://www.facebook.com/groups/2427538690888656/posts/3478838002425381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2427538690888656/posts/3478838002425381/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s not attracted to a magnet and not conducive but quite heavy...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: insu.hal.science  
    Title: science The Meteoritical Bulletin, No  
-   Link: [https://insu.hal.science/insu-03863070/document](https://insu.hal.science/insu-03863070/document)  
+   Link: <a href="https://insu.hal.science/insu-03863070/document" target="_blank" rel="noopener noreferrer nofollow">https://insu.hal.science/insu-03863070/document</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>110by J Gattacceca · 2022 · Cited by 43 — Abstract–Meteoritical Bulletin 110 contains the 2802 meteorites approved by the Nomenclature. C...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: What is the Meteoritical Bulletin Database?  
-   Link: [https://www.youtube.com/watch?v=zCooecg-z5s](https://www.youtube.com/watch?v=zCooecg-z5s)  
+   Link: <a href="https://www.youtube.com/watch?v=zCooecg-z5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zCooecg-z5s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite Hangout...0:00 Welcome to the highest quality weekly meteorite education. Today we feature information about the Meteoritical...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Watch: Meteor Causes Thunderous Boom Over Ohio and Pennsylvania  
-   Link: [https://www.youtube.com/watch?v=DArrBIFdzhI](https://www.youtube.com/watch?v=DArrBIFdzhI)  
+   Link: <a href="https://www.youtube.com/watch?v=DArrBIFdzhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DArrBIFdzhI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Bright Fireball Captured on Camera Over B.C. and Washington...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Bright Fireball Captured on Camera Over B.C. and Washington  
-   Link: [https://www.youtube.com/watch?v=dob3lFFURzA](https://www.youtube.com/watch?v=dob3lFFURzA)  
+   Link: <a href="https://www.youtube.com/watch?v=dob3lFFURzA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dob3lFFURzA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Meteorites Explained | How to Find &amp; Own a Piece of the Universe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Meteorites Explained | How to Find & Own a Piece of the Universe  
-   Link: [https://www.youtube.com/watch?v=rbHwjnmfeH8](https://www.youtube.com/watch?v=rbHwjnmfeH8)  
+   Link: <a href="https://www.youtube.com/watch?v=rbHwjnmfeH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rbHwjnmfeH8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 What Happens When Large Meteorites Fall to Earth?...</p></details>

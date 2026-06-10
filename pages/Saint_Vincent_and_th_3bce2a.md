@@ -1185,7 +1185,7 @@ next_link:
   title: Sao Tome UFOs
   permalink: /sao-tome-and-principe/
   short_title: Sao Tome UFOs
-date: '2026-06-09 01:38:45 '
+date: '2026-06-10 02:05:40 '
 header:
   og_image: /assets/images/Saint_Vincent_and_th_3bce2a-overview-social.jpg
   preview_image: /assets/images/Saint_Vincent_and_th_3bce2a-overview.webp
@@ -1286,86 +1286,44 @@ For Saint Vincent and the Grenadines specifically, the fairest conclusion is mod
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Was Seen Over Saint Vincent?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Was Seen Over Saint Vincent?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a page focused on evaluating a documented unidentified aerial event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for analysing unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Adds broader context for contemporary sightings and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Relevant because meteors and re-entry events are plausible explanations for fiery sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1399,75 +1357,71 @@ For Saint Vincent and the Grenadines specifically, the fairest conclusion is mod
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saint-vincent-and-the-grenadines-what-was-seen-over-saint-vincent-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1682,501 +1636,501 @@ For Saint Vincent and the Grenadines specifically, the fairest conclusion is mod
 1. <a id="endnote-1"></a>
    Source: searchlight.vc  
    Title: We didn't find anything to say it was or wasn't a meteorite  
-   Link: [https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/](https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/)  
+   Link: <a href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/</a>  
 
 2. <a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries/57478](https://aerospace.org/reentries/57478)  
+   Link: <a href="https://aerospace.org/reentries/57478" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries/57478</a>  
 
 3. <a id="endnote-3"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
 4. <a id="endnote-4"></a>
    Source: earthsky.org  
    Title: starlink satellite disintegrates caribbean puerto rico  
-   Link: [https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/](https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/)  
+   Link: <a href="https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/</a>  
 
 5. <a id="endnote-5"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
 6. <a id="endnote-6"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DCkidg9uA5P/](https://www.instagram.com/reel/DCkidg9uA5P/)  
+   Link: <a href="https://www.instagram.com/reel/DCkidg9uA5P/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DCkidg9uA5P/</a>  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: trending now campden park residents report strange light in the night skies toni  
-   Link: [https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/](https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/)  
+   Link: <a href="https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/</a>  
 
 8. <a id="endnote-8"></a>
    Source: icao.int  
    Title: Saint Vincent and Grenadines State Air Navigation Plan  
-   Link: [https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf](https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=142307](https://nuforc.org/sighting/?id=142307)  
+   Link: <a href="https://nuforc.org/sighting/?id=142307" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=142307</a>  
 
 11. <a id="endnote-11"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&format_select=table&order=title&page=35&reentry_timezone_selector=Europe%2FMadrid&sort=desc](https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&format_select=table&order=title&page=35&reentry_timezone_selector=Europe%2FMadrid&sort=desc)  
+   Link: <a href="https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&amp;format_select=table&amp;order=title&amp;page=35&amp;reentry_timezone_selector=Europe%2FMadrid&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&amp;format_select=table&amp;order=title&amp;page=35&amp;reentry_timezone_selector=Europe%2FMadrid&amp;sort=desc</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-that-has-been-spotted-across-trinidad-and-tobago-grenada-st-v/627387312911360/](https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-that-has-been-spotted-across-trinidad-and-tobago-grenada-st-v/627387312911360/)  
+   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-that-has-been-spotted-across-trinidad-and-tobago-grenada-st-v/627387312911360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-that-has-been-spotted-across-trinidad-and-tobago-grenada-st-v/627387312911360/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/](https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/](https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/)  
+   Link: <a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/](https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/)  
+   Link: <a href="https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/moonrakeronline/posts/-6o3t-somalia-is-qrv-live-work-a-rare-one-this-weekwhat-the-6o3t-dxpedition-is-o/1387613913371974/](https://www.facebook.com/moonrakeronline/posts/-6o3t-somalia-is-qrv-live-work-a-rare-one-this-weekwhat-the-6o3t-dxpedition-is-o/1387613913371974/)  
+   Link: <a href="https://www.facebook.com/moonrakeronline/posts/-6o3t-somalia-is-qrv-live-work-a-rare-one-this-weekwhat-the-6o3t-dxpedition-is-o/1387613913371974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moonrakeronline/posts/-6o3t-somalia-is-qrv-live-work-a-rare-one-this-weekwhat-the-6o3t-dxpedition-is-o/1387613913371974/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/hamops/posts/10161753237763840/](https://www.facebook.com/groups/hamops/posts/10161753237763840/)  
+   Link: <a href="https://www.facebook.com/groups/hamops/posts/10161753237763840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/hamops/posts/10161753237763840/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: St Vincent Times  
-   Link: [https://www.facebook.com/stvincenttimes/posts/st-vincent-times-fireball-strange-object-spotted-in-skies-above-caribbean-island/459846622827908/](https://www.facebook.com/stvincenttimes/posts/st-vincent-times-fireball-strange-object-spotted-in-skies-above-caribbean-island/459846622827908/)  
+   Link: <a href="https://www.facebook.com/stvincenttimes/posts/st-vincent-times-fireball-strange-object-spotted-in-skies-above-caribbean-island/459846622827908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stvincenttimes/posts/st-vincent-times-fireball-strange-object-spotted-in-skies-above-caribbean-island/459846622827908/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/122198531593669/posts/2010398556106981/](https://www.facebook.com/groups/122198531593669/posts/2010398556106981/)  
+   Link: <a href="https://www.facebook.com/groups/122198531593669/posts/2010398556106981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/122198531593669/posts/2010398556106981/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/](https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/)  
+   Link: <a href="https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/the-american-meteor-society-has-received-numerous-reports-of-a-fireball-over-the/1104298001562850/](https://www.facebook.com/cnn/posts/the-american-meteor-society-has-received-numerous-reports-of-a-fireball-over-the/1104298001562850/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/the-american-meteor-society-has-received-numerous-reports-of-a-fireball-over-the/1104298001562850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-american-meteor-society-has-received-numerous-reports-of-a-fireball-over-the/1104298001562850/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FoxWeather/videos/cosmic-chaos-%EF%B8%8F-mike-hankey-of-the-american-meteor-society-joined-fox-weather-to-/927157846622047/](https://www.facebook.com/FoxWeather/videos/cosmic-chaos-%EF%B8%8F-mike-hankey-of-the-american-meteor-society-joined-fox-weather-to-/927157846622047/)  
+   Link: <a href="https://www.facebook.com/FoxWeather/videos/cosmic-chaos-%EF%B8%8F-mike-hankey-of-the-american-meteor-society-joined-fox-weather-to-/927157846622047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/videos/cosmic-chaos-%EF%B8%8F-mike-hankey-of-the-american-meteor-society-joined-fox-weather-to-/927157846622047/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100066481345367/posts/saint-vincent-bobby-shmurda-will-be-hosting-problem-child-will-be-live-on-that-s/1244878124404887/](https://www.facebook.com/100066481345367/posts/saint-vincent-bobby-shmurda-will-be-hosting-problem-child-will-be-live-on-that-s/1244878124404887/)  
+   Link: <a href="https://www.facebook.com/100066481345367/posts/saint-vincent-bobby-shmurda-will-be-hosting-problem-child-will-be-live-on-that-s/1244878124404887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100066481345367/posts/saint-vincent-bobby-shmurda-will-be-hosting-problem-child-will-be-live-on-that-s/1244878124404887/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3287802691316620/posts/9953039128126243/](https://www.facebook.com/groups/3287802691316620/posts/9953039128126243/)  
+   Link: <a href="https://www.facebook.com/groups/3287802691316620/posts/9953039128126243/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3287802691316620/posts/9953039128126243/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/dbstv/posts/an-aircraft-on-route-to-saint-lucia-from-bequia-on-thursday-crashed-at-about-one/774442621392182/](https://www.facebook.com/dbstv/posts/an-aircraft-on-route-to-saint-lucia-from-bequia-on-thursday-crashed-at-about-one/774442621392182/)  
+   Link: <a href="https://www.facebook.com/dbstv/posts/an-aircraft-on-route-to-saint-lucia-from-bequia-on-thursday-crashed-at-about-one/774442621392182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dbstv/posts/an-aircraft-on-route-to-saint-lucia-from-bequia-on-thursday-crashed-at-about-one/774442621392182/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KGWTV8/videos/fireball-confirmed-by-american-meteor-society-lights-up-camano-island-a-viewers-/970754828779602/](https://www.facebook.com/KGWTV8/videos/fireball-confirmed-by-american-meteor-society-lights-up-camano-island-a-viewers-/970754828779602/)  
+   Link: <a href="https://www.facebook.com/KGWTV8/videos/fireball-confirmed-by-american-meteor-society-lights-up-camano-island-a-viewers-/970754828779602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KGWTV8/videos/fireball-confirmed-by-american-meteor-society-lights-up-camano-island-a-viewers-/970754828779602/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Onenewssvg/videos/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/1103364834816776/](https://www.facebook.com/Onenewssvg/videos/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/1103364834816776/)  
+   Link: <a href="https://www.facebook.com/Onenewssvg/videos/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/1103364834816776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Onenewssvg/videos/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/1103364834816776/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Onenewssvg/videos/strange-light-spotted/432539554448201/](https://www.facebook.com/Onenewssvg/videos/strange-light-spotted/432539554448201/)  
+   Link: <a href="https://www.facebook.com/Onenewssvg/videos/strange-light-spotted/432539554448201/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Onenewssvg/videos/strange-light-spotted/432539554448201/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/176530020440/posts/10169975216680441/](https://www.facebook.com/groups/176530020440/posts/10169975216680441/)  
+   Link: <a href="https://www.facebook.com/groups/176530020440/posts/10169975216680441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/176530020440/posts/10169975216680441/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/](https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/)  
+   Link: <a href="https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/173893423566222/posts/d41d8cd9/1293265908295629/](https://www.facebook.com/groups/173893423566222/posts/d41d8cd9/1293265908295629/)  
+   Link: <a href="https://www.facebook.com/groups/173893423566222/posts/d41d8cd9/1293265908295629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/173893423566222/posts/d41d8cd9/1293265908295629/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NoticiasAlDiaT/posts/reportan-ca%C3%ADda-de-meteorito-en-ciudad-del-carmenhabitantes-de-ciudad-del-carmen-/1399243058913693/](https://www.facebook.com/NoticiasAlDiaT/posts/reportan-ca%C3%ADda-de-meteorito-en-ciudad-del-carmenhabitantes-de-ciudad-del-carmen-/1399243058913693/)  
+   Link: <a href="https://www.facebook.com/NoticiasAlDiaT/posts/reportan-ca%C3%ADda-de-meteorito-en-ciudad-del-carmenhabitantes-de-ciudad-del-carmen-/1399243058913693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NoticiasAlDiaT/posts/reportan-ca%C3%ADda-de-meteorito-en-ciudad-del-carmenhabitantes-de-ciudad-del-carmen-/1399243058913693/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thebubbreport/posts/residents-report-seeing-a-bright-light-in-the-night-sky-over-the-northern-caribb/672697988199876/](https://www.facebook.com/thebubbreport/posts/residents-report-seeing-a-bright-light-in-the-night-sky-over-the-northern-caribb/672697988199876/)  
+   Link: <a href="https://www.facebook.com/thebubbreport/posts/residents-report-seeing-a-bright-light-in-the-night-sky-over-the-northern-caribb/672697988199876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebubbreport/posts/residents-report-seeing-a-bright-light-in-the-night-sky-over-the-northern-caribb/672697988199876/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
    Title: strange lights seen streaking across the sky last night over barbados have been  
-   Link: [https://www.facebook.com/starcomnetworknews/posts/strange-lights-seen-streaking-across-the-sky-last-night-over-barbados-have-been-/591267053844176/](https://www.facebook.com/starcomnetworknews/posts/strange-lights-seen-streaking-across-the-sky-last-night-over-barbados-have-been-/591267053844176/)  
+   Link: <a href="https://www.facebook.com/starcomnetworknews/posts/strange-lights-seen-streaking-across-the-sky-last-night-over-barbados-have-been-/591267053844176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/starcomnetworknews/posts/strange-lights-seen-streaking-across-the-sky-last-night-over-barbados-have-been-/591267053844176/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/slam100.5/posts/the-celestial-phenomenon-turned-out-to-be-a-starlink-satellite-that-failed-to-re/285707217549308/](https://www.facebook.com/slam100.5/posts/the-celestial-phenomenon-turned-out-to-be-a-starlink-satellite-that-failed-to-re/285707217549308/)  
+   Link: <a href="https://www.facebook.com/slam100.5/posts/the-celestial-phenomenon-turned-out-to-be-a-starlink-satellite-that-failed-to-re/285707217549308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slam100.5/posts/the-celestial-phenomenon-turned-out-to-be-a-starlink-satellite-that-failed-to-re/285707217549308/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WTKR3/posts/-did-you-see-it-virginians-who-spotted-a-glowing-light-streaking-across-the-sky-/1313727283686971/](https://www.facebook.com/WTKR3/posts/-did-you-see-it-virginians-who-spotted-a-glowing-light-streaking-across-the-sky-/1313727283686971/)  
+   Link: <a href="https://www.facebook.com/WTKR3/posts/-did-you-see-it-virginians-who-spotted-a-glowing-light-streaking-across-the-sky-/1313727283686971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTKR3/posts/-did-you-see-it-virginians-who-spotted-a-glowing-light-streaking-across-the-sky-/1313727283686971/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/](https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/)  
+   Link: <a href="https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News5Live/posts/tonight-several-people-have-taken-to-social-media-with-videos-of-what-they-deem-/5933552476765574/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CorozalLive/posts/iykyk-spotted-that-row-of-lights-moving-over-the-skies-of-belize-lastnightthose-/1753136572218178/](https://www.facebook.com/CorozalLive/posts/iykyk-spotted-that-row-of-lights-moving-over-the-skies-of-belize-lastnightthose-/1753136572218178/)  
+   Link: <a href="https://www.facebook.com/CorozalLive/posts/iykyk-spotted-that-row-of-lights-moving-over-the-skies-of-belize-lastnightthose-/1753136572218178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CorozalLive/posts/iykyk-spotted-that-row-of-lights-moving-over-the-skies-of-belize-lastnightthose-/1753136572218178/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
    Title: TTWeather Center  
-   Link: [https://www.facebook.com/TTWeatherCenter/posts/6224156164271048/](https://www.facebook.com/TTWeatherCenter/posts/6224156164271048/)  
+   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/6224156164271048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/6224156164271048/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/stvincenttimes/posts/strange-lights-in-the-sky-over-baggaany-other-info-can-be-sent-to-496-2450/2131765493795578/](https://www.facebook.com/stvincenttimes/posts/strange-lights-in-the-sky-over-baggaany-other-info-can-be-sent-to-496-2450/2131765493795578/)  
+   Link: <a href="https://www.facebook.com/stvincenttimes/posts/strange-lights-in-the-sky-over-baggaany-other-info-can-be-sent-to-496-2450/2131765493795578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stvincenttimes/posts/strange-lights-in-the-sky-over-baggaany-other-info-can-be-sent-to-496-2450/2131765493795578/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TTWeatherCenter/posts/update-this-bright-flashing-light-was-also-spotted-across-the-caribbean-unfortun/3610665382286819/](https://www.facebook.com/TTWeatherCenter/posts/update-this-bright-flashing-light-was-also-spotted-across-the-caribbean-unfortun/3610665382286819/)  
+   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/update-this-bright-flashing-light-was-also-spotted-across-the-caribbean-unfortun/3610665382286819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/update-this-bright-flashing-light-was-also-spotted-across-the-caribbean-unfortun/3610665382286819/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/](https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/caycompass/posts/a-defunct-prototype-space-station-was-spotted-by-people-in-cayman-tuesday-night-/1361120515868891/](https://www.facebook.com/caycompass/posts/a-defunct-prototype-space-station-was-spotted-by-people-in-cayman-tuesday-night-/1361120515868891/)  
+   Link: <a href="https://www.facebook.com/caycompass/posts/a-defunct-prototype-space-station-was-spotted-by-people-in-cayman-tuesday-night-/1361120515868891/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/a-defunct-prototype-space-station-was-spotted-by-people-in-cayman-tuesday-night-/1361120515868891/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spaceintel101/posts/2315289552187185/](https://www.facebook.com/groups/spaceintel101/posts/2315289552187185/)  
+   Link: <a href="https://www.facebook.com/groups/spaceintel101/posts/2315289552187185/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/2315289552187185/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
    Title: at 840 pm sunday 26th april 2020 a bright meteor streaked across the night sky o  
-   Link: [https://www.facebook.com/TTWeatherCenter/posts/at-840-pm-sunday-26th-april-2020-a-bright-meteor-streaked-across-the-night-sky-o/3109571662396196/](https://www.facebook.com/TTWeatherCenter/posts/at-840-pm-sunday-26th-april-2020-a-bright-meteor-streaked-across-the-night-sky-o/3109571662396196/)  
+   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/at-840-pm-sunday-26th-april-2020-a-bright-meteor-streaked-across-the-night-sky-o/3109571662396196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/at-840-pm-sunday-26th-april-2020-a-bright-meteor-streaked-across-the-night-sky-o/3109571662396196/</a>  
    Published: april 2020  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
    Title: news update the night sky likened to an amusement park as rocket launch created  
-   Link: [https://www.facebook.com/jtv55/posts/news-update-the-night-sky-likened-to-an-amusement-park-as-rocket-launch-created-/687318550064217/](https://www.facebook.com/jtv55/posts/news-update-the-night-sky-likened-to-an-amusement-park-as-rocket-launch-created-/687318550064217/)  
+   Link: <a href="https://www.facebook.com/jtv55/posts/news-update-the-night-sky-likened-to-an-amusement-park-as-rocket-launch-created-/687318550064217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jtv55/posts/news-update-the-night-sky-likened-to-an-amusement-park-as-rocket-launch-created-/687318550064217/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/195127107285438/posts/3929155727215872/](https://www.facebook.com/groups/195127107285438/posts/3929155727215872/)  
+   Link: <a href="https://www.facebook.com/groups/195127107285438/posts/3929155727215872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/195127107285438/posts/3929155727215872/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cvmtv/posts/the-jamaican-night-sky-lit-up-late-thursdaynot-from-stars-or-the-moon-but-from-f/1068666988635142/](https://www.facebook.com/cvmtv/posts/the-jamaican-night-sky-lit-up-late-thursdaynot-from-stars-or-the-moon-but-from-f/1068666988635142/)  
+   Link: <a href="https://www.facebook.com/cvmtv/posts/the-jamaican-night-sky-lit-up-late-thursdaynot-from-stars-or-the-moon-but-from-f/1068666988635142/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/the-jamaican-night-sky-lit-up-late-thursdaynot-from-stars-or-the-moon-but-from-f/1068666988635142/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
    Title: what many in trinidad and tobago believed was a soucouyant a fireball like figur  
-   Link: [https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/](https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/)  
+   Link: <a href="https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/](https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/)  
+   Link: <a href="https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
    Title: spacex starship reentry we will now see re entries of starship on each flight th  
-   Link: [https://www.facebook.com/SpaceXFP/posts/spacex-starship-reentry-we-will-now-see-re-entries-of-starship-on-each-flight-th/498654839349244/](https://www.facebook.com/SpaceXFP/posts/spacex-starship-reentry-we-will-now-see-re-entries-of-starship-on-each-flight-th/498654839349244/)  
+   Link: <a href="https://www.facebook.com/SpaceXFP/posts/spacex-starship-reentry-we-will-now-see-re-entries-of-starship-on-each-flight-th/498654839349244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceXFP/posts/spacex-starship-reentry-we-will-now-see-re-entries-of-starship-on-each-flight-th/498654839349244/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/stlucianewsonline/posts/according-to-reentry-predictions-the-meteor-seen-falling-from-the-night-sky-was-/1214570319358076/](https://www.facebook.com/stlucianewsonline/posts/according-to-reentry-predictions-the-meteor-seen-falling-from-the-night-sky-was-/1214570319358076/)  
+   Link: <a href="https://www.facebook.com/stlucianewsonline/posts/according-to-reentry-predictions-the-meteor-seen-falling-from-the-night-sky-was-/1214570319358076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stlucianewsonline/posts/according-to-reentry-predictions-the-meteor-seen-falling-from-the-night-sky-was-/1214570319358076/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/inthenewstt/posts/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/718337616976385/](https://www.facebook.com/inthenewstt/posts/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/718337616976385/)  
+   Link: <a href="https://www.facebook.com/inthenewstt/posts/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/718337616976385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/inthenewstt/posts/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/718337616976385/</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/inthenewstt/videos/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/825901689032430/](https://www.facebook.com/inthenewstt/videos/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/825901689032430/)  
+   Link: <a href="https://www.facebook.com/inthenewstt/videos/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/825901689032430/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/inthenewstt/videos/spacex-starlink-captured-burning-up-in-the-atmosphere-in-dramatic-fashionaccordi/825901689032430/</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
    Title: a starlink satellite seems to have exploded  
-   Link: [https://www.facebook.com/verge/posts/a-starlink-satellite-seems-to-have-exploded/1249020603754077/](https://www.facebook.com/verge/posts/a-starlink-satellite-seems-to-have-exploded/1249020603754077/)  
+   Link: <a href="https://www.facebook.com/verge/posts/a-starlink-satellite-seems-to-have-exploded/1249020603754077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/verge/posts/a-starlink-satellite-seems-to-have-exploded/1249020603754077/</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RepublicWorld/videos/a-spacex-starlink-satellite-made-a-fiery-reentry-into-earths-atmosphere-creating/465278853308642/](https://www.facebook.com/RepublicWorld/videos/a-spacex-starlink-satellite-made-a-fiery-reentry-into-earths-atmosphere-creating/465278853308642/)  
+   Link: <a href="https://www.facebook.com/RepublicWorld/videos/a-spacex-starlink-satellite-made-a-fiery-reentry-into-earths-atmosphere-creating/465278853308642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RepublicWorld/videos/a-spacex-starlink-satellite-made-a-fiery-reentry-into-earths-atmosphere-creating/465278853308642/</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBCNews.bb/posts/kingstown-st-vincent-cmc-a-small-airplane-crashed-off-the-coast-of-bequia-on-thu/855672256566261/](https://www.facebook.com/CBCNews.bb/posts/kingstown-st-vincent-cmc-a-small-airplane-crashed-off-the-coast-of-bequia-on-thu/855672256566261/)  
+   Link: <a href="https://www.facebook.com/CBCNews.bb/posts/kingstown-st-vincent-cmc-a-small-airplane-crashed-off-the-coast-of-bequia-on-thu/855672256566261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBCNews.bb/posts/kingstown-st-vincent-cmc-a-small-airplane-crashed-off-the-coast-of-bequia-on-thu/855672256566261/</a>  
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SVGATC/](https://www.facebook.com/SVGATC/)  
+   Link: <a href="https://www.facebook.com/SVGATC/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SVGATC/</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TourismSVG/posts/did-you-know-that-the-civil-aviation-department-is-one-of-five-departments-of-ou/1699436047552752/](https://www.facebook.com/TourismSVG/posts/did-you-know-that-the-civil-aviation-department-is-one-of-five-departments-of-ou/1699436047552752/)  
+   Link: <a href="https://www.facebook.com/TourismSVG/posts/did-you-know-that-the-civil-aviation-department-is-one-of-five-departments-of-ou/1699436047552752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TourismSVG/posts/did-you-know-that-the-civil-aviation-department-is-one-of-five-departments-of-ou/1699436047552752/</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/partygrenada/posts/update-a-us-registered-private-aircraft-carrying-four-individuals-tragically-cra/752839326880862/](https://www.facebook.com/partygrenada/posts/update-a-us-registered-private-aircraft-carrying-four-individuals-tragically-cra/752839326880862/)  
+   Link: <a href="https://www.facebook.com/partygrenada/posts/update-a-us-registered-private-aircraft-carrying-four-individuals-tragically-cra/752839326880862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/partygrenada/posts/update-a-us-registered-private-aircraft-carrying-four-individuals-tragically-cra/752839326880862/</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100085294424283/?locale=en_GB](https://www.facebook.com/100085294424283/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/100085294424283/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100085294424283/?locale=en_GB</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SVGATC/posts/big-up-all-air-traffic-control-officers-throughout-st-vincent-and-the-grenadines/1030795599085557/](https://www.facebook.com/SVGATC/posts/big-up-all-air-traffic-control-officers-throughout-st-vincent-and-the-grenadines/1030795599085557/)  
+   Link: <a href="https://www.facebook.com/SVGATC/posts/big-up-all-air-traffic-control-officers-throughout-st-vincent-and-the-grenadines/1030795599085557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SVGATC/posts/big-up-all-air-traffic-control-officers-throughout-st-vincent-and-the-grenadines/1030795599085557/</a>  
 
 63. <a id="endnote-63"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/coastguard.gov.vc/](https://www.facebook.com/coastguard.gov.vc/)  
+   Link: <a href="https://www.facebook.com/coastguard.gov.vc/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coastguard.gov.vc/</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
    Title: the national ufo reporting center was founded by noted ufo investigator robert j  
-   Link: [https://www.facebook.com/MiddletownCTPatch/posts/the-national-ufo-reporting-center-was-founded-by-noted-ufo-investigator-robert-j/1461025006038062/](https://www.facebook.com/MiddletownCTPatch/posts/the-national-ufo-reporting-center-was-founded-by-noted-ufo-investigator-robert-j/1461025006038062/)  
+   Link: <a href="https://www.facebook.com/MiddletownCTPatch/posts/the-national-ufo-reporting-center-was-founded-by-noted-ufo-investigator-robert-j/1461025006038062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MiddletownCTPatch/posts/the-national-ufo-reporting-center-was-founded-by-noted-ufo-investigator-robert-j/1461025006038062/</a>  
 
 65. <a id="endnote-65"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theanguillian/videos/collision-today-between-the-ufo-and-the-satellite-which-sank-at-august-thursday-/321820155848778/](https://www.facebook.com/theanguillian/videos/collision-today-between-the-ufo-and-the-satellite-which-sank-at-august-thursday-/321820155848778/)  
+   Link: <a href="https://www.facebook.com/theanguillian/videos/collision-today-between-the-ufo-and-the-satellite-which-sank-at-august-thursday-/321820155848778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theanguillian/videos/collision-today-between-the-ufo-and-the-satellite-which-sank-at-august-thursday-/321820155848778/</a>  
 
 66. <a id="endnote-66"></a>
    Source: facebook.com  
    Title: albert watson photograph brooke shields mustique 1981 from a shoot for italian b  
-   Link: [https://www.facebook.com/awatsonphotography/posts/albert-watson-photograph-brooke-shields-mustique-1981-from-a-shoot-for-italian-b/1406129677536283/](https://www.facebook.com/awatsonphotography/posts/albert-watson-photograph-brooke-shields-mustique-1981-from-a-shoot-for-italian-b/1406129677536283/)  
+   Link: <a href="https://www.facebook.com/awatsonphotography/posts/albert-watson-photograph-brooke-shields-mustique-1981-from-a-shoot-for-italian-b/1406129677536283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awatsonphotography/posts/albert-watson-photograph-brooke-shields-mustique-1981-from-a-shoot-for-italian-b/1406129677536283/</a>  
 
 67. <a id="endnote-67"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/526224829210009/posts/1410261190806364/](https://www.facebook.com/groups/526224829210009/posts/1410261190806364/)  
+   Link: <a href="https://www.facebook.com/groups/526224829210009/posts/1410261190806364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526224829210009/posts/1410261190806364/</a>  
 
 68. <a id="endnote-68"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbcsvg/posts/earlier-today-a-beautifully-arched-rainbow-was-spotted-at-port-elizabeth-bequia-/681179767365565/](https://www.facebook.com/nbcsvg/posts/earlier-today-a-beautifully-arched-rainbow-was-spotted-at-port-elizabeth-bequia-/681179767365565/)  
+   Link: <a href="https://www.facebook.com/nbcsvg/posts/earlier-today-a-beautifully-arched-rainbow-was-spotted-at-port-elizabeth-bequia-/681179767365565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcsvg/posts/earlier-today-a-beautifully-arched-rainbow-was-spotted-at-port-elizabeth-bequia-/681179767365565/</a>  
 
 69. <a id="endnote-69"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MiddletownCTPatch/posts/in-a-perfect-world-a-neighbor-whose-dying-tree-fell-on-anothers-property-would-v/1363761439097753/](https://www.facebook.com/MiddletownCTPatch/posts/in-a-perfect-world-a-neighbor-whose-dying-tree-fell-on-anothers-property-would-v/1363761439097753/)  
+   Link: <a href="https://www.facebook.com/MiddletownCTPatch/posts/in-a-perfect-world-a-neighbor-whose-dying-tree-fell-on-anothers-property-would-v/1363761439097753/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MiddletownCTPatch/posts/in-a-perfect-world-a-neighbor-whose-dying-tree-fell-on-anothers-property-would-v/1363761439097753/</a>  
 
 70. <a id="endnote-70"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hugoandres.quinteroperdomo/photos/-la-evidencia-que-no-quisieron-mostrarte-el-caso-erick-tomason-y-el-ovni-de-masl/24758190170436456/](https://www.facebook.com/hugoandres.quinteroperdomo/photos/-la-evidencia-que-no-quisieron-mostrarte-el-caso-erick-tomason-y-el-ovni-de-masl/24758190170436456/)  
+   Link: <a href="https://www.facebook.com/hugoandres.quinteroperdomo/photos/-la-evidencia-que-no-quisieron-mostrarte-el-caso-erick-tomason-y-el-ovni-de-masl/24758190170436456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hugoandres.quinteroperdomo/photos/-la-evidencia-que-no-quisieron-mostrarte-el-caso-erick-tomason-y-el-ovni-de-masl/24758190170436456/</a>  
 
 71. <a id="endnote-71"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbcsvg/posts/what-appears-to-be-a-waterspout-has-been-spotted-off-bequia-a-waterspout-is-a-co/724686093014932/](https://www.facebook.com/nbcsvg/posts/what-appears-to-be-a-waterspout-has-been-spotted-off-bequia-a-waterspout-is-a-co/724686093014932/)  
+   Link: <a href="https://www.facebook.com/nbcsvg/posts/what-appears-to-be-a-waterspout-has-been-spotted-off-bequia-a-waterspout-is-a-co/724686093014932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcsvg/posts/what-appears-to-be-a-waterspout-has-been-spotted-off-bequia-a-waterspout-is-a-co/724686093014932/</a>  
 
 72. <a id="endnote-72"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/noticiascubahoy/posts/el-misterioso-caso-del-cubano-que-fotografi%C3%B3-un-ovni-en-los-cayos-de-florida/1445331520967839/](https://www.facebook.com/noticiascubahoy/posts/el-misterioso-caso-del-cubano-que-fotografi%C3%B3-un-ovni-en-los-cayos-de-florida/1445331520967839/)  
+   Link: <a href="https://www.facebook.com/noticiascubahoy/posts/el-misterioso-caso-del-cubano-que-fotografi%C3%B3-un-ovni-en-los-cayos-de-florida/1445331520967839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/noticiascubahoy/posts/el-misterioso-caso-del-cubano-que-fotografi%C3%B3-un-ovni-en-los-cayos-de-florida/1445331520967839/</a>  
 
 73. <a id="endnote-73"></a>
    Source: searchlight.vc  
-   Link: [https://www.searchlight.vc/category/news/page/345/](https://www.searchlight.vc/category/news/page/345/)  
+   Link: <a href="https://www.searchlight.vc/category/news/page/345/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/category/news/page/345/</a>  
 
 74. <a id="endnote-74"></a>
    Source: searchlight.vc  
    Title: Fearing the unknown  
-   Link: [https://www.searchlight.vc/our-readers-opinions/2004/10/15/fearing-the-unknown/](https://www.searchlight.vc/our-readers-opinions/2004/10/15/fearing-the-unknown/)  
+   Link: <a href="https://www.searchlight.vc/our-readers-opinions/2004/10/15/fearing-the-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/our-readers-opinions/2004/10/15/fearing-the-unknown/</a>  
 
 75. <a id="endnote-75"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/safety/AIG/AIA](https://www.icao.int/safety/AIG/AIA)  
+   Link: <a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
 
 76. <a id="endnote-76"></a>
    Source: gis.icao.int  
-   Link: [https://gis.icao.int/LPR/StVincent_en.pdf](https://gis.icao.int/LPR/StVincent_en.pdf)  
+   Link: <a href="https://gis.icao.int/LPR/StVincent_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gis.icao.int/LPR/StVincent_en.pdf</a>  
 
 77. <a id="endnote-77"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=cFrance](https://nuforc.org/subndx/?id=cFrance)  
+   Link: <a href="https://nuforc.org/subndx/?id=cFrance" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cFrance</a>  
 
 78. <a id="endnote-78"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYchkV7ji93/](https://www.instagram.com/p/DYchkV7ji93/)  
+   Link: <a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
 
 79. <a id="endnote-79"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYkHsb2KoyI/](https://www.instagram.com/reel/DYkHsb2KoyI/)  
+   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
 
 80. <a id="endnote-80"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTtLJa3EnHV/](https://www.instagram.com/reel/DTtLJa3EnHV/)  
+   Link: <a href="https://www.instagram.com/reel/DTtLJa3EnHV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTtLJa3EnHV/</a>  
 
 81. <a id="endnote-81"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CAO8g8xlP5-/?hl=en](https://www.instagram.com/p/CAO8g8xlP5-/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/CAO8g8xlP5-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CAO8g8xlP5-/?hl=en</a>  
 
 82. <a id="endnote-82"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CpkturWrhGg/](https://www.instagram.com/p/CpkturWrhGg/)  
+   Link: <a href="https://www.instagram.com/p/CpkturWrhGg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CpkturWrhGg/</a>  
 
 83. <a id="endnote-83"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVpofqKGVF1/](https://www.instagram.com/p/DVpofqKGVF1/)  
+   Link: <a href="https://www.instagram.com/p/DVpofqKGVF1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVpofqKGVF1/</a>  
 
 84. <a id="endnote-84"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVaN-ePiWSx/](https://www.instagram.com/reel/DVaN-ePiWSx/)  
+   Link: <a href="https://www.instagram.com/reel/DVaN-ePiWSx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVaN-ePiWSx/</a>  
 
 85. <a id="endnote-85"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWhj8avEQ5K/?hl=en](https://www.instagram.com/p/DWhj8avEQ5K/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DWhj8avEQ5K/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWhj8avEQ5K/?hl=en</a>  
 
 86. <a id="endnote-86"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DOJQHfqCk6I/](https://www.instagram.com/p/DOJQHfqCk6I/)  
+   Link: <a href="https://www.instagram.com/p/DOJQHfqCk6I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOJQHfqCk6I/</a>  
 
 87. <a id="endnote-87"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DEVHI_jOsps/](https://www.instagram.com/p/DEVHI_jOsps/)  
+   Link: <a href="https://www.instagram.com/p/DEVHI_jOsps/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DEVHI_jOsps/</a>  
 
 88. <a id="endnote-88"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/civilaviationdepartment/](https://www.instagram.com/civilaviationdepartment/)  
+   Link: <a href="https://www.instagram.com/civilaviationdepartment/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/civilaviationdepartment/</a>  
 
 89. <a id="endnote-89"></a>
    Source: instagram.com  
    Title: DPMxl TWg Zt X  
-   Link: [https://www.instagram.com/p/DPMxlTWgZtX/](https://www.instagram.com/p/DPMxlTWgZtX/)  
+   Link: <a href="https://www.instagram.com/p/DPMxlTWgZtX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPMxlTWgZtX/</a>  
 
 90. <a id="endnote-90"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXecW9DjatH/](https://www.instagram.com/reel/DXecW9DjatH/)  
+   Link: <a href="https://www.instagram.com/reel/DXecW9DjatH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXecW9DjatH/</a>  
 
 91. <a id="endnote-91"></a>
    Source: starlink.com  
-   Link: [https://www.starlink.com/public-files/Starlink_Approach_to_Satellite_Demisability.pdf?srsltid=AfmBOopt4bRiJB4QWFL4nA-uweF08NBhqvuPYIynGRzvaJb-0WoVDXc9](https://www.starlink.com/public-files/Starlink_Approach_to_Satellite_Demisability.pdf?srsltid=AfmBOopt4bRiJB4QWFL4nA-uweF08NBhqvuPYIynGRzvaJb-0WoVDXc9)  
+   Link: <a href="https://www.starlink.com/public-files/Starlink_Approach_to_Satellite_Demisability.pdf?srsltid=AfmBOopt4bRiJB4QWFL4nA-uweF08NBhqvuPYIynGRzvaJb-0WoVDXc9" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/public-files/Starlink_Approach_to_Satellite_Demisability.pdf?srsltid=AfmBOopt4bRiJB4QWFL4nA-uweF08NBhqvuPYIynGRzvaJb-0WoVDXc9</a>  
 
 92. <a id="endnote-92"></a>
    Source: starlink.com  
    Title: starlinkProgressReport 2024  
-   Link: [https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOopwbqPKwIeeu6zUiQt1RImefxIwo6uCtvkdLrXO8yAdsb1_yZmY](https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOopwbqPKwIeeu6zUiQt1RImefxIwo6uCtvkdLrXO8yAdsb1_yZmY)  
+   Link: <a href="https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOopwbqPKwIeeu6zUiQt1RImefxIwo6uCtvkdLrXO8yAdsb1_yZmY" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOopwbqPKwIeeu6zUiQt1RImefxIwo6uCtvkdLrXO8yAdsb1_yZmY</a>  
 
 93. <a id="endnote-93"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&format_select=table&order=field_launched&page=129&reentry_timezone_selector=Europe%2FMadrid&sort=asc](https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&format_select=table&order=field_launched&page=129&reentry_timezone_selector=Europe%2FMadrid&sort=asc)  
+   Link: <a href="https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&amp;format_select=table&amp;order=field_launched&amp;page=129&amp;reentry_timezone_selector=Europe%2FMadrid&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries/grid?field_reentry_sighting_value=All&amp;format_select=table&amp;order=field_launched&amp;page=129&amp;reentry_timezone_selector=Europe%2FMadrid&amp;sort=asc</a>  
 
 94. <a id="endnote-94"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/naturalhistory91newy/naturalhistory91newy_djvu.txt](https://archive.org/stream/naturalhistory91newy/naturalhistory91newy_djvu.txt)  
+   Link: <a href="https://archive.org/stream/naturalhistory91newy/naturalhistory91newy_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/naturalhistory91newy/naturalhistory91newy_djvu.txt</a>  
 
 95. <a id="endnote-95"></a>
    Source: archive.org  
    Title: newyorkshellclu201newy djvu.txt  
-   Link: [https://archive.org/stream/newyorkshellclu201newy/newyorkshellclu201newy_djvu.txt](https://archive.org/stream/newyorkshellclu201newy/newyorkshellclu201newy_djvu.txt)  
+   Link: <a href="https://archive.org/stream/newyorkshellclu201newy/newyorkshellclu201newy_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/newyorkshellclu201newy/newyorkshellclu201newy_djvu.txt</a>  
 
 96. <a id="endnote-96"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/videos?video_id=21456](https://amsmeteors.org/videos?video_id=21456)  
+   Link: <a href="https://amsmeteors.org/videos?video_id=21456" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=21456</a>  
 
 97. <a id="endnote-97"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_reports](https://fireball.amsmeteors.org/members/imo_view/browse_reports)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
 
 98. <a id="endnote-98"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/videos/?video_id=17774](https://www.amsmeteors.org/videos/?video_id=17774)  
+   Link: <a href="https://www.amsmeteors.org/videos/?video_id=17774" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos/?video_id=17774</a>  
 
 99. <a id="endnote-99"></a>
    Source: amsmeteors.org  
    Title: fireball spotted south west of the uk on may 12th 2022  
-   Link: [https://www.amsmeteors.org/2022/05/fireball-spotted-south-west-of-the-uk-on-may-12th-2022/](https://www.amsmeteors.org/2022/05/fireball-spotted-south-west-of-the-uk-on-may-12th-2022/)  
+   Link: <a href="https://www.amsmeteors.org/2022/05/fireball-spotted-south-west-of-the-uk-on-may-12th-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2022/05/fireball-spotted-south-west-of-the-uk-on-may-12th-2022/</a>  
 
 100. <a id="endnote-100"></a>
    Source: space.com  
    Title: starlink satellite falls to earth burns up as stunning fireball over us video  
-   Link: [https://www.space.com/space-exploration/satellites/starlink-satellite-falls-to-earth-burns-up-as-stunning-fireball-over-us-video](https://www.space.com/space-exploration/satellites/starlink-satellite-falls-to-earth-burns-up-as-stunning-fireball-over-us-video)  
+   Link: <a href="https://www.space.com/space-exploration/satellites/starlink-satellite-falls-to-earth-burns-up-as-stunning-fireball-over-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/starlink-satellite-falls-to-earth-burns-up-as-stunning-fireball-over-us-video</a>  
 
 101. <a id="endnote-101"></a>
    Source: security.gov.vc  
-   Link: [https://security.gov.vc/security/index.php?Itemid=165&id=44&option=com_content&view=article](https://security.gov.vc/security/index.php?Itemid=165&id=44&option=com_content&view=article)  
+   Link: <a href="https://security.gov.vc/security/index.php?Itemid=165&amp;id=44&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://security.gov.vc/security/index.php?Itemid=165&amp;id=44&amp;option=com_content&amp;view=article</a>  
 
 102. <a id="endnote-102"></a>
    Source: stvincenttimes.com  
    Title: St Vincent Times Meteor illuminates the skies over St. Vincent (SVG)  
-   Link: [https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/](https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/)  
+   Link: <a href="https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stvincenttimes.com/meteor-illuminates-the-skies-over-st-vincent-svg/</a>  
 
 103. <a id="endnote-103"></a>
    Source: security.gov.vc  
-   Link: [https://security.gov.vc/security/index.php?Itemid=15&id=4&option=com_content&view=article](https://security.gov.vc/security/index.php?Itemid=15&id=4&option=com_content&view=article)  
+   Link: <a href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article</a>  
 
 104. <a id="endnote-104"></a>
    Source: Wikipedia  
    Title: Saint Vincent and the Grenadines Coast Guard  
-   Link: [https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Coast_Guard](https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Coast_Guard)  
+   Link: <a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Coast_Guard" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Coast_Guard</a>  
 
 105. <a id="endnote-105"></a>
    Source: stvincenttimes.com  
    Title: fireball strange object spotted in skies above caribbean island  
-   Link: [https://www.stvincenttimes.com/fireball-strange-object-spotted-in-skies-above-caribbean-island/](https://www.stvincenttimes.com/fireball-strange-object-spotted-in-skies-above-caribbean-island/)  
+   Link: <a href="https://www.stvincenttimes.com/fireball-strange-object-spotted-in-skies-above-caribbean-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.stvincenttimes.com/fireball-strange-object-spotted-in-skies-above-caribbean-island/</a>  
 
 106. <a id="endnote-106"></a>
    Source: crwflags.com  
    Title: Coast Guard  
-   Link: [https://www.crwflags.com/Fotw/FLAGS/vc%5Ecg.html](https://www.crwflags.com/Fotw/FLAGS/vc%5Ecg.html)  
+   Link: <a href="https://www.crwflags.com/Fotw/FLAGS/vc%5Ecg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crwflags.com/Fotw/FLAGS/vc%5Ecg.html</a>  
 
 107. <a id="endnote-107"></a>
    Source: svg-airport.com  
-   Link: [https://www.svg-airport.com/contact/](https://www.svg-airport.com/contact/)  
+   Link: <a href="https://www.svg-airport.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://www.svg-airport.com/contact/</a>  
 
 ### Additional References
 
 108. <a id="endnote-108"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=_Bicgif3rFU](http://www.youtube.com/watch?v=_Bicgif3rFU)  
+   Link: <a href="http://www.youtube.com/watch?v=_Bicgif3rFU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_Bicgif3rFU</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Vincent and the Grenadines UFO OR UAP OR fireball OR meteor Strange Object Spotted Over Saint Vincent &amp; The Grenadines 👀🧐😱🇻🇨 #svg #...</p></details>
 
 109. <a id="endnote-109"></a>
    Source: youtube.com  
    Title: Strange Object Spotted Over Saint Vincent & The Grenadines 👀🧐😱🇻🇨 #svg #meteor  
-   Link: [http://www.youtube.com/watch?v=uhGj47uq3oY](http://www.youtube.com/watch?v=uhGj47uq3oY)  
+   Link: <a href="http://www.youtube.com/watch?v=uhGj47uq3oY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uhGj47uq3oY</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Spotted Over Caribbean Islands (SVG, Antigua, T&amp;T, Jamaica)...</p></details>
 
 110. <a id="endnote-110"></a>
    Source: youtube.com  
    Title: UFOs Spotted Over Caribbean Islands (SVG, Antigua, T&T, Jamaica)  
-   Link: [http://www.youtube.com/watch?v=VByJaW0yuII](http://www.youtube.com/watch?v=VByJaW0yuII)  
+   Link: <a href="http://www.youtube.com/watch?v=VByJaW0yuII" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VByJaW0yuII</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting in St Lucia, St Vincent, St Kitts (Caribbean)...</p></details>
 
 111. <a id="endnote-111"></a>
    Source: fireballs.ndc.nasa.gov  
-   Link: [https://fireballs.ndc.nasa.gov/](https://fireballs.ndc.nasa.gov/)  
+   Link: <a href="https://fireballs.ndc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.ndc.nasa.gov/</a>  
 
 112. <a id="endnote-112"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=q6s5RwqnnLM](http://www.youtube.com/watch?v=q6s5RwqnnLM)  
+   Link: <a href="http://www.youtube.com/watch?v=q6s5RwqnnLM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=q6s5RwqnnLM</a>  
      <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting: Incredible Analysis of the Aguadilla, Puerto Rico UFO Captured on FLIR Camera...</p></details>
 
 113. <a id="endnote-113"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/118736316/Outer_Bounds_of_Belief_How_do_the_religious_confront_the_possibility_of_extraterrestrial_life](https://www.academia.edu/118736316/Outer_Bounds_of_Belief_How_do_the_religious_confront_the_possibility_of_extraterrestrial_life)  
+   Link: <a href="https://www.academia.edu/118736316/Outer_Bounds_of_Belief_How_do_the_religious_confront_the_possibility_of_extraterrestrial_life" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/118736316/Outer_Bounds_of_Belief_How_do_the_religious_confront_the_possibility_of_extraterrestrial_life</a>  
 
 114. <a id="endnote-114"></a>
    Source: gettyimages.com  
-   Link: [https://www.gettyimages.com/photos/island-of-mustique](https://www.gettyimages.com/photos/island-of-mustique)  
+   Link: <a href="https://www.gettyimages.com/photos/island-of-mustique" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/island-of-mustique</a>  
 
 115. <a id="endnote-115"></a>
    Source: gettyimages.co.uk  
-   Link: [https://www.gettyimages.co.uk/photos/port-elizabeth-bequia](https://www.gettyimages.co.uk/photos/port-elizabeth-bequia)  
+   Link: <a href="https://www.gettyimages.co.uk/photos/port-elizabeth-bequia" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/port-elizabeth-bequia</a>  
 
 116. <a id="endnote-116"></a>
    Source: tourism.gov.vc  
-   Link: [https://tourism.gov.vc/tourism/index.php/news/603-statement-by-the-hon-carlos-james-minister-of-civil-aviation-saint-vincent-and-the-grenadines-on-the-bellanca-17-aircraft-crash](https://tourism.gov.vc/tourism/index.php/news/603-statement-by-the-hon-carlos-james-minister-of-civil-aviation-saint-vincent-and-the-grenadines-on-the-bellanca-17-aircraft-crash)  
+   Link: <a href="https://tourism.gov.vc/tourism/index.php/news/603-statement-by-the-hon-carlos-james-minister-of-civil-aviation-saint-vincent-and-the-grenadines-on-the-bellanca-17-aircraft-crash" target="_blank" rel="noopener noreferrer nofollow">https://tourism.gov.vc/tourism/index.php/news/603-statement-by-the-hon-carlos-james-minister-of-civil-aviation-saint-vincent-and-the-grenadines-on-the-bellanca-17-aircraft-crash</a>  
 
 117. <a id="endnote-117"></a>
    Source: sams.ac.uk  
-   Link: [https://www.sams.ac.uk/t4-media/sams/pdf/publications/sams-annual-reports/Annual-Report-2009.pdf](https://www.sams.ac.uk/t4-media/sams/pdf/publications/sams-annual-reports/Annual-Report-2009.pdf)  
+   Link: <a href="https://www.sams.ac.uk/t4-media/sams/pdf/publications/sams-annual-reports/Annual-Report-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sams.ac.uk/t4-media/sams/pdf/publications/sams-annual-reports/Annual-Report-2009.pdf</a>  

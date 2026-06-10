@@ -245,7 +245,7 @@ next_link:
   permalink: /saladare/
   short_title: Saladare
   heading_title: Why Is the Saladare UFO Case So Hard to Prove?
-date: '2026-06-09 01:26:51 '
+date: '2026-06-10 01:51:33 '
 header:
   og_image: /assets/images/Ethiopia_3d91f7_ufo_explanations_5e91ba-Illustration-1-social.jpg
   preview_image: /assets/images/Ethiopia_3d91f7_ufo_explanations_5e91ba-Illustration-1.webp
@@ -258,7 +258,7 @@ Most Ethiopian UFO stories become less mysterious once the underlying mechanism 
 
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_ufo_explanations_5e91ba-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_ufo_explanations_5e91ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_ufo_explanations_5e91ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-[Ethiopia]({{ 'what-really-counts-as-ethiopias-ufo/' | relative_url }}) is especially useful as a case study because the country’s modern UFO record is thin enough that individual explanations can be examined closely. The strongest recent reports point towards meteors or orbital debris rather than unknown craft, while older stories often grew through retelling, translation gaps and later UFO culture. The result is not a simple “solved versus unsolved” divide, but a layered picture in which astronomy, aerospace activity, folklore and modern internet mythology all shape how unusual sightings are remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.gov.et/w/scientific-analysis-from-space-science-and-geospatial-institute-about-the-event-that-happened-in-the-sky-of-southern-ethiopia-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.gov.et">[Mint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.gov.et</span><span class="citation-popover-snippet">Meteorological collection known as Quadrantids with up to 200 M indicates that they may be coming to Earth.Read more...</span></span></span>
+Ethiopia is especially useful as a case study because the country’s modern UFO record is thin enough that individual explanations can be examined closely. The strongest recent reports point towards meteors or orbital debris rather than unknown craft, while older stories often grew through retelling, translation gaps and later UFO culture. The result is not a simple “solved versus unsolved” divide, but a layered picture in which astronomy, aerospace activity, folklore and modern internet mythology all shape how unusual sightings are remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.gov.et/w/scientific-analysis-from-space-science-and-geospatial-institute-about-the-event-that-happened-in-the-sky-of-southern-ethiopia-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.gov.et">[Mint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.gov.et</span><span class="citation-popover-snippet">Meteorological collection known as Quadrantids with up to 200 M indicates that they may be coming to Earth.Read more...</span></span></span>
 
 ## Why bright sky events become UFO reports
 
@@ -384,7 +384,7 @@ The important distinction is that folklore preserves cultural meaning rather tha
 
 ### Ethiopia’s religious history attracts speculative theories
 
-Ethiopia’s ancient religious traditions, monumental architecture and association with texts like the Book of Enoch have made it attractive to ancient-alien theorists. Online videos and speculative articles frequently claim that Ethiopian traditions contain hidden evidence of extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40NorthStarLight/exploring-the-ethiopian-bible-and-ancient-alien-theory-76dd068f64be" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Exploring the Ethiopian Bible and Ancient Alien Theory</span><span class="citation-popover-snippet">MediumExploring the Ethiopian Bible and Ancient Alien TheoryMarch 23, 2024 — Ancient alien theories propose unconventional explanations f...</span><span class="citation-popover-meta">Published: March 23, 2024</span></span></span> YouTube The most common themes include: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=34lZAn2SHB4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Ancient Ethiopia Knew About UFOs – Proof Buried in the...Video Description:** Step into the ancient world of Ethiopia and uncover the as...</span></span></span>
+Ethiopia’s ancient religious traditions, monumental architecture and association with texts like the Book of Enoch have made it attractive to ancient-alien theorists. Online videos and speculative articles frequently claim that Ethiopian traditions contain hidden evidence of extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40NorthStarLight/exploring-the-ethiopian-bible-and-ancient-alien-theory-76dd068f64be" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Exploring the Ethiopian Bible and Ancient Alien Theory</span><span class="citation-popover-snippet">Exploring the Ethiopian Bible and Ancient Alien TheoryMarch 23, 2024 — Ancient alien theories propose unconventional explanations f...</span><span class="citation-popover-meta">Published: March 23, 2024</span></span></span> YouTube The most common themes include: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=34lZAn2SHB4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Ancient Ethiopia Knew About UFOs – Proof Buried in the...Video Description:** Step into the ancient world of Ethiopia and uncover the as...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -433,86 +433,44 @@ The broader lesson from Ethiopia is that UFO stories often reveal more about inf
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Explains Ethiopia&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Explains Ethiopia&#x27;s UFO Stories?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on interpreting sightings and separating explanations from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Helps explain fireballs, meteors, and atmospheric phenomena behind sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Covers misconceptions about astronomical events often linked to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains why people misinterpret unusual observations and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -546,75 +504,71 @@ The broader lesson from Ethiopia is that UFO stories often reveal more about inf
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5fe3ff-what-explains-ethiopia-s-ufo-stories-ethiopia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -828,117 +782,117 @@ The broader lesson from Ethiopia is that UFO stories often reveal more about inf
 
 1. <a id="endnote-1"></a>
    Source: reentry.esoc.esa.int  
-   Link: [https://reentry.esoc.esa.int/](https://reentry.esoc.esa.int/)  
+   Link: <a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-entry PredictionsESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2021 —... UFO sightings throughout southern Africa. There had been numerous reports of a bright fireball passing through t...</p></details>
    Published: September 20, 2021  
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/angaafradio/posts/what-could-this-beresidents-of-moyalesololo-north-hoorsaku-and-parts-of-mandera-/1250205979912692/](https://www.facebook.com/angaafradio/posts/what-could-this-beresidents-of-moyalesololo-north-hoorsaku-and-parts-of-mandera-/1250205979912692/)  
+   Link: <a href="https://www.facebook.com/angaafradio/posts/what-could-this-beresidents-of-moyalesololo-north-hoorsaku-and-parts-of-mandera-/1250205979912692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angaafradio/posts/what-could-this-beresidents-of-moyalesololo-north-hoorsaku-and-parts-of-mandera-/1250205979912692/</a>  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
    Title: just infear as strange burning object spotted flying over counties of marsabit m  
-   Link: [https://www.facebook.com/angaafradio/posts/just-infear-as-strange-burning-object-spotted-flying-over-counties-of-marsabit-m/1250197986580158/](https://www.facebook.com/angaafradio/posts/just-infear-as-strange-burning-object-spotted-flying-over-counties-of-marsabit-m/1250197986580158/)  
+   Link: <a href="https://www.facebook.com/angaafradio/posts/just-infear-as-strange-burning-object-spotted-flying-over-counties-of-marsabit-m/1250197986580158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angaafradio/posts/just-infear-as-strange-burning-object-spotted-flying-over-counties-of-marsabit-m/1250197986580158/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JUST IN: Fear as strange burning object spotted flying over...Jan 9, 2025󰞋󱟠. 󳄫. JUST IN: Fear as strange burning object... Aliens UFO M...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
    Title: Exploring the Ethiopian Bible and Ancient Alien Theory  
-   Link: [https://medium.com/%40NorthStarLight/exploring-the-ethiopian-bible-and-ancient-alien-theory-76dd068f64be](https://medium.com/%40NorthStarLight/exploring-the-ethiopian-bible-and-ancient-alien-theory-76dd068f64be)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumExploring the Ethiopian Bible and Ancient Alien TheoryMarch 23, 2024 — Ancient alien theories propose unconventional explanations f...</p></details>
+   Link: <a href="https://medium.com/%40NorthStarLight/exploring-the-ethiopian-bible-and-ancient-alien-theory-76dd068f64be" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40NorthStarLight/exploring-the-ethiopian-bible-and-ancient-alien-theory-76dd068f64be</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Ethiopian Bible and Ancient Alien TheoryMarch 23, 2024 — Ancient alien theories propose unconventional explanations f...</p></details>
    Published: March 23, 2024  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=34lZAn2SHB4](https://www.youtube.com/watch?v=34lZAn2SHB4)  
+   Link: <a href="https://www.youtube.com/watch?v=34lZAn2SHB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=34lZAn2SHB4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Ethiopia Knew About UFOs – Proof Buried in the...Video Description:** Step into the ancient world of Ethiopia and uncover the as...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1062463014126424/posts/2730487427323966/](https://www.facebook.com/groups/1062463014126424/posts/2730487427323966/)  
+   Link: <a href="https://www.facebook.com/groups/1062463014126424/posts/2730487427323966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1062463014126424/posts/2730487427323966/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files and Ethiopia&#x27;s Book of EnochDoes it include information on the truth of the Nephilim (alien hybrids), the fallen angels (aliens...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Ancient Aliens  
-   Link: [https://en.wikipedia.org/wiki/Ancient_Aliens](https://en.wikipedia.org/wiki/Ancient_Aliens)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ancient_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ancient_Aliens</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ancient astronauts  
-   Link: [https://en.wikipedia.org/wiki/Ancient_astronauts](https://en.wikipedia.org/wiki/Ancient_astronauts)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ancient_astronauts" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ancient_astronauts</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/trtafrika/posts/mysterious-objects-seen-moving-at-high-speed-in-skies-over-ethiopia-as-officials/582091657942974/](https://www.facebook.com/trtafrika/posts/mysterious-objects-seen-moving-at-high-speed-in-skies-over-ethiopia-as-officials/582091657942974/)  
+   Link: <a href="https://www.facebook.com/trtafrika/posts/mysterious-objects-seen-moving-at-high-speed-in-skies-over-ethiopia-as-officials/582091657942974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtafrika/posts/mysterious-objects-seen-moving-at-high-speed-in-skies-over-ethiopia-as-officials/582091657942974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious objects seen moving at high speed in skies...In the publication they are called UFOs (UFO), although they did not fly, but mo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSNews/videos/volcano-in-ethiopia-erupts-for-first-time-in-recorded-history/1569954047527546/](https://www.facebook.com/CBSNews/videos/volcano-in-ethiopia-erupts-for-first-time-in-recorded-history/1569954047527546/)  
+   Link: <a href="https://www.facebook.com/CBSNews/videos/volcano-in-ethiopia-erupts-for-first-time-in-recorded-history/1569954047527546/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/videos/volcano-in-ethiopia-erupts-for-first-time-in-recorded-history/1569954047527546/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 minutes... Meteor flies past erupting volcano in the Philippines. 9 minutes...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PPcRFQe0K1Y](https://www.youtube.com/watch?v=PPcRFQe0K1Y)  
+   Link: <a href="https://www.youtube.com/watch?v=PPcRFQe0K1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PPcRFQe0K1Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE| Ethiopia&#x27;s 12000-YEAR-OLD Volcano ERUPTS| What...A long-silent volcano in northern Ethiopia erupted on Sunday, sending massive ash...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tzn2k5xxMjo](https://www.youtube.com/watch?v=tzn2k5xxMjo)  
+   Link: <a href="https://www.youtube.com/watch?v=tzn2k5xxMjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tzn2k5xxMjo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens &amp; Sitchin Debunked by Bible ScholarThey believe that all these stories are really referencing a spiritual Force that&#x27;s alw...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: music.youtube.com  
    Title: xe V o V6m UJg  
-   Link: [https://music.youtube.com/podcast/xeV-oV6mUJg](https://music.youtube.com/podcast/xeV-oV6mUJg)  
+   Link: <a href="https://music.youtube.com/podcast/xeV-oV6mUJg" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/xeV-oV6mUJg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens [https://za.gl/mdrfFBJ](https://za.gl/mdrfFBJ) The Serpent Cult: Origins of Sacred Religion https...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Ethiopian UFO Case Nobody Talks About  
-   Link: [https://www.youtube.com/watch?v=w0nLczYRdJQ](https://www.youtube.com/watch?v=w0nLczYRdJQ)  
+   Link: <a href="https://www.youtube.com/watch?v=w0nLczYRdJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w0nLczYRdJQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Ancient Ethiopia Knew About UFOs – Proof Buried in the Bible...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VNUMafK3_aY](https://www.youtube.com/watch?v=VNUMafK3_aY)  
+   Link: <a href="https://www.youtube.com/watch?v=VNUMafK3_aY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VNUMafK3_aY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Footage shows &#x27;fireball&#x27; meteor lighting up skies in eastern Australia | ABC NEWS...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=syO16KikNFY](https://www.youtube.com/watch?v=syO16KikNFY)  
+   Link: <a href="https://www.youtube.com/watch?v=syO16KikNFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syO16KikNFY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Ariel Phenomenon UFO Documentary | Talking Strange...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Ariel Phenomenon UFO Documentary | Talking Strange  
-   Link: [https://www.youtube.com/watch?v=gRtp_jUCq0o](https://www.youtube.com/watch?v=gRtp_jUCq0o)  
+   Link: <a href="https://www.youtube.com/watch?v=gRtp_jUCq0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gRtp_jUCq0o</a>  
 
 19. <a id="endnote-19"></a>
    Source: spaceinafrica.com  
    Title: Space in Africa Falling Space Debris Incident Reported in Ethiopia  
-   Link: [https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/](https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/)  
+   Link: <a href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</p></details>
    Published: January 14, 2025  
 
 20. <a id="endnote-20"></a>
    Source: s3.eu-central-1.amazonaws.com  
    Title: Amazon Web Services, Inc.Space debris  
-   Link: [https://s3.eu-central-1.amazonaws.com/interconnectedrisks/reports/2023/TR_231115_Space_Debris.pdf](https://s3.eu-central-1.amazonaws.com/interconnectedrisks/reports/2023/TR_231115_Space_Debris.pdf)  
+   Link: <a href="https://s3.eu-central-1.amazonaws.com/interconnectedrisks/reports/2023/TR_231115_Space_Debris.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.eu-central-1.amazonaws.com/interconnectedrisks/reports/2023/TR_231115_Space_Debris.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interconnected Disaster Risks 2023November 15, 2023 — However, as the number of satellites increases, so does the problem of space debris...</p></details>
    Published: November 15, 2023  
 
 21. <a id="endnote-21"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/](https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/)  
+   Link: <a href="https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Idiocy, Fabrications and Lies of Ancient AliensMay 11, 2012 — 11 May 2012 — Aliens the movie—the various ancient...</p></details>
    Published: May 11, 2012  
 
@@ -947,41 +901,41 @@ The broader lesson from Ethiopia is that UFO stories often reveal more about inf
 22. <a id="endnote-22"></a>
    Source: instagram.com  
    Title: DRmYhTEgc v  
-   Link: [https://www.instagram.com/reel/DRmYhTEgc_v/](https://www.instagram.com/reel/DRmYhTEgc_v/)  
+   Link: <a href="https://www.instagram.com/reel/DRmYhTEgc_v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRmYhTEgc_v/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethiopian Volcano Eruption Explained: Causes, Rift Map...UNBOX FACTORY There&#x27;s A Volcano In Ethiopia&#x27;s Danakil Depression That Looks Lik...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: iaaspace.org  
-   Link: [https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/sg514finalreport.pdf](https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/sg514finalreport.pdf)  
+   Link: <a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/sg514finalreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/sg514finalreport.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal aspects of space debrisSurveying uncontrolled re-entries of spacecraft or space debris into the Earth&#x27;s atmosphere and providing mo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: diggingupancientaliens.com  
-   Link: [https://diggingupancientaliens.com/episodes.html](https://diggingupancientaliens.com/episodes.html)  
+   Link: <a href="https://diggingupancientaliens.com/episodes.html" target="_blank" rel="noopener noreferrer nofollow">https://diggingupancientaliens.com/episodes.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: mint.gov.et  
-   Link: [https://www.mint.gov.et/w/scientific-analysis-from-space-science-and-geospatial-institute-about-the-event-that-happened-in-the-sky-of-southern-ethiopia-last-night](https://www.mint.gov.et/w/scientific-analysis-from-space-science-and-geospatial-institute-about-the-event-that-happened-in-the-sky-of-southern-ethiopia-last-night)  
+   Link: <a href="https://www.mint.gov.et/w/scientific-analysis-from-space-science-and-geospatial-institute-about-the-event-that-happened-in-the-sky-of-southern-ethiopia-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.mint.gov.et/w/scientific-analysis-from-space-science-and-geospatial-institute-about-the-event-that-happened-in-the-sky-of-southern-ethiopia-last-night</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorological collection known as Quadrantids with up to 200 M indicates that they may be coming to Earth.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: science.org  
    Title: burned satellites are polluting atmosphere  
-   Link: [https://www.science.org/content/article/burned-satellites-are-polluting-atmosphere](https://www.science.org/content/article/burned-satellites-are-polluting-atmosphere)  
+   Link: <a href="https://www.science.org/content/article/burned-satellites-are-polluting-atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/burned-satellites-are-polluting-atmosphere</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Burned-up satellites are polluting the atmosphere23 Jul 2024 — Recent studies highlight growing concerns over the rising concentrations o...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration P.L  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf](https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>116-260 Risks Associated with Reentry Disposal of...22 Sept 2023 — This report evaluates the risk to people on the ground and in aircraf...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskHistorians/comments/aj7fev/today_some_people_have_the_misguided_opinion_that/](https://www.reddit.com/r/AskHistorians/comments/aj7fev/today_some_people_have_the_misguided_opinion_that/)  
+   Link: <a href="https://www.reddit.com/r/AskHistorians/comments/aj7fev/today_some_people_have_the_misguided_opinion_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/aj7fev/today_some_people_have_the_misguided_opinion_that/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>her monuments. Before the UFO craze, were there people who...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: x.com  
-   Link: [https://x.com/MeseretMedia/status/1877650124975046845](https://x.com/MeseretMedia/status/1877650124975046845)  
+   Link: <a href="https://x.com/MeseretMedia/status/1877650124975046845" target="_blank" rel="noopener noreferrer nofollow">https://x.com/MeseretMedia/status/1877650124975046845</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ngs in Southern EthiopiaRead more...</p></details>

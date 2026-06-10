@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-map-4c8b63/
   short_title: Sightings Map
   heading_title: Where Have UFOs Been Reported in India?
-date: '2026-06-09 01:29:43 '
+date: '2026-06-10 01:55:05 '
 header:
   og_image: /assets/images/India_967ce3_civilian_ufo_groups_14d729-Illustration-1-social.jpg
   preview_image: /assets/images/India_967ce3_civilian_ufo_groups_14d729-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/India_967ce3_civilian_ufo_groups_14d729-Illustration-1-soc
 
 ## Introduction
 
-[India]({{ 'what-do-indias-ufo-reports-really-show/' | relative_url }}) has never maintained a publicly accessible government archive dedicated to unidentified aerial phenomena (UAP) or UFO reports. As a result, almost everything known about Indian sightings has been collected through civilian effort: enthusiasts, volunteer investigators, paranormal societies, online reporting portals, social media groups, and a small number of long-running research organisations. These networks have shaped how UFO reports are documented in India, but they have also exposed major weaknesses in verification, archiving, and evidence quality.
+India has never maintained a publicly accessible government archive dedicated to unidentified aerial phenomena (UAP) or UFO reports. As a result, almost everything known about Indian sightings has been collected through civilian effort: enthusiasts, volunteer investigators, paranormal societies, online reporting portals, social media groups, and a small number of long-running research organisations. These networks have shaped how UFO reports are documented in India, but they have also exposed major weaknesses in verification, archiving, and evidence quality.
 
 
 <img src="{{ "/assets/images/India_967ce3_civilian_ufo_groups_14d729-Illustration-1-dark.svg" | relative_url }}" alt="Research Groups illustration 1" data-theme-src-dark="{{ "/assets/images/India_967ce3_civilian_ufo_groups_14d729-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_civilian_ufo_groups_14d729-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -437,86 +437,44 @@ That does not prove extraordinary phenomena are occurring. But it does show how 
 For researchers studying UFO culture rather than extraterrestrial claims, Indian civilian networks are therefore valuable sociological archives. They document not only sightings, but also how modern India interprets uncertainty in the sky: through local folklore, national security concerns, internet culture, amateur investigation, and global UFO narratives imported from abroad.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Who Tracks UFO Reports in India?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Who Tracks UFO Reports in India?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses methods used to assess witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows how civilian reports connect with wider investigation efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how cultural narratives shape reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
-        
-        <p class="fr-book-desc">Shows the growth of civilian UFO advocacy movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -550,75 +508,71 @@ For researchers studying UFO culture rather than extraterrestrial claims, Indian
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm"><img src="{{ '/assets/images/marketplace-covers/121a2f6e6feb6cd2220a.jpg' | relative_url }}" alt="Listing image for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=research-groups-0f856d-who-tracks-ufo-reports-in-india-india-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -832,98 +786,98 @@ For researchers studying UFO culture rather than extraterrestrial claims, Indian
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIn turn, the panel finds that there is currently no standardized system for making civilian UAP...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of UFO organizations  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO_organizations](https://en.wikipedia.org/wiki/List_of_UFO_organizations)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_organizations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_organizations</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: [https://en.wikipedia.org/wiki/Mutual_UFO_Network](https://en.wikipedia.org/wiki/Mutual_UFO_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Raymond E. Fowler  
-   Link: [https://en.wikipedia.org/wiki/Raymond_E._Fowler](https://en.wikipedia.org/wiki/Raymond_E._Fowler)  
+   Link: <a href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_E._Fowler</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this study, we used data from 80,332 cases of UFO sightings reported from 1906 to 2014 as a tool...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in India  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_India](https://en.wikipedia.org/wiki/UFO_sightings_in_India)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_India</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in IndiaIn Gorakhpur, Uttar Pradesh, a local resident claimed to have taken a photo of a large UFO. · In June, a boy fro...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jist.india/posts/isro-chief-s-somanath-talks-about-the-existence-of-aliens-and-why-ufos-are-spott/495292129880933/](https://www.facebook.com/jist.india/posts/isro-chief-s-somanath-talks-about-the-existence-of-aliens-and-why-ufos-are-spott/495292129880933/)  
+   Link: <a href="https://www.facebook.com/jist.india/posts/isro-chief-s-somanath-talks-about-the-existence-of-aliens-and-why-ufos-are-spott/495292129880933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jist.india/posts/isro-chief-s-somanath-talks-about-the-existence-of-aliens-and-why-ufos-are-spott/495292129880933/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRO Chief S Somanath talks about the existence of aliens...UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government r...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Aliens and UAPs Explained by UFO Researcher Sabir Hussain  
-   Link: [https://www.youtube.com/watch?v=c38DN8Lwt1Q](https://www.youtube.com/watch?v=c38DN8Lwt1Q)  
+   Link: <a href="https://www.youtube.com/watch?v=c38DN8Lwt1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c38DN8Lwt1Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Are Aliens Hiding Secrets From India? Whistleblower Interview...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Are Aliens Hiding Secrets From India? Whistleblower Interview  
-   Link: [https://www.youtube.com/watch?v=M5TjRvbqibc](https://www.youtube.com/watch?v=M5TjRvbqibc)  
+   Link: <a href="https://www.youtube.com/watch?v=M5TjRvbqibc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5TjRvbqibc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ancient Aliens: TRUTH UNCOVERED By UFO Investigation...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ancient Aliens: TRUTH UNCOVERED By UFO Investigation  
-   Link: [https://www.youtube.com/watch?v=V5cOeKCZCbs](https://www.youtube.com/watch?v=V5cOeKCZCbs)  
+   Link: <a href="https://www.youtube.com/watch?v=V5cOeKCZCbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5cOeKCZCbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Aliens, UFO Secrecy, and Scientific Field Research...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Aliens, UFO Secrecy, and Scientific Field Research  
-   Link: [https://www.youtube.com/watch?v=AICIDt2PDrQ](https://www.youtube.com/watch?v=AICIDt2PDrQ)  
+   Link: <a href="https://www.youtube.com/watch?v=AICIDt2PDrQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AICIDt2PDrQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Civilian Panels on Aliens and Conspiracy Theories in India...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Civilian Panels on Aliens and Conspiracy Theories in India  
-   Link: [https://www.youtube.com/watch?v=cCyCg5J8xtg](https://www.youtube.com/watch?v=cCyCg5J8xtg)  
+   Link: <a href="https://www.youtube.com/watch?v=cCyCg5J8xtg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cCyCg5J8xtg</a>  
 
 13. <a id="endnote-13"></a>
    Source: iarf.res.in  
-   Link: [https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf](https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf)  
+   Link: <a href="https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — “The UFO phe...</p></details>
    Published: August 13, 2021  
 
 14. <a id="endnote-14"></a>
    Source: hindustantimes.com  
-   Link: [https://www.hindustantimes.com/more-lifestyle/the-truth-is-out-there-tales-from-india-s-ufo-investigators/story-9crhwh8tiWKU4LSvwCfrpM.html](https://www.hindustantimes.com/more-lifestyle/the-truth-is-out-there-tales-from-india-s-ufo-investigators/story-9crhwh8tiWKU4LSvwCfrpM.html)  
+   Link: <a href="https://www.hindustantimes.com/more-lifestyle/the-truth-is-out-there-tales-from-india-s-ufo-investigators/story-9crhwh8tiWKU4LSvwCfrpM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/more-lifestyle/the-truth-is-out-there-tales-from-india-s-ufo-investigators/story-9crhwh8tiWKU4LSvwCfrpM.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesThe truth is out there: Tales from India&#x27;s UFO investigators11 May 2017 — Hitesh Yadav, 20, is a tech student at a Gurgaon...</p></details>
    Published: May 2017  
 
 15. <a id="endnote-15"></a>
    Source: indiafoundation.in  
    Title: India Foundation Technological Developments in the Space Domain  
-   Link: [https://indiafoundation.in/articles-and-commentaries/technological-developments-in-the-space-domain-the-challenges-for-india/](https://indiafoundation.in/articles-and-commentaries/technological-developments-in-the-space-domain-the-challenges-for-india/)  
+   Link: <a href="https://indiafoundation.in/articles-and-commentaries/technological-developments-in-the-space-domain-the-challenges-for-india/" target="_blank" rel="noopener noreferrer nofollow">https://indiafoundation.in/articles-and-commentaries/technological-developments-in-the-space-domain-the-challenges-for-india/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>India FoundationTechnological Developments in the Space DomainJanuary 4, 2024 — 4 Jan 2024 — Concerned with Indian backlogs in the field...</p></details>
    Published: January 4, 2024  
 
 16. <a id="endnote-16"></a>
    Source: chintan.indiafoundation.in  
    Title: Chintan Unidentified Anomalous Phenomena (UAPs) & India  
-   Link: [https://chintan.indiafoundation.in/articles/unidentified-anomalous-phenomena-uaps-india/](https://chintan.indiafoundation.in/articles/unidentified-anomalous-phenomena-uaps-india/)  
+   Link: <a href="https://chintan.indiafoundation.in/articles/unidentified-anomalous-phenomena-uaps-india/" target="_blank" rel="noopener noreferrer nofollow">https://chintan.indiafoundation.in/articles/unidentified-anomalous-phenomena-uaps-india/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena (UAPs) &amp; India - Chintan12 Oct 2023 — Concerned with Indian backlogs in the field of UFOs, he founded uapforindia.onl...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mumbaimirror.indiatimes.com  
    Title: Mumbai Mirror UFO hunters  
-   Link: [https://mumbaimirror.indiatimes.com/others/sunday-read/ufo-hunters/articleshow/45322118.html](https://mumbaimirror.indiatimes.com/others/sunday-read/ufo-hunters/articleshow/45322118.html)  
+   Link: <a href="https://mumbaimirror.indiatimes.com/others/sunday-read/ufo-hunters/articleshow/45322118.html" target="_blank" rel="noopener noreferrer nofollow">https://mumbaimirror.indiatimes.com/others/sunday-read/ufo-hunters/articleshow/45322118.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mumbai MirrorUFO huntersNovember 29, 2014 — 29 Nov 2014 —... UFO sightings in India. Once a sighting is filed on the MUFON website, the...</p></details>
    Published: November 29, 2014  
 
@@ -931,55 +885,55 @@ For researchers studying UFO culture rather than extraterrestrial claims, Indian
 
 18. <a id="endnote-18"></a>
    Source: dkiapcss.edu  
-   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>India has a very active civilian UFO investigation community.[xxxix]. Australia and New Zealand Following the 2021 ODNI report, the Royal...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Austral.: UFO Research (S.A.), May 1975. 15p. 503. Sykes, Egerton. FLYING SAUCERS AND...Read more...</p></details>
    Published: May 1975  
 
 20. <a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/](https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ary activity and/or research and development; and; In the event of...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: opindia.com  
    Title: ufo report uap unidentified aerial phenomena dni usa  
-   Link: [https://www.opindia.com/2021/06/ufo-report-uap-unidentified-aerial-phenomena-dni-usa/](https://www.opindia.com/2021/06/ufo-report-uap-unidentified-aerial-phenomena-dni-usa/)  
+   Link: <a href="https://www.opindia.com/2021/06/ufo-report-uap-unidentified-aerial-phenomena-dni-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.opindia.com/2021/06/ufo-report-uap-unidentified-aerial-phenomena-dni-usa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump administration&#x27;s Director of National Intelligence, John Ratcliffe, had earlier said that the United States has...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/sites/default/files/files/books/SIPRI94Smith.pdf](https://www.sipri.org/sites/default/files/files/books/SIPRI94Smith.pdf)  
+   Link: <a href="https://www.sipri.org/sites/default/files/files/books/SIPRI94Smith.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/files/books/SIPRI94Smith.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>India&#x27;s Ad Hoc Arsenal: Direction or Drift in Defence Policy10 Feb 2026 — See for example Nehm, J., India and the World (Alien &amp; Unwin: L...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1tbz2oz/whys_indias_govt_not_talking_about_the_disclosure/](https://www.reddit.com/r/UFOs/comments/1tbz2oz/whys_indias_govt_not_talking_about_the_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tbz2oz/whys_indias_govt_not_talking_about_the_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tbz2oz/whys_indias_govt_not_talking_about_the_disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ey got 99 problems and aliens ain&#x27;t one of them.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: archival.collections.slsa.sa.gov.au  
    Title: SRG410 UFOResearch Australia boxlist  
-   Link: [https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf](https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf)  
+   Link: <a href="https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archival.collections.slsa.sa.gov.au/srg/SRG410_UFOResearchAustralia_boxlist.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RESEARCH AUSTRALIA SRG 410 Box listCentral Coast Research Bureau 1973 - 1975. Australian Flying Saucer Research Society, Adelaide 1967...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/57a08b9eed915d3cfd000e20/WP14-NS.pdf](https://assets.publishing.service.gov.uk/media/57a08b9eed915d3cfd000e20/WP14-NS.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/57a08b9eed915d3cfd000e20/WP14-NS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/57a08b9eed915d3cfd000e20/WP14-NS.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Youth: Disability and Development in Indiaby N Singal · 2008 — The classroom may remain an alien space in which they are not seen as equa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: hangar1publishing.com  
    Title: mufon investigations  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mufon-investigations?srsltid=AfmBOoqqtHRuPfU4dlwA8IkqZ38WshRRwrRvBuLwRBz2gn3G8_BZFLZT](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mufon-investigations?srsltid=AfmBOoqqtHRuPfU4dlwA8IkqZ38WshRRwrRvBuLwRBz2gn3G8_BZFLZT)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mufon-investigations?srsltid=AfmBOoqqtHRuPfU4dlwA8IkqZ38WshRRwrRvBuLwRBz2gn3G8_BZFLZT" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mufon-investigations?srsltid=AfmBOoqqtHRuPfU4dlwA8IkqZ38WshRRwrRvBuLwRBz2gn3G8_BZFLZT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside MUFON InvestigationsFor many, the answer has been the Mutual UFO Network, or MUFON. Founded in 1969, MUFON stands as perhaps the m...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ofac.treasury.gov  
    Title: all faqs  
-   Link: [https://ofac.treasury.gov/faqs/all-faqs](https://ofac.treasury.gov/faqs/all-faqs)  
+   Link: <a href="https://ofac.treasury.gov/faqs/all-faqs" target="_blank" rel="noopener noreferrer nofollow">https://ofac.treasury.gov/faqs/all-faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consolidated Frequently Asked QuestionsIf a Cuban national resident in the United States has applied to become a lawful permanent residen...</p></details>

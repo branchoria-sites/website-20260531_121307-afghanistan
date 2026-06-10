@@ -245,7 +245,7 @@ next_link:
   permalink: /metal-ring/
   short_title: Metal Ring
   heading_title: Was Sare Gubu Space Debris or Something Stranger?
-date: '2026-06-09 01:27:30 '
+date: '2026-06-10 01:52:17 '
 header:
   og_image: /assets/images/Gambia_7c3997_drones_restricted_ai_40dd82-Illustration-1-social.jpg
   preview_image: /assets/images/Gambia_7c3997_drones_restricted_ai_40dd82-Illustration-1.webp
@@ -258,7 +258,7 @@ In modern Gambian UFO reporting, one of the first practical questions is no long
 
 
 <img src="{{ "/assets/images/Gambia_7c3997_drones_restricted_ai_40dd82-Illustration-1-dark.svg" | relative_url }}" alt="Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997_drones_restricted_ai_40dd82-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997_drones_restricted_ai_40dd82-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The [Gambia]({{ 'what-is-really-behind-gambias-ufo/' | relative_url }}) does not have a large public archive of classic UFO cases, but it does have growing aviation and security pressures linked to unmanned aerial vehicles, also known as drones or remotely piloted aircraft systems (RPAS). Gambian aviation regulations explicitly recognise RPAS operations, and official statements have warned about unauthorised drone incursions into national airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/wp-content/uploads/2023/09/PART-1-%E2%80%93-GENERAL-POLICIES-AND-PROCEDURES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">PART 1 – GENERAL POLICIES AND PROCEDURES</span><span class="citation-popover-snippet">GAMBIA CIVIL AVIATION REGULATIONS, 2018“remotely piloted aircraft (RPA)” means an unmanned aircraft which is piloted from a remote pilot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookTHE REPUBLIC OF THE GAMBIA MINISTRY OF...Our air space, over the years, has come under intense incursion and infiltration by num...</span></span></span>
+The Gambia does not have a large public archive of classic UFO cases, but it does have growing aviation and security pressures linked to unmanned aerial vehicles, also known as drones or remotely piloted aircraft systems (RPAS). Gambian aviation regulations explicitly recognise RPAS operations, and official statements have warned about unauthorised drone incursions into national airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/wp-content/uploads/2023/09/PART-1-%E2%80%93-GENERAL-POLICIES-AND-PROCEDURES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">PART 1 – GENERAL POLICIES AND PROCEDURES</span><span class="citation-popover-snippet">GAMBIA CIVIL AVIATION REGULATIONS, 2018“remotely piloted aircraft (RPA)” means an unmanned aircraft which is piloted from a remote pilot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">THE REPUBLIC OF THE GAMBIA MINISTRY OF...Our air space, over the years, has come under intense incursion and infiltration by num...</span></span></span>
 
 That means many contemporary “mysterious lights” reports in The Gambia sit at the intersection of aviation safety, restricted airspace and public uncertainty rather than in the older framework of flying saucers and alien craft.
 
@@ -287,7 +287,7 @@ This changes how sightings are interpreted. A bright hovering light above a rura
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Commercial photography drones.
-* Border surveillance activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elistair.com/applications/defense-drone-surveillance-border/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elistair.com">[elistair.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elistair.com</span><span class="citation-popover-snippet">Elistair | Tethered Drone CompanyCross Border Surveillance Drone: Our solutionsDiscover how cross border surveillance drones revolutioniz...</span></span></span>
+* Border surveillance activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elistair.com/applications/defense-drone-surveillance-border/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elistair.com">[elistair.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elistair.com</span><span class="citation-popover-snippet">Tethered Drone CompanyCross Border Surveillance Drone: Our solutionsDiscover how cross border surveillance drones revolutioniz...</span></span></span>
 * Smuggling or reconnaissance flights.
 * Tourist-operated drones.
 * Security or police monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DMXiZb3Ajnr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -320,7 +320,7 @@ This regulatory structure changes the meaning of some UFO reports. An unidentifi
 
 </div>
 
-Public concern intensified further after official warnings about drone incursions. A Gambian Ministry of Defence statement circulated publicly warned that national airspace had experienced repeated incursions by unmanned aerial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/indepthTVgambia/posts/gambia-issues-strict-prohibition-on-drone-operations-over-key-national-sitesthe-/1334838588655867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookGambia Issues Strict Prohibition on Drone Operations Over...&quot;No individual, organization, or institution is permitted to operate...</span></span></span> Reports also circulated describing restrictions on drone use over key national sites without explicit written permission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookTHE REPUBLIC OF THE GAMBIA MINISTRY OF...Our air space, over the years, has come under intense incursion and infiltration by num...</span></span></span>
+Public concern intensified further after official warnings about drone incursions. A Gambian Ministry of Defence statement circulated publicly warned that national airspace had experienced repeated incursions by unmanned aerial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/indepthTVgambia/posts/gambia-issues-strict-prohibition-on-drone-operations-over-key-national-sitesthe-/1334838588655867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Gambia Issues Strict Prohibition on Drone Operations Over...&quot;No individual, organization, or institution is permitted to operate...</span></span></span> Reports also circulated describing restrictions on drone use over key national sites without explicit written permission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">THE REPUBLIC OF THE GAMBIA MINISTRY OF...Our air space, over the years, has come under intense incursion and infiltration by num...</span></span></span>
 
 Even where public details remain limited, the tone of these warnings is revealing. Authorities were not discussing hypothetical science-fiction scenarios. They were addressing practical concerns about surveillance, security and airspace control.
 
@@ -391,7 +391,7 @@ This matters for UFO interpretation in several ways:
 * Contraband or surveillance drones may deliberately exploit low-altitude routes.
 * Lights seen near frontier regions may be mislocated or misjudged.
 
-Modern border-security analysis increasingly treats drones as tools for surveillance and smuggling because they can bypass traditional checkpoints and operate at low altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elistair.com/applications/defense-drone-surveillance-border/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elistair.com">[Elistair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elistair.com</span><span class="citation-popover-snippet">Elistair | Tethered Drone CompanyCross Border Surveillance Drone: Our solutionsDiscover how cross border surveillance drones revolutioniz...</span></span></span> | Tethered Drone Company <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/127015/1/Drones_along_Borders_Final.docx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineDrones along BordersThis paper examines the complex security landscape that is unfolding as states deploy milit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-fendsolutions.com/blog/cross-border-drone-smuggling-a-defining-security-challenge-for-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[3D-Fend Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-title">cross border drone smuggling a defining security challenge for 2025</span><span class="citation-popover-snippet">Cross-Border Drone Smuggling in 202512 Jan 2026 — Cross-border drone smuggling surged in 2025 as criminal networks exploited low-altitude...</span></span></span>
+Modern border-security analysis increasingly treats drones as tools for surveillance and smuggling because they can bypass traditional checkpoints and operate at low altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elistair.com/applications/defense-drone-surveillance-border/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elistair.com">[Elistair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elistair.com</span><span class="citation-popover-snippet">Tethered Drone CompanyCross Border Surveillance Drone: Our solutionsDiscover how cross border surveillance drones revolutioniz...</span></span></span> | Tethered Drone Company <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/127015/1/Drones_along_Borders_Final.docx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineDrones along BordersThis paper examines the complex security landscape that is unfolding as states deploy milit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-fendsolutions.com/blog/cross-border-drone-smuggling-a-defining-security-challenge-for-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[3D-Fend Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-title">cross border drone smuggling a defining security challenge for 2025</span><span class="citation-popover-snippet">Cross-Border Drone Smuggling in 202512 Jan 2026 — Cross-border drone smuggling surged in 2025 as criminal networks exploited low-altitude...</span></span></span>
 
 That does not mean Gambian UFO reports are secretly criminal operations. It does mean that investigators now have to consider cross-border drone activity as a realistic explanation before moving to more exotic interpretations.
 
@@ -478,7 +478,7 @@ The key point is not that every Gambian UFO report has a simple explanation. It 
 
 The most important shift in Gambian UFO reporting is institutional rather than paranormal. Authorities increasingly frame unexplained aerial activity as an airspace-management problem.
 
-That approach aligns with broader international aviation policy, where unidentified objects are treated first as operational or safety issues. ICAO and civil aviation regulators worldwide now devote increasing attention to integrating drones into controlled airspace safely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/Meetings/a41/Documents/WP/wp_083_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">wp 083 en</span><span class="citation-popover-snippet">ICAOA41-WP/8328 Jul 2022 — The integration of remotely piloted aircraft systems (RPAS) operating in accordance with instrument flight rul...</span></span></span>
+That approach aligns with broader international aviation policy, where unidentified objects are treated first as operational or safety issues. ICAO and civil aviation regulators worldwide now devote increasing attention to integrating drones into controlled airspace safely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/Meetings/a41/Documents/WP/wp_083_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">wp 083 en</span><span class="citation-popover-snippet">A41-WP/8328 Jul 2022 — The integration of remotely piloted aircraft systems (RPAS) operating in accordance with instrument flight rul...</span></span></span>
 
 In The Gambia, this means that the practical stakes of a UFO report are often more immediate than the speculative ones:
 
@@ -492,86 +492,44 @@ In The Gambia, this means that the practical stakes of a UFO report are often mo
 For most modern Gambian cases, the strongest analytical framework is therefore not extraterrestrial contact but contested low-altitude airspace in a country adapting to the drone era.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Is a Gambian UFO Really a Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Is a Gambian UFO Really a Drone?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses observational errors and identification challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful for separating credible unexplained cases from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
-        
-        <p class="fr-book-desc">Directly helps readers understand how drones are mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
-        
-        <p class="fr-book-desc">Provides context for modern drone operations and public concern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -605,75 +563,71 @@ For most modern Gambian cases, the strongest analytical framework is therefore n
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-is-a-gambian-ufo-really-a-drone-gambia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -888,149 +842,149 @@ For most modern Gambian cases, the strongest analytical framework is therefore n
 1. <a id="endnote-1"></a>
    Source: gcaa.aero  
    Title: PART 1 – GENERAL POLICIES AND PROCEDURES  
-   Link: [https://gcaa.aero/wp-content/uploads/2023/09/PART-1-%E2%80%93-GENERAL-POLICIES-AND-PROCEDURES.pdf](https://gcaa.aero/wp-content/uploads/2023/09/PART-1-%E2%80%93-GENERAL-POLICIES-AND-PROCEDURES.pdf)  
+   Link: <a href="https://gcaa.aero/wp-content/uploads/2023/09/PART-1-%E2%80%93-GENERAL-POLICIES-AND-PROCEDURES.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/wp-content/uploads/2023/09/PART-1-%E2%80%93-GENERAL-POLICIES-AND-PROCEDURES.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAMBIA CIVIL AVIATION REGULATIONS, 2018“remotely piloted aircraft (RPA)” means an unmanned aircraft which is piloted from a remote pilot...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/](https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookTHE REPUBLIC OF THE GAMBIA MINISTRY OF...Our air space, over the years, has come under intense incursion and infiltration by num...</p></details>
+   Link: <a href="https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kerrfatou/posts/the-republic-of-the-gambia-ministry-of-defenceno-4-marina-paradebanjulpress-rele/1319096680245106/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE REPUBLIC OF THE GAMBIA MINISTRY OF...Our air space, over the years, has come under intense incursion and infiltration by num...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gcaa.aero  
-   Link: [https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf](https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf)  
+   Link: <a href="https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: gcaa.aero  
-   Link: [https://gcaa.aero/services/permits-authorisations/](https://gcaa.aero/services/permits-authorisations/)  
+   Link: <a href="https://gcaa.aero/services/permits-authorisations/" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/services/permits-authorisations/</a>  
 
 5. <a id="endnote-5"></a>
    Source: gcaa.aero  
-   Link: [https://gcaa.aero/regulations/](https://gcaa.aero/regulations/)  
+   Link: <a href="https://gcaa.aero/regulations/" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/regulations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RegulationsThe division ensures compliance with the Civil Aviation Act and its regulations, as well as fulfilling the country&#x27;s obligatio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/indepthTVgambia/posts/gambia-issues-strict-prohibition-on-drone-operations-over-key-national-sitesthe-/1334838588655867/](https://www.facebook.com/indepthTVgambia/posts/gambia-issues-strict-prohibition-on-drone-operations-over-key-national-sitesthe-/1334838588655867/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookGambia Issues Strict Prohibition on Drone Operations Over...&quot;No individual, organization, or institution is permitted to operate...</p></details>
+   Link: <a href="https://www.facebook.com/indepthTVgambia/posts/gambia-issues-strict-prohibition-on-drone-operations-over-key-national-sitesthe-/1334838588655867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indepthTVgambia/posts/gambia-issues-strict-prohibition-on-drone-operations-over-key-national-sitesthe-/1334838588655867/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia Issues Strict Prohibition on Drone Operations Over...&quot;No individual, organization, or institution is permitted to operate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eurocockpit.eu  
    Title: unauthorized flying drones near airports  
-   Link: [https://www.eurocockpit.eu/positions-publications/unauthorized-flying-drones-near-airports](https://www.eurocockpit.eu/positions-publications/unauthorized-flying-drones-near-airports)  
+   Link: <a href="https://www.eurocockpit.eu/positions-publications/unauthorized-flying-drones-near-airports" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocockpit.eu/positions-publications/unauthorized-flying-drones-near-airports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unauthorized Flying of Drones Near Airports27 Apr 2023 — Sightings of drones likely to interfere with the flight path of aircraft should...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: elistair.com  
-   Link: [https://elistair.com/applications/defense-drone-surveillance-border/](https://elistair.com/applications/defense-drone-surveillance-border/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elistair | Tethered Drone CompanyCross Border Surveillance Drone: Our solutionsDiscover how cross border surveillance drones revolutioniz...</p></details>
+   Link: <a href="https://elistair.com/applications/defense-drone-surveillance-border/" target="_blank" rel="noopener noreferrer nofollow">https://elistair.com/applications/defense-drone-surveillance-border/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tethered Drone CompanyCross Border Surveillance Drone: Our solutionsDiscover how cross border surveillance drones revolutioniz...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: icao.int  
    Title: wp 083 en  
-   Link: [https://www.icao.int/sites/default/files/Meetings/a41/Documents/WP/wp_083_en.pdf](https://www.icao.int/sites/default/files/Meetings/a41/Documents/WP/wp_083_en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAOA41-WP/8328 Jul 2022 — The integration of remotely piloted aircraft systems (RPAS) operating in accordance with instrument flight rul...</p></details>
+   Link: <a href="https://www.icao.int/sites/default/files/Meetings/a41/Documents/WP/wp_083_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/Meetings/a41/Documents/WP/wp_083_en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A41-WP/8328 Jul 2022 — The integration of remotely piloted aircraft systems (RPAS) operating in accordance with instrument flight rul...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: erau.libguides.com  
-   Link: [https://erau.libguides.com/as324](https://erau.libguides.com/as324)  
+   Link: <a href="https://erau.libguides.com/as324" target="_blank" rel="noopener noreferrer nofollow">https://erau.libguides.com/as324</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia - Gambia Civil Aviation...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: Me and my boy see straight away it's a drone,” he said  
-   Link: [https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe](https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe)  
+   Link: <a href="https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;A collective anxiety attack&#x27;: the psychology of unexplained...October 5, 2025 — 5 Oct 2025 — “Between the garage and the ho...</p></details>
    Published: October 5, 2025  
 
 12. <a id="endnote-12"></a>
    Source: uavcoach.com  
    Title: europe drone sightings  
-   Link: [https://uavcoach.com/europe-drone-sightings/](https://uavcoach.com/europe-drone-sightings/)  
+   Link: <a href="https://uavcoach.com/europe-drone-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/europe-drone-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Drone Sightings in Europe Echo NJ Drone Panic8 Oct 2025 — Drone activity around September 22-25, including sightings over mili...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/127015/1/Drones_along_Borders_Final.docx](https://eprints.whiterose.ac.uk/id/eprint/127015/1/Drones_along_Borders_Final.docx)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/127015/1/Drones_along_Borders_Final.docx" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/127015/1/Drones_along_Borders_Final.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineDrones along BordersThis paper examines the complex security landscape that is unfolding as states deploy milit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: d-fendsolutions.com  
    Title: cross border drone smuggling a defining security challenge for 2025  
-   Link: [https://d-fendsolutions.com/blog/cross-border-drone-smuggling-a-defining-security-challenge-for-2025/](https://d-fendsolutions.com/blog/cross-border-drone-smuggling-a-defining-security-challenge-for-2025/)  
+   Link: <a href="https://d-fendsolutions.com/blog/cross-border-drone-smuggling-a-defining-security-challenge-for-2025/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/blog/cross-border-drone-smuggling-a-defining-security-challenge-for-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-Border Drone Smuggling in 202512 Jan 2026 — Cross-border drone smuggling surged in 2025 as criminal networks exploited low-altitude...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uavcoach.com  
-   Link: [https://uavcoach.com/drone-laws-in-gambia/](https://uavcoach.com/drone-laws-in-gambia/)  
+   Link: <a href="https://uavcoach.com/drone-laws-in-gambia/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-gambia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in GambiaWe haven&#x27;t found any drone laws for Gambia in our research. That being said, we don&#x27;t recommend assuming that you can...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: teamuav.uk  
    Title: border surveillance  
-   Link: [https://www.teamuav.uk/drone-response/border-surveillance](https://www.teamuav.uk/drone-response/border-surveillance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teamuav14 Mar 2026 — Our highly trained drone teams collaborate closely with border security personnel to provide continuous surveillance...</p></details>
+   Link: <a href="https://www.teamuav.uk/drone-response/border-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.teamuav.uk/drone-response/border-surveillance</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Mar 2026 — Our highly trained drone teams collaborate closely with border security personnel to provide continuous surveillance...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: d-fendsolutions.com  
    Title: understanding drone regulations abroad  
-   Link: [https://d-fendsolutions.com/blog/understanding-drone-regulations-abroad/](https://d-fendsolutions.com/blog/understanding-drone-regulations-abroad/)  
+   Link: <a href="https://d-fendsolutions.com/blog/understanding-drone-regulations-abroad/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/blog/understanding-drone-regulations-abroad/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Authorities&#x27;...18 Nov 2025 — Border regions, military installations, and culturally sensitive areas often have additional restrictions...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: eaglepubs.erau.edu  
-   Link: [https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/gambia/](https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/gambia/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– Drones and AAM Across the WorldGambia Civil Aviation Authority (GCAA). The Gambia Civil Aviation Authority... Drone Regulations. Aviat...</p></details>
+   Link: <a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/gambia/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/gambia/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and AAM Across the WorldGambia Civil Aviation Authority (GCAA). The Gambia Civil Aviation Authority... Drone Regulations. Aviat...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: aeronautics-sys.com  
-   Link: [https://aeronautics-sys.com/uavs-for-border-surveillance/](https://aeronautics-sys.com/uavs-for-border-surveillance/)  
+   Link: <a href="https://aeronautics-sys.com/uavs-for-border-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://aeronautics-sys.com/uavs-for-border-surveillance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAVs for Border SurveillanceUnmanned aerial vehicles (UAVs), or drones, have emerged as a game‑changer, delivering persistent aerial over...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: globhe.com  
-   Link: [https://www.globhe.com/drone-service-providers-and-operators-per-country/the-gambia](https://www.globhe.com/drone-service-providers-and-operators-per-country/the-gambia)  
+   Link: <a href="https://www.globhe.com/drone-service-providers-and-operators-per-country/the-gambia" target="_blank" rel="noopener noreferrer nofollow">https://www.globhe.com/drone-service-providers-and-operators-per-country/the-gambia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find a local drone pilot in The GambiaGLOBHE&#x27;s operations are fully compliant with GCAA regulations, ensuring safe and legal drone flight...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: microavia.com  
-   Link: [https://microavia.com/news/how_drone-in-a-box_systems_revolutionize_border_security](https://microavia.com/news/how_drone-in-a-box_systems_revolutionize_border_security)  
+   Link: <a href="https://microavia.com/news/how_drone-in-a-box_systems_revolutionize_border_security" target="_blank" rel="noopener noreferrer nofollow">https://microavia.com/news/how_drone-in-a-box_systems_revolutionize_border_security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAVs for border patrol: a new way to protect state bordersBorder Patrol Drones provide aerial surveillance to protect state borders, quic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DMXiZb3Ajnr/](https://www.instagram.com/reel/DMXiZb3Ajnr/)  
+   Link: <a href="https://www.instagram.com/reel/DMXiZb3Ajnr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMXiZb3Ajnr/</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aYZGTD7ideM](https://www.youtube.com/watch?v=aYZGTD7ideM)  
+   Link: <a href="https://www.youtube.com/watch?v=aYZGTD7ideM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aYZGTD7ideM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone technology expands border monitoringBorder Patrol agents are keeping up with everexpanding technology they&#x27;re now using drones to w...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Airspace security tested as incursions reach Vilnius | Darius Jurgelevičius  
-   Link: [https://www.youtube.com/watch?v=N7tP2czkWuw](https://www.youtube.com/watch?v=N7tP2czkWuw)  
+   Link: <a href="https://www.youtube.com/watch?v=N7tP2czkWuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N7tP2czkWuw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone airport airspace security incursion El Paso air scare signals US unprepared for enemy drones: Ex-CIA officer | CUOMO NewsNation...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aljazeera.com  
    Title: copenhagen airport shut after sighting of unidentified drones  
-   Link: [https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones](https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones)  
+   Link: <a href="https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sightings disrupt flights at Copenhagen, Oslo airports22 Sept 2025 — The drone sightings near Danish and Norwegian airports come am...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: caa.co.zm  
-   Link: [https://www.caa.co.zm/rpas](https://www.caa.co.zm/rpas)  
+   Link: <a href="https://www.caa.co.zm/rpas" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.zm/rpas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Pilot Certification: Operators must obtain a Remote...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: airsight.com  
-   Link: [https://www.airsight.com/en/news/all](https://www.airsight.com/en/news/all)  
+   Link: <a href="https://www.airsight.com/en/news/all" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/en/news/all</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s are disrupting airspace and flights near airports. Instances of...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: data-firstoption.group  
-   Link: [https://data-firstoption.group/drones-health-and-safety-responsibilities/](https://data-firstoption.group/drones-health-and-safety-responsibilities/)  
+   Link: <a href="https://data-firstoption.group/drones-health-and-safety-responsibilities/" target="_blank" rel="noopener noreferrer nofollow">https://data-firstoption.group/drones-health-and-safety-responsibilities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones: Health and Safety ResponsibilitiesThe Gambia, Timor Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan...</p></details>

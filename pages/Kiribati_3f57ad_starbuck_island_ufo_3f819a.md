@@ -239,7 +239,7 @@ prev_link:
   permalink: /missing-reports/
   short_title: Missing Reports
   heading_title: Why Are Kiribati UFO Reports So Rare?
-date: '2026-06-09 01:31:00 '
+date: '2026-06-10 01:56:37 '
 header:
   og_image: /assets/images/Kiribati_3f57ad_starbuck_island_ufo_3f819a-Illustration-1-social.jpg
   preview_image: /assets/images/Kiribati_3f57ad_starbuck_island_ufo_3f819a-Illustration-1.webp
@@ -248,17 +248,17 @@ image: /assets/images/Kiribati_3f57ad_starbuck_island_ufo_3f819a-Illustration-1-
 
 ## Introduction
 
-In 2021–2022 an online image of **Starbuck Island**, part of the Republic of **[Kiribati]({{ 'what-is-really-known-about-kiribati-ufos/' | relative_url }})** in the central Pacific, circulated widely with claims that it showed a *crashed UFO* on its shore. The story gained traction through social‑media posts and websites highlighting a mysterious object visible in satellite imagery, accompanied by a “trail” on the island’s sand that some interpreted as impact debris. This isolated feature became one of the most visible Kiribati‑associated UFO claims in public discourse, despite there being **no reliable confirmation** that it represents extraterrestrial technology or a genuine unidentified aircraft. The available evidence points instead to far more ordinary explanations rooted in geography, history and image interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
+In 2021–2022 an online image of **Starbuck Island**, part of the Republic of **Kiribati** in the central Pacific, circulated widely with claims that it showed a *crashed UFO* on its shore. The story gained traction through social‑media posts and websites highlighting a mysterious object visible in satellite imagery, accompanied by a “trail” on the island’s sand that some interpreted as impact debris. This isolated feature became one of the most visible Kiribati‑associated UFO claims in public discourse, despite there being **no reliable confirmation** that it represents extraterrestrial technology or a genuine unidentified aircraft. The available evidence points instead to far more ordinary explanations rooted in geography, history and image interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">Is There A UFO On Starbuck Island? Debunking The Viral Claim &#124; YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Kiribati_3f57ad_starbuck_island_ufo_3f819a-Illustration-1-dark.svg" | relative_url }}" alt="Starbuck Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_starbuck_island_ufo_3f819a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_starbuck_island_ufo_3f819a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Satellite Anomaly Spread
 
-The “Starbuck Island UFO” claim seems to originate from **a Reddit post** in mid‑August 2021 in which a user shared a Google Earth screenshot of what they described as a *crashed UFO*, noting a long streak leading up to a dark shap e on the beach of the uninhabited atoll. The post was shared in a large forum for conspiracy content, prompting widespread speculation and re‑posts across social platforms and tabloid‑style news sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/conspiracy/comments/p3gn8y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditCrashed UFO on Starbuck Island! Visible on Google Earth showing a massive trail behind the object indicating high velocity and grea...</span></span></span>
+The “Starbuck Island UFO” claim seems to originate from **a Reddit post** in mid‑August 2021 in which a user shared a Google Earth screenshot of what they described as a *crashed UFO*, noting a long streak leading up to a dark shap e on the beach of the uninhabited atoll. The post was shared in a large forum for conspiracy content, prompting widespread speculation and re‑posts across social platforms and tabloid‑style news sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/conspiracy/comments/p3gn8y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Crashed UFO on Starbuck Island! Visible on Google Earth showing a massive trail behind the object indicating high velocity and grea...</span></span></span>
 
-In 2022 a **TikTok video** by @googlemapsfun added to the viral spread, showing the same imagery and asking viewers whether the object could be an extraterrestrial crash site; that video gained millions of views and was widely reposted in mainstream blogs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/technology/google-earth-user-discovers-crashed-ufo-on-mysterious-island-20220503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">Google Earth User Discovers &#x27;Crashed UFO&#x27; On Mysterious Island</span><span class="citation-popover-snippet">UNILADGoogle Earth User Discovers &#x27;Crashed UFO&#x27; On Mysterious IslandMay 3, 2022...</span><span class="citation-popover-meta">Published: May 3, 2022</span></span></span>
+In 2022 a **TikTok video** by @googlemapsfun added to the viral spread, showing the same imagery and asking viewers whether the object could be an extraterrestrial crash site; that video gained millions of views and was widely reposted in mainstream blogs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/technology/google-earth-user-discovers-crashed-ufo-on-mysterious-island-20220503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">Google Earth User Discovers &#x27;Crashed UFO&#x27; On Mysterious Island</span><span class="citation-popover-snippet">Google Earth User Discovers &#x27;Crashed UFO&#x27; On Mysterious IslandMay 3, 2022...</span><span class="citation-popover-meta">Published: May 3, 2022</span></span></span>
 
-Despite this circulation, there has been **no documented eyewitness report, official investigation, or on‑site confirmation** from Kiribati authorities or credible research organisations that the object is linked to UFO phenomena. The claim lives largely in social media, not in substantiated observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
+Despite this circulation, there has been **no documented eyewitness report, official investigation, or on‑site confirmation** from Kiribati authorities or credible research organisations that the object is linked to UFO phenomena. The claim lives largely in social media, not in substantiated observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">Is There A UFO On Starbuck Island? Debunking The Viral Claim &#124; YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k2HpEk3RRUc" title="Stranded on Starbuck Part 1 | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k2HpEk3RRUc" target="_blank" rel="noopener noreferrer">Stranded on Starbuck Part 1 | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 181.0K &middot; Uploaded: April 2009 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k2HpEk3RRUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k2HpEk3RRUc">Open on YouTube</a></p></div></div></div>
@@ -267,11 +267,11 @@ Despite this circulation, there has been **no documented eyewitness report, offi
 
 Closer analysis of the site — informed by historical and geographic context — suggests the feature in the imagery is far more likely to be **man‑made remnants or wreckage rather than alien craft**:
 
-* Starbuck Island was the site of **guano mining** in the late 19th century after its discovery in 1823; remnants of crude structures or ground features associated with past mining activity have been documented in expedition footage and reports. Some of these appear on satellite imagery and could resemble anomalous shapes when viewed without ground context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
+* Starbuck Island was the site of **guano mining** in the late 19th century after its discovery in 1823; remnants of crude structures or ground features associated with past mining activity have been documented in expedition footage and reports. Some of these appear on satellite imagery and could resemble anomalous shapes when viewed without ground context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">Is There A UFO On Starbuck Island? Debunking The Viral Claim &#124; YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
 * The long marks or “trail” behind the object in the image have been interpreted by some observers as **drag marks or tide‑deposited sand trails** associated with wreckage on a reef or shoreline, not impact scarring from a high‑speed crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.escape.com.au/news/google-earth-captures-crashed-ufo-on-kiribatis-starbuck-island/news-story/ac98b6fd35c7f189f91281196ba55189?nk=05466b492743ef9cfab4bbd54f2da6eb-1675195018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escape.com.au">[Escape]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escape.com.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* Reddit discussions by users who have examined the site note that what appears unusual in flat satellite imagery can be explained as the **stern or hull of a grounded vessel** or as interpreted debris from one of several shipwrecks known to have occurred around the island in the 19th century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/GoogleEarthFinds/comments/1n96cj7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditReal Story of the Starbuck island &quot;Non identified Object&quot; | 5°38&#x27;04&quot;S 155°56&#x27;04&quot;WSeptember 5, 2025...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
+* Reddit discussions by users who have examined the site note that what appears unusual in flat satellite imagery can be explained as the **stern or hull of a grounded vessel** or as interpreted debris from one of several shipwrecks known to have occurred around the island in the 19th century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/GoogleEarthFinds/comments/1n96cj7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Real Story of the Starbuck island &quot;Non identified Object&quot; &#124; 5°38&#x27;04&quot;S 155°56&#x27;04&quot;WSeptember 5, 2025...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
 
-Notably, some fact‑check style pieces — such as commentary in broader coverage — point out that **National Geographic expedition footage shows structures on the island** that align with the appearance of the satellite anomaly, offering a terrestrial explanation for its shape and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
+Notably, some fact‑check style pieces — such as commentary in broader coverage — point out that **National Geographic expedition footage shows structures on the island** that align with the appearance of the satellite anomaly, offering a terrestrial explanation for its shape and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">Is There A UFO On Starbuck Island? Debunking The Viral Claim &#124; YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rXHodS7sg_Q" title="Exploring Banned Google Maps Locations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rXHodS7sg_Q" target="_blank" rel="noopener noreferrer">Exploring Banned Google Maps Locations</a></p><p class="youtube-embed-meta">Channel: EllieMarieTV &middot; Views: 817.8K &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rXHodS7sg_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rXHodS7sg_Q">Open on YouTube</a></p></div></div></div>
@@ -285,98 +285,56 @@ Notably, some fact‑check style pieces — such as commentary in broader covera
 The strength of any UFO claim rests on **corroborated, multi‑angle documentation, independent witness reporting or verifiable physical evidence**. The evidence associated with the Starbuck Island case fails all three conditions:
 
 * **Single‑source imagery:** The claim draws on a single static screenshot from satellite imagery, without sequential imaging, metadata analysis or higher‑resolution confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.escape.com.au/news/google-earth-captures-crashed-ufo-on-kiribatis-starbuck-island/news-story/ac98b6fd35c7f189f91281196ba55189?nk=05466b492743ef9cfab4bbd54f2da6eb-1675195018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escape.com.au">[Escape]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escape.com.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Lack of firsthand reports:** There are no eyewitness accounts or local reports from Kiribati residents, researchers, or scientific expeditions supporting the idea of something unusual having “crashed.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
-* **Plausible mundane interpretations:** Local history of human activity (e.g., guano processing, shipwrecks) provides ready explanations for anomalous shapes and trails on a barren, uninhabited island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
+* **Lack of firsthand reports:** There are no eyewitness accounts or local reports from Kiribati residents, researchers, or scientific expeditions supporting the idea of something unusual having “crashed.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">Is There A UFO On Starbuck Island? Debunking The Viral Claim &#124; YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
+* **Plausible mundane interpretations:** Local history of human activity (e.g., guano processing, shipwrecks) provides ready explanations for anomalous shapes and trails on a barren, uninhabited island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourtango.com">[YourTango]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourtango.com</span><span class="citation-popover-snippet">Is There A UFO On Starbuck Island? Debunking The Viral Claim &#124; YourTangoMay 28, 2022...</span><span class="citation-popover-meta">Published: May 28, 2022</span></span></span>
 
-Many commentators on forums where the image circulated have themselves pointed towards these mundane interpretations, reinforcing that without rigorous investigation the UFO label is speculative at best. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/conspiracy_commons/comments/w8gxm2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO Crash Landing?? Found on Google Earth</span><span class="citation-popover-snippet">RedditUFO Crash Landing?? Found on Google Earth - *STARBUCK ISLAND*July 26, 2022...</span><span class="citation-popover-meta">Published: July 26, 2022</span></span></span>
+Many commentators on forums where the image circulated have themselves pointed towards these mundane interpretations, reinforcing that without rigorous investigation the UFO label is speculative at best. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/conspiracy_commons/comments/w8gxm2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO Crash Landing?? Found on Google Earth</span><span class="citation-popover-snippet">UFO Crash Landing?? Found on Google Earth - *STARBUCK ISLAND*July 26, 2022...</span><span class="citation-popover-meta">Published: July 26, 2022</span></span></span>
 
-In scientific and sceptical communities, satellite image anomalies are routinely explained by **misidentified objects, relief shadows, or artifacts of imaging resolution and angle**, and require careful validation before being elevated to unexplained status. Without such validation, the Starbuck Island claim remains a viral curiosity rather than evidence of extraterrestrial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified Flying Objects: What We Know | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Unidentified Flying Objects: What We Know | Britannica</span></span></span>
+In scientific and sceptical communities, satellite image anomalies are routinely explained by **misidentified objects, relief shadows, or artifacts of imaging resolution and angle**, and require careful validation before being elevated to unexplained status. Without such validation, the Starbuck Island claim remains a viral curiosity rather than evidence of extraterrestrial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified Flying Objects: What We Know &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Unidentified Flying Objects: What We Know &#124; Britannica</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bZ0vsIQGp70" title="Bizarre &#x27;Something&#x27; with a Long Trail Spotted on a Deserted Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bZ0vsIQGp70" target="_blank" rel="noopener noreferrer">Bizarre &#x27;Something&#x27; with a Long Trail Spotted on a Deserted Island</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 47.5K &middot; Uploaded: December 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bZ0vsIQGp70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bZ0vsIQGp70">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was Starbuck Island Really a Crashed UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was Starbuck Island Really a Crashed UFO?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers tools for distinguishing genuine mysteries from misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows how evidence should be weighed before extraordinary conclusions are reached.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly relevant to evaluating viral image-based claims and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Explains how internet mysteries and unexplained stories become cultural phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -410,75 +368,71 @@ In scientific and sceptical communities, satellite image anomalies are routinely
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starbuck-claim-was-starbuck-island-really-a-crashed-ufo-kiribati-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -700,114 +654,114 @@ In scientific and sceptical communities, satellite image anomalies are routinely
 
 1. <a id="endnote-1"></a>
    Source: yourtango.com  
-   Link: [https://www.yourtango.com/news/ufo-starbuck-island-claim](https://www.yourtango.com/news/ufo-starbuck-island-claim)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YourTangoIs There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</p></details>
+   Link: <a href="https://www.yourtango.com/news/ufo-starbuck-island-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.yourtango.com/news/ufo-starbuck-island-claim</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is There A UFO On Starbuck Island? Debunking The Viral Claim | YourTangoMay 28, 2022...</p></details>
    Published: May 28, 2022  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/conspiracy/comments/p3gn8y](https://www.reddit.com/r/conspiracy/comments/p3gn8y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCrashed UFO on Starbuck Island! Visible on Google Earth showing a massive trail behind the object indicating high velocity and grea...</p></details>
+   Link: <a href="https://www.reddit.com/r/conspiracy/comments/p3gn8y" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/conspiracy/comments/p3gn8y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crashed UFO on Starbuck Island! Visible on Google Earth showing a massive trail behind the object indicating high velocity and grea...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unilad.com  
    Title: Google Earth User Discovers 'Crashed UFO' On Mysterious Island  
-   Link: [https://www.unilad.com/technology/google-earth-user-discovers-crashed-ufo-on-mysterious-island-20220503](https://www.unilad.com/technology/google-earth-user-discovers-crashed-ufo-on-mysterious-island-20220503)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNILADGoogle Earth User Discovers &#x27;Crashed UFO&#x27; On Mysterious IslandMay 3, 2022...</p></details>
+   Link: <a href="https://www.unilad.com/technology/google-earth-user-discovers-crashed-ufo-on-mysterious-island-20220503" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/technology/google-earth-user-discovers-crashed-ufo-on-mysterious-island-20220503</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Earth User Discovers &#x27;Crashed UFO&#x27; On Mysterious IslandMay 3, 2022...</p></details>
    Published: May 3, 2022  
 
 4. <a id="endnote-4"></a>
    Source: iheart.com  
-   Link: [https://www.iheart.com/content/2022-06-01-ufo-crash-visible-on-google-maps-on-deserted-island-in-pacific-ocean/](https://www.iheart.com/content/2022-06-01-ufo-crash-visible-on-google-maps-on-deserted-island-in-pacific-ocean/)  
+   Link: <a href="https://www.iheart.com/content/2022-06-01-ufo-crash-visible-on-google-maps-on-deserted-island-in-pacific-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/content/2022-06-01-ufo-crash-visible-on-google-maps-on-deserted-island-in-pacific-ocean/</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/GoogleEarthFinds/comments/1n96cj7](https://www.reddit.com/r/GoogleEarthFinds/comments/1n96cj7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditReal Story of the Starbuck island &quot;Non identified Object&quot; | 5°38&#x27;04&quot;S 155°56&#x27;04&quot;WSeptember 5, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/GoogleEarthFinds/comments/1n96cj7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GoogleEarthFinds/comments/1n96cj7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Story of the Starbuck island &quot;Non identified Object&quot; | 5°38&#x27;04&quot;S 155°56&#x27;04&quot;WSeptember 5, 2025...</p></details>
    Published: September 5, 2025  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: UFO Crash Landing?? Found on Google Earth  
-   Link: [https://www.reddit.com/r/conspiracy_commons/comments/w8gxm2](https://www.reddit.com/r/conspiracy_commons/comments/w8gxm2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO Crash Landing?? Found on Google Earth - *STARBUCK ISLAND*July 26, 2022...</p></details>
+   Link: <a href="https://www.reddit.com/r/conspiracy_commons/comments/w8gxm2" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/conspiracy_commons/comments/w8gxm2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Landing?? Found on Google Earth - *STARBUCK ISLAND*July 26, 2022...</p></details>
    Published: July 26, 2022  
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Unidentified Flying Objects: What We Know | Britannica  
-   Link: [https://www.britannica.com/story/unidentified-flying-objects-what-we-know](https://www.britannica.com/story/unidentified-flying-objects-what-we-know)  
+   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Starbuck Island | Kiribati, Map, & History | Britannica  
-   Link: [https://www.britannica.com/place/Starbuck-Island](https://www.britannica.com/place/Starbuck-Island)  
+   Link: <a href="https://www.britannica.com/place/Starbuck-Island" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Starbuck-Island</a>  
 
 9. <a id="endnote-9"></a>
    Source: escape.com.au  
-   Link: [https://www.escape.com.au/news/google-earth-captures-crashed-ufo-on-kiribatis-starbuck-island/news-story/ac98b6fd35c7f189f91281196ba55189?nk=05466b492743ef9cfab4bbd54f2da6eb-1675195018](https://www.escape.com.au/news/google-earth-captures-crashed-ufo-on-kiribatis-starbuck-island/news-story/ac98b6fd35c7f189f91281196ba55189?nk=05466b492743ef9cfab4bbd54f2da6eb-1675195018)  
+   Link: <a href="https://www.escape.com.au/news/google-earth-captures-crashed-ufo-on-kiribatis-starbuck-island/news-story/ac98b6fd35c7f189f91281196ba55189?nk=05466b492743ef9cfab4bbd54f2da6eb-1675195018" target="_blank" rel="noopener noreferrer nofollow">https://www.escape.com.au/news/google-earth-captures-crashed-ufo-on-kiribatis-starbuck-island/news-story/ac98b6fd35c7f189f91281196ba55189?nk=05466b492743ef9cfab4bbd54f2da6eb-1675195018</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: chrometuna.com  
-   Link: [https://chrometuna.com/index.php/2022/05/31/google-earth-user-claims-to-discover-crashed-ufo-on-uninhabited-island-in-the-middle-of-the-pacific-ocean/](https://chrometuna.com/index.php/2022/05/31/google-earth-user-claims-to-discover-crashed-ufo-on-uninhabited-island-in-the-middle-of-the-pacific-ocean/)  
+   Link: <a href="https://chrometuna.com/index.php/2022/05/31/google-earth-user-claims-to-discover-crashed-ufo-on-uninhabited-island-in-the-middle-of-the-pacific-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://chrometuna.com/index.php/2022/05/31/google-earth-user-claims-to-discover-crashed-ufo-on-uninhabited-island-in-the-middle-of-the-pacific-ocean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chrome TunaMay 31, 2022 — GOOGLE EARTH USER CLAIMS TO DISCOVER ‘CRASHED UFO’ ON UNINHABITED ISLAND IN THE MIDDLE OF THE PACIFIC OCEAN BYC...</p></details>
    Published: May 31, 2022  
 
 11. <a id="endnote-11"></a>
    Source: inquisitr.com  
-   Link: [https://www.inquisitr.com/ufo-hunter-spots-star-wars-millennium-falcon-type-ufo-on-google-earth-mystery-alien-craft-crashed-in-remote-pacific-ocean-video](https://www.inquisitr.com/ufo-hunter-spots-star-wars-millennium-falcon-type-ufo-on-google-earth-mystery-alien-craft-crashed-in-remote-pacific-ocean-video)  
+   Link: <a href="https://www.inquisitr.com/ufo-hunter-spots-star-wars-millennium-falcon-type-ufo-on-google-earth-mystery-alien-craft-crashed-in-remote-pacific-ocean-video" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/ufo-hunter-spots-star-wars-millennium-falcon-type-ufo-on-google-earth-mystery-alien-craft-crashed-in-remote-pacific-ocean-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunter Spots Star Wars ‘Millennium Falcon-Type’ UFO On Google Earth: Mystery Alien Craft Crashed In Remote Pacific Ocean [Video] - In...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: timefordisclosure.com  
-   Link: [https://timefordisclosure.com/crashed-ufo-on-uninhabited-island-inspiring-conspiracy-theories/](https://timefordisclosure.com/crashed-ufo-on-uninhabited-island-inspiring-conspiracy-theories/)  
+   Link: <a href="https://timefordisclosure.com/crashed-ufo-on-uninhabited-island-inspiring-conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://timefordisclosure.com/crashed-ufo-on-uninhabited-island-inspiring-conspiracy-theories/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 17, 2021 — ‘CRASHED UFO’ ON UNINHABITED ISLAND INSPIRING CONSPIRACY THEORIES August 17, 2021 by Nancy Thames GOOGLE EARTH USERS SP...</p></details>
    Published: August 17, 2021  
 
 13. <a id="endnote-13"></a>
    Source: bigworldtale.com  
    Title: ‘Crashed UFO’ spotted on Google Earth on uninhabited island sparks theories  
-   Link: [https://bigworldtale.com/science/crashed-ufo-spotted-on-google-earth-on-uninhabited-island-sparks-theories/](https://bigworldtale.com/science/crashed-ufo-spotted-on-google-earth-on-uninhabited-island-sparks-theories/)  
+   Link: <a href="https://bigworldtale.com/science/crashed-ufo-spotted-on-google-earth-on-uninhabited-island-sparks-theories/" target="_blank" rel="noopener noreferrer nofollow">https://bigworldtale.com/science/crashed-ufo-spotted-on-google-earth-on-uninhabited-island-sparks-theories/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big World TaleAugust 17, 2021 — ‘CRASHED UFO’ SPOTTED ON GOOGLE EARTH ON UNINHABITED ISLAND SPARKS THEORIES August 17, 2021 A strangely s...</p></details>
    Published: August 17, 2021  
 
 14. <a id="endnote-14"></a>
    Source: bigworldtale.com  
    Title: Google Earth user reckons they have spotted a 'crashed UFO' on island  
-   Link: [https://bigworldtale.com/science/google-earth-user-reckons-they-have-spotted-a-crashed-ufo-on-island/](https://bigworldtale.com/science/google-earth-user-reckons-they-have-spotted-a-crashed-ufo-on-island/)  
+   Link: <a href="https://bigworldtale.com/science/google-earth-user-reckons-they-have-spotted-a-crashed-ufo-on-island/" target="_blank" rel="noopener noreferrer nofollow">https://bigworldtale.com/science/google-earth-user-reckons-they-have-spotted-a-crashed-ufo-on-island/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big World TaleAugust 14, 2021 — GOOGLE EARTH USER RECKONS THEY HAVE SPOTTED A ‘CRASHED UFO’ ON ISLAND August 14, 2021 An Reddit user post...</p></details>
    Published: August 14, 2021  
 
 15. <a id="endnote-15"></a>
    Source: geekroom.al  
    Title: Google Earth user discovers crashed UFO on mysterious island  
-   Link: [https://geekroom.al/en/entertainment/Google-Earth-user-discovers-crashed-UFO-on-mysterious-island/](https://geekroom.al/en/entertainment/Google-Earth-user-discovers-crashed-UFO-on-mysterious-island/)  
+   Link: <a href="https://geekroom.al/en/entertainment/Google-Earth-user-discovers-crashed-UFO-on-mysterious-island/" target="_blank" rel="noopener noreferrer nofollow">https://geekroom.al/en/entertainment/Google-Earth-user-discovers-crashed-UFO-on-mysterious-island/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geek RoomMay 9, 2022 — GOOGLE EARTH USER DISCOVERS CRASHED UFO ON MYSTERIOUS ISLAND Last updated: May 9, 2022 11:26 pm Image A user of Ti...</p></details>
    Published: May 9, 2022  
 
 16. <a id="endnote-16"></a>
    Source: ibtimes.sg  
-   Link: [https://www.ibtimes.sg/tiktoker-discovers-ufo-crash-uninhibited-starbuck-island-pacific-it-abandoned-ship-instead-64970](https://www.ibtimes.sg/tiktoker-discovers-ufo-crash-uninhibited-starbuck-island-pacific-it-abandoned-ship-instead-64970)  
+   Link: <a href="https://www.ibtimes.sg/tiktoker-discovers-ufo-crash-uninhibited-starbuck-island-pacific-it-abandoned-ship-instead-64970" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.sg/tiktoker-discovers-ufo-crash-uninhibited-starbuck-island-pacific-it-abandoned-ship-instead-64970</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCIAL MEDIA USERS ATTEMPT TO SPECULATE BETWEEN THE OBJECT BEING A BUILDING STRUCTURE OR AN...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: women.okezone.com  
    Title: heboh ufo jatuh di pulau starbuck terekam google earth  
-   Link: [https://women.okezone.com/read/2021/08/18/406/2457445/heboh-ufo-jatuh-di-pulau-starbuck-terekam-google-earth](https://women.okezone.com/read/2021/08/18/406/2457445/heboh-ufo-jatuh-di-pulau-starbuck-terekam-google-earth)  
+   Link: <a href="https://women.okezone.com/read/2021/08/18/406/2457445/heboh-ufo-jatuh-di-pulau-starbuck-terekam-google-earth" target="_blank" rel="noopener noreferrer nofollow">https://women.okezone.com/read/2021/08/18/406/2457445/heboh-ufo-jatuh-di-pulau-starbuck-terekam-google-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Jatuh di Pulau Starbuck Terekam Google Earth: Okezone WomenAugust 19, 2021 — HEBOH UFO JATUH DI PULAU STARBUCK TEREKAM GOOGLE EARTH...</p></details>
    Published: August 19, 2021  
 
 18. <a id="endnote-18"></a>
    Source: weirdgoogleearth.com  
    Title: Crashed UFO in Kiribati?  
-   Link: [https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/](https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/)  
+   Link: <a href="https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdgoogleearth.com/2021/09/10/crashed-ufo-in-kiribati/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Google EarthSeptember 10, 2021 — CRASHED UFO IN KIRIBATI? Weirder September 10, 2021 (2021-09-10T14:52:18-04:00) Crashed UFO in Kir...</p></details>
    Published: September 10, 2021  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Bizarre 'Something' with a Long Trail Spotted on a Deserted Island  
-   Link: [https://www.youtube.com/watch?v=bZ0vsIQGp70](https://www.youtube.com/watch?v=bZ0vsIQGp70)  
+   Link: <a href="https://www.youtube.com/watch?v=bZ0vsIQGp70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bZ0vsIQGp70</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Google Earth Finds - A UFO crash and an Invisible Air Force Plane...</p></details>

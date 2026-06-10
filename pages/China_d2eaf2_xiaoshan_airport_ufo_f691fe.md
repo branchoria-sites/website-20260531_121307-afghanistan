@@ -239,7 +239,7 @@ prev_link:
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
   heading_title: When China's UFOs Were Rocket Lit Skies
-date: '2026-06-09 01:24:16 '
+date: '2026-06-10 01:48:48 '
 header:
   og_image: /assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-1-social.jpg
   preview_image: /assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-1-so
 
 ## Introduction
 
-On the night of **7 July 2010**, an unidentified flying object (UFO) in the sky over **Hangzhou’s Xiaoshan International Airport** in eastern [China]({{ 'what-chinas-ufo-cases-really-show/' | relative_url }}) triggered an unusual air‑traffic disruption that quickly became one of the most widely cited modern UFO incidents in the country. Civil aviation authorities suspended operations for around an hour as controllers and pilots reported a mysterious luminous object above the flight paths; incoming aircraft were diverted and outbound flights delayed, affecting scores of flights and passengers. But more than a decade on, the *record of what actually happened* remains tangled between confirmed operational disruption and a large gap in confirmed evidence about the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.china.org.cn/china/2010-07/26/content_20572636.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: china.org.cn">[China.org.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">china.org.cn</span><span class="citation-popover-title">UF O not from space: report</span><span class="citation-popover-snippet">UFO not from space: report - China.org.cnJuly 26, 2010...</span><span class="citation-popover-meta">Published: July 26, 2010</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.china.org.cn/china/2010-07/08/content_20449696.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: china.org.cn">[China.org.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">china.org.cn</span><span class="citation-popover-title">UF O disrupts air traffic in E. China</span><span class="citation-popover-snippet">UFO disrupts air traffic in E. China - China.org.cn...</span></span></span>
+On the night of **7 July 2010**, an unidentified flying object (UFO) in the sky over **Hangzhou’s Xiaoshan International Airport** in eastern China triggered an unusual air‑traffic disruption that quickly became one of the most widely cited modern UFO incidents in the country. Civil aviation authorities suspended operations for around an hour as controllers and pilots reported a mysterious luminous object above the flight paths; incoming aircraft were diverted and outbound flights delayed, affecting scores of flights and passengers. But more than a decade on, the *record of what actually happened* remains tangled between confirmed operational disruption and a large gap in confirmed evidence about the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.china.org.cn/china/2010-07/26/content_20572636.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: china.org.cn">[China.org.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">china.org.cn</span><span class="citation-popover-title">UF O not from space: report</span><span class="citation-popover-snippet">UFO not from space: report - China.org.cnJuly 26, 2010...</span><span class="citation-popover-meta">Published: July 26, 2010</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.china.org.cn/china/2010-07/08/content_20449696.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: china.org.cn">[China.org.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">china.org.cn</span><span class="citation-popover-title">UF O disrupts air traffic in E. China</span><span class="citation-popover-snippet">UFO disrupts air traffic in E. China - China.org.cn...</span></span></span>
 
 
 <img src="{{ "/assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-1-dark.svg" | relative_url }}" alt="Xiaoshan illustration 1" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ This absence of a transparent, documented investigative outcome — particularly
 Soon after the Xiaoshan disruption, photographs purportedly showing an unusual object above Hangzhou circulated widely, both in Chinese social media and international fringe reporting. Yet closer scrutiny has undermined many of these visuals:
 
 * **Mismatched provenance:** Investigations by independent observers later pointed out that several widely shared images attributed to the incident were either taken elsewhere or were unrelated clips mislabelled as from Xiaoshan. In at least one high‑profile case, images were shown to be composite or misidentified long‑exposure shots of ordinary lighting, not definitive evidence of an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/2010/07/ufo-shuts-airport-in-china-really.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings UFO shuts airport in China. Really. • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO SightingsUFO shuts airport in China. Really. • Latest UFO SightingsJuly 9, 2010...</span><span class="citation-popover-meta">Published: July 9, 2010</span></span></span>
-* **Expert reinterpretation:** UFO investigation groups in Shanghai and Beijing examined the most circulated photos and suggested they depicted standard aircraft anti‑collision lights and landing lights distorted by camera motion or exposure, not a unique object. These reinterpretations undercut claims of unusual structure or behaviour in the images, although the experts themselves did not have access to original radar data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.shine.cn/archive/nation/Experts-Hangzhous-UFO-was-no-alien-craft/shdaily.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.shine.cn">[archive.shine.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.shine.cn</span><span class="citation-popover-title">Experts: Hangzhou&#x27;s UFO was no alien craft | Shanghai Daily</span><span class="citation-popover-snippet">Experts: Hangzhou&#x27;s UFO was no alien craft | Shanghai Daily</span></span></span>
+* **Expert reinterpretation:** UFO investigation groups in Shanghai and Beijing examined the most circulated photos and suggested they depicted standard aircraft anti‑collision lights and landing lights distorted by camera motion or exposure, not a unique object. These reinterpretations undercut claims of unusual structure or behaviour in the images, although the experts themselves did not have access to original radar data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.shine.cn/archive/nation/Experts-Hangzhous-UFO-was-no-alien-craft/shdaily.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.shine.cn">[archive.shine.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.shine.cn</span><span class="citation-popover-title">Experts: Hangzhou&#x27;s UFO was no alien craft &#124; Shanghai Daily</span><span class="citation-popover-snippet">Experts: Hangzhou&#x27;s UFO was no alien craft &#124; Shanghai Daily</span></span></span>
 * **Video and internet misinformation:** Some of the most shared internet “evidence” — including videos and slideshows claiming to show the Xiaoshan UFO — have been debunked as unrelated footage, long exposures, or mislocated clips from totally different events, complicating efforts to isolate authentic visual records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Bzk6hmq9ovo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube The Hangzhou Airport UFO (China</span><span class="citation-popover-snippet">The Hangzhou Airport UFO (China - 07/07/2010) - THE ONLY REAL PHOTO - YouTubeJuly 22, 2010...</span><span class="citation-popover-meta">Published: July 22, 2010</span></span></span>
 
 In sum, while eyewitness photos and videos exist, they neither coincide convincingly with the recorded air‑traffic timeline nor independently verify the object’s presence at the airport’s radar‑controlled flight paths. This disconnection explains why serious analyses treat these visuals with caution.
@@ -303,7 +303,7 @@ The Xiaoshan Airport incident occupies a peculiar position in China’s UFO lore
 
 </div>
 
-Thus, Xiaoshan stands less as a case of clear evidence of extraordinary craft and more as an illustration of how *operational events can be documented without resolving the underlying phenomenon*, especially in a context where official investigation results are neither comprehensive nor fully public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/events/2010-china-xiaoshan-airport-shutdown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">China Xiaoshan Airport Shutdown | Disclosdex</span><span class="citation-popover-snippet">DisclosdexChina Xiaoshan Airport Shutdown | Disclosdex...</span></span></span>
+Thus, Xiaoshan stands less as a case of clear evidence of extraordinary craft and more as an illustration of how *operational events can be documented without resolving the underlying phenomenon*, especially in a context where official investigation results are neither comprehensive nor fully public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/events/2010-china-xiaoshan-airport-shutdown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">China Xiaoshan Airport Shutdown &#124; Disclosdex</span><span class="citation-popover-snippet">China Xiaoshan Airport Shutdown &#124; Disclosdex...</span></span></span>
 
 
 <img src="{{ "/assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-3-dark.svg" | relative_url }}" alt="Xiaoshan illustration 3" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_xiaoshan_airport_ufo_f691fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,86 +329,44 @@ For researchers focused on UFO phenomena in China, the Xiaoshan case is less a s
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Xiaoshan Became China&#x27;s Signature UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Xiaoshan Became China&#x27;s Signature UFO Case, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses witness reliability and investigation of unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides useful comparisons for radar and observation-based incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Excellent match for airport disruptions, pilot reports, and airspace investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Adds historical context to how famous incidents become part of UFO lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -442,75 +400,71 @@ For researchers focused on UFO phenomena in China, the Xiaoshan case is less a s
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=xiaoshan-why-xiaoshan-became-china-s-signature-ufo-case-china-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -725,85 +679,85 @@ For researchers focused on UFO phenomena in China, the Xiaoshan case is less a s
 1. <a id="endnote-1"></a>
    Source: china.org.cn  
    Title: UF O not from space: report  
-   Link: [https://www.china.org.cn/china/2010-07/26/content_20572636.htm](https://www.china.org.cn/china/2010-07/26/content_20572636.htm)  
+   Link: <a href="https://www.china.org.cn/china/2010-07/26/content_20572636.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.china.org.cn/china/2010-07/26/content_20572636.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO not from space: report - China.org.cnJuly 26, 2010...</p></details>
    Published: July 26, 2010  
 
 2. <a id="endnote-2"></a>
    Source: china.org.cn  
    Title: UF O disrupts air traffic in E. China  
-   Link: [https://www.china.org.cn/china/2010-07/08/content_20449696.htm](https://www.china.org.cn/china/2010-07/08/content_20449696.htm)  
+   Link: <a href="https://www.china.org.cn/china/2010-07/08/content_20449696.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.china.org.cn/china/2010-07/08/content_20449696.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disrupts air traffic in E. China - China.org.cn...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: disclosdex.com  
    Title: China Xiaoshan Airport Shutdown | Disclosdex  
-   Link: [https://disclosdex.com/events/2010-china-xiaoshan-airport-shutdown](https://disclosdex.com/events/2010-china-xiaoshan-airport-shutdown)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DisclosdexChina Xiaoshan Airport Shutdown | Disclosdex...</p></details>
+   Link: <a href="https://disclosdex.com/events/2010-china-xiaoshan-airport-shutdown" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/2010-china-xiaoshan-airport-shutdown</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>China Xiaoshan Airport Shutdown | Disclosdex...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archive.shine.cn  
    Title: Experts: Hangzhou's UFO was no alien craft | Shanghai Daily  
-   Link: [https://archive.shine.cn/archive/nation/Experts-Hangzhous-UFO-was-no-alien-craft/shdaily.shtml](https://archive.shine.cn/archive/nation/Experts-Hangzhous-UFO-was-no-alien-craft/shdaily.shtml)  
+   Link: <a href="https://archive.shine.cn/archive/nation/Experts-Hangzhous-UFO-was-no-alien-craft/shdaily.shtml" target="_blank" rel="noopener noreferrer nofollow">https://archive.shine.cn/archive/nation/Experts-Hangzhous-UFO-was-no-alien-craft/shdaily.shtml</a>  
 
 5. <a id="endnote-5"></a>
    Source: latest-ufo-sightings.net  
    Title: Latest UFO Sightings UFO shuts airport in China. Really. • Latest UFO Sightings  
-   Link: [https://www.latest-ufo-sightings.net/2010/07/ufo-shuts-airport-in-china-really.html](https://www.latest-ufo-sightings.net/2010/07/ufo-shuts-airport-in-china-really.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2010/07/ufo-shuts-airport-in-china-really.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2010/07/ufo-shuts-airport-in-china-really.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsUFO shuts airport in China. Really. • Latest UFO SightingsJuly 9, 2010...</p></details>
    Published: July 9, 2010  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: You Tube The Hangzhou Airport UFO (China  
-   Link: [https://www.youtube.com/watch?v=Bzk6hmq9ovo](https://www.youtube.com/watch?v=Bzk6hmq9ovo)  
+   Link: <a href="https://www.youtube.com/watch?v=Bzk6hmq9ovo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bzk6hmq9ovo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hangzhou Airport UFO (China - 07/07/2010) - THE ONLY REAL PHOTO - YouTubeJuly 22, 2010...</p></details>
    Published: July 22, 2010  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: UFOs Over China  
-   Link: [https://www.youtube.com/watch?v=G1obU5GsjOw](https://www.youtube.com/watch?v=G1obU5GsjOw)  
+   Link: <a href="https://www.youtube.com/watch?v=G1obU5GsjOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G1obU5GsjOw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Invade China&#x27;s Airport for Three Days Straight, Many Flights Canceled, Airport Crippled...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lLu24_hI_7M](https://www.youtube.com/watch?v=lLu24_hI_7M)  
+   Link: <a href="https://www.youtube.com/watch?v=lLu24_hI_7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lLu24_hI_7M</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting, Amazing Real Footage...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: UFO Sighting, Amazing Real Footage  
-   Link: [https://www.youtube.com/watch?v=dASlQ_3pyMQ](https://www.youtube.com/watch?v=dASlQ_3pyMQ)  
+   Link: <a href="https://www.youtube.com/watch?v=dASlQ_3pyMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dASlQ_3pyMQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Imphal Airport: इंफाल में दिखा UFO, सर्च में लगे Rafale Jets क्या हुए सफल...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: UFO in Imphal Airport: इंफाल में दिखा UFO, सर्च में लगे Rafale Jets क्या हुए सफल  
-   Link: [https://www.youtube.com/watch?v=_K5P0MA5Ujs](https://www.youtube.com/watch?v=_K5P0MA5Ujs)  
+   Link: <a href="https://www.youtube.com/watch?v=_K5P0MA5Ujs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_K5P0MA5Ujs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Balloon या कुछ और Manipur के Imphal में दिखा UFO क्या था? | Uncut...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Chinese Balloon या कुछ और Manipur के Imphal में दिखा UFO क्या था? | Uncut  
-   Link: [https://www.youtube.com/watch?v=Ka1JtHA1z90](https://www.youtube.com/watch?v=Ka1JtHA1z90)  
+   Link: <a href="https://www.youtube.com/watch?v=Ka1JtHA1z90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ka1JtHA1z90</a>  
 
 12. <a id="endnote-12"></a>
    Source: chinadaily.com.cn  
    Title: China Daily Flights diverted, delayed as UFO detected hovering  
-   Link: [https://www.chinadaily.com.cn/china/2010-07/09/content_10084698.htm](https://www.chinadaily.com.cn/china/2010-07/09/content_10084698.htm)  
+   Link: <a href="https://www.chinadaily.com.cn/china/2010-07/09/content_10084698.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010-07/09/content_10084698.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: chinadaily.com.cn  
    Title: China Daily UFO remains a mystery  
-   Link: [https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm](https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm)  
+   Link: <a href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>China DailyUFO remains a mysteryJuly 10, 2010...</p></details>
    Published: July 10, 2010  
 
 14. <a id="endnote-14"></a>
    Source: chinadaily.com.cn  
    Title: UF O disrupts air traffic in E China  
-   Link: [https://www.chinadaily.com.cn/china/2010-07/08/content_10081918.htm](https://www.chinadaily.com.cn/china/2010-07/08/content_10081918.htm)  
+   Link: <a href="https://www.chinadaily.com.cn/china/2010-07/08/content_10081918.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010-07/08/content_10081918.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disrupts air traffic in E ChinaJuly 8, 2010 — UFO DISRUPTS AIR TRAFFIC IN E CHINA (XINHUA) Updated: 2010-07-08 11:30 HANGZHOU - An un...</p></details>
    Published: July 8, 2010  
 
@@ -811,56 +765,56 @@ For researchers focused on UFO phenomena in China, the Xiaoshan case is less a s
 
 15. <a id="endnote-15"></a>
    Source: theufochronicles.com  
-   Link: [https://www.theufochronicles.com/2010/07/ufo-that-shut-down-hangzhous-xiaoshan.html](https://www.theufochronicles.com/2010/07/ufo-that-shut-down-hangzhous-xiaoshan.html)  
+   Link: <a href="https://www.theufochronicles.com/2010/07/ufo-that-shut-down-hangzhous-xiaoshan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/07/ufo-that-shut-down-hangzhous-xiaoshan.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;July 26, 2010 — MONDAY, JULY 26, 2010 &quot;THE UFO THAT SHUT DOWN HANGZHOU&#x27;S XIAOSHAN AIRPORT EARLIER THIS MONTH WAS DEFINITELY NOT AN ALIEN...</p></details>
    Published: July 26, 2010  
 
 16. <a id="endnote-16"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-civilian-and-military-witness-statements-side-by-sid/](https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-civilian-and-military-witness-statements-side-by-sid/)  
+   Link: <a href="https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-civilian-and-military-witness-statements-side-by-sid/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-civilian-and-military-witness-statements-side-by-sid/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e | MYKSSJanuary 12, 2025 — UFO Major Event Files · Hangzhou Xiaoshan Airport Mass UFO Sighting · Witness Accounts · 2025-01-12 · 928 wor...</p></details>
    Published: January 12, 2025  
 
 17. <a id="endnote-17"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-detailed-witness-reports-from-the-2010-incident-nigh/](https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-detailed-witness-reports-from-the-2010-incident-nigh/)  
+   Link: <a href="https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-detailed-witness-reports-from-the-2010-incident-nigh/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-detailed-witness-reports-from-the-2010-incident-nigh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t | MYKSSDecember 16, 2024 — UFO Major Event Files · Hangzhou Xiaoshan Airport Mass UFO Sighting · Witness Accounts · 2024-12-16 · 960 wo...</p></details>
    Published: December 16, 2024  
 
 18. <a id="endnote-18"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-government-investigation-findings-from-2010-reviewed/](https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-government-investigation-findings-from-2010-reviewed/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYKSSMay 23, 2025 — UFO Major Event Files · Hangzhou Xiaoshan Airport Mass UFO Sighting · Official Reports · 2025-05-23 · 952 words HANGZ...</p></details>
+   Link: <a href="https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-government-investigation-findings-from-2010-reviewed/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-government-investigation-findings-from-2010-reviewed/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2025 — UFO Major Event Files · Hangzhou Xiaoshan Airport Mass UFO Sighting · Official Reports · 2025-05-23 · 952 words HANGZ...</p></details>
    Published: May 23, 2025  
 
 19. <a id="endnote-19"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-investigative-reporting-highlights-from-the-past-dec/](https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-investigative-reporting-highlights-from-the-past-dec/)  
+   Link: <a href="https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-investigative-reporting-highlights-from-the-past-dec/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-investigative-reporting-highlights-from-the-past-dec/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ade | MYKSSSeptember 1, 2025 — UFO Major Event Files · Hangzhou Xiaoshan Airport Mass UFO Sighting · Media Coverage · 2025-09-01 · 958 wo...</p></details>
    Published: September 1, 2025  
 
 20. <a id="endnote-20"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-military-and-intelligence-file-summaries-complete-re/](https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-military-and-intelligence-file-summaries-complete-re/)  
+   Link: <a href="https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-military-and-intelligence-file-summaries-complete-re/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/hangzhou-xiaoshan-airport-mass-ufo-sighting-military-and-intelligence-file-summaries-complete-re/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ference | MYKSSMarch 19, 2026 — UFO Major Event Files · Hangzhou Xiaoshan Airport Mass UFO Sighting · Official Reports · 2026-03-19 · 952...</p></details>
    Published: March 19, 2026  
 
 21. <a id="endnote-21"></a>
    Source: ghosttheory.com  
    Title: “China Airport UFO”: Xiaoshan Airport Staff Interview – Ghost Theory  
-   Link: [https://www.ghosttheory.com/2010/07/16/china-airport-ufo-xiaoshan-airport-staff-interview](https://www.ghosttheory.com/2010/07/16/china-airport-ufo-xiaoshan-airport-staff-interview)  
+   Link: <a href="https://www.ghosttheory.com/2010/07/16/china-airport-ufo-xiaoshan-airport-staff-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.ghosttheory.com/2010/07/16/china-airport-ufo-xiaoshan-airport-staff-interview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2010 — “CHINA AIRPORT UFO”: XIAOSHAN AIRPORT STAFF INTERVIEW * In Headline, UFOs * July 16, 2010 * Xavier * 3832 Views * 24 comm...</p></details>
    Published: July 16, 2010  
 
 22. <a id="endnote-22"></a>
    Source: ufoinsight.com  
    Title: The China Airport Sighting – Just One In China’s Long UFO History  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/china-airport-sighting](https://www.ufoinsight.com/ufos/cover-ups/china-airport-sighting)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/china-airport-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/china-airport-sighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJuly 16, 2018 — THE CHINA AIRPORT SIGHTING – JUST ONE IN CHINA’S LONG UFO HISTORY By Marcus Lowth Image: Published Date July 1...</p></details>
    Published: July 16, 2018  
 
 23. <a id="endnote-23"></a>
    Source: ufofeed.com  
-   Link: [https://www.ufofeed.com/69477/ufo-shuts-down-hangzhou-xiaoshan-airport-china-july-7-2010/](https://www.ufofeed.com/69477/ufo-shuts-down-hangzhou-xiaoshan-airport-china-july-7-2010/)  
+   Link: <a href="https://www.ufofeed.com/69477/ufo-shuts-down-hangzhou-xiaoshan-airport-china-july-7-2010/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/69477/ufo-shuts-down-hangzhou-xiaoshan-airport-china-july-7-2010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shuts Down Hangzhou Xiaoshan Airport, China, July 7, 2010 - UFO FEEDApril 30, 2024 — UFO SHUTS DOWN HANGZHOU XIAOSHAN AIRPORT, CHINA...</p></details>
    Published: July 7, 2010  

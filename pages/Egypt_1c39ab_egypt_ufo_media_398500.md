@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: What Do Recent UFO Reports in Egypt Reveal?
-date: '2026-06-09 01:26:14 '
+date: '2026-06-10 01:50:53 '
 header:
   og_image: /assets/images/Egypt_1c39ab_egypt_ufo_media_398500-Illustration-1-social.jpg
   preview_image: /assets/images/Egypt_1c39ab_egypt_ufo_media_398500-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Egypt_1c39ab_egypt_ufo_media_398500-Illustration-1-social.
 
 ## Introduction
 
-Viral videos and sensational media coverage have become one of the main ways modern UFO mythology spreads in [Egypt]({{ 'what-makes-egypt-a-hotspot-for-ufo/' | relative_url }}). Most Egyptian UFO stories today do not begin with military reports, scientific investigations or official archives. They begin with a glowing object filmed over Cairo, a blurry light above the pyramids, or a recycled social-media clip shared with dramatic captions about “alien activity” near ancient monuments. In many cases, the footage is weak, edited, stripped of context or impossible to verify. Yet the combination of Egypt’s visual symbolism, online algorithms and global fascination with the pyramids gives these stories unusual staying power.
+Viral videos and sensational media coverage have become one of the main ways modern UFO mythology spreads in Egypt. Most Egyptian UFO stories today do not begin with military reports, scientific investigations or official archives. They begin with a glowing object filmed over Cairo, a blurry light above the pyramids, or a recycled social-media clip shared with dramatic captions about “alien activity” near ancient monuments. In many cases, the footage is weak, edited, stripped of context or impossible to verify. Yet the combination of Egypt’s visual symbolism, online algorithms and global fascination with the pyramids gives these stories unusual staying power.
 
 
 <img src="{{ "/assets/images/Egypt_1c39ab_egypt_ufo_media_398500-Illustration-1-dark.svg" | relative_url }}" alt="Media Influence illustration 1" data-theme-src-dark="{{ "/assets/images/Egypt_1c39ab_egypt_ufo_media_398500-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Egypt_1c39ab_egypt_ufo_media_398500-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ Many viral Egyptian UFO clips rely heavily on geography rather than data. Footag
 
 A blurred drone, aircraft light, balloon or lens flare can appear more mysterious simply because viewers associate the pyramids with hidden knowledge and extraterrestrial speculation. Social-media edits often intensify this effect through dramatic music, slowed footage, zoom-ins and captions implying government secrecy.
 
-Several widely shared clips claiming to show “motherships” or fleets of UFOs over Giza have circulated across Facebook, Instagram and short-video platforms in recent years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-sighting-was-reported-above-a-pyramid-in-egypt-where-several-glow/899052836447472/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookMysterious UFO sighting was reported above a pyramid in...World News Viral ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/61575475300444/posts/ufos-uaps-spotted-coming-out-of-the-pyramids-in-egypt-ufo-uap-fyp-foryou-foryoup/122135400770849176/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookUFOs / UAPs spotted coming out of the pyramids in Egypt #...Stunning UFO video appears to show pyramids. Quốc Bảo ▻ UFO, Aliens...</span></span></span> In most cases, the videos lack original upload provenance, precise dates, corroborating witnesses or technical analysis. Some are reposted repeatedly with altered captions claiming different locations or years.
+Several widely shared clips claiming to show “motherships” or fleets of UFOs over Giza have circulated across Facebook, Instagram and short-video platforms in recent years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-sighting-was-reported-above-a-pyramid-in-egypt-where-several-glow/899052836447472/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Mysterious UFO sighting was reported above a pyramid in...World News Viral ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/61575475300444/posts/ufos-uaps-spotted-coming-out-of-the-pyramids-in-egypt-ufo-uap-fyp-foryou-foryoup/122135400770849176/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFOs / UAPs spotted coming out of the pyramids in Egypt #...Stunning UFO video appears to show pyramids. Quốc Bảo ▻ UFO, Aliens...</span></span></span> In most cases, the videos lack original upload provenance, precise dates, corroborating witnesses or technical analysis. Some are reposted repeatedly with altered captions claiming different locations or years.
 
 The important cultural point is not whether viewers literally believe every clip. Rather, repeated exposure normalises the idea that Egypt is a place where UFOs naturally appear.
 
@@ -325,7 +325,7 @@ YouTube then accelerated this dramatically. Instead of occasional television spe
 
 </div>
 
-Research into YouTube recommendation systems has shown how conspiracy-oriented material can be repeatedly surfaced to viewers interested in fringe historical or UFO topics. Studies examining conspiracy-video promotion specifically identified pyramid and ancient-alien content as recurring examples within recommendation ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Longitudinal Analysis of You Tube&#x27;s Promotion of Conspiracy Videos</span><span class="citation-popover-snippet">arXivA Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</span><span class="citation-popover-meta">Published: March 6, 2020</span></span></span>
+Research into YouTube recommendation systems has shown how conspiracy-oriented material can be repeatedly surfaced to viewers interested in fringe historical or UFO topics. Studies examining conspiracy-video promotion specifically identified pyramid and ancient-alien content as recurring examples within recommendation ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Longitudinal Analysis of You Tube&#x27;s Promotion of Conspiracy Videos</span><span class="citation-popover-snippet">A Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</span><span class="citation-popover-meta">Published: March 6, 2020</span></span></span>
 
 This matters in Egypt because online UFO culture increasingly functions through accumulation rather than proof. Viewers encounter dozens of loosely connected claims that reinforce each other emotionally even when individually weak.
 
@@ -333,7 +333,7 @@ This matters in Egypt because online UFO culture increasingly functions through 
 
 Legitimate archaeological discoveries in Egypt are often rapidly absorbed into UFO discourse online.
 
-For example, scientific discoveries involving hidden voids or unexplored spaces within pyramids have generated intense speculative media reactions. The well-publicised detection of a large void inside Khufu’s Pyramid using cosmic-ray muon scanning became a major scientific story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Longitudinal Analysis of You Tube&#x27;s Promotion of Conspiracy Videos</span><span class="citation-popover-snippet">arXivA Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</span><span class="citation-popover-meta">Published: March 6, 2020</span></span></span> Yet online UFO communities quickly reframed the discovery as possible evidence of alien technology, hidden spacecraft or suppressed knowledge.
+For example, scientific discoveries involving hidden voids or unexplored spaces within pyramids have generated intense speculative media reactions. The well-publicised detection of a large void inside Khufu’s Pyramid using cosmic-ray muon scanning became a major scientific story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Longitudinal Analysis of You Tube&#x27;s Promotion of Conspiracy Videos</span><span class="citation-popover-snippet">A Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</span><span class="citation-popover-meta">Published: March 6, 2020</span></span></span> Yet online UFO communities quickly reframed the discovery as possible evidence of alien technology, hidden spacecraft or suppressed knowledge.
 
 The pattern repeats regularly:
 
@@ -434,7 +434,7 @@ In practice, a dramatic UFO clip over Cairo may circulate simultaneously as:
 * A joke
 * A conspiracy theory
 * A tourism aesthetic
-* A social-media trend <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DF2u7VTsAxN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramAfter the viral video of strange lights in the sky, social media...After the viral video of strange lights in the sky, social m...</span></span></span>
+* A social-media trend <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DF2u7VTsAxN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">After the viral video of strange lights in the sky, social media...After the viral video of strange lights in the sky, social m...</span></span></span>
 
 </div>
 
@@ -462,86 +462,44 @@ At the same time, debunking often spreads more slowly than the original claim. A
 The broader cultural result is that Egyptian UFO mythology increasingly evolves through algorithms and attention economics rather than through direct investigation. Viral media does not merely report UFO culture in Egypt; it actively creates and reshapes it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Do Viral Videos Shape Egypt&#x27;s UFO Myths?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Do Viral Videos Shape Egypt&#x27;s UFO Myths?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides frameworks for evaluating sightings and reports amplified by media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for how modern UFO stories gain legitimacy and media attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores how media, belief systems and digital culture shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Useful for understanding why viral UFO content gains traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -575,75 +533,71 @@ The broader cultural result is that Egyptian UFO mythology increasingly evolves 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-influence-how-do-viral-videos-shape-egypt-s-ufo-myths-egypt-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -858,164 +812,164 @@ The broader cultural result is that Egyptian UFO mythology increasingly evolves 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Tulli Papyrus  
-   Link: [https://en.wikipedia.org/wiki/Tulli_Papyrus](https://en.wikipedia.org/wiki/Tulli_Papyrus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tulli_Papyrus</a>  
 
 2. <a id="endnote-2"></a>
    Source: catchpenny.org  
-   Link: [https://www.catchpenny.org/tulli.html](https://www.catchpenny.org/tulli.html)  
+   Link: <a href="https://www.catchpenny.org/tulli.html" target="_blank" rel="noopener noreferrer nofollow">https://www.catchpenny.org/tulli.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tulli PapyrusThe so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt... papyrus appears to be restricted to pop...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Papiro Tulli  
-   Link: [https://it.wikipedia.org/wiki/Papiro_Tulli](https://it.wikipedia.org/wiki/Papiro_Tulli)  
+   Link: <a href="https://it.wikipedia.org/wiki/Papiro_Tulli" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Papiro_Tulli</a>  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-sighting-was-reported-above-a-pyramid-in-egypt-where-several-glow/899052836447472/](https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-sighting-was-reported-above-a-pyramid-in-egypt-where-several-glow/899052836447472/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookMysterious UFO sighting was reported above a pyramid in...World News Viral ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</p></details>
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-sighting-was-reported-above-a-pyramid-in-egypt-where-several-glow/899052836447472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-sighting-was-reported-above-a-pyramid-in-egypt-where-several-glow/899052836447472/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO sighting was reported above a pyramid in...World News Viral ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61575475300444/posts/ufos-uaps-spotted-coming-out-of-the-pyramids-in-egypt-ufo-uap-fyp-foryou-foryoup/122135400770849176/](https://www.facebook.com/61575475300444/posts/ufos-uaps-spotted-coming-out-of-the-pyramids-in-egypt-ufo-uap-fyp-foryou-foryoup/122135400770849176/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookUFOs / UAPs spotted coming out of the pyramids in Egypt #...Stunning UFO video appears to show pyramids. Quốc Bảo ▻ UFO, Aliens...</p></details>
+   Link: <a href="https://www.facebook.com/61575475300444/posts/ufos-uaps-spotted-coming-out-of-the-pyramids-in-egypt-ufo-uap-fyp-foryou-foryoup/122135400770849176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61575475300444/posts/ufos-uaps-spotted-coming-out-of-the-pyramids-in-egypt-ufo-uap-fyp-foryou-foryoup/122135400770849176/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs / UAPs spotted coming out of the pyramids in Egypt #...Stunning UFO video appears to show pyramids. Quốc Bảo ▻ UFO, Aliens...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NetflixFansDiaries/posts/fleet-of-ufos-appear-above-the-pyramids-of-giza-egypt-video/416423113862799/](https://www.facebook.com/NetflixFansDiaries/posts/fleet-of-ufos-appear-above-the-pyramids-of-giza-egypt-video/416423113862799/)  
+   Link: <a href="https://www.facebook.com/NetflixFansDiaries/posts/fleet-of-ufos-appear-above-the-pyramids-of-giza-egypt-video/416423113862799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NetflixFansDiaries/posts/fleet-of-ufos-appear-above-the-pyramids-of-giza-egypt-video/416423113862799/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>▻ Mysterious Aliens &amp; UFO Disclosure ✓ · Cristina Petrisor and 7...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lovin.co  
    Title: Aliens In Sharqia?  
-   Link: [https://lovin.co/cairo/en/latest/aliens-in-sharqia-mysterious-lights-spark-ufo-theories-in-egypt/](https://lovin.co/cairo/en/latest/aliens-in-sharqia-mysterious-lights-spark-ufo-theories-in-egypt/)  
+   Link: <a href="https://lovin.co/cairo/en/latest/aliens-in-sharqia-mysterious-lights-spark-ufo-theories-in-egypt/" target="_blank" rel="noopener noreferrer nofollow">https://lovin.co/cairo/en/latest/aliens-in-sharqia-mysterious-lights-spark-ufo-theories-in-egypt/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Lights Spark UFO Theories in...February 9, 2025 — 9 Feb 2025 — Aliens In Sharqia? Mysterious Lights Spark UFO Theories in Egy...</p></details>
    Published: February 9, 2025  
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DF2u7VTsAxN/](https://www.instagram.com/reel/DF2u7VTsAxN/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramAfter the viral video of strange lights in the sky, social media...After the viral video of strange lights in the sky, social m...</p></details>
+   Link: <a href="https://www.instagram.com/reel/DF2u7VTsAxN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DF2u7VTsAxN/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>After the viral video of strange lights in the sky, social media...After the viral video of strange lights in the sky, social m...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv A Longitudinal Analysis of You Tube's Promotion of Conspiracy Videos  
-   Link: [https://arxiv.org/abs/2003.03318](https://arxiv.org/abs/2003.03318)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2003.03318" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.03318</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Analysis of YouTube&#x27;s Promotion of Conspiracy VideosMarch 6, 2020...</p></details>
    Published: March 6, 2020  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1711.01576](https://arxiv.org/abs/1711.01576)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDiscovery of a big void in Khufu&#x27;s Pyramid by observation of cosmic-ray muonsNovember 5, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1711.01576" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1711.01576</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery of a big void in Khufu&#x27;s Pyramid by observation of cosmic-ray muonsNovember 5, 2017...</p></details>
    Published: November 5, 2017  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/](https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ekaycr/is_there_any_direct_evidence_that_aliensufos_were/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a reason why? Is it just because the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: the ancient alien mystery of the tulli papyrus  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/](https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xiyda6/the_ancient_alien_mystery_of_the_tulli_papyrus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO encounter that occurred in Ancient Egypt around 1480 BC. The... The Tulli Papyrus: Proof of Alien Visitors or Masterful Forgery?Read...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNQkFM_tVmL/](https://www.instagram.com/reel/DNQkFM_tVmL/)  
+   Link: <a href="https://www.instagram.com/reel/DNQkFM_tVmL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNQkFM_tVmL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs / UAPs spotted coming out of the pyramids in Egypt #ufo...Black tic tac UFO seen in the Middle East #ufos #ufosighting #ufo #ufodis...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWbwF8FAB4M/?img_index=4](https://www.instagram.com/p/DWbwF8FAB4M/?img_index=4)  
+   Link: <a href="https://www.instagram.com/p/DWbwF8FAB4M/?img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWbwF8FAB4M/?img_index=4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists may have uncovered something beneath Egypt...FIRST UFO VIDEO IN 4K FOOTAGE CAUGHT FLYING OVER MOUNTAINS... #viral #ufo #alie...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUnsHJMj4he/](https://www.instagram.com/reel/DUnsHJMj4he/)  
+   Link: <a href="https://www.instagram.com/reel/DUnsHJMj4he/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUnsHJMj4he/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Ancient Skies Disturbed: UFO Spotted Over...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
    Title: DX ikmwn j V  
-   Link: [https://www.instagram.com/p/DX-ikmwn-jV/](https://www.instagram.com/p/DX-ikmwn-jV/)  
+   Link: <a href="https://www.instagram.com/p/DX-ikmwn-jV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX-ikmwn-jV/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>??? ANCIENT MYSTERY: UFOs Over Ancient Egypt...... TULLI PAPYRUS FIERY DISCS SKY TUTMOSES III&#x27;S REIGN 1480 BC ANCIENT UFO SIGHTING AUTHE...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYapDyexoj-/](https://www.instagram.com/p/DYapDyexoj-/)  
+   Link: <a href="https://www.instagram.com/p/DYapDyexoj-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYapDyexoj-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TUM TRAVELER VLOG. ACIENT TEMPLE BUILD...Rate the UFO vibes: subtle or undeniable? Music by: @drake - Shabang #AlienFiles #UFO #Aliens #...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/goldenmovieslover/posts/ancient-egyptian-flying-machines-scientists-push-back-viral-claims-online/1004305005456845/](https://www.facebook.com/groups/goldenmovieslover/posts/ancient-egyptian-flying-machines-scientists-push-back-viral-claims-online/1004305005456845/)  
+   Link: <a href="https://www.facebook.com/groups/goldenmovieslover/posts/ancient-egyptian-flying-machines-scientists-push-back-viral-claims-online/1004305005456845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/goldenmovieslover/posts/ancient-egyptian-flying-machines-scientists-push-back-viral-claims-online/1004305005456845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Egyptian flying machines debunked by scientistsAncient Egyptian UFO sighting in Cairo Museum exhibit. Lusiana Luz ▻ Ancient Alien...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientoriginsweb/posts/the-so-called-tulli-papyrus-is-an-enigmatic-text-that-some-describe-as-the-first/701395788695621/](https://www.facebook.com/ancientoriginsweb/posts/the-so-called-tulli-papyrus-is-an-enigmatic-text-that-some-describe-as-the-first/701395788695621/)  
+   Link: <a href="https://www.facebook.com/ancientoriginsweb/posts/the-so-called-tulli-papyrus-is-an-enigmatic-text-that-some-describe-as-the-first/701395788695621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/posts/the-so-called-tulli-papyrus-is-an-enigmatic-text-that-some-describe-as-the-first/701395788695621/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Egyptian text records...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: a 3000 year old record of something not humanthe papyrus that tells of visitors  
-   Link: [https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/](https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/)  
+   Link: <a href="https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A 3000-year-old record of something NOT human The...Ancient Egyptian Papyrus Described Massive UFO Encounter: Did Aliens Arrive 3,500 Ye...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/in-part-2-of-a-special-series-of-reality-check-in-egypt-ross-coulthart-and-jp-ha/616533460753675/](https://www.facebook.com/NewsNationNow/posts/in-part-2-of-a-special-series-of-reality-check-in-egypt-ross-coulthart-and-jp-ha/616533460753675/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/in-part-2-of-a-special-series-of-reality-check-in-egypt-ross-coulthart-and-jp-ha/616533460753675/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-part-2-of-a-special-series-of-reality-check-in-egypt-ross-coulthart-and-jp-ha/616533460753675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens, Unexplained Phenomena. 1y · Public · Egypt&#x27;s secrets...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oFOFSuHHGzs](https://www.youtube.com/watch?v=oFOFSuHHGzs)  
+   Link: <a href="https://www.youtube.com/watch?v=oFOFSuHHGzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oFOFSuHHGzs</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rWwfdzfjFPc](https://www.youtube.com/watch?v=rWwfdzfjFPc)  
+   Link: <a href="https://www.youtube.com/watch?v=rWwfdzfjFPc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rWwfdzfjFPc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Could ALIENS Have Built the Pyramids? Full Documentary...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Could ALIENS Have Built the Pyramids? Full Documentary  
-   Link: [https://www.youtube.com/watch?v=kWIHHcT4MpQ](https://www.youtube.com/watch?v=kWIHHcT4MpQ)  
+   Link: <a href="https://www.youtube.com/watch?v=kWIHHcT4MpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWIHHcT4MpQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Advanced Ancient Egyptian Technologies | Ancient Aliens | Compilation | History...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=25sBBCPeRvY](https://www.youtube.com/watch?v=25sBBCPeRvY)  
+   Link: <a href="https://www.youtube.com/watch?v=25sBBCPeRvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=25sBBCPeRvY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Go Inside the Great Pyramid of Giza (Season 21) | Ancient Aliens | History...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Go Inside the Great Pyramid of Giza (Season 21) | Ancient Aliens | History  
-   Link: [https://www.youtube.com/watch?v=HNvb5gDvSvQ](https://www.youtube.com/watch?v=HNvb5gDvSvQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HNvb5gDvSvQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HNvb5gDvSvQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracies, Aliens, and Hidden Knowledge ft. Billy Carson | Conversate with Killer Mike ep. 34...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_Dd6QVQA374](https://www.youtube.com/watch?v=_Dd6QVQA374)  
+   Link: <a href="https://www.youtube.com/watch?v=_Dd6QVQA374" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Dd6QVQA374</a>  
 
 28. <a id="endnote-28"></a>
    Source: vocal.media  
    Title: The Tulli Papyrus | History  
-   Link: [https://vocal.media/history/the-tulli-papyrus](https://vocal.media/history/the-tulli-papyrus)  
+   Link: <a href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-tulli-papyrus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The alleged UFO encounter described in the Tulli Papyrus would have occurred during the reign of Thutmose III, a significant p...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: ancient-origins.net  
-   Link: [https://www.ancient-origins.net/tulli](https://www.ancient-origins.net/tulli)  
+   Link: <a href="https://www.ancient-origins.net/tulli" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/tulli</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TulliSo, the real question about the Tulli Papyrus is: Could this be proof of alien existence? The “Tulli Papyrus” Goes Viral Ancient Egy...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: neperos.com  
-   Link: [https://www.neperos.com/article/rs63ltceb881f702](https://www.neperos.com/article/rs63ltceb881f702)  
+   Link: <a href="https://www.neperos.com/article/rs63ltceb881f702" target="_blank" rel="noopener noreferrer nofollow">https://www.neperos.com/article/rs63ltceb881f702</a>  
 
 31. <a id="endnote-31"></a>
    Source: xaluannews.com  
-   Link: [https://www.xaluannews.com/modules.php?file=article&name=News&sid=3304656](https://www.xaluannews.com/modules.php?file=article&name=News&sid=3304656)  
+   Link: <a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3304656" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3304656</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in ancient Egypt? The mysterious story of the Tulli Papyrus11 Jan 2021 —... aliens?(Tulli Papyrus)... UFO sighting allegedly occur...</p></details>

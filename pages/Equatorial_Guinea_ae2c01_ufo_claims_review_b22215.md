@@ -243,7 +243,7 @@ next_link:
   permalink: /media-limitations/
   short_title: Media Limitations
   heading_title: Why UFO Reports Rarely Surface in Equatorial Guinea
-date: '2026-06-09 01:26:29 '
+date: '2026-06-10 01:51:09 '
 header:
   og_image: /assets/images/Equatorial_Guinea_ae2c01_ufo_claims_review_b22215-Illustration-1-social.jpg
   preview_image: /assets/images/Equatorial_Guinea_ae2c01_ufo_claims_review_b22215-Illustration-1.webp
@@ -269,11 +269,11 @@ Such listings are typical of low‑threshold UFO sites that accept anecdotes wit
 
 Another recurring online claim ties Equatorial Guinea to UFOs through collectible postage stamps. It is true that the country issued colourful topical stamps in the 1970s, a period when many nations produced space‑themed issues to appeal to global stamp collectors. However, **philatelic art is not evidence of aerial phenomena**; such stamps often depict rockets, satellites or fantastical scenes simply because thematic sets sell well among hobbyists.
 
-Specialist postal history sources note that many stamps from Equatorial Guinea in the 1970s were produced primarily for the collector market and not widely used domestically, and some catalogues even question the legitimacy of certain issues due to lack of postal validity in that era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://postalmuseum.si.edu/exhibition/international-philately-africa-western-africa/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postalmuseum.si.edu">[postalmuseum.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postalmuseum.si.edu</span><span class="citation-popover-title">Equatorial Guinea | National Postal Museum</span><span class="citation-popover-snippet">Equatorial Guinea | National Postal Museum</span></span></span> However, **none of these stamps document or corroborate actual sightings**, and their inclusion in UFO folklore is a misinterpretation of thematic artwork as empirical evidence. Equating decorative stamp imagery with genuine phenomena is a classic case of *“evidence by association”* rather than verified data.
+Specialist postal history sources note that many stamps from Equatorial Guinea in the 1970s were produced primarily for the collector market and not widely used domestically, and some catalogues even question the legitimacy of certain issues due to lack of postal validity in that era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://postalmuseum.si.edu/exhibition/international-philately-africa-western-africa/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postalmuseum.si.edu">[postalmuseum.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postalmuseum.si.edu</span><span class="citation-popover-title">Equatorial Guinea &#124; National Postal Museum</span><span class="citation-popover-snippet">Equatorial Guinea &#124; National Postal Museum</span></span></span> However, **none of these stamps document or corroborate actual sightings**, and their inclusion in UFO folklore is a misinterpretation of thematic artwork as empirical evidence. Equating decorative stamp imagery with genuine phenomena is a classic case of *“evidence by association”* rather than verified data.
 
 ## Absence of Independent Documentation
 
-A search for UFO sightings specifically linked to Equatorial Guinea in broader research and media yields no substantive cases. Major summaries of credible global UFO incidents compiled by investigative journalists, scientific commentators or governmental sources do not list any Equatoguinean case, and authoritative sceptical analyses universally point out that most reported unidentified phenomena worldwide have mundane explanations when properly investigated (e.g., aircraft, satellites, meteors, atmospheric optics). <span class="citation-chip-wrap"><a class="citation-chip" href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spyscape.com">[SPYSCAPE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spyscape.com</span><span class="citation-popover-snippet">SPYSCAPETop 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAP...</span></span></span>
+A search for UFO sightings specifically linked to Equatorial Guinea in broader research and media yields no substantive cases. Major summaries of credible global UFO incidents compiled by investigative journalists, scientific commentators or governmental sources do not list any Equatoguinean case, and authoritative sceptical analyses universally point out that most reported unidentified phenomena worldwide have mundane explanations when properly investigated (e.g., aircraft, satellites, meteors, atmospheric optics). <span class="citation-chip-wrap"><a class="citation-chip" href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spyscape.com">[SPYSCAPE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spyscape.com</span><span class="citation-popover-snippet">Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAP...</span></span></span>
 
 Where UFO subculture sites attempt to include Equatorial Guinea, they often repurpose text from global UFO interest narratives or generic UFO reporting frameworks, without providing *original witness testimony, radar data, or corroborated imagery*. This absence of verifiable documentation is itself a critical criterion in assessing the strength of a claim: **without independent, timestamped, and corroborated evidence, any UFO claim remains speculative**.
 
@@ -281,7 +281,7 @@ Where UFO subculture sites attempt to include Equatorial Guinea, they often repu
 <img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_claims_review_b22215-Illustration-2-dark.svg" | relative_url }}" alt="Claims &amp; Debunks illustration 2" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_claims_review_b22215-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_claims_review_b22215-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Misinterpretations and Rumours
 
-Even when unusual sky phenomena are reported in any country, they are frequently misidentified. Bright planets near the horizon, re‑entering rocket stages, aircraft contrails under unusual lighting, and meteor showers are all well‑documented sources of misperception in numerous contexts. Although there is no specific study of these phenomena in Equatorial Guinea, global sceptical analyses emphasise that such misidentifications account for the vast majority of claimed sightings where follow‑up investigation is possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spyscape.com">[SPYSCAPE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spyscape.com</span><span class="citation-popover-snippet">SPYSCAPETop 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAP...</span></span></span>
+Even when unusual sky phenomena are reported in any country, they are frequently misidentified. Bright planets near the horizon, re‑entering rocket stages, aircraft contrails under unusual lighting, and meteor showers are all well‑documented sources of misperception in numerous contexts. Although there is no specific study of these phenomena in Equatorial Guinea, global sceptical analyses emphasise that such misidentifications account for the vast majority of claimed sightings where follow‑up investigation is possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spyscape.com">[SPYSCAPE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spyscape.com</span><span class="citation-popover-snippet">Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAP...</span></span></span>
 
 Additionally, internet forums and social media sometimes amplify rumours or imaginative speculation about anything space‑related, including stamps or local anecdotes, especially in regions with limited local reporting infrastructure. These largely **ruminative discussions** contribute to the *appearance* of UFO folklore but not to substantiated incident records.
 
@@ -317,86 +317,44 @@ Future research could change that assessment if credible, verifiable reports eme
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Separating Fact, Rumour, and Misinterpretation in Local UFO Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Separating Fact, Rumour, and Misinterpretation in Local UFO Claims, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides structured methods for evaluating sightings and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Examines how stories evolve into accepted UFO lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Directly addresses weak claims, hoaxes, and poor evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights cases considered stronger than typical internet rumors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -430,75 +388,71 @@ Future research could change that assessment if credible, verifiable reports eme
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-debunks-separating-fact-rumour-and-misinterpretation-in-local-ufo-claims-equatorial-guine-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -713,103 +667,103 @@ Future research could change that assessment if credible, verifiable reports eme
 1. <a id="endnote-1"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Equatorial Guinea UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/equatorial-guinea-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/equatorial-guinea-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/equatorial-guinea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/equatorial-guinea-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
    Published: March 22, 2025  
 
 2. <a id="endnote-2"></a>
    Source: postalmuseum.si.edu  
    Title: Equatorial Guinea | National Postal Museum  
-   Link: [https://postalmuseum.si.edu/exhibition/international-philately-africa-western-africa/equatorial-guinea](https://postalmuseum.si.edu/exhibition/international-philately-africa-western-africa/equatorial-guinea)  
+   Link: <a href="https://postalmuseum.si.edu/exhibition/international-philately-africa-western-africa/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://postalmuseum.si.edu/exhibition/international-philately-africa-western-africa/equatorial-guinea</a>  
 
 3. <a id="endnote-3"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SPYSCAPETop 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAP...</p></details>
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAP...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: postalmuseum.si.edu  
    Title: guinea ecuatorial  
-   Link: [https://postalmuseum.si.edu/exhibition/filatelia-internacional-africa-africa-occidental/guinea-ecuatorial](https://postalmuseum.si.edu/exhibition/filatelia-internacional-africa-africa-occidental/guinea-ecuatorial)  
+   Link: <a href="https://postalmuseum.si.edu/exhibition/filatelia-internacional-africa-africa-occidental/guinea-ecuatorial" target="_blank" rel="noopener noreferrer nofollow">https://postalmuseum.si.edu/exhibition/filatelia-internacional-africa-africa-occidental/guinea-ecuatorial</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecuatorial | National Postal MuseumGUINEA ECUATORIAL Sellos emitidos: 1968-ACTUALIDAD Sello de Gorila de 40 bipkwele Una república en el...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: stampworldhistory.nl  
-   Link: [https://stampworldhistory.nl/country-profiles-2/africa/equatorial-guinea/](https://stampworldhistory.nl/country-profiles-2/africa/equatorial-guinea/)  
+   Link: <a href="https://stampworldhistory.nl/country-profiles-2/africa/equatorial-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://stampworldhistory.nl/country-profiles-2/africa/equatorial-guinea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea | Stamps and postal history | StampWorldHistoryEQUATORIAL GUINEA Image: Equatorial Guinea Equatorial Guinea * * * QUICK...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fungistamps.com  
-   Link: [https://fungistamps.com/mushroom-stamps-collection/equatorial-guinea/](https://fungistamps.com/mushroom-stamps-collection/equatorial-guinea/)  
+   Link: <a href="https://fungistamps.com/mushroom-stamps-collection/equatorial-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://fungistamps.com/mushroom-stamps-collection/equatorial-guinea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 27, 2024 — MUSHROOM STAMPS FROM EQUATORIAL GUINEA Year of issue: 1977 Year of issue: 1992 Year of issue: 1997 Year of issue: 1997...</p></details>
    Published: October 27, 2024  
 
 7. <a id="endnote-7"></a>
    Source: lastdodo.com  
-   Link: [https://www.lastdodo.com/en/areas/251923-equatorial-guinea](https://www.lastdodo.com/en/areas/251923-equatorial-guinea)  
+   Link: <a href="https://www.lastdodo.com/en/areas/251923-equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.lastdodo.com/en/areas/251923-equatorial-guinea</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stamps from Equatorial Guinea Stamp catalogue - LastDodoSTAMPS FROM EQUATORIAL GUINEA CATALOGUE 2,561 items -originated from a number of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: stampworld.com  
    Title: Equatorial Guinea  
-   Link: [https://www.stampworld.com/en/stamps/Equatorial-Guinea/](https://www.stampworld.com/en/stamps/Equatorial-Guinea/)  
+   Link: <a href="https://www.stampworld.com/en/stamps/Equatorial-Guinea/" target="_blank" rel="noopener noreferrer nofollow">https://www.stampworld.com/en/stamps/Equatorial-Guinea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Postage stamps (1968 - 2018) - Page 1EQUATORIAL GUINEA (PAGE 1/49) Next Now showing: Equatorial Guinea - Postage stamps (1968 - 2018) - 2...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: richterstamps.co.za  
-   Link: [https://richterstamps.co.za/the-stamp-collection/countries-e/equatorial-guinea/](https://richterstamps.co.za/the-stamp-collection/countries-e/equatorial-guinea/)  
+   Link: <a href="https://richterstamps.co.za/the-stamp-collection/countries-e/equatorial-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://richterstamps.co.za/the-stamp-collection/countries-e/equatorial-guinea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea – Richter StampsEQUATORIAL GUINEA Image: Equatorial-Guinea-Flag-Coat The Republic of Equatorial Guinea is a small count...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stampworldhistory.nl  
-   Link: [https://stampworldhistory.nl/country-profiles-2/africa/spanish-guinea/](https://stampworldhistory.nl/country-profiles-2/africa/spanish-guinea/)  
+   Link: <a href="https://stampworldhistory.nl/country-profiles-2/africa/spanish-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://stampworldhistory.nl/country-profiles-2/africa/spanish-guinea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spanish Guinea | Stamps and postal history | StampWorldHistorySPANISH GUINEA * * * Image: Spanish Guinea Spanish Guinea * * * Note: In th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faculty.nps.edu  
-   Link: [https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt](https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt)  
+   Link: <a href="https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt" target="_blank" rel="noopener noreferrer nofollow">https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nps.eduspanish_dict.txt... OVNI|ufo ufología|ufology Uganda|uganda ugandés|ugandan puf|ugh feo|ugly ugrio|ugric úgrica|ugric ulano|uhlan...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: occrp.org  
-   Link: [https://www.occrp.org/en/investigation/clan-obiang-the-eastern-european-network-of-an-african-dictator](https://www.occrp.org/en/investigation/clan-obiang-the-eastern-european-network-of-an-african-dictator)  
+   Link: <a href="https://www.occrp.org/en/investigation/clan-obiang-the-eastern-european-network-of-an-african-dictator" target="_blank" rel="noopener noreferrer nofollow">https://www.occrp.org/en/investigation/clan-obiang-the-eastern-european-network-of-an-african-dictator</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and 15min learned that while the Kokorevs’ investigation was drawing unwanted attention, another key player in the Obiangs’ Eastern E...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: the truth is out there the files mention two sightings in png one was an unknown  
-   Link: [https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/](https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/)  
+   Link: <a href="https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ABC PacificUFO REPORTS: (5 links) 1959-The Papua, New Guinea UFOs &quot;Alien waves at on-lookers&quot; [http://ufos.about.com/od/bestufocasefiles/p...&quot;](http://ufos.about.com/od/bestufocasefiles/p...&quot;)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nmas.com.mx  
    Title: Supuesta Señal Asociada a Extraterrestre Resultó ser el Ruido de un Camión | N+  
-   Link: [https://www.nmas.com.mx/ciencia/supuesta-senal-extraterrestre-resulto-ser-el-ruido-de-un-camion/](https://www.nmas.com.mx/ciencia/supuesta-senal-extraterrestre-resulto-ser-el-ruido-de-un-camion/)  
+   Link: <a href="https://www.nmas.com.mx/ciencia/supuesta-senal-extraterrestre-resulto-ser-el-ruido-de-un-camion/" target="_blank" rel="noopener noreferrer nofollow">https://www.nmas.com.mx/ciencia/supuesta-senal-extraterrestre-resulto-ser-el-ruido-de-un-camion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 12, 2024 — SUPUESTA SEÑAL EXTRATERRESTRE RESULTÓ SER EL RUIDO DE UN CAMIÓN Marzo 12, 2024 | 19:48 CST| Elisa de Gortari | N+ Actual...</p></details>
    Published: March 12, 2024  
 
 15. <a id="endnote-15"></a>
    Source: quo.eldiario.es  
    Title: es La señal interestelar de vida extraterrestre era en realidad un camión  
-   Link: [https://quo.eldiario.es/ciencia/astro/q2403329528/la-senal-interestelar-de-vida-extraterrestre-era-en-realidad-un-camion](https://quo.eldiario.es/ciencia/astro/q2403329528/la-senal-interestelar-de-vida-extraterrestre-era-en-realidad-un-camion)  
+   Link: <a href="https://quo.eldiario.es/ciencia/astro/q2403329528/la-senal-interestelar-de-vida-extraterrestre-era-en-realidad-un-camion" target="_blank" rel="noopener noreferrer nofollow">https://quo.eldiario.es/ciencia/astro/q2403329528/la-senal-interestelar-de-vida-extraterrestre-era-en-realidad-un-camion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>señal interestelar de vida extraterrestre era en realidad un camión - QuoMarch 11, 2024 — LA SEÑAL INTERESTELAR DE VIDA EXTRATERRESTRE ER...</p></details>
    Published: March 11, 2024  
 
 16. <a id="endnote-16"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOorzWuIu04OxMx5pKiuEQWETImOkOxv5tRPKkVYRJJXIXxo-C09L](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOorzWuIu04OxMx5pKiuEQWETImOkOxv5tRPKkVYRJJXIXxo-C09L)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOorzWuIu04OxMx5pKiuEQWETImOkOxv5tRPKkVYRJJXIXxo-C09L" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOorzWuIu04OxMx5pKiuEQWETImOkOxv5tRPKkVYRJJXIXxo-C09L</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oceanic UFO Sightings. By Gabriel Chen, Ufologist. When we think of UFOs, our eyes naturally turn skyward.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades](https://www.pbs.org/newshour/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades)  
+   Link: <a href="https://www.pbs.org/newshour/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon, which is the headquarters... By — Eric Tucker, Associated Press Eric Tucker, Associated Press...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: latimes.com  
    Title: Pentagon study finds no sign of alien life in reported UFO sightings  
-   Link: [https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades](https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades)  
+   Link: <a href="https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesMarch 8, 2024 — PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES Image: An overvi...</p></details>
    Published: March 8, 2024  

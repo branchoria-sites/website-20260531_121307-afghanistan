@@ -245,7 +245,7 @@ next_link:
   permalink: /meteor-debate/
   short_title: Meteor Debate
   heading_title: Meteor, Bolide or Something Harder to Explain?
-date: '2026-06-09 01:32:45 '
+date: '2026-06-10 01:58:17 '
 header:
   og_image: /assets/images/Madagascar_f92bcb_madagascar_chronolog_fed8a2-Illustration-1-social.jpg
   preview_image: /assets/images/Madagascar_f92bcb_madagascar_chronolog_fed8a2-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Madagascar_f92bcb_madagascar_chronolog_fed8a2-Illustration
 
 ## Introduction
 
-[Madagascar]({{ 'madagascars-ufo-record-famous-case-thin/' | relative_url }})’s UFO history is unusually narrow. Unlike countries that developed long-running waves of sightings, recurring regional hotspots or extensive official archives, Madagascar’s record is dominated by a single event: the August 1954 sighting over Antananarivo, then widely known as Tananarive. Once that case is set aside, the remaining chronology becomes sparse, fragmented and often dependent on later UFO catalogues repeating the same small set of references. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</span></span></span>
+Madagascar’s UFO history is unusually narrow. Unlike countries that developed long-running waves of sightings, recurring regional hotspots or extensive official archives, Madagascar’s record is dominated by a single event: the August 1954 sighting over Antananarivo, then widely known as Tananarive. Once that case is set aside, the remaining chronology becomes sparse, fragmented and often dependent on later UFO catalogues repeating the same small set of references. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Madagascar_f92bcb_madagascar_chronolog_fed8a2-Illustration-1-dark.svg" | relative_url }}" alt="Chronology illustration 1" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb_madagascar_chronolog_fed8a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb_madagascar_chronolog_fed8a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ The timing also matters. Madagascar in 1947 was experiencing a major anti-coloni
 
 ## Why the 1954 capital-city event overwhelms the chronology
 
-The central fact of Madagascar’s UFO history is that almost every later discussion circles back to the Antananarivo sighting of 16 August 1954. The event acquired a reputation far beyond the island because it allegedly involved hundreds of witnesses, low-altitude observations, reports of electrical disturbances and testimony from Air France technical director Edmond Campagnac. Those features made it attractive to generations of ufologists searching for non-American and non-European cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">ufoevidence.org/newsite/files/GEPANSEPRA.pdf. 7.Gross, Patrick. “1954 - Tananarive, Madagascar - Multiple Witnesses to UFOs.” UFO Caseboo...</span></span></span>
+The central fact of Madagascar’s UFO history is that almost every later discussion circles back to the Antananarivo sighting of 16 August 1954. The event acquired a reputation far beyond the island because it allegedly involved hundreds of witnesses, low-altitude observations, reports of electrical disturbances and testimony from Air France technical director Edmond Campagnac. Those features made it attractive to generations of ufologists searching for non-American and non-European cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">ufoevidence.org/newsite/files/GEPANSEPRA.pdf. 7.Gross, Patrick. “1954 - Tananarive, Madagascar - Multiple Witnesses to UFOs.” UFO Caseboo...</span></span></span>
 
 The dominance of the case had a secondary effect: it discouraged the development of a broader Madagascar chronology. Many UFO reference works list the 1954 sighting and little else. When Madagascar appears in international databases or retrospective surveys, the same event is repeatedly cited as the country's defining contribution to UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">ufoevidence.org/newsite/files/GEPANSEPRA.pdf. 7.Gross, Patrick. “1954 - Tananarive, Madagascar - Multiple Witnesses to UFOs.” UFO Caseboo...</span></span></span> | Report a UFO sighting
 
@@ -325,7 +325,7 @@ Several consequences follow from this:
 For a country whose UFO reputation rests largely on a single event, these archival gaps are especially significant.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SEKSvVJI9wk" title="The Most Convincing UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SEKSvVJI9wk" target="_blank" rel="noopener noreferrer">The Most Convincing UFO Encounter</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 1.0M &middot; Uploaded: June 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SEKSvVJI9wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SEKSvVJI9wk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer">Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 488.0K &middot; Uploaded: June 2019 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z25NfZ0Ea9c">Open on YouTube</a></p></div></div></div>
 
 ## Why later claims remain thin and repetitive
 
@@ -333,93 +333,51 @@ The strongest conclusion from the wider chronology is not that Madagascar experi
 
 The 1947 Straits of Madagascar reference survives mainly as a bibliographic trace rather than a robustly documented case. The 1954 Antananarivo incident became internationally famous and absorbed most subsequent attention. Later reports exist, but many are short catalogue entries, duplicated references or claims lacking independent corroboration. Google Books <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">The Report on the UFO Wave of 1947 discusses the first contemporary wave of UFO sightings in this country, which reached its peak on July...</span></span></span>
 
-As a result, Madagascar differs from countries whose UFO histories are defined by accumulation. Its chronology is defined by concentration. One celebrated capital-city event generated lasting international interest, while the surrounding national record remained thin, scattered and difficult to verify. That imbalance itself is one of the most revealing facts about Madagascar’s place in global UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">ufoevidence.org/newsite/files/GEPANSEPRA.pdf. 7.Gross, Patrick. “1954 - Tananarive, Madagascar - Multiple Witnesses to UFOs.” UFO Caseboo...</span></span></span>
+As a result, Madagascar differs from countries whose UFO histories are defined by accumulation. Its chronology is defined by concentration. One celebrated capital-city event generated lasting international interest, while the surrounding national record remained thin, scattered and difficult to verify. That imbalance itself is one of the most revealing facts about Madagascar’s place in global UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">ufoevidence.org/newsite/files/GEPANSEPRA.pdf. 7.Gross, Patrick. “1954 - Tananarive, Madagascar - Multiple Witnesses to UFOs.” UFO Caseboo...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer">Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 488.0K &middot; Uploaded: June 2019 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z25NfZ0Ea9c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SEKSvVJI9wk" title="The Most Convincing UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SEKSvVJI9wk" target="_blank" rel="noopener noreferrer">The Most Convincing UFO Encounter</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 1.0M &middot; Uploaded: June 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SEKSvVJI9wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SEKSvVJI9wk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Is There a Wider Madagascar UFO Pattern?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Is There a Wider Madagascar UFO Pattern?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful comparative reference for sparse sighting chronologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps contextualize isolated reports within larger patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides broader context for evaluating national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Best fit for a page examining sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -453,75 +411,71 @@ As a result, Madagascar differs from countries whose UFO histories are defined b
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chronology-is-there-a-wider-madagascar-ufo-pattern-madagascar-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -735,136 +689,136 @@ As a result, Madagascar differs from countries whose UFO histories are defined b
 
 1. <a id="endnote-1"></a>
    Source: ia801803.us.archive.org  
-   Link: [https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf](https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf)  
+   Link: <a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronology. The UFO phenomenon truly experienced worldwide dissemination as of Kenneth Arnolds sighting...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314](https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314)  
+   Link: <a href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufoevidence.org/newsite/files/GEPANSEPRA.pdf. 7.Gross, Patrick. “1954 - Tananarive, Madagascar - Multiple Witnesses to UFOs.” UFO Caseboo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Coming of the Saucers  
-   Link: [https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers](https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers</a>  
 
 5. <a id="endnote-5"></a>
    Source: books.google.com  
    Title: Flying Saucers in the Sky  
-   Link: [https://books.google.com/books/about/Flying_Saucers_in_the_Sky.html?id=9epdzQEACAAJ](https://books.google.com/books/about/Flying_Saucers_in_the_Sky.html?id=9epdzQEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/Flying_Saucers_in_the_Sky.html?id=9epdzQEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Flying_Saucers_in_the_Sky.html?id=9epdzQEACAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksFlying Saucers in the Sky: 1947: when UFOs Came from...The author has surveyed hundreds of 1947 newspapers, collecting over...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: [https://dokumen.pub/report-on-the-ufo-wave-of-1947.html](https://dokumen.pub/report-on-the-ufo-wave-of-1947.html)  
+   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on the UFO Wave of 1947 discusses the first contemporary wave of UFO sightings in this country, which reached its peak on July...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Malagasy Uprising  
-   Link: [https://en.wikipedia.org/wiki/Malagasy_Uprising](https://en.wikipedia.org/wiki/Malagasy_Uprising)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malagasy_Uprising" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malagasy_Uprising</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 12, 2005 — The Malagasy Uprising was a Malagasy nationalist rebellion against French colonial rule in Madagascar, lasting from Marc...</p></details>
    Published: March 12, 2005  
 
 8. <a id="endnote-8"></a>
    Source: shs.hal.science  
    Title: halshs 00705902v1  
-   Link: [https://shs.hal.science/halshs-00705902v1](https://shs.hal.science/halshs-00705902v1)  
+   Link: <a href="https://shs.hal.science/halshs-00705902v1" target="_blank" rel="noopener noreferrer nofollow">https://shs.hal.science/halshs-00705902v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: les sources d&#x27;archives13 Feb 2026 — Jean-Pierre Chrétien. Madagascar 1947: les sources d&#x27;archives. Tsingy: Revue de l&#x27;Associatio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Observation d'Antananarivo  
-   Link: [https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo](https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more...</p></details>
    Published: June 1959  
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open- Two other testimonies from a center near the first one concern the sighting of a UFO from 2330 to 0130 hours at a distance ranging...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 1  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_1.pdfOn the evening of July 9, 1947, a report was received at the Los. Angeles Office that a so-call...</p></details>
    Published: July 9, 1947  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of oldest universities in continuous operation  
-   Link: [https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation](https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of oldest universities in continuous operationIt is no doubt true that other civilizations, prior to, or wholly alien to, the med...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf](https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf)  
+   Link: <a href="https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alfred Loedding and the 1947 UFO Wave | PDFWhen UFOs first appeared in numbers during the great flying saucer wave of 1947, few people ma...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uncorruptedtruth.com  
    Title: the ufo dossier 100 years of government secrets conspiracies  
-   Link: [https://uncorruptedtruth.com/wp-content/uploads/2022/11/the_ufo_dossier_100_years_of_government_secrets_conspiracies.pdf](https://uncorruptedtruth.com/wp-content/uploads/2022/11/the_ufo_dossier_100_years_of_government_secrets_conspiracies.pdf)  
+   Link: <a href="https://uncorruptedtruth.com/wp-content/uploads/2022/11/the_ufo_dossier_100_years_of_government_secrets_conspiracies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uncorruptedtruth.com/wp-content/uploads/2022/11/the_ufo_dossier_100_years_of_government_secrets_conspiracies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>about the authorIn 1974 he got his first credit as a freelance writer with an article about UFO landing traces. He has investigated such...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: on august 16 1954 at 0500pm an event stupefied  
-   Link: [https://www.reddit.com/r/Madagascar/comments/1dikjj8/on_august_16_1954_at_0500pm_an_event_stupefied/](https://www.reddit.com/r/Madagascar/comments/1dikjj8/on_august_16_1954_at_0500pm_an_event_stupefied/)  
+   Link: <a href="https://www.reddit.com/r/Madagascar/comments/1dikjj8/on_august_16_1954_at_0500pm_an_event_stupefied/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Madagascar/comments/1dikjj8/on_august_16_1954_at_0500pm_an_event_stupefied/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 16, 1954, at 05:00pm, an event stupefied tens of...Campagnac might have read about UFOs in Science-Fiction literature, but it...</p></details>
    Published: August 16, 1954  
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/898908616/Magnetic-Monopole-Propulsion-Clues-from](https://www.scribd.com/document/898908616/Magnetic-Monopole-Propulsion-Clues-from)  
+   Link: <a href="https://www.scribd.com/document/898908616/Magnetic-Monopole-Propulsion-Clues-from" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/898908616/Magnetic-Monopole-Propulsion-Clues-from</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>onopoles, drawing on historical reports and analyses of...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
    Title: FCO archives inventory may 2019.csv  
-   Link: [https://assets.publishing.service.gov.uk/media/5ce80262ed915d247f773046/FCO_archives_inventory_may_2019.csv](https://assets.publishing.service.gov.uk/media/5ce80262ed915d247f773046/FCO_archives_inventory_may_2019.csv)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5ce80262ed915d247f773046/FCO_archives_inventory_may_2019.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5ce80262ed915d247f773046/FCO_archives_inventory_may_2019.csv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1954- 1958 Local Defence Committee (Persian Gulf) bound volume of papers and minutes.,8... aliens; trading with the enemy; treaties wit...</p></details>
    Published: may 2019  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: 5 Bizarre Accounts From History of UFO Sightings (74 BC  
-   Link: [http://www.youtube.com/watch?v=_PaQmnq_nAc](http://www.youtube.com/watch?v=_PaQmnq_nAc)  
+   Link: <a href="http://www.youtube.com/watch?v=_PaQmnq_nAc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_PaQmnq_nAc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1954 Madagascar UFO Tananarive UFO sighting in Antananarivo in August 1954...</p></details>
    Published: August 1954  
 
 20. <a id="endnote-20"></a>
    Source: omniatlas.com  
    Title: sub saharan africa  
-   Link: [https://omniatlas.com/maps/sub-saharan-africa/19470430/](https://omniatlas.com/maps/sub-saharan-africa/19470430/)  
+   Link: <a href="https://omniatlas.com/maps/sub-saharan-africa/19470430/" target="_blank" rel="noopener noreferrer nofollow">https://omniatlas.com/maps/sub-saharan-africa/19470430/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sub-Saharan Africa 1947: Malagasy UprisingDespite the MDRM&#x27;s calls for calm, nationalist revolts broke out in eastern Madagascar on 29 Ma...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cia.gov  
    Title: DOC 0000015482  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SUPPLEMENT TO. REPORT NO. THIS IS UNEVALUATED INFORMATION. SIGHTINGS OF UNIDENTIFIED MLYI...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: europepmc.org  
    Title: bullwho00328 0179  
-   Link: [https://europepmc.org/articles/pmc2555586/pdf/bullwho00328-0179.pdf](https://europepmc.org/articles/pmc2555586/pdf/bullwho00328-0179.pdf)  
+   Link: <a href="https://europepmc.org/articles/pmc2555586/pdf/bullwho00328-0179.pdf" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/articles/pmc2555586/pdf/bullwho00328-0179.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Recent Literature on PlagueCourdurier (1954), the systematic application of. DDT (or, to a lesser extent, BHC) in the houses...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=OarL8ymktIE](http://www.youtube.com/watch?v=OarL8ymktIE)  
+   Link: <a href="http://www.youtube.com/watch?v=OarL8ymktIE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OarL8ymktIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>

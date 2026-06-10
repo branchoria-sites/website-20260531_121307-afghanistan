@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /liberia-1ed5dd-index/
 description: Focused pages that expand on What Is Known About UFOs in Liberia?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Liberia_1ed5dd
 parent_title: What Is Known About UFOs in Liberia?

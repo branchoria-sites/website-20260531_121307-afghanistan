@@ -245,7 +245,7 @@ next_link:
   permalink: /records-0102a8/
   short_title: Records
   heading_title: Where Would Gambian UFO Records Actually Appear?
-date: '2026-06-09 01:27:32 '
+date: '2026-06-10 01:52:18 '
 header:
   og_image: /assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-1-social.jpg
   preview_image: /assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-1-s
 
 ## Introduction
 
-In June 2025, reports from the Upper River Region of The [Gambia]({{ 'what-is-really-behind-gambias-ufo/' | relative_url }}) described a large metal ring falling near Sare Gubu village in Sandu District. Witnesses said they heard a loud sound before the object was found on the outskirts of the community, and the incident quickly spread across Gambian social media under the familiar language of “mystery objects” and “UFOs”. Yet the available evidence points in a more grounded direction. The shape of the object, the military recovery response, and comparisons with similar incidents elsewhere all fit the pattern of aerospace or space-launch debris far more closely than an unexplained craft.
+In June 2025, reports from the Upper River Region of The Gambia described a large metal ring falling near Sare Gubu village in Sandu District. Witnesses said they heard a loud sound before the object was found on the outskirts of the community, and the incident quickly spread across Gambian social media under the familiar language of “mystery objects” and “UFOs”. Yet the available evidence points in a more grounded direction. The shape of the object, the military recovery response, and comparisons with similar incidents elsewhere all fit the pattern of aerospace or space-launch debris far more closely than an unexplained craft.
 
 
 <img src="{{ "/assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-1-dark.svg" | relative_url }}" alt="Metal Ring illustration 1" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ That does not make the incident unimportant. The Sare Gubu case matters precisel
 
 ## What was reported near Sare Gubu
 
-The core facts of the case are relatively limited but stronger than many rumour-driven UFO stories. Local reports stated that a large metallic ring fell near Sare Gubu in early June 2025, accompanied by a loud noise heard by nearby residents. Images circulating online showed a hollow circular structure resembling a thick industrial ring rather than a natural meteorite fragment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookWhat&#x27;s On - GambiaAre we safe? On Friday, a metal ring fell on the outskirts of Sare Gubu in the Sandu District. Eyewitnesses rep...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">friday 6th june 2025 this metal ring probably a space debris fell down on the ou</span><span class="citation-popover-snippet">FacebookFriday 6th June 2025, this metal ring, (...This metal ring, (probably a space debris) fell down on the outskirts of Sare Gubu in...</span><span class="citation-popover-meta">Published: june 2025</span></span></span>
+The core facts of the case are relatively limited but stronger than many rumour-driven UFO stories. Local reports stated that a large metallic ring fell near Sare Gubu in early June 2025, accompanied by a loud noise heard by nearby residents. Images circulating online showed a hollow circular structure resembling a thick industrial ring rather than a natural meteorite fragment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">What&#x27;s On - GambiaAre we safe? On Friday, a metal ring fell on the outskirts of Sare Gubu in the Sandu District. Eyewitnesses rep...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">friday 6th june 2025 this metal ring probably a space debris fell down on the ou</span><span class="citation-popover-snippet">Friday 6th June 2025, this metal ring, (...This metal ring, (probably a space debris) fell down on the outskirts of Sare Gubu in...</span><span class="citation-popover-meta">Published: june 2025</span></span></span>
 
 The most significant confirmation came from the Gambia Armed Forces. LamToro News reported that Captain Kemo Kanuteh, acting spokesperson for the military, confirmed that soldiers from the 3 Infantry Battalion in Basse collected the object after the incident. The report also stated that specialists would examine the material to determine its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lamtoronews.com">[lamtoronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lamtoronews.com</span><span class="citation-popover-snippet">Gubu village – GAF confirmed · Written by Assan Sallah · One Comment...</span></span></span>
 
@@ -278,7 +278,7 @@ The Sare Gubu object reportedly resembled exactly this type of aerospace compone
 
 Recent incidents elsewhere make the comparison more persuasive. In Kenya, a large metallic ring reported in early 2025 was investigated as probable space-launch debris, with authorities identifying it as resembling a rocket separation ring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook🇰🇪 A resident claims the 500kg metal ring that crashed in...This object has been identified by the Kenya Space Agency as a part...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">re incident highlights the growing issue of space junk.Read more...</span></span></span> Similar debris has also been recovered in Australia and other regions following uncontrolled rocket re-entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">The 5-foot-wide wreckage, found by local miners on October 18, is suspected to be part of the rocket&#x27;s upper stage that failed to fully b...</span></span></span>
 
-The wider scientific context also supports this explanation. Aerospace researchers have repeatedly warned that uncontrolled re-entry debris is becoming more common as launch frequency increases. One academic assessment of uncontrolled rocket re-entries concluded that substantial portions of launch hardware can survive atmospheric descent and disproportionately threaten regions closer to equatorial latitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.02188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unnecessary risks created by uncontrolled rocket reentries</span><span class="citation-popover-snippet">arXivUnnecessary risks created by uncontrolled rocket reentriesOctober 4, 2022...</span><span class="citation-popover-meta">Published: October 4, 2022</span></span></span> The Gambia sits within exactly that broad latitude band.
+The wider scientific context also supports this explanation. Aerospace researchers have repeatedly warned that uncontrolled re-entry debris is becoming more common as launch frequency increases. One academic assessment of uncontrolled rocket re-entries concluded that substantial portions of launch hardware can survive atmospheric descent and disproportionately threaten regions closer to equatorial latitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.02188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unnecessary risks created by uncontrolled rocket reentries</span><span class="citation-popover-snippet">Unnecessary risks created by uncontrolled rocket reentriesOctober 4, 2022...</span><span class="citation-popover-meta">Published: October 4, 2022</span></span></span> The Gambia sits within exactly that broad latitude band.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rkaQbfyyhms" title="India says Chinese space debris fell on rural villages as rocket failed to burn up on re-entry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rkaQbfyyhms" target="_blank" rel="noopener noreferrer">India says Chinese space debris fell on rural villages as rocket failed to burn up on re-entry</a></p><p class="youtube-embed-meta">Channel: South China Morning Post &middot; Views: 177.0K &middot; Uploaded: April 2022 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rkaQbfyyhms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rkaQbfyyhms">Open on YouTube</a></p></div></div></div>
@@ -300,7 +300,7 @@ The Sare Gubu incident demonstrates how quickly unidentified falling objects bec
 Several factors encouraged that interpretation:
 
 * The object reportedly arrived suddenly and dramatically.
-* Witnesses heard a loud atmospheric sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">friday 6th june 2025 this metal ring probably a space debris fell down on the ou</span><span class="citation-popover-snippet">FacebookFriday 6th June 2025, this metal ring, (...This metal ring, (probably a space debris) fell down on the outskirts of Sare Gubu in...</span><span class="citation-popover-meta">Published: june 2025</span></span></span>
+* Witnesses heard a loud atmospheric sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">friday 6th june 2025 this metal ring probably a space debris fell down on the ou</span><span class="citation-popover-snippet">Friday 6th June 2025, this metal ring, (...This metal ring, (probably a space debris) fell down on the outskirts of Sare Gubu in...</span><span class="citation-popover-meta">Published: june 2025</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,86 +387,44 @@ For the broader Gambian UFO record, that distinction is important. The Sare Gubu
 <img src="{{ "/assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-3-dark.svg" | relative_url }}" alt="Metal Ring illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997_sare_gubu_metal_ring_04a188-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was Sare Gubu Space Debris or Something Stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was Sare Gubu Space Debris or Something Stranger?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Helps readers compare physical-object incidents with classic UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains investigation methods for unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader UFO context around reports that later receive mundane explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10229162-M.jpg" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin</p>
-        
-        <p class="fr-book-desc">First published 2019. Subjects: Space colonies, Extraterrestrial bases, Outer space, exploration, Exploration, Space industrialization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -500,75 +458,71 @@ For the broader Gambian UFO record, that distinction is important. The Sare Gubu
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metal-ring-was-sare-gubu-space-debris-or-something-stranger-gambia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -782,141 +736,141 @@ For the broader Gambian UFO record, that distinction is important. The Sare Gubu
 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/](https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookWhat&#x27;s On - GambiaAre we safe? On Friday, a metal ring fell on the outskirts of Sare Gubu in the Sandu District. Eyewitnesses rep...</p></details>
+   Link: <a href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s On - GambiaAre we safe? On Friday, a metal ring fell on the outskirts of Sare Gubu in the Sandu District. Eyewitnesses rep...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: friday 6th june 2025 this metal ring probably a space debris fell down on the ou  
-   Link: [https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/](https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFriday 6th June 2025, this metal ring, (...This metal ring, (probably a space debris) fell down on the outskirts of Sare Gubu in...</p></details>
+   Link: <a href="https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ILOVEBASSEGAMBIA/photos/friday-6th-june-2025-this-metal-ring-probably-a-space-debris-fell-down-on-the-ou/1271055217927313/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Friday 6th June 2025, this metal ring, (...This metal ring, (probably a space debris) fell down on the outskirts of Sare Gubu in...</p></details>
    Published: june 2025  
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/](https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/)  
+   Link: <a href="https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Sandu District. Eyewitnesses reported hearing a loud noise and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lamtoronews.com  
-   Link: [https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/](https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/)  
+   Link: <a href="https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gubu village – GAF confirmed · Written by Assan Sallah · One Comment...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lamtoronews.com  
-   Link: [https://lamtoronews.com/tag/gaf/](https://lamtoronews.com/tag/gaf/)  
+   Link: <a href="https://lamtoronews.com/tag/gaf/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/gaf/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAF3 Infantry Battalion soldiers collected metal ring which crashes around Sare Gubu village – GAF confirmed. by Assan Sallah June 10, 20...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/](https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook🇰🇪 A resident claims the 500kg metal ring that crashed in...This object has been identified by the Kenya Space Agency as a part...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/](https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>re incident highlights the growing issue of space junk.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cgtnafrica/posts/the-kenya-space-agency-says-it-is-investigating-an-incident-where-a-fragment-of-/1041317178034666/](https://www.facebook.com/cgtnafrica/posts/the-kenya-space-agency-says-it-is-investigating-an-incident-where-a-fragment-of-/1041317178034666/)  
+   Link: <a href="https://www.facebook.com/cgtnafrica/posts/the-kenya-space-agency-says-it-is-investigating-an-incident-where-a-fragment-of-/1041317178034666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnafrica/posts/the-kenya-space-agency-says-it-is-investigating-an-incident-where-a-fragment-of-/1041317178034666/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hing about 500 kilograms, is believed to be a separation ring...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Unnecessary risks created by uncontrolled rocket reentries  
-   Link: [https://arxiv.org/abs/2210.02188](https://arxiv.org/abs/2210.02188)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUnnecessary risks created by uncontrolled rocket reentriesOctober 4, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2210.02188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02188</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unnecessary risks created by uncontrolled rocket reentriesOctober 4, 2022...</p></details>
    Published: October 4, 2022  
 
 10. <a id="endnote-10"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/article/space-debris-101](https://aerospace.org/article/space-debris-101)  
+   Link: <a href="https://aerospace.org/article/space-debris-101" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/space-debris-101</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to know about space debris...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/458799334153950/posts/24455635377377010/](https://www.facebook.com/groups/458799334153950/posts/24455635377377010/)  
+   Link: <a href="https://www.facebook.com/groups/458799334153950/posts/24455635377377010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/458799334153950/posts/24455635377377010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia Youth And Women&#x27;s ForumLamToro News󰞋Jun 10, 2025󰞋󱟠... 3 Infantry Battalion soldiers collected metal ring which crashes around Sar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064352755816/videos/the-gambia-armed-forces-gaf-in-collaboration-with-other-security-services-the-mi/2857068554638484/](https://www.facebook.com/100064352755816/videos/the-gambia-armed-forces-gaf-in-collaboration-with-other-security-services-the-mi/2857068554638484/)  
+   Link: <a href="https://www.facebook.com/100064352755816/videos/the-gambia-armed-forces-gaf-in-collaboration-with-other-security-services-the-mi/2857068554638484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064352755816/videos/the-gambia-armed-forces-gaf-in-collaboration-with-other-security-services-the-mi/2857068554638484/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gambia Armed Forces (GAF), in collaboration with other...GAF invites the general public to the graduation ceremony of its first coho...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Kerrfatou/videos/gambia-armed-forces-hold-decoration-ceremony-to-honor-promoted-officers/1199226658078527/](https://www.facebook.com/Kerrfatou/videos/gambia-armed-forces-hold-decoration-ceremony-to-honor-promoted-officers/1199226658078527/)  
+   Link: <a href="https://www.facebook.com/Kerrfatou/videos/gambia-armed-forces-hold-decoration-ceremony-to-honor-promoted-officers/1199226658078527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kerrfatou/videos/gambia-armed-forces-hold-decoration-ceremony-to-honor-promoted-officers/1199226658078527/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>se head cours in banun to recognize and celebrate the promotion...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback](https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback)  
+   Link: <a href="https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 5-foot-wide wreckage, found by local miners on October 18, is suspected to be part of the rocket&#x27;s upper stage that failed to fully b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Gambia Armed Forces  
-   Link: [https://en.wikipedia.org/wiki/Gambia_Armed_Forces](https://en.wikipedia.org/wiki/Gambia_Armed_Forces)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gambia_Armed_Forces" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gambia_Armed_Forces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia Armed ForcesThe Gambia Armed Forces, also known as the Armed Forces of The Gambia, consists of three branches: the Gambia Natio...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: op.gov.gm  
-   Link: [https://op.gov.gm/index.php/keynote-address-his-excellency-president-and-commander-chief-gambia-armed-forces-mr-adama-barrow](https://op.gov.gm/index.php/keynote-address-his-excellency-president-and-commander-chief-gambia-armed-forces-mr-adama-barrow)  
+   Link: <a href="https://op.gov.gm/index.php/keynote-address-his-excellency-president-and-commander-chief-gambia-armed-forces-mr-adama-barrow" target="_blank" rel="noopener noreferrer nofollow">https://op.gov.gm/index.php/keynote-address-his-excellency-president-and-commander-chief-gambia-armed-forces-mr-adama-barrow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of The President21 May 2025 — ADAMA BARROW, ON THE OCCASION OF THE PASSING OUT CEREMONY OF GAMBIA ARMED FORCES INTAKE THIRTY-NINE (39) HE...</p></details>
    Published: May 2025  
 
 17. <a id="endnote-17"></a>
    Source: thepoint.gm  
-   Link: [https://thepoint.gm/africa/gambia/national-news/sare-gubu-basiru-champions-change-12th-annual-forum-calls-for-violence-free-community](https://thepoint.gm/africa/gambia/national-news/sare-gubu-basiru-champions-change-12th-annual-forum-calls-for-violence-free-community)  
+   Link: <a href="https://thepoint.gm/africa/gambia/national-news/sare-gubu-basiru-champions-change-12th-annual-forum-calls-for-violence-free-community" target="_blank" rel="noopener noreferrer nofollow">https://thepoint.gm/africa/gambia/national-news/sare-gubu-basiru-champions-change-12th-annual-forum-calls-for-violence-free-community</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sare Gubu Basiru champions change: 12th annual forum...Sare Gubu Basiru champions change: 12th annual forum calls for violence-free comm...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ql5JzgV6CEs](https://www.youtube.com/watch?v=ql5JzgV6CEs)  
+   Link: <a href="https://www.youtube.com/watch?v=ql5JzgV6CEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ql5JzgV6CEs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GAF to Establish Special Forces Unit with Support from partnersThe Gambia Armed Forces (GAF) is set to establish a specialized military u...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jollofnews.gm  
    Title: gambia armed forces promotes over 40 officers  
-   Link: [https://jollofnews.gm/gambia-armed-forces-promotes-over-40-officers/](https://jollofnews.gm/gambia-armed-forces-promotes-over-40-officers/)  
+   Link: <a href="https://jollofnews.gm/gambia-armed-forces-promotes-over-40-officers/" target="_blank" rel="noopener noreferrer nofollow">https://jollofnews.gm/gambia-armed-forces-promotes-over-40-officers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 May 2025 — More than 40 officers of the Gambia Armed Forces (GAF) received new ranks in a formal decoration ceremony held Friday, at D...</p></details>
    Published: May 2025  
 
 20. <a id="endnote-20"></a>
    Source: kerrfatou.com  
    Title: national assembly to commence second ordinary session on 16 june 2025  
-   Link: [https://www.kerrfatou.com/national-assembly-to-commence-second-ordinary-session-on-16-june-2025/](https://www.kerrfatou.com/national-assembly-to-commence-second-ordinary-session-on-16-june-2025/)  
+   Link: <a href="https://www.kerrfatou.com/national-assembly-to-commence-second-ordinary-session-on-16-june-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.kerrfatou.com/national-assembly-to-commence-second-ordinary-session-on-16-june-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By Fatou Sillah Last updated Jun 3, 2025. 428. Share. National Assembly building.Read more...</p></details>
    Published: june 2025  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: List of space debris fall incidents  
-   Link: [https://en.wikipedia.org/wiki/List_of_space_debris_fall_incidents](https://en.wikipedia.org/wiki/List_of_space_debris_fall_incidents)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_space_debris_fall_incidents" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_space_debris_fall_incidents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of space debris fall incidentsAccording to NASA, an average of one cataloged piece of debris has fallen back to Earth each day fo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rkaQbfyyhms](https://www.youtube.com/watch?v=rkaQbfyyhms)  
+   Link: <a href="https://www.youtube.com/watch?v=rkaQbfyyhms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rkaQbfyyhms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Metallic Ring Falls in Kenya – Space Junk or Rocket Debris?...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: visitthegambia.com  
-   Link: [https://visitthegambia.com/?m=202508](https://visitthegambia.com/?m=202508)  
+   Link: <a href="https://visitthegambia.com/?m=202508" target="_blank" rel="noopener noreferrer nofollow">https://visitthegambia.com/?m=202508</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August, 2025August 2025. The Gambia Tourism Board Named Best Tourism Marketing Agency in Africa. 2. Magic Places. Copyright © Gambia Tour...</p></details>
    Published: August 2025  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Why is space junk such a big problem?  
-   Link: [https://www.youtube.com/watch?v=rkdCZy6uKb4](https://www.youtube.com/watch?v=rkdCZy6uKb4)  
+   Link: <a href="https://www.youtube.com/watch?v=rkdCZy6uKb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rkdCZy6uKb4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>India says Chinese space debris fell on rural villages as rocket failed to burn up on re-entry...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Massive mysterious metal ring crashes into Kenyan village | REUTERS  
-   Link: [https://www.youtube.com/watch?v=DNvZTLUVdKw](https://www.youtube.com/watch?v=DNvZTLUVdKw)  
+   Link: <a href="https://www.youtube.com/watch?v=DNvZTLUVdKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DNvZTLUVdKw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;One in a million&quot; piece of space debris crashes on remote village in Kenya...</p></details>

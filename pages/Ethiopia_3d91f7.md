@@ -1185,7 +1185,7 @@ next_link:
   title: Tonga UFOs
   permalink: /what-really-exists-in-tongas-ufo-record/
   short_title: Tonga UFOs
-date: '2026-06-09 01:26:49 '
+date: '2026-06-10 01:51:32 '
 header:
   og_image: /assets/images/Ethiopia_3d91f7-overview-social.jpg
   preview_image: /assets/images/Ethiopia_3d91f7-overview.webp
@@ -1252,7 +1252,7 @@ A practical way to read Ethiopia’s UFO material is to separate it by evidence 
 **Speculative or culturally driven claims:** “ancient alien” interpretations of Ethiopian religious texts or historic sites such as Lalibela sit outside the evidential core of Ethiopia’s UFO record. They are better treated as popular-culture or belief-system claims unless supported by archaeological, astronomical or documentary evidence, not as national sighting incidents.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yADLnhfvVg4" title="Analyzing Unidentified Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer">Analyzing Unidentified Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Emerging Technologies Institute &middot; Views: 9.8K &middot; Uploaded: March 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yADLnhfvVg4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ks_k1bt2uhU" title="part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer">part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር</a></p><p class="youtube-embed-meta">Channel: Ethio Tec &middot; Views: 1.4K &middot; Uploaded: December 2022 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ks_k1bt2uhU">Open on YouTube</a></p></div></div></div>
 
 ## Why Ethiopia’s UFO archive is thin
 
@@ -1273,90 +1273,48 @@ The January 2025 response offers a good template: gather videos, map witness loc
 For older cases such as Saladare, the highest-value next evidence would be archival rather than speculative: the alleged Addis Ababa newspaper clipping, the Italian-language local article, original photographs with provenance, the doctor’s full identity and correspondence, any UN staff records, and local administrative or medical records from August 1970. Without those, Saladare remains one of Ethiopia’s most intriguing UFO stories, but not one of its most securely established facts.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ks_k1bt2uhU" title="part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer">part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር</a></p><p class="youtube-embed-meta">Channel: Ethio Tec &middot; Views: 1.4K &middot; Uploaded: December 2022 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ks_k1bt2uhU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B75xmeeKH0c" title="Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer">Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?</a></p><p class="youtube-embed-meta">Channel: NASA&#x27;s Marshall Space Flight Center &middot; Views: 4.3K &middot; Uploaded: March 2014 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B75xmeeKH0c">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Counts as Ethiopia&#x27;s UFO Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Counts as Ethiopia&#x27;s UFO Evidence?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for assessing contested cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a page evaluating the strength of UFO evidence and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how folklore and reports evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Examines how modern societies interpret anomalous aerial claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1390,75 +1348,71 @@ For older cases such as Saladare, the highest-value next evidence would be archi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopias-ufo-what-really-counts-as-ethiopia-s-ufo-evidence-ethiopia-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1673,158 +1627,158 @@ For older cases such as Saladare, the highest-value next evidence would be archi
 1. <a id="endnote-1"></a>
    Source: pdfcoffee.com  
    Title: Hynek and Vallee  
-   Link: [https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html](https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
    Title: CNEOSFireballs and bolides  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/intro.html](https://cneos.jpl.nasa.gov/fireballs/intro.html)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/node/44081/printable/print](https://aerospace.org/node/44081/printable/print)  
+   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for Country Ethiopia  
-   Link: [https://nuforc.org/subndx/?id=cEthiopia](https://nuforc.org/subndx/?id=cEthiopia)  
+   Link: <a href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cEthiopia</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/](https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/)  
+   Link: <a href="https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: the shocking destruction of an ethiopian village  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/](https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/user/throwaway16830261/](https://www.reddit.com/user/throwaway16830261/)  
+   Link: <a href="https://www.reddit.com/user/throwaway16830261/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/user/throwaway16830261/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/](https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/)  
+   Link: <a href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/](https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/](https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/</a>  
 
 12. <a id="endnote-12"></a>
    Source: 2009-2017.state.gov  
-   Link: [https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm](https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm)  
+   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: 2009-2017.state.gov  
-   Link: [https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm](https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm)  
+   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: 2001-2009.state.gov  
-   Link: [https://2001-2009.state.gov/t/pm/64656.htm](https://2001-2009.state.gov/t/pm/64656.htm)  
+   Link: <a href="https://2001-2009.state.gov/t/pm/64656.htm" target="_blank" rel="noopener noreferrer nofollow">https://2001-2009.state.gov/t/pm/64656.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: [https://orbitaldebris.jsc.nasa.gov/reentry/](https://orbitaldebris.jsc.nasa.gov/reentry/)  
+   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
 16. <a id="endnote-16"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 18. <a id="endnote-18"></a>
    Source: spaceinafrica.com  
    Title: Space in Africa Falling Space Debris Incident Reported in Ethiopia  
-   Link: [https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/](https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/)  
+   Link: <a href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/</a>  
 
 19. <a id="endnote-19"></a>
    Source: trtafrika.com  
    Title: TRT Afrika Mysterious objects seen moving in skies over Ethiopia  
-   Link: [https://www.trtafrika.com/english/article/18252483](https://www.trtafrika.com/english/article/18252483)  
+   Link: <a href="https://www.trtafrika.com/english/article/18252483" target="_blank" rel="noopener noreferrer nofollow">https://www.trtafrika.com/english/article/18252483</a>  
 
 20. <a id="endnote-20"></a>
    Source: t.me  
-   Link: [https://t.me/s/officialesss?before=1857](https://t.me/s/officialesss?before=1857)  
+   Link: <a href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss?before=1857</a>  
 
 21. <a id="endnote-21"></a>
    Source: t.me  
-   Link: [https://t.me/s/officialesss?after=1844](https://t.me/s/officialesss?after=1844)  
+   Link: <a href="https://t.me/s/officialesss?after=1844" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss?after=1844</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Meteor](https://en.wikipedia.org/wiki/Meteor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
 24. <a id="endnote-24"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea](https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea)  
+   Link: <a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea</a>  
 
 25. <a id="endnote-25"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976](https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976)  
+   Link: <a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
 
 26. <a id="endnote-26"></a>
    Source: fpif.org  
-   Link: [https://fpif.org/eritrea/](https://fpif.org/eritrea/)  
+   Link: <a href="https://fpif.org/eritrea/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/eritrea/</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Kenya probes mysterious metallic object from space  
-   Link: [https://www.youtube.com/watch?v=LBGenhIQ5EQ](https://www.youtube.com/watch?v=LBGenhIQ5EQ)  
+   Link: <a href="https://www.youtube.com/watch?v=LBGenhIQ5EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LBGenhIQ5EQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 &quot;One in a million&quot; piece of space debris crashes on remote village in Kenya...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር  
-   Link: [https://www.youtube.com/watch?v=Ks_k1bt2uhU](https://www.youtube.com/watch?v=Ks_k1bt2uhU)  
+   Link: <a href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ks_k1bt2uhU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Kenya probes mysterious metallic object from space...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Ethiopian Space Science and Technology Institute  
-   Link: [https://www.youtube.com/watch?v=ZgFaVXQIvTM](https://www.youtube.com/watch?v=ZgFaVXQIvTM)  
+   Link: <a href="https://www.youtube.com/watch?v=ZgFaVXQIvTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgFaVXQIvTM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/](https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/)  
+   Link: <a href="https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/](https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/)  
+   Link: <a href="https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/](https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/)  
+   Link: <a href="https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/](https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/)  
+   Link: <a href="https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/](https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/)  
+   Link: <a href="https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/</a>  
 
 35. <a id="endnote-35"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia](https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia</a>  
 
 36. <a id="endnote-36"></a>
    Source: t.me  
-   Link: [https://t.me/s/officialesss/1823](https://t.me/s/officialesss/1823)  
+   Link: <a href="https://t.me/s/officialesss/1823" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss/1823</a>  

@@ -245,7 +245,7 @@ next_link:
   permalink: /records-a21934/
   short_title: Records
   heading_title: Why Lebanon's UFO Record Is So Hard to Verify
-date: '2026-06-09 01:31:46 '
+date: '2026-06-10 01:57:22 '
 header:
   og_image: /assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1-social.jpg
   preview_image: /assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1-s
 
 ## Introduction
 
-Reports of unexplained lights and fast‑moving streaks in the night sky over [Lebanon]({{ 'what-do-lebanons-ufo-reports-really-show/' | relative_url }}) sometimes attract attention from both local observers and wider UFO‑enthusiast communities. A key **natural explanation for a subset of these sightings** is ordinary astronomical activity — specifically **meteors and meteoroids burning up in Earth’s atmosphere**. Scientific observers and media at the time have tied several notable Lebanese sky sightings to **meteoric events**, especially during a widely observed phenomenon in **June 2012**, when glowing objects were reported across multiple Lebanese regions and regionally beyond. These meteor explanations illustrate how bright, transient sky phenomena can be mistaken for unidentified craft when witnessed without astronomical context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet</span><span class="citation-popover-snippet">NaharnetPrint: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+Reports of unexplained lights and fast‑moving streaks in the night sky over Lebanon sometimes attract attention from both local observers and wider UFO‑enthusiast communities. A key **natural explanation for a subset of these sightings** is ordinary astronomical activity — specifically **meteors and meteoroids burning up in Earth’s atmosphere**. Scientific observers and media at the time have tied several notable Lebanese sky sightings to **meteoric events**, especially during a widely observed phenomenon in **June 2012**, when glowing objects were reported across multiple Lebanese regions and regionally beyond. These meteor explanations illustrate how bright, transient sky phenomena can be mistaken for unidentified craft when witnessed without astronomical context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet</span><span class="citation-popover-snippet">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1-dark.svg" | relative_url }}" alt="Meteors illustration 1" data-theme-src-dark="{{ "/assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ Reports of unexplained lights and fast‑moving streaks in the night sky over [L
 
 On **7 June 2012**, residents across **North Lebanon, Marjaayoun, the Bekaa Valley and other areas** reported multiple luminous objects and fiery streaks in the evening sky. Lebanese news outlets such as LBCI described these as **luminous objects and meteor bursts**, noting that astronomical sources attributed them to a large meteoroid fragmenting and leaving visible dust trains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbcgroup.tv">[LBCIV7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbcgroup.tv</span><span class="citation-popover-title">LBCIV7أجسام مضيئة وشهب نارية في سماء لبنان والاردن وسوريا وتركيا</span><span class="citation-popover-snippet">Lebanon NewsJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span> The consistent pattern of glowing streaks and short‑lived trails matched what is scientifically understood about meteors — transient glowing bodies formed when space debris enters Earth’s upper atmosphere and incandesces due to frictional heating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-State and private broadcasters reported sightings from **triborder areas as well as within Lebanon itself**, with sources explaining the spectacle as bolides or meteorites entering the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/en/42821-glowing-objects-in-lebanon-s-sky-linked-to-russian-missile-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Glowing Objects in Lebanon’s Sky Linked to Russian Missile Test — Naharnet</span><span class="citation-popover-snippet">NaharnetGlowing Objects in Lebanon’s Sky Linked to Russian Missile Test — NaharnetJune 8, 2012...</span><span class="citation-popover-meta">Published: June 8, 2012</span></span></span> In Arabic‑language coverage, astronomers characterised the event as an “**infiltration of meteoroid material** burning up and creating glowing dust clouds,” reassuring the public that there was no need for alarm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbcgroup.tv">[LBCIV7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbcgroup.tv</span><span class="citation-popover-title">LBCIV7أجسام مضيئة وشهب نارية في سماء لبنان والاردن وسوريا وتركيا</span><span class="citation-popover-snippet">Lebanon NewsJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+State and private broadcasters reported sightings from **triborder areas as well as within Lebanon itself**, with sources explaining the spectacle as bolides or meteorites entering the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/en/42821-glowing-objects-in-lebanon-s-sky-linked-to-russian-missile-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Glowing Objects in Lebanon’s Sky Linked to Russian Missile Test — Naharnet</span><span class="citation-popover-snippet">Glowing Objects in Lebanon’s Sky Linked to Russian Missile Test — NaharnetJune 8, 2012...</span><span class="citation-popover-meta">Published: June 8, 2012</span></span></span> In Arabic‑language coverage, astronomers characterised the event as an “**infiltration of meteoroid material** burning up and creating glowing dust clouds,” reassuring the public that there was no need for alarm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbcgroup.tv">[LBCIV7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbcgroup.tv</span><span class="citation-popover-title">LBCIV7أجسام مضيئة وشهب نارية في سماء لبنان والاردن وسوريا وتركيا</span><span class="citation-popover-snippet">Lebanon NewsJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
 However, media coverage also reflected **competing hypotheses**. Some outlets, like *L’Orient‑Le Jour*, noted that the phenomenon was debated: Israeli astronomers and local seismological groups questioned a simple meteor explanation, pointing to unusual motion and cloud‑like behaviour that did not fit classic fireball streaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lorientlejour.com/article/762874/Objets_non_identifies_dans_le_ciel_du_Liban_%3A_meteorites_ou_missile_russe_.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lorientlejour.com">[L&#x27;Orient-Le Jour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lorientlejour.com</span><span class="citation-popover-snippet">L&#x27;Orient-Le JourObjets non identifiés dans le ciel du Liban: météorites ou missile russe? - L&#x27;Orient-Le JourJune 8, 2012...</span><span class="citation-popover-meta">Published: June 8, 2012</span></span></span> Elsewhere, outlets reported that the spectacle might have been linked to non‑astronomical events — for example, a **Russian ballistic missile test** whose re‑entry stages created an unusual light pattern across the Middle East (including over Lebanon). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/ar/42759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">إنهمار نيزكي نتج عنه غبار ظهر على شكل أجسام مضيئة في سماء لبنان — Naharnet</span><span class="citation-popover-snippet">June 7, 2012 — إنهمار نيزكي نتج عنه غبار ظهر على شكل أجسام مضيئة في سماء لبنان Read this story in English من Naharnet Newsdesk 21:43,201...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
@@ -296,93 +296,51 @@ While within‑Lebanon coverage in 2012 predominantly cast the event as meteoric
 * **Conflicting local expertise:** Even within scientific commentary at the time, Lebanese astronomers noted that some observed objects moved too slowly for typical meteors or exhibited behaviour not easily explained solely by meteoroid entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Armenia NewsUnidentified shining object’s speed was too slow for meteor – Lebanese expert - NEWS.amJune 9, 2012...</span><span class="citation-popover-meta">Published: June 9, 2012</span></span></span>
 * **Multiple simultaneous causes:** In some events, meteoric activity, atmospheric optics, re‑entry of man‑made objects (rocket stages or ballistic missiles), and local weather conditions may coincide, complicating a single explanation.
 
-In the absence of systematic **instrumental verification**, meteor explanations for Lebanese sky sightings must be treated as **plausible and often well supported, but not universally conclusive** in every case. What they do illustrate clearly is that bright, transient lights in the Lebanese night sky often have **natural astronomical causes** that can be misinterpreted as “UFOs” when unaccompanied by detailed context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet</span><span class="citation-popover-snippet">NaharnetPrint: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+In the absence of systematic **instrumental verification**, meteor explanations for Lebanese sky sightings must be treated as **plausible and often well supported, but not universally conclusive** in every case. What they do illustrate clearly is that bright, transient lights in the Lebanese night sky often have **natural astronomical causes** that can be misinterpreted as “UFOs” when unaccompanied by detailed context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet</span><span class="citation-popover-snippet">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ucm5F5uYv80" title="Russian Ballistic Missile Launch Mistaken for UFO Over Lebanon (etc.) - Compilation 6.7.12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ucm5F5uYv80" target="_blank" rel="noopener noreferrer">Russian Ballistic Missile Launch Mistaken for UFO Over Lebanon (etc.) - Compilation 6.7.12</a></p><p class="youtube-embed-meta">Channel: Sheilaaliens &middot; Views: 6.6K &middot; Uploaded: June 2012 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ucm5F5uYv80" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ucm5F5uYv80">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Are Lebanon UFO Sightings Just Meteors?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Are Lebanon UFO Sightings Just Meteors?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses how natural phenomena are separated from unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers identify meteors, planets, and other sky phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Directly explains meteor behavior and visible atmospheric effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides accessible context for understanding astronomical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -416,75 +374,71 @@ In the absence of systematic **instrumental verification**, meteor explanations 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-when-are-lebanon-ufo-sightings-just-meteors-lebanon-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -699,63 +653,63 @@ In the absence of systematic **instrumental verification**, meteor explanations 
 1. <a id="endnote-1"></a>
    Source: naharnet.com  
    Title: Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet  
-   Link: [https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print](https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NaharnetPrint: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</p></details>
+   Link: <a href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow">https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</p></details>
    Published: June 7, 2012  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Meteor](https://en.wikipedia.org/wiki/Meteor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
 3. <a id="endnote-3"></a>
    Source: lbcgroup.tv  
    Title: LBCIV7أجسام مضيئة وشهب نارية في سماء لبنان والاردن وسوريا وتركيا  
-   Link: [https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar](https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar)  
+   Link: <a href="https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/lifestyle/35293/%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D9%88%D8%B4%D9%87%D8%A8-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A/ar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon NewsJune 7, 2012...</p></details>
    Published: June 7, 2012  
 
 4. <a id="endnote-4"></a>
    Source: naharnet.com  
    Title: Glowing Objects in Lebanon’s Sky Linked to Russian Missile Test — Naharnet  
-   Link: [https://www.naharnet.com/stories/en/42821-glowing-objects-in-lebanon-s-sky-linked-to-russian-missile-test](https://www.naharnet.com/stories/en/42821-glowing-objects-in-lebanon-s-sky-linked-to-russian-missile-test)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NaharnetGlowing Objects in Lebanon’s Sky Linked to Russian Missile Test — NaharnetJune 8, 2012...</p></details>
+   Link: <a href="https://www.naharnet.com/stories/en/42821-glowing-objects-in-lebanon-s-sky-linked-to-russian-missile-test" target="_blank" rel="noopener noreferrer nofollow">https://www.naharnet.com/stories/en/42821-glowing-objects-in-lebanon-s-sky-linked-to-russian-missile-test</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing Objects in Lebanon’s Sky Linked to Russian Missile Test — NaharnetJune 8, 2012...</p></details>
    Published: June 8, 2012  
 
 5. <a id="endnote-5"></a>
    Source: poleshift.ning.com  
    Title: meteor in the skies of lebanon thursday june 7 2012  
-   Link: [https://poleshift.ning.com/profiles/blogs/meteor-in-the-skies-of-lebanon-thursday-june-7-2012](https://poleshift.ning.com/profiles/blogs/meteor-in-the-skies-of-lebanon-thursday-june-7-2012)  
+   Link: <a href="https://poleshift.ning.com/profiles/blogs/meteor-in-the-skies-of-lebanon-thursday-june-7-2012" target="_blank" rel="noopener noreferrer nofollow">https://poleshift.ning.com/profiles/blogs/meteor-in-the-skies-of-lebanon-thursday-june-7-2012</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the skies of Lebanon: Thursday, June 7, 2012 - Earth Changes and the Pole ShiftJune 7, 2012 — METEOR IN THE SKIES OF LEBANON: THURSDAY...</p></details>
    Published: June 7, 2012  
 
 6. <a id="endnote-6"></a>
    Source: naharnet.com  
    Title: إنهمار نيزكي نتج عنه غبار ظهر على شكل أجسام مضيئة في سماء لبنان — Naharnet  
-   Link: [https://www.naharnet.com/stories/ar/42759](https://www.naharnet.com/stories/ar/42759)  
+   Link: <a href="https://www.naharnet.com/stories/ar/42759" target="_blank" rel="noopener noreferrer nofollow">https://www.naharnet.com/stories/ar/42759</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 7, 2012 — إنهمار نيزكي نتج عنه غبار ظهر على شكل أجسام مضيئة في سماء لبنان Read this story in English من Naharnet Newsdesk 21:43,201...</p></details>
    Published: June 7, 2012  
 
 7. <a id="endnote-7"></a>
    Source: lbcgroup.tv  
-   Link: [https://www.lbcgroup.tv/news/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en](https://www.lbcgroup.tv/news/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en)  
+   Link: <a href="https://www.lbcgroup.tv/news/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon News...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lorientlejour.com  
-   Link: [https://www.lorientlejour.com/article/762874/Objets_non_identifies_dans_le_ciel_du_Liban_%3A_meteorites_ou_missile_russe_.html](https://www.lorientlejour.com/article/762874/Objets_non_identifies_dans_le_ciel_du_Liban_%3A_meteorites_ou_missile_russe_.html)  
+   Link: <a href="https://www.lorientlejour.com/article/762874/Objets_non_identifies_dans_le_ciel_du_Liban_%3A_meteorites_ou_missile_russe_.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lorientlejour.com/article/762874/Objets_non_identifies_dans_le_ciel_du_Liban_%3A_meteorites_ou_missile_russe_.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Orient-Le JourObjets non identifiés dans le ciel du Liban: météorites ou missile russe? - L&#x27;Orient-Le JourJune 8, 2012...</p></details>
    Published: June 8, 2012  
 
 9. <a id="endnote-9"></a>
    Source: news.am  
-   Link: [https://news.am/en/news/108895](https://news.am/en/news/108895)  
+   Link: <a href="https://news.am/en/news/108895" target="_blank" rel="noopener noreferrer nofollow">https://news.am/en/news/108895</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsUnidentified shining object’s speed was too slow for meteor – Lebanese expert - NEWS.amJune 9, 2012...</p></details>
    Published: June 9, 2012  
 
 10. <a id="endnote-10"></a>
    Source: lorientlejour.com  
    Title: Objets non identifiés dans le ciel du Liban: météorites ou missile russe?  
-   Link: [https://www.lorientlejour.com/article/763020/Objets_non_identifies_dans_le_ciel%2Bdu_Liban_%3A_meteorites_ou_missile_russe_.html](https://www.lorientlejour.com/article/763020/Objets_non_identifies_dans_le_ciel%2Bdu_Liban_%3A_meteorites_ou_missile_russe_.html)  
+   Link: <a href="https://www.lorientlejour.com/article/763020/Objets_non_identifies_dans_le_ciel%2Bdu_Liban_%3A_meteorites_ou_missile_russe_.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lorientlejour.com/article/763020/Objets_non_identifies_dans_le_ciel%2Bdu_Liban_%3A_meteorites_ou_missile_russe_.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Orient-Le JourJune 9, 2012 — LIBAN - MYSTÈRE OBJETS NON IDENTIFIÉS DANS LE CIEL DU LIBAN: MÉTÉORITES OU MISSILE RUSSE? OLJ / le 09 ju...</p></details>
    Published: June 9, 2012  
 
@@ -763,61 +717,61 @@ In the absence of systematic **instrumental verification**, meteor explanations 
 
 11. <a id="endnote-11"></a>
    Source: armenianclub.com  
-   Link: [https://www.armenianclub.com/2012/06/09/glowing-objects-in-lebanons-sky-linked-to-russian-missile-test/](https://www.armenianclub.com/2012/06/09/glowing-objects-in-lebanons-sky-linked-to-russian-missile-test/)  
+   Link: <a href="https://www.armenianclub.com/2012/06/09/glowing-objects-in-lebanons-sky-linked-to-russian-missile-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenianclub.com/2012/06/09/glowing-objects-in-lebanons-sky-linked-to-russian-missile-test/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2012 — GLOWING OBJECTS IN LEBANON’S SKY LINKED TO RUSSIAN MISSILE TEST June 9, 2012June 9, 2012 Kalantarian Kevo News GLOWING OBJ...</p></details>
    Published: June 9, 2012  
 
 12. <a id="endnote-12"></a>
    Source: lbcgroup.tv  
-   Link: [https://www.lbcgroup.tv/news/breaking-news/35286/luminous-bodies-and-meteors-appear-over-north-lebanon-marjaayoun-and-m/en](https://www.lbcgroup.tv/news/breaking-news/35286/luminous-bodies-and-meteors-appear-over-north-lebanon-marjaayoun-and-m/en)  
+   Link: <a href="https://www.lbcgroup.tv/news/breaking-news/35286/luminous-bodies-and-meteors-appear-over-north-lebanon-marjaayoun-and-m/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/breaking-news/35286/luminous-bodies-and-meteors-appear-over-north-lebanon-marjaayoun-and-m/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon NewsJune 7, 2012 — LUMINOUS BODIES AND METEORS APPEAR OVER NORTH LEBANON, MARJAAYOUN AND MANY AREAS IN THE BEKAA Breaking Headlin...</p></details>
    Published: June 7, 2012  
 
 13. <a id="endnote-13"></a>
    Source: armenianclub.com  
-   Link: [https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/](https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/)  
+   Link: <a href="https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2012 — UNIDENTIFIED SHINING OBJECT’S SPEED WAS TOO SLOW FOR METEOR June 10, 2012June 10, 2012 Kanayan Tamar News Unidentified sh...</p></details>
    Published: June 10, 2012  
 
 14. <a id="endnote-14"></a>
    Source: lbcgroup.tv  
-   Link: [https://www.lbcgroup.tv/news/d/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en](https://www.lbcgroup.tv/news/d/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en)  
+   Link: <a href="https://www.lbcgroup.tv/news/d/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/d/lebanon-news/35295/luminous-objects-meteor-bursts-appear-over-lebanon/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon NewsJuly 6, 2012 — LUMINOUS OBJECTS, METEOR BURSTS APPEAR OVER LEBANON, JORDAN, TURKISH-SYRIAN BORDER Lebanon News 07-06-2012 | 1...</p></details>
    Published: July 6, 2012  
 
 15. <a id="endnote-15"></a>
    Source: theaviationist.com  
-   Link: [https://theaviationist.com/2012/06/07/meteor-burst/](https://theaviationist.com/2012/06/07/meteor-burst/)  
+   Link: <a href="https://theaviationist.com/2012/06/07/meteor-burst/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2012/06/07/meteor-burst/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ballistic missile reentry vehicle or meteor? - The AviationistJune 7, 2012 — WATCH THIS: MYSTERIOUS LUMINOUS OBJECT APPEARS OVER LEBANON...</p></details>
    Published: June 7, 2012  
 
 16. <a id="endnote-16"></a>
    Source: itv.com  
    Title: UF O sightings in North East skies were meteors | ITV News Tyne Tees  
-   Link: [https://www.itv.com/news/tyne-tees/2012-09-22/ufo-sightings-in-north-east-skies-were-meteors](https://www.itv.com/news/tyne-tees/2012-09-22/ufo-sightings-in-north-east-skies-were-meteors)  
+   Link: <a href="https://www.itv.com/news/tyne-tees/2012-09-22/ufo-sightings-in-north-east-skies-were-meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/tyne-tees/2012-09-22/ufo-sightings-in-north-east-skies-were-meteors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in North East skies were meteors | ITV News Tyne TeesSeptember 22, 2012 — UFO SIGHTINGS IN NORTH EAST SKIES WERE METEORS *...</p></details>
    Published: September 22, 2012  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=086CYwpX5Fc](http://www.youtube.com/watch?v=086CYwpX5Fc)  
+   Link: <a href="http://www.youtube.com/watch?v=086CYwpX5Fc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=086CYwpX5Fc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon meteor June 2012 sky phenomenon Lebanon: &#x27;strawberry supermoon&#x27; rises over Beirut | AFP AFP News Agency...</p></details>
    Published: June 2012  
 
 18. <a id="endnote-18"></a>
    Source: mtv.com.lb  
    Title: Unidentified flying object UFO  
-   Link: [https://www.mtv.com.lb/en/news/articles/96164/unidentified-flying-object-ufo](https://www.mtv.com.lb/en/news/articles/96164/unidentified-flying-object-ufo)  
+   Link: <a href="https://www.mtv.com.lb/en/news/articles/96164/unidentified-flying-object-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/en/news/articles/96164/unidentified-flying-object-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MTV LebanonImage: Unidentified flying object UFO Image: Unidentified flying object UFO Unidentified flying object UFO YOUREPORT_NEWS On t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=tPVfxliaUXI](http://www.youtube.com/watch?v=tPVfxliaUXI)  
+   Link: <a href="http://www.youtube.com/watch?v=tPVfxliaUXI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tPVfxliaUXI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: amsmeteors.org  
    Title: Fireball over the U.K  
-   Link: [https://www.amsmeteors.org/2012/09/fireball-over-the-u-k-and-ireland-september-21-2012/](https://www.amsmeteors.org/2012/09/fireball-over-the-u-k-and-ireland-september-21-2012/)  
+   Link: <a href="https://www.amsmeteors.org/2012/09/fireball-over-the-u-k-and-ireland-september-21-2012/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/2012/09/fireball-over-the-u-k-and-ireland-september-21-2012/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Ireland September 21, 2012 - American Meteor SocietySeptember 21, 2012 — Sep 21 2012 FIREBALL OVER THE U.K. AND IRELAND SEPTEMBER 21...</p></details>
    Published: September 21, 2012  

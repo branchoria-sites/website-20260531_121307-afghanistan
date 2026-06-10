@@ -245,7 +245,7 @@ next_link:
   permalink: /verification-a314af/
   short_title: Verification
   heading_title: Why Turkmenistan UFO Claims Are Hard To Check
-date: '2026-06-09 01:43:24 '
+date: '2026-06-10 02:11:01 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustrati
 
 ## Introduction
 
-Turkmenabat occupies a unique place in [Turkmenistan]({{ 'what-is-really-known-about-turkmenistan/' | relative_url }})’s UFO history because it is the only locality for which a documented UFO-oriented organisation appears in official records. Unlike many national UFO narratives that revolve around famous sightings, military encounters, or alleged crash events, the Turkmenabat story centres on a civic group known as the Union of UFOlogists of Turkmenabat (UOU) and the unusual degree of attention it received from both local authorities and foreign diplomats. The strongest evidence does not point to a confirmed unidentified craft. Instead, it shows how a UFO-themed organisation became an accepted local institution and how reports of unexplained aerial events generated enough curiosity for officials to consult its members. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.githubusercontent.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.githubusercontent.com</span><span class="citation-popover-snippet">Muradov said the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen...Read more...</span></span></span>
+Turkmenabat occupies a unique place in Turkmenistan’s UFO history because it is the only locality for which a documented UFO-oriented organisation appears in official records. Unlike many national UFO narratives that revolve around famous sightings, military encounters, or alleged crash events, the Turkmenabat story centres on a civic group known as the Union of UFOlogists of Turkmenabat (UOU) and the unusual degree of attention it received from both local authorities and foreign diplomats. The strongest evidence does not point to a confirmed unidentified craft. Instead, it shows how a UFO-themed organisation became an accepted local institution and how reports of unexplained aerial events generated enough curiosity for officials to consult its members. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.githubusercontent.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.githubusercontent.com</span><span class="citation-popover-snippet">Muradov said the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1-dark.svg" | relative_url }}" alt="Turkmenabat illustration 1" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -266,14 +266,14 @@ The key source is a U.S. Embassy Ashgabat diplomatic cable dated November 2004 a
 
 The most frequently cited passage concerns comments by UOU president Ovezberdy Muradov. He reportedly told embassy officials that Turkmen military and government authorities had consulted him regarding “mysterious occurrences” in Turkmen airspace. The statement is significant because it indicates official interest in unexplained aerial reports, at least at a local level. However, the same conversation included an equally important qualification: Muradov stated that there had been no confirmed UFO sightings in Turkmenistan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.githubusercontent.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.githubusercontent.com</span><span class="citation-popover-snippet">Muradov said the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen...Read more...</span></span></span>
 
-That combination of claims defines the evidential value of the cable. It documents consultation and curiosity, but it does not document any verified aerial anomaly. No dates, locations, photographs, radar records, witness testimony, or investigative conclusions were attached to the reported consultations. The cable preserves a second-hand account rather than a case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">DisclosdexState Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+That combination of claims defines the evidential value of the cable. It documents consultation and curiosity, but it does not document any verified aerial anomaly. No dates, locations, photographs, radar records, witness testimony, or investigative conclusions were attached to the reported consultations. The cable preserves a second-hand account rather than a case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">State Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pX8JGApbOcc" title="First UFO Video Released By Donald Trump Administration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pX8JGApbOcc" target="_blank" rel="noopener noreferrer">First UFO Video Released By Donald Trump Administration</a></p><p class="youtube-embed-meta">Channel: NDTV Profit &middot; Views: 15.0K &middot; Uploaded: May 2026 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pX8JGApbOcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pX8JGApbOcc">Open on YouTube</a></p></div></div></div>
 
 ## How a UFO group became a civic actor
 
-The most striking aspect of the Turkmenabat story is that the organisation's importance extended far beyond UFO research. By 2004, embassy officials described the group as an active participant in local civil society. Members reportedly assisted other organisations with registration procedures, worked with humanitarian projects, supported small businesses, and provided practical assistance to community initiatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">DisclosdexState Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The most striking aspect of the Turkmenabat story is that the organisation's importance extended far beyond UFO research. By 2004, embassy officials described the group as an active participant in local civil society. Members reportedly assisted other organisations with registration procedures, worked with humanitarian projects, supported small businesses, and provided practical assistance to community initiatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">State Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This broader role helps explain why local authorities tolerated—and in some circumstances appeared to cooperate with—the group. The cable portrays the UOU less as a fringe research society and more as a trusted intermediary operating within a highly controlled civic environment. Muradov reportedly explained part of the organisation’s success with a simple observation: “everyone is interested in UFOs.” The subject provided a non-political public identity that attracted attention while avoiding many of the sensitivities that affected other forms of civic activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/search?f=live&amp;q=uic.jp%2Fcalendar%2Fre%2F1992%2F04%2F21%2F&amp;src=typd&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)&quot;uic.jp/calendar/re/1992/04/21/&quot; - Results on XUOU President Ovezberdy Muradov told the DCM, on the record, that “eve...</span></span></span>
 
@@ -299,7 +299,7 @@ In practical terms, this suggests three possibilities:
 
 </div>
 
-These interpretations fit the available evidence more closely than claims that the cable documents a hidden government UFO investigation programme. No such programme appears in the public record connected to Turkmenabat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">DisclosdexState Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+These interpretations fit the available evidence more closely than claims that the cable documents a hidden government UFO investigation programme. No such programme appears in the public record connected to Turkmenabat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">State Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-2-dark.svg" | relative_url }}" alt="Turkmenabat illustration 2" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,9 +330,9 @@ For researchers of Turkmenistan’s UFO history, that distinction is crucial. Th
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-3-dark.svg" | relative_url }}" alt="Turkmenabat illustration 3" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Turkmenabat remains the country's UFO focal point
 
-No other city in Turkmenistan has produced a comparable documentary trail. Publicly available records do not reveal a major UFO wave in Ashgabat, a declassified military archive of investigations, or a nationally recognised catalogue of sightings. As a result, the Union of UFOlogists of Turkmenabat occupies a disproportionately important position in the country's UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">DisclosdexState Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+No other city in Turkmenistan has produced a comparable documentary trail. Publicly available records do not reveal a major UFO wave in Ashgabat, a declassified military archive of investigations, or a nationally recognised catalogue of sightings. As a result, the Union of UFOlogists of Turkmenabat occupies a disproportionately important position in the country's UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">State Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The significance of Turkmenabat lies in its role as a social and institutional hub rather than a hotspot of verified anomalies. The city became associated with UFO research because an organised group successfully transformed public fascination with unexplained phenomena into a recognised civic presence. That achievement attracted attention from local authorities, foreign diplomats, and later researchers examining the sparse documentary record of UFO-related activity in Turkmenistan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">DisclosdexState Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The significance of Turkmenabat lies in its role as a social and institutional hub rather than a hotspot of verified anomalies. The city became associated with UFO research because an organised group successfully transformed public fascination with unexplained phenomena into a recognised civic presence. That achievement attracted attention from local authorities, foreign diplomats, and later researchers examining the sparse documentary record of UFO-related activity in Turkmenistan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-snippet">State Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 Within the broader study of UFO claims in Turkmenistan, Turkmenabat therefore stands as the clearest example of official curiosity intersecting with local UFO culture. The available evidence supports the existence of that intersection. It does not support claims of a confirmed UFO incident, recovered technology, or verified extraterrestrial encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.githubusercontent.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.githubusercontent.com</span><span class="citation-popover-snippet">Muradov said the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen...Read more...</span></span></span>
 
@@ -341,86 +341,44 @@ Within the broader study of UFO claims in Turkmenistan, Turkmenabat therefore st
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Turkmenabat Became Turkmenistan&#x27;s UFO Hub. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Turkmenabat Became Turkmenistan&#x27;s UFO Hub, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides investigative frameworks relevant to organized UFO groups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows how UFO organizations, officials, and documented reports interact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines how UFO narratives become social and cultural phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible College on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1InHoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible College" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Focuses on researchers, networks, and institutional interest in UFO topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,75 +412,71 @@ Within the broader study of UFO claims in Turkmenistan, Turkmenabat therefore st
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books" data-ebay-reference="turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turkmenabat-why-turkmenabat-became-turkmenistan-s-ufo-hub-turkmenistan-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -736,24 +690,24 @@ Within the broader study of UFO claims in Turkmenistan, Turkmenabat therefore st
 
 1. <a id="endnote-1"></a>
    Source: media.githubusercontent.com  
-   Link: [https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf](https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf)  
+   Link: <a href="https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.githubusercontent.com/media/ckpxgfnksd-max/uap-release-01/main/059uap00012.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muradov said the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: disclosdex.com  
-   Link: [https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004](https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DisclosdexState Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</p></details>
+   Link: <a href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>State Department UAP Cable 4 Ashgabat Turkmenistan...8 May 2026 — The cable&#x27;s main subject is civil society, not an aerial enc...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: iwpr.net  
    Title: turkmen civil society under threat  
-   Link: [https://iwpr.net/global-voices/turkmen-civil-society-under-threat](https://iwpr.net/global-voices/turkmen-civil-society-under-threat)  
+   Link: <a href="https://iwpr.net/global-voices/turkmen-civil-society-under-threat" target="_blank" rel="noopener noreferrer nofollow">https://iwpr.net/global-voices/turkmen-civil-society-under-threat</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for War &amp; Peace ReportingTurkmen Civil Society Under Threat16 Aug 2006 — At the urging of the Organisation for Security and Coo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: x.com  
-   Link: [https://x.com/search?f=live&q=uic.jp%2Fcalendar%2Fre%2F1992%2F04%2F21%2F&src=typd&vertical=default](https://x.com/search?f=live&q=uic.jp%2Fcalendar%2Fre%2F1992%2F04%2F21%2F&src=typd&vertical=default)  
+   Link: <a href="https://x.com/search?f=live&amp;q=uic.jp%2Fcalendar%2Fre%2F1992%2F04%2F21%2F&amp;src=typd&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=live&amp;q=uic.jp%2Fcalendar%2Fre%2F1992%2F04%2F21%2F&amp;src=typd&amp;vertical=default</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)&quot;uic.jp/calendar/re/1992/04/21/&quot; - Results on XUOU President Ovezberdy Muradov told the DCM, on the record, that “eve...</p></details>
 
 ### Additional References
@@ -761,61 +715,61 @@ Within the broader study of UFO claims in Turkmenistan, Turkmenabat therefore st
 5. <a id="endnote-5"></a>
    Source: timesca.com  
    Title: pentagon ufo files include 1994 tajik air report over kazakhstan  
-   Link: [https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/](https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/)  
+   Link: <a href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO Files Include 1994 Tajik Air Report Over...11 May 2026 — Another Reddit post revived claims of Soviet-era UFO reports from...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: frontier.watch  
    Title: war.gov UFO Release 01 — 162 docs, fully transcribed  
-   Link: [https://frontier.watch/ufo/release-1/doc/059uap00012](https://frontier.watch/ufo/release-1/doc/059uap00012)  
+   Link: <a href="https://frontier.watch/ufo/release-1/doc/059uap00012" target="_blank" rel="noopener noreferrer nofollow">https://frontier.watch/ufo/release-1/doc/059uap00012</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Union... UOU President Ovezberdy Muradov stated that Turkmen... Turkmen airspace, but confirmed there had been no verified UFO sighting...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: war-gov-ufo-release-1.vercel.app  
    Title: UF O — PURSUE Archive // U.S  
-   Link: [https://war-gov-ufo-release-1.vercel.app/](https://war-gov-ufo-release-1.vercel.app/)  
+   Link: <a href="https://war-gov-ufo-release-1.vercel.app/" target="_blank" rel="noopener noreferrer nofollow">https://war-gov-ufo-release-1.vercel.app/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarThe aircraft also experienced two unknown EMI lost-link events totaling 38... STATE DEPARTMENT UAP CABLE 4, ASHGABAT, T...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: beannames.com  
    Title: Documents in this section  
-   Link: [https://beannames.com/sections/1805](https://beannames.com/sections/1805)  
+   Link: <a href="https://beannames.com/sections/1805" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/sections/1805</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>vault62 — FBI UFO FilesThe cable describes the Union of UFOlogists of Turkmenabat (UOU), an NGO that has leveraged public interest in UFO...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: x.com  
    Title: "The HOPE Asia Network"  
-   Link: [https://x.com/search?f=live&q=%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A8%EF%BC%AF%EF%BC%B0%EF%BC%A5%E3%80%80%EF%BC%A1%EF%BD%93%EF%BD%89%EF%BD%81%E3%80%80%EF%BC%AE%EF%BD%85%EF%BD%94%EF%BD%97%EF%BD%8F%EF%BD%92%EF%BD%8B&vertical=default](https://x.com/search?f=live&q=%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A8%EF%BC%AF%EF%BC%B0%EF%BC%A5%E3%80%80%EF%BC%A1%EF%BD%93%EF%BD%89%EF%BD%81%E3%80%80%EF%BC%AE%EF%BD%85%EF%BD%94%EF%BD%97%EF%BD%8F%EF%BD%92%EF%BD%8B&vertical=default)  
+   Link: <a href="https://x.com/search?f=live&amp;q=%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A8%EF%BC%AF%EF%BC%B0%EF%BC%A5%E3%80%80%EF%BC%A1%EF%BD%93%EF%BD%89%EF%BD%81%E3%80%80%EF%BC%AE%EF%BD%85%EF%BD%94%EF%BD%97%EF%BD%8F%EF%BD%92%EF%BD%8B&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=live&amp;q=%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A8%EF%BC%AF%EF%BC%B0%EF%BC%A5%E3%80%80%EF%BC%A1%EF%BD%93%EF%BD%89%EF%BD%81%E3%80%80%EF%BC%AE%EF%BD%85%EF%BD%94%EF%BD%97%EF%BD%8F%EF%BD%92%EF%BD%8B&amp;vertical=default</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results on X | Live Posts &amp; Updates... Union of Ufologists” (UOU) in Turkmenabat.... Ovezberdy Muradov, told U.S. diplomats that Turkmen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: beannames.com  
    Title: vault62 — FBI UFO Files  
-   Link: [https://beannames.com/documents/2535](https://beannames.com/documents/2535)  
+   Link: <a href="https://beannames.com/documents/2535" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/documents/2535</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary. A 5-page teletype cable from the US Embassy in Ashgabat, Turkmenistan to the Secretary of State, dated November 12, 2004...</p></details>
    Published: November 12, 2004  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: [https://www.youtube.com/watch?v=WpRWkuYu9V8](https://www.youtube.com/watch?v=WpRWkuYu9V8)  
+   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFOs Unlocked: Inside the Pentagon's secret files | This Is America  
-   Link: [https://www.youtube.com/watch?v=BSItX-WvGQ8](https://www.youtube.com/watch?v=BSItX-WvGQ8)  
+   Link: <a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases new UFO files to the public...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: x.com  
-   Link: [https://x.com/bennibennasi01](https://x.com/bennibennasi01)  
+   Link: <a href="https://x.com/bennibennasi01" target="_blank" rel="noopener noreferrer nofollow">https://x.com/bennibennasi01</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Benno 🇦🇺 (@bennibennasi01) / Posts / XA 2004 cable from Ashgabat, Turkmenistan, describes the U.S. Mission&#x27;s engagement with the Union of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: threads.com  
    Title: C7bnuhq SW3w  
-   Link: [https://www.threads.com/%40kirathi2042/post/C7bnuhqSW3w](https://www.threads.com/%40kirathi2042/post/C7bnuhqSW3w)  
+   Link: <a href="https://www.threads.com/%40kirathi2042/post/C7bnuhqSW3w" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40kirathi2042/post/C7bnuhqSW3w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>這就是我一直提醒的社運蟑螂樣態之一。26 May 2024 — 故事的主角是一個NGO，名字是「Union of UFOlogists」（簡稱UOU... UOU 主席Ovezberdy Muradov 在電報中也明確說：「the Turkmen military...</p></details>
    Published: May 2024  

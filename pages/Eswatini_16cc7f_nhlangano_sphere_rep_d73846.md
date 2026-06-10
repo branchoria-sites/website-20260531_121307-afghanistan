@@ -245,7 +245,7 @@ next_link:
   permalink: /official-files-a14e9a/
   short_title: Official Files
   heading_title: Where Would an Eswatini UFO Report Go?
-date: '2026-06-09 01:26:48 '
+date: '2026-06-10 01:51:30 '
 header:
   og_image: /assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-social.jpg
   preview_image: /assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1.webp
@@ -254,15 +254,15 @@ image: /assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1
 
 ## Introduction
 
-In the context of [Eswatini]({{ 'what-is-really-in-eswatinis-ufo-record/' | relative_url }})’s extremely limited public record of unidentified flying object (UFO) reports, the Nhlangano sphere report stands out as the single most detailed but also most contested claim. This case — filed long after the purported sighting — is frequently referenced in UFO databases and online discussions about Eswatini sightings, yet its evidential basis falls short of the standards needed for positive identification of an anomalous aerial phenomenon. Awareness of both what the report *says* and what the available evidence *cannot* substantiate is central to any sober assessment of UFO phenomena in Eswatini.
+In the context of Eswatini’s extremely limited public record of unidentified flying object (UFO) reports, the Nhlangano sphere report stands out as the single most detailed but also most contested claim. This case — filed long after the purported sighting — is frequently referenced in UFO databases and online discussions about Eswatini sightings, yet its evidential basis falls short of the standards needed for positive identification of an anomalous aerial phenomenon. Awareness of both what the report *says* and what the available evidence *cannot* substantiate is central to any sober assessment of UFO phenomena in Eswatini.
 
 
 <img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-dark.svg" | relative_url }}" alt="Nhlangano illustration 1" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Nhlangano Witnesses Reported
 
-The key source for the Nhlangano sphere case is a report archived by the National UFO Reporting Center (NUFORC), an independent civilian database where members of the public can submit accounts of sightings. According to NUFORC case 34020, the sighting occurred on the evening of 15 October 1992 near Nhlangano, a town in southern Eswatini’s Shiselweni region. The report was not posted until late 2003, more than a decade after the event allegedly took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 34020January 17, 2004...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
+The key source for the Nhlangano sphere case is a report archived by the National UFO Reporting Center (NUFORC), an independent civilian database where members of the public can submit accounts of sightings. According to NUFORC case 34020, the sighting occurred on the evening of 15 October 1992 near Nhlangano, a town in southern Eswatini’s Shiselweni region. The report was not posted until late 2003, more than a decade after the event allegedly took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 34020January 17, 2004...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
 
-The narrative, offered in the first person, describes four Mormon missionaries returning from a village trek after dark when they noticed a large spherical glowing object in a broad grassland valley. The object was described as mostly orange with hints of blue, silent, and translucent, and it repeatedly emitted bright white flashes that briefly illuminated the valley. The witnesses reported feeling static electricity in the air around them during the observation, which they estimated lasted roughly ten minutes. They rejected common explanations — such as the moon or known aircraft — and expressed ongoing uncertainty about the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+The narrative, offered in the first person, describes four Mormon missionaries returning from a village trek after dark when they noticed a large spherical glowing object in a broad grassland valley. The object was described as mostly orange with hints of blue, silent, and translucent, and it repeatedly emitted bright white flashes that briefly illuminated the valley. The witnesses reported feeling static electricity in the air around them during the observation, which they estimated lasted roughly ten minutes. They rejected common explanations — such as the moon or known aircraft — and expressed ongoing uncertainty about the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 This combination of duration, multiple observers, colour changes, and reported sensory effects makes the narrative noteworthy compared with many brief or single-witness reports.
 
@@ -271,7 +271,7 @@ This combination of duration, multiple observers, colour changes, and reported s
 
 ## What Supports the Account
 
-There are a few nominal strengths to the Nhlangano report that make it stand out in the sparse Eswatini record. First, the report provides specific details about **time, place, number of observers, and the sequence of events**, which are often absent from cursory UFO anecdotes. NUFORC’s catalogue structure — which lists event date, report date, estimated duration, and general shape — provides a framework for researchers to index such incidents uniformly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 199210August 20, 2023 — Open | 10/01/1992 22:00 | Henderson/Oxford | NC | USA | Cross | Never seen a UFO....come...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+There are a few nominal strengths to the Nhlangano report that make it stand out in the sparse Eswatini record. First, the report provides specific details about **time, place, number of observers, and the sequence of events**, which are often absent from cursory UFO anecdotes. NUFORC’s catalogue structure — which lists event date, report date, estimated duration, and general shape — provides a framework for researchers to index such incidents uniformly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 199210August 20, 2023 — Open &#124; 10/01/1992 22:00 &#124; Henderson/Oxford &#124; NC &#124; USA &#124; Cross &#124; Never seen a UFO....come...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 Second, the description includes sensory impressions beyond just light — such as the alleged static in the air and silent operation — which, if corroborated, might suggest something unusual compared with mundane aircraft lights or bright celestial objects. Unlike many brief sky-glow sightings, this report implies a sustained, dynamic visual phenomenon in a rural, dark-sky context where conventional light pollution was minimal.
 
@@ -283,9 +283,9 @@ Despite these narrative details, the evidential basis for interpreting the Nhlan
 
 Second, there is **no independent corroboration** of the main sensory claims. There are no contemporaneous photographs, video, radar data, official records from local authorities, or press coverage from the time of the alleged sighting. In a region with relatively limited local media penetration in the early 1990s, this absence is not surprising, but it nonetheless means there is no independent verification of critical details like the object’s appearance, movement, brightness, or the reported atmospheric “static” effect.
 
-Third, the report does not supply witness names or contact information, and NUFORC does not independently investigate every submission. As with most civilian UFO databases, the presence of a sighting in NUFORC’s archive does *not* equate to an official investigation or an independent assessment of credibility; the database is primarily a repository of what witnesses say they saw, not a vetted evidence trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 34020January 17, 2004...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
+Third, the report does not supply witness names or contact information, and NUFORC does not independently investigate every submission. As with most civilian UFO databases, the presence of a sighting in NUFORC’s archive does *not* equate to an official investigation or an independent assessment of credibility; the database is primarily a repository of what witnesses say they saw, not a vetted evidence trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 34020January 17, 2004...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
 
-Fourth, the description’s sensory elements — glowing spheres, flashes, static sensations — are **common features of many UFO reports worldwide** that later turn out to have mundane explanations such as distant aircraft lights, atmospheric optical effects (e.g., aurora, noctilucent clouds), meteors, or even psychological pattern recognition under low-light conditions. Scholarly and scientific analyses of UFO/UAP claims emphasise that narrative richness does not substitute for empirical evidence such as reliable instrument records or independently documented multiple-source corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? | The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Fourth, the description’s sensory elements — glowing spheres, flashes, static sensations — are **common features of many UFO reports worldwide** that later turn out to have mundane explanations such as distant aircraft lights, atmospheric optical effects (e.g., aurora, noctilucent clouds), meteors, or even psychological pattern recognition under low-light conditions. Scholarly and scientific analyses of UFO/UAP claims emphasise that narrative richness does not substitute for empirical evidence such as reliable instrument records or independently documented multiple-source corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? &#124; The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? &#124; The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 In the absence of such evidence, the Nhlangano report cannot on its own demonstrate the presence of a technological object, let alone one of non-human origin: it remains an **unverified and anecdotal account**.
 
@@ -294,9 +294,9 @@ In the absence of such evidence, the Nhlangano report cannot on its own demonstr
 
 ## Why This Matters for Eswatini’s UFO Record
 
-Eswatini’s public record of UFO/UAP claims is exceptionally thin compared with many larger countries and regions. The Nhlangano sphere report, while unusual for its detailed narrative, exemplifies the broader issue: even the most detailed submission lacks the empirical support needed to elevate it above an unexamined eyewitness account. For analysts of unidentified aerial phenomena, this points to the broader challenge that **extraordinary claims require extraordinary evidence**, and without physical, instrumental, or independently corroborated data, such reports remain unresolved rather than evidentially compelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/what-hillary-clinton-says-about-aliens-is-totally-misguided" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicWhat Hillary Clinton Says About Aliens Is Totally Misguided | National GeographicMay 11, 2016...</span><span class="citation-popover-meta">Published: May 11, 2016</span></span></span>
+Eswatini’s public record of UFO/UAP claims is exceptionally thin compared with many larger countries and regions. The Nhlangano sphere report, while unusual for its detailed narrative, exemplifies the broader issue: even the most detailed submission lacks the empirical support needed to elevate it above an unexamined eyewitness account. For analysts of unidentified aerial phenomena, this points to the broader challenge that **extraordinary claims require extraordinary evidence**, and without physical, instrumental, or independently corroborated data, such reports remain unresolved rather than evidentially compelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/what-hillary-clinton-says-about-aliens-is-totally-misguided" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicWhat Hillary Clinton Says About Aliens Is Totally Misguided &#124; National GeographicMay 11, 2016...</span><span class="citation-popover-meta">Published: May 11, 2016</span></span></span>
 
-Maintaining focus on what the evidence *can* and *cannot* support helps prevent overinterpretation of anecdotal material and encourages rigorous criteria in future documentation — a benchmark that applies equally in Eswatini and internationally. Experts in UFO/UAP research commonly note that many such claims can eventually be explained with additional data or contextual understanding, and that unidentified status does not imply an extraterrestrial or anomalous cause in the absence of strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? | The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Maintaining focus on what the evidence *can* and *cannot* support helps prevent overinterpretation of anecdotal material and encourages rigorous criteria in future documentation — a benchmark that applies equally in Eswatini and internationally. Experts in UFO/UAP research commonly note that many such claims can eventually be explained with additional data or contextual understanding, and that unidentified status does not imply an extraterrestrial or anomalous cause in the absence of strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? &#124; The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? &#124; The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-dark.svg" | relative_url }}" alt="Nhlangano illustration 3" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,86 +309,44 @@ The Nhlangano sphere report remains the most detailed UFO claim from Eswatini’
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is the Nhlangano UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Strong Is the Nhlangano UFO Case?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses witness reports and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful benchmark for evaluating stronger and weaker cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores recurring witness narratives and extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Relevant to memory, perception and retrospective reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -422,75 +380,71 @@ The Nhlangano sphere report remains the most detailed UFO claim from Eswatini’
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/569db291172e7ce323a5.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-ufo-poster-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -704,39 +658,39 @@ The Nhlangano sphere report remains the most detailed UFO claim from Eswatini’
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=34020](https://nuforc.org/sighting/?id=34020)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 34020January 17, 2004...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=34020</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 34020January 17, 2004...</p></details>
    Published: January 17, 2004  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 3. <a id="endnote-3"></a>
    Source: planetary.org  
    Title: The Planetary Society Are UFOs or UAPs real? | The Planetary Society  
-   Link: [https://www.planetary.org/articles/are-ufos-or-uaps-real](https://www.planetary.org/articles/are-ufos-or-uaps-real)  
+   Link: <a href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/are-ufos-or-uaps-real</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e199210](https://nuforc.org/subndx/?id=e199210)  
+   Link: <a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199210August 20, 2023 — Open | 10/01/1992 22:00 | Henderson/Oxford | NC | USA | Cross | Never seen a UFO....come...</p></details>
    Published: August 20, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=85879](https://nuforc.org/sighting/?id=85879)  
+   Link: <a href="https://nuforc.org/sighting/?id=85879" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85879</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85879December 17, 2011 — NUFORC UFO SIGHTING 85879 Occurred: 2000-01-13 23:30 Local Reported: 2011-12-16 07:26 Pacifi...</p></details>
    Published: January 13, 2000  
 
 6. <a id="endnote-6"></a>
    Source: nationalgeographic.com  
-   Link: [https://www.nationalgeographic.com/science/article/what-hillary-clinton-says-about-aliens-is-totally-misguided](https://www.nationalgeographic.com/science/article/what-hillary-clinton-says-about-aliens-is-totally-misguided)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/what-hillary-clinton-says-about-aliens-is-totally-misguided" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/what-hillary-clinton-says-about-aliens-is-totally-misguided</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicWhat Hillary Clinton Says About Aliens Is Totally Misguided | National GeographicMay 11, 2016...</p></details>
    Published: May 11, 2016  
 
@@ -744,61 +698,61 @@ The Nhlangano sphere report remains the most detailed UFO claim from Eswatini’
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/snatunion/posts/snat-co-op-nhlangano-branch-prepares-for-electionsby-thabiso-langa-19-03-2022nhl/695584991787317/](https://www.facebook.com/snatunion/posts/snat-co-op-nhlangano-branch-prepares-for-electionsby-thabiso-langa-19-03-2022nhl/695584991787317/)  
+   Link: <a href="https://www.facebook.com/snatunion/posts/snat-co-op-nhlangano-branch-prepares-for-electionsby-thabiso-langa-19-03-2022nhl/695584991787317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/snatunion/posts/snat-co-op-nhlangano-branch-prepares-for-electionsby-thabiso-langa-19-03-2022nhl/695584991787317/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SNAT Platform&#x27;s postClosing prayer Please bring with you the following: &gt; Eswatini National... alien. The Contacts of SANCO in the R...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/evidence-and-traces-of-extraterrestrial-life/FE4A464C5B611EE4660FF1F0238B66B4](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/evidence-and-traces-of-extraterrestrial-life/FE4A464C5B611EE4660FF1F0238B66B4)  
+   Link: <a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/evidence-and-traces-of-extraterrestrial-life/FE4A464C5B611EE4660FF1F0238B66B4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/evidence-and-traces-of-extraterrestrial-life/FE4A464C5B611EE4660FF1F0238B66B4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 24, 2025 — FLYING LUMINOUS BALLS IN THE LOWER LAYERS OF THE ATMOSPHERE AND THE RANGE OF THE FLIGHT ALTITUDE OF AIRPLANES Flying...</p></details>
    Published: November 24, 2025  
 
 11. <a id="endnote-11"></a>
    Source: skeptic.org.uk  
-   Link: [https://www.skeptic.org.uk/2022/05/eye-catching-claims-about-ufos-emitting-dangerous-radiation-take-the-uk-media-for-a-ride/](https://www.skeptic.org.uk/2022/05/eye-catching-claims-about-ufos-emitting-dangerous-radiation-take-the-uk-media-for-a-ride/)  
+   Link: <a href="https://www.skeptic.org.uk/2022/05/eye-catching-claims-about-ufos-emitting-dangerous-radiation-take-the-uk-media-for-a-ride/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2022/05/eye-catching-claims-about-ufos-emitting-dangerous-radiation-take-the-uk-media-for-a-ride/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticMay 11, 2022 — EYE-CATCHING CLAIMS ABOUT UFOS EMITTING DANGEROUS RADIATION TAKE THE UK MEDIA FOR A RIDE By Nigel Watson 11th M...</p></details>
    Published: May 11, 2022  
 
 12. <a id="endnote-12"></a>
    Source: mg.co.za  
-   Link: [https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/](https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/)  
+   Link: <a href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2022 — / 8 July 2022 WHEN REAL-LIFE STORIES ARE STRANGER THAN THE APPARITION OF A UFO By Charmain Naidoo Image: Ufolight There’s...</p></details>
    Published: July 8, 2022  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: government has disbursed over e10 million of the e45 million msme relief fund si  
-   Link: [https://www.facebook.com/EswatiniGov/posts/government-has-disbursed-over-e10-million-of-the-e45-million-msme-relief-fund-si/421495299343975/](https://www.facebook.com/EswatiniGov/posts/government-has-disbursed-over-e10-million-of-the-e45-million-msme-relief-fund-si/421495299343975/)  
+   Link: <a href="https://www.facebook.com/EswatiniGov/posts/government-has-disbursed-over-e10-million-of-the-e45-million-msme-relief-fund-si/421495299343975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EswatiniGov/posts/government-has-disbursed-over-e10-million-of-the-e45-million-msme-relief-fund-si/421495299343975/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“As of the end of July 2021, the fund has disbursed over...It involves environmental programmes such as the clearing of alien trees, wet...</p></details>
    Published: July 2021  
 
 14. <a id="endnote-14"></a>
    Source: discovermagazine.com  
    Title: But the public is growing increasingly confused by ordinary object  
-   Link: [https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864](https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864)  
+   Link: <a href="https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of Rising UFO Sightings are Greatly Exaggerated | Discover MagazineOctober 3, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY...</p></details>
    Published: October 3, 2020  
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
    Title: Hoax in the Holy Land: Jerusalem UFO a Proven Fake | Live Science  
-   Link: [https://www.livescience.com/12826-jerusalem-ufo-hoax.html](https://www.livescience.com/12826-jerusalem-ufo-hoax.html)  
+   Link: <a href="https://www.livescience.com/12826-jerusalem-ufo-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/12826-jerusalem-ufo-hoax.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2011 — HOAX IN THE HOLY LAND: JERUSALEM UFO A PROVEN FAKE Image: Benjamin Radford&#x27;s avatar By Benjamin Radford published Feb...</p></details>
    Published: February 11, 2011  
 
 16. <a id="endnote-16"></a>
    Source: phys.org  
    Title: UF O believers got one thing right—here's what they get wrong  
-   Link: [https://phys.org/news/2018-01-ufo-believers-righthere-wrong.html](https://phys.org/news/2018-01-ufo-believers-righthere-wrong.html)  
+   Link: <a href="https://phys.org/news/2018-01-ufo-believers-righthere-wrong.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2018-01-ufo-believers-righthere-wrong.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO believers got one thing right—here&#x27;s what they get wrongJanuary 17, 2018 — January 17, 2018 UFO BELIEVERS GOT ONE THING RIGHT—HERE&#x27;S...</p></details>
    Published: January 17, 2018  

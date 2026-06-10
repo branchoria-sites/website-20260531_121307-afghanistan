@@ -1185,7 +1185,7 @@ next_link:
   title: Togo UFOs
   permalink: /what-really-happened-in-togos-ufo-files/
   short_title: Togo UFOs
-date: '2026-06-09 01:40:19 '
+date: '2026-06-10 02:07:26 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d-overview-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d-overview.webp
@@ -1240,7 +1240,7 @@ The Solomon Islands UFO narrative is not evenly distributed. It is most often at
 
 **Guadalcanal** matters because of Honiara, wartime history and Boirayon-linked claims of lights moving between sea, mountains and inland water. It is also where descriptions of “glowing UFOs” near the sunken warships of the Battle of Guadalcanal have been popularised in book summaries. Those claims remain contested because the public evidence is literary and anecdotal rather than forensic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evergreen.lib.in.us">[Evergreen Indiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evergreen.lib.in.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Makira** appears mostly as a supporting location in local commentary and folklore-linked UFO claims rather than as the site of a well-documented case. The 2010 letter that names Malaita and Guadalcanal also says sightings are spoken of “as far as Makira”, but it does not provide independently checkable dates, witnesses, photographs or [official records]({{ 'records-599eb0/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Open source on solomontimes.com.</span></span></span>
+**Makira** appears mostly as a supporting location in local commentary and folklore-linked UFO claims rather than as the site of a well-documented case. The 2010 letter that names Malaita and Guadalcanal also says sightings are spoken of “as far as Makira”, but it does not provide independently checkable dates, witnesses, photographs or official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Open source on solomontimes.com.</span></span></span>
 
 The regional pattern therefore says more about narrative ecology than about confirmed anomaly hotspots. Remote coastline, volcanic terrain, wartime remains and locally meaningful stories all help explain why some islands become repeated settings in UFO accounts.
 
@@ -1299,86 +1299,44 @@ The absence of such material does not make the subject worthless. It makes it a 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Solomon Islands UFO Lore?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Solomon Islands UFO Lore?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers a structured way to assess anecdotal and weakly documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a balanced framework for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores unresolved cases and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Particularly relevant to island legends, unusual beings and recurring stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1412,75 +1370,71 @@ The absence of such material does not make the subject worthless. It makes it a 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-what-really-happened-in-solomon-islands-ufo-lore-solomon-islands-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1695,258 +1649,258 @@ The absence of such material does not make the subject worthless. It makes it a 
 1. <a id="endnote-1"></a>
    Source: parliament.gov.sb  
    Title: 4th October 2010  
-   Link: [https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf](https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf)  
+   Link: <a href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf</a>  
    Published: October 2010  
 
 2. <a id="endnote-2"></a>
    Source: solomontimes.com  
    Title: No Plane Crash, Says Police  
-   Link: [https://www.solomontimes.com/news/no-plane-crash-says-police/5532](https://www.solomontimes.com/news/no-plane-crash-says-police/5532)  
+   Link: <a href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/no-plane-crash-says-police/5532</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: library.sprep.org  
    Title: Solomons country profile  
-   Link: [https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf](https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf)  
+   Link: <a href="https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: archaehistoria.org  
    Title: Site MALA05 Unidentified aircraft at Afoa  
-   Link: [https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa](https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa)  
+   Link: <a href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow">https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa</a>  
 
 7. <a id="endnote-7"></a>
    Source: everand.com  
    Title: Solomon Islands Mysteries by Marius Boirayon (Ebook)  
-   Link: [https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands](https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands)  
+   Link: <a href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands</a>  
 
 8. <a id="endnote-8"></a>
    Source: solomontimes.com  
    Title: Another Mystery on Mystery Island  
-   Link: [https://www.solomontimes.com/letter/3472](https://www.solomontimes.com/letter/3472)  
+   Link: <a href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3472</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=77784](https://nuforc.org/sighting/?id=77784)  
+   Link: <a href="https://nuforc.org/sighting/?id=77784" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77784</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles](https://www.archives.gov/news/articles)  
+   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/s.html](https://www.archives.gov/research/guide-fed-records/index-alpha/s.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/s.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/s.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2013/10/](https://prologue.blogs.archives.gov/2013/10/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2013/10/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2013/10/</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf](https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/page/85/](https://prologue.blogs.archives.gov/page/85/)  
+   Link: <a href="https://prologue.blogs.archives.gov/page/85/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/page/85/</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/publications/prologue/index/2003.html](https://www.archives.gov/publications/prologue/index/2003.html)  
+   Link: <a href="https://www.archives.gov/publications/prologue/index/2003.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/index/2003.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/page/69/?cat=-1](https://prologue.blogs.archives.gov/page/69/?cat=-1)  
+   Link: <a href="https://prologue.blogs.archives.gov/page/69/?cat=-1" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/page/69/?cat=-1</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: rg181 naval districts jacksonville 6958238.xlsx  
-   Link: [https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx](https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx)  
+   Link: <a href="https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx</a>  
 
 18. <a id="endnote-18"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/author/usnatarchives/page/2/](https://prologue.blogs.archives.gov/author/usnatarchives/page/2/)  
+   Link: <a href="https://prologue.blogs.archives.gov/author/usnatarchives/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/author/usnatarchives/page/2/</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: [https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf](https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: prologue.blogs.archives.gov  
    Title: aam 2013  
-   Link: [https://prologue.blogs.archives.gov/tag/aam_2013/](https://prologue.blogs.archives.gov/tag/aam_2013/)  
+   Link: <a href="https://prologue.blogs.archives.gov/tag/aam_2013/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/tag/aam_2013/</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: still pictures guide index  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide-index.html](https://www.archives.gov/research/guides/still-pictures-guide-index.html)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide-index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide-index.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
    Title: foreign affairs  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html](https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html](https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
    Title: rf 2018 foia log  
-   Link: [https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf](https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 26. <a id="endnote-26"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 27. <a id="endnote-27"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200511](https://nuforc.org/subndx/?id=e200511)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200511</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 32. <a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 33. <a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 34. <a id="endnote-34"></a>
    Source: solomontimes.com  
-   Link: [https://www.solomontimes.com/letter/3469](https://www.solomontimes.com/letter/3469)  
+   Link: <a href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3469</a>  
 
 35. <a id="endnote-35"></a>
    Source: solomontimes.com  
    Title: investigation continues for crashed plane  
-   Link: [https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059](https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059)  
+   Link: <a href="https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059</a>  
 
 36. <a id="endnote-36"></a>
    Source: solomontimes.com  
-   Link: [https://www.solomontimes.com/letters/2010/9](https://www.solomontimes.com/letters/2010/9)  
+   Link: <a href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letters/2010/9</a>  
 
 37. <a id="endnote-37"></a>
    Source: solomons.gov.sb  
-   Link: [https://solomons.gov.sb/about-solomon-islands/](https://solomons.gov.sb/about-solomon-islands/)  
+   Link: <a href="https://solomons.gov.sb/about-solomon-islands/" target="_blank" rel="noopener noreferrer nofollow">https://solomons.gov.sb/about-solomon-islands/</a>  
 
 38. <a id="endnote-38"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 39. <a id="endnote-39"></a>
    Source: mpgis.gov.sb  
-   Link: [https://www.mpgis.gov.sb/malaita.html](https://www.mpgis.gov.sb/malaita.html)  
+   Link: <a href="https://www.mpgis.gov.sb/malaita.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mpgis.gov.sb/malaita.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: eresources.nlb.gov.sg  
-   Link: [https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b](https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b)  
+   Link: <a href="https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b</a>  
 
 41. <a id="endnote-41"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: evergreen.lib.in.us  
-   Link: [https://evergreen.lib.in.us/eg/opac/record/22018387](https://evergreen.lib.in.us/eg/opac/record/22018387)  
+   Link: <a href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow">https://evergreen.lib.in.us/eg/opac/record/22018387</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/](https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/)  
+   Link: <a href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/</a>  
 
 44. <a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 45. <a id="endnote-45"></a>
    Source: solomongiants.wordpress.com  
-   Link: [https://solomongiants.wordpress.com/tag/ufo/](https://solomongiants.wordpress.com/tag/ufo/)  
+   Link: <a href="https://solomongiants.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/tag/ufo/</a>  
 
 46. <a id="endnote-46"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Solomon-Islands](https://www.britannica.com/place/Solomon-Islands)  
+   Link: <a href="https://www.britannica.com/place/Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Solomon-Islands</a>  
 
 47. <a id="endnote-47"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 48. <a id="endnote-48"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 ### Additional References
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: Proof of Secret Underwater Alien Base | Ancient Aliens | The Un Xplained Zone  
-   Link: [https://www.youtube.com/watch?v=GNHteMyWUYs](https://www.youtube.com/watch?v=GNHteMyWUYs)  
+   Link: <a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 51. <a id="endnote-51"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery](https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery)  
+   Link: <a href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery</a>  
 
 52. <a id="endnote-52"></a>
    Source: amazon.nl  
-   Link: [https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043](https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043)  
+   Link: <a href="https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043</a>  
 
 53. <a id="endnote-53"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/](https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/</a>  
 
 54. <a id="endnote-54"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/zone/all-solomon-islands](https://www.baaa-acro.com/zone/all-solomon-islands)  
+   Link: <a href="https://www.baaa-acro.com/zone/all-solomon-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-solomon-islands</a>  
 
 55. <a id="endnote-55"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/zone/all-solomon-islands?page=1](https://www.baaa-acro.com/zone/all-solomon-islands?page=1)  
+   Link: <a href="https://www.baaa-acro.com/zone/all-solomon-islands?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-solomon-islands?page=1</a>  
 
 56. <a id="endnote-56"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DI1dhPGo357/](https://www.instagram.com/p/DI1dhPGo357/)  
+   Link: <a href="https://www.instagram.com/p/DI1dhPGo357/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DI1dhPGo357/</a>  
 
 57. <a id="endnote-57"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/author/list/4350007.Marius_Boirayon](https://www.goodreads.com/author/list/4350007.Marius_Boirayon)  
+   Link: <a href="https://www.goodreads.com/author/list/4350007.Marius_Boirayon" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/4350007.Marius_Boirayon</a>  
 
 58. <a id="endnote-58"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx](https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx</a>  

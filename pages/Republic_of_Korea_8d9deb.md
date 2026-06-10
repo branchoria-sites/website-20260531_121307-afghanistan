@@ -1185,7 +1185,7 @@ next_link:
   title: Moldova UAP
   permalink: /republic-of-moldova/
   short_title: Moldova UAP
-date: '2026-06-09 01:37:48 '
+date: '2026-06-10 02:04:30 '
 header:
   og_image: /assets/images/Republic_of_Korea_8d9deb-overview-social.jpg
   preview_image: /assets/images/Republic_of_Korea_8d9deb-overview.webp
@@ -1251,9 +1251,9 @@ The 2012 aircraft-window video over South Korea is a useful counterexample becau
 
 ## Confirmed explanations: rockets, meteors, balloons and digital noise
 
-The strongest South Korean UFO evidence may actually be the debunked cases, because they show how quickly plausible public fear can form around real but misunderstood sky events. The best recent example is the unannounced solid-fuel rocket test of 30 December 2022. AP reported that South Korea’s military confirmed a solid-fuel rocket test after the launch caused a brief scare, with people suspecting a UFO, a North Korean missile, a drone light show or a supernatural event. The Defence Ministry said it had not warned the public in advance because the launch involved sensitive military-security issues; emergency offices and police reportedly received hundreds of citizen reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span></span></span>
+The strongest South Korean UFO evidence may actually be the debunked cases, because they show how quickly plausible public fear can form around real but misunderstood sky events. The best recent example is the unannounced solid-fuel rocket test of 30 December 2022. AP reported that South Korea’s military confirmed a solid-fuel rocket test after the launch caused a brief scare, with people suspecting a UFO, a North Korean missile, a drone light show or a supernatural event. The Defence Ministry said it had not warned the public in advance because the launch involved sensitive military-security issues; emergency offices and police reportedly received hundreds of citizen reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
 
-This case is valuable because it has all the ingredients of a classic UFO flap: dramatic lights over a wide area, social-media amplification, a security-sensitive country, and no public warning. Yet the explanation was conventional and official. It also connects South Korean UFO perception to real defence developments: the same AP report notes that the launch was part of efforts to build space-based surveillance capability, with solid-fuel rockets seen as quicker and cheaper than liquid-fuel systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span></span></span>
+This case is valuable because it has all the ingredients of a classic UFO flap: dramatic lights over a wide area, social-media amplification, a security-sensitive country, and no public warning. Yet the explanation was conventional and official. It also connects South Korean UFO perception to real defence developments: the same AP report notes that the launch was part of efforts to build space-based surveillance capability, with solid-fuel rockets seen as quicker and cheaper than liquid-fuel systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
 
 Meteors produce a similar pattern. In April 2026, Korea JoongAng Daily reported witness accounts from multiple areas of Korea of a large oval-shaped object burning as it fell from the sky, with dashcam footage showing a fiery trail and apparent fragmentation. The Korea Astronomy and Space Science Institute said the object was likely a meteor and explained that larger meteoroids can appear as bright fireballs as they burn in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Witnesses report &#x27;fireball&#x27; falling from sky over Korea</span><span class="citation-popover-snippet">Korea Joongang Daily Witnesses report &#x27;fireball&#x27; falling from sky over Korea</span></span></span> A comparable scientific pathway followed the 2014 Jinju meteorite: Dong-A Science reported that KASI and a Yonsei University team estimated a single fireball exploded over the Hamyang-Sancheong area, with fragments falling in Jinju, based on video footage gathered from across the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1273,7 +1273,7 @@ The southern regions are more prominent in meteor and fireball evidence than in 
 
 ## Archives and databases: useful leads, not final verdicts
 
-International UFO databases contain South Korea entries, but they must be used carefully. The National UFO Reporting Center describes its databank as a large, independently collected set of public UFO and UAP witness reports, available for browsing by researchers and the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span> Its country index for Korea includes only a small number of entries in the visible table, including older reports and a 1999 guard-duty sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Korea</span><span class="citation-popover-snippet">Reports for Country Korea</span></span></span> That is useful as a lead-finding tool, but it is not a verified national archive.
+International UFO databases contain South Korea entries, but they must be used carefully. The National UFO Reporting Center describes its databank as a large, independently collected set of public UFO and UAP witness reports, available for browsing by researchers and the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> Its country index for Korea includes only a small number of entries in the visible table, including older reports and a 1999 guard-duty sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Korea</span><span class="citation-popover-snippet">Reports for Country Korea</span></span></span> That is useful as a lead-finding tool, but it is not a verified national archive.
 
 The same caution applies to online lists that claim many recent South Korean sightings. A report with no raw data, no named witnesses, no independent media corroboration and no official or technical follow-up should be treated as low-grade evidence, even if it is detailed. Conversely, a modest report with a named date, local media coverage, official comment and a plausible conventional explanation may be more valuable to researchers because it teaches how unidentified reports are generated and resolved.
 
@@ -1286,7 +1286,7 @@ For declassified material, United States sources are stronger for the Korean War
 
 A practical way to read South Korea’s UFO record is to sort cases by evidence quality rather than by strangeness.
 
-**Confirmed or well-explained events** include the 30 December 2022 rocket scare and the 2014 and 2026 meteor or fireball reports. In each case, the public initially encountered a dramatic aerial display, but official or scientific explanation followed: a solid-fuel rocket test in 2022, a meteorite-producing fireball in 2014, and a likely meteor in 2026. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Open source on dongascience.com.</span></span></span>
+**Confirmed or well-explained events** include the 30 December 2022 rocket scare and the 2014 and 2026 meteor or fireball reports. In each case, the public initially encountered a dramatic aerial display, but official or scientific explanation followed: a solid-fuel rocket test in 2022, a meteorite-producing fireball in 2014, and a likely meteor in 2026. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Open source on dongascience.com.</span></span></span>
 
 **Contested but historically important cases** include the 1976 Seoul incident, the 1995 Gapyeong photograph and the 2011 Daejeon formation. These have stronger public profiles than ordinary sightings, but none has a fully open, independently reproducible evidence package that would settle the identification. Their importance lies in witness volume, media attention, official response or private analysis, not in proof of exotic origin. [아시아경제+2아시아경제]
 
@@ -1301,7 +1301,7 @@ The Republic of Korea has the institutions needed to clarify many future cases: 
 
 A strong South Korean case would need more than a striking clip. The most useful evidence would include raw image or video files with metadata, multiple independent viewpoints, precise time and location, weather and astronomical checks, aircraft and drone exclusion, radar or air-traffic correlation, and a clear record of who handled the material. For fireballs, meteor-camera networks and astronomical institutes can often resolve the question. A 2017 South Korean meteor-detection project, initiated after the Jinju fireball, described a double-station optical-video system designed to determine three-dimensional meteor orbits, showing that the technical model for resolving some “UFO-like” events already exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2022 rocket scare also suggests a policy lesson. Defence secrecy may be justified for some launches, but unexplained public sky events in South Korea can quickly become interpreted through fears of North Korean missiles, drones or UFOs. Where security permits, delayed public explanation, clearer launch windows or post-event official notices can reduce misinformation without exposing sensitive details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare | AP News</span></span></span>
+The 2022 rocket scare also suggests a policy lesson. Defence secrecy may be justified for some launches, but unexplained public sky events in South Korea can quickly become interpreted through fears of North Korean missiles, drones or UFOs. Where security permits, delayed public explanation, clearer launch windows or post-event official notices can reduce misinformation without exposing sensitive details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
 
 
 <img src="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-3-dark.svg" | relative_url }}" alt="Republic of Korea illustration 3" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1312,86 +1312,44 @@ South Korea’s UFO history is not empty, but it is uneven. The country has a sm
 The most defensible reading is neither blanket dismissal nor sensational belief. The Republic of Korea record shows that unidentified aerial reports can arise from genuine witness confusion, military secrecy, natural fireballs, aerospace tests, balloons, camera artefacts and, occasionally, cases that remain unresolved in public because the evidence is incomplete. For a country-level UFO project, South Korea is therefore most useful as a case study in evidence sorting: what looks mysterious at first sight may become mundane after official or scientific context, while a few historically significant incidents remain open mainly because the public record is too thin to close them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Korea&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Korea&#x27;s UFO Cases?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for evaluating mixed-quality sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Explains how UFO traditions develop in different societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers government, military and international UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a national overview of significant UFO cases and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1425,75 +1383,71 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=republic-of-korea-what-really-happened-in-korea-s-ufo-cases-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1708,162 +1662,162 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/korea52a.htm](https://www.project1947.com/fig/korea52a.htm)  
+   Link: <a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for Country Korea  
-   Link: [https://nuforc.org/subndx/?id=cKorea](https://nuforc.org/subndx/?id=cKorea)  
+   Link: <a href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cKorea</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.08196](https://arxiv.org/abs/1708.08196)  
+   Link: <a href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08196</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: When Dozens of Korean War GIs Claimed a UFO Made Them Sick  
-   Link: [https://www.history.com/articles/korean-war-us-army-ufo-attack-illness](https://www.history.com/articles/korean-war-us-army-ufo-attack-illness)  
+   Link: <a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196376](https://nuforc.org/sighting/?id=196376)  
+   Link: <a href="https://nuforc.org/sighting/?id=196376" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196376</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: shindonga.donga.com  
-   Link: [https://shindonga.donga.com/3/all/13/100794/1](https://shindonga.donga.com/3/all/13/100794/1)  
+   Link: <a href="https://shindonga.donga.com/3/all/13/100794/1" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/3/all/13/100794/1</a>  
 
 11. <a id="endnote-11"></a>
    Source: shindonga.donga.com  
-   Link: [https://shindonga.donga.com/3/06/13/109422/2](https://shindonga.donga.com/3/06/13/109422/2)  
+   Link: <a href="https://shindonga.donga.com/3/06/13/109422/2" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/3/06/13/109422/2</a>  
 
 12. <a id="endnote-12"></a>
    Source: shindonga.donga.com  
-   Link: [https://shindonga.donga.com/Library/3/22/13/100794/1](https://shindonga.donga.com/Library/3/22/13/100794/1)  
+   Link: <a href="https://shindonga.donga.com/Library/3/22/13/100794/1" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/Library/3/22/13/100794/1</a>  
 
 13. <a id="endnote-13"></a>
    Source: koreatimes.co.kr  
    Title: The Korea Times UFOs allegedly spotted in Daejeon  
-   Link: [https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon](https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon)  
+   Link: <a href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon</a>  
 
 14. <a id="endnote-14"></a>
    Source: koreatimes.co.kr  
    Title: The Korea Times 'UFO spotted in the sky above downtown Seoul'  
-   Link: [https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul](https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul)  
+   Link: <a href="https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul</a>  
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/19613-ufo-south-korea.html](https://www.livescience.com/19613-ufo-south-korea.html)  
+   Link: <a href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/19613-ufo-south-korea.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: apnews.com  
    Title: AP News South Korea's unannounced rocket launch causes UFO scare | AP News  
-   Link: [https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367](https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367)  
+   Link: <a href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367</a>  
 
 17. <a id="endnote-17"></a>
    Source: koreajoongangdaily.joins.com  
    Title: Korea Joongang Daily Witnesses report 'fireball' falling from sky over Korea  
-   Link: [https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821](https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821)  
+   Link: <a href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821</a>  
 
 18. <a id="endnote-18"></a>
    Source: dongascience.com  
-   Link: [https://www.dongascience.com/en/news/4122](https://www.dongascience.com/en/news/4122)  
+   Link: <a href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4122</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/](https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/)  
+   Link: <a href="https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/</a>  
 
 21. <a id="endnote-21"></a>
    Source: dongascience.com  
-   Link: [https://www.dongascience.com/en/news/4134](https://www.dongascience.com/en/news/4134)  
+   Link: <a href="https://www.dongascience.com/en/news/4134" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4134</a>  
 
 22. <a id="endnote-22"></a>
    Source: dongascience.com  
-   Link: [https://www.dongascience.com/en/news/4077](https://www.dongascience.com/en/news/4077)  
+   Link: <a href="https://www.dongascience.com/en/news/4077" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4077</a>  
 
 23. <a id="endnote-23"></a>
    Source: uapkorea.com  
-   Link: [https://uapkorea.com/about/](https://uapkorea.com/about/)  
+   Link: <a href="https://uapkorea.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://uapkorea.com/about/</a>  
 
 24. <a id="endnote-24"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196](https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196</a>  
 
 25. <a id="endnote-25"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/13515a718347c1e390056e592820e17f](https://apnews.com/article/13515a718347c1e390056e592820e17f)  
+   Link: <a href="https://apnews.com/article/13515a718347c1e390056e592820e17f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/13515a718347c1e390056e592820e17f</a>  
 
 26. <a id="endnote-26"></a>
    Source: koreajoongangdaily.joins.com  
-   Link: [https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html](https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html)  
+   Link: <a href="https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Secret 'immovable' UFO is 'hiding in plain sight' in purpose-built structure  
-   Link: [https://www.youtube.com/watch?v=VwG32hyp170](https://www.youtube.com/watch?v=VwG32hyp170)  
+   Link: <a href="https://www.youtube.com/watch?v=VwG32hyp170" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VwG32hyp170</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video Goes Viral... Unidentified Objects Flying Over the Battlefield? [News Now] / YTN...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=q38c4_DxURk](https://www.youtube.com/watch?v=q38c4_DxURk)  
+   Link: <a href="https://www.youtube.com/watch?v=q38c4_DxURk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q38c4_DxURk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans spooked as secret rocket launch mistaken for UFO...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: South Korea: UFO Was Military Rocket Test | VOA News  
-   Link: [https://www.youtube.com/watch?v=s3Zmm1uKchg](https://www.youtube.com/watch?v=s3Zmm1uKchg)  
+   Link: <a href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s3Zmm1uKchg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes a &#x27;UFO Scare&#x27; | Oneindia News...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6](https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf](https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf)  
+   Link: <a href="https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: South Koreans spooked as secret rocket launch mistaken for UFO  
-   Link: [https://www.youtube.com/watch?v=FFXvtcVIQTE](https://www.youtube.com/watch?v=FFXvtcVIQTE)  
+   Link: <a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFXvtcVIQTE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea: UFO Was Military Rocket Test | VOA News...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 35. <a id="endnote-35"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
 36. <a id="endnote-36"></a>
    Source: nextspaceflight.com  
-   Link: [https://nextspaceflight.com/launches/details/8222/](https://nextspaceflight.com/launches/details/8222/)  
+   Link: <a href="https://nextspaceflight.com/launches/details/8222/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/details/8222/</a>  

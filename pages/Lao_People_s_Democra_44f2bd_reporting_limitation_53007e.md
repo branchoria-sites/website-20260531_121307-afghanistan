@@ -239,7 +239,7 @@ prev_link:
   permalink: /geography-sightings/
   short_title: Geography & Sightings
   heading_title: How Geography and Human Activity Shape UFO Observations in Laos
-date: '2026-06-09 01:31:26 '
+date: '2026-06-10 01:57:06 '
 header:
   og_image: /assets/images/Lao_People_s_Democra_44f2bd_reporting_limitation_53007e-Illustration-1-social.jpg
   preview_image: /assets/images/Lao_People_s_Democra_44f2bd_reporting_limitation_53007e-Illustration-1.webp
@@ -264,7 +264,7 @@ Several factors contribute to this thin record:
 * There is no public evidence of a dedicated government programme for collecting or publishing UFO reports.
 * Most known Laos-related sightings became visible through foreign reporting systems rather than domestic institutions.
 * Many alleged sightings occur in remote mountainous regions where documentation opportunities are limited.
-* Witnesses often lack access to mechanisms that would preserve reports for later investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+* Witnesses often lack access to mechanisms that would preserve reports for later investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 This means that the public record is shaped less by what was seen and more by which sightings managed to reach international audiences.
 
@@ -289,7 +289,7 @@ Most publicly accessible Laos sightings today are found in international reposit
 As a result, international databases capture only a small subset of potential sightings and may disproportionately represent foreigners, tourists, military personnel, expatriates, or English-speaking witnesses.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kbL1yuMykZo" title="DECLASSIFIED VIDEO: UFO FILES - South Asian Object 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer">DECLASSIFIED VIDEO: UFO FILES - South Asian Object 1</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 43.2K &middot; Uploaded: April 2023 &middot; Length: 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kbL1yuMykZo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pp4vHZeIDQ8" title="Khao Kala Hill &amp; the UFO Phenomenon in Thailand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer">Khao Kala Hill &amp; the UFO Phenomenon in Thailand</a></p><p class="youtube-embed-meta">Channel: John Runaway &middot; Views: 10.0K &middot; Uploaded: February 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pp4vHZeIDQ8">Open on YouTube</a></p></div></div></div>
 
 ## Language and translation barriers
 
@@ -325,12 +325,12 @@ For UFO documentation, this matters in several ways.
 
 First, unusual sightings are less likely to receive sustained investigative coverage. In countries with competitive media markets, strange aerial events often generate follow-up reporting, interviews, photographs, expert commentary, and public debate. In Laos, the institutional incentives for such coverage are weaker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/laos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersLaosAs a result of the state&#x27;s near-total control over the media, Laos is a “black hole” for information, where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indexoncensorship.org/2014/05/laos-crony-scheme-control-press-civil-society/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indexoncensorship.org">[Index on Censorship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indexoncensorship.org</span><span class="citation-popover-title">laos crony scheme control press civil society</span><span class="citation-popover-snippet">Laos: Crony scheme in control of press and civil society12 May 2014 — “No local reporting is allowed whatsoever on government corruption...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
-Second, journalists operate within a framework that encourages caution and self-censorship. Human-rights and media-freedom organisations have repeatedly noted restrictions on reporting and the close relationship between news outlets and state authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/2-Civil-society-organisations/CIVICUS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-snippet">OHCHRDisinformation and freedom of opinion and expression in...July 7, 2021 — Legal restrictions on the media and the strict government...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://civicus.org/documents/Lao.JointUPRSubmission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civicus.org">[CIVICUS Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civicus.org</span><span class="citation-popover-title">Lao.Joint UPR Submission</span><span class="citation-popover-snippet">CIVICUS Global AllianceLao People&#x27;s Democratic Republic Joint Submission to the...18 Jul 2019 — Regarding freedom of expression; lift th...</span></span></span>, the absence of investigative competition reduces the likelihood that multiple independent sources will document the same event. This creates a verification problem: even when an unusual aerial sighting is reported somewhere, there may be few alternative accounts available for comparison.
+Second, journalists operate within a framework that encourages caution and self-censorship. Human-rights and media-freedom organisations have repeatedly noted restrictions on reporting and the close relationship between news outlets and state authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/2-Civil-society-organisations/CIVICUS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-snippet">Disinformation and freedom of opinion and expression in...July 7, 2021 — Legal restrictions on the media and the strict government...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://civicus.org/documents/Lao.JointUPRSubmission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civicus.org">[CIVICUS Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civicus.org</span><span class="citation-popover-title">Lao.Joint UPR Submission</span><span class="citation-popover-snippet">CIVICUS Global AllianceLao People&#x27;s Democratic Republic Joint Submission to the...18 Jul 2019 — Regarding freedom of expression; lift th...</span></span></span>, the absence of investigative competition reduces the likelihood that multiple independent sources will document the same event. This creates a verification problem: even when an unusual aerial sighting is reported somewhere, there may be few alternative accounts available for comparison.
 
 The result is not necessarily suppression of UFO stories specifically. Rather, UFO reports are affected by broader limitations that influence many forms of public information gathering.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pp4vHZeIDQ8" title="Khao Kala Hill &amp; the UFO Phenomenon in Thailand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer">Khao Kala Hill &amp; the UFO Phenomenon in Thailand</a></p><p class="youtube-embed-meta">Channel: John Runaway &middot; Views: 10.0K &middot; Uploaded: February 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pp4vHZeIDQ8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MPo3FNRFjUA" title="Season Finale - UFO Reveal Asia: That One with The Age of Disclosure!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MPo3FNRFjUA" target="_blank" rel="noopener noreferrer">Season Finale - UFO Reveal Asia: That One with The Age of Disclosure!</a></p><p class="youtube-embed-meta">Channel: CCBTV &middot; Views: 3.9K &middot; Uploaded: July 2025 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MPo3FNRFjUA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MPo3FNRFjUA">Open on YouTube</a></p></div></div></div>
 
 ## Rural geography and infrastructure constraints
 
@@ -350,7 +350,7 @@ This geography creates several documentation problems:
 
 </div>
 
-The issue becomes especially important for retrospective cases. Some of the few publicly available Laos UFO reports describe events that allegedly occurred many years before being formally reported. Long delays make it difficult to reconstruct weather conditions, flight activity, astronomical objects, or other contextual information that might help investigators evaluate a claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+The issue becomes especially important for retrospective cases. Some of the few publicly available Laos UFO reports describe events that allegedly occurred many years before being formally reported. Long delays make it difficult to reconstruct weather conditions, flight activity, astronomical objects, or other contextual information that might help investigators evaluate a claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 
 <img src="{{ "/assets/images/Lao_People_s_Democra_44f2bd_reporting_limitation_53007e-Illustration-3-dark.svg" | relative_url }}" alt="Reporting Limitations illustration 3" data-theme-src-dark="{{ "/assets/images/Lao_People_s_Democra_44f2bd_reporting_limitation_53007e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lao_People_s_Democra_44f2bd_reporting_limitation_53007e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -388,13 +388,13 @@ For UFO documentation, digital platforms create a mixed picture:
 In Laos, where formal investigative institutions for UFO claims are largely absent from the public record, social media can increase visibility without necessarily improving evidential quality.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MPo3FNRFjUA" title="Season Finale - UFO Reveal Asia: That One with The Age of Disclosure!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MPo3FNRFjUA" target="_blank" rel="noopener noreferrer">Season Finale - UFO Reveal Asia: That One with The Age of Disclosure!</a></p><p class="youtube-embed-meta">Channel: CCBTV &middot; Views: 3.9K &middot; Uploaded: July 2025 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MPo3FNRFjUA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MPo3FNRFjUA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rt4kPu582a0" title="I Went Hunting for Aliens in Indonesia (UFOMO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rt4kPu582a0" target="_blank" rel="noopener noreferrer">I Went Hunting for Aliens in Indonesia (UFOMO)</a></p><p class="youtube-embed-meta">Channel: VICE Asia &middot; Views: 26.4K &middot; Uploaded: November 2022 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rt4kPu582a0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rt4kPu582a0">Open on YouTube</a></p></div></div></div>
 
 ## What researchers can and cannot conclude
 
 The most important conclusion is methodological rather than sensational.
 
-Current evidence does not support claims that Laos is a major hotspot of unexplained aerial phenomena. At the same time, the country's reporting environment is not robust enough to support the opposite conclusion either. The public record is too incomplete to confidently measure the true frequency of unusual sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Current evidence does not support claims that Laos is a major hotspot of unexplained aerial phenomena. At the same time, the country's reporting environment is not robust enough to support the opposite conclusion either. The public record is too incomplete to confidently measure the true frequency of unusual sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 Researchers therefore face a recurring problem:
 
@@ -413,86 +413,44 @@ Researchers therefore face a recurring problem:
 This combination produces a classic under-documentation environment. The strongest Laos-related material tends to be wartime intelligence records, isolated witness accounts, or reports preserved through foreign organisations rather than through a continuous domestic reporting system. Consequently, the main story of UFO documentation in Laos is not a catalogue of dramatic encounters but the difficulty of collecting, preserving, and verifying information in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/laos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersLaosAs a result of the state&#x27;s near-total control over the media, Laos is a “black hole” for information, where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[3NUFORC 3The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUFos... UFOs reported in the 20 years preceding the study. Ten chapters are devoted to perceptual pt obleass, pr...</span></span></span> Documents](#endnote-16 "Snippet: The Black Vault DocumentsUFos... UFOs reported in the 20 years preceding the study. Ten chapters are devoted to perceptual pt obleass, pr...")
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Reports in Laos Are Rare and Hard to Verify. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why UFO Reports in Laos Are Rare and Hard to Verify, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses evidence quality, reporting limitations and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights the importance and rarity of high-quality reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Explains how governments collect, suppress or publish UFO information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores why stories survive, change and spread despite weak documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -526,75 +484,71 @@ This combination produces a classic under-documentation environment. The stronge
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-limitations-why-ufo-reports-in-laos-are-rare-and-hard-to-verify-lao-people-s-democrati-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -809,93 +763,93 @@ This combination produces a classic under-documentation environment. The stronge
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Freedom of the press in Laos  
-   Link: [https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Laos](https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Laos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Laos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Laos</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Laos  
-   Link: [https://nuforc.org/subndx/?id=cLaos](https://nuforc.org/subndx/?id=cLaos)  
+   Link: <a href="https://nuforc.org/subndx/?id=cLaos" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLaos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search: Link, Occurred, City, State, Country, Shape. Open, 05/27/1995 03:00, Caxi/Luang Prahbang (between; mountain top)...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Californi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: physics.smu.edu  
-   Link: [https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf](https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf)  
+   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics at SMUUFO FACT SHEET29 Mar 1999 — However, from 1947 to 1969, the U.S. Air Force investigated reported UFO objects and sightings...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ohchr.org  
-   Link: [https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/2-Civil-society-organisations/CIVICUS.pdf](https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/2-Civil-society-organisations/CIVICUS.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OHCHRDisinformation and freedom of opinion and expression in...July 7, 2021 — Legal restrictions on the media and the strict government...</p></details>
+   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/2-Civil-society-organisations/CIVICUS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/2-Civil-society-organisations/CIVICUS.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and freedom of opinion and expression in...July 7, 2021 — Legal restrictions on the media and the strict government...</p></details>
    Published: July 7, 2021  
 
 8. <a id="endnote-8"></a>
    Source: civicus.org  
    Title: Lao.Joint UPR Submission  
-   Link: [https://civicus.org/documents/Lao.JointUPRSubmission.pdf](https://civicus.org/documents/Lao.JointUPRSubmission.pdf)  
+   Link: <a href="https://civicus.org/documents/Lao.JointUPRSubmission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://civicus.org/documents/Lao.JointUPRSubmission.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIVICUS Global AllianceLao People&#x27;s Democratic Republic Joint Submission to the...18 Jul 2019 — Regarding freedom of expression; lift th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: state.gov  
-   Link: [https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/laos](https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/laos)  
+   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/laos" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/laos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Department2024 Country Reports on Human Rights Practices: LaosThe law provided for freedom of expression, including for members of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Mass media in Laos  
-   Link: [https://en.wikipedia.org/wiki/Mass_media_in_Laos](https://en.wikipedia.org/wiki/Mass_media_in_Laos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mass_media_in_Laos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_media_in_Laos</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Internet in Laos  
-   Link: [https://en.wikipedia.org/wiki/Internet_in_Laos](https://en.wikipedia.org/wiki/Internet_in_Laos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Internet_in_Laos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet_in_Laos</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rsf.org  
-   Link: [https://rsf.org/en/country/laos](https://rsf.org/en/country/laos)  
+   Link: <a href="https://rsf.org/en/country/laos" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/laos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersLaosAs a result of the state&#x27;s near-total control over the media, Laos is a “black hole” for information, where...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: freedomhouse.org  
    Title: freedom world  
-   Link: [https://freedomhouse.org/country/laos/freedom-world/2025](https://freedomhouse.org/country/laos/freedom-world/2025)  
+   Link: <a href="https://freedomhouse.org/country/laos/freedom-world/2025" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/laos/freedom-world/2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laos: Freedom in the World 2025 Country ReportLaos is a one-party state in which the ruling Lao People&#x27;s Revolutionary Party (LPRP) domin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/oasd.pdf](https://documents.theblackvault.com/documents/ufos/oasd.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsUFos... UFOs reported in the 20 years preceding the study. Ten chapters are devoted to perceptual pt obleass, pr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: indexoncensorship.org  
    Title: laos crony scheme control press civil society  
-   Link: [https://www.indexoncensorship.org/2014/05/laos-crony-scheme-control-press-civil-society/](https://www.indexoncensorship.org/2014/05/laos-crony-scheme-control-press-civil-society/)  
+   Link: <a href="https://www.indexoncensorship.org/2014/05/laos-crony-scheme-control-press-civil-society/" target="_blank" rel="noopener noreferrer nofollow">https://www.indexoncensorship.org/2014/05/laos-crony-scheme-control-press-civil-society/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laos: Crony scheme in control of press and civil society12 May 2014 — “No local reporting is allowed whatsoever on government corruption...</p></details>
    Published: May 2014  
 
@@ -903,54 +857,54 @@ This combination produces a classic under-documentation environment. The stronge
 
 18. <a id="endnote-18"></a>
    Source: elsam.or.id  
-   Link: [https://www.elsam.or.id/en/press-release/laos--the-lao-government-must-stop-online-surveillance-and-mandatory-registration-of-social-media-platforms](https://www.elsam.or.id/en/press-release/laos--the-lao-government-must-stop-online-surveillance-and-mandatory-registration-of-social-media-platforms)  
+   Link: <a href="https://www.elsam.or.id/en/press-release/laos--the-lao-government-must-stop-online-surveillance-and-mandatory-registration-of-social-media-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.elsam.or.id/en/press-release/laos--the-lao-government-must-stop-online-surveillance-and-mandatory-registration-of-social-media-platforms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laos: The Lao Government Must Stop Online Surveillance...The Lao Government Must Stop Online Surveillance and Mandatory Registration of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/laos-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/laos-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/laos-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/laos-ufo-sightings.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomenaThis paper reviews the publicly available information on the prevalence of UAP...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: doi.gov  
-   Link: [https://www.doi.gov/sites/doi.gov/files/uploads/forging_cooperation_in_southeast_asia.pdf](https://www.doi.gov/sites/doi.gov/files/uploads/forging_cooperation_in_southeast_asia.pdf)  
+   Link: <a href="https://www.doi.gov/sites/doi.gov/files/uploads/forging_cooperation_in_southeast_asia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/sites/doi.gov/files/uploads/forging_cooperation_in_southeast_asia.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prevention and Management of Invasive Alien Species:Invasive Alien Species (IAS) are non-native organisms that cause, or have the potenti...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: unesco.org.uk  
-   Link: [https://unesco.org.uk/site/assets/files/2939/journalism_is_a_public_good_-_world_trends_in_freedom_of_expression_and_media_development_global_report_2021-22.pdf](https://unesco.org.uk/site/assets/files/2939/journalism_is_a_public_good_-_world_trends_in_freedom_of_expression_and_media_development_global_report_2021-22.pdf)  
+   Link: <a href="https://unesco.org.uk/site/assets/files/2939/journalism_is_a_public_good_-_world_trends_in_freedom_of_expression_and_media_development_global_report_2021-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/site/assets/files/2939/journalism_is_a_public_good_-_world_trends_in_freedom_of_expression_and_media_development_global_report_2021-22.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Expression and Media DevelopmentOver the past five years, approximately 85 percent of the world&#x27;s population experienced a dec...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Season Finale  
-   Link: [https://www.youtube.com/watch?v=MPo3FNRFjUA](https://www.youtube.com/watch?v=MPo3FNRFjUA)  
+   Link: <a href="https://www.youtube.com/watch?v=MPo3FNRFjUA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MPo3FNRFjUA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TJP Documentaries: Indonesia&#x27;s UFO Believers Never Stop Looking...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: TJP Documentaries: Indonesia's UFO Believers Never Stop Looking  
-   Link: [https://www.youtube.com/watch?v=jNB5bNlDVWE](https://www.youtube.com/watch?v=jNB5bNlDVWE)  
+   Link: <a href="https://www.youtube.com/watch?v=jNB5bNlDVWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jNB5bNlDVWE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Went Hunting for Aliens in Indonesia (UFOMO)...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Khao Kala Hill & the UFO Phenomenon in Thailand  
-   Link: [https://www.youtube.com/watch?v=Pp4vHZeIDQ8](https://www.youtube.com/watch?v=Pp4vHZeIDQ8)  
+   Link: <a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pp4vHZeIDQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Season Finale - UFO Reveal Asia: That One with The Age of Disclosure...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: DECLASSIFIED VIDEO: UFO FILES  
-   Link: [https://www.youtube.com/watch?v=kbL1yuMykZo](https://www.youtube.com/watch?v=kbL1yuMykZo)  
+   Link: <a href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kbL1yuMykZo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Khao Kala Hill &amp; the UFO Phenomenon in Thailand...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rfa.org  
    Title: press freedom 05062022182437  
-   Link: [https://www.rfa.org/english/news/laos/press-freedom-05062022182437.html](https://www.rfa.org/english/news/laos/press-freedom-05062022182437.html)  
+   Link: <a href="https://www.rfa.org/english/news/laos/press-freedom-05062022182437.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rfa.org/english/news/laos/press-freedom-05062022182437.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lao media still don&#x27;t have much press freedom.Read more...</p></details>

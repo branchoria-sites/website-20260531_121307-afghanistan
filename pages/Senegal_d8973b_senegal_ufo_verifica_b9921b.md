@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-reports-b61a70/
   short_title: Modern Reports
   heading_title: Why Are Modern Senegal UFO Reports So Sparse?
-date: '2026-06-09 01:39:34 '
+date: '2026-06-10 02:06:34 '
 header:
   og_image: /assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1-social.jpg
   preview_image: /assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1-
 
 ## Introduction
 
-[Senegal]({{ 'what-survives-in-senegals-ufo-record/' | relative_url }})’s UFO record is small, fragmented and heavily dependent on indirect evidence. Unlike countries that maintain a dedicated public UFO archive, Senegal does not appear to operate a national office specifically tasked with collecting or evaluating unidentified aerial phenomenon reports. That means most claims can only be checked by reconstructing what happened through aviation records, meteorological data, local administration files, press archives and witness timelines rather than by consulting a central government database. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">SenegelNational Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</span></span></span>
+Senegal’s UFO record is small, fragmented and heavily dependent on indirect evidence. Unlike countries that maintain a dedicated public UFO archive, Senegal does not appear to operate a national office specifically tasked with collecting or evaluating unidentified aerial phenomenon reports. That means most claims can only be checked by reconstructing what happened through aviation records, meteorological data, local administration files, press archives and witness timelines rather than by consulting a central government database. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">National Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</span></span></span>
 
 
 <img src="{{ "/assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1-dark.svg" | relative_url }}" alt="How to Check illustration 1" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ This has an important consequence for evaluating cases such as the 1952 Dakar �
 
 The most useful starting point is to identify which agencies would have generated records if an unusual aerial event had occurred.
 
-Senegal’s civil aviation and meteorological functions are overseen by the National Agency of Civil Aviation and Meteorology (ANACIM). The agency regulates aviation activity, oversees meteorological operations and maintains weather-monitoring responsibilities across the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">SenegelNational Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</span></span></span>
+Senegal’s civil aviation and meteorological functions are overseen by the National Agency of Civil Aviation and Meteorology (ANACIM). The agency regulates aviation activity, oversees meteorological operations and maintains weather-monitoring responsibilities across the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">National Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</span></span></span>
 
 Airspace management involves the Agency for Aerial Navigation Safety in Africa and Madagascar (ASECNA), headquartered in Dakar. ASECNA provides air navigation services, air traffic management, aviation meteorology and flight information functions across a large regional airspace network that includes Dakar flight information regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[asecna.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-title">ASECN A online</span><span class="citation-popover-snippet">ASECNA online - Our missionProviding en-route air navigation services in the airspaces, coupled with organizing the airspaces and air rou...</span></span></span>
 
@@ -349,7 +349,7 @@ ANACIM and ASECNA both maintain aviation meteorology functions, including weathe
 
 These details matter because witnesses often interpret unusual atmospheric effects as structured objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aim.asecna.aero/amdt/amdt2210.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aim.asecna.aero">[asecna.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aim.asecna.aero</span><span class="citation-popover-snippet">for ASECNA6 Oct 2022 —... DATA... NOUAKCHOTT ACC will provide information and alert services only for aircraft on ATS contingency route...</span></span></span>
 
-For example, coastal Senegal can experience fog and visibility phenomena that significantly alter how lights appear over long distances. Modern meteorological studies have documented fog events around Dakar-area observation sites using airport weather data and atmospheric instruments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/375102756_Case_Study_of_Coastal_Fog_Events_in_Senegal_Using_LIDAR_Ceilometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Case Study of Coastal Fog Events in Senegal Using LIDAR</span><span class="citation-popover-snippet">ResearchGateCase Study of Coastal Fog Events in Senegal Using LIDAR...October 27, 2023 — 11 Oct 2023 — This study aims to examine the at...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+For example, coastal Senegal can experience fog and visibility phenomena that significantly alter how lights appear over long distances. Modern meteorological studies have documented fog events around Dakar-area observation sites using airport weather data and atmospheric instruments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/375102756_Case_Study_of_Coastal_Fog_Events_in_Senegal_Using_LIDAR_Ceilometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Case Study of Coastal Fog Events in Senegal Using LIDAR</span><span class="citation-popover-snippet">Case Study of Coastal Fog Events in Senegal Using LIDAR...October 27, 2023 — 11 Oct 2023 — This study aims to examine the at...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 ### The importance of timing
 
@@ -508,91 +508,49 @@ Such cases may remain part of folklore but are difficult to verify in any meanin
 
 The central challenge in checking Senegal UFO claims is not a lack of stories but a lack of preserved investigative material.
 
-A country with a dedicated public UFO archive allows researchers to compare witness reports against official evaluations. Senegal's record instead requires reconstruction from aviation oversight bodies, meteorological agencies, regional air-navigation systems, local newspapers and administrative archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">SenegelNational Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</span></span></span>
+A country with a dedicated public UFO archive allows researchers to compare witness reports against official evaluations. Senegal's record instead requires reconstruction from aviation oversight bodies, meteorological agencies, regional air-navigation systems, local newspapers and administrative archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">National Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</span></span></span>
 
 That makes verification slower, but it also encourages a more disciplined method. Rather than beginning with assumptions about what a UFO was, the strongest investigations start with records that can be independently checked: flight activity, weather conditions, government paperwork and contemporary reporting. In the Senegal context, those sources are usually far more revealing than later summaries circulating in UFO catalogues.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Could Senegal UFO Claims Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Could Senegal UFO Claims Be Verified?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strongest match for a page about verification and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows practical case-evaluation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights how corroboration and records improve case quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Relevant to tracing evidence through government archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -626,75 +584,71 @@ That makes verification slower, but it also encourages a more disciplined method
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-how-could-senegal-ufo-claims-be-verified-senegal-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -908,127 +862,127 @@ That makes verification slower, but it also encourages a more disciplined method
 
 1. <a id="endnote-1"></a>
    Source: senegel.org  
-   Link: [https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338](https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SenegelNational Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</p></details>
+   Link: <a href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow">https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Agency of Civil Aviation and Meteorology of...Meteorology (ANACIM) is responsible for the management, monitoring and r...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Agence Nationale de l'Aviation Civile et de la Météorologie (Senegal)  
-   Link: [https://en.wikipedia.org/wiki/Agence_Nationale_de_l%27Aviation_Civile_et_de_la_M%C3%A9t%C3%A9orologie_%28Senegal%29](https://en.wikipedia.org/wiki/Agence_Nationale_de_l%27Aviation_Civile_et_de_la_M%C3%A9t%C3%A9orologie_%28Senegal%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Agence_Nationale_de_l%27Aviation_Civile_et_de_la_M%C3%A9t%C3%A9orologie_%28Senegal%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Agence_Nationale_de_l%27Aviation_Civile_et_de_la_M%C3%A9t%C3%A9orologie_%28Senegal%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: asecna.aero  
    Title: ASECN A online  
-   Link: [https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en](https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en)  
+   Link: <a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA online - Our missionProviding en-route air navigation services in the airspaces, coupled with organizing the airspaces and air rou...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Agency for Aerial Navigation Safety in Africa and Madagascar  
-   Link: [https://en.wikipedia.org/wiki/Agency_for_Aerial_Navigation_Safety_in_Africa_and_Madagascar](https://en.wikipedia.org/wiki/Agency_for_Aerial_Navigation_Safety_in_Africa_and_Madagascar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Agency_for_Aerial_Navigation_Safety_in_Africa_and_Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Agency_for_Aerial_Navigation_Safety_in_Africa_and_Madagascar</a>  
 
 5. <a id="endnote-5"></a>
    Source: satmasat.com  
-   Link: [https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_21_ver4_AAT.pdf](https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_21_ver4_AAT.pdf)  
+   Link: <a href="https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_21_ver4_AAT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_21_ver4_AAT.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 16, 2016 — 3 ASECNA reported to have implemented for trials an ADS-B station in Dakar and informed the meeting that many aircraf...</p></details>
    Published: November 16, 2016  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Agence nationale de l'aviation civile et de la météorologie (Sénégal)  
-   Link: [https://fr.wikipedia.org/wiki/Agence_nationale_de_l%27aviation_civile_et_de_la_m%C3%A9t%C3%A9orologie_%28S%C3%A9n%C3%A9gal%29](https://fr.wikipedia.org/wiki/Agence_nationale_de_l%27aviation_civile_et_de_la_m%C3%A9t%C3%A9orologie_%28S%C3%A9n%C3%A9gal%29)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Agence_nationale_de_l%27aviation_civile_et_de_la_m%C3%A9t%C3%A9orologie_%28S%C3%A9n%C3%A9gal%29" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Agence_nationale_de_l%27aviation_civile_et_de_la_m%C3%A9t%C3%A9orologie_%28S%C3%A9n%C3%A9gal%29</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 2015 Senegal mid air collision  
-   Link: [https://en.wikipedia.org/wiki/2015_Senegal_mid-air_collision](https://en.wikipedia.org/wiki/2015_Senegal_mid-air_collision)  
+   Link: <a href="https://en.wikipedia.org/wiki/2015_Senegal_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2015_Senegal_mid-air_collision</a>  
 
 8. <a id="endnote-8"></a>
    Source: asecna.aero  
    Title: ASECN A online  
-   Link: [https://www.asecna.aero/index.php/en/nos-metiers-en/meteorologie-2](https://www.asecna.aero/index.php/en/nos-metiers-en/meteorologie-2)  
+   Link: <a href="https://www.asecna.aero/index.php/en/nos-metiers-en/meteorologie-2" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/nos-metiers-en/meteorologie-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA online - MeteorologyThe meteorological assistance service to air navigation provided by ASECNA covers the followings areas: Meteor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate Case Study of Coastal Fog Events in Senegal Using LIDAR  
-   Link: [https://www.researchgate.net/publication/375102756_Case_Study_of_Coastal_Fog_Events_in_Senegal_Using_LIDAR_Ceilometer](https://www.researchgate.net/publication/375102756_Case_Study_of_Coastal_Fog_Events_in_Senegal_Using_LIDAR_Ceilometer)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateCase Study of Coastal Fog Events in Senegal Using LIDAR...October 27, 2023 — 11 Oct 2023 — This study aims to examine the at...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/375102756_Case_Study_of_Coastal_Fog_Events_in_Senegal_Using_LIDAR_Ceilometer" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375102756_Case_Study_of_Coastal_Fog_Events_in_Senegal_Using_LIDAR_Ceilometer</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study of Coastal Fog Events in Senegal Using LIDAR...October 27, 2023 — 11 Oct 2023 — This study aims to examine the at...</p></details>
    Published: October 27, 2023  
 
 10. <a id="endnote-10"></a>
    Source: aim.asecna.aero  
-   Link: [https://aim.asecna.aero/amdt/amdt2210.pdf](https://aim.asecna.aero/amdt/amdt2210.pdf)  
+   Link: <a href="https://aim.asecna.aero/amdt/amdt2210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/amdt/amdt2210.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for ASECNA6 Oct 2022 —... DATA... NOUAKCHOTT ACC will provide information and alert services only for aircraft on ATS contingency route...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aim.asecna.aero  
-   Link: [https://aim.asecna.aero/](https://aim.asecna.aero/)  
+   Link: <a href="https://aim.asecna.aero/" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA... Data of 2025. AIC NR 19/A/26GO - May 2nd, 2026 - DBBB - COTONOU (BENIN). New Meteoroligical Data of 2025. AIP SUP NR 72/A/26GO...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: anacim.sn  
-   Link: [https://www.anacim.sn/spip.php?article122=](https://www.anacim.sn/spip.php?article122=)  
+   Link: <a href="https://www.anacim.sn/spip.php?article122=" target="_blank" rel="noopener noreferrer nofollow">https://www.anacim.sn/spip.php?article122=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>presentation of anacimPRESENTATION OF ANACIM. The National Agency for Civil Aviation and Meteorology (ANACIM), created by decree n° 2011...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: atc-network.com  
    Title: ATC Network ANACIM  
-   Link: [https://www.atc-network.com/atc-organisations/anacim-senegal](https://www.atc-network.com/atc-organisations/anacim-senegal)  
+   Link: <a href="https://www.atc-network.com/atc-organisations/anacim-senegal" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/anacim-senegal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ANACIM - SenegalCoordinating the supervision and control of all aeronautical and meteorological activities in Senegal, as well as monitor...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: un-soff.org  
-   Link: [https://www.un-soff.org/wp-content/uploads/2024/08/CHD-Report-Senegal.pdf](https://www.un-soff.org/wp-content/uploads/2024/08/CHD-Report-Senegal.pdf)  
+   Link: <a href="https://www.un-soff.org/wp-content/uploads/2024/08/CHD-Report-Senegal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un-soff.org/wp-content/uploads/2024/08/CHD-Report-Senegal.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTRY HYDROMET DIAGNOSTICSInforming policy and investment decisions for high-quality weather forecasts, early warning systems, and clim...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/ESAF/APIRG/APIRG-26/EN/WPs-ENG/APIRG26-WP03G-Air-Navigation-Report.pdf](https://www.icao.int/sites/default/files/ESAF/APIRG/APIRG-26/EN/WPs-ENG/APIRG26-WP03G-Air-Navigation-Report.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/ESAF/APIRG/APIRG-26/EN/WPs-ENG/APIRG26-WP03G-Air-Navigation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/ESAF/APIRG/APIRG-26/EN/WPs-ENG/APIRG26-WP03G-Air-Navigation-Report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: apanews.net  
    Title: senegal civil aviation safety oversight makes further progress  
-   Link: [https://apanews.net/senegal-civil-aviation-safety-oversight-makes-further-progress/](https://apanews.net/senegal-civil-aviation-safety-oversight-makes-further-progress/)  
+   Link: <a href="https://apanews.net/senegal-civil-aviation-safety-oversight-makes-further-progress/" target="_blank" rel="noopener noreferrer nofollow">https://apanews.net/senegal-civil-aviation-safety-oversight-makes-further-progress/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Nov 2025 — The mission aimed to assess the performance of the National Civil Aviation and Meteorology Authority (ANACIM) in overseeing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: journals.ametsoc.org  
    Title: It responds to the need for developing a climate  
-   Link: [https://journals.ametsoc.org/downloadpdf/view/journals/eint/10/5/ei158.1.pdf](https://journals.ametsoc.org/downloadpdf/view/journals/eint/10/5/ei158.1.pdf)  
+   Link: <a href="https://journals.ametsoc.org/downloadpdf/view/journals/eint/10/5/ei158.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/downloadpdf/view/journals/eint/10/5/ei158.1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Mean Climate Conditions in Senegal (1971–98)by S Fall · 2006 · Cited by 64 — ABSTRACT: This paper presents a GIS-based analysis of cli...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: afcac.org  
-   Link: [https://www.afcac.org/spotlight30_senegal-30-2/](https://www.afcac.org/spotlight30_senegal-30-2/)  
+   Link: <a href="https://www.afcac.org/spotlight30_senegal-30-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.afcac.org/spotlight30_senegal-30-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>air operators, through establishing and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=rx7sQgXJ_pU](http://www.youtube.com/watch?v=rx7sQgXJ_pU)  
+   Link: <a href="http://www.youtube.com/watch?v=rx7sQgXJ_pU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rx7sQgXJ_pU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Analysis: Gravitational Alert, Military witnesses &amp; A Mysterious Photo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ops.group  
    Title: Group Dakar UTA Contingency Plan  
-   Link: [https://ops.group/blog/wp-content/uploads/2022/08/Dakar-UTA-Contingency-Plan.pdf](https://ops.group/blog/wp-content/uploads/2022/08/Dakar-UTA-Contingency-Plan.pdf)  
+   Link: <a href="https://ops.group/blog/wp-content/uploads/2022/08/Dakar-UTA-Contingency-Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ops.group/blog/wp-content/uploads/2022/08/Dakar-UTA-Contingency-Plan.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dakar UTA Contingency Plan - AIP for ASECNAThis contingency plan contains Procedures to ensure the provision of air navigation services i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=KHqp1KuwePM](http://www.youtube.com/watch?v=KHqp1KuwePM)  
+   Link: <a href="http://www.youtube.com/watch?v=KHqp1KuwePM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KHqp1KuwePM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Africa investigation evidence The Most Convincing UFO Encounter Motech...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: forecastinternational.com  
    Title: ARCHIVE D REPORT ATC  
-   Link: [https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1428](https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1428)  
+   Link: <a href="https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1428" target="_blank" rel="noopener noreferrer nofollow">https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1428</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED REPORT ATC - Africaredundant data delivery to all six ASECNA Flight. Information Regions, or FIRs (Antananarivo. Brazzaville, D...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bea.aero  
    Title: f cp090601e1.en  
-   Link: [https://bea.aero/fileadmin/documents/docspa/2009/f-cp090601e1.en/pdf/f-cp090601e1.en.pdf](https://bea.aero/fileadmin/documents/docspa/2009/f-cp090601e1.en/pdf/f-cp090601e1.en.pdf)  
+   Link: <a href="https://bea.aero/fileadmin/documents/docspa/2009/f-cp090601e1.en/pdf/f-cp090601e1.en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/fileadmin/documents/docspa/2009/f-cp090601e1.en/pdf/f-cp090601e1.en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interim report1 Jun 2009 — It can be used in particular by operators to transmit information in real time (meteorological data, flight pr...</p></details>

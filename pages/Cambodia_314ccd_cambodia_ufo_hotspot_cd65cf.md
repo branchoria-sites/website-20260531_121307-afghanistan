@@ -245,7 +245,7 @@ next_link:
   permalink: /kampot-case/
   short_title: Kampot Case
   heading_title: Did the Kampot Explosion Really Involve a UFO?
-date: '2026-06-09 01:23:35 '
+date: '2026-06-10 01:48:05 '
 header:
   og_image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-social.jpg
   preview_image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1
 
 ## Introduction
 
-[Cambodia]({{ 'what-really-happened-in-cambodias-ufo/' | relative_url }})’s UFO stories tend to emerge from very specific landscapes: remote border provinces, lightly monitored coastal zones, and rural areas where dark skies and weak infrastructure make aerial objects difficult to identify. That geographical pattern explains far more about the country’s UFO reputation than any evidence of extraordinary craft.
+Cambodia’s UFO stories tend to emerge from very specific landscapes: remote border provinces, lightly monitored coastal zones, and rural areas where dark skies and weak infrastructure make aerial objects difficult to identify. That geographical pattern explains far more about the country’s UFO reputation than any evidence of extraordinary craft.
 
 
 <img src="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -392,7 +392,7 @@ Cambodia’s tourism economy quietly shapes the geography of UFO reporting.
 
 Places such as Siem Reap, Kampot, and coastal resorts attract foreign travellers who are far more likely than local villagers to upload sightings to English-language databases or social media platforms. The result is a reporting imbalance: sightings from tourist corridors become internationally visible even if similar events elsewhere never reach online [archives]({{ 'archives-513076/' | relative_url }}).
 
-The National UFO Reporting Center database illustrates this clearly. One Cambodia-linked report describes a disc-shaped object seen near Siem Reap in 2003, but the testimony was only submitted years later in 2011. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</span><span class="citation-popover-meta">Published: March 15, 2003</span></span></span>
+The National UFO Reporting Center database illustrates this clearly. One Cambodia-linked report describes a disc-shaped object seen near Siem Reap in 2003, but the testimony was only submitted years later in 2011. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</span><span class="citation-popover-meta">Published: March 15, 2003</span></span></span>
 
 This kind of late-filed report is difficult to verify because:
 
@@ -459,86 +459,44 @@ The famous Kampot–Phu Quoc debris incident remains important precisely because
 Cambodia’s “UFO hotspots” therefore reveal more about observation environments than about confirmed anomalous craft. The country’s geography produces uncertainty efficiently, and uncertainty is often enough to sustain a UFO story long after the original event has faded.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Cambodia&#x27;s Border Regions Produce UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Cambodia&#x27;s Border Regions Produce UFO Stories, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides frameworks for assessing sightings in busy airspace regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses recurring patterns in sighting hotspots and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines regional patterns and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for comparing regional UFO traditions and narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -572,75 +530,71 @@ Cambodia’s “UFO hotspots” therefore reveal more about observation environm
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -855,76 +809,76 @@ Cambodia’s “UFO hotspots” therefore reveal more about observation environm
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: Vietnam reports "UFO" explosion  
-   Link: [https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/](https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/)  
+   Link: <a href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambodia&#x27;s air force retracted a report of a mysterious plane crash... Vietnam reports &quot;UFO&quot; explosion. By Reuters. May 28, 20088:18 AM...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/displaced-cambodians-limbo-nationalist-victory-thailand-adds-pressure-2026-02-13/](https://www.reuters.com/world/asia-pacific/displaced-cambodians-limbo-nationalist-victory-thailand-adds-pressure-2026-02-13/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/displaced-cambodians-limbo-nationalist-victory-thailand-adds-pressure-2026-02-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/displaced-cambodians-limbo-nationalist-victory-thailand-adds-pressure-2026-02-13/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clashes in December led to over 149 deaths and displaced hundreds of thousands. Despite a cessation of hostilities, Thailand’s new nation...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=85009](https://nuforc.org/sighting/?id=85009)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85009</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</p></details>
    Published: March 15, 2003  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ahedrons – and 2025&#x27;s Best UFO Reports so Far; C E...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: ufo pod emerging from a cloud portal in angkor wat temple siem reap cambodia  
-   Link: [https://www.facebook.com/raeline.brady.1/posts/ufo-pod-emerging-from-a-cloud-portal-in-angkor-wat-temple-siem-reap-cambodia/10162946078112885/](https://www.facebook.com/raeline.brady.1/posts/ufo-pod-emerging-from-a-cloud-portal-in-angkor-wat-temple-siem-reap-cambodia/10162946078112885/)  
+   Link: <a href="https://www.facebook.com/raeline.brady.1/posts/ufo-pod-emerging-from-a-cloud-portal-in-angkor-wat-temple-siem-reap-cambodia/10162946078112885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/raeline.brady.1/posts/ufo-pod-emerging-from-a-cloud-portal-in-angkor-wat-temple-siem-reap-cambodia/10162946078112885/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral video of UFO sightings at Angkor Wat, March 2025 ￼.Read more...</p></details>
    Published: March 2025  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbtworld/posts/the-royal-thai-army-has-reported-further-ceasefire-violations-by-cambodia-includ/1175766421254153/](https://www.facebook.com/nbtworld/posts/the-royal-thai-army-has-reported-further-ceasefire-violations-by-cambodia-includ/1175766421254153/)  
+   Link: <a href="https://www.facebook.com/nbtworld/posts/the-royal-thai-army-has-reported-further-ceasefire-violations-by-cambodia-includ/1175766421254153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbtworld/posts/the-royal-thai-army-has-reported-further-ceasefire-violations-by-cambodia-includ/1175766421254153/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hu Phi, and Don Tuan areas, and one drone at Sai Taku. The...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/lufos/posts/2035343264025400/](https://www.facebook.com/groups/lufos/posts/2035343264025400/)  
+   Link: <a href="https://www.facebook.com/groups/lufos/posts/2035343264025400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lufos/posts/2035343264025400/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>▻ UFO, Aliens, Other Planets and Paranormal Activities.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KhaosodEnglish/posts/second-army-destroys-crane-at-preah-vihear-used-for-jamming-equipmentthe-second-/1344507907721714/](https://www.facebook.com/KhaosodEnglish/posts/second-army-destroys-crane-at-preah-vihear-used-for-jamming-equipmentthe-second-/1344507907721714/)  
+   Link: <a href="https://www.facebook.com/KhaosodEnglish/posts/second-army-destroys-crane-at-preah-vihear-used-for-jamming-equipmentthe-second-/1344507907721714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KhaosodEnglish/posts/second-army-destroys-crane-at-preah-vihear-used-for-jamming-equipmentthe-second-/1344507907721714/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RC inspects 18 Cambodian POWs to ensure humanitarian...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/fpreels-thailand-military-carries-out-drone-strike-in-cambodiaplumes-of-thick-sm/1362444212583229/](https://www.facebook.com/firstpostin/posts/fpreels-thailand-military-carries-out-drone-strike-in-cambodiaplumes-of-thick-sm/1362444212583229/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/fpreels-thailand-military-carries-out-drone-strike-in-cambodiaplumes-of-thick-sm/1362444212583229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-thailand-military-carries-out-drone-strike-in-cambodiaplumes-of-thick-sm/1362444212583229/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>illery, mortar launchers, and anti-drone systems to attack...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/thailand-cambodia-live-border-clashes-reignite-thailand-launches-airstrikes-2025-12-08/](https://www.reuters.com/world/thailand-cambodia-live-border-clashes-reignite-thailand-launches-airstrikes-2025-12-08/)  
+   Link: <a href="https://www.reuters.com/world/thailand-cambodia-live-border-clashes-reignite-thailand-launches-airstrikes-2025-12-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/thailand-cambodia-live-border-clashes-reignite-thailand-launches-airstrikes-2025-12-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand launches airstrikes as border clashes with...8 Dec 2025 — Smoke rises after Thailand said it launched air strikes near Preah Vi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: english.cambodiadaily.com  
-   Link: [https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/](https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/)  
+   Link: <a href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</p></details>
    Published: May 2008  
 
 13. <a id="endnote-13"></a>
    Source: cambodiaexpatsonline.com  
    Title: reports ufo falling from the sky cambodia t24165  
-   Link: [https://cambodiaexpatsonline.com/newsworthy/reports-ufo-falling-from-the-sky-cambodia-t24165.html](https://cambodiaexpatsonline.com/newsworthy/reports-ufo-falling-from-the-sky-cambodia-t24165.html)  
+   Link: <a href="https://cambodiaexpatsonline.com/newsworthy/reports-ufo-falling-from-the-sky-cambodia-t24165.html" target="_blank" rel="noopener noreferrer nofollow">https://cambodiaexpatsonline.com/newsworthy/reports-ufo-falling-from-the-sky-cambodia-t24165.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VILLAGERS have been left baffled after bits of a UFO...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bisi.org.uk  
-   Link: [https://bisi.org.uk/reports/drone-warfare-and-escalation-risks-on-the-thailand-cambodia-border](https://bisi.org.uk/reports/drone-warfare-and-escalation-risks-on-the-thailand-cambodia-border)  
+   Link: <a href="https://bisi.org.uk/reports/drone-warfare-and-escalation-risks-on-the-thailand-cambodia-border" target="_blank" rel="noopener noreferrer nofollow">https://bisi.org.uk/reports/drone-warfare-and-escalation-risks-on-the-thailand-cambodia-border</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bloomsbury Intelligence InstituteDrone Warfare and Escalation Risks on the ThailandMarch 17, 2026 — 17 Mar 2026 — Additionally, drone war...</p></details>
    Published: March 17, 2026  
 
@@ -932,58 +886,58 @@ Cambodia’s “UFO hotspots” therefore reveal more about observation environm
 
 15. <a id="endnote-15"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/78ed49b616c43df61ad9194b8db22621](https://apnews.com/article/78ed49b616c43df61ad9194b8db22621)  
+   Link: <a href="https://apnews.com/article/78ed49b616c43df61ad9194b8db22621" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/78ed49b616c43df61ad9194b8db22621</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Though a ceasefire ended fighting three months ago, destruction from artillery shelling and bombardment has left the temple and surroundi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260](https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260)  
+   Link: <a href="https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings as a function of year in NUFORC data set.Download scientific diagram | UFO sightings as a function of year in NUFORC data s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/live/2025/jul/24/thailand-cambodia-border-clashes-live-soldiers-fire-at-each-other-along-disputed-border](https://www.theguardian.com/world/live/2025/jul/24/thailand-cambodia-border-clashes-live-soldiers-fire-at-each-other-along-disputed-border)  
+   Link: <a href="https://www.theguardian.com/world/live/2025/jul/24/thailand-cambodia-border-clashes-live-soldiers-fire-at-each-other-along-disputed-border" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2025/jul/24/thailand-cambodia-border-clashes-live-soldiers-fire-at-each-other-along-disputed-border</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai military closes all Cambodian border checkpoints as...24 Jul 2025 — The most prominent and violent conflicts have been around the 1...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1-oShBroXyg](https://www.youtube.com/watch?v=1-oShBroXyg)  
+   Link: <a href="https://www.youtube.com/watch?v=1-oShBroXyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1-oShBroXyg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Thailand-Cambodia Clashes Explained | Preah Vihear...Clashes between neighbors Thailand and Cambodia. It started off as a standoff...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jd-jMeA4vgY](https://www.youtube.com/watch?v=jd-jMeA4vgY)  
+   Link: <a href="https://www.youtube.com/watch?v=jd-jMeA4vgY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jd-jMeA4vgY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO LOCATION SPOTTED IN CAMBODIA!UFO LOCATION SPOTTED IN CAMBODIA! 450 views · 2 years ago. PHNOM PENH... This Place in Siem Reap Is WAY...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: timesofindia.indiatimes.com  
    Title: According to the military, Cambodian forces fired artillery at a village  
-   Link: [https://timesofindia.indiatimes.com/world/rest-of-world/border-clashes-seven-killed-20-injured-in-cambodia-thailand-alleges-rocket-and-drone-attacks-top-developments/articleshow/125862668.cms](https://timesofindia.indiatimes.com/world/rest-of-world/border-clashes-seven-killed-20-injured-in-cambodia-thailand-alleges-rocket-and-drone-attacks-top-developments/articleshow/125862668.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/world/rest-of-world/border-clashes-seven-killed-20-injured-in-cambodia-thailand-alleges-rocket-and-drone-attacks-top-developments/articleshow/125862668.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/world/rest-of-world/border-clashes-seven-killed-20-injured-in-cambodia-thailand-alleges-rocket-and-drone-attacks-top-developments/articleshow/125862668.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clashes: Seven killed, 20 injured in Cambodia;...9 Dec 2025 — The Thai army accused Cambodia of launching rocket and drone attacks...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hrw.org  
    Title: cambodia protect civilians amid border clashes  
-   Link: [https://www.hrw.org/news/2025/07/25/thailand/cambodia-protect-civilians-amid-border-clashes](https://www.hrw.org/news/2025/07/25/thailand/cambodia-protect-civilians-amid-border-clashes)  
+   Link: <a href="https://www.hrw.org/news/2025/07/25/thailand/cambodia-protect-civilians-amid-border-clashes" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/07/25/thailand/cambodia-protect-civilians-amid-border-clashes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand/Cambodia: Protect Civilians Amid Border Clashes25 Jul 2025 — Escalating border clashes between Thailand and Cambodia involving e...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: telegraph.co.uk  
    Title: UFO blamed for mystery explosion in Vietnam  
-   Link: [https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html](https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html)  
+   Link: <a href="https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 May 2008 — UFO blamed for mystery explosion in Vietnam · Islanders on Phu Quoc, close to the coast of Cambodia, heard a loud bang and...</p></details>
    Published: May 2008  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
    Title: sự cố ufo phát nổ tại phú quốc năm 2008  
-   Link: [https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en)  
+   Link: <a href="https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;UFO&quot; incident that exploded in Phu Quoc in 2008In May 2008, an unidentified flying object, or UFO, exploded and crashed in the sky a...</p></details>
    Published: May 2008  
 
 24. <a id="endnote-24"></a>
    Source: ki-media.blogspot.com  
    Title: pieces of ufo exploded in mid air over  
-   Link: [https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html](https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html)  
+   Link: <a href="https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html" target="_blank" rel="noopener noreferrer nofollow">https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of the UFO exploded in mid-air over Kampot28 May 2008 — Wednesday, May 28, 2008. Pieces of the UFO exploded in mid-air over Kampot...</p></details>
    Published: May 28, 2008  

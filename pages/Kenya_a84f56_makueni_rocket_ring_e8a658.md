@@ -239,7 +239,7 @@ next_link:
   permalink: /northern-lights/
   short_title: Northern Lights
   heading_title: Why Northern Kenya Saw UFOs in the Sky
-date: '2026-06-09 01:30:54 '
+date: '2026-06-10 01:56:31 '
 header:
   og_image: /assets/images/Kenya_a84f56_makueni_rocket_ring_e8a658-Illustration-1-social.jpg
   preview_image: /assets/images/Kenya_a84f56_makueni_rocket_ring_e8a658-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Kenya_a84f56_makueni_rocket_ring_e8a658-Illustration-1-soc
 
 ## Introduction
 
-The metallic ring that fell into Mukuku Village in [Kenya]({{ 'what-really-fell-from-kenyas-skies/' | relative_url }})’s Makueni County at the end of December 2024 quickly became one of the country’s most widely discussed “UFO” stories. Residents reported a fiery object descending from the sky, followed by a loud impact and the discovery of a huge circular metal structure weighing roughly half a tonne. Within hours, photographs spread across social media, and speculation ranged from secret military technology to extraterrestrial craft.
+The metallic ring that fell into Mukuku Village in Kenya’s Makueni County at the end of December 2024 quickly became one of the country’s most widely discussed “UFO” stories. Residents reported a fiery object descending from the sky, followed by a loud impact and the discovery of a huge circular metal structure weighing roughly half a tonne. Within hours, photographs spread across social media, and speculation ranged from secret military technology to extraterrestrial craft.
 
 
 <img src="{{ "/assets/images/Kenya_a84f56_makueni_rocket_ring_e8a658-Illustration-1-dark.svg" | relative_url }}" alt="Makueni Ring illustration 1" data-theme-src-dark="{{ "/assets/images/Kenya_a84f56_makueni_rocket_ring_e8a658-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenya_a84f56_makueni_rocket_ring_e8a658-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -337,86 +337,44 @@ It also highlighted the role of the Kenya Space Agency as a public authority cap
 Within the wider history of reported UFO incidents in Kenya, the Makueni ring remains notable not because it strengthened claims of extraterrestrial visitation, but because it demonstrated how a spectacular and seemingly inexplicable object could be traced to a plausible technological source. The event became a reminder that some of the most dramatic “UFOs” are not visitors from elsewhere but fragments of humanity’s own activity in space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=xgPfdnolU0U" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Kenya Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">LIVE Massive Mysterious Metal Ring Crashes Into Kenyan Village</span><span class="citation-popover-snippet">Kenya Space Agency Addresses Concerns After Unknown Rocket Part Fell in Makueni County...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/01/kenya-space-agency-investigates-partially-burnt-rocket-fragment-found-in-mukuku-village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-snippet">Space in AfricaKenya Space Agency Investigates Partially Burnt Rocket...1 Jan 2025 — On Monday, December 30, 2024, a partially burnt met...</span><span class="citation-popover-meta">Published: December 30, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was the Makueni Ring Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was the Makueni Ring Really a UFO?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for how unusual aerial events are investigated before conclusions are reached.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8806725-M.jpg" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Gives readers a better understanding of launch systems and space technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14095692-M.jpg" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
-        
-        <p class="fr-book-desc">First published 2023. Subjects: Science and state, Humor, form, comic strips &amp; cartoons, Space sciences, New York Times bestseller, Space...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
-        
-        <p class="fr-book-desc">Helps readers understand the realities and risks associated with spaceflight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -450,75 +408,71 @@ Within the wider history of reported UFO incidents in Kenya, the Makueni ring re
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=makueni-ring-was-the-makueni-ring-really-a-ufo-kenya-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -733,150 +687,150 @@ Within the wider history of reported UFO incidents in Kenya, the Makueni ring re
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: debris crashes into kenyan village believed to be leftover rocket hardware  
-   Link: [https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware](https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware)  
+   Link: <a href="https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris crash in Kenya village believed to be from...2 Jan 2025 — A large metallic ring fell from the sky on Dec. 30, crashing red...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gizmodo.com  
    Title: Remember That Metal Ring That Fell From the Sky?  
-   Link: [https://gizmodo.com/remember-that-metal-ring-that-fell-from-the-sky-we-still-dont-know-where-it-came-from-2000549288](https://gizmodo.com/remember-that-metal-ring-that-fell-from-the-sky-we-still-dont-know-where-it-came-from-2000549288)  
+   Link: <a href="https://gizmodo.com/remember-that-metal-ring-that-fell-from-the-sky-we-still-dont-know-where-it-came-from-2000549288" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/remember-that-metal-ring-that-fell-from-the-sky-we-still-dont-know-where-it-came-from-2000549288</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2025 — The Kenyan space agency is still investigating the origin of the metallic ring that fell onto a village. Stringer/An...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: studocu.vn  
    Title: readings 06 250702 the risks of space junk and its implications  
-   Link: [https://www.studocu.vn/vn/document/truong-trung-hoc-pho-thong-le-quy-don-quyet-thang/english/readings-06-250702-the-risks-of-space-junk-and-its-implications/160376656](https://www.studocu.vn/vn/document/truong-trung-hoc-pho-thong-le-quy-don-quyet-thang/english/readings-06-250702-the-risks-of-space-junk-and-its-implications/160376656)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-trung-hoc-pho-thong-le-quy-don-quyet-thang/english/readings-06-250702-the-risks-of-space-junk-and-its-implications/160376656" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-trung-hoc-pho-thong-le-quy-don-quyet-thang/english/readings-06-250702-the-risks-of-space-junk-and-its-implications/160376656</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Readings 06 250702: The Risks of Space Junk and Its...A rocket separation ring that fell from the sky on to a Kenyan village on 30 Decem...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: LIVE Massive Mysterious Metal Ring Crashes Into Kenyan Village  
-   Link: [https://www.youtube.com/watch?v=xgPfdnolU0U](https://www.youtube.com/watch?v=xgPfdnolU0U)  
+   Link: <a href="https://www.youtube.com/watch?v=xgPfdnolU0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xgPfdnolU0U</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenya Space Agency Addresses Concerns After Unknown Rocket Part Fell in Makueni County...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-GLcXN5TJnM](https://www.youtube.com/watch?v=-GLcXN5TJnM)  
+   Link: <a href="https://www.youtube.com/watch?v=-GLcXN5TJnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-GLcXN5TJnM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Debris Crashes in Kenya: Growing Concern Over Space Junk...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ksa.go.ke  
    Title: OFFICIAL STATEMENT MUKUKUVILLAGE  
-   Link: [https://ksa.go.ke/assets/files/OFFICIAL-STATEMENT-MUKUKUVILLAGE.pdf](https://ksa.go.ke/assets/files/OFFICIAL-STATEMENT-MUKUKUVILLAGE.pdf)  
+   Link: <a href="https://ksa.go.ke/assets/files/OFFICIAL-STATEMENT-MUKUKUVILLAGE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ksa.go.ke/assets/files/OFFICIAL-STATEMENT-MUKUKUVILLAGE.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenya Space Agency1 january 2025 fragments of space object that fell and...1 Jan 2025 — The Agency wishes to clarify that the object, a...</p></details>
    Published: january 2025  
 
 7. <a id="endnote-7"></a>
    Source: spaceinafrica.com  
-   Link: [https://spaceinafrica.com/2025/01/01/kenya-space-agency-investigates-partially-burnt-rocket-fragment-found-in-mukuku-village/](https://spaceinafrica.com/2025/01/01/kenya-space-agency-investigates-partially-burnt-rocket-fragment-found-in-mukuku-village/)  
+   Link: <a href="https://spaceinafrica.com/2025/01/01/kenya-space-agency-investigates-partially-burnt-rocket-fragment-found-in-mukuku-village/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/01/kenya-space-agency-investigates-partially-burnt-rocket-fragment-found-in-mukuku-village/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaKenya Space Agency Investigates Partially Burnt Rocket...1 Jan 2025 — On Monday, December 30, 2024, a partially burnt met...</p></details>
    Published: December 30, 2024  
 
 8. <a id="endnote-8"></a>
    Source: eastleighvoice.co.ke  
-   Link: [https://eastleighvoice.co.ke/national/101007/metallic-object-that-fell-in-makueni-was-from-a-rocket-space-agency-says/feed](https://eastleighvoice.co.ke/national/101007/metallic-object-that-fell-in-makueni-was-from-a-rocket-space-agency-says/feed)  
+   Link: <a href="https://eastleighvoice.co.ke/national/101007/metallic-object-that-fell-in-makueni-was-from-a-rocket-space-agency-says/feed" target="_blank" rel="noopener noreferrer nofollow">https://eastleighvoice.co.ke/national/101007/metallic-object-that-fell-in-makueni-was-from-a-rocket-space-agency-says/feed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eastleigh VoiceMetallic object that fell in Makueni was from a rocket, space...Jan 1, 2025 — The object that left residents bewilder...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: space debris reportedly crashes village kenya  
-   Link: [https://www.cbsnews.com/news/space-debris-reportedly-crashes-village-kenya/](https://www.cbsnews.com/news/space-debris-reportedly-crashes-village-kenya/)  
+   Link: <a href="https://www.cbsnews.com/news/space-debris-reportedly-crashes-village-kenya/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/space-debris-reportedly-crashes-village-kenya/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris weighing over 1000 pounds reportedly...1 Jan 2025 — Kenya Space Agency (KSA) said the object, a metallic ring roughly 8 fee...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: straitstimes.com  
    Title: kenya investigating fallen space debris  
-   Link: [https://www.straitstimes.com/world/kenya-investigating-fallen-space-debris](https://www.straitstimes.com/world/kenya-investigating-fallen-space-debris)  
+   Link: <a href="https://www.straitstimes.com/world/kenya-investigating-fallen-space-debris" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/world/kenya-investigating-fallen-space-debris</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 1, 2025 — Kenyan officials said on Jan 1 that they were investigating fragments of metal, believed to be from a rocket, that crashed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: volterrafietta.com  
    Title: space rocket fragments fall on kenya  
-   Link: [https://volterrafietta.com/space-rocket-fragments-fall-on-kenya/](https://volterrafietta.com/space-rocket-fragments-fall-on-kenya/)  
+   Link: <a href="https://volterrafietta.com/space-rocket-fragments-fall-on-kenya/" target="_blank" rel="noopener noreferrer nofollow">https://volterrafietta.com/space-rocket-fragments-fall-on-kenya/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volterra FiettaSpace rocket fragments fall on KenyaJan 8, 2025 — According to a statement by the Kenya Space Agency (the “KSA”), a fragme...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: space.stackexchange.com  
    Title: any updates on the purported space debris ring that fell near a remote village i  
-   Link: [https://space.stackexchange.com/questions/67749/any-updates-on-the-purported-space-debris-ring-that-fell-near-a-remote-village-i](https://space.stackexchange.com/questions/67749/any-updates-on-the-purported-space-debris-ring-that-fell-near-a-remote-village-i)  
+   Link: <a href="https://space.stackexchange.com/questions/67749/any-updates-on-the-purported-space-debris-ring-that-fell-near-a-remote-village-i" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/67749/any-updates-on-the-purported-space-debris-ring-that-fell-near-a-remote-village-i</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeAny updates on the purported space debris ring that fell...20 Jan 2025 — Ars Technica&#x27;s January 11, 2025...</p></details>
    Published: January 11, 2025  
 
 13. <a id="endnote-13"></a>
    Source: kenyans.co.ke  
-   Link: [https://www.kenyans.co.ke/news/111206-kenya-space-agency-cautions-public-potential-space-debris-re-entry-over-eastern-africa](https://www.kenyans.co.ke/news/111206-kenya-space-agency-cautions-public-potential-space-debris-re-entry-over-eastern-africa)  
+   Link: <a href="https://www.kenyans.co.ke/news/111206-kenya-space-agency-cautions-public-potential-space-debris-re-entry-over-eastern-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.kenyans.co.ke/news/111206-kenya-space-agency-cautions-public-potential-space-debris-re-entry-over-eastern-africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenya Space Agency Cautions Public on Potential...Apr 18, 2025 — The government, through the Kenya Space Agency, has cautioned Kenyans t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Econsaboteur/posts/kenya-space-agency-ksa-released-a-statement-that-the-metallic-ring-that-fell-fro/517287841329857/](https://www.facebook.com/Econsaboteur/posts/kenya-space-agency-ksa-released-a-statement-that-the-metallic-ring-that-fell-fro/517287841329857/)  
+   Link: <a href="https://www.facebook.com/Econsaboteur/posts/kenya-space-agency-ksa-released-a-statement-that-the-metallic-ring-that-fell-fro/517287841329857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Econsaboteur/posts/kenya-space-agency-ksa-released-a-statement-that-the-metallic-ring-that-fell-fro/517287841329857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenya Space Agency (KSA) released a statement that the...On December 30, 2024, a metallic ring believed to be part of a rocket launch v...</p></details>
    Published: December 30, 2024  
 
 15. <a id="endnote-15"></a>
    Source: spacedaily.com  
-   Link: [https://spacedaily.com/kenya-investigating-fallen-space-debris-999/](https://spacedaily.com/kenya-investigating-fallen-space-debris-999/)  
+   Link: <a href="https://spacedaily.com/kenya-investigating-fallen-space-debris-999/" target="_blank" rel="noopener noreferrer nofollow">https://spacedaily.com/kenya-investigating-fallen-space-debris-999/</a>  
 
 16. <a id="endnote-16"></a>
    Source: hiiraan.com  
    Title: Kenya space agency cautions public on potential  
-   Link: [https://www.hiiraan.com/news4/2025/Apr/201184/kenya_space_agency_cautions_public_on_potential_space_debris_re_entry_over_eastern_africa.aspx](https://www.hiiraan.com/news4/2025/Apr/201184/kenya_space_agency_cautions_public_on_potential_space_debris_re_entry_over_eastern_africa.aspx)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HiiraanApr 19, 2025 — A photo collage of the metallic ring that fell from the skies and landed in Mukuku in Makueni County, on Monday, De...</p></details>
+   Link: <a href="https://www.hiiraan.com/news4/2025/Apr/201184/kenya_space_agency_cautions_public_on_potential_space_debris_re_entry_over_eastern_africa.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hiiraan.com/news4/2025/Apr/201184/kenya_space_agency_cautions_public_on_potential_space_debris_re_entry_over_eastern_africa.aspx</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 19, 2025 — A photo collage of the metallic ring that fell from the skies and landed in Mukuku in Makueni County, on Monday, De...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: thedebrief.org  
    Title: 1100 pound space object falls from the sky in kenya fueling misinformation  
-   Link: [https://thedebrief.org/1100-pound-space-object-falls-from-the-sky-in-kenya-fueling-misinformation/](https://thedebrief.org/1100-pound-space-object-falls-from-the-sky-in-kenya-fueling-misinformation/)  
+   Link: <a href="https://thedebrief.org/1100-pound-space-object-falls-from-the-sky-in-kenya-fueling-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/1100-pound-space-object-falls-from-the-sky-in-kenya-fueling-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1100 Pound Space Object Falls from the Sky in Kenya...Jan 8, 2025 — On December 31, 2024, in a remote village called Mukuku in Makueni C...</p></details>
    Published: December 31, 2024  
 
 18. <a id="endnote-18"></a>
    Source: ntvkenya.co.ke  
    Title: object that fell from sky in makueni identified as rocket separation ring  
-   Link: [https://ntvkenya.co.ke/news/object-that-fell-from-sky-in-makueni-identified-as-rocket-separation-ring/](https://ntvkenya.co.ke/news/object-that-fell-from-sky-in-makueni-identified-as-rocket-separation-ring/)  
+   Link: <a href="https://ntvkenya.co.ke/news/object-that-fell-from-sky-in-makueni-identified-as-rocket-separation-ring/" target="_blank" rel="noopener noreferrer nofollow">https://ntvkenya.co.ke/news/object-that-fell-from-sky-in-makueni-identified-as-rocket-separation-ring/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Object that fell from sky in Makueni identified as rocket...2 Jan 2025 — A metallic object weighing approximately 500 kilograms and meas...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kenyans.co.ke  
    Title: 107712 govt unravels mystery 500kg metallic object found makueni  
-   Link: [https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni](https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni)  
+   Link: <a href="https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni" target="_blank" rel="noopener noreferrer nofollow">https://www.kenyans.co.ke/news/107712-govt-unravels-mystery-500kg-metallic-object-found-makueni</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Govt Unravels Mystery of 500kg Metallic Object Found in...1 Jan 2025 — The object, a metallic ring measuring approximately 2.5 meters in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/](https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/)  
+   Link: <a href="https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l from the sky and crash-landed in Kenya&#x27;s Mukuku village on December...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/](https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/a-metallic-object-weighing-approximately-500-kilograms-and-measuring-2-meters-in/1149606626523739/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rom the sky and crash-landed in Kenya&#x27;s Mukuku village on December...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cybernews.com  
    Title: gigantic metallic ring kenya space debris rumors  
-   Link: [https://cybernews.com/science/gigantic-metallic-ring-kenya-space-debris-rumors-/](https://cybernews.com/science/gigantic-metallic-ring-kenya-space-debris-rumors-/)  
+   Link: <a href="https://cybernews.com/science/gigantic-metallic-ring-kenya-space-debris-rumors-/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/science/gigantic-metallic-ring-kenya-space-debris-rumors-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gigantic metallic ring falls into Kenyan village, rumors...3 Jan 2025 — The Kenya Space Agency is attempting to tamp down on rumors abou...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pulselivekenya/posts/the-kenya-space-agency-ksa-has-issued-an-official-statement-regarding-the-recent/586774607447347/](https://www.facebook.com/pulselivekenya/posts/the-kenya-space-agency-ksa-has-issued-an-official-statement-regarding-the-recent/586774607447347/)  
+   Link: <a href="https://www.facebook.com/pulselivekenya/posts/the-kenya-space-agency-ksa-has-issued-an-official-statement-regarding-the-recent/586774607447347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pulselivekenya/posts/the-kenya-space-agency-ksa-has-issued-an-official-statement-regarding-the-recent/586774607447347/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>discovery of a metallic object that fell from the sky and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/](https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/-a-resident-claims-the-500kg-metal-ring-that-crashed-in-mukuku-village-damaged-h/1154295279388207/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d her home. The crash, just 50km from Nairobi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DNvZTLUVdKw](https://www.youtube.com/watch?v=DNvZTLUVdKw)  
+   Link: <a href="https://www.youtube.com/watch?v=DNvZTLUVdKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DNvZTLUVdKw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cials believe it is space junk from a Rocket&#x27;s launch vehicle...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Rocket Debris Crashes in Kenya: Growing Concern Over Space Junk  
-   Link: [https://www.youtube.com/watch?v=jXCjurbBojw](https://www.youtube.com/watch?v=jXCjurbBojw)  
+   Link: <a href="https://www.youtube.com/watch?v=jXCjurbBojw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXCjurbBojw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kenya Space Agency declares the metallic ring that fell in Makueni a part of a rocket ship...</p></details>

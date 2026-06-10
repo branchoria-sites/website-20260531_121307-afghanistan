@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-macedonia-cece1d-index/
 description: Focused pages that expand on What Is Really in North Macedonia's UFO....
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: North_Macedonia_cece1d
 parent_title: What Is Really in North Macedonia's UFO...

@@ -245,7 +245,7 @@ next_link:
   permalink: /tajik-air-cable/
   short_title: Tajik Air Cable
   heading_title: Why the Tajik Air UFO Cable Still Matters
-date: '2026-06-09 01:44:00 '
+date: '2026-06-10 02:11:43 '
 header:
   og_image: /assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1-social.jpg
   preview_image: /assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1.webp
@@ -254,11 +254,11 @@ image: /assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration
 
 ## Introduction
 
-Many [Tajikistan]({{ 'what-do-tajikistans-ufo-reports-really/' | relative_url }}) UFO stories become less mysterious when they are examined alongside meteor science, atmospheric optics, and the limitations of mobile-phone photography. This does not mean that every report is false or dishonest. Rather, it shows how unusual but ordinary phenomena can acquire a UFO label when observers have only a few seconds to interpret a bright light, a fast-moving object, or a strange image captured under difficult conditions.
+Many Tajikistan UFO stories become less mysterious when they are examined alongside meteor science, atmospheric optics, and the limitations of mobile-phone photography. This does not mean that every report is false or dishonest. Rather, it shows how unusual but ordinary phenomena can acquire a UFO label when observers have only a few seconds to interpret a bright light, a fast-moving object, or a strange image captured under difficult conditions.
 
 
 <img src="{{ "/assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1-dark.svg" | relative_url }}" alt="Mundane Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This pattern appears repeatedly in the Tajik record. [Khujand sightings]({{ 'khujand-reports/' | relative_url }}) have included bright objects near the horizon, red lights moving toward mountain ranges, and photographs that circulated as evidence of unidentified craft. At the same time, Tajikistan has a long scientific tradition of meteor observation through institutions associated with the Hissar Observatory near Dushanbe. That combination is important: the same skies that generate genuine astronomical events can also generate UFO reports. In several cases, the strongest explanation is not an exotic craft but a meteor, glare effect, lens artefact, exposure error, or misjudged atmospheric light source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qazinform.com">[qazinform.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qazinform.com</span><span class="citation-popover-snippet">Tajik boy captures UFO on mobile phone camera26 Mar 2010 — &quot;It [the UFO] was red and it was surrounded by white light...It was moving slo...</span></span></span>
+This pattern appears repeatedly in the Tajik record. Khujand sightings have included bright objects near the horizon, red lights moving toward mountain ranges, and photographs that circulated as evidence of unidentified craft. At the same time, Tajikistan has a long scientific tradition of meteor observation through institutions associated with the Hissar Observatory near Dushanbe. That combination is important: the same skies that generate genuine astronomical events can also generate UFO reports. In several cases, the strongest explanation is not an exotic craft but a meteor, glare effect, lens artefact, exposure error, or misjudged atmospheric light source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qazinform.com">[qazinform.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qazinform.com</span><span class="citation-popover-snippet">Tajik boy captures UFO on mobile phone camera26 Mar 2010 — &quot;It [the UFO] was red and it was surrounded by white light...It was moving slo...</span></span></span>
 
 ## The Debunked Northern Tajikistan Photo
 
@@ -300,7 +300,7 @@ Bright meteors, often called fireballs or bolides, can produce effects that witn
 
 </div>
 
-These descriptions often sound extraordinary when reported without astronomical context. Yet they closely match documented meteor behaviour. Fireballs can brighten dramatically during atmospheric breakup, creating the impression that an object has changed direction or accelerated. Green and blue colours are especially common in bright meteors because of atmospheric and material interactions during entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/green-fireballs-spotted-skies-above-poland-and-thailand-31697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">green fireballs spotted skies above poland and thailand 31697</span><span class="citation-popover-snippet">IFLScienceGreen Fireballs Spotted In The Skies Above Poland And...3 Nov 2015 — The Earth&#x27;s skies are currently amid the Taurid Meteor Sh...</span></span></span>
+These descriptions often sound extraordinary when reported without astronomical context. Yet they closely match documented meteor behaviour. Fireballs can brighten dramatically during atmospheric breakup, creating the impression that an object has changed direction or accelerated. Green and blue colours are especially common in bright meteors because of atmospheric and material interactions during entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/green-fireballs-spotted-skies-above-poland-and-thailand-31697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">green fireballs spotted skies above poland and thailand 31697</span><span class="citation-popover-snippet">Green Fireballs Spotted In The Skies Above Poland And...3 Nov 2015 — The Earth&#x27;s skies are currently amid the Taurid Meteor Sh...</span></span></span>
 
 The scientific record from Tajikistan reinforces this point. Researchers have documented photographic fireball observations and maintained meteor-monitoring programmes designed specifically to track such atmospheric events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Tajikistan fireball network and results of...The fireball network was created in Tajikistan with the aim of obtaining...</span></span></span>
 
@@ -418,86 +418,44 @@ Meteor science, astronomical monitoring, and camera-analysis techniques therefor
 That pattern suggests that Tajikistan's UFO history is not primarily a story of confirmed unknown craft. It is more often a story about how rare astronomical events, mountain-sky viewing conditions, and imperfect imaging technology can transform ordinary phenomena into enduring mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qazinform.com">[qazinform.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qazinform.com</span><span class="citation-popover-snippet">Tajik boy captures UFO on mobile phone camera26 Mar 2010 — &quot;It [the UFO] was red and it was surrounded by white light...It was moving slo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Tajik UFOs Become Meteors or Glare. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Tajik UFOs Become Meteors or Glare, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for distinguishing genuine mysteries from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights the difference between explainable and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Balances skeptical explanations with unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Explains common astronomical misconceptions behind strange sky sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -531,75 +489,71 @@ That pattern suggests that Tajikistan's UFO history is not primarily a story of 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mundane-causes-when-tajik-ufos-become-meteors-or-glare-tajikistan-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -813,82 +767,82 @@ That pattern suggests that Tajikistan's UFO history is not primarily a story of 
 
 1. <a id="endnote-1"></a>
    Source: qazinform.com  
-   Link: [https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423](https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423)  
+   Link: <a href="https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423" target="_blank" rel="noopener noreferrer nofollow">https://qazinform.com/news/tajik-boy-captures-ufo-on-mobile-phone-camera_a2251423</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tajik boy captures UFO on mobile phone camera26 Mar 2010 — &quot;It [the UFO] was red and it was surrounded by white light...It was moving slo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1811.05159](https://arxiv.org/abs/1811.05159)  
+   Link: <a href="https://arxiv.org/abs/1811.05159" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1811.05159</a>  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations](https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations)  
+   Link: <a href="https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations</a>  
 
 4. <a id="endnote-4"></a>
    Source: iflscience.com  
    Title: green fireballs spotted skies above poland and thailand 31697  
-   Link: [https://www.iflscience.com/green-fireballs-spotted-skies-above-poland-and-thailand-31697](https://www.iflscience.com/green-fireballs-spotted-skies-above-poland-and-thailand-31697)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFLScienceGreen Fireballs Spotted In The Skies Above Poland And...3 Nov 2015 — The Earth&#x27;s skies are currently amid the Taurid Meteor Sh...</p></details>
+   Link: <a href="https://www.iflscience.com/green-fireballs-spotted-skies-above-poland-and-thailand-31697" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/green-fireballs-spotted-skies-above-poland-and-thailand-31697</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Fireballs Spotted In The Skies Above Poland And...3 Nov 2015 — The Earth&#x27;s skies are currently amid the Taurid Meteor Sh...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2405.04127](https://arxiv.org/abs/2405.04127)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe utility of infrasound in global monitoring of extraterrestrial impacts: A case study of the 23 July 2008 Tajikistan bolideMay 7...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.04127" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.04127</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The utility of infrasound in global monitoring of extraterrestrial impacts: A case study of the 23 July 2008 Tajikistan bolideMay 7...</p></details>
    Published: July 2008  
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: meteorite-recon.com  
-   Link: [https://www.meteorite-recon.com/home/meteorite-documentaries/chelyabinsk-superbolide](https://www.meteorite-recon.com/home/meteorite-documentaries/chelyabinsk-superbolide)  
+   Link: <a href="https://www.meteorite-recon.com/home/meteorite-documentaries/chelyabinsk-superbolide" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite-recon.com/home/meteorite-documentaries/chelyabinsk-superbolide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chelyabinsk SuperbolideA bright, exploding meteor occurred over the Chelyabinsk oblast. The airburst of the fireball produced a shockwave...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/](https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/)  
+   Link: <a href="https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs being shot down in large numbersFootage of a drone shooting a UFO with a Hellfire missile. MQ-9 Reapers are engaging UFOs/UAP with H...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: chromium.googlesource.com  
-   Link: [https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git/%2B/50fb79b30a2e3e512c88884152f26b255d0e4074%5E%5E%5E%21/](https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git/%2B/50fb79b30a2e3e512c88884152f26b255d0e4074%5E%5E%5E%21/)  
+   Link: <a href="https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git/%2B/50fb79b30a2e3e512c88884152f26b255d0e4074%5E%5E%5E%21/" target="_blank" rel="noopener noreferrer nofollow">https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git/%2B/50fb79b30a2e3e512c88884152f26b255d0e4074%5E%5E%5E%21/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>googlesource.comchromium/deps/hunspell_dictionaries.git... Ashgabat +Ashikaga/M +Ashkenazim +Ashkhabad/M +Ashlee/M +Ashley/M +... UFO/SM...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: downloads.cs.stanford.edu  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... ufo neoclassical environmentally radios packing conform systematically... tajikistan cadillac b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: in the year 2000 a single photograph taken above green bay ignited one of the re  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/in-the-year-2000-a-single-photograph-taken-above-green-bay-ignited-one-of-the-re/1492335139559787/](https://www.facebook.com/HiddenFactsss/posts/in-the-year-2000-a-single-photograph-taken-above-green-bay-ignited-one-of-the-re/1492335139559787/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/in-the-year-2000-a-single-photograph-taken-above-green-bay-ignited-one-of-the-re/1492335139559787/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/in-the-year-2000-a-single-photograph-taken-above-green-bay-ignited-one-of-the-re/1492335139559787/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the year 2000, a single photograph taken above Green...In the year 2000, a single photograph taken above Green Bay ignited one of the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: gazetaexpress.com  
    Title: Mysterious increase of fireballs in the sky 2  
-   Link: [https://www.gazetaexpress.com/en/Mysterious-increase-of-fireballs-in-the-sky-2/](https://www.gazetaexpress.com/en/Mysterious-increase-of-fireballs-in-the-sky-2/)  
+   Link: <a href="https://www.gazetaexpress.com/en/Mysterious-increase-of-fireballs-in-the-sky-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.gazetaexpress.com/en/Mysterious-increase-of-fireballs-in-the-sky-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious rise of &quot;fireballs&quot; in the sky31 Mar 2026 — An unusual wave of &quot;fireballs&quot; lighting up the sky has raised questions and variou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: balticworlds.com  
-   Link: [https://balticworlds.com/wp-content/uploads/2019/11/BW-3-2019-PDF.pdf](https://balticworlds.com/wp-content/uploads/2019/11/BW-3-2019-PDF.pdf)  
+   Link: <a href="https://balticworlds.com/wp-content/uploads/2019/11/BW-3-2019-PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://balticworlds.com/wp-content/uploads/2019/11/BW-3-2019-PDF.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artifacts and their phantom ownersby IC WO — plant-covered, sunlight-harboring public space in the north of the city...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: I had booked an Air Astana flight..DE L-AL  
-   Link: [https://www.facebook.com/groups/touristhelpline/posts/27972410435682364/](https://www.facebook.com/groups/touristhelpline/posts/27972410435682364/)  
+   Link: <a href="https://www.facebook.com/groups/touristhelpline/posts/27972410435682364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/touristhelpline/posts/27972410435682364/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baltics and Balkans trip starts with Delhi to Frankfurt flight[5/13, 06:51] Pijush Roy: The start of my Baltics &amp; Balkans trip..Day 1 &amp; D...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: emeteornews.net  
    Title: global meteor network report 2025  
-   Link: [https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/](https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/)  
+   Link: <a href="https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2026 — In June 2024 two GMN cameras installed in Tajikistan had their first paired meteors. In total 411 meteor orbits were obtaine...</p></details>
    Published: June 2024  
 
 15. <a id="endnote-15"></a>
    Source: barstoolsports.com  
-   Link: [https://www.barstoolsports.com/blog/3565606/five-meteors-have-been-seen-around-the-world-and-at-least-one-defied-all-laws](https://www.barstoolsports.com/blog/3565606/five-meteors-have-been-seen-around-the-world-and-at-least-one-defied-all-laws)  
+   Link: <a href="https://www.barstoolsports.com/blog/3565606/five-meteors-have-been-seen-around-the-world-and-at-least-one-defied-all-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.barstoolsports.com/blog/3565606/five-meteors-have-been-seen-around-the-world-and-at-least-one-defied-all-laws</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Five &#x27;Meteors&#x27; Have Been Seen Around the World, and at...18 Mar 2026 — The bizarre fireball was seen just hours after a series of rare m...</p></details>

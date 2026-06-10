@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-assessment/
   short_title: Evidence Assessment
   heading_title: 'Evaluating UFO Reports: Evidence, Skepticism, and Credibility'
-date: '2026-06-09 01:21:05 '
+date: '2026-06-10 01:45:29 '
 header:
   og_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1-social.jpg
   preview_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1.webp
@@ -252,7 +252,7 @@ Eyewitness reports of unexplained lights in [Bosnia and Herzegovina]({{ 'bosnia-
 
 
 <img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1-dark.svg" | relative_url }}" alt="Community Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a body of anecdotal evidence that is uneven in quality yet still revealing. Patterns recur across reports from Sarajevo, Tuzla, Banja Luka, Prijedor and smaller towns: witnesses often describe silent lights, triangular formations, hovering objects, or glowing spheres changing direction unexpectedly. At the same time, many cases are later challenged as misidentified aircraft, drones, atmospheric effects, digital manipulation, or internet folklore. Examining these reports as social and cultural material — rather than as proof of extraterrestrial activity — offers a clearer understanding of how unexplained aerial phenomena are perceived and circulated in Bosnia and Herzegovina. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+The result is a body of anecdotal evidence that is uneven in quality yet still revealing. Patterns recur across reports from Sarajevo, Tuzla, Banja Luka, Prijedor and smaller towns: witnesses often describe silent lights, triangular formations, hovering objects, or glowing spheres changing direction unexpectedly. At the same time, many cases are later challenged as misidentified aircraft, drones, atmospheric effects, digital manipulation, or internet folklore. Examining these reports as social and cultural material — rather than as proof of extraterrestrial activity — offers a clearer understanding of how unexplained aerial phenomena are perceived and circulated in Bosnia and Herzegovina. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 ## How Local Reports Spread in Bosnia and Herzegovina
 
@@ -265,19 +265,19 @@ Unlike countries with established civilian UFO organisations or declassified mil
 * Facebook video shares
 * Local news comment sections
 * Messaging apps
-* International databases such as the National UFO Reporting Center (NUFORC) <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+* International databases such as the National UFO Reporting Center (NUFORC) <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 </div>
 
 This decentralised reporting environment affects credibility in several ways. First, many sightings appear only once, often with little supporting detail. Second, reposting and translation can distort the original account. Third, visual evidence is frequently compressed, re-uploaded, or detached from its original context.
 
-At the same time, these informal spaces preserve details that would otherwise disappear. Some witnesses describe weather conditions, flight paths, sounds, reactions from neighbours, or simultaneous observations from multiple districts. NUFORC’s archive, while not an official scientific source, has become important precisely because it preserves raw testimony without heavy editorial filtering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span> Manifold A notable feature of Bosnian reports is the overlap between personal memory and post-war social experience. Older witnesses sometimes frame s <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable database...</span></span></span> ightings through memories of military aircraft, artillery flashes, or emergency conditions from the 1990s conflict. This does not invalidate reports, but it affects how unusual lights are interpreted and remembered.
+At the same time, these informal spaces preserve details that would otherwise disappear. Some witnesses describe weather conditions, flight paths, sounds, reactions from neighbours, or simultaneous observations from multiple districts. NUFORC’s archive, while not an official scientific source, has become important precisely because it preserves raw testimony without heavy editorial filtering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span> Manifold A notable feature of Bosnian reports is the overlap between personal memory and post-war social experience. Older witnesses sometimes frame s <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable database...</span></span></span> ightings through memories of military aircraft, artillery flashes, or emergency conditions from the 1990s conflict. This does not invalidate reports, but it affects how unusual lights are interpreted and remembered.
 
 ## Forum and Social Media Reports
 
 ### Tuzla Canton and Repeating Light Patterns
 
-One of the more widely discussed recent online cases involved reports from Tuzla Canton in early 2026. Reddit users described “three lights” moving in repeating patterns, with uploaded footage showing bright points shifting laterally against the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1cpcg/bosnia_and_herzegovina_strange_lights_p2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bosnia and Herzegovina strange lights (p2): r/UFOs_Archive</span><span class="citation-popover-snippet">RedditBosnia and Herzegovina strange lights (p2): r/UFOs_ArchiveJanuary 1, 2026 — Time: 01.01.2026 19:50h UTC Location: Tuzla Canton, Bo...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
+One of the more widely discussed recent online cases involved reports from Tuzla Canton in early 2026. Reddit users described “three lights” moving in repeating patterns, with uploaded footage showing bright points shifting laterally against the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1cpcg/bosnia_and_herzegovina_strange_lights_p2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bosnia and Herzegovina strange lights (p2): r/UFOs_Archive</span><span class="citation-popover-snippet">Bosnia and Herzegovina strange lights (p2): r/UFOs_ArchiveJanuary 1, 2026 — Time: 01.01.2026 19:50h UTC Location: Tuzla Canton, Bo...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
 
 What made the discussion notable was not the footage itself — which remained inconclusive — but the comment pattern around it. Several users interpreted the movement as coordinated formation flying, while sceptical commenters argued the lights resembled aircraft viewed at distance or camera artefacts produced by zoom instability.
 
@@ -299,7 +299,7 @@ Importantly, the Tuzla discussion never produced corroborating radar data, indep
 
 ### Sarajevo Triangle Reports
 
-Several Sarajevo-area discussions describe triangular formations or “three-point” light arrangements. One Reddit thread centred on a claimed triangular object over the city generated immediate scepticism from commenters noting that “any three lights” naturally create a triangle shape from many viewing angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1mdkd8j/triangle_ufo_sighting_in_sarajevo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Triangle UFO sighting in Sarajevo</span><span class="citation-popover-snippet">RedditTriangle UFO sighting in SarajevoJuly 30, 2025 — Any three lights are always going to create a triangle configuration. Doesn&#x27;t dimi...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+Several Sarajevo-area discussions describe triangular formations or “three-point” light arrangements. One Reddit thread centred on a claimed triangular object over the city generated immediate scepticism from commenters noting that “any three lights” naturally create a triangle shape from many viewing angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1mdkd8j/triangle_ufo_sighting_in_sarajevo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Triangle UFO sighting in Sarajevo</span><span class="citation-popover-snippet">Triangle UFO sighting in SarajevoJuly 30, 2025 — Any three lights are always going to create a triangle configuration. Doesn&#x27;t dimi...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 This response reflects a broader trend in online Balkan UFO discussions: communities increasingly apply amateur debunking methods themselves. Rather than purely reinforcing extraordinary claims, comment sections frequently become spaces of technical argument about:
 
@@ -319,7 +319,7 @@ In practice, these debates often matter more than the original sighting because 
 
 ### The Persistence of Re-uploaded Footage
 
-A striking pattern in Bosnia-related UFO discussions is the repeated resurfacing of old footage. Videos allegedly recorded in 2009 around Prijedor have circulated for years across forums and social media platforms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1s2tcg5/ufo_bosnia_prijedor_2_footages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO Bosnia Prijedor: 2 Footages</span><span class="citation-popover-snippet">RedditUFO Bosnia Prijedor: 2 FootagesMarch 24, 2026 — Filmed on Thursday, May 28, 2009, in Prijedor Bosnia and Herzegovina by two differe...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+A striking pattern in Bosnia-related UFO discussions is the repeated resurfacing of old footage. Videos allegedly recorded in 2009 around Prijedor have circulated for years across forums and social media platforms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1s2tcg5/ufo_bosnia_prijedor_2_footages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO Bosnia Prijedor: 2 Footages</span><span class="citation-popover-snippet">UFO Bosnia Prijedor: 2 FootagesMarch 24, 2026 — Filmed on Thursday, May 28, 2009, in Prijedor Bosnia and Herzegovina by two differe...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
 
 These clips are repeatedly presented as “new evidence”, even though they have already undergone extensive online scrutiny. Commenters have disputed shadows, object scale, motion consistency, and editing quality. Some viewers argue the footage remains unexplained, while others classify it as likely CGI or staged imagery.
 
@@ -391,13 +391,13 @@ Reports after roughly 2018 increasingly overlap with consumer drone activity. Bo
 This technological shift complicates comparisons between modern and older reports. Some recent sightings that would once have appeared extraordinary are now plausibly attributable to coordinated drone lighting or stabilised hovering flight.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pDPFaZtCXpo" title="Back at it! 😮 Dragon Link slot machine 🎰" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pDPFaZtCXpo" target="_blank" rel="noopener noreferrer">Back at it! 😮 Dragon Link slot machine 🎰</a></p><p class="youtube-embed-meta">Channel: Casino Kelly</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pDPFaZtCXpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pDPFaZtCXpo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
 
 ## Cases That Triggered Scepticism
 
 Not all community reports remain unresolved. Several Bosnia-related UFO claims have later attracted strong sceptical responses.
 
-The most prominent example involves allegedly extraordinary footage linked to Sarajevo and Prijedor from the late 2000s. Online commenters pointed to similarities with promotional visual effects associated with a Sarajevo theatre festival and argued that local digital artists were experimenting with staged UFO imagery at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">RedditI analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span>
+The most prominent example involves allegedly extraordinary footage linked to Sarajevo and Prijedor from the late 2000s. Online commenters pointed to similarities with promotional visual effects associated with a Sarajevo theatre festival and argued that local digital artists were experimenting with staged UFO imagery at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span>
 
 This case highlights an important issue in Balkan UFO culture: the boundary between hoaxing, artistic experimentation, and genuine misidentification is often blurred. Viral clips may originate as creative projects but later become detached from their original context.
 
@@ -425,86 +425,44 @@ Bosnia and Herzegovina’s UFO discussion culture therefore reflects broader ten
 Within the wider Bosnia and Herzegovina UFO topic, these local accounts matter because they show how unexplained aerial narratives survive even without institutional investigation. They also demonstrate how digital communities increasingly shape the meaning of sightings long after the original observation itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Eyewitness and Local Accounts of Unexplained Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Eyewitness and Local Accounts of Unexplained Lights, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Focuses on witness traditions, stories and recurring reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Includes discussion of witness testimony and reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how eyewitness sightings are categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Helps readers assess anecdotal community reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -538,75 +496,71 @@ Within the wider Bosnia and Herzegovina UFO topic, these local accounts matter b
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-poster-book-books-serie&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -820,131 +774,131 @@ Within the wider Bosnia and Herzegovina UFO topic, these local accounts matter b
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPMay 1, 2026. On April 12, 2026 NUFORC received a report from a retired A...</p></details>
    Published: May 1, 2026  
 
 2. <a id="endnote-2"></a>
    Source: cuny.manifoldapp.org  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5](https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable database...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Bosnia and Herzegovina strange lights (p2): r/UFOs_Archive  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1q1cpcg/bosnia_and_herzegovina_strange_lights_p2/](https://www.reddit.com/r/UFOs_Archive/comments/1q1cpcg/bosnia_and_herzegovina_strange_lights_p2/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBosnia and Herzegovina strange lights (p2): r/UFOs_ArchiveJanuary 1, 2026 — Time: 01.01.2026 19:50h UTC Location: Tuzla Canton, Bo...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1q1cpcg/bosnia_and_herzegovina_strange_lights_p2/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1q1cpcg/bosnia_and_herzegovina_strange_lights_p2/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bosnia and Herzegovina strange lights (p2): r/UFOs_ArchiveJanuary 1, 2026 — Time: 01.01.2026 19:50h UTC Location: Tuzla Canton, Bo...</p></details>
    Published: January 1, 2026  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Triangle UFO sighting in Sarajevo  
-   Link: [https://www.reddit.com/r/UFOs/comments/1mdkd8j/triangle_ufo_sighting_in_sarajevo/](https://www.reddit.com/r/UFOs/comments/1mdkd8j/triangle_ufo_sighting_in_sarajevo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditTriangle UFO sighting in SarajevoJuly 30, 2025 — Any three lights are always going to create a triangle configuration. Doesn&#x27;t dimi...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mdkd8j/triangle_ufo_sighting_in_sarajevo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mdkd8j/triangle_ufo_sighting_in_sarajevo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangle UFO sighting in SarajevoJuly 30, 2025 — Any three lights are always going to create a triangle configuration. Doesn&#x27;t dimi...</p></details>
    Published: July 30, 2025  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: UFO Bosnia Prijedor: 2 Footages  
-   Link: [https://www.reddit.com/r/UFOs/comments/1s2tcg5/ufo_bosnia_prijedor_2_footages/](https://www.reddit.com/r/UFOs/comments/1s2tcg5/ufo_bosnia_prijedor_2_footages/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO Bosnia Prijedor: 2 FootagesMarch 24, 2026 — Filmed on Thursday, May 28, 2009, in Prijedor Bosnia and Herzegovina by two differe...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1s2tcg5/ufo_bosnia_prijedor_2_footages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s2tcg5/ufo_bosnia_prijedor_2_footages/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Bosnia Prijedor: 2 FootagesMarch 24, 2026 — Filmed on Thursday, May 28, 2009, in Prijedor Bosnia and Herzegovina by two differe...</p></details>
    Published: March 24, 2026  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: bosnia ufo two video sightings from prijedor  
-   Link: [https://www.reddit.com/r/UFOs/comments/wzayyp/bosnia_ufo_two_video_sightings_from_prijedor/](https://www.reddit.com/r/UFOs/comments/wzayyp/bosnia_ufo_two_video_sightings_from_prijedor/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/wzayyp/bosnia_ufo_two_video_sightings_from_prijedor/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wzayyp/bosnia_ufo_two_video_sightings_from_prijedor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bosnia UFO: Two Video Sightings From Prijedor, Bosnia 2009...When I look at these videos I see that they are very convincing but I have...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — This analysis suggests that orange, white, and red are the m...</p></details>
    Published: July 10, 2023  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/](https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2024 — “This is most definitely a CGI hoax. The International Theater Festival in Sarajevo was held in 2005, and &quot;announced&quot; i...</p></details>
    Published: January 7, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/u4iuas/ufo_caught_on_tape_in_bosnia_stabilized_and/](https://www.reddit.com/r/UFOs/comments/u4iuas/ufo_caught_on_tape_in_bosnia_stabilized_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/u4iuas/ufo_caught_on_tape_in_bosnia_stabilized_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/u4iuas/ufo_caught_on_tape_in_bosnia_stabilized_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO caught on tape in Bosnia stabilized and slowed downOne of the most common debunking explanations for UFO videos is that the object is...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1pabbem/why_were_so_many_ufos_covered_in_hundreds_of/](https://www.reddit.com/r/HighStrangeness/comments/1pabbem/why_were_so_many_ufos_covered_in_hundreds_of/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1pabbem/why_were_so_many_ufos_covered_in_hundreds_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1pabbem/why_were_so_many_ufos_covered_in_hundreds_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>about for a decade too. The UFO lights and the lights on...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1ssrn5s/unexplained_light_in_the_sky_caught_on_camera/](https://www.reddit.com/r/ufo/comments/1ssrn5s/unexplained_light_in_the_sky_caught_on_camera/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1ssrn5s/unexplained_light_in_the_sky_caught_on_camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ssrn5s/unexplained_light_in_the_sky_caught_on_camera/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Light in the Sky Caught on Camera 👀: r/ufoA mysterious light suddenly appeared in the night sky… and no one knows exactly wh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rqu6hg/my_gf_saw_these_strange_lights_flying_and_i_was/](https://www.reddit.com/r/UFOs/comments/1rqu6hg/my_gf_saw_these_strange_lights_flying_and_i_was/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rqu6hg/my_gf_saw_these_strange_lights_flying_and_i_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rqu6hg/my_gf_saw_these_strange_lights_flying_and_i_was/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These were everywhere in the late &#x27;90s/early &#x27;00s. The Xennial equivalent of the Lava Lamp...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: sarajevo 1995a city under siege for 1425 days a place where ordinary streets bec  
-   Link: [https://www.facebook.com/DogsAreFamily/posts/sarajevo-1995a-city-under-siege-for-1425-days-a-place-where-ordinary-streets-bec/1029990169360263/](https://www.facebook.com/DogsAreFamily/posts/sarajevo-1995a-city-under-siege-for-1425-days-a-place-where-ordinary-streets-bec/1029990169360263/)  
+   Link: <a href="https://www.facebook.com/DogsAreFamily/posts/sarajevo-1995a-city-under-siege-for-1425-days-a-place-where-ordinary-streets-bec/1029990169360263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DogsAreFamily/posts/sarajevo-1995a-city-under-siege-for-1425-days-a-place-where-ordinary-streets-bec/1029990169360263/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sarajevo, 1995. A city under siege...Sniper Alley, the most dangerous stretch of road in the besieged city, was lined with Serbian snipe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: huggingface.co  
    Title: kcimc/NUFORC · Datasets at Hugging Face NUFORC  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of the data is nuforc.json, but I also converted...</p></details>
    Published: January 16, 2024  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: How to investigate a UFO sighting  
-   Link: [https://www.youtube.com/watch?v=54_bxf7n3Oo](https://www.youtube.com/watch?v=54_bxf7n3Oo)  
+   Link: <a href="https://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of eyewitness testimony and memory...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Psychology of eyewitness testimony and memory  
-   Link: [https://www.youtube.com/watch?v=E5W-r8s8B2M](https://www.youtube.com/watch?v=E5W-r8s8B2M)  
+   Link: <a href="https://www.youtube.com/watch?v=E5W-r8s8B2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E5W-r8s8B2M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking viral UFO videos and media...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Debunking viral UFO videos and media  
-   Link: [https://www.youtube.com/watch?v=uK8k01p1y0c](https://www.youtube.com/watch?v=uK8k01p1y0c)  
+   Link: <a href="https://www.youtube.com/watch?v=uK8k01p1y0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uK8k01p1y0c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to analyze amateur UFO footage...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to analyze amateur UFO footage  
-   Link: [https://www.youtube.com/watch?v=5L9l7T-m0j0](https://www.youtube.com/watch?v=5L9l7T-m0j0)  
+   Link: <a href="https://www.youtube.com/watch?v=5L9l7T-m0j0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5L9l7T-m0j0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating evidence in UFO reporting...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Evaluating evidence in UFO reporting  
-   Link: [https://www.youtube.com/watch?v=T1n289T92rI](https://www.youtube.com/watch?v=T1n289T92rI)  
+   Link: <a href="https://www.youtube.com/watch?v=T1n289T92rI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T1n289T92rI</a>  

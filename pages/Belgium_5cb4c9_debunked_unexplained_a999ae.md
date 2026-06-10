@@ -243,7 +243,7 @@ next_link:
   permalink: /military-radar-records/
   short_title: Military Radar Records
   heading_title: Belgian Air Force Radar and F 16 Reports
-date: '2026-06-09 01:18:08 '
+date: '2026-06-10 01:43:25 '
 header:
   og_image: /assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-social.jpg
   preview_image: /assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1.webp
@@ -252,7 +252,7 @@ image: /assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-
 
 ## Introduction
 
-[Belgium]({{ 'what-really-happened-during-belgiums/' | relative_url }})’s UFO history is unusual because it contains both some of Europe’s most heavily publicised unexplained sightings and one of the field’s most famous admitted hoaxes. The country’s 1989–1990 “Belgian UFO wave” generated thousands of reports, [military radar]({{ 'military-radar-records/' | relative_url }}) investigations, police testimony, and enduring debate over silent triangular craft seen across Wallonia and near Brussels. Yet the same period also produced the Petit-Rechain photograph, long promoted as strong evidence before its creator confessed to fabricating it with painted polystyrene and small lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters That combination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span>— credible witnesses alongside flawed evidence and unresolved incidents — explains why Belgium remains central to discussions about unidentified aerial phenomena. Sceptics argue the wave demonstrates media amplification, misidentification, and psychosocial contagion. Others maintain that parts of the case file, especially the March 1990 radar events and clustered witness testimony, still resist a definitive explanation. The controversy is not merely about whether unusual objects existed, but about how evidence should be weighed when official records, eyewitness accounts, hoaxes, and uncertain sensor data collide.
+Belgium’s UFO history is unusual because it contains both some of Europe’s most heavily publicised unexplained sightings and one of the field’s most famous admitted hoaxes. The country’s 1989–1990 “Belgian UFO wave” generated thousands of reports, military radar investigations, police testimony, and enduring debate over silent triangular craft seen across Wallonia and near Brussels. Yet the same period also produced the Petit-Rechain photograph, long promoted as strong evidence before its creator confessed to fabricating it with painted polystyrene and small lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters That combination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span>— credible witnesses alongside flawed evidence and unresolved incidents — explains why Belgium remains central to discussions about unidentified aerial phenomena. Sceptics argue the wave demonstrates media amplification, misidentification, and psychosocial contagion. Others maintain that parts of the case file, especially the March 1990 radar events and clustered witness testimony, still resist a definitive explanation. The controversy is not merely about whether unusual objects existed, but about how evidence should be weighed when official records, eyewitness accounts, hoaxes, and uncertain sensor data collide.
 
 
 <img src="{{ "/assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-dark.svg" | relative_url }}" alt="Debunked &amp; Unexplained illustration 1" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -260,7 +260,7 @@ image: /assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-
 
 For more than two decades, the Petit-Rechain image was treated by many UFO researchers as one of the strongest visual artefacts linked to the Belgian wave. The photograph appeared to show a dark triangular craft with illuminated corners hovering over Belgium during the height of the sightings. Analysts examined the image repeatedly, and some supporters pointed to the inability of investigators to conclusively debunk it as proof of authenticity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-The photograph’s collapse in 2011 dramatically altered perceptions of Belgian UFO evidence. Patrick Maréchal publicly demonstrated how he created the object from a triangular piece of painted styrofoam suspended on string with small lamps attached. Reuters and other outlets reported the confession widely, emphasising that a supposedly iconic UFO image had been fabricated with simple materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span>
+The photograph’s collapse in 2011 dramatically altered perceptions of Belgian UFO evidence. Patrick Maréchal publicly demonstrated how he created the object from a triangular piece of painted styrofoam suspended on string with small lamps attached. Reuters and other outlets reported the confession widely, emphasising that a supposedly iconic UFO image had been fabricated with simple materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span>
 
 The significance of the hoax went beyond a single fake image.
 
@@ -276,7 +276,7 @@ Several wider consequences followed:
 
 </div>
 
-Yet the confession did not fully settle the debate. Some UFO enthusiasts later argued the retraction itself was suspicious or coerced, a claim still visible in online communities and social media discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Worlds Most Famous UFO photograph is NOT a Hoax</span><span class="citation-popover-snippet">RedditWorlds Most Famous UFO photograph is NOT a Hoax...July 8, 2022 — Worlds Most Famous UFO photograph is NOT a Hoax (Belgian Petit-Re...</span><span class="citation-popover-meta">Published: July 8, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">worlds most famous ufo photograph is not a hoax</span><span class="citation-popover-snippet">In 1990, during the Belgian UFO flap, one of the most famous UFO photographs ever taken, occurred over a village called Petit-Rechain.Rea...</span></span></span> These arguments generally rely on speculation rather than new physical evidence, but they illustrate a recurring feature of UFO culture: once a case becomes iconic, it can remain contested even after direct admissions of fabrication.
+Yet the confession did not fully settle the debate. Some UFO enthusiasts later argued the retraction itself was suspicious or coerced, a claim still visible in online communities and social media discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Worlds Most Famous UFO photograph is NOT a Hoax</span><span class="citation-popover-snippet">Worlds Most Famous UFO photograph is NOT a Hoax...July 8, 2022 — Worlds Most Famous UFO photograph is NOT a Hoax (Belgian Petit-Re...</span><span class="citation-popover-meta">Published: July 8, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">worlds most famous ufo photograph is not a hoax</span><span class="citation-popover-snippet">In 1990, during the Belgian UFO flap, one of the most famous UFO photographs ever taken, occurred over a village called Petit-Rechain.Rea...</span></span></span> These arguments generally rely on speculation rather than new physical evidence, but they illustrate a recurring feature of UFO culture: once a case becomes iconic, it can remain contested even after direct admissions of fabrication.
 
 The Petit-Rechain episode is therefore important not only as a hoax, but as a case study in how UFO narratives survive correction.
 
@@ -285,7 +285,7 @@ The Petit-Rechain episode is therefore important not only as a hoax, but as a ca
 
 ## Why the March 1990 Radar Intercepts Remain Contested
 
-The strongest argument that Belgium’s UFO wave cannot be dismissed entirely comes from the night of 30–31 March 1990, when the Belgian Air Force scrambled F-16 fighter jets after reports of unusual aerial activity. Radar operators recorded intermittent contacts, and the military later released summaries of the operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/50119301/general-de-brouwer-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd For believers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">general de brouwer statement</span><span class="citation-popover-snippet">Belgian UFO Wave: 1989-1990 Report | PDFThe Belgian Air Force tried to identify the alleged intruder(s) and, on three occasions, launched...</span></span></span>, the event remains compelling because it involved:
+The strongest argument that Belgium’s UFO wave cannot be dismissed entirely comes from the night of 30–31 March 1990, when the Belgian Air Force scrambled F-16 fighter jets after reports of unusual aerial activity. Radar operators recorded intermittent contacts, and the military later released summaries of the operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/50119301/general-de-brouwer-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd For believers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">general de brouwer statement</span><span class="citation-popover-snippet">Belgian UFO Wave: 1989-1990 Report &#124; PDFThe Belgian Air Force tried to identify the alleged intruder(s) and, on three occasions, launched...</span></span></span>, the event remains compelling because it involved:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -385,7 +385,7 @@ That layered interpretation has become increasingly common because it accommodat
 
 ## Recent Belgian UFO Reports and the Persistence of Uncertainty
 
-Belgium did not stop producing UFO reports after the 1990 wave. Sighting databases and reporting centres continue to receive claims of unusual aerial objects, although modern cases rarely achieve the same cultural impact. Belgian reporting organisations and media outlets have noted ongoing annual reports involving unexplained lights, hovering objects, and unusual aerial behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe Belgian UFO Reporting Centre has been analysing...The Belgian UFO Reporting Centre has been analysing strange aerial phenome...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[The Brussels Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">reports of ufos sightings on the rise in belgium with spike reported in march</span><span class="citation-popover-snippet">The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</span></span></span>
+Belgium did not stop producing UFO reports after the 1990 wave. Sighting databases and reporting centres continue to receive claims of unusual aerial objects, although modern cases rarely achieve the same cultural impact. Belgian reporting organisations and media outlets have noted ongoing annual reports involving unexplained lights, hovering objects, and unusual aerial behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Belgian UFO Reporting Centre has been analysing...The Belgian UFO Reporting Centre has been analysing strange aerial phenome...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[The Brussels Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">reports of ufos sightings on the rise in belgium with spike reported in march</span><span class="citation-popover-snippet">The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</span></span></span>
 
 The modern era creates a paradox for UFO research in Belgium.
 
@@ -414,86 +414,44 @@ The Petit-Rechain photograph demonstrates how even celebrated evidence can colla
 Rather than proving extraterrestrial visitation or disproving all anomalous experiences, the Belgian record exposes the difficulty of separating signal from noise in aerial mystery reports. Some claims were conclusively false. Some were probably ordinary events transformed by expectation and publicity. A smaller number remain genuinely unresolved because the available evidence is incomplete, contradictory, or too limited to support firm conclusions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Contested and Unexplained UFO Phenomena in Belgium. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Contested and Unexplained UFO Phenomena in Belgium, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses evaluation of evidence and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Examines disputed and unexplained UFO claims scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Balances official testimony with evidentiary discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides skeptical tools for assessing extraordinary claims and hoaxes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -527,43 +485,71 @@ Rather than proving extraterrestrial visitation or disproving all anomalous expe
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Patch (Iron-On), Area 51 Tour Guide Alien Head UFO, 3&quot; x 3&quot;"><img src="{{ '/assets/images/marketplace-covers/46ccf1e637dd246d5378.jpg' | relative_url }}" alt="Listing image for Embroidered Patch (Iron-On), Area 51 Tour Guide Alien Head UFO, 3&quot; x 3&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Embroidered Patch (Iron-On), Area 51 Tour Guide Alien Head UFO, 3&quot; x 3&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for black triangle UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: black triangle UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/c37edcdff23308ac7122.jpg' | relative_url }}" alt="Listing image for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for black triangle UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: black triangle UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-t-shirt-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-t-shirt-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-t-shirt-gerry-anderson-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-t-shirt-gerry-anderson-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=black+triangle+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="black triangle UFO patch" data-ebay-reference="debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-black-triangle-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-unexplained-contested-and-unexplained-ufo-phenomena-in-belgium-belgium-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -778,176 +764,176 @@ Rather than proving extraterrestrial visitation or disproving all anomalous expe
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: hit ufo image was polystyrene says forger id USTRE76Q3MI  
-   Link: [https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/](https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</p></details>
+   Link: <a href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Worlds Most Famous UFO photograph is NOT a Hoax  
-   Link: [https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/](https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWorlds Most Famous UFO photograph is NOT a Hoax...July 8, 2022 — Worlds Most Famous UFO photograph is NOT a Hoax (Belgian Petit-Re...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Worlds Most Famous UFO photograph is NOT a Hoax...July 8, 2022 — Worlds Most Famous UFO photograph is NOT a Hoax (Belgian Petit-Re...</p></details>
    Published: July 8, 2022  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: worlds most famous ufo photograph is not a hoax  
-   Link: [https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/](https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1990, during the Belgian UFO flap, one of the most famous UFO photographs ever taken, occurred over a village called Petit-Rechain.Rea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/](https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>money to lie and say that he forged the photo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
    Title: general de brouwer statement  
-   Link: [https://www.scribd.com/doc/50119301/general-de-brouwer-statement](https://www.scribd.com/doc/50119301/general-de-brouwer-statement)  
+   Link: <a href="https://www.scribd.com/doc/50119301/general-de-brouwer-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/50119301/general-de-brouwer-statement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave: 1989-1990 Report | PDFThe Belgian Air Force tried to identify the alleged intruder(s) and, on three occasions, launched...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Belgium  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium](https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium</a>  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: ufo wave in belgium 1990 see comments  
-   Link: [https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/](https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO wave in Belgium 1990? (See comments): r/aliensThe Belgian Air Force tried to identify the alleged intruder(s) and, on three occasion...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/](https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe Belgian UFO Reporting Centre has been analysing...The Belgian UFO Reporting Centre has been analysing strange aerial phenome...</p></details>
+   Link: <a href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Reporting Centre has been analysing...The Belgian UFO Reporting Centre has been analysing strange aerial phenome...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Some of the most credible and widespread sightings  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/](https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSome of the most credible and widespread sightings...January 27, 2021 — I openly admit that I want aliens to exist and to have bee...</p></details>
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the most credible and widespread sightings...January 27, 2021 — I openly admit that I want aliens to exist and to have bee...</p></details>
    Published: January 27, 2021  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aiswla/the_belgian_wave_incident_did_a_disinfo_agent/](https://www.reddit.com/r/UFOs/comments/1aiswla/the_belgian_wave_incident_did_a_disinfo_agent/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aiswla/the_belgian_wave_incident_did_a_disinfo_agent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aiswla/the_belgian_wave_incident_did_a_disinfo_agent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian Wave Incident: Did a Disinfo Agent Purposely...The Belgium UFO Wave (1989–1990): 13,500 witnesses, two F-16 intercepts, and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cppypp/brussels_times_hundreds_of_reported_ufo_sightings/](https://www.reddit.com/r/UFOs/comments/1cppypp/brussels_times_hundreds_of_reported_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cppypp/brussels_times_hundreds_of_reported_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cppypp/brussels_times_hundreds_of_reported_ufo_sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds of reported UFO sightings in BelgiumFootage on Enigma&#x27;s website shows a UAP sighting in the municipality of Hoeselt in the Limbu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographsUFO skeptics have concluded that the photos are a hoax, but many ufologists... &quot;&quot;Classic&quot; UFO Photo from Belgian Wave...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: brusselstimes.com  
    Title: reports of ufos sightings on the rise in belgium with spike reported in march  
-   Link: [https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march](https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march)  
+   Link: <a href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: brusselstimes.com  
-   Link: [https://www.brusselstimes.com/1041838/hundreds-of-reported-ufo-sightings-in-belgium](https://www.brusselstimes.com/1041838/hundreds-of-reported-ufo-sightings-in-belgium)  
+   Link: <a href="https://www.brusselstimes.com/1041838/hundreds-of-reported-ufo-sightings-in-belgium" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/1041838/hundreds-of-reported-ufo-sightings-in-belgium</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brussels TimesHundreds of reported UFO sightings in Belgium11 May 2024 — Since 2022, Enigma data shows 349 UFO sightings from Belgium...</p></details>
    Published: May 2024  
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/belgian](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/belgian)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/belgian" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/belgian</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge Dictionarybelonging to or relating to Belgium or its people · 比利時的;比利時人的. Belgian. noun [ C ]. uk. You...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unsolved.com  
    Title: Belgian UFO  
-   Link: [https://unsolved.com/gallery/belgian-ufo/](https://unsolved.com/gallery/belgian-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesWith confirmations from four radar stations, two F-16s from the Belgian Air Force were immediately deployed. Their miss...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: timecyclopedia.com  
    Title: Belgian UFO Wave  
-   Link: [https://timecyclopedia.com/entry/uap-sighting-belgian-wave-1989](https://timecyclopedia.com/entry/uap-sighting-belgian-wave-1989)  
+   Link: <a href="https://timecyclopedia.com/entry/uap-sighting-belgian-wave-1989" target="_blank" rel="noopener noreferrer nofollow">https://timecyclopedia.com/entry/uap-sighting-belgian-wave-1989</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2026 — Notable FactThe Belgian Air Force scrambled two F-16 fighter jets to intercept an unidentified object, and the pilots obta...</p></details>
    Published: May 14, 2026  
 
 19. <a id="endnote-19"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/shapes.htm](https://www.marcellocatalano.com/shapes.htm)  
+   Link: <a href="https://www.marcellocatalano.com/shapes.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/shapes.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Credible sightings arranged by shapeOn that night, one unknown object was tracked on radar, and two Belgian Air Force F-16s were s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ufoinsight.com  
    Title: belgian ufo wave  
-   Link: [https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave](https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave)  
+   Link: <a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>photograph that could prove to be one of the most important in UFO history.... picture to be nothing but a hoax. And these accusations w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Belgium UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO](https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki | FandomMany skeptics believe that the Belgian sightings were just mass UFO hysteria, and that the radar re...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: cobeps.org  
-   Link: [https://www.cobeps.org/pdf/belgian_wave_130310.pdf](https://www.cobeps.org/pdf/belgian_wave_130310.pdf)  
+   Link: <a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian Ufo waveTwo FAB F-16 planes were scrambled in pursuit of a (at start, a group of) supposed UFO(s) that were said to be simultaneo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: x.com  
-   Link: [https://x.com/rosscoulthart/status/1863796156301803656](https://x.com/rosscoulthart/status/1863796156301803656)  
+   Link: <a href="https://x.com/rosscoulthart/status/1863796156301803656" target="_blank" rel="noopener noreferrer nofollow">https://x.com/rosscoulthart/status/1863796156301803656</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diligent Australian @mufon investigator @RogerStankovic...... Belgian UFO #UAP wave was a hoax. The photographer Patrick Marechal... ph...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751](https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751)  
+   Link: <a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...A famous Belgian Black Triangle photo was later disowned; “carrier-deck” and “con...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Search. Search Search. Back; Home; Place Holder; News · Press Products... release unresolved UAP-related records and historical document...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: [https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave](https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave)  
+   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — 30 years later, we still don&#x27;t know what really happened during the Belgian UFO wave...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wblYKwcpMbc](https://www.youtube.com/watch?v=wblYKwcpMbc)  
+   Link: <a href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wblYKwcpMbc</a>  
 
 28. <a id="endnote-28"></a>
    Source: thetimes.com  
    Title: belgian ufo sighting memorial removed at familys request 7mmv2bbqh  
-   Link: [https://www.thetimes.com/world/europe/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh](https://www.thetimes.com/world/europe/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh)  
+   Link: <a href="https://www.thetimes.com/world/europe/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/europe/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO sighting memorial removed at family&#x27;s request01 Oct 2025 — The marble monument was removed at the request of the family of Ma...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: bignewsnetwork.com  
    Title: belgium keeps chasing ufos and belgians keep paying for it  
-   Link: [https://www.bignewsnetwork.com/news/279014867/belgium-keeps-chasing-ufos-and-belgians-keep-paying-for-it](https://www.bignewsnetwork.com/news/279014867/belgium-keeps-chasing-ufos-and-belgians-keep-paying-for-it)  
+   Link: <a href="https://www.bignewsnetwork.com/news/279014867/belgium-keeps-chasing-ufos-and-belgians-keep-paying-for-it" target="_blank" rel="noopener noreferrer nofollow">https://www.bignewsnetwork.com/news/279014867/belgium-keeps-chasing-ufos-and-belgians-keep-paying-for-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium keeps chasing UFOs, and Belgians keep paying...28 Apr 2026 — Brussels saw strange lights, screamed &quot;Putin!&quot;, and torched 50 mill...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sciforums.com  
    Title: the belgian flap 1989 the skeptical analysis 1.31307  
-   Link: [https://www.sciforums.com/threads/the-belgian-flap-1989-the-skeptical-analysis-1.31307/](https://www.sciforums.com/threads/the-belgian-flap-1989-the-skeptical-analysis-1.31307/)  
+   Link: <a href="https://www.sciforums.com/threads/the-belgian-flap-1989-the-skeptical-analysis-1.31307/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciforums.com/threads/the-belgian-flap-1989-the-skeptical-analysis-1.31307/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the belgian flap 1989 - the skeptical analysis (1)INTRODUCTION: [A] This report provides the full picture of the reports of the involved...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm](https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — Over the past decades, UFO sightings became synonymous with aliens. Reports from pilots, military personnel, and c...</p></details>

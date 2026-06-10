@@ -1185,7 +1185,7 @@ next_link:
   title: Ivoire UFOs
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
-date: '2026-06-09 01:23:47 '
+date: '2026-06-10 01:48:18 '
 header:
   og_image: /assets/images/Central_African_Repu_358788-overview-social.jpg
   preview_image: /assets/images/Central_African_Repu_358788-overview.webp
@@ -1218,7 +1218,7 @@ Local media constraints further complicate the record. Reporting on Central Afri
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-1-dark.svg" | relative_url }}" alt="Central African Republic illustration 1" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2022 unidentified aircraft strike: a real case, but not a paranormal one
 
-The [November 2022 strike]({{ '2022-strike/' | relative_url }}) is the strongest concrete aerial incident tied to the country. It appears in aviation-risk monitoring because it could affect civil or humanitarian flights, not because it was treated as an unexplained object in the ufological sense. Safe Airspace describes an unidentified aircraft dropping bombs 150 nautical miles north of Bangui; Military Africa described a strike against Central African and Wagner-linked forces and assessed that Chad may have been involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
+The November [2022 strike]({{ '2022-strike/' | relative_url }}) is the strongest concrete aerial incident tied to the country. It appears in aviation-risk monitoring because it could affect civil or humanitarian flights, not because it was treated as an unexplained object in the ufological sense. Safe Airspace describes an unidentified aircraft dropping bombs 150 nautical miles north of Bangui; Military Africa described a strike against Central African and Wagner-linked forces and assessed that Chad may have been involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
 
 For readers comparing Central African Republic with sibling country pages in an African UFO project, this is an important distinction. Some national UFO pages revolve around civilian witnesses, school sightings, pilots, or photographic claims. Central African Republic’s best-attested “unidentified flying object” material is instead entangled with war, airspace control, and attribution. It is a reminder that “UFO” originally means an unidentified object in the sky; it does not automatically imply alien craft, unknown physics, or a close encounter.
 
@@ -1250,7 +1250,7 @@ The anomaly matters to a UFO-focused page because it is a good example of a genu
 
 If a new Central African Republic UFO report appeared, the first checks should be ordinary but rigorous. The country’s geography and security environment make several explanations plausible before reaching for extraordinary ones.
 
-**Military and security aircraft.** Central African Republic has seen national forces, UN peacekeepers, foreign military partners, humanitarian aviation, and conflict-related aircraft activity. Unidentified aircraft in such an environment can reflect attribution gaps, not anomalous performance. The [2022 strike]({{ '2022-strike/' | relative_url }}) north of Bangui is the clearest example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
+**Military and security aircraft.** Central African Republic has seen national forces, UN peacekeepers, foreign military partners, humanitarian aviation, and conflict-related aircraft activity. Unidentified aircraft in such an environment can reflect attribution gaps, not anomalous performance. The 2022 strike north of Bangui is the clearest example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
 
 **Civil and humanitarian flights around Bangui.** Bangui M’Poko is the main international airport and an airport of entry, and aviation sources list it as the country’s primary airport serving the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalweather.com">[Universal Weather and Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalweather.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Aircraft lights, approach paths, cargo flights, and irregular security-related movements can all produce reports that sound unusual when seen from the ground without flight data.
 
@@ -1291,86 +1291,44 @@ The most honest assessment is that Central African Republic is currently a thin-
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" alt="Central African Republic illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Counts as a UFO in CAR?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Counts as a UFO in CAR?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
-        
-        <p class="fr-book-desc">Helps readers distinguish unidentified observations from extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how reports become classified as UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful broad foundation where country-specific UFO literature is extremely limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding cultural interpretation of unusual aerial stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1404,75 +1362,71 @@ The most honest assessment is that Central African Republic is currently a thin-
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=central-african-republic-what-counts-as-a-ufo-in-car-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1687,182 +1641,182 @@ The most honest assessment is that Central African Republic is currently a thin-
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report](https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report)  
+   Link: <a href="https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report</a>  
 
 3. <a id="endnote-3"></a>
    Source: military.africa  
-   Link: [https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/](https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/)  
+   Link: <a href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow">https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/</a>  
 
 4. <a id="endnote-4"></a>
    Source: state.gov  
    Title: Department Central African Republic  
-   Link: [https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic](https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic)  
+   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic</a>  
 
 5. <a id="endnote-5"></a>
    Source: datareportal.com  
    Title: digital 2025 central african republic  
-   Link: [https://datareportal.com/reports/digital-2025-central-african-republic](https://datareportal.com/reports/digital-2025-central-african-republic)  
+   Link: <a href="https://datareportal.com/reports/digital-2025-central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-central-african-republic</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Congressional/Press Products...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X](https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/Multimedia/Videos?videoid=1006159](https://www.war.gov/Multimedia/Videos?videoid=1006159)  
+   Link: <a href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos?videoid=1006159</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos | U.S. Department of War...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072](https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072</a>  
 
 12. <a id="endnote-12"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
 13. <a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19770018759](https://ntrs.nasa.gov/citations/19770018759)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19770018759" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19770018759</a>  
 
 14. <a id="endnote-14"></a>
    Source: time.com  
    Title: flooding central african republic  
-   Link: [https://time.com/5753900/flooding-central-african-republic/](https://time.com/5753900/flooding-central-african-republic/)  
+   Link: <a href="https://time.com/5753900/flooding-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5753900/flooding-central-african-republic/</a>  
 
 15. <a id="endnote-15"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/publication/ofr781006](https://pubs.usgs.gov/publication/ofr781006)  
+   Link: <a href="https://pubs.usgs.gov/publication/ofr781006" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/ofr781006</a>  
 
 17. <a id="endnote-17"></a>
    Source: 2021-2025.state.gov  
    Title: ICS AF Central African Republic Public  
-   Link: [https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf](https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf)  
+   Link: <a href="https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: state.gov  
    Title: Central African Republic  
-   Link: [https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic](https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic)  
+   Link: <a href="https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Bangui Magnetic Anomaly  
-   Link: [https://www.youtube.com/watch?v=Y3vKUkjFhvI](https://www.youtube.com/watch?v=Y3vKUkjFhvI)  
+   Link: <a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y3vKUkjFhvI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Knows... 7 Mysteries Science Can&#x27;t Explain...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: safeairspace.net  
    Title: Safe Airspace Risk  
-   Link: [https://safeairspace.net/summary/](https://safeairspace.net/summary/)  
+   Link: <a href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/summary/</a>  
 
 21. <a id="endnote-21"></a>
    Source: odihpn.org  
    Title: supporting local media in the central african republic  
-   Link: [https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/](https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/)  
+   Link: <a href="https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/</a>  
 
 22. <a id="endnote-22"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui](https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui)  
+   Link: <a href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui</a>  
 
 23. <a id="endnote-23"></a>
    Source: agupubs.onlinelibrary.wiley.com  
    Title: AGU Publications The Bangui Magnetic Anomaly: Its geological origin  
-   Link: [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107)  
+   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107</a>  
 
 24. <a id="endnote-24"></a>
    Source: universalweather.com  
-   Link: [https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/](https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/)  
+   Link: <a href="https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/</a>  
 
 25. <a id="endnote-25"></a>
    Source: techafricanews.com  
    Title: Tech Africa News Starlink Officially Launches in the Central African Republic  
-   Link: [https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/](https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/)  
+   Link: <a href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow">https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/</a>  
 
 26. <a id="endnote-26"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/fireballs/](https://www.imo.net/observations/fireballs/fireballs/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Bangui magnetic anomaly  
-   Link: [https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly](https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly</a>  
 
 28. <a id="endnote-28"></a>
    Source: safeairspace.net  
-   Link: [https://safeairspace.net/map/](https://safeairspace.net/map/)  
+   Link: <a href="https://safeairspace.net/map/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/map/</a>  
 
 29. <a id="endnote-29"></a>
    Source: snap.berkeley.edu  
-   Link: [https://snap.berkeley.edu/project/11166188](https://snap.berkeley.edu/project/11166188)  
+   Link: <a href="https://snap.berkeley.edu/project/11166188" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/11166188</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: [https://www.youtube.com/watch?v=u4v6rSzXPjU](https://www.youtube.com/watch?v=u4v6rSzXPjU)  
+   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO / DoD UAP Footage – PR 018, Unresolved UAP Report, Europe 2024...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=w3AQpVRHjzg](https://www.youtube.com/watch?v=w3AQpVRHjzg)  
+   Link: <a href="https://www.youtube.com/watch?v=w3AQpVRHjzg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3AQpVRHjzg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7](https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7</a>  
 
 34. <a id="endnote-34"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf](https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: businessmirror.com.ph  
-   Link: [https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/](https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/)  
+   Link: <a href="https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa](https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa)  
+   Link: <a href="https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa</a>  
 
 37. <a id="endnote-37"></a>
    Source: gettyimages.com  
-   Link: [https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761](https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761)  
+   Link: <a href="https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/](https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/)  
+   Link: <a href="https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/](https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/</a>  

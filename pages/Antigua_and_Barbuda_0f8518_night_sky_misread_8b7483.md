@@ -245,7 +245,7 @@ next_link:
   permalink: /two-reports/
   short_title: Two Reports
   heading_title: How Strong Are Antigua's Two UFO Reports?
-date: '2026-06-09 01:12:18 '
+date: '2026-06-10 01:37:04 '
 header:
   og_image: /assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-social.jpg
   preview_image: /assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1.webp
@@ -290,7 +290,7 @@ Aircraft approaching the runway can produce several effects commonly mistaken fo
 
 These impressions become especially strong when aircraft are viewed from beaches or elevated roads after sunset. With little visual context, a commercial airliner can look like a hovering orb rather than a fast-moving jet.
 
-Aviation tracking services show how active the airport can be, especially during tourist seasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/anu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Flightradar24Antigua V. C. Bird International Airport (ANU/TAPA)Antigua V. C. Bird International Airport, (ANU/TAPA), Antigua And Barbuda...</span></span></span> Even moderate traffic levels create repeated opportunities for misidentification.
+Aviation tracking services show how active the airport can be, especially during tourist seasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/anu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Antigua V. C. Bird International Airport (ANU/TAPA)Antigua V. C. Bird International Airport, (ANU/TAPA), Antigua And Barbuda...</span></span></span> Even moderate traffic levels create repeated opportunities for misidentification.
 
 ### Head-On Flight Paths and “Hovering” Lights
 
@@ -341,7 +341,7 @@ To observers unfamiliar with satellite trains, the effect can appear artificial 
 
 Individual satellites can also produce sudden bright flashes when their reflective surfaces catch sunlight at the correct angle. These flashes may appear random from the ground and are often described in UFO reports as “blinking”, “pulsing”, or “signalling”.
 
-Scientific work on Starlink visibility confirms that satellite brightness can surge under specific lighting conditions, especially during twilight and early night hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2107.06026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Sky Brightness Model for the Starlink &#x27;Visorsat&#x27; Spacecraft</span><span class="citation-popover-snippet">arXivA Sky Brightness Model for the Starlink &#x27;Visorsat&#x27; SpacecraftJuly 13, 2021...</span><span class="citation-popover-meta">Published: July 13, 2021</span></span></span>
+Scientific work on Starlink visibility confirms that satellite brightness can surge under specific lighting conditions, especially during twilight and early night hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2107.06026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Sky Brightness Model for the Starlink &#x27;Visorsat&#x27; Spacecraft</span><span class="citation-popover-snippet">A Sky Brightness Model for the Starlink &#x27;Visorsat&#x27; SpacecraftJuly 13, 2021...</span><span class="citation-popover-meta">Published: July 13, 2021</span></span></span>
 
 That behaviour closely resembles descriptions in some Caribbean sighting accounts involving intermittent flashes over open water.
 
@@ -447,86 +447,44 @@ Those conditions increase the number of visually striking events while reducing 
 As a result, many reports remain ambiguous at first glance but weaken under closer examination. The pattern fits a small-island environment where ordinary aerial activity becomes visually dramatic against dark Caribbean skies rather than a location with a large archive of highly corroborated anomalous encounters.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Do Antigua&#x27;s Night Lights Look Strange?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Do Antigua&#x27;s Night Lights Look Strange?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
-        
-        <p class="fr-book-desc">Explains celestial objects and sky events commonly mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps identify satellites, meteors, planets, and atmospheric phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between strong cases and common visual misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Explores how unusual lights become enduring mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -560,75 +518,71 @@ As a result, many reports remain ambiguous at first glance but weaken under clos
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-t-shirt-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-why-do-antigua-s-night-lights-look-strange-antigua-and-barbuda-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -842,132 +796,132 @@ As a result, many reports remain ambiguous at first glance but weaken under clos
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29](https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana (mirage)The Fata Morgana, Chief Horner explained, is an optical illusion caused when the air is clear by the fact that th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: V. C. Bird International Airport  
-   Link: [https://en.wikipedia.org/wiki/V._C._Bird_International_Airport](https://en.wikipedia.org/wiki/V._C._Bird_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/V._C._Bird_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/V._C._Bird_International_Airport</a>  
 
 3. <a id="endnote-3"></a>
    Source: vcbia.com  
-   Link: [https://vcbia.com/](https://vcbia.com/)  
+   Link: <a href="https://vcbia.com/" target="_blank" rel="noopener noreferrer nofollow">https://vcbia.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bird International AirportV.C. Bird International Airport – Antigua &amp; Barbuda welcomes...Welcome to V.C. BIRD International Airport · Se...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/data/airports/anu](https://www.flightradar24.com/data/airports/anu)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24Antigua V. C. Bird International Airport (ANU/TAPA)Antigua V. C. Bird International Airport, (ANU/TAPA), Antigua And Barbuda...</p></details>
+   Link: <a href="https://www.flightradar24.com/data/airports/anu" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/anu</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigua V. C. Bird International Airport (ANU/TAPA)Antigua V. C. Bird International Airport, (ANU/TAPA), Antigua And Barbuda...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: islandpressbox.com  
    Title: Island Press Box  
-   Link: [https://islandpressbox.com/starlink-satellite-lights-up-the-skies/](https://islandpressbox.com/starlink-satellite-lights-up-the-skies/)  
+   Link: <a href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://islandpressbox.com/starlink-satellite-lights-up-the-skies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Details MatterStarlink Satellite Lights up the SkiesMarch 11, 2024 — 11 Mar 2024 — In a spectacle that left residents of Antigua and...</p></details>
    Published: March 11, 2024  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv A Sky Brightness Model for the Starlink 'Visorsat' Spacecraft  
-   Link: [https://arxiv.org/abs/2107.06026](https://arxiv.org/abs/2107.06026)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Sky Brightness Model for the Starlink &#x27;Visorsat&#x27; SpacecraftJuly 13, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2107.06026" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.06026</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Sky Brightness Model for the Starlink &#x27;Visorsat&#x27; SpacecraftJuly 13, 2021...</p></details>
    Published: July 13, 2021  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: [https://arxiv.org/abs/2401.01546](https://arxiv.org/abs/2401.01546)  
+   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2209.12060](https://arxiv.org/abs/2209.12060)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Sky Distribution and Magnitudes of Starlink Satellites by the Year 2027...</p></details>
+   Link: <a href="https://arxiv.org/abs/2209.12060" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.12060</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sky Distribution and Magnitudes of Starlink Satellites by the Year 2027...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/gb/map?srsltid=AfmBOooCozbHCvy-fY5rbQ6haQIHPhVKecNyFzPT9JXWzEnRo6sfcb1D](https://starlink.com/gb/map?srsltid=AfmBOooCozbHCvy-fY5rbQ6haQIHPhVKecNyFzPT9JXWzEnRo6sfcb1D)  
+   Link: <a href="https://starlink.com/gb/map?srsltid=AfmBOooCozbHCvy-fY5rbQ6haQIHPhVKecNyFzPT9JXWzEnRo6sfcb1D" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/gb/map?srsltid=AfmBOooCozbHCvy-fY5rbQ6haQIHPhVKecNyFzPT9JXWzEnRo6sfcb1D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability MapSet up Starlink with just two steps. Instructions work in either order: 1 PLUG IT IN. 2 POINT AT SKY. Starlink requires a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: eoas.ubc.ca  
-   Link: [https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/](https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/)  
+   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth, Ocean, and Atmospheric SciencesOptical PhenomenaOptical phenomena, an interaction between light and the atmosphere. These are not...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/allnewsreports1/posts/residents-report-seeing-strange-light-in-the-night-skyspectacular-view-of-space-/6188852341178572/](https://www.facebook.com/allnewsreports1/posts/residents-report-seeing-strange-light-in-the-night-skyspectacular-view-of-space-/6188852341178572/)  
+   Link: <a href="https://www.facebook.com/allnewsreports1/posts/residents-report-seeing-strange-light-in-the-night-skyspectacular-view-of-space-/6188852341178572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/allnewsreports1/posts/residents-report-seeing-strange-light-in-the-night-skyspectacular-view-of-space-/6188852341178572/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX is reporting it launched 60 Starlink satellites from Cape...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/night/%409863210](https://www.timeanddate.com/astronomy/night/%409863210)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/%409863210" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/%409863210</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and DateNight Sky Tonight: Visible Planets in Caribbean IslandsInteractive night sky map for Caribbean Islands, Antigua and Barbuda...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQZXfO_DumQ/?hl=en-gb](https://www.instagram.com/reel/DQZXfO_DumQ/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DQZXfO_DumQ/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQZXfO_DumQ/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>warm and cold air bend light across the horizon. Instead of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GhLXCJ1Gyyc](https://www.youtube.com/watch?v=GhLXCJ1Gyyc)  
+   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: virginatlantic.com  
-   Link: [https://www.virginatlantic.com/where-we-fly/caribbean/antigua/Antigua-airport-guide](https://www.virginatlantic.com/where-we-fly/caribbean/antigua/Antigua-airport-guide)  
+   Link: <a href="https://www.virginatlantic.com/where-we-fly/caribbean/antigua/Antigua-airport-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.virginatlantic.com/where-we-fly/caribbean/antigua/Antigua-airport-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigua airport guide | Flights to AntiguaFrom check in details to airport facilities for departures and onward travel information for ar...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/](https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/)  
+   Link: <a href="https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I am very curious about this phenomenon: r/geologyThe optical illusion of seeing something beyond the horizon is called a &quot; Fata Morgana...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: traveltomorrow.com  
-   Link: [https://traveltomorrow.com/optical-illusion-creates-ufo-mirage-over-the-sea-in-alaska/](https://traveltomorrow.com/optical-illusion-creates-ufo-mirage-over-the-sea-in-alaska/)  
+   Link: <a href="https://traveltomorrow.com/optical-illusion-creates-ufo-mirage-over-the-sea-in-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://traveltomorrow.com/optical-illusion-creates-ufo-mirage-over-the-sea-in-alaska/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical illusion creates &#x27;UFO mirage&#x27; over the sea in AlaskaIt is of course an optical illusion, based on a phenomenon called Fata Morgan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kupi.com  
-   Link: [https://www.kupi.com/en-ae/explore/antigua-and-barbuda/st-john-s/v-c-bird-international-airport](https://www.kupi.com/en-ae/explore/antigua-and-barbuda/st-john-s/v-c-bird-international-airport)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/antigua-and-barbuda/st-john-s/v-c-bird-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/antigua-and-barbuda/st-john-s/v-c-bird-international-airport</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=k8OxL4twwrU](https://www.youtube.com/watch?v=k8OxL4twwrU)  
+   Link: <a href="https://www.youtube.com/watch?v=k8OxL4twwrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k8OxL4twwrU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites in the Night SkyThey were in the process of adding shields to new satellites and change the orientations to reduce vi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: earthsky.org  
    Title: starlink satellite disintegrates caribbean puerto rico  
-   Link: [https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/](https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/)  
+   Link: <a href="https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/starlink-satellite-disintegrates-caribbean-puerto-rico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite disintegrates over the Caribbean7 Sept 2023 — Witnesses in Puerto Rico and the Dominican Republic saw a spectacular sa...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/](https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/)  
+   Link: <a href="https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l following an incident on the Runway late Sunday afternoon where a...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/realratedred/posts/phenomenon-called-a-fata-morgana-this-rare-optical-illusion-happens-when-layers-/1225469972949069/](https://www.facebook.com/realratedred/posts/phenomenon-called-a-fata-morgana-this-rare-optical-illusion-happens-when-layers-/1225469972949069/)  
+   Link: <a href="https://www.facebook.com/realratedred/posts/phenomenon-called-a-fata-morgana-this-rare-optical-illusion-happens-when-layers-/1225469972949069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realratedred/posts/phenomenon-called-a-fata-morgana-this-rare-optical-illusion-happens-when-layers-/1225469972949069/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on bend light in extreme ways. It can make ships look like...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/antiguahotels/posts/%EF%B8%8F-flight-operations-update-antigua-barbuda-from-vc-bird-international-airport-us/1459440649521529/](https://www.facebook.com/antiguahotels/posts/%EF%B8%8F-flight-operations-update-antigua-barbuda-from-vc-bird-international-airport-us/1459440649521529/)  
+   Link: <a href="https://www.facebook.com/antiguahotels/posts/%EF%B8%8F-flight-operations-update-antigua-barbuda-from-vc-bird-international-airport-us/1459440649521529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/antiguahotels/posts/%EF%B8%8F-flight-operations-update-antigua-barbuda-from-vc-bird-international-airport-us/1459440649521529/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e San Juan, Piarco, and South America airspace at this time.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DU8PClxgX8r/](https://www.instagram.com/reel/DU8PClxgX8r/)  
+   Link: <a href="https://www.instagram.com/reel/DU8PClxgX8r/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8PClxgX8r/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he airfield rehabilitation project at the V.C. Bird International...</p></details>

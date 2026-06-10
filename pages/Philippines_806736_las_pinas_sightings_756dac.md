@@ -239,7 +239,7 @@ next_link:
   permalink: /official-records-68d5a9/
   short_title: Official Records
   heading_title: Where Are the Philippine UFO Files?
-date: '2026-06-09 01:37:20 '
+date: '2026-06-10 02:03:58 '
 header:
   og_image: /assets/images/Philippines_806736_las_pinas_sightings_756dac-Illustration-1-social.jpg
   preview_image: /assets/images/Philippines_806736_las_pinas_sightings_756dac-Illustration-1.webp
@@ -282,14 +282,14 @@ This change is significant because lights without visible structure are among th
 
 ### The 2004 multiple-object event
 
-The 2004 incident became the most discussed Las Pias case. Reports describe several reddish lights appearing over the city around 7 p.m., with witnesses claiming that additional objects emerged and moved across the sky. Some accounts state that more than ten objects were eventually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span> HandWiki Because video recordings were reportedly obtained <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[handwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Unsolved:UFO sightings in the Philippines</span><span class="citation-popover-snippet">5 Mar 2023 More than 10 UFOs were seen in Las Pias about 7:00 p.m. local time on August 28, 2004. Three children noticed two unusual &#x27;...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>, the 2004 event became central to later claims that Las Pias possessed stronger evidence than many other Philippine sightings. Yet the existence of video did not automatically solve the core identification problem. In many ways it created a new one.
+The 2004 incident became the most discussed Las Pias case. Reports describe several reddish lights appearing over the city around 7 p.m., with witnesses claiming that additional objects emerged and moved across the sky. Some accounts state that more than ten objects were eventually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span> HandWiki Because video recordings were reportedly obtained <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[handwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Unsolved:UFO sightings in the Philippines</span><span class="citation-popover-snippet">5 Mar 2023 More than 10 UFOs were seen in Las Pias about 7:00 p.m. local time on August 28, 2004. Three children noticed two unusual &#x27;...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>, the 2004 event became central to later claims that Las Pias possessed stronger evidence than many other Philippine sightings. Yet the existence of video did not automatically solve the core identification problem. In many ways it created a new one.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_2Gxq9C4Yg4" title="UFO Sightings In The Philippines Video Compilation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_2Gxq9C4Yg4" target="_blank" rel="noopener noreferrer">UFO Sightings In The Philippines Video Compilation</a></p><p class="youtube-embed-meta">Channel: Nomadic Dreamers &middot; Views: 112.6K &middot; Uploaded: April 2016 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_2Gxq9C4Yg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_2Gxq9C4Yg4">Open on YouTube</a></p></div></div></div>
 
 ## What the Videos Can and Cannot Establish
 
-The strongest argument made by supporters of the Las Pias sightings is simple: witnesses claimed the objects were recorded, so the events were not merely rumours. The recordings appear to show unusual lights in the night sky, and this is often presented as proof that something genuinely anomalous occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>
+The strongest argument made by supporters of the Las Pias sightings is simple: witnesses claimed the objects were recorded, so the events were not merely rumours. The recordings appear to show unusual lights in the night sky, and this is often presented as proof that something genuinely anomalous occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>
 
 However, video evidence answers only certain questions.
 
@@ -345,7 +345,7 @@ When investigators analyse unusual aerial footage, they look for fixed objects s
 
 Without these references, apparent motion becomes difficult to interpret.
 
-A light drifting behind clouds may appear to accelerate. A camera operator changing zoom levels may create the illusion that an object suddenly expands. Handheld movement can make stationary lights seem to dart across the sky. Autofocus systems can transform distant lights into unusual geometric shapes. These effects are especially common in older consumer cameras and early digital recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abs-cbn.com/overseas/06/26/21/evidence-on-ufos-largely-inconclusive-us-intelligence-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abs-cbn.com">[ABS-CBN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abs-cbn.com</span><span class="citation-popover-title">evidence on ufos largely inconclusive us intelligence report</span><span class="citation-popover-snippet">ABS-CBNEvidence on UFOs &#x27;largely inconclusive&#x27;: US intelligence...26 Jun 2021 The unclassified report said researchers could explain o...</span></span></span>
+A light drifting behind clouds may appear to accelerate. A camera operator changing zoom levels may create the illusion that an object suddenly expands. Handheld movement can make stationary lights seem to dart across the sky. Autofocus systems can transform distant lights into unusual geometric shapes. These effects are especially common in older consumer cameras and early digital recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abs-cbn.com/overseas/06/26/21/evidence-on-ufos-largely-inconclusive-us-intelligence-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abs-cbn.com">[ABS-CBN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abs-cbn.com</span><span class="citation-popover-title">evidence on ufos largely inconclusive us intelligence report</span><span class="citation-popover-snippet">Evidence on UFOs &#x27;largely inconclusive&#x27;: US intelligence...26 Jun 2021 The unclassified report said researchers could explain o...</span></span></span>
 
 This does not prove that the Las Pias lights were ordinary objects. It means that the available footage does not contain enough spatial information to distinguish confidently between extraordinary and conventional explanations.
 
@@ -358,7 +358,7 @@ In practical terms, a viewer watching a glowing point against a black sky is oft
 
 Another reason the Las Pias cases remain unresolved is the mismatch between witness descriptions and what cameras captured.
 
-Witnesses often reported dramatic movement, unusual formations, or behaviour that felt extraordinary. Yet cameras generally reduced the event to bright points of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>
+Witnesses often reported dramatic movement, unusual formations, or behaviour that felt extraordinary. Yet cameras generally reduced the event to bright points of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>
 
 This creates a recurring UFO-investigation problem:
 
@@ -404,89 +404,47 @@ The available evidence is insufficient to conclusively eliminate every conventio
 
 The lasting significance of Las Pias is not that it produced the [Philippines]({{ 'philippines/' | relative_url }})' strongest UFO proof. It is that it demonstrates how UFO cases can become culturally influential even when the underlying evidence remains ambiguous.
 
-The reports contain several ingredients that make stories endure: multiple witnesses, recurring incidents, urban settings, and video recordings. Yet the evidence repeatedly runs into the same obstacle: the recordings show lights but provide too little contextual information to establish what generated them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines | Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span> HandWiki Within the wider history of Philippine UFO reports <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[handwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Unsolved:UFO sightings in the Philippines</span><span class="citation-popover-snippet">5 Mar 2023 More than 10 UFOs were seen in Las Pias about 7:00 p.m. local time on August 28, 2004. Three children noticed two unusual &#x27;...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>, Las Pias therefore functions as a cautionary example. The case family is valuable because it shows both sides of the UFO question at once. It demonstrates genuine public interest and repeated eyewitness testimony, while also revealing how difficult it is to move from "something unusual was seen" to "we know what was there". That unresolved gap is precisely why the Las Pias sightings continue to be discussed decades later.
+The reports contain several ingredients that make stories endure: multiple witnesses, recurring incidents, urban settings, and video recordings. Yet the evidence repeatedly runs into the same obstacle: the recordings show lights but provide too little contextual information to establish what generated them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of the Philippines &#124; Cryptid Wiki</span><span class="citation-popover-snippet">on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span> HandWiki Within the wider history of Philippine UFO reports <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[handwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Unsolved:UFO sightings in the Philippines</span><span class="citation-popover-snippet">5 Mar 2023 More than 10 UFOs were seen in Las Pias about 7:00 p.m. local time on August 28, 2004. Three children noticed two unusual &#x27;...</span><span class="citation-popover-meta">Published: August 28, 2004</span></span></span>, Las Pias therefore functions as a cautionary example. The case family is valuable because it shows both sides of the UFO question at once. It demonstrates genuine public interest and repeated eyewitness testimony, while also revealing how difficult it is to move from "something unusual was seen" to "we know what was there". That unresolved gap is precisely why the Las Pias sightings continue to be discussed decades later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Las Pinas Became the Famous Case. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Las Pinas Became the Famous Case, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison with stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on witness reports and the limits of sighting evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines how recurring local UFO narratives develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Helpful for evaluating ambiguous visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -520,75 +478,71 @@ The reports contain several ingredients that make stories endure: multiple witne
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-pinas-why-las-pinas-became-the-famous-case-philippines-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -802,157 +756,157 @@ The reports contain several ingredients that make stories endure: multiple witne
 
 1. <a id="endnote-1"></a>
    Source: thesmartlocal.ph  
-   Link: [https://thesmartlocal.ph/paranormal-tales/](https://thesmartlocal.ph/paranormal-tales/)  
+   Link: <a href="https://thesmartlocal.ph/paranormal-tales/" target="_blank" rel="noopener noreferrer nofollow">https://thesmartlocal.ph/paranormal-tales/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Unexplainable Paranormal Tales In The Philippines24 Oct 2023 Las Pias City in Metro Manila has been a witness to numerous UFO sighti...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lifestyle.inquirer.net  
    Title: ufo sightings aliens philippines  
-   Link: [https://lifestyle.inquirer.net/58604/ufo-sightings-aliens-philippines/](https://lifestyle.inquirer.net/58604/ufo-sightings-aliens-philippines/)  
+   Link: <a href="https://lifestyle.inquirer.net/58604/ufo-sightings-aliens-philippines/" target="_blank" rel="noopener noreferrer nofollow">https://lifestyle.inquirer.net/58604/ufo-sightings-aliens-philippines/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Sept. 3, 2000, a man in his Las Pias village noticed small balls of light dancing in the evening sky. He...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cryptidz.fandom.com  
    Title: Alien Sightings of the Philippines | Cryptid Wiki  
-   Link: [https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines](https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_the_Philippines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Saturday, August 28, 2004. Three children noticed two unusual reddish-etheric glares moving across...Read more...</p></details>
    Published: August 28, 2004  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=h8U9KHEh9DU](https://www.youtube.com/watch?v=h8U9KHEh9DU)  
+   Link: <a href="https://www.youtube.com/watch?v=h8U9KHEh9DU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h8U9KHEh9DU</a>  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=38HG5RUMhVc](https://www.youtube.com/watch?v=38HG5RUMhVc)  
+   Link: <a href="https://www.youtube.com/watch?v=38HG5RUMhVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=38HG5RUMhVc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Pias UFO SightingsTop 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out There | History. HISTORY 2.5M views; Alien Encounters...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: handwiki.org  
    Title: Unsolved:UFO sightings in the Philippines  
-   Link: [https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines](https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines)  
+   Link: <a href="https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Unsolved%3AUFO_sightings_in_the_Philippines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2023 More than 10 UFOs were seen in Las Pias about 7:00 p.m. local time on August 28, 2004. Three children noticed two unusual &#x27;...</p></details>
    Published: August 28, 2004  
 
 7. <a id="endnote-7"></a>
    Source: abs-cbn.com  
    Title: evidence on ufos largely inconclusive us intelligence report  
-   Link: [https://www.abs-cbn.com/overseas/06/26/21/evidence-on-ufos-largely-inconclusive-us-intelligence-report](https://www.abs-cbn.com/overseas/06/26/21/evidence-on-ufos-largely-inconclusive-us-intelligence-report)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABS-CBNEvidence on UFOs &#x27;largely inconclusive&#x27;: US intelligence...26 Jun 2021 The unclassified report said researchers could explain o...</p></details>
+   Link: <a href="https://www.abs-cbn.com/overseas/06/26/21/evidence-on-ufos-largely-inconclusive-us-intelligence-report" target="_blank" rel="noopener noreferrer nofollow">https://www.abs-cbn.com/overseas/06/26/21/evidence-on-ufos-largely-inconclusive-us-intelligence-report</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on UFOs &#x27;largely inconclusive&#x27;: US intelligence...26 Jun 2021 The unclassified report said researchers could explain o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: foi.gov.ph  
-   Link: [https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/](https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/)  
+   Link: <a href="https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/" target="_blank" rel="noopener noreferrer nofollow">https://www.foi.gov.ph/requests/all-documented-ufo-sightings-in-the-philippines/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documented UFO sightings in the PhilippinesALL Documented UFO sightings in the Philippines... Published by Philippine Atmospheric, Geoph...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Las Pinas UFO sighting  
-   Link: [https://www.youtube.com/shorts/SHE657PKqmI](https://www.youtube.com/shorts/SHE657PKqmI)  
+   Link: <a href="https://www.youtube.com/shorts/SHE657PKqmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/SHE657PKqmI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2025 Did Aliens Visit Las Pias in Broad Daylight? In 2004, Filipino actor Roy Alvarez claimed he was taken by aliens...</p></details>
    Published: May 22, 2025  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=r9S7mFAy5Eg](https://www.youtube.com/watch?v=r9S7mFAy5Eg)  
+   Link: <a href="https://www.youtube.com/watch?v=r9S7mFAy5Eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r9S7mFAy5Eg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2025 In this video, we&#x27;ll explore real UFO sightings in the Philippines, including: The Clark Air Base UFO Incident...</p></details>
    Published: April 1, 2025  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: 5 Supernatural Unsolved Mysteries In The Philippines  
-   Link: [https://www.youtube.com/watch?v=mUDlVPYeQlA](https://www.youtube.com/watch?v=mUDlVPYeQlA)  
+   Link: <a href="https://www.youtube.com/watch?v=mUDlVPYeQlA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mUDlVPYeQlA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO videos: Deep analysis with Ross Coulthart | Reality Check...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: New UFO videos: Deep analysis with Ross Coulthart | Reality Check  
-   Link: [https://www.youtube.com/watch?v=r_xevi3rSQI](https://www.youtube.com/watch?v=r_xevi3rSQI)  
+   Link: <a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r_xevi3rSQI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More Weird UFO Files Just Released: Forensic Expert Analysis...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: More Weird UFO Files Just Released: Forensic Expert Analysis  
-   Link: [https://www.youtube.com/watch?v=F9Vmsk6CcmI](https://www.youtube.com/watch?v=F9Vmsk6CcmI)  
+   Link: <a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In The Philippines Video Compilation...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO Sightings In The Philippines Video Compilation  
-   Link: [https://www.youtube.com/watch?v=_2Gxq9C4Yg4](https://www.youtube.com/watch?v=_2Gxq9C4Yg4)  
+   Link: <a href="https://www.youtube.com/watch?v=_2Gxq9C4Yg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_2Gxq9C4Yg4</a>  
 
 15. <a id="endnote-15"></a>
    Source: philstar.com  
    Title: ufo sightings  
-   Link: [https://www.philstar.com/pang-masa/punto-mo/2013/06/23/957227/ufo-sightings](https://www.philstar.com/pang-masa/punto-mo/2013/06/23/957227/ufo-sightings)  
+   Link: <a href="https://www.philstar.com/pang-masa/punto-mo/2013/06/23/957227/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.philstar.com/pang-masa/punto-mo/2013/06/23/957227/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pang-MasaJun 23, 2013... 2004 Las Piñas. Sabado noon, bandang 7 p.m. ng August 28, 2004. Tatlong bata ang naglalaro sa labas ng kanil...</p></details>
    Published: August 28, 2004  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: [https://en.wikipedia.org/wiki/Project_Condign](https://en.wikipedia.org/wiki/Project_Condign)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/phhorrorstories/comments/1m68e5j/mid_90s_ufouap_metro_manila_philippines/](https://www.reddit.com/r/phhorrorstories/comments/1m68e5j/mid_90s_ufouap_metro_manila_philippines/)  
+   Link: <a href="https://www.reddit.com/r/phhorrorstories/comments/1m68e5j/mid_90s_ufouap_metro_manila_philippines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/phhorrorstories/comments/1m68e5j/mid_90s_ufouap_metro_manila_philippines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mid 90&#x27;s UFO/UAP, Metro Manila, PhilippinesWhat I saw was not red dots but actually black dots flying around while stargazing. Also, a br...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: 1993 las pias ufo incidentthree first year high school student of perpetual hel  
-   Link: [https://www.facebook.com/TheALTASFiles/posts/1993-las-pi%C3%B1as-ufo-incidentthree-first-year-high-school-student-of-perpetual-hel/289626744556824/](https://www.facebook.com/TheALTASFiles/posts/1993-las-pi%C3%B1as-ufo-incidentthree-first-year-high-school-student-of-perpetual-hel/289626744556824/)  
+   Link: <a href="https://www.facebook.com/TheALTASFiles/posts/1993-las-pi%C3%B1as-ufo-incidentthree-first-year-high-school-student-of-perpetual-hel/289626744556824/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheALTASFiles/posts/1993-las-pi%C3%B1as-ufo-incidentthree-first-year-high-school-student-of-perpetual-hel/289626744556824/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three First Year High...24 Aug 2014 (via Wikipedia) 2004 UFO sightings in Las Pias More than 10 UFOs were seen in Las Pias about 7:0...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: statistics of philippine ufo sightings from 1923 to 2022 will update this soon  
-   Link: [https://www.facebook.com/paranormalphilippinesoriginal/posts/statistics-of-philippine-ufo-sightings-from-1923-to-2022-will-update-this-soon/1316595077163556/](https://www.facebook.com/paranormalphilippinesoriginal/posts/statistics-of-philippine-ufo-sightings-from-1923-to-2022-will-update-this-soon/1316595077163556/)  
+   Link: <a href="https://www.facebook.com/paranormalphilippinesoriginal/posts/statistics-of-philippine-ufo-sightings-from-1923-to-2022-will-update-this-soon/1316595077163556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paranormalphilippinesoriginal/posts/statistics-of-philippine-ufo-sightings-from-1923-to-2022-will-update-this-soon/1316595077163556/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics of Philippine UFO Sightings from 1923 to 2022...2 Feb 2026 (via Wikipedia) 2004 UFO sightings in Las Pias More than 10 UFO...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mb.com.ph  
    Title: parang normal manila bulletin s campaign vs the horrors of fake news  
-   Link: [https://mb.com.ph/2023/10/29/parang-normal-manila-bulletin-s-campaign-vs-the-horrors-of-fake-news](https://mb.com.ph/2023/10/29/parang-normal-manila-bulletin-s-campaign-vs-the-horrors-of-fake-news)  
+   Link: <a href="https://mb.com.ph/2023/10/29/parang-normal-manila-bulletin-s-campaign-vs-the-horrors-of-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://mb.com.ph/2023/10/29/parang-normal-manila-bulletin-s-campaign-vs-the-horrors-of-fake-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Parang Normal&#x27;: Manila Bulletin&#x27;s campaign vs the horrors...Oct 29, 2023 Based on old Philippine folklore, monsters and creatures of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: The better quality version of the Philippines UFO filmed in the 90s  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/pnss33/the_better_quality_version_of_the_philippines_ufo/](https://www.reddit.com/r/HighStrangeness/comments/pnss33/the_better_quality_version_of_the_philippines_ufo/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/pnss33/the_better_quality_version_of_the_philippines_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/pnss33/the_better_quality_version_of_the_philippines_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2021 You guys ever notice that over time, a lot of the UFOs in sighting videos seem to evolve their style in line with th...</p></details>
    Published: September 14, 2021  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Philippines/comments/3rzayc/do_you_guys_have_readheard_stories_about_ufo/](https://www.reddit.com/r/Philippines/comments/3rzayc/do_you_guys_have_readheard_stories_about_ufo/)  
+   Link: <a href="https://www.reddit.com/r/Philippines/comments/3rzayc/do_you_guys_have_readheard_stories_about_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Philippines/comments/3rzayc/do_you_guys_have_readheard_stories_about_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17; This is one of the closest and clearest UFO footage, from the skies over the Philippines.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/](https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/)  
+   Link: <a href="https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Philippines/comments/152ssnt/no_recorded_ufo_sightings_in_ph_says_philsa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No recorded UFO sightings in PH, says PhilSA: r/PhilippinesSimply because PhilSA doesn&#x27;t care enough about these to confirm said sightings...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/](https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h7w87p/i_saw_a_ufo_here_in_the_philippines_includes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>led narrative, and visual incident reconstruction).Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: I just tried to see how it will look like on the map.Read more  
-   Link: [https://www.facebook.com/paranormalphilippinesoriginal/posts/we-will-also-make-an-analysis-of-philippine-ufo-sightings-soon-links-in-comments/1320582770098120/](https://www.facebook.com/paranormalphilippinesoriginal/posts/we-will-also-make-an-analysis-of-philippine-ufo-sightings-soon-links-in-comments/1320582770098120/)  
+   Link: <a href="https://www.facebook.com/paranormalphilippinesoriginal/posts/we-will-also-make-an-analysis-of-philippine-ufo-sightings-soon-links-in-comments/1320582770098120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paranormalphilippinesoriginal/posts/we-will-also-make-an-analysis-of-philippine-ufo-sightings-soon-links-in-comments/1320582770098120/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We will also make an analysis of Philippine UFO Sightings...7 Feb 2026 Here is the map of the Philippine UFO sightings; will add detai...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in the Philippines  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Philippines](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Philippines)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Philippines" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Philippines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Category Slideshow. Media in category &quot;UFO sightings in the Philippines&quot;. The following 12 files are...Read more...</p></details>

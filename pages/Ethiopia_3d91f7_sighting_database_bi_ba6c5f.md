@@ -239,7 +239,7 @@ prev_link:
   permalink: /saladare/
   short_title: Saladare
   heading_title: Why Is the Saladare UFO Case So Hard to Prove?
-date: '2026-06-09 01:26:55 '
+date: '2026-06-10 01:51:38 '
 header:
   og_image: /assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-1-social.jpg
   preview_image: /assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-1
 
 ## Introduction
 
-Modern Ethiopian UFO reports are sparse, geographically uneven, and heavily shaped by who has internet access, who speaks English online, and which sightings reach international databases. Public archives such as the National UFO Reporting Center (NUFORC) and crowd-sourced mapping sites contain reports from Addis Ababa, Dire Dawa, Oromia, Amhara and western towns such as Nekemte, but the overall pattern is too thin to support claims of a genuine national “hotspot”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Modern Ethiopian UFO reports are sparse, geographically uneven, and heavily shaped by who has internet access, who speaks English online, and which sightings reach international databases. Public archives such as the National UFO Reporting Center (NUFORC) and crowd-sourced mapping sites contain reports from Addis Ababa, Dire Dawa, Oromia, Amhara and western towns such as Nekemte, but the overall pattern is too thin to support claims of a genuine national “hotspot”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">NUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Map illustration 1" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,7 +256,7 @@ What these databases reveal most clearly is not a concentrated wave of unexplain
 
 ## Where modern reports cluster
 
-Publicly accessible databases show only a small number of Ethiopian entries compared with North America or Europe. The best-known searchable archive, NUFORC, lists scattered reports from locations including Addis Ababa and Dire Dawa, with dates concentrated in the internet era rather than the mid-twentieth century. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Publicly accessible databases show only a small number of Ethiopian entries compared with North America or Europe. The best-known searchable archive, NUFORC, lists scattered reports from locations including Addis Ababa and Dire Dawa, with dates concentrated in the internet era rather than the mid-twentieth century. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">NUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 The clustering pattern follows several predictable features:
 
@@ -315,7 +315,7 @@ Several recurring problems appear in public databases.
 
 One dramatic sighting may circulate through multiple websites, forums and reposted summaries until it appears to represent several independent events. Ethiopia’s small dataset makes this especially important because even a handful of duplicated stories can distort the apparent pattern.
 
-A witness account reposted to NUFORC, UFO Stalker, blogs and social media may visually resemble corroboration when it is actually a single source copied repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+A witness account reposted to NUFORC, UFO Stalker, blogs and social media may visually resemble corroboration when it is actually a single source copied repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">NUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-2-dark.svg" | relative_url }}" alt="Sightings Map illustration 2" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ That absence does not prove the sightings were false. It simply means the cases 
 This is especially important in Ethiopia because many online databases are maintained outside the country. A report may become internationally searchable without ever being examined by Ethiopian institutions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 287 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 322 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
 
 ### Retrospective embellishment
 
@@ -372,11 +372,11 @@ Large rural areas produce almost no internationally archived reports despite cov
 
 </div>
 
-Academic work on public UAP reporting has identified similar effects elsewhere, especially in rural regions with weaker internet infrastructure during the 2000s and early 2010s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Furthermore, from 2000 to 2010 especi...</span></span></span>
+Academic work on public UAP reporting has identified similar effects elsewhere, especially in rural regions with weaker internet infrastructure during the 2000s and early 2010s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Furthermore, from 2000 to 2010 especi...</span></span></span>
 
 This matters because a database shaped by connectivity can accidentally resemble a scientific distribution map. In reality, it may simply visualise where reports can survive digitally.
 
-The problem becomes even sharper in countries affected by regional conflict or communications disruption. Parts of Ethiopia have experienced intermittent instability and infrastructure strain in recent years, particularly in Oromia and northern regions. Under such conditions, routine preservation of unusual sky reports becomes even less likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/ethiopia/ethiopia-peace-observatory-weekly-16-22-april-2022-enam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">ethiopia peace observatory weekly 16 22 april 2022 enam</span><span class="citation-popover-snippet">ReliefWebEthiopia Peace Observatory Weekly: 16-22 April 2022 [EN/...27 Apr 2022 — Renewed conflict in areas surrounding Oromia Special z...</span><span class="citation-popover-meta">Published: april 2022</span></span></span>
+The problem becomes even sharper in countries affected by regional conflict or communications disruption. Parts of Ethiopia have experienced intermittent instability and infrastructure strain in recent years, particularly in Oromia and northern regions. Under such conditions, routine preservation of unusual sky reports becomes even less likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/ethiopia/ethiopia-peace-observatory-weekly-16-22-april-2022-enam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">ethiopia peace observatory weekly 16 22 april 2022 enam</span><span class="citation-popover-snippet">Ethiopia Peace Observatory Weekly: 16-22 April 2022 [EN/...27 Apr 2022 — Renewed conflict in areas surrounding Oromia Special z...</span><span class="citation-popover-meta">Published: april 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-3-dark.svg" | relative_url }}" alt="Sightings Map illustration 3" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_sighting_database_bi_ba6c5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -402,90 +402,48 @@ The strongest conclusion is therefore modest. Ethiopia’s modern UFO reporting 
 That interpretation also fits the broader Ethiopian UFO record. The country’s best-known historical incidents remain contested because documentation is thin, while the most verifiable recent sky events — such as suspected meteor or space-debris observations — tend to acquire ordinary [explanations]({{ 'explanations-5fe3ff/' | relative_url }}) once investigated publicly. Modern databases continue that same pattern: intriguing reports exist, but the structure of reporting itself explains much of the apparent geography.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 322 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0nLczYRdJQ" title="The Ethiopian UFO Case Nobody Talks About | UFO በኢትዮጵያ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0nLczYRdJQ" target="_blank" rel="noopener noreferrer">The Ethiopian UFO Case Nobody Talks About | UFO በኢትዮጵያ</a></p><p class="youtube-embed-meta">Channel: YeEthiopiaTopazion &middot; Views: 284 &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0nLczYRdJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0nLczYRdJQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Do Ethiopia UFO Reports Form a Real Pattern?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Do Ethiopia UFO Reports Form a Real Pattern?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Built around large collections of reported sightings and their analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding how sightings are categorized and compared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Explores patterns and limitations in sighting records across regions and eras.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines recurring themes and reporting biases in unusual encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -519,75 +477,71 @@ That interpretation also fits the broader Ethiopian UFO record. The country’s 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-t-shirt-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-t-shirt-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-t-shirt-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-t-shirt-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-717571-do-ethiopia-ufo-reports-form-a-real-pattern-ethiopia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -802,113 +756,113 @@ That interpretation also fits the broader Ethiopian UFO record. The country’s 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Ethiopia  
-   Link: [https://nuforc.org/subndx/?id=cEthiopia](https://nuforc.org/subndx/?id=cEthiopia)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cEthiopia</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country EthiopiaAugust 20, 2023 — NUFORC Reports for Country &#x27;Ethiopia&#x27;; Open, 02/03/2019 11:00, Addis Ababa (E...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: ufostalker.com  
-   Link: [https://ufostalker.com/](https://ufostalker.com/)  
+   Link: <a href="https://ufostalker.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufostalker.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Stalker | Real-Time UFO Sightings Map | Latest Reports...UFO reports, UFO sightings, UFO activity, UFO photos, and UFO videos as the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufostalker.com  
-   Link: [https://ufostalker.com/sighting/](https://ufostalker.com/sighting/)  
+   Link: <a href="https://ufostalker.com/sighting/" target="_blank" rel="noopener noreferrer nofollow">https://ufostalker.com/sighting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Stalker | Real-Time UFO Sightings MapUFO reports, UFO sightings, UFO activity, UFO photos, and UFO videos as they are reported on our...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: riftvalley.net  
    Title: expectations and belonging in dire dawa drivers, dynamics  
-   Link: [https://riftvalley.net/wp-content/uploads/2018/07/Expectations-and-belonging-in-Dire-Dawa-by-Dereje-Feyissa-RVI-2018_0.pdf](https://riftvalley.net/wp-content/uploads/2018/07/Expectations-and-belonging-in-Dire-Dawa-by-Dereje-Feyissa-RVI-2018_0.pdf)  
+   Link: <a href="https://riftvalley.net/wp-content/uploads/2018/07/Expectations-and-belonging-in-Dire-Dawa-by-Dereje-Feyissa-RVI-2018_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://riftvalley.net/wp-content/uploads/2018/07/Expectations-and-belonging-in-Dire-Dawa-by-Dereje-Feyissa-RVI-2018_0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2018 — Previously known as a railway town, and for the associated contraband trade, Dire Dawa is struggling to develop a post-cont...</p></details>
    Published: May 1, 2018  
 
 5. <a id="endnote-5"></a>
    Source: help.unhcr.org  
-   Link: [https://help.unhcr.org/kenya/wp-content/uploads/sites/29/2021/06/Dire-Dawa-City_Information-Brochure.pdf](https://help.unhcr.org/kenya/wp-content/uploads/sites/29/2021/06/Dire-Dawa-City_Information-Brochure.pdf)  
+   Link: <a href="https://help.unhcr.org/kenya/wp-content/uploads/sites/29/2021/06/Dire-Dawa-City_Information-Brochure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://help.unhcr.org/kenya/wp-content/uploads/sites/29/2021/06/Dire-Dawa-City_Information-Brochure.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dire Dawa administrative council are Oromo (48 %). Amhara (27.7%), 13.9% Somali. 4.5% Guragie (2.3% Sebat Bet. 0.8% Sodo and...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A global picture of unidentified anomalous phenomena  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A global picture of unidentified anomalous phenomenaDecember 29, 2023 — This paper reviews the publicly available infor...</p></details>
    Published: December 29, 2023  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7363869/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7363869/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7363869/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7363869/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biodivers. Data J. 2015;3:e5361. doi...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Furthermore, from 2000 to 2010 especi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Furthermore, from 2000 to 2010 especi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reliefweb.int  
    Title: ethiopia peace observatory weekly 16 22 april 2022 enam  
-   Link: [https://reliefweb.int/report/ethiopia/ethiopia-peace-observatory-weekly-16-22-april-2022-enam](https://reliefweb.int/report/ethiopia/ethiopia-peace-observatory-weekly-16-22-april-2022-enam)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReliefWebEthiopia Peace Observatory Weekly: 16-22 April 2022 [EN/...27 Apr 2022 — Renewed conflict in areas surrounding Oromia Special z...</p></details>
+   Link: <a href="https://reliefweb.int/report/ethiopia/ethiopia-peace-observatory-weekly-16-22-april-2022-enam" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/ethiopia/ethiopia-peace-observatory-weekly-16-22-april-2022-enam</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethiopia Peace Observatory Weekly: 16-22 April 2022 [EN/...27 Apr 2022 — Renewed conflict in areas surrounding Oromia Special z...</p></details>
    Published: april 2022  
 
 10. <a id="endnote-10"></a>
    Source: ipcc.ch  
    Title: chapter 9  
-   Link: [https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-9/](https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-9/)  
+   Link: <a href="https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa | Climate Change 2022Many countries lack regularly reporting weather stations, and data access is often limited. From 1990–2019, r...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: government.nl  
-   Link: [https://www.government.nl/site/binaries/site-content/collections/documents/2021/02/04/general-country-of-origin-information-report-ethiopia-february-2021/general%2Bcountry%2Bof%2Borigin%2Binformation%2Breport%2Bethiopia%2B2021%2Bv2.pdf](https://www.government.nl/site/binaries/site-content/collections/documents/2021/02/04/general-country-of-origin-information-report-ethiopia-february-2021/general%2Bcountry%2Bof%2Borigin%2Binformation%2Breport%2Bethiopia%2B2021%2Bv2.pdf)  
+   Link: <a href="https://www.government.nl/site/binaries/site-content/collections/documents/2021/02/04/general-country-of-origin-information-report-ethiopia-february-2021/general%2Bcountry%2Bof%2Borigin%2Binformation%2Breport%2Bethiopia%2B2021%2Bv2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.government.nl/site/binaries/site-content/collections/documents/2021/02/04/general-country-of-origin-information-report-ethiopia-february-2021/general%2Bcountry%2Bof%2Borigin%2Binformation%2Breport%2Bethiopia%2B2021%2Bv2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Country of Origin Information Report EthiopiaThis country of origin information report was prepared using the questions asked by the Mini...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufostalker.com  
-   Link: [https://ufostalker.com/ufo-sighting-list](https://ufostalker.com/ufo-sighting-list)  
+   Link: <a href="https://ufostalker.com/ufo-sighting-list" target="_blank" rel="noopener noreferrer nofollow">https://ufostalker.com/ufo-sighting-list</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time UFO Sightings Map | Latest Reports, PhotosUFO reports, UFO sightings, UFO activity, UFO photos, and UFO videos as they are repo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: macos.utah.edu  
-   Link: [https://www.macos.utah.edu/documentation/security/lab_security/passwords/mainColumnParagraphs/06/document/crack_dict.txt](https://www.macos.utah.edu/documentation/security/lab_security/passwords/mainColumnParagraphs/06/document/crack_dict.txt)  
+   Link: <a href="https://www.macos.utah.edu/documentation/security/lab_security/passwords/mainColumnParagraphs/06/document/crack_dict.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.macos.utah.edu/documentation/security/lab_security/passwords/mainColumnParagraphs/06/document/crack_dict.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>utah.educrack_dict.txt... Ababa Abbott Abe Abel Abelian Abelson Aberdeen Abernathy Abidjan Abigail... Addis Addison Addressograph Adelai...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/](https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/)  
+   Link: <a href="https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/</a>  
 
 15. <a id="endnote-15"></a>
    Source: ethiopia-insight.com  
    Title: dire dawas dilemma sharing power in ethiopias eastern melting pot  
-   Link: [https://www.ethiopia-insight.com/2021/08/02/dire-dawas-dilemma-sharing-power-in-ethiopias-eastern-melting-pot/](https://www.ethiopia-insight.com/2021/08/02/dire-dawas-dilemma-sharing-power-in-ethiopias-eastern-melting-pot/)  
+   Link: <a href="https://www.ethiopia-insight.com/2021/08/02/dire-dawas-dilemma-sharing-power-in-ethiopias-eastern-melting-pot/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethiopia-insight.com/2021/08/02/dire-dawas-dilemma-sharing-power-in-ethiopias-eastern-melting-pot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dire Dawa&#x27;s dilemma: Sharing power in Ethiopia&#x27;s eastern...2 Aug 2021 — It is perhaps not surprising that Dire Dawa, a multi-ethnic city...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: edrmc.gov.et  
    Title: EW English Monthly Bulletin of September, 2025  
-   Link: [https://edrmc.gov.et/sites/default/files/EW%20English%20Monthly%20Bulletin%20of%20September%2C%202025.pdf](https://edrmc.gov.et/sites/default/files/EW%20English%20Monthly%20Bulletin%20of%20September%2C%202025.pdf)  
+   Link: <a href="https://edrmc.gov.et/sites/default/files/EW%20English%20Monthly%20Bulletin%20of%20September%2C%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edrmc.gov.et/sites/default/files/EW%20English%20Monthly%20Bulletin%20of%20September%2C%202025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monthly Bulletin1 Oct 2025 — Nutrition: A total 1,145 malnutrition cases were reported across Sidama, Southwest, Central. Ethiopia, Oromi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: un.org  
-   Link: [https://www.un.org/peacebuilding/sites/www.un.org.peacebuilding/files/documents/globalstudywps_en_web.pdf](https://www.un.org/peacebuilding/sites/www.un.org.peacebuilding/files/documents/globalstudywps_en_web.pdf)  
+   Link: <a href="https://www.un.org/peacebuilding/sites/www.un.org.peacebuilding/files/documents/globalstudywps_en_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/peacebuilding/sites/www.un.org.peacebuilding/files/documents/globalstudywps_en_web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ship in peacebuilding as a priority and appointed an.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/wp-content/uploads/sites/20/2023/06/PI_2023.06.21_Best-Worst-Digital-Life_2035_FINAL.pdf](https://www.pewresearch.org/wp-content/uploads/sites/20/2023/06/PI_2023.06.21_Best-Worst-Digital-Life_2035_FINAL.pdf)  
+   Link: <a href="https://www.pewresearch.org/wp-content/uploads/sites/20/2023/06/PI_2023.06.21_Best-Worst-Digital-Life_2035_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/sites/20/2023/06/PI_2023.06.21_Best-Worst-Digital-Life_2035_FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As AI Spreads, Experts Predict the Best and Worst...by J Anderson · 2023 · Cited by 89 — This report covers results from the 16th “Futur...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaThis is a list of alleged sightings of unidentified flying objects (UFO) in Africa. Contents. 1 Algeria; 2 Bots...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nora.nerc.ac.uk  
    Title: nerc.ac.uk Chapter 2  
-   Link: [https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf](https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf)  
+   Link: <a href="https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/536205/1/1.%20Chapter%202_IPBES%20IAS%20Assessment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends and status of alien and invasive alien...by H Seebens · 2023 · Cited by 48 — Of the 13,168 established alien plant species report...</p></details>

@@ -239,7 +239,7 @@ next_link:
   permalink: /funafuti-echo/
   short_title: Funafuti Echo
   heading_title: What Happened in the Funafuti Echo Case?
-date: '2026-06-09 01:43:30 '
+date: '2026-06-10 02:11:08 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1-s
 
 ## Introduction
 
-Anyone trying to locate UFO records connected to [Tuvalu]({{ 'what-can-tuvalus-ufo-record-really-show/' | relative_url }}) quickly encounters a problem: the most important documents are unlikely to sit inside a neatly labelled “UFO file” in Funafuti. The strongest documented Tuvalu-related case currently known in public sources—the 1961 Funafuti unidentified-object tracking incident—survives because it appeared inside New Zealand defence and meteorological correspondence rather than a dedicated Tuvalu investigation archive. That pattern is probably the rule rather than the exception. A serious archive search therefore has to follow administrative systems, colonial record trails, aviation paperwork, weather observations, shipping logs, police reports, and regional government correspondence rather than relying on the term “UFO” alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Declassified New Zealand UFO documents&quot;These copied and redacted files of correspondence on Unidentified Fl...</span></span></span>
+Anyone trying to locate UFO records connected to Tuvalu quickly encounters a problem: the most important documents are unlikely to sit inside a neatly labelled “UFO file” in Funafuti. The strongest documented Tuvalu-related case currently known in public sources—the 1961 Funafuti unidentified-object tracking incident—survives because it appeared inside New Zealand defence and meteorological correspondence rather than a dedicated Tuvalu investigation archive. That pattern is probably the rule rather than the exception. A serious archive search therefore has to follow administrative systems, colonial record trails, aviation paperwork, weather observations, shipping logs, police reports, and regional government correspondence rather than relying on the term “UFO” alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Declassified New Zealand UFO documents&quot;These copied and redacted files of correspondence on Unidentified Fl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1-dark.svg" | relative_url }}" alt="Archive Search illustration 1" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -320,7 +320,7 @@ The UK National Archives therefore become an important secondary search location
 
 </div>
 
-The archive's migrated colonial collections and Gilbert and Ellice Islands record groups are particularly relevant because they preserve administrative material that may never have remained in local custody. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/details/r/C12269323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">DiscoveryForeign and Commonwealth Office and predecessors...Records of Former Colonial Administrations: Migrated Archives. Search within...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesOther countries and territories - an overviewTuvalu, Gilbert and Ellice Islands, CO 1051 · FCO 62 · FCO 107, British...</span></span></span>
+The archive's migrated colonial collections and Gilbert and Ellice Islands record groups are particularly relevant because they preserve administrative material that may never have remained in local custody. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/details/r/C12269323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Foreign and Commonwealth Office and predecessors...Records of Former Colonial Administrations: Migrated Archives. Search within...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesOther countries and territories - an overviewTuvalu, Gilbert and Ellice Islands, CO 1051 · FCO 62 · FCO 107, British...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m2CpJ8HrZAU" title="uvalu National Library in Funafuti, Tuvalu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m2CpJ8HrZAU" target="_blank" rel="noopener noreferrer">uvalu National Library in Funafuti, Tuvalu</a></p><p class="youtube-embed-meta">Channel: Xtreme CollectionS &middot; Views: 258 &middot; Uploaded: January 2020 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m2CpJ8HrZAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m2CpJ8HrZAU">Open on YouTube</a></p></div></div></div>
@@ -392,7 +392,7 @@ Researchers should also search by location rather than phenomenon:
 * Funafuti airfield.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B82tiKjy3Eg" title="New Zealand military declassifies UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B82tiKjy3Eg" target="_blank" rel="noopener noreferrer">New Zealand military declassifies UFO files</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 73.9K &middot; Uploaded: December 2010 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B82tiKjy3Eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B82tiKjy3Eg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MEeG81arab0" title="National archives digitizes once-secret UFO records | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer">National archives digitizes once-secret UFO records | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 65.7K &middot; Uploaded: September 2023 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MEeG81arab0">Open on YouTube</a></p></div></div></div>
 
 ## Meteorological Records May Be the Most Productive Source
 
@@ -434,7 +434,7 @@ One especially useful category is correspondence registers. Even when the origin
 For UFO research, those metadata trails can be as valuable as the underlying documents.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MEeG81arab0" title="National archives digitizes once-secret UFO records | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer">National archives digitizes once-secret UFO records | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 65.7K &middot; Uploaded: September 2023 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MEeG81arab0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
 
 ## Aviation, Shipping, and Emergency Records
 
@@ -468,91 +468,49 @@ That fragmentation creates two competing possibilities.
 
 The first is that additional reports exist but remain buried inside meteorological, aviation, colonial, or administrative files that have never been searched using UFO-related questions.
 
-The second is that the [sparse public record]({{ 'sparse-record-00b300/' | relative_url }}) accurately reflects a limited number of reported incidents.
+The second is that the sparse public record accurately reflects a limited number of reported incidents.
 
 At present, the 1961 Funafuti case remains the strongest documented example pointing researchers toward a broader archive search. Its significance lies not only in the anomaly itself, but in showing where evidence can survive: inside weather files, defence correspondence, and colonial-era bureaucratic networks rather than in dedicated UFO collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Declassified New Zealand UFO documents&quot;These copied and redacted files of correspondence on Unidentified Fl...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Could Tuvalu UFO Records Be Hidden?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Could Tuvalu UFO Records Be Hidden?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains evidence gathering and record assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Demonstrates how documentary records become central to UFO research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Shows how historical reports survive through scattered sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages rigorous source evaluation during archive research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -586,75 +544,71 @@ At present, the 1961 Funafuti case remains the strongest documented example poin
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-search-where-could-tuvalu-ufo-records-be-hidden-tuvalu-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -868,167 +822,167 @@ At present, the 1961 Funafuti case remains the strongest documented example poin
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Declassified New Zealand UFO documents&quot;These copied and redacted files of correspondence on Unidentified Fl...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesOther countries and territories - an overviewTuvalu, Gilbert and Ellice Islands, CO 1051 · FCO 62 · FCO 107, British...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: [https://discovery.nationalarchives.gov.uk/details/r/C12269323](https://discovery.nationalarchives.gov.uk/details/r/C12269323)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DiscoveryForeign and Commonwealth Office and predecessors...Records of Former Colonial Administrations: Migrated Archives. Search within...</p></details>
+   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C12269323" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C12269323</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign and Commonwealth Office and predecessors...Records of Former Colonial Administrations: Migrated Archives. Search within...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: meys.gov.tv  
    Title: library and archives  
-   Link: [https://meys.gov.tv/about-us/library-and-archives](https://meys.gov.tv/about-us/library-and-archives)  
+   Link: <a href="https://meys.gov.tv/about-us/library-and-archives" target="_blank" rel="noopener noreferrer nofollow">https://meys.gov.tv/about-us/library-and-archives</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tuvalu National Library and Archives was established on the 1st September 1978 as part of Tuvalu&#x27;s preparation towards their politica...</p></details>
    Published: September 1978  
 
 5. <a id="endnote-5"></a>
    Source: tuvaluarchives.tv  
-   Link: [https://www.tuvaluarchives.tv/](https://www.tuvaluarchives.tv/)  
+   Link: <a href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.tuvaluarchives.tv/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tuvalu National Library and ArchivesThe Tuvalu National Library and Archives was established in 1978 and operate as a department under th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives](https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt archives. The library&#x27;s archives have been described...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: searcharchives.bl.uk  
-   Link: [https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&f%5Burl_stub_si%5D%5B%5D=eap.bl.uk&per_page=100](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&f%5Burl_stub_si%5D%5B%5D=eap.bl.uk&per_page=100)  
+   Link: <a href="https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&amp;f%5Burl_stub_si%5D%5B%5D=eap.bl.uk&amp;per_page=100" target="_blank" rel="noopener noreferrer nofollow">https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&amp;f%5Burl_stub_si%5D%5B%5D=eap.bl.uk&amp;per_page=100</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contains some genealogical...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
    Title: Discovery Government gazettes from the colonies CO  
-   Link: [https://discovery.nationalarchives.gov.uk/details/r/C435](https://discovery.nationalarchives.gov.uk/details/r/C435)  
+   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C435" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C435</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>gazettes from the coloniesCO - Records of the Colonial Office, Commonwealth and Foreign and... Gilbert &amp; Ellice Islands (Tuvalu, Kiribat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: searcharchives.bl.uk  
-   Link: [https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Bmaterial_type_si%5D%5B%5D=Archives+and+Manuscripts&f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&f%5Brelated_subjects_ssim%5D%5B%5D=Land+use&page=1&per_page=50&sort=date](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Bmaterial_type_si%5D%5B%5D=Archives+and+Manuscripts&f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&f%5Brelated_subjects_ssim%5D%5B%5D=Land+use&page=1&per_page=50&sort=date)  
+   Link: <a href="https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Bmaterial_type_si%5D%5B%5D=Archives+and+Manuscripts&amp;f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&amp;f%5Brelated_subjects_ssim%5D%5B%5D=Land+use&amp;page=1&amp;per_page=50&amp;sort=date" target="_blank" rel="noopener noreferrer nofollow">https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Bmaterial_type_si%5D%5B%5D=Archives+and+Manuscripts&amp;f%5Bproject_collections_ssim%5D%5B%5D=Tuvalu+National+Archives+Preservation+Pilot+Project&amp;f%5Brelated_subjects_ssim%5D%5B%5D=Land+use&amp;page=1&amp;per_page=50&amp;sort=date</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection Area: Endangered Archives Programme...Scope &amp; Content: Written and typed copies of wills of people from Funafuti...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: searcharchives.bl.uk  
-   Link: [https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&f%5Brelated_subjects_ssim%5D%5B%5D=Land+use](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&f%5Brelated_subjects_ssim%5D%5B%5D=Land+use)  
+   Link: <a href="https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&amp;f%5Brelated_subjects_ssim%5D%5B%5D=Land+use" target="_blank" rel="noopener noreferrer nofollow">https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&amp;f%5Brelated_subjects_ssim%5D%5B%5D=Land+use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use / Place: Funafuti, Tuvalu, OceaniaLands records from Funafuti and Nanumea Islands and most of the Lands Commission records held by th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: searcharchives.bl.uk  
-   Link: [https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania)  
+   Link: <a href="https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania" target="_blank" rel="noopener noreferrer nofollow">https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Programme / Language: Tuvalu...Lands records from Funafuti and Nanumea Islands and most of the Lands Commission records held by...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: searcharchives.bl.uk  
-   Link: [https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Brelated_names_ssim%5D%5B%5D=Gilbert+and+Ellice+Islands+Colony%2C-1979&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&sort=hierarchy](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Brelated_names_ssim%5D%5B%5D=Gilbert+and+Ellice+Islands+Colony%2C-1979&f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&sort=hierarchy)  
+   Link: <a href="https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Brelated_names_ssim%5D%5B%5D=Gilbert+and+Ellice+Islands+Colony%2C-1979&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&amp;sort=hierarchy" target="_blank" rel="noopener noreferrer nofollow">https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&amp;f%5Blanguage_ssim%5D%5B%5D=Tuvalu&amp;f%5Brelated_names_ssim%5D%5B%5D=Gilbert+and+Ellice+Islands+Colony%2C-1979&amp;f%5Brelated_places_ssim%5D%5B%5D=Funafuti%2C+Tuvalu%2C+Oceania&amp;sort=hierarchy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Ellice Islands Colony, 1916-1979 / Place:...Lands records from Funafuti and Nanumea Islands and most of the Lands Commission records...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: searcharchives.bl.uk  
-   Link: [https://searcharchives.bl.uk/catalog/040-000007483](https://searcharchives.bl.uk/catalog/040-000007483)  
+   Link: <a href="https://searcharchives.bl.uk/catalog/040-000007483" target="_blank" rel="noopener noreferrer nofollow">https://searcharchives.bl.uk/catalog/040-000007483</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bl.ukEAP005/1/10/4Scope &amp; Content: The original file covers the dates 1953-1959. It is written in Tuvalu and English. Collection Area: En...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nla.gov.au  
    Title: nla.obj 345212285  
-   Link: [https://nla.gov.au/nla.obj-345212285](https://nla.gov.au/nla.obj-345212285)  
+   Link: <a href="https://nla.gov.au/nla.obj-345212285" target="_blank" rel="noopener noreferrer nofollow">https://nla.gov.au/nla.obj-345212285</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vol. XXXI, No. 6 (Jan. 1, 1961)day out, and the twice-daily upper wind readings by radar.—R.N.Z.A.F.. Fix this text. photograph...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: catalogue.nla.gov.au  
-   Link: [https://catalogue.nla.gov.au/catalog/3793675](https://catalogue.nla.gov.au/catalog/3793675)  
+   Link: <a href="https://catalogue.nla.gov.au/catalog/3793675" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/3793675</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Islands land records and Land Commission minutes...Selected series from the archives of the Gilbert and Ellice Islands Colony, Ellice Is...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: pacific islands  
-   Link: [https://www.nationalarchives.gov.uk/first-world-war__trashed/a-global-view__trashed/australasia/pacific-islands/](https://www.nationalarchives.gov.uk/first-world-war__trashed/a-global-view__trashed/australasia/pacific-islands/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/first-world-war__trashed/a-global-view__trashed/australasia/pacific-islands/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/first-world-war__trashed/a-global-view__trashed/australasia/pacific-islands/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in 1914Situated to the north of Fiji, the Gilbert and Ellice Islands (now Kiribati &amp; Tuvalu) had a population of 34,000, of which 200 wer...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: [https://www.nationalarchives.gov.uk/category/records-2/page/28/](https://www.nationalarchives.gov.uk/category/records-2/page/28/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/28/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/28/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records covering all British colonies. The following record series relate to British colonies in general and will contain some informatio...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: natlib.govt.nz  
-   Link: [https://natlib.govt.nz/records/22979464](https://natlib.govt.nz/records/22979464)  
+   Link: <a href="https://natlib.govt.nz/records/22979464" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22979464</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of New ZealandUnidentified flying objects (UFO) files: copies for release...These copied and redacted files of corresp...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: natlib.govt.nz  
    Title: National Library of New Zealand Gilbert and Ellice Islands Colony, El  
-   Link: [https://natlib.govt.nz/records/22844335](https://natlib.govt.nz/records/22844335)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| ItemsThe Ellice Islands became a British protectorate in 1892. In 1916 they became part of the Gilbert and Ellice Islands Colony, and a...</p></details>
+   Link: <a href="https://natlib.govt.nz/records/22844335" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22844335</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ItemsThe Ellice Islands became a British protectorate in 1892. In 1916 they became part of the Gilbert and Ellice Islands Colony, and a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: natlib.govt.nz  
    Title: pacific islands family history  
-   Link: [https://natlib.govt.nz/researchers/guides/pacific-islands-family-history](https://natlib.govt.nz/researchers/guides/pacific-islands-family-history)  
+   Link: <a href="https://natlib.govt.nz/researchers/guides/pacific-islands-family-history" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/researchers/guides/pacific-islands-family-history</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of New ZealandPacific Islands — Family historyAlso Funafuti Court Minute Book 1923-1932; Funafuti Lands Commission and L...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: spc.int  
-   Link: [https://www.spc.int/digitallibrary/get/yzqkh](https://www.spc.int/digitallibrary/get/yzqkh)  
+   Link: <a href="https://www.spc.int/digitallibrary/get/yzqkh" target="_blank" rel="noopener noreferrer nofollow">https://www.spc.int/digitallibrary/get/yzqkh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tokelau and Tuvalu an atoll fisheries bibliographyThe coral reefs of the tropical Pacific: being part IV of the reports of the expedition...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: eap.bl.uk  
-   Link: [https://eap.bl.uk/collection/EAP005-1-16](https://eap.bl.uk/collection/EAP005-1-16)  
+   Link: <a href="https://eap.bl.uk/collection/EAP005-1-16" target="_blank" rel="noopener noreferrer nofollow">https://eap.bl.uk/collection/EAP005-1-16</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Lands of Individual Land Owners of FunafutiJavaScript is disabled. In order to continue, we need to verify that you&#x27;re not a robot. Th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: timelesstuvalu.com  
-   Link: [https://www.timelesstuvalu.com/tour-item/tuvalu-national-library/](https://www.timelesstuvalu.com/tour-item/tuvalu-national-library/)  
+   Link: <a href="https://www.timelesstuvalu.com/tour-item/tuvalu-national-library/" target="_blank" rel="noopener noreferrer nofollow">https://www.timelesstuvalu.com/tour-item/tuvalu-national-library/</a>  
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone](https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone)  
+   Link: <a href="https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Facing extinction, Tuvalu considers the digital clone of a...27 Jun 2023 — As the climate emergency threatens its existence, the tiny Pa...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: operation musketeer suez 5th november 1956 at 0515 gmt on 5th november 3para con  
-   Link: [https://www.facebook.com/PARA/posts/operation-musketeer-suez-5th-november-1956-at-0515-gmt-on-5th-november-3para-con/3774409175924167/](https://www.facebook.com/PARA/posts/operation-musketeer-suez-5th-november-1956-at-0515-gmt-on-5th-november-3para-con/3774409175924167/)  
+   Link: <a href="https://www.facebook.com/PARA/posts/operation-musketeer-suez-5th-november-1956-at-0515-gmt-on-5th-november-3para-con/3774409175924167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PARA/posts/operation-musketeer-suez-5th-november-1956-at-0515-gmt-on-5th-november-3para-con/3774409175924167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation MUSKETEER (SUEZ) 5th November 19563PARA conducted a battalion sized operational parachute assault. Despite vigorous defensive f...</p></details>
    Published: november 1956  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m2CpJ8HrZAU](https://www.youtube.com/watch?v=m2CpJ8HrZAU)  
+   Link: <a href="https://www.youtube.com/watch?v=m2CpJ8HrZAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m2CpJ8HrZAU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uvalu National Library in Funafuti, TuvaluThe Tuvalu National Library and Archives is the National Library of Tuvalu it is located in fun...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: archive.iwlearn.net  
    Title: Environment and resources in the Pacific UNEP RSRS no.69 Reduced  
-   Link: [https://archive.iwlearn.net/sprep.org/att/publication/Retro/UNEP-Regional-Seas/Environment%20and%20resources%20in%20the%20Pacific%20UNEP%20RSRS%20no.69-Reduced.pdf](https://archive.iwlearn.net/sprep.org/att/publication/Retro/UNEP-Regional-Seas/Environment%20and%20resources%20in%20the%20Pacific%20UNEP%20RSRS%20no.69-Reduced.pdf)  
+   Link: <a href="https://archive.iwlearn.net/sprep.org/att/publication/Retro/UNEP-Regional-Seas/Environment%20and%20resources%20in%20the%20Pacific%20UNEP%20RSRS%20no.69-Reduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.iwlearn.net/sprep.org/att/publication/Retro/UNEP-Regional-Seas/Environment%20and%20resources%20in%20the%20Pacific%20UNEP%20RSRS%20no.69-Reduced.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iwlearn.netRt€@lllof their eolid wastes. Toxic chemicals sueh as pesticides, to which small islands are particularly wlnerable, were anot...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mcstrmi.org  
    Title: Anderson et al 2003 Pacific Marine Pollution assesment Vol 2  
-   Link: [https://mcstrmi.org/wp-content/uploads/2024/09/Anderson-et-al-2003-Pacific-Marine-Pollution-assesment-Vol-2.pdf](https://mcstrmi.org/wp-content/uploads/2024/09/Anderson-et-al-2003-Pacific-Marine-Pollution-assesment-Vol-2.pdf)  
+   Link: <a href="https://mcstrmi.org/wp-content/uploads/2024/09/Anderson-et-al-2003-Pacific-Marine-Pollution-assesment-Vol-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mcstrmi.org/wp-content/uploads/2024/09/Anderson-et-al-2003-Pacific-Marine-Pollution-assesment-Vol-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAFT FINAL REPORTNavy sent a search for the vessel and five. Fiji. 21-Dec-1999. U. T missing seamen the following day. Lau Waters. 19°16...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: Tuvalu National Library and Archives 395714030639394  
-   Link: [https://www.facebook.com/Tuvalu-National-Library-and-Archives-395714030639394/?locale=hu_HU](https://www.facebook.com/Tuvalu-National-Library-and-Archives-395714030639394/?locale=hu_HU)  
+   Link: <a href="https://www.facebook.com/Tuvalu-National-Library-and-Archives-395714030639394/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Tuvalu-National-Library-and-Archives-395714030639394/?locale=hu_HU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tuvalu National Library and ArchivesThe Tuvalu National Library and Archives was established on the 1st September 1978 as part of Tuvalu&#x27;...</p></details>
    Published: September 1978  
 
 30. <a id="endnote-30"></a>
    Source: cambridge.org  
    Title: Australia's disaster relief operations (Part II)  
-   Link: [https://www.cambridge.org/core/books/in-their-time-of-need/australias-disaster-relief-operations/F13185C0A4B9EC4552EF5AB8B2924C72](https://www.cambridge.org/core/books/in-their-time-of-need/australias-disaster-relief-operations/F13185C0A4B9EC4552EF5AB8B2924C72)  
+   Link: <a href="https://www.cambridge.org/core/books/in-their-time-of-need/australias-disaster-relief-operations/F13185C0A4B9EC4552EF5AB8B2924C72" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/in-their-time-of-need/australias-disaster-relief-operations/F13185C0A4B9EC4552EF5AB8B2924C72</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In their Time...Australia&#x27;s first overseas emergency relief operation was in response to a request in November 1918 for medical assistan...</p></details>
    Published: November 1918  

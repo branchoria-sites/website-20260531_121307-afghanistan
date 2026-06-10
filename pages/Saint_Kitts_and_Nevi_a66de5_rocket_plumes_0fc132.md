@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-traps/
   short_title: Sky Traps
   heading_title: Why Island Skies Can Trick UFO Witnesses
-date: '2026-06-09 01:38:32 '
+date: '2026-06-10 02:05:21 '
 header:
   og_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132-Illustration-1.webp
@@ -290,7 +290,7 @@ For island populations surrounded by dark ocean horizons, these displays can be 
 
 The clearest Saint Kitts-linked example is the Basseterre harbour sighting reported on 27 February 2023.
 
-According to the public NUFORC entry, four witnesses aboard a yacht observed a disk-like object associated with lights, haze and a trail. Those details closely match characteristics frequently reported in rocket-plume sightings. Significantly, the NUFORC database itself listed the case with the explanation category “Rocket – Probable”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=181302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 181302August 20, 2023 — 5 May 2024 — Explanation: Rocket - Probable Characteristics: Lights on object, Aura or...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+According to the public NUFORC entry, four witnesses aboard a yacht observed a disk-like object associated with lights, haze and a trail. Those details closely match characteristics frequently reported in rocket-plume sightings. Significantly, the NUFORC database itself listed the case with the explanation category “Rocket – Probable”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=181302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 181302August 20, 2023 — 5 May 2024 — Explanation: Rocket - Probable Characteristics: Lights on object, Aura or...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 The report is notable because it preserves both sides of the event:
 
@@ -309,7 +309,7 @@ This is a useful example of how modern UFO reporting often works. A witness acco
 
 Rocket plumes can generate reports of disks, spheres or oval objects even when no solid object is visible.
 
-The brightest part of an illuminated exhaust cloud is often concentrated around the vehicle itself. From a great distance, the observer may perceive only the glowing envelope rather than the rocket. This can create the impression of a large structured craft surrounded by mist or light. Descriptions of “aura”, “haze”, “halo” and “glowing shell” appear repeatedly in rocket-related UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span> NUFORC The Basseterre case fits that broader pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=181302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 181302August 20, 2023 — 5 May 2024 — Explanation: Rocket - Probable Characteristics: Lights on object, Aura or...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The brightest part of an illuminated exhaust cloud is often concentrated around the vehicle itself. From a great distance, the observer may perceive only the glowing envelope rather than the rocket. This can create the impression of a large structured craft surrounded by mist or light. Descriptions of “aura”, “haze”, “halo” and “glowing shell” appear repeatedly in rocket-related UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span> NUFORC The Basseterre case fits that broader pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=181302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 181302August 20, 2023 — 5 May 2024 — Explanation: Rocket - Probable Characteristics: Lights on object, Aura or...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132-Illustration-2-dark.svg" | relative_url }}" alt="Rocket Plumes illustration 2" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,13 +317,13 @@ The brightest part of an illuminated exhaust cloud is often concentrated around 
 
 A larger regional example emerged in November 2024 when residents across parts of the Caribbean reported unusual lights in the sky and social-media discussion quickly turned toward UFO speculation.
 
-The timing coincided with SpaceX's sixth Starship test flight from Starbase in Texas. Reports from Caribbean observers described a bright object crossing the sky and generating widespread attention. Local reporting in Saint Kitts and Nevis linked the event to the Starship launch rather than an unidentified craft. Similar reactions appeared elsewhere across the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Observers&#x27; report: Space X Starship and electrophonic</span><span class="citation-popover-snippet">EarthSkyObservers&#x27; report: SpaceX Starship and electrophonic...November 30, 2024 — 30 Nov 2024 — People in Puerto Rico reported hearing...</span><span class="citation-popover-meta">Published: November 30, 2024</span></span></span> Facebook What makes the Starship case important is scale. Unlike a local aircraft or drone sighting <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ing a recent launch? One of the most mesmerizing sights...</span></span></span>, a major rocket launch can be visible across multiple countries at once. Observers separated by hundreds of kilometres may all witness the same event.
+The timing coincided with SpaceX's sixth Starship test flight from Starbase in Texas. Reports from Caribbean observers described a bright object crossing the sky and generating widespread attention. Local reporting in Saint Kitts and Nevis linked the event to the Starship launch rather than an unidentified craft. Similar reactions appeared elsewhere across the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Observers&#x27; report: Space X Starship and electrophonic</span><span class="citation-popover-snippet">Observers&#x27; report: SpaceX Starship and electrophonic...November 30, 2024 — 30 Nov 2024 — People in Puerto Rico reported hearing...</span><span class="citation-popover-meta">Published: November 30, 2024</span></span></span> Facebook What makes the Starship case important is scale. Unlike a local aircraft or drone sighting <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ing a recent launch? One of the most mesmerizing sights...</span></span></span>, a major rocket launch can be visible across multiple countries at once. Observers separated by hundreds of kilometres may all witness the same event.
 
 That regional visibility can initially make a sighting seem more mysterious. People naturally reason that if large numbers of witnesses across different islands saw the same object, it must have been something extraordinary. In reality, that broad visibility is exactly what would be expected from a launch occurring at very high altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
 ### Sounds, Trails and Confusion
 
-Some Starship observations also included reports of rumbling sounds or unusual atmospheric effects. Observers in Puerto Rico, for example, described hearing sounds associated with a November 2024 Starship flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Observers&#x27; report: Space X Starship and electrophonic</span><span class="citation-popover-snippet">EarthSkyObservers&#x27; report: SpaceX Starship and electrophonic...November 30, 2024 — 30 Nov 2024 — People in Puerto Rico reported hearing...</span><span class="citation-popover-meta">Published: November 30, 2024</span></span></span>
+Some Starship observations also included reports of rumbling sounds or unusual atmospheric effects. Observers in Puerto Rico, for example, described hearing sounds associated with a November 2024 Starship flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Observers&#x27; report: Space X Starship and electrophonic</span><span class="citation-popover-snippet">Observers&#x27; report: SpaceX Starship and electrophonic...November 30, 2024 — 30 Nov 2024 — People in Puerto Rico reported hearing...</span><span class="citation-popover-meta">Published: November 30, 2024</span></span></span>
 
 When visual and auditory effects occur together, the experience can feel much more immediate than a distant launch actually is. This helps explain why rocket events often generate intense discussion before official launch information spreads through local media.
 
@@ -381,86 +381,44 @@ For Saint Kitts and Nevis, the 2023 probable rocket case and the 2024 Starship l
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Rocket Plumes Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Rocket Plumes Look Like UFOs, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Includes discussion of misidentifications and observational limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful comparison between unexplained cases and ordinary aerospace explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Connects readers with the realities of aerospace activity often mistaken for anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -494,75 +452,71 @@ For Saint Kitts and Nevis, the 2023 probable rocket case and the 2024 Starship l
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-when-rocket-plumes-look-like-ufos-saint-kitts-and-nevis-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -777,128 +731,128 @@ For Saint Kitts and Nevis, the 2023 probable rocket case and the 2024 Starship l
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/](https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/)  
+   Link: <a href="https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing a recent launch? One of the most mesmerizing sights...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheAugustaChronicle/posts/videos-from-florida-captured-a-rare-mesmerizing-jellyfish-effect-left-in-the-sky/1343321441173881/](https://www.facebook.com/TheAugustaChronicle/posts/videos-from-florida-captured-a-rare-mesmerizing-jellyfish-effect-left-in-the-sky/1343321441173881/)  
+   Link: <a href="https://www.facebook.com/TheAugustaChronicle/posts/videos-from-florida-captured-a-rare-mesmerizing-jellyfish-effect-left-in-the-sky/1343321441173881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAugustaChronicle/posts/videos-from-florida-captured-a-rare-mesmerizing-jellyfish-effect-left-in-the-sky/1343321441173881/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>unusual sight happens when a SpaceX Starlink rocket launches and the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181302](https://nuforc.org/sighting/?id=181302)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 181302August 20, 2023 — 5 May 2024 — Explanation: Rocket - Probable Characteristics: Lights on object, Aura or...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=181302" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181302</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 181302August 20, 2023 — 5 May 2024 — Explanation: Rocket - Probable Characteristics: Lights on object, Aura or...</p></details>
    Published: August 20, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=176915](https://nuforc.org/sighting/?id=176915)  
+   Link: <a href="https://nuforc.org/sighting/?id=176915" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176915</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 176915Explanation: Rocket - Probable Characteristics: Lights on object, Aura or haze around object. Thought to be air...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: earthsky.org  
    Title: Earth Sky Observers' report: Space X Starship and electrophonic  
-   Link: [https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/](https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyObservers&#x27; report: SpaceX Starship and electrophonic...November 30, 2024 — 30 Nov 2024 — People in Puerto Rico reported hearing...</p></details>
+   Link: <a href="https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/spaceflight/spacex-starship-spacecraft-emits-electrophonic-sounds-video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observers&#x27; report: SpaceX Starship and electrophonic...November 30, 2024 — 30 Nov 2024 — People in Puerto Rico reported hearing...</p></details>
    Published: November 30, 2024  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/](https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/)  
+   Link: <a href="https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCNTV6/posts/what-many-in-trinidad-and-tobago-believed-was-a-soucouyant-a-fireball-like-figur/1013471074364348/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT many in Trinidad and Tobago believed was a...It wasn&#x27;t a UFO they saw, but rather SpaceX&#x27;s launch from South Texas.... alien encou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsHighlighted NUFORC Reports.... 08/27/2025 20:30, Gill, MA, USA, Disk. Open! 08/21/2025 21:30, Cape Saint Mary...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=p230910](https://nuforc.org/subndx/?id=p230910)  
+   Link: <a href="https://nuforc.org/subndx/?id=p230910" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p230910</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>; Open, 09/09/2023 23:18, Old town; Open, 09/09/2023 21:35, Yelm; Open, 09/09/2023 21:32, North Richmond Hill; Open, 09/09/...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=85642](https://nuforc.org/sighting/?id=85642)  
+   Link: <a href="https://nuforc.org/sighting/?id=85642" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85642</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85642Location: East Dorset, VT, USA Shape: Light Characteristics: Lights on object, Aura or haze around object. A Dec...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e202301](https://nuforc.org/subndx/?id=e202301)  
+   Link: <a href="https://nuforc.org/subndx/?id=e202301" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202301</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 202301NUFORC Reports for Month 202301.; Open, 01/31/2023 19:15, Sulphur Springs; Open, 01/31/2023 18:38, El Gr...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: Strange Object spotted in sky!!  
-   Link: [https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/](https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/)  
+   Link: <a href="https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobagoupdatestv/posts/strange-object-spotted-in-sky-did-you-see-it-where/1678748483717943/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you see it? Where?Specifically, SpaceX just launched its giant new Starship rocket (the Flight 12 test) from south Texas.... UFO IN...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/spacex-starship-lights-up-caribbean-sky-during-test-flight-12residents-across-th/1503105158517133/](https://www.facebook.com/firstpostin/posts/spacex-starship-lights-up-caribbean-sky-during-test-flight-12residents-across-th/1503105158517133/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/spacex-starship-lights-up-caribbean-sky-during-test-flight-12residents-across-th/1503105158517133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/spacex-starship-lights-up-caribbean-sky-during-test-flight-12residents-across-th/1503105158517133/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starship Lights Up Caribbean Sky During Test...SpaceX Starship Lights Up Caribbean Sky During Test Flight 12 Residents across the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/weather/article/rocket-launches-ct-sky-jellyfish-satellites-22084171.php](https://www.ctinsider.com/weather/article/rocket-launches-ct-sky-jellyfish-satellites-22084171.php)  
+   Link: <a href="https://www.ctinsider.com/weather/article/rocket-launches-ct-sky-jellyfish-satellites-22084171.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/weather/article/rocket-launches-ct-sky-jellyfish-satellites-22084171.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As rocket launches have surged in frequency—largely due to companies like SpaceX and its Falcon 9 rocket, which has launched over 600 tim...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: foxweather.com  
-   Link: [https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq](https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq)  
+   Link: <a href="https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/watch/fmc-04076bzkqzmcc1wq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See it: SpaceX test flight seen from Caribbean6 days ago — Residents of Trinidad and Tobago got to witness a SpaceX Starship flying throu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYtzHjegSsn/](https://www.instagram.com/reel/DYtzHjegSsn/)  
+   Link: <a href="https://www.instagram.com/reel/DYtzHjegSsn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYtzHjegSsn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX Weather on Instagram: &quot;CHECK IT OUT!: Residents of...NOT A UFO. Relax, Trinidad &amp; Tobago. Elon and SpaceX just frighten half the Car...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/metjustinroth_what-youre-seeing-is-a-twilight-launch-effect-activity-7435334572625518594-SgYt](https://www.linkedin.com/posts/metjustinroth_what-youre-seeing-is-a-twilight-launch-effect-activity-7435334572625518594-SgYt)  
+   Link: <a href="https://www.linkedin.com/posts/metjustinroth_what-youre-seeing-is-a-twilight-launch-effect-activity-7435334572625518594-SgYt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/metjustinroth_what-youre-seeing-is-a-twilight-launch-effect-activity-7435334572625518594-SgYt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Roth, CPCU, ARe, ARM, CEEM&#x27;s PostAt high altitude, the rocket&#x27;s exhaust plume expands rapidly in the very thin upper atmosphere. T...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYrcOwjE__I/](https://www.instagram.com/reel/DYrcOwjE__I/)  
+   Link: <a href="https://www.instagram.com/reel/DYrcOwjE__I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYrcOwjE__I/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starship Lights Up Caribbean Sky During Test Flight...NOT A UFO. Relax, Trinidad &amp; Tobago. Elon and SpaceX just frighten half the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYqTzFjE4lL/](https://www.instagram.com/p/DYqTzFjE4lL/)  
+   Link: <a href="https://www.instagram.com/p/DYqTzFjE4lL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqTzFjE4lL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launched its Starship rocket today around 7:30 PM...NOT A UFO. Relax, Trinidad &amp; Tobago. Elon and SpaceX just frighten... suspic...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVehw5ngf8-/](https://www.instagram.com/p/DVehw5ngf8-/)  
+   Link: <a href="https://www.instagram.com/p/DVehw5ngf8-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVehw5ngf8-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a glowing “jellyfish” effect following a SpaceX rocket launch...Experts say the phenomenon happens during launches near sunrise or sunse...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/rG4delV3chw](https://www.youtube.com/shorts/rG4delV3chw)  
+   Link: <a href="https://www.youtube.com/shorts/rG4delV3chw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/rG4delV3chw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starship rocket explodes over Caribbean skies...Witnesses spotted debris from a SpaceX Starship after the spacecraft exploded m...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en](https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t propellant left in the vapor trail of a launch vehicle condense...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wral.com  
    Title: spacex launch visibile may 2026  
-   Link: [https://www.wral.com/news/local/spacex-launch-visibile-may-2026/](https://www.wral.com/news/local/spacex-launch-visibile-may-2026/)  
+   Link: <a href="https://www.wral.com/news/local/spacex-launch-visibile-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/news/local/spacex-launch-visibile-may-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsLook up for a &quot;space jellyfish&quot; Thursday morning18 May 2026 — You are actually seeing is sunlight reflecting off the rocket&#x27;s ex...</p></details>
    Published: may 2026  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Why Do Rockets Launch at Twilight… And What Happens Seconds Later?  
-   Link: [https://www.youtube.com/watch?v=4VqsRkawpRo](https://www.youtube.com/watch?v=4VqsRkawpRo)  
+   Link: <a href="https://www.youtube.com/watch?v=4VqsRkawpRo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4VqsRkawpRo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular Spirals In The Sky Over Europe Traced To Classified SpaceX Mission...</p></details>

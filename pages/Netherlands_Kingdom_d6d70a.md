@@ -1185,7 +1185,7 @@ next_link:
   title: PNG UFOs
   permalink: /papua-new-guinea/
   short_title: PNG UFOs
-date: '2026-06-09 01:35:24 '
+date: '2026-06-10 02:01:54 '
 header:
   og_image: /assets/images/Netherlands_Kingdom_d6d70a-overview-social.jpg
   preview_image: /assets/images/Netherlands_Kingdom_d6d70a-overview.webp
@@ -1202,7 +1202,7 @@ The most useful Dutch evidence falls into four broad tiers. First are **official
 
 Second are **civilian reporting databases**, especially UFO Meldpunt Nederland, which has operated a public web platform since January 2011. Its statistics page listed 18,000-plus reports by May 2026, with yearly totals fluctuating from hundreds to around two thousand and with clear spikes in recent years. This is valuable as a social and observational dataset, but it is not the same thing as a laboratory dataset: it depends on self-reporting, varying witness quality, and later interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-Third are **case reconstructions**: books, documentaries, radio reports, local history work, and interviews with witnesses. These are especially important for [Gorredijk]({{ 'gorredijk/' | relative_url }}) and [Soesterberg]({{ 'soesterberg/' | relative_url }}), where the significance lies not only in what witnesses said they saw, but in how communities, investigators, military personnel, journalists, and sceptics responded. Defensie Magazines <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[3noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Third are **case reconstructions**: books, documentaries, radio reports, local history work, and interviews with witnesses. These are especially important for [Gorredijk]({{ 'gorredijk/' | relative_url }}) and Soesterberg, where the significance lies not only in what witnesses said they saw, but in how communities, investigators, military personnel, journalists, and sceptics responded. Defensie Magazines <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[3noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Fourth are **sceptical and debunking analyses**. In the Netherlands, Stichting Skepsis has been a prominent source of critical assessment, arguing that many reports are anecdotal, that official Dutch aviation bodies have not maintained a strong UFO-registration culture, and that memory, media influence, aircraft, satellites, planets, balloons, lens effects, and atmospheric conditions explain many cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
@@ -1234,9 +1234,9 @@ The Dutch record is not built around one famous national case in the way the Uni
 
 **2011 onward: the Meldpunt era.** UFO Meldpunt Nederland’s public web platform created a more visible civilian reporting channel. It records report volume by month, year, province, shape, and explanation category, making it useful for detecting social and technological patterns even when individual reports are weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-**2023–2026: [UAP policy]({{ 'policy-gap/' | relative_url }}) advocacy.** UAP Coalition Netherlands, a civil-society group focused on professionals in aviation, police, and the armed forces, began publicly pressing for official attention, transparency, and a reporting point. Its press releases include calls in 2023, 2025, and 2026 for Dutch and European handling of UAP reports, especially for professionals who may be reluctant to report unusual observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">UAP Coalitie Nederland Press releases</span><span class="citation-popover-snippet">UAP Coalitie Nederland Press releases</span></span></span>
+**2023–2026: UAP policy advocacy.** UAP Coalition Netherlands, a civil-society group focused on professionals in aviation, police, and the armed forces, began publicly pressing for official attention, transparency, and a reporting point. Its press releases include calls in 2023, 2025, and 2026 for Dutch and European handling of UAP reports, especially for professionals who may be reluctant to report unusual observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">UAP Coalitie Nederland Press releases</span><span class="citation-popover-snippet">UAP Coalitie Nederland Press releases</span></span></span>
 
-**2025: drones over Volkel and Eindhoven.** In November 2025, the Ministry of Defence reported action after drones were observed over Volkel Air Base on Friday and Saturday evenings, with air-force personnel using ground-based weapons before the drones left. Civilian and military traffic at Eindhoven Airport was also halted for several hours after drone sightings. This is not a classic extraterrestrial UFO case, but it is an important modern “unidentified aerial” episode because it involved restricted airspace, military response, and an unresolved origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-title">Update: Optreden tegen drones boven vliegvelden | Defensie.nl</span><span class="citation-popover-snippet">Update: Optreden tegen drones boven vliegvelden | Defensie.nl</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+**2025: drones over Volkel and Eindhoven.** In November 2025, the Ministry of Defence reported action after drones were observed over Volkel Air Base on Friday and Saturday evenings, with air-force personnel using ground-based weapons before the drones left. Civilian and military traffic at Eindhoven Airport was also halted for several hours after drone sightings. This is not a classic extraterrestrial UFO case, but it is an important modern “unidentified aerial” episode because it involved restricted airspace, military response, and an unresolved origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-title">Update: Optreden tegen drones boven vliegvelden &#124; Defensie.nl</span><span class="citation-popover-snippet">Update: Optreden tegen drones boven vliegvelden &#124; Defensie.nl</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 552.1K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
@@ -1255,7 +1255,7 @@ It is also useful for comparing Dutch cases with sibling branches in a wider cou
 
 Soesterberg is the Netherlands’ most memorable air-base UFO case. The core report is that, in the early hours of 3 February 1979, twelve military personnel saw an unknown object or light system pass over Vliegbasis Soesterberg. Later accounts describe a large triangular form with bright light beams, slow movement, and no clear radar match. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
-The case has endured because it sits at the intersection of several powerful themes: a Cold War air base, American military presence, trained witnesses, possible missing or inaccessible reports, and later claims of additional sightings in the surrounding region. The Dutch Ministry of Defence’s own magazine covered Bram Roza’s 2024 documentary and noted his attempt to obtain reports that would have been made about the sightings, while also reporting his view that the documentary does not settle what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg | 02 | Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg | 02 | Defensiekrant</span></span></span>
+The case has endured because it sits at the intersection of several powerful themes: a Cold War air base, American military presence, trained witnesses, possible missing or inaccessible reports, and later claims of additional sightings in the surrounding region. The Dutch Ministry of Defence’s own magazine covered Bram Roza’s 2024 documentary and noted his attempt to obtain reports that would have been made about the sightings, while also reporting his view that the documentary does not settle what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span></span></span>
 
 The sceptical counterweight is important. Stichting Skepsis praised the documentary’s tone but stressed problems with memory after more than forty years, conflicting witness recollections, and the possibility that the official air-force explanation involved a temperature inversion reflecting vehicle headlights or other lights across layers of cold air. One attendee who was reportedly among the original military witnesses described seeing two lights, contrasting with more elaborate triangular recollections in the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
@@ -1273,7 +1273,7 @@ Stichting Skepsis reported that inquiries with the Royal Netherlands Air Force, 
 
 This creates a frustrating but important distinction. There may be official Dutch paperwork connected to unusual reports, especially where police, air defence, or local authorities were contacted. But that is not the same as a sustained government UAP investigation programme with published conclusions. The available evidence suggests administrative fragments rather than a hidden Dutch equivalent of Project Blue Book.
 
-The clearest official modern material concerns drones rather than classic UFOs. The Ministry of Defence’s 23 November 2025 update on Volkel and Eindhoven was explicit that drones were seen over military airfields, that defence measures were taken, and that police and the Royal Marechaussee were investigating. It also stated that drone flights near airports are strictly prohibited because they create unsafe flight conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg | 02 | Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg | 02 | Defensiekrant</span></span></span>
+The clearest official modern material concerns drones rather than classic UFOs. The Ministry of Defence’s 23 November 2025 update on Volkel and Eindhoven was explicit that drones were seen over military airfields, that defence measures were taken, and that police and the Royal Marechaussee were investigating. It also stated that drone flights near airports are strictly prohibited because they create unsafe flight conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span></span></span>
 
 ## Region-level variation: where reports cluster and why
 
@@ -1340,86 +1340,44 @@ The most reliable conclusion is not that the Netherlands has “no UFO mystery�
 For readers comparing country branches, the Netherlands is therefore a useful middle case. It lacks a large public government UFO programme, but it has enough civilian data, Cold War-era cases, sceptical analysis, and recent drone-security events to show how UFO phenomena shift with institutions, media, technology, and local geography.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Dutch UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Happened in Dutch UFO Cases?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for interpreting community UFO waves and cultural narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides investigative frameworks applicable to Dutch cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Provides contemporary context for international UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Excellent overview for readers exploring national UFO case histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1453,75 +1411,71 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=netherlands-kingdom-of-the-what-really-happened-in-dutch-ufo-cases-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1736,207 +1690,207 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
 1. <a id="endnote-1"></a>
    Source: skepsis.nl  
    Title: Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis  
-   Link: [https://skepsis.nl/ufo-onderzoek/](https://skepsis.nl/ufo-onderzoek/)  
+   Link: <a href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-onderzoek/</a>  
 
 2. <a id="endnote-2"></a>
    Source: defensie.nl  
    Title: Update: Optreden tegen drones boven vliegvelden | Defensie.nl  
-   Link: [https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel](https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel)  
+   Link: <a href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: Commons Category:UFO sightings in the Netherlands  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands</a>  
 
 5. <a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: noordboek.nl  
-   Link: [https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer](https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer)  
+   Link: <a href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow">https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer</a>  
 
 8. <a id="endnote-8"></a>
    Source: skepsis.nl  
    Title: Stichting Skepsis Wat de ooggetuigen zich herinneren – Stichting Skepsis  
-   Link: [https://skepsis.nl/ufo-soesterberg/](https://skepsis.nl/ufo-soesterberg/)  
+   Link: <a href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-soesterberg/</a>  
 
 9. <a id="endnote-9"></a>
    Source: magazines.defensie.nl  
    Title: Magazines De ufo’s van Soesterberg | 02 | Defensiekrant  
-   Link: [https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos](https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos)  
+   Link: <a href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: tresoar.nl  
-   Link: [https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c](https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c)  
+   Link: <a href="https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c" target="_blank" rel="noopener noreferrer nofollow">https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c</a>  
 
 11. <a id="endnote-11"></a>
    Source: skepsis.nl  
-   Link: [https://skepsis.nl/skepter-covers/skepter-4-4-1991/](https://skepsis.nl/skepter-covers/skepter-4-4-1991/)  
+   Link: <a href="https://skepsis.nl/skepter-covers/skepter-4-4-1991/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/skepter-covers/skepter-4-4-1991/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/](https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/</a>  
 
 13. <a id="endnote-13"></a>
    Source: boekmeter.nl  
    Title: Boek Meter De Ufo's van Gorredijk  
-   Link: [https://www.boekmeter.nl/book/113887](https://www.boekmeter.nl/book/113887)  
+   Link: <a href="https://www.boekmeter.nl/book/113887" target="_blank" rel="noopener noreferrer nofollow">https://www.boekmeter.nl/book/113887</a>  
 
 14. <a id="endnote-14"></a>
    Source: nos.nl  
    Title: 2175788 ballon drone of toch iets anders hoogseizoen bij het ufo meldpunt  
-   Link: [https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt](https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt)  
+   Link: <a href="https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt" target="_blank" rel="noopener noreferrer nofollow">https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt</a>  
 
 15. <a id="endnote-15"></a>
    Source: defensie.nl  
-   Link: [https://www.defensie.nl/](https://www.defensie.nl/)  
+   Link: <a href="https://www.defensie.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/</a>  
 
 16. <a id="endnote-16"></a>
    Source: defensie.nl  
-   Link: [https://www.defensie.nl/onderwerpen/v/vliegbewegingen](https://www.defensie.nl/onderwerpen/v/vliegbewegingen)  
+   Link: <a href="https://www.defensie.nl/onderwerpen/v/vliegbewegingen" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/onderwerpen/v/vliegbewegingen</a>  
 
 17. <a id="endnote-17"></a>
    Source: english.defensie.nl  
    Title: milaip 06 2026split ad deel 1 dp dl eh gr kd  
-   Link: [https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf](https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf)  
+   Link: <a href="https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: magazines.defensie.nl  
    Title: 10 11 dingen slider 2025  
-   Link: [https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025](https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025)  
+   Link: <a href="https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025</a>  
 
 19. <a id="endnote-19"></a>
    Source: defensie.nl  
    Title: stand van defensie voorjaar 2026  
-   Link: [https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf](https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf)  
+   Link: <a href="https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: magazines.defensie.nl  
    Title: 09 negen dingen  
-   Link: [https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen](https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen)  
+   Link: <a href="https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen</a>  
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
    Title: dutch military uses weapons against drones over air force base 2025 11 22  
-   Link: [https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/](https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/)  
+   Link: <a href="https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/</a>  
 
 22. <a id="endnote-22"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 24. <a id="endnote-24"></a>
    Source: skepsis.nl  
    Title: [PDF] Tussen Waarheid & Waanzin  
-   Link: [https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf](https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf)  
+   Link: <a href="https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 26. <a id="endnote-26"></a>
    Source: ufomeldpunt.nl  
    Title: UFO Meldpunt Nederland Statistieken  
-   Link: [https://www.ufomeldpunt.nl/statistieken](https://www.ufomeldpunt.nl/statistieken)  
+   Link: <a href="https://www.ufomeldpunt.nl/statistieken" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/statistieken</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufomeldpunt.nl  
    Title: UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland  
-   Link: [https://www.ufomeldpunt.nl/](https://www.ufomeldpunt.nl/)  
+   Link: <a href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/</a>  
 
 28. <a id="endnote-28"></a>
    Source: historischnieuwsblad.nl  
    Title: Historisch Nieuwsblad'Nooit eerder zagen we in Nederland zoveel ufo's'  
-   Link: [https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/](https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/)  
+   Link: <a href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow">https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/</a>  
 
 29. <a id="endnote-29"></a>
    Source: ufozaken.nl  
    Title: de ufo van josie zwinenberg 1979  
-   Link: [https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979](https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979)  
+   Link: <a href="https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979" target="_blank" rel="noopener noreferrer nofollow">https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979</a>  
 
 30. <a id="endnote-30"></a>
    Source: uapcoalitienederland.nl  
    Title: UAP Coalitie Nederland Press releases  
-   Link: [https://uapcoalitienederland.nl/en/press/press-releases/](https://uapcoalitienederland.nl/en/press/press-releases/)  
+   Link: <a href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/press/press-releases/</a>  
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/ufomeldpunt/?hl=en](https://www.instagram.com/ufomeldpunt/?hl=en)  
+   Link: <a href="https://www.instagram.com/ufomeldpunt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/ufomeldpunt/?hl=en</a>  
 
 32. <a id="endnote-32"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/](https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
 33. <a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: UFO Meldpunt Nederland  
-   Link: [https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland](https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland)  
+   Link: <a href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland</a>  
 
 35. <a id="endnote-35"></a>
    Source: jco.birdscaribbean.org  
-   Link: [https://jco.birdscaribbean.org/index.php/jco/article/view/217](https://jco.birdscaribbean.org/index.php/jco/article/view/217)  
+   Link: <a href="https://jco.birdscaribbean.org/index.php/jco/article/view/217" target="_blank" rel="noopener noreferrer nofollow">https://jco.birdscaribbean.org/index.php/jco/article/view/217</a>  
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LNXzKPr7mrA](https://www.youtube.com/watch?v=LNXzKPr7mrA)  
+   Link: <a href="https://www.youtube.com/watch?v=LNXzKPr7mrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LNXzKPr7mrA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters In Europe | Never-Seen-Before Evidence...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFO Encounters In Europe | Never-Seen-Before Evidence!  
-   Link: [https://www.youtube.com/watch?v=n7FS9BXBa8E](https://www.youtube.com/watch?v=n7FS9BXBa8E)  
+   Link: <a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n7FS9BXBa8E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFO appears in the sky over Amsterdam...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DRX7R20jLil/](https://www.instagram.com/p/DRX7R20jLil/)  
+   Link: <a href="https://www.instagram.com/p/DRX7R20jLil/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRX7R20jLil/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/](https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/)  
+   Link: <a href="https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/</a>  
 
 40. <a id="endnote-40"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb](https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research](https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research)  
+   Link: <a href="https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research</a>  
 
 42. <a id="endnote-42"></a>
    Source: uapfilewatch.com  
-   Link: [https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399](https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399)  
+   Link: <a href="https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399" target="_blank" rel="noopener noreferrer nofollow">https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399</a>  
 
 43. <a id="endnote-43"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0](https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0)  
+   Link: <a href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0</a>  
 
 44. <a id="endnote-44"></a>
    Source: x.com  
-   Link: [https://x.com/TheStudyofWar/status/1992435438720585943?lang=en](https://x.com/TheStudyofWar/status/1992435438720585943?lang=en)  
+   Link: <a href="https://x.com/TheStudyofWar/status/1992435438720585943?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/TheStudyofWar/status/1992435438720585943?lang=en</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/](https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/</a>  

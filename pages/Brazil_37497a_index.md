@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /brazil-37497a-index/
 description: Focused pages that expand on What Brazil's UFO Records Reveal About....
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Brazil_37497a
 parent_title: What Brazil's UFO Records Reveal About...

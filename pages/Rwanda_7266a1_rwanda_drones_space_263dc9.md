@@ -239,7 +239,7 @@ next_link:
   permalink: /kigali/
   short_title: Kigali
   heading_title: What Would a Kigali UFO Sighting Need?
-date: '2026-06-09 01:38:20 '
+date: '2026-06-10 02:05:05 '
 header:
   og_image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-so
 
 ## Introduction
 
-[Rwanda]({{ 'what-is-rwandas-real-ufo-record/' | relative_url }})’s modern drone and space programmes do not provide evidence for unidentified flying objects, but they do change how unusual aerial sightings should be interpreted. A country that now operates satellite projects, has a national space agency, regulates unmanned aircraft and actively promotes advanced aviation technology naturally creates more ordinary sources of lights, aircraft movements and unfamiliar objects in the sky. For anyone examining UFO claims in Rwanda, this matters because the first question is no longer simply “what was seen?” but also “what technology was operating in that airspace at the time?”
+Rwanda’s modern drone and space programmes do not provide evidence for unidentified flying objects, but they do change how unusual aerial sightings should be interpreted. A country that now operates satellite projects, has a national space agency, regulates unmanned aircraft and actively promotes advanced aviation technology naturally creates more ordinary sources of lights, aircraft movements and unfamiliar objects in the sky. For anyone examining UFO claims in Rwanda, this matters because the first question is no longer simply “what was seen?” but also “what technology was operating in that airspace at the time?”
 
 
 <img src="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-dark.svg" | relative_url }}" alt="Drones Space illustration 1" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -327,86 +327,44 @@ For Rwanda, this is arguably the most important aerospace development in the UFO
 <img src="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-3-dark.svg" | relative_url }}" alt="Drones Space illustration 3" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Rwanda&#x27;s Modern Skies Changed the UFO Question. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Rwanda&#x27;s Modern Skies Changed the UFO Question, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding misidentification risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong fit for distinguishing genuine anomalies from conventional technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on aviation-linked observations and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader context for interpreting unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -440,59 +398,71 @@ For Rwanda, this is arguably the most important aerospace development in the UFO
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids"><img src="https://i.ebayimg.com/images/g/eXkAAeSwRihpja5M/s-l225.jpg" alt="Listing image for Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer">Mini Size Wooden Drone Model Kit STEM Quadcopter Building Kit For Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-rwanda-s-modern-skies-changed-the-ufo-question-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-space-how-rwanda-s-modern-skies-changed-the-ufo-question-rwanda-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -706,212 +676,212 @@ For Rwanda, this is arguably the most important aerospace development in the UFO
 
 1. <a id="endnote-1"></a>
    Source: rura.rw  
-   Link: [https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf)  
+   Link: <a href="https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>08 October 2019 SUCCESSFUL LAUNCH OF RWASAT-1...Oct 8, 2019 — On September 24, 2019 at 1803hrs Rwanda time, an H2-B rocket carrying...</p></details>
    Published: September 24, 2019  
 
 2. <a id="endnote-2"></a>
    Source: space.gov.rw  
    Title: Rwanda Space Agency  
-   Link: [https://space.gov.rw/](https://space.gov.rw/)  
+   Link: <a href="https://space.gov.rw/" target="_blank" rel="noopener noreferrer nofollow">https://space.gov.rw/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSARwanda Space Agency - Leading Africa&#x27;s space exploration and satellite technology initiatives.... Adopt new technologies. Establish s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: caa.gov.rw  
    Title: UA S Registration  
-   Link: [https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1](https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1)  
+   Link: <a href="https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS Registration - DronesAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: minict.gov.rw  
-   Link: [https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1](https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1)  
+   Link: <a href="https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1" target="_blank" rel="noopener noreferrer nofollow">https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MINICT, RURA and Embassy of Japan held a joint press...INFO ON THE LAUNCH OF RWASAT-1: On September 24, 2019 at 1803hrs Rwanda time, an...</p></details>
    Published: September 24, 2019  
 
 5. <a id="endnote-5"></a>
    Source: space.gov.rw  
    Title: Rwanda Space Agency Brochure  
-   Link: [https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf](https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf)  
+   Link: <a href="https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1Rwanda Space Agency (RSA) is the National Space agency that was established in 2020 with the mission of developing Rwanda&#x27;s space sector...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: 2021-2025.state.gov  
    Title: nigeria and rwanda first african nations sign the artemis accords  
-   Link: [https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/](https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/)  
+   Link: <a href="https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StateNigeria and Rwanda: First African Nations Sign the Artemis...13 Dec 2022 — At the first ever US-Africa Space Forum, N...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: welcomes nigeria rwanda as newest artemis accords signatories  
-   Link: [https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/](https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/)  
+   Link: <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Welcomes Nigeria, Rwanda as Newest Artemis...16 Oct 2023 — As the first African nations to sign the Artemis Accords, Nigeria and Rw...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: caa.gov.rw  
    Title: UA S Pilot Certificate  
-   Link: [https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate](https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate)  
+   Link: <a href="https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS Pilot Certificate - DronesAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the re...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: caa.gov.rw  
-   Link: [https://www.caa.gov.rw/service-details/uas-pilot-certificate](https://www.caa.gov.rw/service-details/uas-pilot-certificate)  
+   Link: <a href="https://www.caa.gov.rw/service-details/uas-pilot-certificate" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/service-details/uas-pilot-certificate</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS Pilot CertificateAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the requirement...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: rlrc.gov.rw  
    Title: 10.15.1.4. Unmanned civil aircraft system MO n 01 Mos Trans of 2018  
-   Link: [https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.15._Aviation/10.15.1._Civil_Aviation_Organization/10.15.1.4._Unmanned_civil_aircraft_system_MO_n___01-Mos-Trans_of_2018.pdf](https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.15._Aviation/10.15.1._Civil_Aviation_Organization/10.15.1.4._Unmanned_civil_aircraft_system_MO_n___01-Mos-Trans_of_2018.pdf)  
+   Link: <a href="https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.15._Aviation/10.15.1._Civil_Aviation_Organization/10.15.1.4._Unmanned_civil_aircraft_system_MO_n___01-Mos-Trans_of_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.15._Aviation/10.15.1._Civil_Aviation_Organization/10.15.1.4._Unmanned_civil_aircraft_system_MO_n___01-Mos-Trans_of_2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Land Registration CommissionOfficial Gazette nº Special of 23/01/2018 ITEKA RYA...23 Jan 2018 — (a) A remote pilot must, immediat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: caa.gov.rw  
-   Link: [https://www.caa.gov.rw/unmanned-aircraft](https://www.caa.gov.rw/unmanned-aircraft)  
+   Link: <a href="https://www.caa.gov.rw/unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/unmanned-aircraft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DronesAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the requirements stipulated in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mineduc.gov.rw  
-   Link: [https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island](https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island)  
+   Link: <a href="https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island" target="_blank" rel="noopener noreferrer nofollow">https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The partnership kicked off today 27th February 2019, at 23:37 Rwanda time, in French...Read more...</p></details>
    Published: February 2019  
 
 13. <a id="endnote-13"></a>
    Source: caa.gov.rw  
-   Link: [https://www.caa.gov.rw/](https://www.caa.gov.rw/)  
+   Link: <a href="https://www.caa.gov.rw/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Civil Aviation Authority(250) 726936583 Address KN 5, Rd. [Kigali](&amp;#123;&amp;#123; &#x27;kigali/&#x27; | relative_url &amp;#125;&amp;#125;) International Airport E-Services Landing &amp; Overflight Clearance S...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: caa.gov.rw  
-   Link: [https://www.caa.gov.rw/service-details/uas-registration](https://www.caa.gov.rw/service-details/uas-registration)  
+   Link: <a href="https://www.caa.gov.rw/service-details/uas-registration" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/service-details/uas-registration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS RegistrationAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations. The ope...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nasa.gov  
    Title: nasas big 2022 historic moon mission webb telescope images more  
-   Link: [https://www.nasa.gov/humans-in-space/nasas-big-2022-historic-moon-mission-webb-telescope-images-more/](https://www.nasa.gov/humans-in-space/nasas-big-2022-historic-moon-mission-webb-telescope-images-more/)  
+   Link: <a href="https://www.nasa.gov/humans-in-space/nasas-big-2022-historic-moon-mission-webb-telescope-images-more/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/humans-in-space/nasas-big-2022-historic-moon-mission-webb-telescope-images-more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Big 2022: Historic Moon Mission, Webb Telescope...Dec 13, 2022 — Selected seven new additions to the team of flight directors to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Road to NST2  
-   Link: [https://www.youtube.com/watch?v=t3RpqGbM-EE](https://www.youtube.com/watch?v=t3RpqGbM-EE)  
+   Link: <a href="https://www.youtube.com/watch?v=t3RpqGbM-EE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t3RpqGbM-EE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda launches satellite to provide internet to rural schools...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Rwanda launches satellite to provide internet to rural schools  
-   Link: [https://www.youtube.com/watch?v=XcDdu1w7phg](https://www.youtube.com/watch?v=XcDdu1w7phg)  
+   Link: <a href="https://www.youtube.com/watch?v=XcDdu1w7phg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XcDdu1w7phg</a>  
 
 19. <a id="endnote-19"></a>
    Source: spaceinafrica.com  
    Title: rwanda legislature approves law establishing rwanda space agency  
-   Link: [https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/](https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/)  
+   Link: <a href="https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Icyerekezo was launched in partnership with...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rwandan-flyer.blog4ever.com  
-   Link: [https://rwandan-flyer.blog4ever.com/regulation-of-unmanned-aircraft-systems-drones-in-rwanda](https://rwandan-flyer.blog4ever.com/regulation-of-unmanned-aircraft-systems-drones-in-rwanda)  
+   Link: <a href="https://rwandan-flyer.blog4ever.com/regulation-of-unmanned-aircraft-systems-drones-in-rwanda" target="_blank" rel="noopener noreferrer nofollow">https://rwandan-flyer.blog4ever.com/regulation-of-unmanned-aircraft-systems-drones-in-rwanda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Aviation and Tourism NewsRegulation of Unmanned Aircraft Systems (Drones) in RwandaThe regulations, which fall under the supervisi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Rwanda](https://en.wikipedia.org/wiki/Rwanda)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rwanda" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rwanda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RwandaWith a population of about 14 million people living within a total area of 26,338 square kilometres (10,169 sq mi), of which lan...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Rwanda Space Agency  
-   Link: [https://en.wikipedia.org/wiki/Rwanda_Space_Agency](https://en.wikipedia.org/wiki/Rwanda_Space_Agency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rwanda_Space_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rwanda_Space_Agency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Space AgencyFrancis Ngabo, signed the Artemis Accords on the norms for space exploration and use of astronomical objects.... R...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Artemis Accords  
-   Link: [https://en.wikipedia.org/wiki/Artemis_Accords](https://en.wikipedia.org/wiki/Artemis_Accords)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artemis_Accords" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artemis_Accords</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artemis AccordsOn December 13, 2022, at the United States–Africa Leaders Summit 2022, Rwanda and Nigeria became the first African nati...</p></details>
    Published: December 13, 2022  
 
 24. <a id="endnote-24"></a>
    Source: spaceinafrica.com  
    Title: nigeria and rwanda sign nasa artemis accord  
-   Link: [https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/](https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/)  
+   Link: <a href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artemis Accord during the US-Africa Space Forum on the sideline of the US-Africa Le...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: spaceinafrica.com  
-   Link: [https://spaceinafrica.com/tag/rwasat-1/](https://spaceinafrica.com/tag/rwasat-1/)  
+   Link: <a href="https://spaceinafrica.com/tag/rwasat-1/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/tag/rwasat-1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RwaSat-1 ArchivesRwanda&#x27;s first satellite in space is set for release from ISS. Rwanda&#x27;s first satellite in Space, RwaSat-1, is set to be...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: en.igihe.com  
    Title: rwanda signs artemis accords  
-   Link: [https://en.igihe.com/news/article/rwanda-signs-artemis-accords](https://en.igihe.com/news/article/rwanda-signs-artemis-accords)  
+   Link: <a href="https://en.igihe.com/news/article/rwanda-signs-artemis-accords" target="_blank" rel="noopener noreferrer nofollow">https://en.igihe.com/news/article/rwanda-signs-artemis-accords</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>signs &#x27;Artemis Accords&#x27;14 Dec 2022 — The two countries signed the accords on Tuesday, December 13, 2022 at the first ever U.S.-Africa Spa...</p></details>
    Published: December 13, 2022  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tlu6apwfjzA](https://www.youtube.com/watch?v=tlu6apwfjzA)  
+   Link: <a href="https://www.youtube.com/watch?v=tlu6apwfjzA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tlu6apwfjzA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RWASAT 1 | A Satellite built by Rwandan was unveiled at...A Satellite built by Rwandan and Japanese Engineers was unveiled at the 2019 T...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: marketscreener.com  
    Title: Rwanda says Mozambique has secured funds for it to continue Cabo Delgado mission  
-   Link: [https://www.marketscreener.com/news/rwanda-says-mozambique-has-secured-funds-for-it-to-continue-cabo-delgado-mission-ce7f5ad8d88bf224](https://www.marketscreener.com/news/rwanda-says-mozambique-has-secured-funds-for-it-to-continue-cabo-delgado-mission-ce7f5ad8d88bf224)  
+   Link: <a href="https://www.marketscreener.com/news/rwanda-says-mozambique-has-secured-funds-for-it-to-continue-cabo-delgado-mission-ce7f5ad8d88bf224" target="_blank" rel="noopener noreferrer nofollow">https://www.marketscreener.com/news/rwanda-says-mozambique-has-secured-funds-for-it-to-continue-cabo-delgado-mission-ce7f5ad8d88bf224</a>  
 
 29. <a id="endnote-29"></a>
    Source: ktpress.rw  
    Title: rwanda nigeria join nasa artemis space ambitions  
-   Link: [https://www.ktpress.rw/2022/12/rwanda-nigeria-join-nasa-artemis-space-ambitions/](https://www.ktpress.rw/2022/12/rwanda-nigeria-join-nasa-artemis-space-ambitions/)  
+   Link: <a href="https://www.ktpress.rw/2022/12/rwanda-nigeria-join-nasa-artemis-space-ambitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.ktpress.rw/2022/12/rwanda-nigeria-join-nasa-artemis-space-ambitions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda, Nigeria Join NASA Artemis Space Ambitions14 Dec 2022 — Rwanda has signed the Artemis Accords that will enable the country to deve...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ktpress.rw  
    Title: rwanda given 10 year grace period from one web satellite deal  
-   Link: [https://www.ktpress.rw/2019/02/rwanda-given-10-year-grace-period-from-one-web-satellite-deal/](https://www.ktpress.rw/2019/02/rwanda-given-10-year-grace-period-from-one-web-satellite-deal/)  
+   Link: <a href="https://www.ktpress.rw/2019/02/rwanda-given-10-year-grace-period-from-one-web-satellite-deal/" target="_blank" rel="noopener noreferrer nofollow">https://www.ktpress.rw/2019/02/rwanda-given-10-year-grace-period-from-one-web-satellite-deal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Given 10-Year Grace Period on One Web Satellite...28 Feb 2019 — “Under the agreement between Rwanda and One Web, a 10-year grace...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
    Title: gatama rwanda 3 milestone satellites that put activity 7375232088821886976 BU38  
-   Link: [https://www.linkedin.com/posts/gatama_rwanda-3-milestone-satellites-that-put-activity-7375232088821886976-BU38](https://www.linkedin.com/posts/gatama_rwanda-3-milestone-satellites-that-put-activity-7375232088821886976-BU38)  
+   Link: <a href="https://www.linkedin.com/posts/gatama_rwanda-3-milestone-satellites-that-put-activity-7375232088821886976-BU38" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gatama_rwanda-3-milestone-satellites-that-put-activity-7375232088821886976-BU38</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda&#x27;s space milestones: RwaSat-1, Icyerekezo, AI...⁠ ⁠RwaSat-1 RwaSat-1, launched in 2019, was Rwanda&#x27;s first satellite a CubeSat dev...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNewTimesRwanda/posts/rwanda-and-nigeria-on-tuesday-signed-artemis-accords-a-directive-on-guiding-the-/5427919670650406/](https://www.facebook.com/TheNewTimesRwanda/posts/rwanda-and-nigeria-on-tuesday-signed-artemis-accords-a-directive-on-guiding-the-/5427919670650406/)  
+   Link: <a href="https://www.facebook.com/TheNewTimesRwanda/posts/rwanda-and-nigeria-on-tuesday-signed-artemis-accords-a-directive-on-guiding-the-/5427919670650406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNewTimesRwanda/posts/rwanda-and-nigeria-on-tuesday-signed-artemis-accords-a-directive-on-guiding-the-/5427919670650406/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda and Nigeria on Tuesday signed Artemis AccordsRwanda and Nigeria on Tuesday signed Artemis Accords - a directive on guiding the nex...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/638344463/RCAA-Form-RPAS002A-Application-for-RPAS-Operator-Permit-or-Certificate](https://www.scribd.com/document/638344463/RCAA-Form-RPAS002A-Application-for-RPAS-Operator-Permit-or-Certificate)  
+   Link: <a href="https://www.scribd.com/document/638344463/RCAA-Form-RPAS002A-Application-for-RPAS-Operator-Permit-or-Certificate" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/638344463/RCAA-Form-RPAS002A-Application-for-RPAS-Operator-Permit-or-Certificate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>motely Piloted Aircraft System (RPAS) or drone operator permit...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: realmafricasafaris.com  
-   Link: [https://realmafricasafaris.com/rwanda-drone-filming-rules/](https://realmafricasafaris.com/rwanda-drone-filming-rules/)  
+   Link: <a href="https://realmafricasafaris.com/rwanda-drone-filming-rules/" target="_blank" rel="noopener noreferrer nofollow">https://realmafricasafaris.com/rwanda-drone-filming-rules/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The label may, e.g., via a permanent marker, a sticker or engraving.Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: rwandalii.org  
-   Link: [https://rwandalii.org/akn/rw/act/law/2019/7/eng%402019-05-23](https://rwandalii.org/akn/rw/act/law/2019/7/eng%402019-05-23)  
+   Link: <a href="https://rwandalii.org/akn/rw/act/law/2019/7/eng%402019-05-23" target="_blank" rel="noopener noreferrer nofollow">https://rwandalii.org/akn/rw/act/law/2019/7/eng%402019-05-23</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Law establishing Rwanda Civil Aviation Authority23 May 2019 — The head office of RCAA is located in the City of Kigali, the Capital of th...</p></details>
    Published: May 2019  
 
 36. <a id="endnote-36"></a>
    Source: tanzaniatimes.net  
    Title: rwanda only east african nation signatory to artemis accords  
-   Link: [https://tanzaniatimes.net/rwanda-only-east-african-nation-signatory-to-artemis-accords/](https://tanzaniatimes.net/rwanda-only-east-african-nation-signatory-to-artemis-accords/)  
+   Link: <a href="https://tanzaniatimes.net/rwanda-only-east-african-nation-signatory-to-artemis-accords/" target="_blank" rel="noopener noreferrer nofollow">https://tanzaniatimes.net/rwanda-only-east-african-nation-signatory-to-artemis-accords/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda is the only East African Nation which has signed...11 Dec 2024 — Angola and Rwanda are the only African Nations that are signator...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: capmad.com  
    Title: rwanda turns to 400 billion usd space industry  
-   Link: [https://www.capmad.com/technology-en/rwanda-turns-to-400-billion-usd-space-industry/](https://www.capmad.com/technology-en/rwanda-turns-to-400-billion-usd-space-industry/)  
+   Link: <a href="https://www.capmad.com/technology-en/rwanda-turns-to-400-billion-usd-space-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.capmad.com/technology-en/rwanda-turns-to-400-billion-usd-space-industry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2024 — In November 2019, Rwanda launched its first satellite, RwaSat-1.... collaboration with the OneWeb program, was sent into s...</p></details>
    Published: November 2019  
 
@@ -919,54 +889,54 @@ For Rwanda, this is arguably the most important aerospace development in the UFO
 
 38. <a id="endnote-38"></a>
    Source: uavcoach.com  
-   Link: [https://uavcoach.com/drone-laws-in-rwanda/](https://uavcoach.com/drone-laws-in-rwanda/)  
+   Link: <a href="https://uavcoach.com/drone-laws-in-rwanda/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-rwanda/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in RwandaGeneral Rules for Flying a Drone in Rwanda · All drones must be registered with the CAA. · The minimum age for anyone...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: visitrwanda.com  
-   Link: [https://visitrwanda.com/facts/drones/](https://visitrwanda.com/facts/drones/)  
+   Link: <a href="https://visitrwanda.com/facts/drones/" target="_blank" rel="noopener noreferrer nofollow">https://visitrwanda.com/facts/drones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DronesA permit is required to fly a drone recreationally or commercially in Rwanda. Permits are issued by the Rwanda Civil Aviation Autho...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: nanosats.eu  
-   Link: [https://www.nanosats.eu/sat/rwasat.html](https://www.nanosats.eu/sat/rwasat.html)  
+   Link: <a href="https://www.nanosats.eu/sat/rwasat.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nanosats.eu/sat/rwasat.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RWASAT-1 SpacecraftDeveloping space engineering capacity in Rwanda. It has two cameras for monitoring agriculture status. An antenna for...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: news24.com  
-   Link: [https://www.news24.com/world/africa/nigeria-and-rwanda-become-first-african-countries-to-sign-space-treaty-with-us-20221214](https://www.news24.com/world/africa/nigeria-and-rwanda-become-first-african-countries-to-sign-space-treaty-with-us-20221214)  
+   Link: <a href="https://www.news24.com/world/africa/nigeria-and-rwanda-become-first-african-countries-to-sign-space-treaty-with-us-20221214" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/world/africa/nigeria-and-rwanda-become-first-african-countries-to-sign-space-treaty-with-us-20221214</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria and Rwanda become first African countries to sign...14 Dec 2022 — Nigeria and Rwanda became the first African countries to sign...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: unoosa.org  
-   Link: [https://www.unoosa.org/documents/pdf/WSF/2021/Posters/AngeCynthia_Umuhire_-_Rwanda_Space_Agency_Status_-_Undergoing_projects_and_prospects_of_development.pdf](https://www.unoosa.org/documents/pdf/WSF/2021/Posters/AngeCynthia_Umuhire_-_Rwanda_Space_Agency_Status_-_Undergoing_projects_and_prospects_of_development.pdf)  
+   Link: <a href="https://www.unoosa.org/documents/pdf/WSF/2021/Posters/AngeCynthia_Umuhire_-_Rwanda_Space_Agency_Status_-_Undergoing_projects_and_prospects_of_development.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/WSF/2021/Posters/AngeCynthia_Umuhire_-_Rwanda_Space_Agency_Status_-_Undergoing_projects_and_prospects_of_development.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After one year, in 2019, the Rwanda&#x27;s first satellite, RWASAT-1 was launched with a mission of monitoring...Read more...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: engineeringnews.co.za  
    Title: nigeria and rwanda join nasas artemis space exploration accords 2022 12 14  
-   Link: [https://www.engineeringnews.co.za/article/nigeria-and-rwanda-join-nasas-artemis-space-exploration-accords-2022-12-14](https://www.engineeringnews.co.za/article/nigeria-and-rwanda-join-nasas-artemis-space-exploration-accords-2022-12-14)  
+   Link: <a href="https://www.engineeringnews.co.za/article/nigeria-and-rwanda-join-nasas-artemis-space-exploration-accords-2022-12-14" target="_blank" rel="noopener noreferrer nofollow">https://www.engineeringnews.co.za/article/nigeria-and-rwanda-join-nasas-artemis-space-exploration-accords-2022-12-14</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria and Rwanda join Nasa&#x27;s Artemis space exploration...Dec 14, 2022 — On Tuesday, Nigeria and Rwanda became the first African countr...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: tial.org  
    Title: space technology as a catalyst for development rwandas space agency  
-   Link: [https://tial.org/illustration-cases/space-technology-as-a-catalyst-for-development-rwandas-space-agency/](https://tial.org/illustration-cases/space-technology-as-a-catalyst-for-development-rwandas-space-agency/)  
+   Link: <a href="https://tial.org/illustration-cases/space-technology-as-a-catalyst-for-development-rwandas-space-agency/" target="_blank" rel="noopener noreferrer nofollow">https://tial.org/illustration-cases/space-technology-as-a-catalyst-for-development-rwandas-space-agency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space technology as a catalyst for development: Rwanda&#x27;s...Jul 7, 2025 — In November 2019, Rwanda launched its first satellite, RwaSat-1...</p></details>
    Published: November 2019  
 
 45. <a id="endnote-45"></a>
    Source: spacepolicyonline.com  
    Title: two african countries join artemis accords bringing total to 23  
-   Link: [https://spacepolicyonline.com/news/two-african-countries-join-artemis-accords-bringing-total-to-23/](https://spacepolicyonline.com/news/two-african-countries-join-artemis-accords-bringing-total-to-23/)  
+   Link: <a href="https://spacepolicyonline.com/news/two-african-countries-join-artemis-accords-bringing-total-to-23/" target="_blank" rel="noopener noreferrer nofollow">https://spacepolicyonline.com/news/two-african-countries-join-artemis-accords-bringing-total-to-23/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two African Countries Join Artemis Accords Bringing Total...Dec 13, 2022 — Nigeria and Rwanda today became the first African countries t...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: x.com  
-   Link: [https://x.com/japaninrwanda/status/2047288483132129632](https://x.com/japaninrwanda/status/2047288483132129632)  
+   Link: <a href="https://x.com/japaninrwanda/status/2047288483132129632" target="_blank" rel="noopener noreferrer nofollow">https://x.com/japaninrwanda/status/2047288483132129632</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>st 3U satellite, deployed from Kibo in 2019 for farming and...Read more...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/zuzvwz/why_did_nigeria_and_rwanda_sign_nasas_artemis/](https://www.reddit.com/r/nasa/comments/zuzvwz/why_did_nigeria_and_rwanda_sign_nasas_artemis/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/zuzvwz/why_did_nigeria_and_rwanda_sign_nasas_artemis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/zuzvwz/why_did_nigeria_and_rwanda_sign_nasas_artemis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Treaty, which has 112 countries as parties. BTW Greg...Read more...</p></details>

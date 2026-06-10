@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /singapore-20c0b7-index/
 description: Focused pages that expand on What Singapore UFO Sightings Really Show.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Singapore_20c0b7
 parent_title: What Singapore UFO Sightings Really Show

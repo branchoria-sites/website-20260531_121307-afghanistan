@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-153517/
   short_title: Records Gap
   heading_title: Why San Marino's UFO Record Is So Thin
-date: '2026-06-09 01:39:07 '
+date: '2026-06-10 02:06:04 '
 header:
   og_image: /assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1-social.jpg
   preview_image: /assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1.webp
@@ -254,19 +254,19 @@ image: /assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1-soci
 
 ## Introduction
 
-Project Titan was not a claim that [San Marino]({{ 'why-san-marino-became-a-ufo-meeting/' | relative_url }}) had solved the UFO mystery, uncovered secret evidence, or become a centre of classified aerospace research. Its significance was political. The initiative attempted to turn San Marino’s long association with international UFO conferences into a diplomatic proposal: using the republic’s neutrality and hosting history to encourage a United Nations-linked framework for discussing unidentified anomalous phenomena (UAP). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">Project Titan</span><span class="citation-popover-snippet">ICER ASSOCIATIONProject Titan is a plan of action centered on the tiny Republic of San Marino, located in the northern part of Italy, and...</span></span></span>
+Project Titan was not a claim that San Marino had solved the UFO mystery, uncovered secret evidence, or become a centre of classified aerospace research. Its significance was political. The initiative attempted to turn San Marino’s long association with international UFO conferences into a diplomatic proposal: using the republic’s neutrality and hosting history to encourage a United Nations-linked framework for discussing unidentified anomalous phenomena (UAP). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">Project Titan</span><span class="citation-popover-snippet">ICER ASSOCIATIONProject Titan is a plan of action centered on the tiny Republic of San Marino, located in the northern part of Italy, and...</span></span></span>
 
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1-dark.svg" | relative_url }}" alt="Project Titan illustration 1" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The proposal gained unusual visibility in January 2023 when San Marino’s parliament approved an Arengo petition connected to the project. Supporters described the vote as the first meaningful step towards placing UAP on an international diplomatic agenda. Critics and sceptics noted that a parliamentary endorsement inside a small state was not the same thing as a UN mandate, scientific validation, or proof of extraordinary claims. Understanding Project Titan therefore requires separating what San Marino actually approved from the much larger expectations that some advocates attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-snippet">Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</span><span class="citation-popover-meta">Published: January 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
+The proposal gained unusual visibility in January 2023 when San Marino’s parliament approved an Arengo petition connected to the project. Supporters described the vote as the first meaningful step towards placing UAP on an international diplomatic agenda. Critics and sceptics noted that a parliamentary endorsement inside a small state was not the same thing as a UN mandate, scientific validation, or proof of extraordinary claims. Understanding Project Titan therefore requires separating what San Marino actually approved from the much larger expectations that some advocates attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-snippet">Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</span><span class="citation-popover-meta">Published: January 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
 
 ## The January 2023 parliamentary vote
 
 The central political event occurred during the session of the Consiglio Grande e Generale, San Marino’s parliament, on 19 January 2023. Members considered Istanza d'Arengo No. 9, a citizen petition connected to Project Titan and promoted through cooperation between the Centro Ufologico Nazionale (CUN), Italy’s long-running UFO research organisation, and the International Coalition for Extraterrestrial Research (ICER). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17179416.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Istanza d&#x27;Arengo CGG gennaio 2023Istanze d&#x27;arengo, interpellanze, mozioni, convocazioni, verbali delle sedute consiliari...</span></span></span>
 
-According to parliamentary reporting and subsequent statements from project organisers, the measure passed with 25 votes in favour, two against, two abstentions and two members not voting. The result was notable because it transformed what had largely been a conference-network initiative into an officially endorsed political proposal inside a sovereign state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-snippet">Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</span><span class="citation-popover-meta">Published: January 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
+According to parliamentary reporting and subsequent statements from project organisers, the measure passed with 25 votes in favour, two against, two abstentions and two members not voting. The result was notable because it transformed what had largely been a conference-network initiative into an officially endorsed political proposal inside a sovereign state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-snippet">Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</span><span class="citation-popover-meta">Published: January 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
 
-The vote did not create a new government department, establish a national UAP archive, or declare that UFOs were extraterrestrial. Instead, it endorsed the idea that San Marino should support an international process aimed at encouraging structured discussion of UAP through international institutions. The distinction is important because many headlines treated the parliamentary approval as if it represented a breakthrough in UFO disclosure. In procedural terms, it was a vote supporting diplomatic engagement rather than a determination about the nature of the phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-snippet">Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</span><span class="citation-popover-meta">Published: January 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
+The vote did not create a new government department, establish a national UAP archive, or declare that UFOs were extraterrestrial. Instead, it endorsed the idea that San Marino should support an international process aimed at encouraging structured discussion of UAP through international institutions. The distinction is important because many headlines treated the parliamentary approval as if it represented a breakthrough in UFO disclosure. In procedural terms, it was a vote supporting diplomatic engagement rather than a determination about the nature of the phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-snippet">Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</span><span class="citation-popover-meta">Published: January 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
 
 ### Why an Arengo petition mattered
 
@@ -293,7 +293,7 @@ This explains why Project Titan was fundamentally different from a national UFO 
 
 ### The idea of a UN-linked conference process
 
-The most ambitious versions of the proposal envisioned a permanent UN-associated office preparing regular world conferences on UAP and related scientific questions. Advocates described a structure that could collect information, coordinate research and create a forum for governments willing to discuss the subject openly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
+The most ambitious versions of the proposal envisioned a permanent UN-associated office preparing regular world conferences on UAP and related scientific questions. Advocates described a structure that could collect information, coordinate research and create a forum for governments willing to discuss the subject openly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</span></span></span>
 
 However, these ambitions remained proposals rather than adopted UN policy. Public statements from ICER described desired outcomes and future goals, but no UN body formally established the office envisioned by Project Titan. This gap between aspiration and implementation became one of the central issues in assessing the initiative's real impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icer.pt">[icer.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icer.pt</span><span class="citation-popover-title">press relase project titan approved</span><span class="citation-popover-snippet">Press Relase: Project Titan Approved20 Jan 2023 — “On behalf of ICER and CUN I am honoured and delighted that the San Marino government h...</span></span></span>
 
@@ -339,7 +339,7 @@ As a result, the most tangible achievement remains the parliamentary endorsement
 
 Project Titan matters because it reveals a distinctive feature of San Marino’s role in the wider UAP debate. The republic is not primarily remembered for a catalogue of famous sightings or a large body of declassified military reports. Instead, its importance lies in convening, hosting and symbolic diplomacy.
 
-The initiative attempted to convert decades of conference activity into a formal international policy proposal. Whether judged as an ambitious diplomatic experiment or an unrealised advocacy campaign, it marked the moment when San Marino's UFO association moved beyond [symposium]({{ 'symposium-hub/' | relative_url }}) culture and entered parliamentary politics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-snippet">ICER ASSOCIATIONOn the evening of Thursday 19 the Great and General Council, the San Marino Parliament, discussed and voted on the &quot;Istan...</span></span></span>
+The initiative attempted to convert decades of conference activity into a formal international policy proposal. Whether judged as an ambitious diplomatic experiment or an unrealised advocacy campaign, it marked the moment when San Marino's UFO association moved beyond symposium culture and entered parliamentary politics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-snippet">ICER ASSOCIATIONOn the evening of Thursday 19 the Great and General Council, the San Marino Parliament, discussed and voted on the &quot;Istan...</span></span></span>
 
 That makes Project Titan one of the clearest examples of UAP governance rather than UAP evidence. The central question was never what had been seen in San Marino's skies. It was whether a small neutral republic could help create an international forum for discussing claims that governments, researchers and publics increasingly referred to as unidentified anomalous phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icerassociation.org/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-snippet">ICER ASSOCIATIONOn the evening of Thursday 19 the Great and General Council, the San Marino Parliament, discussed and voted on the &quot;Istan...</span></span></span>
 
@@ -347,86 +347,44 @@ That makes Project Titan one of the clearest examples of UAP governance rather t
 <img src="{{ "/assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-3-dark.svg" | relative_url }}" alt="Project Titan illustration 3" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Project Titan Really Meant for San Marino. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Project Titan Really Meant for San Marino, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly connects to official engagement, institutional responses and UAP diplomacy themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Covers contemporary UAP debates, government attention and international developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides historical context for organised UFO research and policy discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Explores how UFO ideas gain institutional and cultural legitimacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,75 +418,71 @@ That makes Project Titan one of the clearest examples of UAP governance rather t
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="project-titan-what-project-titan-really-meant-for-san-marino-san-marino-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-titan-what-project-titan-really-meant-for-san-marino-san-marino-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -743,160 +697,160 @@ That makes Project Titan one of the clearest examples of UAP governance rather t
 1. <a id="endnote-1"></a>
    Source: icerassociation.org  
    Title: Project Titan  
-   Link: [https://www.icerassociation.org/about/project-titan](https://www.icerassociation.org/about/project-titan)  
+   Link: <a href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/about/project-titan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICER ASSOCIATIONProject Titan is a plan of action centered on the tiny Republic of San Marino, located in the northern part of Italy, and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dire.it  
-   Link: [https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/](https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/)  
+   Link: <a href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow">https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agenzia DireReport del Consiglio Grande e Generale di San Marino...January 19, 2023 — 19 Jan 2023 — L&#x27;Aula passa quindi all&#x27;esame delle...</p></details>
    Published: January 19, 2023  
 
 3. <a id="endnote-3"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978](https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978)  
+   Link: <a href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: icerassociation.org  
    Title: Project Titan Update  
-   Link: [https://www.icerassociation.org/news/project-titan-update](https://www.icerassociation.org/news/project-titan-update)  
+   Link: <a href="https://www.icerassociation.org/news/project-titan-update" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/news/project-titan-update</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICER ASSOCIATIONDue to a government crisis in May 2023, the San Marino government finds itself unable to implement the United Nations act...</p></details>
    Published: May 2023  
 
 5. <a id="endnote-5"></a>
    Source: consigliograndeegenerale.sm  
-   Link: [https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17179416.html](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17179416.html)  
+   Link: <a href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17179416.html" target="_blank" rel="noopener noreferrer nofollow">https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17179416.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Istanza d&#x27;Arengo CGG gennaio 2023Istanze d&#x27;arengo, interpellanze, mozioni, convocazioni, verbali delle sedute consiliari...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: icer.pt  
    Title: press relase project titan approved  
-   Link: [https://icer.pt/2023/01/20/press-relase-project-titan-approved/](https://icer.pt/2023/01/20/press-relase-project-titan-approved/)  
+   Link: <a href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow">https://icer.pt/2023/01/20/press-relase-project-titan-approved/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Press Relase: Project Titan Approved20 Jan 2023 — “On behalf of ICER and CUN I am honoured and delighted that the San Marino government h...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: icerassociation.org  
-   Link: [https://www.icerassociation.org/news](https://www.icerassociation.org/news)  
+   Link: <a href="https://www.icerassociation.org/news" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/news</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICER ASSOCIATIONOn the evening of Thursday 19 the Great and General Council, the San Marino Parliament, discussed and voted on the &quot;Istan...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: icer.pt  
    Title: project titan update  
-   Link: [https://icer.pt/2023/09/11/project-titan-update/](https://icer.pt/2023/09/11/project-titan-update/)  
+   Link: <a href="https://icer.pt/2023/09/11/project-titan-update/" target="_blank" rel="noopener noreferrer nofollow">https://icer.pt/2023/09/11/project-titan-update/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2023 — Prepared by the new UN Office, the Conference would be held under the aegis of the UN by care of the Republic of San Marin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: consigliograndeegenerale.sm  
-   Link: [https://www.consigliograndeegenerale.sm/on-line/home/scheda17182347.html](https://www.consigliograndeegenerale.sm/on-line/home/scheda17182347.html)  
+   Link: <a href="https://www.consigliograndeegenerale.sm/on-line/home/scheda17182347.html" target="_blank" rel="noopener noreferrer nofollow">https://www.consigliograndeegenerale.sm/on-line/home/scheda17182347.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elenco Istanze d&#x27;Arengo Settembre 2023istanza: Istanza d&#x27;Arengo n.9 02-04-2023 - Per l&#x27;attuazione di politiche per contrastare il cambiam...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: consigliograndeegenerale.sm  
-   Link: [https://www.consigliograndeegenerale.sm/on-line/home/scheda17178175.html](https://www.consigliograndeegenerale.sm/on-line/home/scheda17178175.html)  
+   Link: <a href="https://www.consigliograndeegenerale.sm/on-line/home/scheda17178175.html" target="_blank" rel="noopener noreferrer nofollow">https://www.consigliograndeegenerale.sm/on-line/home/scheda17178175.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Istanza d&#x27;Arengo n.9 (02-10-2022) - Per l&#x27;adesione di San...DETTAGLIO:; data presentazione: 02/10/2022; numero istanza: 9; data esame...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thedebrief.org  
    Title: san marino could become the u n s new geneva for ufos  
-   Link: [https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/](https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/)  
+   Link: <a href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: paologuizzardi.net  
    Title: Project Titan  
-   Link: [https://paologuizzardi.net/Blog/posts/23/ProgTitano/HistoryIsMade.htm](https://paologuizzardi.net/Blog/posts/23/ProgTitano/HistoryIsMade.htm)  
+   Link: <a href="https://paologuizzardi.net/Blog/posts/23/ProgTitano/HistoryIsMade.htm" target="_blank" rel="noopener noreferrer nofollow">https://paologuizzardi.net/Blog/posts/23/ProgTitano/HistoryIsMade.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History is made26 Jan 2023 — Finally, on March 19th in the course of the January session of parliamentary work, the Istanza d&#x27;Arengo was...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: paologuizzardi.net  
    Title: Project Titan  
-   Link: [https://paologuizzardi.net/Blog/posts/23/ProgTitano/1stOpMtng-ENG.htm](https://paologuizzardi.net/Blog/posts/23/ProgTitano/1stOpMtng-ENG.htm)  
+   Link: <a href="https://paologuizzardi.net/Blog/posts/23/ProgTitano/1stOpMtng-ENG.htm" target="_blank" rel="noopener noreferrer nofollow">https://paologuizzardi.net/Blog/posts/23/ProgTitano/1stOpMtng-ENG.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First operative meeting held in San Marino25 Jun 2023 — On June 19, 2023 the first operative meeting on the implementation of the Project...</p></details>
    Published: June 19, 2023  
 
 14. <a id="endnote-14"></a>
    Source: giornalesm.com  
    Title: San Marino  
-   Link: [https://giornalesm.com/san-marino-consiglio-grande-e-generale-esame-del-comma-15-dedicato-alle-istanze-darengo-venerdi-20-febbraio-2026-report-by-askanews/](https://giornalesm.com/san-marino-consiglio-grande-e-generale-esame-del-comma-15-dedicato-alle-istanze-darengo-venerdi-20-febbraio-2026-report-by-askanews/)  
+   Link: <a href="https://giornalesm.com/san-marino-consiglio-grande-e-generale-esame-del-comma-15-dedicato-alle-istanze-darengo-venerdi-20-febbraio-2026-report-by-askanews/" target="_blank" rel="noopener noreferrer nofollow">https://giornalesm.com/san-marino-consiglio-grande-e-generale-esame-del-comma-15-dedicato-alle-istanze-darengo-venerdi-20-febbraio-2026-report-by-askanews/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consiglio Grande e Generale, esame del...20 Feb 2026 — L&#x27;Istanza è respinta con 23 voti contrari, 7 favorevoli, 2 astenuti. Si discute s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: giornalesm.com  
    Title: San Marino  
-   Link: [https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/](https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/)  
+   Link: <a href="https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/" target="_blank" rel="noopener noreferrer nofollow">https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, ONU E PROGETTO TITANO: IL MONDO...20 Jul 2023 — The UN General Assembly could discuss the Project Titan initiative next September...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: PROJEC T TITAN  
-   Link: [https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/](https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN - SAN MARINO, UFOS AND THE UNThe date of September 13, 2021 could represent a moment of great importance for world history...</p></details>
    Published: September 13, 2021  
 
 17. <a id="endnote-17"></a>
    Source: libertas.sm  
-   Link: [https://www.libertas.sm/san-marino-consiglio-grande-e-generale-seduta-del-20-novembre-pomeriggio-resoconto-integrale-askanews/](https://www.libertas.sm/san-marino-consiglio-grande-e-generale-seduta-del-20-novembre-pomeriggio-resoconto-integrale-askanews/)  
+   Link: <a href="https://www.libertas.sm/san-marino-consiglio-grande-e-generale-seduta-del-20-novembre-pomeriggio-resoconto-integrale-askanews/" target="_blank" rel="noopener noreferrer nofollow">https://www.libertas.sm/san-marino-consiglio-grande-e-generale-seduta-del-20-novembre-pomeriggio-resoconto-integrale-askanews/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino - Consiglio grande e generale, seduta del 20...21 Nov 2025 — In conclusione, le istanze d&#x27;Arengo sono uno strumento di democr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/senior-space-force-official-acknowledges-global-presence-of-ufos-and-underlines-importance-of-international-collaboration](https://www.liberationtimes.com/home/senior-space-force-official-acknowledges-global-presence-of-ufos-and-underlines-importance-of-international-collaboration)  
+   Link: <a href="https://www.liberationtimes.com/home/senior-space-force-official-acknowledges-global-presence-of-ufos-and-underlines-importance-of-international-collaboration" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/senior-space-force-official-acknowledges-global-presence-of-ufos-and-underlines-importance-of-international-collaboration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Senior Space Force Official Acknowledges Global...15 Apr 2023 — This comes following the approval of Project Titan by San Marino, meanin...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: anis.sm  
-   Link: [https://www.anis.sm/wp-content/uploads/2021/04/76-501-426-Istanze-d-arengo_ottobre.pdf](https://www.anis.sm/wp-content/uploads/2021/04/76-501-426-Istanze-d-arengo_ottobre.pdf)  
+   Link: <a href="https://www.anis.sm/wp-content/uploads/2021/04/76-501-426-Istanze-d-arengo_ottobre.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anis.sm/wp-content/uploads/2021/04/76-501-426-Istanze-d-arengo_ottobre.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>501-426 Istanze d arengo_ottobreSi chiede di definire un&#x27;azione comune per perseguire i seguenti obiettivi: - delineare una chiara vision...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: worksheets.codalab.org  
-   Link: [https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt](https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt)  
+   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... january decision stock america given give often announced television... vote book fell seen ro...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spreaker.com  
-   Link: [https://www.spreaker.com/episode/ufo-disclosure-the-san-marino-initiative-paolo-guizzardi-on-et-s-and-project-titan--71132692](https://www.spreaker.com/episode/ufo-disclosure-the-san-marino-initiative-paolo-guizzardi-on-et-s-and-project-titan--71132692)  
+   Link: <a href="https://www.spreaker.com/episode/ufo-disclosure-the-san-marino-initiative-paolo-guizzardi-on-et-s-and-project-titan--71132692" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/ufo-disclosure-the-san-marino-initiative-paolo-guizzardi-on-et-s-and-project-titan--71132692</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paolo Guizzardi on ET&#x27;s and Project Titan6 Apr 2026 —... United Nations, Paolo reveals how the Republic of San Marino is positioned to b...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs](https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs)  
+   Link: <a href="https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>141 The italicized copy most likely refers to ICER&#x27;s Project Titan, potentially...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 374170335 Hyperconvergence Religion Politics and UFOs  
-   Link: [https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs](https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs)  
+   Link: <a href="https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Hyperconvergence: Religion, Politics, and UFOs14 Sept 2023 — This book examines the intersection of politics and religion as relate...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sanmarinortv.sm  
    Title: Epilogo di sessione dedicato alle Istanze d'Arengo  
-   Link: [https://www.sanmarinortv.sm/news/politica-c2/epilogo-di-sessione-dedicato-alle-istanze-d-arengo-approvate-7-su-11-a286801](https://www.sanmarinortv.sm/news/politica-c2/epilogo-di-sessione-dedicato-alle-istanze-d-arengo-approvate-7-su-11-a286801)  
+   Link: <a href="https://www.sanmarinortv.sm/news/politica-c2/epilogo-di-sessione-dedicato-alle-istanze-d-arengo-approvate-7-su-11-a286801" target="_blank" rel="noopener noreferrer nofollow">https://www.sanmarinortv.sm/news/politica-c2/epilogo-di-sessione-dedicato-alle-istanze-d-arengo-approvate-7-su-11-a286801</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2026 — Medesimo l&#x27;esito positivo per l&#x27;Istanza sull&#x27;accesso alla previdenza per chi assiste gli anziani; circa 400 – è stato detto...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: projectavalon.net  
-   Link: [https://projectavalon.net/forum4/showthread.php?111808-Announcement-of-International-Coalition-for-Extraterrestrial-Research--ICER-%2Fpage2=](https://projectavalon.net/forum4/showthread.php?111808-Announcement-of-International-Coalition-for-Extraterrestrial-Research--ICER-%2Fpage2=)  
+   Link: <a href="https://projectavalon.net/forum4/showthread.php?111808-Announcement-of-International-Coalition-for-Extraterrestrial-Research--ICER-%2Fpage2=" target="_blank" rel="noopener noreferrer nofollow">https://projectavalon.net/forum4/showthread.php?111808-Announcement-of-International-Coalition-for-Extraterrestrial-Research--ICER-%2Fpage2=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an, created by ICER, meaning that the government of San Marino will submit a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: en.sanmarinoaerospace.sm  
    Title: sm Titan Aerospace Innovation Technologies  
-   Link: [https://en.sanmarinoaerospace.sm/](https://en.sanmarinoaerospace.sm/)  
+   Link: <a href="https://en.sanmarinoaerospace.sm/" target="_blank" rel="noopener noreferrer nofollow">https://en.sanmarinoaerospace.sm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Innovation Technologies - San Marino...We are pioneers in San Marino&#x27;s aerospace industry, offering advanced technological sol...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pacermonitor.com  
    Title: Exide Technologies debke 13 11482 3218.0  
-   Link: [https://www.pacermonitor.com/public/filings/DJ675FEI/Exide_Technologies__debke-13-11482__3218.0.pdf](https://www.pacermonitor.com/public/filings/DJ675FEI/Exide_Technologies__debke-13-11482__3218.0.pdf)  
+   Link: <a href="https://www.pacermonitor.com/public/filings/DJ675FEI/Exide_Technologies__debke-13-11482__3218.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacermonitor.com/public/filings/DJ675FEI/Exide_Technologies__debke-13-11482__3218.0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exide_Technologies__debke-13-11482__3218.0.pdfIN THE UNITED STATES BANKRUPTCY COURT FOR THE DISTRICT OF DELAWARE...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tas-education.org  
    Title: Project Titan and the United Nations  
-   Link: [https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/](https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/)  
+   Link: <a href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow">https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exo Studies ResourcesA proposal to the United Nations for the creation of a permanent office to organise global conferences in San Merino...</p></details>

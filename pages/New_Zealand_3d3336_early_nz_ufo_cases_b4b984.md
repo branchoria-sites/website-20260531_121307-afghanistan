@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-61f9e4/
   short_title: Explanations
   heading_title: When New Zealand UFOs Stop Being UFOs
-date: '2026-06-09 01:35:36 '
+date: '2026-06-10 02:02:07 '
 header:
   og_image: /assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-social.jpg
   preview_image: /assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-
 
 ## Introduction
 
-Long before the 1978 Kaikōura sightings made [New Zealand]({{ 'what-new-zealands-ufo-files-really-show/' | relative_url }}) internationally known in UFO circles, the country had already accumulated a curious record of aerial mysteries. The earliest stories were not about metallic flying saucers. They emerged during the age of newspapers, steamships and experimental aviation, when reports of strange lights and alleged airships spread through towns that had never seen a powered aircraft. Later decades added closer encounters, claimed landing traces and stories of physical evidence that seemed harder to dismiss than a distant light in the sky.
+Long before the 1978 Kaikōura sightings made New Zealand internationally known in UFO circles, the country had already accumulated a curious record of aerial mysteries. The earliest stories were not about metallic flying saucers. They emerged during the age of newspapers, steamships and experimental aviation, when reports of strange lights and alleged airships spread through towns that had never seen a powered aircraft. Later decades added closer encounters, claimed landing traces and stories of physical evidence that seemed harder to dismiss than a distant light in the sky.
 
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-dark.svg" | relative_url }}" alt="Early Cases illustration 1" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -353,86 +353,44 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Before Kaikoura, What Did People See?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Before Kaikoura, What Did People See?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a broad framework for evaluating historical UFO cases and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding how early sighting waves and unexplained reports are classified and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains investigative approaches applicable to New Zealand&#x27;s early cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Connects historical mystery-airship and anomalous-light reports to broader traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,75 +424,71 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-t-shirt-gerry-anderson-series-television-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-t-shirt-gerry-anderson-series-television-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-cases-before-kaikoura-what-did-people-see-new-zealand-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -749,167 +703,167 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
 1. <a id="endnote-1"></a>
    Source: ufocusnz.org.nz  
    Title: the 1909 kelso airships of new zealand  
-   Link: [https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/](https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/)  
+   Link: <a href="https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon began in the southernmost part of the country, spread northwards.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: daily.jstor.org  
    Title: phantom flying machines  
-   Link: [https://daily.jstor.org/phantom-flying-machines/](https://daily.jstor.org/phantom-flying-machines/)  
+   Link: <a href="https://daily.jstor.org/phantom-flying-machines/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/phantom-flying-machines/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyThe History of UFOsApr 1, 2016 — UFOs are much older than the Cold War&#x27;s flying saucers. These 1897 and 1909 sightings of flyi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery airshipIn 1909, a series of mystery airship sightings reported around New England... Airship sightings were also reported fro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: articles.skeptics.nz  
    Title: the great zeppelin scare of 1909  
-   Link: [https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/](https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/)  
+   Link: <a href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow">https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</p></details>
    Published: May 1998  
 
 5. <a id="endnote-5"></a>
    Source: ufocusnz.org.nz  
    Title: the moreland sighting 1959  
-   Link: [https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/](https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/)  
+   Link: <a href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow">https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theozfiles.blogspot.com  
    Title: moreland revelations  
-   Link: [https://theozfiles.blogspot.com/2011/09/moreland-revelations.html](https://theozfiles.blogspot.com/2011/09/moreland-revelations.html)  
+   Link: <a href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2011/09/moreland-revelations.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</p></details>
    Published: July 1959  
 
 7. <a id="endnote-7"></a>
    Source: interactives.stuff.co.nz  
-   Link: [https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/](https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/)  
+   Link: <a href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow">https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: files.bluebookfiles.org  
    Title: RNZAF report on.Read more  
-   Link: [https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf](https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</p></details>
    Published: February 9, 2026  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. Copy /if of 36 NEW ZEALAND DEFENCE FORCE UNIDENTIFIED FLYING OBJECTS (UFO) FILES...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ngataonga.org.nz  
-   Link: [https://www.ngataonga.org.nz/search-use-collection/search/31841/](https://www.ngataonga.org.nz/search-use-collection/search/31841/)  
+   Link: <a href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/31841/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: strangeco.blogspot.com  
    Title: the ngatea crop circle  
-   Link: [https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html](https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html)  
+   Link: <a href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</p></details>
    Published: May 2022  
 
 12. <a id="endnote-12"></a>
    Source: nzgeo.com  
    Title: crowded skies the ufo experience in new zealand  
-   Link: [https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/](https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/)  
+   Link: <a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nzgeo.com  
-   Link: [https://www.nzgeo.com/stories/x-files/](https://www.nzgeo.com/stories/x-files/)  
+   Link: <a href="https://www.nzgeo.com/stories/x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/x-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand GeographicX-filesThe average speed of airships was about 40 km/h, and they had poor manoeuvrability. Only 27 were known to ha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hauntedauckland.com  
    Title: the new zealand ufo wave of 1909 by tony brunt1967  
-   Link: [https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/](https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/)  
+   Link: <a href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: paperspast.natlib.govt.nz  
-   Link: [https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51](https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51)  
+   Link: <a href="https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51" target="_blank" rel="noopener noreferrer nofollow">https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ls it an airship? That is the question which people are seriously asking themselves concerning the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: paperspast.natlib.govt.nz  
-   Link: [https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120](https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120)  
+   Link: <a href="https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120" target="_blank" rel="noopener noreferrer nofollow">https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Past | 29 July 1909 | THE MYSTERIOUS &quot;AIRSHIP.&quot;THE MYSTERIOUS &quot;AIRSHIP.&quot; STORY OF AN &quot;EYE-WITNESS.&quot; [BI TELEGRAPH SPECIAL TO THE POST.] D...</p></details>
    Published: July 1909  
 
 17. <a id="endnote-17"></a>
    Source: aa.co.nz  
    Title: ngatea crop circles did aliens visit the waikato  
-   Link: [https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/](https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/)  
+   Link: <a href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</p></details>
    Published: September 1969  
 
 18. <a id="endnote-18"></a>
    Source: trove.nla.gov.au  
-   Link: [https://trove.nla.gov.au/newspaper/article/19599016](https://trove.nla.gov.au/newspaper/article/19599016)  
+   Link: <a href="https://trove.nla.gov.au/newspaper/article/19599016" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/19599016</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au31 Jul 1909 - MYSTERIOUS AIRSHIP. - TroveRemarkable stories are coming from the South Island regarding a anysterious light seen...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/](https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineFear of FloatingMany historians, Clarke says, think the airship scare was worked up by newspapers such as the Daily M...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fyi.org.nz  
    Title: 29915 all references to a mrs eileen moreland marlborough region  
-   Link: [https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region](https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region)  
+   Link: <a href="https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27; sighting on 13th July 1959 and subsequent investigations. I am aware that several documents have been released via OIA in years prio...</p></details>
    Published: July 1959  
 
 21. <a id="endnote-21"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm](https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UfologieJuly 13, 1959, Blenheim, Marlborough, New Zealand, Eileen...3 Nov 2006 — Eileen Moreland experienced had a UFO sightings of 2 to...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 13, 1959, Blenheim, Marlborough, New Zealand, Eileen...3 Nov 2006 — Eileen Moreland experienced had a UFO sightings of 2 to...</p></details>
    Published: July 13, 1959  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/](https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly on the morning of July 13th, 1959 when she noticed a strange...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: Flying Saucers and UFOs in New Zealand!  
-   Link: [https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/](https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/)  
+   Link: <a href="https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1956...Flying Saucers and UFOs in New Zealand! From 1956 to 1988 the New Zealand Meteorological Service, Auckland received so many...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/](https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/)  
+   Link: <a href="https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 23, 1909...[44] Later sightings There was a series of mystery airship sightings in 1909 in New England, which were triggered b...</p></details>
    Published: September 23, 1909  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
    Title: What caused the Ngatea Circles?  
-   Link: [https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/](https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most intriguing case...&quot;Some outside object appears to have landed on the spot, and in taking off emitted energy which cooked the pl...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
    Title: WORKIN G ON A SECOND SERIES  
-   Link: [https://www.instagram.com/reel/DVu68VckV-Z/](https://www.instagram.com/reel/DVu68VckV-Z/)  
+   Link: <a href="https://www.instagram.com/reel/DVu68VckV-Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVu68VckV-Z/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WORKING ON A SECOND SERIES - LET ME KNOW YOUR...Has there been UFOs in New Zealand? The year was 1969 and something strange occurred COU...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: digitalnz.org  
    Title: TH E MYSTERIOUS AIRSHIP  
-   Link: [https://digitalnz.org/records/34146877](https://digitalnz.org/records/34146877)  
+   Link: <a href="https://digitalnz.org/records/34146877" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/records/34146877</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Mataura Ensign 22-5-1909)THE MYSTERIOUS AIRSHIP. (Mataura Ensign 22-5-1909); Content partner: National Library of New Zealand; Collectio...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: airminded.org  
    Title: scareships over fiji  
-   Link: [https://airminded.org/2021/01/25/scareships-over-fiji/](https://airminded.org/2021/01/25/scareships-over-fiji/)  
+   Link: <a href="https://airminded.org/2021/01/25/scareships-over-fiji/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2021/01/25/scareships-over-fiji/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?25 Jan 2021 — The gentle dig about Fiji getting a mystery airship visit before Auckland — though I think it did get some visits during t...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /thailand-a2b7c1-index/
 description: Focused pages that expand on Thailand.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Thailand_a2b7c1
 parent_title: Thailand

@@ -239,7 +239,7 @@ prev_link:
   permalink: /pampanga-lights/
   short_title: Pampanga Lights
   heading_title: Were Pampanga's Dancing Lights Really UFOs?
-date: '2026-06-09 01:37:25 '
+date: '2026-06-10 02:04:03 '
 header:
   og_image: /assets/images/Philippines_806736_rocket_debris_explan_6f9784-Illustration-1-social.jpg
   preview_image: /assets/images/Philippines_806736_rocket_debris_explan_6f9784-Illustration-1.webp
@@ -338,7 +338,7 @@ The Philippines' location near major sea routes and beneath viewing corridors fo
 
 Meteor showers are another recurring source of Philippine UFO reports.
 
-PAGASA regularly publishes astronomical diaries detailing expected meteor activity, including events such as the Eta Aquariids, Perseids, Lyrids, Quadrantids, and other annual showers. These events can produce sudden flashes, bright streaks, and occasional fireballs visible to the naked eye. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagasa.dost.gov.ph">[PAGASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagasa.dost.gov.ph</span><span class="citation-popover-title">PAGASAAstronomical Diary</span><span class="citation-popover-snippet">PAGASA - DOSTThe η-Aquariid meteor shower will be active from 19 April to 28 May, with peak activity expected on 05 May. This meteor show...</span></span></span>
+PAGASA regularly publishes astronomical diaries detailing expected meteor activity, including events such as the Eta Aquariids, Perseids, Lyrids, Quadrantids, and other annual showers. These events can produce sudden flashes, bright streaks, and occasional fireballs visible to the naked eye. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagasa.dost.gov.ph">[PAGASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagasa.dost.gov.ph</span><span class="citation-popover-title">PAGASAAstronomical Diary</span><span class="citation-popover-snippet">DOSTThe η-Aquariid meteor shower will be active from 19 April to 28 May, with peak activity expected on 05 May. This meteor show...</span></span></span>
 
 Several factors make meteor sightings vulnerable to UFO interpretation:
 
@@ -355,7 +355,7 @@ Several factors make meteor sightings vulnerable to UFO interpretation:
 
 In practical terms, a witness who sees a bright object crossing the sky at dawn has no immediate way of distinguishing between a meteor, re-entering debris, an aircraft contrail catching sunlight, or something genuinely unusual. That uncertainty is the starting point of many UFO reports.
 
-The existence of a documented meteor shower at the same time does not automatically explain every sighting. However, it provides an important baseline that investigators check before considering more extraordinary possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagasa.dost.gov.ph">[PAGASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagasa.dost.gov.ph</span><span class="citation-popover-title">PAGASAAstronomical Diary</span><span class="citation-popover-snippet">PAGASA - DOSTThe η-Aquariid meteor shower will be active from 19 April to 28 May, with peak activity expected on 05 May. This meteor show...</span></span></span>
+The existence of a documented meteor shower at the same time does not automatically explain every sighting. However, it provides an important baseline that investigators check before considering more extraordinary possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagasa.dost.gov.ph">[PAGASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagasa.dost.gov.ph</span><span class="citation-popover-title">PAGASAAstronomical Diary</span><span class="citation-popover-snippet">DOSTThe η-Aquariid meteor shower will be active from 19 April to 28 May, with peak activity expected on 05 May. This meteor show...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xd_7t43WL78" title="SpaceX launch lights up the sky in an unbelievable way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xd_7t43WL78" target="_blank" rel="noopener noreferrer">SpaceX launch lights up the sky in an unbelievable way</a></p><p class="youtube-embed-meta">Channel: News4JAX The Local Station &middot; Views: 63.5K &middot; Uploaded: May 2022 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xd_7t43WL78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xd_7t43WL78">Open on YouTube</a></p></div></div></div>
@@ -397,86 +397,44 @@ This makes the Philippine UFO record valuable in a different way from popular my
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Mystery Lights Have Space Age Causes. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Mystery Lights Have Space Age Causes, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Strong fit for explaining misidentifications and evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides background on astronomical phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers contrast between unexplained cases and successfully identified events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on identification and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -510,75 +468,71 @@ This makes the Philippine UFO record valuable in a different way from popular my
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-e565b1-when-mystery-lights-have-space-age-causes-philippines-ufo-poster-book-books-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -793,54 +747,54 @@ This makes the Philippine UFO record valuable in a different way from popular my
 1. <a id="endnote-1"></a>
    Source: philsa.gov.ph  
    Title: advisory on space jellyfish sighting on may 12  
-   Link: [https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/](https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-space-jellyfish-sighting-on-may-12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philippine Space Agency (PhilSA)Advisory on &quot;Space Jellyfish” sighting on May 1213 May 2026 — The phenomenon is commonly called a “space...</p></details>
    Published: May 1213  
 
 2. <a id="endnote-2"></a>
    Source: pna.gov.ph  
-   Link: [https://www.pna.gov.ph/articles/1267298](https://www.pna.gov.ph/articles/1267298)  
+   Link: <a href="https://www.pna.gov.ph/articles/1267298" target="_blank" rel="noopener noreferrer nofollow">https://www.pna.gov.ph/articles/1267298</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philippine News AgencyPhilSA: Chinese rocket debris may have fallen in PH waters19 Jan 2026 — In an advisory, the PhilSA identified two p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pagasa.dost.gov.ph  
    Title: PAGASAAstronomical Diary  
-   Link: [https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary](https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PAGASA - DOSTThe η-Aquariid meteor shower will be active from 19 April to 28 May, with peak activity expected on 05 May. This meteor show...</p></details>
+   Link: <a href="https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary" target="_blank" rel="noopener noreferrer nofollow">https://www.pagasa.dost.gov.ph/astronomy/astronomical-diary</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOSTThe η-Aquariid meteor shower will be active from 19 April to 28 May, with peak activity expected on 05 May. This meteor show...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pna.gov.ph  
-   Link: [https://www.pna.gov.ph/articles/1274944](https://www.pna.gov.ph/articles/1274944)  
+   Link: <a href="https://www.pna.gov.ph/articles/1274944" target="_blank" rel="noopener noreferrer nofollow">https://www.pna.gov.ph/articles/1274944</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philippine News Agency&#x27;Space jellyfish&#x27; sighted likely from Chinese rocket – PhilSA13 May 2026 — Called “space jellyfish”, the PhilSA sai...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: [https://en.wikipedia.org/wiki/Space_jellyfish](https://en.wikipedia.org/wiki/Space_jellyfish)  
+   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
 6. <a id="endnote-6"></a>
    Source: philsa.gov.ph  
    Title: advisory on the long march 8a rocket launch 4  
-   Link: [https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-4/](https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-4/)  
+   Link: <a href="https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-4/" target="_blank" rel="noopener noreferrer nofollow">https://philsa.gov.ph/news/advisory-on-the-long-march-8a-rocket-launch-4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philippine Space Agency (PhilSA)Advisory on the Long March 8A rocket launch6 Dec 2025 — Expected debris from the rocket launch was projec...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubfiles.pagasa.dost.gov.ph  
-   Link: [https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/04%20Astro%20Diary%20Press%20Release%20April%202026.pdf](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/04%20Astro%20Diary%20Press%20Release%20April%202026.pdf)  
+   Link: <a href="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/04%20Astro%20Diary%20Press%20Release%20April%202026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/04%20Astro%20Diary%20Press%20Release%20April%202026.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astro Diary Press Release April 2026 - PAGASA Public Files26 Apr 2026 — Figure 6: The view of the northern sky during the peak of Lyrid m...</p></details>
    Published: April 2026  
 
 8. <a id="endnote-8"></a>
    Source: pubfiles.pagasa.dost.gov.ph  
    Title: ASTRONOMICA L DIARY  
-   Link: [https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/01%20Astro%20Diary%20Press%20Release%20January%202026.pdf](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/01%20Astro%20Diary%20Press%20Release%20January%202026.pdf)  
+   Link: <a href="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/01%20Astro%20Diary%20Press%20Release%20January%202026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/astronomy/01%20Astro%20Diary%20Press%20Release%20January%202026.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quadrantid meteor shower (ZHR = 120). Conjunction of the Waning Gibbous Moon and Jupiter.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: geospatialworld.net  
    Title: Geospatial World Phil SA Takes Action to Mitigate Space Debris Threat  
-   Link: [https://geospatialworld.net/prime/technology-and-innovation/philsa-takes-action-mitigate-space-debris-threat/](https://geospatialworld.net/prime/technology-and-innovation/philsa-takes-action-mitigate-space-debris-threat/)  
+   Link: <a href="https://geospatialworld.net/prime/technology-and-innovation/philsa-takes-action-mitigate-space-debris-threat/" target="_blank" rel="noopener noreferrer nofollow">https://geospatialworld.net/prime/technology-and-innovation/philsa-takes-action-mitigate-space-debris-threat/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geospatial WorldPhilSA Takes Action to Mitigate Space Debris ThreatJuly 4, 2023 — 4 Jul 2023 — The Philippine Space Agency (PhilSA) recen...</p></details>
    Published: July 4, 2023  
 
@@ -848,56 +802,56 @@ This makes the Philippine UFO record valuable in a different way from popular my
 
 10. <a id="endnote-10"></a>
    Source: globalnation.inquirer.net  
-   Link: [https://globalnation.inquirer.net/324693/philsa-warns-of-china-rocket-debris-risk-off-northern-luzon](https://globalnation.inquirer.net/324693/philsa-warns-of-china-rocket-debris-risk-off-northern-luzon)  
+   Link: <a href="https://globalnation.inquirer.net/324693/philsa-warns-of-china-rocket-debris-risk-off-northern-luzon" target="_blank" rel="noopener noreferrer nofollow">https://globalnation.inquirer.net/324693/philsa-warns-of-china-rocket-debris-risk-off-northern-luzon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NationPhilSA warns of China rocket debris risk off Northern Luzon3 days ago — PhilSA warned the public and maritime operators of p...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theskylive.com  
-   Link: [https://theskylive.com/guide?geoid=1696662](https://theskylive.com/guide?geoid=1696662)  
+   Link: <a href="https://theskylive.com/guide?geoid=1696662" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/guide?geoid=1696662</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sky Tonight from Pag-asa, PhilippinesAn observing guide for the sky tonight, customized for Pag-asa, Philippines. Includes an interac...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/residents-in-the-philippines-were-wowed-by-a-bright-streak-flying-across-the-nig/962287335755913/](https://www.facebook.com/AccuWeather/posts/residents-in-the-philippines-were-wowed-by-a-bright-streak-flying-across-the-nig/962287335755913/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/residents-in-the-philippines-were-wowed-by-a-bright-streak-flying-across-the-nig/962287335755913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/residents-in-the-philippines-were-wowed-by-a-bright-streak-flying-across-the-nig/962287335755913/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents in the Philippines were wowed by a bright streak...PhilSA Warns Of Chinese Rocket Debris The Philippine Space Agency (PhilSA)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PhilippineSTAR/posts/space-jellyfish-sighted-in-ph-the-philippine-space-agency-explained-on-sunday-th/1455694226594452/](https://www.facebook.com/PhilippineSTAR/posts/space-jellyfish-sighted-in-ph-the-philippine-space-agency-explained-on-sunday-th/1455694226594452/)  
+   Link: <a href="https://www.facebook.com/PhilippineSTAR/posts/space-jellyfish-sighted-in-ph-the-philippine-space-agency-explained-on-sunday-th/1455694226594452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhilippineSTAR/posts/space-jellyfish-sighted-in-ph-the-philippine-space-agency-explained-on-sunday-th/1455694226594452/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DitoSaPH/posts/the-philippine-space-agency-philsa-dispelled-rumors-that-the-mysterious-glowing-/945965451584982/](https://www.facebook.com/DitoSaPH/posts/the-philippine-space-agency-philsa-dispelled-rumors-that-the-mysterious-glowing-/945965451584982/)  
+   Link: <a href="https://www.facebook.com/DitoSaPH/posts/the-philippine-space-agency-philsa-dispelled-rumors-that-the-mysterious-glowing-/945965451584982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DitoSaPH/posts/the-philippine-space-agency-philsa-dispelled-rumors-that-the-mysterious-glowing-/945965451584982/</a>  
 
 15. <a id="endnote-15"></a>
    Source: bworldonline.com  
-   Link: [https://www.bworldonline.com/the-nation/2026/05/13/749372/space-jellyfish-sighted-in-phl-skies-likely-due-to-china-rocket-launch-says-philsa/](https://www.bworldonline.com/the-nation/2026/05/13/749372/space-jellyfish-sighted-in-phl-skies-likely-due-to-china-rocket-launch-says-philsa/)  
+   Link: <a href="https://www.bworldonline.com/the-nation/2026/05/13/749372/space-jellyfish-sighted-in-phl-skies-likely-due-to-china-rocket-launch-says-philsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.bworldonline.com/the-nation/2026/05/13/749372/space-jellyfish-sighted-in-phl-skies-likely-due-to-china-rocket-launch-says-philsa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BusinessWorld Online&#x27;Space Jellyfish&#x27; sighted in PHL skies likely due to China...13 May 2026 — As the plume expands in the thin upper at...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: august 2025 brings dazzling planetary alignments a brilliant meteor shower and r  
-   Link: [https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/august-2025-brings-dazzling-planetary-alignments-a-brilliant-meteor-shower-and-r/1195946065910378/](https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/august-2025-brings-dazzling-planetary-alignments-a-brilliant-meteor-shower-and-r/1195946065910378/)  
+   Link: <a href="https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/august-2025-brings-dazzling-planetary-alignments-a-brilliant-meteor-shower-and-r/1195946065910378/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/august-2025-brings-dazzling-planetary-alignments-a-brilliant-meteor-shower-and-r/1195946065910378/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 2025 brings dazzling planetary alignments...We will witness the peak of the Perseids meteor shower, the closest approach of Satur...</p></details>
    Published: august 2025  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: look up here are the astronomical events to look forward to this may 2026 you ma  
-   Link: [https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-may-2026-you-ma/1429191015919214/](https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-may-2026-you-ma/1429191015919214/)  
+   Link: <a href="https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-may-2026-you-ma/1429191015919214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-may-2026-you-ma/1429191015919214/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Look up! Here are the Astronomical Events...Here are the Astronomical Events to look forward to this May 2026. You may also visit our we...</p></details>
    Published: may 2026  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: 𝐀𝐒𝐓𝐑𝐎𝐍𝐎𝐌𝐈𝐂𝐀𝐋 𝐃𝐈𝐀𝐑𝐘 𝐀𝐮𝐠𝐮𝐬𝐭 𝟐𝟎𝟐𝟓 𝐏𝐫𝐞𝐬𝐬 𝐑𝐞𝐥𝐞𝐚𝐬𝐞here are the highlights of astronomi  
-   Link: [https://www.facebook.com/pagasa.visayas.prsd/posts/%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B-%F0%9D%90%83%F0%9D%90%88%F0%9D%90%80%F0%9D%90%91%F0%9D%90%98-%F0%9D%90%80%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%93-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9Ehere-are-the-highlights-of-astronomi/1060485466235730/](https://www.facebook.com/pagasa.visayas.prsd/posts/%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B-%F0%9D%90%83%F0%9D%90%88%F0%9D%90%80%F0%9D%90%91%F0%9D%90%98-%F0%9D%90%80%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%93-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9Ehere-are-the-highlights-of-astronomi/1060485466235730/)  
+   Link: <a href="https://www.facebook.com/pagasa.visayas.prsd/posts/%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B-%F0%9D%90%83%F0%9D%90%88%F0%9D%90%80%F0%9D%90%91%F0%9D%90%98-%F0%9D%90%80%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%93-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9Ehere-are-the-highlights-of-astronomi/1060485466235730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pagasa.visayas.prsd/posts/%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B-%F0%9D%90%83%F0%9D%90%88%F0%9D%90%80%F0%9D%90%91%F0%9D%90%98-%F0%9D%90%80%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%93-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9Ehere-are-the-highlights-of-astronomi/1060485466235730/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐀𝐒𝐓𝐑𝐎𝐍𝐎𝐌𝐈𝐂𝐀𝐋 𝐃𝐈𝐀𝐑𝐘: 𝐀𝐮𝐠𝐮𝐬𝐭 𝟐𝟎𝟐𝟓 𝐏𝐫𝐞𝐬𝐬...We will witness the peak of the Perseids meteor shower, the closest approach of Saturn to Earth...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: look up here are the astronomical events to look forward to this march 2026 you  
-   Link: [https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-march-2026-you-/1377311081107208/](https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-march-2026-you-/1377311081107208/)  
+   Link: <a href="https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-march-2026-you-/1377311081107208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAGASA.DOST.GOV.PH/posts/look-up-here-are-the-astronomical-events-to-look-forward-to-this-march-2026-you-/1377311081107208/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Look up! Here are the Astronomical Events...Here are the Astronomical Events to look forward to this March 2026. You may also visit our...</p></details>
    Published: march 2026  

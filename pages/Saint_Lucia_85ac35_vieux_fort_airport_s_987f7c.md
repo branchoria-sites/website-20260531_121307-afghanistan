@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-gap-40cda1/
   short_title: Records Gap
   heading_title: Why Are Saint Lucia UFO Records So Thin?
-date: '2026-06-09 01:38:44 '
+date: '2026-06-10 02:05:39 '
 header:
   og_image: /assets/images/Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c-Illustratio
 
 ## Introduction
 
-The most discussed UFO-related report from southern [Saint Lucia]({{ 'what-has-saint-lucia-really-reported/' | relative_url }}) is a brief 2011 sighting near Vieux Fort, the town that hosts Hewanorra International Airport, the island’s main international aviation gateway. Unlike some Saint Lucia reports that involve a single witness or a photograph examined later, the Vieux Fort case involved two observers who reported seeing a metallic, egg-shaped object for several minutes. That detail gives the report more weight than a fleeting light in the sky. At the same time, the airport setting creates a major evidential challenge: any assessment must account for nearby aircraft operations, approach paths, unusual viewing angles and other aviation-related explanations before treating the object as genuinely anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=79732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 79732August 20, 2023 — NUFORC UFO Sighting 79732 · Occurred: 2011-01-14 16:30 Local · Reported: 2011-01-19 10:1...</span><span class="citation-popover-meta">Published: January 14, 2011</span></span></span>
+The most discussed UFO-related report from southern Saint Lucia is a brief 2011 sighting near Vieux Fort, the town that hosts Hewanorra International Airport, the island’s main international aviation gateway. Unlike some Saint Lucia reports that involve a single witness or a photograph examined later, the Vieux Fort case involved two observers who reported seeing a metallic, egg-shaped object for several minutes. That detail gives the report more weight than a fleeting light in the sky. At the same time, the airport setting creates a major evidential challenge: any assessment must account for nearby aircraft operations, approach paths, unusual viewing angles and other aviation-related explanations before treating the object as genuinely anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=79732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 79732August 20, 2023 — NUFORC UFO Sighting 79732 · Occurred: 2011-01-14 16:30 Local · Reported: 2011-01-19 10:1...</span><span class="citation-popover-meta">Published: January 14, 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c-Illustration-1-dark.svg" | relative_url }}" alt="Vieux Fort illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ A striking aspect of the report is that the witness explicitly noted that Vieux 
 
 ## Why Hewanorra airport matters
 
-Hewanorra International Airport sits in Vieux Fort and serves as Saint Lucia’s primary international gateway. Large commercial aircraft arrive from North America, Europe and other Caribbean destinations, and the airport handles a substantial volume of passenger traffic relative to the island’s size. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hewanorrainternationalairport.com/airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hewanorrainternationalairport.com">[Hewanorrain International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hewanorrainternationalairport.com</span><span class="citation-popover-snippet">Hewanorrain International AirportSt Lucia Airport Official SiteHewanorra International Airport (UVF) is located on the southern tip of th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slaspa.com/hia/index.php/en/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slaspa.com">[slaspa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slaspa.com</span><span class="citation-popover-snippet">HIA | About UsThe Hewanorra International Airport (HIA), located in the south of the island, serves as Saint Lucia&#x27;s international flight...</span></span></span> This matters because aircraft can look surprisingly unusual when viewed from the ground under certain conditions.
+Hewanorra International Airport sits in Vieux Fort and serves as Saint Lucia’s primary international gateway. Large commercial aircraft arrive from North America, Europe and other Caribbean destinations, and the airport handles a substantial volume of passenger traffic relative to the island’s size. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hewanorrainternationalairport.com/airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hewanorrainternationalairport.com">[Hewanorrain International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hewanorrainternationalairport.com</span><span class="citation-popover-snippet">Hewanorrain International AirportSt Lucia Airport Official SiteHewanorra International Airport (UVF) is located on the southern tip of th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slaspa.com/hia/index.php/en/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slaspa.com">[slaspa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slaspa.com</span><span class="citation-popover-snippet">HIA &#124; About UsThe Hewanorra International Airport (HIA), located in the south of the island, serves as Saint Lucia&#x27;s international flight...</span></span></span> This matters because aircraft can look surprisingly unusual when viewed from the ground under certain conditions.
 
 ### Perspective can distort shape
 
@@ -348,7 +348,7 @@ The Vieux Fort report survives largely because it was submitted to a public UFO 
 Several missing pieces prevent a stronger conclusion.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yK2PGbh8dS8" title="Possible UFO over NYC baffles passenger flying into LaGuardia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yK2PGbh8dS8" target="_blank" rel="noopener noreferrer">Possible UFO over NYC baffles passenger flying into LaGuardia</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 100.9K &middot; Uploaded: April 2024 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yK2PGbh8dS8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yK2PGbh8dS8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AfYh2HH4UAk" title="Gremlin System: World’s First Alien Surveillance System: America’s Gemsoline Project Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AfYh2HH4UAk" target="_blank" rel="noopener noreferrer">Gremlin System: World’s First Alien Surveillance System: America’s Gemsoline Project Explained</a></p><p class="youtube-embed-meta">Channel: SANSKRITI IAS &middot; Views: 53.4K &middot; Uploaded: November 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AfYh2HH4UAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AfYh2HH4UAk">Open on YouTube</a></p></div></div></div>
 
 ### No photographic record
 
@@ -404,7 +404,7 @@ Yet it also sits in one of the most explanation-rich environments on the island.
 For that reason, researchers often treat the Vieux Fort report as neither a strong UFO case nor an obvious misidentification. It occupies a contested category: intriguing witness testimony with insufficient supporting evidence.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AfYh2HH4UAk" title="Gremlin System: World’s First Alien Surveillance System: America’s Gemsoline Project Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AfYh2HH4UAk" target="_blank" rel="noopener noreferrer">Gremlin System: World’s First Alien Surveillance System: America’s Gemsoline Project Explained</a></p><p class="youtube-embed-meta">Channel: SANSKRITI IAS &middot; Views: 53.4K &middot; Uploaded: November 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AfYh2HH4UAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AfYh2HH4UAk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cuSZDrBDgb8" title="UFO FILES: FOIA VIDEO RELEASE of the &#x27;Aguadilla UAP&#x27; in Puerto Rico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cuSZDrBDgb8" target="_blank" rel="noopener noreferrer">UFO FILES: FOIA VIDEO RELEASE of the &#x27;Aguadilla UAP&#x27; in Puerto Rico</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 22.8K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cuSZDrBDgb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cuSZDrBDgb8">Open on YouTube</a></p></div></div></div>
 
 ## What evidence would make the case stronger today?
 
@@ -429,86 +429,44 @@ With those elements, a case could move beyond anecdote and into genuine evidenti
 The Vieux Fort sighting lacks most of that supporting material. As a result, it remains one of Saint Lucia’s more interesting UFO reports, but not one of its strongest. The two-witness account and structured-object description keep it from being dismissed outright, while the airport setting and absence of corroborating evidence prevent it from becoming a persuasive case for an unexplained aerial phenomenon. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hewanorrainternationalairport.com/airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hewanorrainternationalairport.com">[Hewanorrain International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hewanorrainternationalairport.com</span><span class="citation-popover-snippet">Hewanorrain International AirportSt Lucia Airport Official SiteHewanorra International Airport (UVF) is located on the southern tip of th...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did Vieux Fort See a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did Vieux Fort See a UFO?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses witness reports and possible conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong match for an aviation-adjacent sighting requiring careful investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines modern UFO claims and evidential issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Provides real-world context for unusual aircraft perceptions and aviation technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -542,75 +500,71 @@ The Vieux Fort sighting lacks most of that supporting material. As a result, it 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vieux-fort-did-vieux-fort-see-a-ufo-saint-lucia-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -824,129 +778,129 @@ The Vieux Fort sighting lacks most of that supporting material. As a result, it 
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=79732](https://nuforc.org/sighting/?id=79732)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 79732August 20, 2023 — NUFORC UFO Sighting 79732 · Occurred: 2011-01-14 16:30 Local · Reported: 2011-01-19 10:1...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=79732" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79732</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 79732August 20, 2023 — NUFORC UFO Sighting 79732 · Occurred: 2011-01-14 16:30 Local · Reported: 2011-01-19 10:1...</p></details>
    Published: January 14, 2011  
 
 2. <a id="endnote-2"></a>
    Source: slaspa.com  
-   Link: [https://www.slaspa.com/hia/index.php/en/about](https://www.slaspa.com/hia/index.php/en/about)  
+   Link: <a href="https://www.slaspa.com/hia/index.php/en/about" target="_blank" rel="noopener noreferrer nofollow">https://www.slaspa.com/hia/index.php/en/about</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HIA | About UsThe Hewanorra International Airport (HIA), located in the south of the island, serves as Saint Lucia&#x27;s international flight...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Hewanorra International Airport  
-   Link: [https://en.wikipedia.org/wiki/Hewanorra_International_Airport](https://en.wikipedia.org/wiki/Hewanorra_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hewanorra_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hewanorra_International_Airport</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=13684](https://nuforc.org/sighting/?id=13684)  
+   Link: <a href="https://nuforc.org/sighting/?id=13684" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=13684</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 13684An egg shaped object passed in close proximity of my aircraft. (The time listed above is approximate. An accurat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1367. U...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197199](https://nuforc.org/sighting/?id=197199)  
+   Link: <a href="https://nuforc.org/sighting/?id=197199" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197199</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19719929 Apr 2026 — NUFORC UFO Sighting 197199. Occurred: 1980-10-18 23:10 Local Reported: 2026-04-20 13:14 Pacific D...</p></details>
    Published: April 20, 2026  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/histlnk/PD30Oct2015.pdf](https://nuforc.org/histlnk/PD30Oct2015.pdf)  
+   Link: <a href="https://nuforc.org/histlnk/PD30Oct2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/histlnk/PD30Oct2015.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does it tell us, what do we know?30 Oct 2015 — Description: Multiple sightings reported from the eastern United States of a bizarre...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hewanorrainternationalairport.com  
-   Link: [https://www.hewanorrainternationalairport.com/airport/](https://www.hewanorrainternationalairport.com/airport/)  
+   Link: <a href="https://www.hewanorrainternationalairport.com/airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.hewanorrainternationalairport.com/airport/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hewanorrain International AirportSt Lucia Airport Official SiteHewanorra International Airport (UVF) is located on the southern tip of th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sentientorbs.com  
    Title: Sentient Orbs Hello  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-22149](https://sentientorbs.com/explore/sightings/NUFORC-22149)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-22149" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-22149</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My boyfriend, ((name deleted)), and I were in St. Lucia a...February 11, 2002 — My boyfriend, ((name deleted)), and I were in St. Lucia...</p></details>
    Published: February 11, 2002  
 
 11. <a id="endnote-11"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-79732](https://sentientorbs.com/explore/sightings/NUFORC-79732)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-79732" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-79732</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic egg shaped hovered behind resort and untill right of...14 Jan 2011 — Data provenance: This record originates from the National...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uvf.lc  
-   Link: [https://uvf.lc/guide-to-hewanorra-international-airport/](https://uvf.lc/guide-to-hewanorra-international-airport/)  
+   Link: <a href="https://uvf.lc/guide-to-hewanorra-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://uvf.lc/guide-to-hewanorra-international-airport/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1308537576760268/](https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1308537576760268/)  
+   Link: <a href="https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1308537576760268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1308537576760268/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 177204 Occurred: 2023-07-30...I saw a bright white object, somewhat egg shaped. It was anywhere from a few hundred t...</p></details>
    Published: July 30, 2023  
 
 14. <a id="endnote-14"></a>
    Source: kupi.com  
    Title: Hewanorra Airport  
-   Link: [https://www.kupi.com/en-ae/explore/saint-lucia/castries/hewanorra-airport](https://www.kupi.com/en-ae/explore/saint-lucia/castries/hewanorra-airport)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/saint-lucia/castries/hewanorra-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/saint-lucia/castries/hewanorra-airport</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Lucia GuideAlthough the airport serves the capital Castries and all of Saint Lucia, it is located at the southern tip of the island...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: getyourguide.com  
-   Link: [https://www.getyourguide.com/hewanorra-international-airport-l167682/](https://www.getyourguide.com/hewanorra-international-airport-l167682/)  
+   Link: <a href="https://www.getyourguide.com/hewanorra-international-airport-l167682/" target="_blank" rel="noopener noreferrer nofollow">https://www.getyourguide.com/hewanorra-international-airport-l167682/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tours &amp; tickets Hewanorra International AirportHewanorra (UVF) is Saint Lucia&#x27;s main gateway in Vieux Fort—small, straightforward, and ha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: newsnation has obtained exclusive footage showing the retrieval of an egg shaped  
-   Link: [https://www.facebook.com/NewsNationNow/posts/newsnation-has-obtained-exclusive-footage-showing-the-retrieval-of-an-egg-shaped/627453259661695/](https://www.facebook.com/NewsNationNow/posts/newsnation-has-obtained-exclusive-footage-showing-the-retrieval-of-an-egg-shaped/627453259661695/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/newsnation-has-obtained-exclusive-footage-showing-the-retrieval-of-an-egg-shaped/627453259661695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/newsnation-has-obtained-exclusive-footage-showing-the-retrieval-of-an-egg-shaped/627453259661695/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNation has obtained exclusive footage showing the...Egg-shaped UFO sighting in Lewes, DE on 10/18/2024. Jim Lawrence ▻ Texas UFO Net...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lucianvibe.com  
    Title: st lucia airport guide what to expect when you land in saint lucia  
-   Link: [https://lucianvibe.com/st-lucia-airport-guide-what-to-expect-when-you-land-in-saint-lucia/](https://lucianvibe.com/st-lucia-airport-guide-what-to-expect-when-you-land-in-saint-lucia/)  
+   Link: <a href="https://lucianvibe.com/st-lucia-airport-guide-what-to-expect-when-you-land-in-saint-lucia/" target="_blank" rel="noopener noreferrer nofollow">https://lucianvibe.com/st-lucia-airport-guide-what-to-expect-when-you-land-in-saint-lucia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Expect When You Land in Saint LuciaJan 7, 2026 — The main international airport is Hewanorra International Airport, commonly refe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: waze.com  
-   Link: [https://www.waze.com/live-map/directions/hewanorra-international-airport-%28uvf%29-airport-rd-vieux-fort?to=place.w.195952777.1959855454.970693](https://www.waze.com/live-map/directions/hewanorra-international-airport-%28uvf%29-airport-rd-vieux-fort?to=place.w.195952777.1959855454.970693)  
+   Link: <a href="https://www.waze.com/live-map/directions/hewanorra-international-airport-%28uvf%29-airport-rd-vieux-fort?to=place.w.195952777.1959855454.970693" target="_blank" rel="noopener noreferrer nofollow">https://www.waze.com/live-map/directions/hewanorra-international-airport-%28uvf%29-airport-rd-vieux-fort?to=place.w.195952777.1959855454.970693</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rt Rd, Vieux Fort, based on live traffic updates and road conditions – from Waze...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: stlucia-airport.com  
-   Link: [https://stlucia-airport.com/](https://stlucia-airport.com/)  
+   Link: <a href="https://stlucia-airport.com/" target="_blank" rel="noopener noreferrer nofollow">https://stlucia-airport.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wo main airports and serves as the main gateway for international visitors...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1iewvv1/eggshaped_ufos_have_been_here_for_a_long_time/](https://www.reddit.com/r/UFOB/comments/1iewvv1/eggshaped_ufos_have_been_here_for_a_long_time/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1iewvv1/eggshaped_ufos_have_been_here_for_a_long_time/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1iewvv1/eggshaped_ufos_have_been_here_for_a_long_time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Egg-shaped UFOs have been here for a long time: r/UFOBReligious leaders told &#x27;prepare now&#x27; for Bible-changing UFO disclosure · 3...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tripadvisor.com  
    Title: Things to do near Hewanorra Airport (UVF)  
-   Link: [https://www.tripadvisor.com/AttractionsNear-g147342-qUVF-St_Lucia.html](https://www.tripadvisor.com/AttractionsNear-g147342-qUVF-St_Lucia.html)  
+   Link: <a href="https://www.tripadvisor.com/AttractionsNear-g147342-qUVF-St_Lucia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/AttractionsNear-g147342-qUVF-St_Lucia.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LuciaThings to Do near Hewanorra Airport (UVF)‎; Harry Edwards Jewelers. 3 reviews. #2 of 6 Shopping in Vieux Fort; 758 Island Adventur...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYchkV7ji93/](https://www.instagram.com/p/DYchkV7ji93/)  
+   Link: <a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mented sightings of unidentified aerial phenomena.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mapy.com  
-   Link: [https://mapy.com/en/?id=95192126&source=osm](https://mapy.com/en/?id=95192126&source=osm)  
+   Link: <a href="https://mapy.com/en/?id=95192126&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=95192126&amp;source=osm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>erindian language. Plans are underway for a significant...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aa.com  
-   Link: [https://www.aa.com/web/i18n/travelInformation/destinationInformation/uvf-airport.html](https://www.aa.com/web/i18n/travelInformation/destinationInformation/uvf-airport.html)  
+   Link: <a href="https://www.aa.com/web/i18n/travelInformation/destinationInformation/uvf-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com/web/i18n/travelInformation/destinationInformation/uvf-airport.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ort website opens external site in a new window. Ticket...</p></details>

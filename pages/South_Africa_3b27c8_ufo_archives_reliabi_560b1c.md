@@ -239,7 +239,7 @@ next_link:
   permalink: /cape-town/
   short_title: Cape Town
   heading_title: When Cape Town UFOs Turn Out to Be Weather
-date: '2026-06-09 01:40:57 '
+date: '2026-06-10 02:08:07 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustrati
 
 ## Introduction
 
-Most of [South Africa]({{ 'what-really-stands-out-in-south/' | relative_url }})’s UFO history survives outside government archives. Researchers, journalists, hobbyist investigators, witness networks and newsletter editors preserved hundreds of reports that might otherwise have disappeared, but that preservation came with a problem: documentation standards vary enormously from case to case. Some reports include witness interviews, dates, locations and follow-up inquiries. Others exist only as retellings repeated across magazines, websites and social media decades after the alleged event.
+Most of South Africa’s UFO history survives outside government archives. Researchers, journalists, hobbyist investigators, witness networks and newsletter editors preserved hundreds of reports that might otherwise have disappeared, but that preservation came with a problem: documentation standards vary enormously from case to case. Some reports include witness interviews, dates, locations and follow-up inquiries. Others exist only as retellings repeated across magazines, websites and social media decades after the alleged event.
 
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That makes the central question less “Did a UFO appear?” and more “Where did this story come from, and how many times has it been copied?” South Africa’s UFO archive is valuable because it captures local sightings, regional patterns and witness testimony that were rarely recorded by official institutions. It is also difficult to evaluate because many of the most famous cases depend on private collections, newspaper accounts or second-hand retellings rather than preserved government files. Understanding the archive therefore requires understanding its weaknesses as well as its contents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">UFO AFRINEWS12 150 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;UFO AFRINEWS12 150&quot;... UFO AFRINEWS N° 12 July 1995 EDITOR: Cynthia Hind ASST. EDITOR: Maria Sullivan LAYOU...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cSouth_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for Country South AfricaNUFORC Reports for Country &#x27;South Africa&#x27;; Open, 03/21/2026 01:22, Soweto, Gauteng, South A...</span></span></span>
+That makes the central question less “Did a UFO appear?” and more “Where did this story come from, and how many times has it been copied?” South Africa’s UFO archive is valuable because it captures local sightings, regional patterns and witness testimony that were rarely recorded by official institutions. It is also difficult to evaluate because many of the most famous cases depend on private collections, newspaper accounts or second-hand retellings rather than preserved government files. Understanding the archive therefore requires understanding its weaknesses as well as its contents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">UFO AFRINEWS12 150 djvu.txt</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;UFO AFRINEWS12 150&quot;... UFO AFRINEWS N° 12 July 1995 EDITOR: Cynthia Hind ASST. EDITOR: Maria Sullivan LAYOU...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cSouth_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Country South AfricaNUFORC Reports for Country &#x27;South Africa&#x27;; Open, 03/21/2026 01:22, Soweto, Gauteng, South A...</span></span></span>
 
 ## Why South Africa Never Developed a Central UFO Archive
 
@@ -318,7 +318,7 @@ The archive therefore functions best as a record of claims and witness experienc
 
 ## What Happened to the Original Files?
 
-One reason South African UFO history remains difficult to evaluate is that many original investigative records never entered a university, government or national archival collection. Parts of Cynthia Hind’s investigative material survived through associates and later preservation efforts rather than institutional custody. Collections linked to her work have since been digitised or transferred into specialist UFO archives, helping prevent total loss of source material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">AFUGunter Hofer donated the Cynthia Hind (Rhodesia)...He has kept parts of the investigate files for Hind&#x27;s UFO Afrinews magazine (avail...</span></span></span>
+One reason South African UFO history remains difficult to evaluate is that many original investigative records never entered a university, government or national archival collection. Parts of Cynthia Hind’s investigative material survived through associates and later preservation efforts rather than institutional custody. Collections linked to her work have since been digitised or transferred into specialist UFO archives, helping prevent total loss of source material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Gunter Hofer donated the Cynthia Hind (Rhodesia)...He has kept parts of the investigate files for Hind&#x27;s UFO Afrinews magazine (avail...</span></span></span>
 
 That preservation effort is important because many UFO narratives undergo what historians call source drift. An original witness interview may disappear, leaving only a summary. Later writers then cite the summary rather than the original interview. After enough repetitions, researchers may find themselves analysing a story whose primary documentation is missing.
 
@@ -462,89 +462,47 @@ These criteria do not prove a sighting was ordinary or extraordinary. They simpl
 
 The South African UFO archive is most convincing when treated as a historical record of observation and belief rather than as a catalogue of confirmed extraterrestrial encounters. It demonstrates that unusual aerial sightings have been reported across the country for decades, particularly in regions such as Gauteng, the Western Cape, the [Eastern Cape]({{ 'eastern-cape/' | relative_url }}) and KwaZulu-Natal. It also shows recurring waves of public interest tied to media attention, dramatic cases and regional research networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 184574Reported: 2024-11-27 21:41 Pacific Duration: 10min. No of observers: 1. Location: Durban, KwaZulu-Natal, South...</span><span class="citation-popover-meta">Published: November 27, 2024</span></span></span>
 
-What the archive does not provide is a continuous chain of official evidence supporting extraordinary conclusions. Instead, it offers a patchwork of witness testimony, local journalism, investigator notes and public submissions. Its greatest value may be precisely that it preserves these fragments. Without private researchers, newsletters and volunteer archives, much of South Africa’s UFO history would have vanished entirely. The challenge for modern readers is recognising that preservation and verification are not the same thing. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">AFUGunter Hofer donated the Cynthia Hind (Rhodesia)...He has kept parts of the investigate files for Hind&#x27;s UFO Afrinews magazine (avail...</span></span></span>
+What the archive does not provide is a continuous chain of official evidence supporting extraordinary conclusions. Instead, it offers a patchwork of witness testimony, local journalism, investigator notes and public submissions. Its greatest value may be precisely that it preserves these fragments. Without private researchers, newsletters and volunteer archives, much of South Africa’s UFO history would have vanished entirely. The challenge for modern readers is recognising that preservation and verification are not the same thing. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Gunter Hofer donated the Cynthia Hind (Rhodesia)...He has kept parts of the investigate files for Hind&#x27;s UFO Afrinews magazine (avail...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where South Africa&#x27;s UFO Evidence Actually Comes From. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where South Africa&#x27;s UFO Evidence Actually Comes From, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how investigations and archives are assembled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Relies heavily on source evaluation and documented testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Focuses on sources, records and institutional UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Directly examines records, archives and documentation quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -578,75 +536,71 @@ What the archive does not provide is a continuous chain of official evidence sup
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-t-shirt-gerry-anderson-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-t-shirt-gerry-anderson-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-fc2f3a-where-south-africa-s-ufo-evidence-actually-comes-from-south-africa-ufo-poster-book-books-series-televisi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -861,140 +815,140 @@ What the archive does not provide is a continuous chain of official evidence sup
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: UFO AFRINEWS12 150 djvu.txt  
-   Link: [https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt](https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt)  
+   Link: <a href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;UFO AFRINEWS12 150&quot;... UFO AFRINEWS N° 12 July 1995 EDITOR: Cynthia Hind ASST. EDITOR: Maria Sullivan LAYOU...</p></details>
    Published: July 1995  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=cSouth_Africa](https://nuforc.org/subndx/?id=cSouth_Africa)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for Country South AfricaNUFORC Reports for Country &#x27;South Africa&#x27;; Open, 03/21/2026 01:22, Soweto, Gauteng, South A...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=cSouth_Africa" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSouth_Africa</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country South AfricaNUFORC Reports for Country &#x27;South Africa&#x27;; Open, 03/21/2026 01:22, Soweto, Gauteng, South A...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: afu.se  
-   Link: [https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/](https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFUGunter Hofer donated the Cynthia Hind (Rhodesia)...He has kept parts of the investigate files for Hind&#x27;s UFO Afrinews magazine (avail...</p></details>
+   Link: <a href="https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/gunter-hofer-donated-the-cynthia-hind-rhodesia-investigative-files/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gunter Hofer donated the Cynthia Hind (Rhodesia)...He has kept parts of the investigate files for Hind&#x27;s UFO Afrinews magazine (avail...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close · Posts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=161946](https://nuforc.org/sighting/?id=161946)  
+   Link: <a href="https://nuforc.org/sighting/?id=161946" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161946</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 161946Reported: 2021-02-06 15:35 Pacific Duration: 4 seconds. No of observers: 1. Location: [Cape Town](&amp;#123;&amp;#123; &#x27;cape-town/&#x27; | relative_url &amp;#125;&amp;#125;) (South Africa)...</p></details>
    Published: February 6, 2021  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=179997](https://nuforc.org/sighting/?id=179997)  
+   Link: <a href="https://nuforc.org/sighting/?id=179997" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=179997</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 179997NUFORC UFO Sighting 179997; Occurred: 2024-01-06 21:30 Local - Approximate; Reported: 2024-01-08 01:10 Pacifi...</p></details>
    Published: January 6, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186366](https://nuforc.org/sighting/?id=186366)  
+   Link: <a href="https://nuforc.org/sighting/?id=186366" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186366</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1863668 Jan 2025 — NUFORC UFO Sighting 186366. Occurred: 2024-12-30 19:56 Local - Approximate Reported: 2025-01-03 02...</p></details>
    Published: December 30, 2024  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=184574](https://nuforc.org/sighting/?id=184574)  
+   Link: <a href="https://nuforc.org/sighting/?id=184574" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184574</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 184574Reported: 2024-11-27 21:41 Pacific Duration: 10min. No of observers: 1. Location: Durban, KwaZulu-Natal, South...</p></details>
    Published: November 27, 2024  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=180797](https://nuforc.org/sighting/?id=180797)  
+   Link: <a href="https://nuforc.org/sighting/?id=180797" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=180797</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18079713 Mar 2024 — NUFORC UFO Sighting 180797; Occurred: 2024-03-11 18:47 Local; Reported: 2024-03-12 02:20 Pacifi...</p></details>
    Published: March 11, 2024  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings1950-08-15, Mariana UFO incident, North AmericaUnited States; Great Falls, Montana, The manager of Great...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: UFO AFRINEWS19 150  
-   Link: [https://archive.org/details/UFO_AFRINEWS19-150?q=%22cynthia+newby%22](https://archive.org/details/UFO_AFRINEWS19-150?q=%22cynthia+newby%22)  
+   Link: <a href="https://archive.org/details/UFO_AFRINEWS19-150?q=%22cynthia+newby%22" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/UFO_AFRINEWS19-150?q=%22cynthia+newby%22</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download, Borrow, and...16 Oct 2019 — UFO AFRINEWS19 150; Collection: ufonewsletters; zines; Language: Shona; Item Size: 56.9M...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gideonreid.co.uk  
    Title: ufos aliens in southern africa before ariel school  
-   Link: [https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/](https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/)  
+   Link: <a href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gideon ReidUFOs and Aliens in Southern Africa Before Ariel School15 Nov 2022 — A look at UFO Afrinews, the newsletter created and edited...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries](https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries)  
+   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/](https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO crash...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/](https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/)  
+   Link: <a href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Closer Look at Encounters and the Ariel School SightingBeing relatively new to the UFO and aliens topic, introduced to it by artist and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: zctalk how old were you when you knew that in 1994 there was a ufo sighting outs  
-   Link: [https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/](https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/)  
+   Link: <a href="https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ZimCelebs OfficialAriel School was the place of a mass UFO sighting in 1994 when 62 children claimed to have seen an alien spacecraft and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: shock in southern africa mysterious alien beings allegedly discovered in zimbab  
-   Link: [https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/](https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/)  
+   Link: <a href="https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCK IN SOUTHERN AFRICA: Mysterious “Alien Beings”...SHOCK IN SOUTHERN AFRICA: Mysterious “Alien Beings” Allegedly Discovered in Zimbab...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2. Child Witnesses and U... research/a30533255/navy-ufo-videos-. national-security/. Danziger. (2018...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mg.co.za  
    Title: 2014 09 04 remembering zimbabwes great alien invasion  
-   Link: [https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/](https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/)  
+   Link: <a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering Zimbabwe&#x27;s great alien invasion4 Sept 2014 —... Hind&#x27;s article “UFO flap in Zimbabwe: Case No 95”. It begins: “Wednesday, 14...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1106390534868025/](https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1106390534868025/)  
+   Link: <a href="https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1106390534868025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1106390534868025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bout ancient aliens, but the Ariel School UFO incident is considered...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1qhpkhf/in_1994_a_group_of_60_kids_claimed_to_encounter_a/](https://www.reddit.com/r/HighStrangeness/comments/1qhpkhf/in_1994_a_group_of_60_kids_claimed_to_encounter_a/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1qhpkhf/in_1994_a_group_of_60_kids_claimed_to_encounter_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1qhpkhf/in_1994_a_group_of_60_kids_claimed_to_encounter_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>groups of children all seeing aliens.... 1mo ago. The 1994 Ariel School UFO case in Zimbabwe is still one of the strangest collective wi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LifeOfMikeZA/posts/found-a-crashed-ufo-in-the-tankwa-/1286706619695545/](https://www.facebook.com/LifeOfMikeZA/posts/found-a-crashed-ufo-in-the-tankwa-/1286706619695545/)  
+   Link: <a href="https://www.facebook.com/LifeOfMikeZA/posts/found-a-crashed-ufo-in-the-tankwa-/1286706619695545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LifeOfMikeZA/posts/found-a-crashed-ufo-in-the-tankwa-/1286706619695545/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Life. Mingtong Fong. 1 reaction. Carlo Meloni ▻ NIBIRU.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: avsim.com  
    Title: CG I animation of Ariel school UFO incident  
-   Link: [https://www.avsim.com/forums/topic/639310-cgi-animation-of-ariel-school-ufo-incident/](https://www.avsim.com/forums/topic/639310-cgi-animation-of-ariel-school-ufo-incident/)  
+   Link: <a href="https://www.avsim.com/forums/topic/639310-cgi-animation-of-ariel-school-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsim.com/forums/topic/639310-cgi-animation-of-ariel-school-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar Chat9 Nov 2023 — In this case, there were two. One was John Mack, and the other was UFO writer Cynthia Hind, editor of the periodi...</p></details>

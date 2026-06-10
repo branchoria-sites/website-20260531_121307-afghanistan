@@ -239,7 +239,7 @@ prev_link:
   permalink: /nakhon-phanom/
   short_title: Nakhon Phanom
   heading_title: The Thai UFO File That Was Really Security
-date: '2026-06-09 01:42:24 '
+date: '2026-06-10 02:09:51 '
 header:
   og_image: /assets/images/Thailand_a2b7c1_thai_sky_scares_cd8630-Illustration-1-social.jpg
   preview_image: /assets/images/Thailand_a2b7c1_thai_sky_scares_cd8630-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Thailand_a2b7c1_thai_sky_scares_cd8630-Illustration-1-soci
 
 ## Introduction
 
-Most modern Thai UFO scares begin with a genuine visual event and end with a much less exotic explanation. A glowing spiral over Bangkok, a line of lights above a beach resort, a bright green fireball crossing several provinces or a strange orb filmed from a mobile phone can look extraordinary when stripped of context. Yet recent Thai cases repeatedly show the same pattern: social-media speculation spreads first, while astronomy groups, aviation tracking, launch schedules and local witnesses often reconstruct a conventional cause later. In [Thailand]({{ 'thailand/' | relative_url }}), the most common explanations are rocket exhaust plumes, meteors, sky lanterns, drones, aircraft lighting effects and festival-related aerial displays. The interesting question is therefore not whether people really saw something unusual, but why ordinary events can appear so mysterious in Thai skies and online videos. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-snippet">Thai PBS WorldMysterious light in night skies over Thailand a reflected...21 Dec 2024 — The mysterious light, seen in the sky on Sunday...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TheNationThailand/posts/the-strange-light-observed-over-several-provinces-in-thailand-was-not-an-unusual/992204566266211/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe Nation Thailand... launch and writing: &quot;Nope, definitely not aliens.&quot; Those who knew they... UFO — it&#x27;s human-made rocket ex...</span></span></span>
+Most modern Thai UFO scares begin with a genuine visual event and end with a much less exotic explanation. A glowing spiral over Bangkok, a line of lights above a beach resort, a bright green fireball crossing several provinces or a strange orb filmed from a mobile phone can look extraordinary when stripped of context. Yet recent Thai cases repeatedly show the same pattern: social-media speculation spreads first, while astronomy groups, aviation tracking, launch schedules and local witnesses often reconstruct a conventional cause later. In [Thailand]({{ 'thailand/' | relative_url }}), the most common explanations are rocket exhaust plumes, meteors, sky lanterns, drones, aircraft lighting effects and festival-related aerial displays. The interesting question is therefore not whether people really saw something unusual, but why ordinary events can appear so mysterious in Thai skies and online videos. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-snippet">Thai PBS WorldMysterious light in night skies over Thailand a reflected...21 Dec 2024 — The mysterious light, seen in the sky on Sunday...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TheNationThailand/posts/the-strange-light-observed-over-several-provinces-in-thailand-was-not-an-unusual/992204566266211/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Nation Thailand... launch and writing: &quot;Nope, definitely not aliens.&quot; Those who knew they... UFO — it&#x27;s human-made rocket ex...</span></span></span>
 
 
 <img src="{{ "/assets/images/Thailand_a2b7c1_thai_sky_scares_cd8630-Illustration-1-dark.svg" | relative_url }}" alt="Sky Scares illustration 1" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1_thai_sky_scares_cd8630-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1_thai_sky_scares_cd8630-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,7 +272,7 @@ The visual effect can be striking. A rocket may already be hundreds of kilometre
 
 Astronomy publications have documented how frozen rocket fuel and exhaust clouds can create luminous spirals that are frequently mistaken for UFOs worldwide. The effect is especially dramatic when viewed from regions far from the launch site, where observers see only the illuminated upper-atmosphere plume rather than the rocket itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — It turned out to be the exhaust plume from a SpaceX...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-This explanation has repeatedly appeared in Thai reporting. When unusual lights were observed over multiple provinces, investigators compared the timing with known launch schedules and concluded that reflected rocket exhaust provided the most likely explanation. The speed of online sharing often meant that alien speculation circulated long before the technical explanation reached the same audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-snippet">Thai PBS WorldMysterious light in night skies over Thailand a reflected...21 Dec 2024 — The mysterious light, seen in the sky on Sunday...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Thepattayanews/posts/thai-astronomy-experts-have-debunked-people-claiming-that-ufos-strange-drones-or/1524242108344365/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThai astronomy experts have debunked people claiming...Zoom in and tell me what you see • • • • • #UFOs #Unexplained #UFO #UAP #...</span></span></span>
+This explanation has repeatedly appeared in Thai reporting. When unusual lights were observed over multiple provinces, investigators compared the timing with known launch schedules and concluded that reflected rocket exhaust provided the most likely explanation. The speed of online sharing often meant that alien speculation circulated long before the technical explanation reached the same audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-snippet">Thai PBS WorldMysterious light in night skies over Thailand a reflected...21 Dec 2024 — The mysterious light, seen in the sky on Sunday...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Thepattayanews/posts/thai-astronomy-experts-have-debunked-people-claiming-that-ufos-strange-drones-or/1524242108344365/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Thai astronomy experts have debunked people claiming...Zoom in and tell me what you see • • • • • #UFOs #Unexplained #UFO #UAP #...</span></span></span>
 
 ### Why rocket plumes fool observers
 
@@ -295,7 +295,7 @@ A short video clip usually lacks the wider sky view needed to recognise the plum
 
 Thailand's most famous modern sky scares involved bright fireballs crossing the sky rather than hovering lights.
 
-In September 2015, a brilliant object streaked across the Bangkok region and triggered immediate concern. Some observers feared an aircraft crash, while others speculated about a UFO or falling spacecraft. Dashcam recordings spread rapidly online. Astronomers from Thai research institutions instead pointed towards a meteor or bolide, meaning a particularly bright meteor entering Earth's atmosphere. Later assessments strongly favoured that explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4024251/fireball-bangkok/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">fireball bangkok</span><span class="citation-popover-snippet">TimeThailand: Mysterious Fireball Hurtles Over Northern Bangkok7 Sept 2015 — Panic broke out in Bangkok when local authorities mistook a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/mysterious-fireball-flying-bangkok-caught-dash-cam-video/story?id=33604326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Mysterious Fireball Flying Over Bangkok Caught on Dash-...8 Sept 2015 — The shooting-star-like object could have been a meteorite or spa...</span></span></span>
+In September 2015, a brilliant object streaked across the Bangkok region and triggered immediate concern. Some observers feared an aircraft crash, while others speculated about a UFO or falling spacecraft. Dashcam recordings spread rapidly online. Astronomers from Thai research institutions instead pointed towards a meteor or bolide, meaning a particularly bright meteor entering Earth's atmosphere. Later assessments strongly favoured that explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4024251/fireball-bangkok/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">fireball bangkok</span><span class="citation-popover-snippet">Thailand: Mysterious Fireball Hurtles Over Northern Bangkok7 Sept 2015 — Panic broke out in Bangkok when local authorities mistook a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/mysterious-fireball-flying-bangkok-caught-dash-cam-video/story?id=33604326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Mysterious Fireball Flying Over Bangkok Caught on Dash-...8 Sept 2015 — The shooting-star-like object could have been a meteorite or spa...</span></span></span>
 
 The event became a useful case study because it demonstrated how a genuine astronomical phenomenon can appear shocking even in heavily populated areas. Witnesses reported:
 
@@ -360,7 +360,7 @@ Common features that create UFO interpretations include:
 
 Modern drones add another layer of confusion. Tourist districts, beach areas and urban skylines increasingly host drone photography, advertising displays and light shows. A drone viewed at night may reveal only navigation lights or a bright central LED, making distance and size extremely difficult to judge.
 
-Several recent Thai viral videos that initially attracted UFO speculation were later discussed in terms of drone activity, atmospheric effects or other identifiable light sources rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/intothechasm/posts/strange-lights-in-the-sky-thailand-nov-6-2024/1116050443418107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">strange lights in the sky thailand nov 6 2024</span><span class="citation-popover-snippet">FacebookStrange lights in the sky, Thailand, Nov 6 20248 Nov 2024 —... rocket&#x27;s exhaust plume was likely visible from Thailand due to at...</span></span></span>
+Several recent Thai viral videos that initially attracted UFO speculation were later discussed in terms of drone activity, atmospheric effects or other identifiable light sources rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/intothechasm/posts/strange-lights-in-the-sky-thailand-nov-6-2024/1116050443418107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">strange lights in the sky thailand nov 6 2024</span><span class="citation-popover-snippet">Strange lights in the sky, Thailand, Nov 6 20248 Nov 2024 —... rocket&#x27;s exhaust plume was likely visible from Thailand due to at...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fMQ7D_8X72U" title="SurveyGNSS | Precise Point Positioning (PPP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fMQ7D_8X72U" target="_blank" rel="noopener noreferrer">SurveyGNSS | Precise Point Positioning (PPP)</a></p><p class="youtube-embed-meta">Channel: Carlson Software &middot; Views: 8.0K &middot; Uploaded: November 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fMQ7D_8X72U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fMQ7D_8X72U">Open on YouTube</a></p></div></div></div>
@@ -435,86 +435,44 @@ That does not mean they are evidence of extraterrestrial technology. More often,
 The pattern is remarkably consistent across contemporary Thailand. Viral attention usually focuses on the visual mystery. Later analysis focuses on timing, geography, astronomy and aviation. In many cases, the explanation is less spectacular than the original rumour, but it is also far better supported by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KhaosodEnglish/posts/a-mysterious-bright-object-was-spotted-in-thailands-skies-on-dec-16-2024-prompti/1040205464818628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">, Aliens, Other Planets and Paranormal Activities..Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KhaosodEnglish/posts/the-thai-astronomical-society-explains-that-the-large-ball-of-fire-over-the-sky-/1305917764914062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">or &#x27;bolide&#x27;, illuminated the night sky over a vast swathe of Thailand...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Thai UFO Videos Often Have Earthly Causes. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Thai UFO Videos Often Have Earthly Causes, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on identifying and classifying aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison cases involving aviation observations and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
-        
-        <p class="fr-book-desc">Useful for understanding bright sky events frequently mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
-        
-        <p class="fr-book-desc">Provides accessible context around spaceflight and public misunderstandings of aerospace activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -548,75 +506,71 @@ The pattern is remarkably consistent across contemporary Thailand. Viral attenti
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scares-why-thai-ufo-videos-often-have-earthly-causes-thailand-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -830,147 +784,147 @@ The pattern is remarkably consistent across contemporary Thailand. Viral attenti
 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNationThailand/posts/the-strange-light-observed-over-several-provinces-in-thailand-was-not-an-unusual/992204566266211/](https://www.facebook.com/TheNationThailand/posts/the-strange-light-observed-over-several-provinces-in-thailand-was-not-an-unusual/992204566266211/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe Nation Thailand... launch and writing: &quot;Nope, definitely not aliens.&quot; Those who knew they... UFO — it&#x27;s human-made rocket ex...</p></details>
+   Link: <a href="https://www.facebook.com/TheNationThailand/posts/the-strange-light-observed-over-several-provinces-in-thailand-was-not-an-unusual/992204566266211/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationThailand/posts/the-strange-light-observed-over-several-provinces-in-thailand-was-not-an-unusual/992204566266211/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nation Thailand... launch and writing: &quot;Nope, definitely not aliens.&quot; Those who knew they... UFO — it&#x27;s human-made rocket ex...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThaiPBSWorld/posts/the-mysterious-light-seen-in-the-sky-on-sunday-night-by-many-people-in-several-t/1119528343513020/](https://www.facebook.com/ThaiPBSWorld/posts/the-mysterious-light-seen-in-the-sky-on-sunday-night-by-many-people-in-several-t/1119528343513020/)  
+   Link: <a href="https://www.facebook.com/ThaiPBSWorld/posts/the-mysterious-light-seen-in-the-sky-on-sunday-night-by-many-people-in-several-t/1119528343513020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiPBSWorld/posts/the-mysterious-light-seen-in-the-sky-on-sunday-night-by-many-people-in-several-t/1119528343513020/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and chances are, it wasn&#x27;t a UFO: SpaceX launched another batch...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
    Title: fireball bangkok  
-   Link: [https://time.com/4024251/fireball-bangkok/](https://time.com/4024251/fireball-bangkok/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeThailand: Mysterious Fireball Hurtles Over Northern Bangkok7 Sept 2015 — Panic broke out in Bangkok when local authorities mistook a...</p></details>
+   Link: <a href="https://time.com/4024251/fireball-bangkok/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4024251/fireball-bangkok/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand: Mysterious Fireball Hurtles Over Northern Bangkok7 Sept 2015 — Panic broke out in Bangkok when local authorities mistook a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2015 Thailand bolide  
-   Link: [https://en.wikipedia.org/wiki/2015_Thailand_bolide](https://en.wikipedia.org/wiki/2015_Thailand_bolide)  
+   Link: <a href="https://en.wikipedia.org/wiki/2015_Thailand_bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2015_Thailand_bolide</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Meteor air burst  
-   Link: [https://en.wikipedia.org/wiki/Meteor_air_burst](https://en.wikipedia.org/wiki/Meteor_air_burst)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
 
 6. <a id="endnote-6"></a>
    Source: news.sky.com  
    Title: News Watch: Green Fireball Shoots Across Sky  
-   Link: [https://news.sky.com/story/watch-green-fireball-shoots-across-sky-10340933](https://news.sky.com/story/watch-green-fireball-shoots-across-sky-10340933)  
+   Link: <a href="https://news.sky.com/story/watch-green-fireball-shoots-across-sky-10340933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/watch-green-fireball-shoots-across-sky-10340933</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsWatch: Green Fireball Shoots Across SkyNovember 3, 2015 — 3 Nov 2015 — A &quot;green linear light&quot; seen in the sky over Thailand is cl...</p></details>
    Published: November 3, 2015  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Yi Peng festival  
-   Link: [https://en.wikipedia.org/wiki/Yi_Peng_festival](https://en.wikipedia.org/wiki/Yi_Peng_festival)  
+   Link: <a href="https://en.wikipedia.org/wiki/Yi_Peng_festival" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yi_Peng_festival</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Sky lantern  
-   Link: [https://en.wikipedia.org/wiki/Sky_lantern](https://en.wikipedia.org/wiki/Sky_lantern)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Thepattayanews/posts/thai-astronomy-experts-have-debunked-people-claiming-that-ufos-strange-drones-or/1524242108344365/](https://www.facebook.com/Thepattayanews/posts/thai-astronomy-experts-have-debunked-people-claiming-that-ufos-strange-drones-or/1524242108344365/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThai astronomy experts have debunked people claiming...Zoom in and tell me what you see • • • • • #UFOs #Unexplained #UFO #UAP #...</p></details>
+   Link: <a href="https://www.facebook.com/Thepattayanews/posts/thai-astronomy-experts-have-debunked-people-claiming-that-ufos-strange-drones-or/1524242108344365/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Thepattayanews/posts/thai-astronomy-experts-have-debunked-people-claiming-that-ufos-strange-drones-or/1524242108344365/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai astronomy experts have debunked people claiming...Zoom in and tell me what you see • • • • • #UFOs #Unexplained #UFO #UAP #...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: strange lights in the sky thailand nov 6 2024  
-   Link: [https://www.facebook.com/intothechasm/posts/strange-lights-in-the-sky-thailand-nov-6-2024/1116050443418107/](https://www.facebook.com/intothechasm/posts/strange-lights-in-the-sky-thailand-nov-6-2024/1116050443418107/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookStrange lights in the sky, Thailand, Nov 6 20248 Nov 2024 —... rocket&#x27;s exhaust plume was likely visible from Thailand due to at...</p></details>
+   Link: <a href="https://www.facebook.com/intothechasm/posts/strange-lights-in-the-sky-thailand-nov-6-2024/1116050443418107/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/intothechasm/posts/strange-lights-in-the-sky-thailand-nov-6-2024/1116050443418107/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in the sky, Thailand, Nov 6 20248 Nov 2024 —... rocket&#x27;s exhaust plume was likely visible from Thailand due to at...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/northeastlivetv/posts/people-in-kanglatongbi-village-of-manipurs-imphalwest-district-were-baffled-by-a/3360601224175146/](https://www.facebook.com/northeastlivetv/posts/people-in-kanglatongbi-village-of-manipurs-imphalwest-district-were-baffled-by-a/3360601224175146/)  
+   Link: <a href="https://www.facebook.com/northeastlivetv/posts/people-in-kanglatongbi-village-of-manipurs-imphalwest-district-were-baffled-by-a/3360601224175146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northeastlivetv/posts/people-in-kanglatongbi-village-of-manipurs-imphalwest-district-were-baffled-by-a/3360601224175146/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ve UFOs Spotted in Montreal Witness Captures Viral Video.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KhaosodEnglish/posts/a-mysterious-bright-object-was-spotted-in-thailands-skies-on-dec-16-2024-prompti/1040205464818628/](https://www.facebook.com/KhaosodEnglish/posts/a-mysterious-bright-object-was-spotted-in-thailands-skies-on-dec-16-2024-prompti/1040205464818628/)  
+   Link: <a href="https://www.facebook.com/KhaosodEnglish/posts/a-mysterious-bright-object-was-spotted-in-thailands-skies-on-dec-16-2024-prompti/1040205464818628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KhaosodEnglish/posts/a-mysterious-bright-object-was-spotted-in-thailands-skies-on-dec-16-2024-prompti/1040205464818628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, Aliens, Other Planets and Paranormal Activities..Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KhaosodEnglish/posts/the-thai-astronomical-society-explains-that-the-large-ball-of-fire-over-the-sky-/1305917764914062/](https://www.facebook.com/KhaosodEnglish/posts/the-thai-astronomical-society-explains-that-the-large-ball-of-fire-over-the-sky-/1305917764914062/)  
+   Link: <a href="https://www.facebook.com/KhaosodEnglish/posts/the-thai-astronomical-society-explains-that-the-large-ball-of-fire-over-the-sky-/1305917764914062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KhaosodEnglish/posts/the-thai-astronomical-society-explains-that-the-large-ball-of-fire-over-the-sky-/1305917764914062/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or &#x27;bolide&#x27;, illuminated the night sky over a vast swathe of Thailand...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1940312543110382/posts/2197456347395999/](https://www.facebook.com/groups/1940312543110382/posts/2197456347395999/)  
+   Link: <a href="https://www.facebook.com/groups/1940312543110382/posts/2197456347395999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1940312543110382/posts/2197456347395999/</a>  
 
 15. <a id="endnote-15"></a>
    Source: world.thaipbs.or.th  
-   Link: [https://world.thaipbs.or.th/detail/55886](https://world.thaipbs.or.th/detail/55886)  
+   Link: <a href="https://world.thaipbs.or.th/detail/55886" target="_blank" rel="noopener noreferrer nofollow">https://world.thaipbs.or.th/detail/55886</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai PBS WorldMysterious light in night skies over Thailand a reflected...21 Dec 2024 — The mysterious light, seen in the sky on Sunday...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — It turned out to be the exhaust plume from a SpaceX...</p></details>
    Published: May 11, 2026  
 
 17. <a id="endnote-17"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/International/mysterious-fireball-flying-bangkok-caught-dash-cam-video/story?id=33604326](https://abcnews.com/International/mysterious-fireball-flying-bangkok-caught-dash-cam-video/story?id=33604326)  
+   Link: <a href="https://abcnews.com/International/mysterious-fireball-flying-bangkok-caught-dash-cam-video/story?id=33604326" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/mysterious-fireball-flying-bangkok-caught-dash-cam-video/story?id=33604326</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Fireball Flying Over Bangkok Caught on Dash-...8 Sept 2015 — The shooting-star-like object could have been a meteorite or spa...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/video/2015/nov/03/green-fireball-makes-reappearance-over-bangkok-video](https://www.theguardian.com/science/video/2015/nov/03/green-fireball-makes-reappearance-over-bangkok-video)  
+   Link: <a href="https://www.theguardian.com/science/video/2015/nov/03/green-fireball-makes-reappearance-over-bangkok-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2015/nov/03/green-fireball-makes-reappearance-over-bangkok-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Green fireball makes a reappearance over Bangkok – videoA bright green fireball, thought to be a meteorite, falls across the sky above Ba...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DHoB0nDMxcw/](https://www.instagram.com/p/DHoB0nDMxcw/)  
+   Link: <a href="https://www.instagram.com/p/DHoB0nDMxcw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHoB0nDMxcw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d reflecting the sunlight, causing it to appear as a spiral in the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DLKyOZVR1p5/](https://www.instagram.com/p/DLKyOZVR1p5/)  
+   Link: <a href="https://www.instagram.com/p/DLKyOZVR1p5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLKyOZVR1p5/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ghts dancing above the city, UFO or just drones?Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: What are these in the sky??  
-   Link: [https://www.reddit.com/r/ThailandTourism/comments/1k2a50j/what_are_these_in_the_sky_i_saw_these_weird/](https://www.reddit.com/r/ThailandTourism/comments/1k2a50j/what_are_these_in_the_sky_i_saw_these_weird/)  
+   Link: <a href="https://www.reddit.com/r/ThailandTourism/comments/1k2a50j/what_are_these_in_the_sky_i_saw_these_weird/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ThailandTourism/comments/1k2a50j/what_are_these_in_the_sky_i_saw_these_weird/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>i saw these weird lights around...just saw these kinds of weird things in the sky tonight and i can say that those are not planes (i reg...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Mysterious string of lights over Thailand identified as Starlink satellite train  
-   Link: [https://www.youtube.com/watch?v=fMQ7D_8X72U](https://www.youtube.com/watch?v=fMQ7D_8X72U)  
+   Link: <a href="https://www.youtube.com/watch?v=fMQ7D_8X72U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fMQ7D_8X72U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright aerial phenomenon over Chiang Mai sparks social media panic...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Strange spiral cloud over Bangkok explained as rocket exhaust  
-   Link: [https://www.youtube.com/watch?v=FMnU_4_ihmY](https://www.youtube.com/watch?v=FMnU_4_ihmY)  
+   Link: <a href="https://www.youtube.com/watch?v=FMnU_4_ihmY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FMnU_4_ihmY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious string of lights over Thailand identified as Starlink satellite train...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Bright aerial phenomenon over Chiang Mai sparks social media panic  
-   Link: [https://www.youtube.com/watch?v=8DcBXYF-v28](https://www.youtube.com/watch?v=8DcBXYF-v28)  
+   Link: <a href="https://www.youtube.com/watch?v=8DcBXYF-v28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8DcBXYF-v28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai astronomy group clarifies glowing jellyfish illusion in evening sky...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: itv.com  
    Title: green fireball captured lighting up bangkoks skyline  
-   Link: [https://www.itv.com/news/2015-11-03/green-fireball-captured-lighting-up-bangkoks-skyline](https://www.itv.com/news/2015-11-03/green-fireball-captured-lighting-up-bangkoks-skyline)  
+   Link: <a href="https://www.itv.com/news/2015-11-03/green-fireball-captured-lighting-up-bangkoks-skyline" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/2015-11-03/green-fireball-captured-lighting-up-bangkoks-skyline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball was part of the...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Green fireball meteor lights up Thai sky  
-   Link: [https://www.youtube.com/watch?v=fIpVf8Dco0M](https://www.youtube.com/watch?v=fIpVf8Dco0M)  
+   Link: <a href="https://www.youtube.com/watch?v=fIpVf8Dco0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fIpVf8Dco0M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange spiral cloud over Bangkok explained as rocket exhaust...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: legacy.theskepticsguide.org  
-   Link: [https://legacy.theskepticsguide.org/podcast/sgu](https://legacy.theskepticsguide.org/podcast/sgu)  
+   Link: <a href="https://legacy.theskepticsguide.org/podcast/sgu" target="_blank" rel="noopener noreferrer nofollow">https://legacy.theskepticsguide.org/podcast/sgu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Download · Episode #-1 - May 16th, 2019. We are excited to introduce you to Bill...Read more...</p></details>

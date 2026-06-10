@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /egypt-1c39ab-index/
 description: Focused pages that expand on What Makes Egypt a Hotspot for UFO Legends?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Egypt_1c39ab
 parent_title: What Makes Egypt a Hotspot for UFO Legends?

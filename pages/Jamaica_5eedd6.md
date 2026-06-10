@@ -1185,7 +1185,7 @@ next_link:
   title: North Macedonia UFOs
   permalink: /what-is-really-in-north-macedonias-ufo/
   short_title: North Macedonia UFOs
-date: '2026-06-09 01:30:25 '
+date: '2026-06-10 01:55:52 '
 header:
   og_image: /assets/images/Jamaica_5eedd6-overview-social.jpg
   preview_image: /assets/images/Jamaica_5eedd6-overview.webp
@@ -1202,7 +1202,7 @@ That makes Jamaica an important but careful page in a Caribbean UFO project. It 
 
 The clearest open index for Jamaica is NUFORC’s country page. It records sightings from an approximate 1972 Montego Bay sphere to reports filed in 2026, with shapes including lights, spheres, circles, fireballs, cylinders, an oval, a disk, a cone, an orb and “changing” objects. The list is not an official Jamaican archive; it is a public witness-report database. That matters because its entries often preserve useful raw testimony but rarely include independent radar, air-traffic, astronomical or meteorological verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-A second public map, Enigma Labs, has a Jamaica page and identifies Kingston as the leading listed city, but the accessible page provides only limited detail without functioning as a primary investigative archive. It is useful for orientation, less useful for evidence grading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Jamaica | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Jamaica | Enigma Labs</span></span></span> | Report a UFO sighting
+A second public map, Enigma Labs, has a Jamaica page and identifies Kingston as the leading listed city, but the accessible page provides only limited detail without functioning as a primary investigative archive. It is useful for orientation, less useful for evidence grading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Jamaica &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Jamaica &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 Jamaica’s official aviation framework does show where a serious airborne hazard might enter the system. The Jamaica Civil Aviation Authority provides a mandatory occurrence report resource, and Jamaica’s National Aviation Safety Plan places the JCAA at the centre of national aviation safety planning with the responsible ministry and aviation industry. Those documents do not amount to a public UFO programme, but they show the route through which a safety-relevant unknown aircraft, drone, balloon, near miss or aviation occurrence would more plausibly be handled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jcaa.gov.jm/resource/fsaw0050-mandatory-occurrence-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.gov.jm">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.gov.jm</span><span class="citation-popover-title">fsaw0050 mandatory occurrence report</span><span class="citation-popover-snippet">fsaw0050 mandatory occurrence report</span></span></span>
 
@@ -1283,7 +1283,7 @@ Highest value comes from records that include time, location, direction, duratio
 
 Middle value belongs to witness reports with clear narrative detail but no independent corroboration. The 1972 Montego Bay sphere and 2012 [Negril lights]({{ 'negril-lights/' | relative_url }}) fit here: they are specific enough to discuss, but not strong enough to confirm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Lowest value belongs to viral clips, social posts, copied overseas stories and AI-generated or reconstructed imagery. Jamaican media and social pages sometimes circulate UFO-related material from outside Jamaica, including general Pentagon-file stories or foreign incidents. Those can show public interest, but they should not be mistaken for Jamaican sightings unless the location, witness and event can be pinned down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaica-gleaner.com">[Jamaica Gleaner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaica-gleaner.com</span><span class="citation-popover-title">Jamaica Gleaner Another UFO sighting caught on camera | e Sponsored</span><span class="citation-popover-snippet">Jamaica Gleaner Another UFO sighting caught on camera | e Sponsored</span></span></span>
+Lowest value belongs to viral clips, social posts, copied overseas stories and AI-generated or reconstructed imagery. Jamaican media and social pages sometimes circulate UFO-related material from outside Jamaica, including general Pentagon-file stories or foreign incidents. Those can show public interest, but they should not be mistaken for Jamaican sightings unless the location, witness and event can be pinned down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaica-gleaner.com">[Jamaica Gleaner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaica-gleaner.com</span><span class="citation-popover-title">Jamaica Gleaner Another UFO sighting caught on camera &#124; e Sponsored</span><span class="citation-popover-snippet">Jamaica Gleaner Another UFO sighting caught on camera &#124; e Sponsored</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-VQLiaH4KZQ" title="UFO Spotted Festive Christmas Morant bay St Thomas Jamaica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-VQLiaH4KZQ" target="_blank" rel="noopener noreferrer">UFO Spotted Festive Christmas Morant bay St Thomas Jamaica</a></p><p class="youtube-embed-meta">Channel: Bigsuper Road Vlog &middot; Views: 5.7K &middot; Uploaded: December 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-VQLiaH4KZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-VQLiaH4KZQ">Open on YouTube</a></p></div></div></div>
@@ -1306,86 +1306,44 @@ For ordinary readers, the practical test is simple. A strong Jamaica report shou
 Jamaica’s UFO record is therefore real as a body of sightings, thin as a body of confirmed anomalies, and useful as a case study in how island skies produce both genuinely puzzling reports and very plausible misidentifications.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Is Really In Jamaica&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Is Really In Jamaica&#x27;s UFO Record?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Helps contextualize local sightings within global UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides a framework for assessing scattered sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Relevant to discussions of records, evidence, and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits a page evaluating witness reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1419,75 +1377,71 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaicas-ufo-record-what-is-really-in-jamaica-s-ufo-record-jamaica-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1702,213 +1656,213 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Jamaica  
-   Link: [https://nuforc.org/subndx/?id=cJamaica](https://nuforc.org/subndx/?id=cJamaica)  
+   Link: <a href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cJamaica</a>  
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting UFO Sightings in Jamaica | Enigma Labs  
-   Link: [https://enigmalabs.io/explore/jm](https://enigmalabs.io/explore/jm)  
+   Link: <a href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/jm</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=24825](https://nuforc.org/sighting/?id=24825)  
+   Link: <a href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24825</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=86759](https://nuforc.org/sighting/?id=86759)  
+   Link: <a href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86759</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=90981](https://nuforc.org/sighting/?id=90981)  
+   Link: <a href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=90981</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=168500](https://nuforc.org/sighting/?id=168500)  
+   Link: <a href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168500</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=182381](https://nuforc.org/sighting/?id=182381)  
+   Link: <a href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182381</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190840](https://nuforc.org/sighting/?id=190840)  
+   Link: <a href="https://nuforc.org/sighting/?id=190840" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190840</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195227](https://nuforc.org/sighting/?id=195227)  
+   Link: <a href="https://nuforc.org/sighting/?id=195227" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195227</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: neo.ssa.esa.int  
-   Link: [https://neo.ssa.esa.int/search-for-fireballs](https://neo.ssa.esa.int/search-for-fireballs)  
+   Link: <a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
    Title: It’s Fireball Season! Answering Your Meteor Questions  
-   Link: [https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/](https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/)  
+   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 16. <a id="endnote-16"></a>
    Source: jamaica-gleaner.com  
    Title: Jamaica Gleaner Another UFO sighting caught on camera | e Sponsored  
-   Link: [https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera](https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera)  
+   Link: <a href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera</a>  
 
 17. <a id="endnote-17"></a>
    Source: jamaica-gleaner.com  
-   Link: [https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its](https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its)  
+   Link: <a href="https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 21. <a id="endnote-21"></a>
    Source: old.jamaica-gleaner.com  
-   Link: [https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html](https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html)  
+   Link: <a href="https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html" target="_blank" rel="noopener noreferrer nofollow">https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: past.jamaica-gleaner.com  
    Title: ufo hunter claims he has found 100 cent proof life mars  
-   Link: [https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars](https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars)  
+   Link: <a href="https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars</a>  
 
 23. <a id="endnote-23"></a>
    Source: past.jamaica-gleaner.com  
    Title: digital integration marketing production  
-   Link: [https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39](https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39)  
+   Link: <a href="https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39</a>  
 
 24. <a id="endnote-24"></a>
    Source: past.jamaica-gleaner.com  
    Title: are ufos piloted people future  
-   Link: [https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future](https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future)  
+   Link: <a href="https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future</a>  
 
 25. <a id="endnote-25"></a>
    Source: past.jamaica-gleaner.com  
    Title: bang bizarre  
-   Link: [https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36](https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36)  
+   Link: <a href="https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36</a>  
 
 26. <a id="endnote-26"></a>
    Source: jamaica-gleaner.com  
    Title: i molested bill cosby  
-   Link: [https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby](https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby)  
+   Link: <a href="https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby</a>  
 
 27. <a id="endnote-27"></a>
    Source: old.jamaica-gleaner.com  
-   Link: [https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html](https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html)  
+   Link: <a href="https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html" target="_blank" rel="noopener noreferrer nofollow">https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: past.jamaica-gleaner.com  
    Title: unidentified flying object has crashed and exploded polands east  
-   Link: [https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east](https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east)  
+   Link: <a href="https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east</a>  
 
 29. <a id="endnote-29"></a>
    Source: space.com  
    Title: spacex starlink 6 88 b1101 ccsfs jrti  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/](https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/)  
+   Link: <a href="https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: Jamaica Gleaner Jamaica  
-   Link: [https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/](https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/)  
+   Link: <a href="https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/](https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/)  
+   Link: <a href="https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/photo.php?fbid=1085518217004935&id=100066403014064&set=a.586008913622537](https://www.facebook.com/photo.php?fbid=1085518217004935&id=100066403014064&set=a.586008913622537)  
+   Link: <a href="https://www.facebook.com/photo.php?fbid=1085518217004935&amp;id=100066403014064&amp;set=a.586008913622537" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1085518217004935&amp;id=100066403014064&amp;set=a.586008913622537</a>  
 
 34. <a id="endnote-34"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/mor](https://www.caa.co.uk/mor)  
+   Link: <a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
 
 35. <a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 36. <a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf](https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: jamaicagleaner.com  
    Title: 'Aliens are among us'  
-   Link: [https://jamaicagleaner.com/gleaner/20080915/news/news1.html](https://jamaicagleaner.com/gleaner/20080915/news/news1.html)  
+   Link: <a href="https://jamaicagleaner.com/gleaner/20080915/news/news1.html" target="_blank" rel="noopener noreferrer nofollow">https://jamaicagleaner.com/gleaner/20080915/news/news1.html</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Mystery in the Skies: Jamaican Rastafari Elder's UFO Encounters  
-   Link: [https://www.youtube.com/watch?v=8ycCVkZJswQ](https://www.youtube.com/watch?v=8ycCVkZJswQ)  
+   Link: <a href="https://www.youtube.com/watch?v=8ycCVkZJswQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ycCVkZJswQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files SHOCKING Videos- 30 Min of MYSTERIOUS UFO Sightings, Alien-Like Figures in Pentagon Dump...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=r1uXSVrgwkU](https://www.youtube.com/watch?v=r1uXSVrgwkU)  
+   Link: <a href="https://www.youtube.com/watch?v=r1uXSVrgwkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1uXSVrgwkU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.A.P Appears Over Trinidad and Tobago During Night Sky...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFO files: UAP disclosures & evidence for unexplained cases | Backscroll  
-   Link: [https://www.youtube.com/watch?v=dvlgGKf7oq0](https://www.youtube.com/watch?v=dvlgGKf7oq0)  
+   Link: <a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvlgGKf7oq0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: U.A.P Appears Over Trinidad and Tobago During Night Sky  
-   Link: [https://www.youtube.com/watch?v=5y9sntOKX4s](https://www.youtube.com/watch?v=5y9sntOKX4s)  
+   Link: <a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: aviation.govt.nz  
-   Link: [https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx](https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx)  
+   Link: <a href="https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx</a>  
 
 43. <a id="endnote-43"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYkHsb2KoyI/](https://www.instagram.com/reel/DYkHsb2KoyI/)  
+   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
 
 44. <a id="endnote-44"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/](https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/)  
+   Link: <a href="https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/</a>  
 
 46. <a id="endnote-46"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hon.babsygrange/posts/2328259770633666/](https://www.facebook.com/hon.babsygrange/posts/2328259770633666/)  
+   Link: <a href="https://www.facebook.com/hon.babsygrange/posts/2328259770633666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hon.babsygrange/posts/2328259770633666/</a>  

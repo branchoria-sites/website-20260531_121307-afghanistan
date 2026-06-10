@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /iraq-1aed9e-index/
 description: Focused pages that expand on Iraq.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Iraq_1aed9e
 parent_title: Iraq

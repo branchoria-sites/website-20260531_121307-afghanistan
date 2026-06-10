@@ -245,7 +245,7 @@ next_link:
   permalink: /metal-fragment/
   short_title: Metal Fragment
   heading_title: Can the Congo Fragment File Prove Anything?
-date: '2026-06-09 01:24:31 '
+date: '2026-06-10 01:49:04 '
 header:
   og_image: /assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-1-social.jpg
   preview_image: /assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-1.webp
@@ -254,15 +254,15 @@ image: /assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-1-so
 
 ## Introduction
 
-In August 2020, a mysterious object that appeared to have fallen into the jungle of the Bas‑Uele province in the northern **Democratic Republic of the [Congo]({{ 'what-really-counts-as-a-congo-ufo/' | relative_url }})** prompted local officials, villagers and even police to treat it as an *unidentified flying object* (UFO). Videos and photos circulated on social media showing a large, silver‑coloured device with wires and solar panels strewn beneath an enormous deflated balloon in the forest, leading some observers to speculate about something unusual or extraterrestrial. However, within days the mystery was resolved: the object was **not** a craft of unknown origin but part of a civilian telecommunications programme known as **Project Loon** — a stratospheric internet balloon network developed by an Alphabet subsidiary. This case serves as a clear example of how limited local information and visibility into aviation records can turn a mundane aerial device into an apparent “UFO” until authoritative identification emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO | KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO | KFGO‘UFO’ in Congo jungle turns out to be internet balloon | The Mighty 790 KFGO | KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+In August 2020, a mysterious object that appeared to have fallen into the jungle of the Bas‑Uele province in the northern **Democratic Republic of the Congo** prompted local officials, villagers and even police to treat it as an *unidentified flying object* (UFO). Videos and photos circulated on social media showing a large, silver‑coloured device with wires and solar panels strewn beneath an enormous deflated balloon in the forest, leading some observers to speculate about something unusual or extraterrestrial. However, within days the mystery was resolved: the object was **not** a craft of unknown origin but part of a civilian telecommunications programme known as **Project Loon** — a stratospheric internet balloon network developed by an Alphabet subsidiary. This case serves as a clear example of how limited local information and visibility into aviation records can turn a mundane aerial device into an apparent “UFO” until authoritative identification emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO &#124; KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO &#124; KFGO‘UFO’ in Congo jungle turns out to be internet balloon &#124; The Mighty 790 KFGO &#124; KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-1-dark.svg" | relative_url }}" alt="Loon Balloon illustration 1" data-theme-src-dark="{{ "/assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Villagers and Officials Found Near Buta
 
-The incident unfolded on or around **24 August 2020** near the town of **Buta** in Bas‑Uele province, a remote, sparsely populated area of northern DR Congo. Residents came upon a large silver object in the jungle, complete with what appeared to be solar panels and a tangled array of wires, alongside remnants of a deflated balloon. Images and video rapidly spread online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO | KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO | KFGO‘UFO’ in Congo jungle turns out to be internet balloon | The Mighty 790 KFGO | KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+The incident unfolded on or around **24 August 2020** near the town of **Buta** in Bas‑Uele province, a remote, sparsely populated area of northern DR Congo. Residents came upon a large silver object in the jungle, complete with what appeared to be solar panels and a tangled array of wires, alongside remnants of a deflated balloon. Images and video rapidly spread online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO &#124; KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO &#124; KFGO‘UFO’ in Congo jungle turns out to be internet balloon &#124; The Mighty 790 KFGO &#124; KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
-Local authorities were notified, and the Bas‑Uele governor **Valentin Senga** visited the site. In interviews with news agencies, he noted uncertainty about the object’s nature, saying neither intelligence services nor aviation authorities had prior records of any aircraft overflying the area at the relevant time. Two individuals — a Congolese and a Pakistani national — were detained by police because they had travelled to Buta intending to search for and inspect the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO | KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO | KFGO‘UFO’ in Congo jungle turns out to be internet balloon | The Mighty 790 KFGO | KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+Local authorities were notified, and the Bas‑Uele governor **Valentin Senga** visited the site. In interviews with news agencies, he noted uncertainty about the object’s nature, saying neither intelligence services nor aviation authorities had prior records of any aircraft overflying the area at the relevant time. Two individuals — a Congolese and a Pakistani national — were detained by police because they had travelled to Buta intending to search for and inspect the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO &#124; KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO &#124; KFGO‘UFO’ in Congo jungle turns out to be internet balloon &#124; The Mighty 790 KFGO &#124; KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 This lack of immediate identification, the unfamiliar appearance of the hardware on the ground and the dense jungle setting fuelled speculation among locals and on social media that the object might be “unidentified” — a classic pattern in how plausible mundane objects are first treated as UFOs in remote contexts.
 
@@ -297,92 +297,50 @@ The Bas‑Uele case thus became not just a local curiosity but a lesson in **the
 
 ## Summary
 
-The Bas‑Uele “UFO” of 2020 is a well‑documented instance in which a real object of unknown identity to local observers was later explained as part of a known aviation project. An internet balloon from Project Loon — designed to provide rural internet connectivity and operated with civil aviation clearance — landed in the Congo jungle and was at first misinterpreted as a mysterious object. Once confirmed by the operator, it became a textbook case of how unfamiliar but mundane aerospace hardware can generate UFO reports when formal records and public awareness are lacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO | KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO | KFGO‘UFO’ in Congo jungle turns out to be internet balloon | The Mighty 790 KFGO | KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+The Bas‑Uele “UFO” of 2020 is a well‑documented instance in which a real object of unknown identity to local observers was later explained as part of a known aviation project. An internet balloon from Project Loon — designed to provide rural internet connectivity and operated with civil aviation clearance — landed in the Congo jungle and was at first misinterpreted as a mysterious object. Once confirmed by the operator, it became a textbook case of how unfamiliar but mundane aerospace hardware can generate UFO reports when formal records and public awareness are lacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfgo.com">[The Mighty 790 KFGO &#124; KFGO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfgo.com</span><span class="citation-popover-title">ufo in congo jungle turns out to be internet balloon</span><span class="citation-popover-snippet">The Mighty 790 KFGO &#124; KFGO‘UFO’ in Congo jungle turns out to be internet balloon &#124; The Mighty 790 KFGO &#124; KFGOAugust 25, 2020...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-3-dark.svg" | relative_url }}" alt="Loon Balloon illustration 3" data-theme-src-dark="{{ "/assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256_project_loon_bas_uel_58e2d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The Congo UFO That Became a Balloon. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The Congo UFO That Became a Balloon, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Fits a case where a supposed UFO ultimately had a conventional explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison with cases involving stronger official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains how extraordinary interpretations can arise from incomplete information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Shows how advanced aerospace technology is often mistaken for something mysterious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -416,75 +374,71 @@ The Bas‑Uele “UFO” of 2020 is a well‑documented instance in which a real
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loon-balloon-the-congo-ufo-that-became-a-balloon-congo-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -699,41 +653,41 @@ The Bas‑Uele “UFO” of 2020 is a well‑documented instance in which a real
 1. <a id="endnote-1"></a>
    Source: kfgo.com  
    Title: ufo in congo jungle turns out to be internet balloon  
-   Link: [https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/](https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/)  
+   Link: <a href="https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://kfgo.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mighty 790 KFGO | KFGO‘UFO’ in Congo jungle turns out to be internet balloon | The Mighty 790 KFGO | KFGOAugust 25, 2020...</p></details>
    Published: August 25, 2020  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Loon LLC  
-   Link: [https://en.wikipedia.org/wiki/Loon_LLC](https://en.wikipedia.org/wiki/Loon_LLC)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loon_LLC" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loon_LLC</a>  
 
 3. <a id="endnote-3"></a>
    Source: indianexpress.com  
-   Link: [https://indianexpress.com/article/trending/trending-globally/ufo-spotted-in-congo-jungle-turns-out-to-be-internet-balloon-6570607/](https://indianexpress.com/article/trending/trending-globally/ufo-spotted-in-congo-jungle-turns-out-to-be-internet-balloon-6570607/)  
+   Link: <a href="https://indianexpress.com/article/trending/trending-globally/ufo-spotted-in-congo-jungle-turns-out-to-be-internet-balloon-6570607/" target="_blank" rel="noopener noreferrer nofollow">https://indianexpress.com/article/trending/trending-globally/ufo-spotted-in-congo-jungle-turns-out-to-be-internet-balloon-6570607/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Indian Express...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: werewolfradar.com  
    Title: Werewolf Radar UFO Found in Congo is Project Loon Balloon  
-   Link: [https://www.werewolfradar.com/paranormal-news/ufo-found-in-congo-is-project-loon-balloon](https://www.werewolfradar.com/paranormal-news/ufo-found-in-congo-is-project-loon-balloon)  
+   Link: <a href="https://www.werewolfradar.com/paranormal-news/ufo-found-in-congo-is-project-loon-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.werewolfradar.com/paranormal-news/ufo-found-in-congo-is-project-loon-balloon</a>  
 
 5. <a id="endnote-5"></a>
    Source: vanguardngr.com  
-   Link: [https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/](https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/)  
+   Link: <a href="https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanguard NewsCongo&#x27;s civil aviation chief suspended over Google internet balloon flightSeptember 11, 2020...</p></details>
    Published: September 11, 2020  
 
 6. <a id="endnote-6"></a>
    Source: kenyans.co.ke  
    Title: FAC T-CHECK: Did Kenya's Google Balloon Crash in Congo After 123 Days?  
-   Link: [https://www.kenyans.co.ke/news/56818-fact-check-kenyas-google-balloon-did-not-crash-congo-video?page=1](https://www.kenyans.co.ke/news/56818-fact-check-kenyas-google-balloon-did-not-crash-congo-video?page=1)  
+   Link: <a href="https://www.kenyans.co.ke/news/56818-fact-check-kenyas-google-balloon-did-not-crash-congo-video?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.kenyans.co.ke/news/56818-fact-check-kenyas-google-balloon-did-not-crash-congo-video?page=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[VIDEO] - Kenyans.co.keAugust 27, 2020 — FACT-CHECK: DID KENYA&#x27;S GOOGLE BALLOON CRASH IN CONGO AFTER 123 DAYS? [VIDEO] * by Martin Siele...</p></details>
    Published: August 27, 2020  
 
 7. <a id="endnote-7"></a>
    Source: atqnews.com  
-   Link: [https://atqnews.com/africa-local-authorities-detain-two-as-ufo-google-internet-balloon-causes-stir-in-d-r-congo/](https://atqnews.com/africa-local-authorities-detain-two-as-ufo-google-internet-balloon-causes-stir-in-d-r-congo/)  
+   Link: <a href="https://atqnews.com/africa-local-authorities-detain-two-as-ufo-google-internet-balloon-causes-stir-in-d-r-congo/" target="_blank" rel="noopener noreferrer nofollow">https://atqnews.com/africa-local-authorities-detain-two-as-ufo-google-internet-balloon-causes-stir-in-d-r-congo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congo | ATQ NewsAugust 26, 2020 — AFRICA: LOCAL AUTHORITIES DETAIN TWO AS ‘UFO’ GOOGLE INTERNET BALLOON CAUSES STIR IN D.R. CONGO by Atqn...</p></details>
    Published: August 26, 2020  
 
@@ -741,66 +695,66 @@ The Bas‑Uele “UFO” of 2020 is a well‑documented instance in which a real
 
 8. <a id="endnote-8"></a>
    Source: nu.nl  
-   Link: [https://www.nu.nl/tech/6073225/ufo-zaait-verwarring-in-jungle-congo-blijkt-internetballon-van-google-zuster.html](https://www.nu.nl/tech/6073225/ufo-zaait-verwarring-in-jungle-congo-blijkt-internetballon-van-google-zuster.html)  
+   Link: <a href="https://www.nu.nl/tech/6073225/ufo-zaait-verwarring-in-jungle-congo-blijkt-internetballon-van-google-zuster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nu.nl/tech/6073225/ufo-zaait-verwarring-in-jungle-congo-blijkt-internetballon-van-google-zuster.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 26, 2020 — UFO ZAAIT VERWARRING IN JUNGLE CONGO, BLIJKT INTERNETBALLON VAN GOOGLE-ZUSTER Door NU.nl/Reuters 26 aug 2020 om 07:19 L...</p></details>
    Published: August 26, 2020  
 
 9. <a id="endnote-9"></a>
    Source: mensxp.com  
-   Link: [https://www.mensxp.com/amp/social-hits/viral/79834-people-got-excited-after-spotting-ufo-in-congo-turns-out-it-was-just-a-loon-balloon.html](https://www.mensxp.com/amp/social-hits/viral/79834-people-got-excited-after-spotting-ufo-in-congo-turns-out-it-was-just-a-loon-balloon.html)  
+   Link: <a href="https://www.mensxp.com/amp/social-hits/viral/79834-people-got-excited-after-spotting-ufo-in-congo-turns-out-it-was-just-a-loon-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mensxp.com/amp/social-hits/viral/79834-people-got-excited-after-spotting-ufo-in-congo-turns-out-it-was-just-a-loon-balloon.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 2020 — Updated on Aug 27, 2020, 13:52 IST 2 min read PEOPLE GOT EXCITED AFTER SPOTTING UFO IN CONGO &amp; TURNS OUT IT WAS JUST A...</p></details>
    Published: August 27, 2020  
 
 10. <a id="endnote-10"></a>
    Source: inews.id  
    Title: Penduduk Desa Ditangkap Polisi saat Cari Benda Diduga UFO Mendarat di Hutan  
-   Link: [https://www.inews.id/news/internasional/penduduk-desa-ditangkap-polisi-saat-cari-benda-diduga-ufo-mendarat-di-hutan](https://www.inews.id/news/internasional/penduduk-desa-ditangkap-polisi-saat-cari-benda-diduga-ufo-mendarat-di-hutan)  
+   Link: <a href="https://www.inews.id/news/internasional/penduduk-desa-ditangkap-polisi-saat-cari-benda-diduga-ufo-mendarat-di-hutan" target="_blank" rel="noopener noreferrer nofollow">https://www.inews.id/news/internasional/penduduk-desa-ditangkap-polisi-saat-cari-benda-diduga-ufo-mendarat-di-hutan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2020 — PENDUDUK DESA DITANGKAP POLISI SAAT CARI BENDA DIDUGA UFO MENDARAT DI HUTAN Sabtu, 29 Agustus 2020 - 21:03:00 WIB * Ari...</p></details>
    Published: August 29, 2020  
 
 11. <a id="endnote-11"></a>
    Source: foxnews.com  
    Title: 'UFO' found in Congo turns out to be Project Loon balloon | Fox News  
-   Link: [https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon](https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon)  
+   Link: <a href="https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 2020 — &#x27;UFO&#x27; FOUND IN CONGO TURNS OUT TO BE PROJECT LOON BALLOON FOOTAGE OF THE BALLOON WAS SHARED TO TWITTER, SHOWING A SILVE...</p></details>
    Published: August 27, 2020  
 
 12. <a id="endnote-12"></a>
    Source: vanguardngr.com  
    Title: Congo ‘UFO’ turns out to be Project Loon balloon  
-   Link: [https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/](https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/)  
+   Link: <a href="https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2020 — August 30, 2020 CONGO ‘UFO’ TURNS OUT TO BE PROJECT LOON BALLOON Image: Congo ‘UFO’ turns out to be Project Loon balloo...</p></details>
    Published: August 30, 2020  
 
 13. <a id="endnote-13"></a>
    Source: boingboing.net  
    Title: UF O turns out to be balloon  
-   Link: [https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html/amp](https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html/amp)  
+   Link: <a href="https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html/amp" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html/amp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO turns out to be balloonAugust 26, 2020 — UFO TURNS OUT TO BE BALLOON Rob Beschizza 4:47 am Wed, Aug 26, 2020 Image Photo: Loon LLC A...</p></details>
    Published: August 26, 2020  
 
 14. <a id="endnote-14"></a>
    Source: indiatimes.com  
    Title: UF O Spotted In Congo?  
-   Link: [https://www.indiatimes.com/news/world/ufo-spotted-in-congo-turns-out-its-just-an-internet-balloon/articleshow/127705026.html](https://www.indiatimes.com/news/world/ufo-spotted-in-congo-turns-out-its-just-an-internet-balloon/articleshow/127705026.html)  
+   Link: <a href="https://www.indiatimes.com/news/world/ufo-spotted-in-congo-turns-out-its-just-an-internet-balloon/articleshow/127705026.html" target="_blank" rel="noopener noreferrer nofollow">https://www.indiatimes.com/news/world/ufo-spotted-in-congo-turns-out-its-just-an-internet-balloon/articleshow/127705026.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out It&#x27;s Just An Internet Balloon!August 26, 2020 — UFO SPOTTED IN CONGO? TURNS OUT IT&#x27;S JUST AN INTERNET BALLOON! Indiatimes | Aug...</p></details>
    Published: August 26, 2020  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Google's Project Loon  
-   Link: [http://www.youtube.com/watch?v=jdgYmmsZiFY](http://www.youtube.com/watch?v=jdgYmmsZiFY)  
+   Link: <a href="http://www.youtube.com/watch?v=jdgYmmsZiFY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jdgYmmsZiFY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Loon balloon crash Congo Bas-Uele Kenya Google loon crashes in Congo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: the-star.co.ke  
    Title: Image: image by T  
-   Link: [https://www.the-star.co.ke/sports/football/2020-08-27-world-review-internet-balloon-causes-alarm-in-drc-trump-wants-biden-drug-tested](https://www.the-star.co.ke/sports/football/2020-08-27-world-review-internet-balloon-causes-alarm-in-drc-trump-wants-biden-drug-tested)  
+   Link: <a href="https://www.the-star.co.ke/sports/football/2020-08-27-world-review-internet-balloon-causes-alarm-in-drc-trump-wants-biden-drug-tested" target="_blank" rel="noopener noreferrer nofollow">https://www.the-star.co.ke/sports/football/2020-08-27-world-review-internet-balloon-causes-alarm-in-drc-trump-wants-biden-drug-tested</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World review: Internet balloon causes alarm in DRC, Trump wants Biden drug testedAugust 27, 2020 — Opinion27 August 2020 - 07:50 WORLD RE...</p></details>
    Published: August 27, 2020  
 
 17. <a id="endnote-17"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/viral-news/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/articleshow/77765652.cms](https://timesofindia.indiatimes.com/viral-news/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/articleshow/77765652.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/viral-news/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/articleshow/77765652.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/viral-news/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/articleshow/77765652.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: UFO in Congo jungle turns out to be internet balloon | - Times of IndiaAugust 26, 2020 — * News * &#x27;UFO&#x27; in Congo jungle turns out...</p></details>
    Published: August 26, 2020  

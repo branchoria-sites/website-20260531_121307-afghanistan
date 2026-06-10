@@ -245,7 +245,7 @@ next_link:
   permalink: /oil-fields-case/
   short_title: Oil Fields Case
   heading_title: Kuwait's Most Documented UFO Case
-date: '2026-06-09 01:31:12 '
+date: '2026-06-10 01:56:50 '
 header:
   og_image: /assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-1-social.jpg
   preview_image: /assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-1.webp
@@ -254,33 +254,33 @@ image: /assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-1-s
 
 ## Introduction
 
-[Kuwait]({{ 'what-really-happened-in-kuwaits-ufo/' | relative_url }})’s UFO record is unusual not because it contains a large number of documented cases, but because one episode generated an identifiable chain of official attention: eyewitness reports, a government scientific inquiry, press coverage, and later declassified diplomatic reporting. For researchers trying to separate folklore from evidence, the Kuwait Institute for Scientific Research (KISR) investigation of the 1978–1979 sightings remains the most important documentary trail in the country’s UFO history.
+Kuwait’s UFO record is unusual not because it contains a large number of documented cases, but because one episode generated an identifiable chain of official attention: eyewitness reports, a government scientific inquiry, press coverage, and later declassified diplomatic reporting. For researchers trying to separate folklore from evidence, the Kuwait Institute for Scientific Research (KISR) investigation of the 1978–1979 sightings remains the most important documentary trail in the country’s UFO history.
 
 
 <img src="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case significant is not that it proves extraterrestrial activity. It does not. What it does provide is a rare example of Kuwaiti authorities treating unidentified aerial reports as a matter worthy of scientific review and national-security concern. The surviving public record reveals where officials investigated, what they were willing to say publicly, and where the documentary trail abruptly ends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+What makes the case significant is not that it proves extraterrestrial activity. It does not. What it does provide is a rare example of Kuwaiti authorities treating unidentified aerial reports as a matter worthy of scientific review and national-security concern. The surviving public record reveals where officials investigated, what they were willing to say publicly, and where the documentary trail abruptly ends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 ## Why the KISR Inquiry Still Matters
 
 Most UFO claims associated with Kuwait survive through newspaper stories, personal recollections, paranormal websites, or later retellings. The KISR inquiry is different because it appears in contemporaneous government-related documentation and was referenced by diplomatic observers at the time.
 
-According to a declassified U.S. Embassy cable sent from Kuwait in January 1979, a series of sightings beginning on 9 November 1978 led the Government of Kuwait to appoint an investigative committee drawn from KISR. The committee reportedly examined eight sightings occurring between November and mid-December, several of them near Kuwait Oil Company facilities in the [northern oil fields]({{ 'oil-fields-case/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+According to a declassified U.S. Embassy cable sent from Kuwait in January 1979, a series of sightings beginning on 9 November 1978 led the Government of Kuwait to appoint an investigative committee drawn from KISR. The committee reportedly examined eight sightings occurring between November and mid-December, several of them near Kuwait Oil Company facilities in the northern oil fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 The existence of the committee is important for two reasons:
 
 * It confirms that the reports were not merely isolated rumours circulating among the public.
 * It shows that the government considered the sightings serious enough to involve scientific personnel rather than treating them solely as police or military matters.
 
-Unlike many UFO stories that emerge years later without documentation, the KISR investigation entered the public sphere while the sightings were still being discussed in Kuwaiti newspapers. The timing allows researchers to compare official comments with contemporary media reporting rather than relying entirely on retrospective narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+Unlike many UFO stories that emerge years later without documentation, the KISR investigation entered the public sphere while the sightings were still being discussed in Kuwaiti newspapers. The timing allows researchers to compare official comments with contemporary media reporting rather than relying entirely on retrospective narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLacjB7hKUE" title="US Congress hearing on UFOs drops bombshell: Witnesses testify about secret footage of a &#x27;white orb&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLacjB7hKUE" target="_blank" rel="noopener noreferrer">US Congress hearing on UFOs drops bombshell: Witnesses testify about secret footage of a &#x27;white orb&#x27;</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 1.6M &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLacjB7hKUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLacjB7hKUE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/elW9peUS9BQ" title="UFO Hearing LIVE: Witnesses Testify That US Is Running Secret UAP Programs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=elW9peUS9BQ" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE: Witnesses Testify That US Is Running Secret UAP Programs</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 21.1K &middot; Uploaded: November 2024 &middot; Length: 2 hours 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=elW9peUS9BQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=elW9peUS9BQ">Open on YouTube</a></p></div></div></div>
 
 ## What the Committee Actually Concluded
 
 One of the most persistent misconceptions about the Kuwait sightings is that KISR supposedly confirmed alien spacecraft. The available record does not support that claim.
 
-The declassified embassy reporting describes a much narrower and more cautious position. The KISR committee reportedly rejected the idea that the observed objects were straightforward espionage devices, but it also stopped short of declaring any extraterrestrial explanation. A KISR representative, identified in the cable as Ratib Abu Id, stated that investigators did not possess enough knowledge about the phenomenon to rule out every possibility with certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+The declassified embassy reporting describes a much narrower and more cautious position. The KISR committee reportedly rejected the idea that the observed objects were straightforward espionage devices, but it also stopped short of declaring any extraterrestrial explanation. A KISR representative, identified in the cable as Ratib Abu Id, stated that investigators did not possess enough knowledge about the phenomenon to rule out every possibility with certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 That distinction matters. The committee's reported position was essentially:
 
@@ -293,7 +293,7 @@ That distinction matters. The committee's reported position was essentially:
 
 </div>
 
-This is a much more restrained finding than later UFO literature often implies. The committee appears to have acknowledged uncertainty rather than endorsing a specific extraordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+This is a much more restrained finding than later UFO literature often implies. The committee appears to have acknowledged uncertainty rather than endorsing a specific extraordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3ILInN8xoGA" title="Push for U.S. to divulge more about UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3ILInN8xoGA" target="_blank" rel="noopener noreferrer">Push for U.S. to divulge more about UFO sightings</a></p><p class="youtube-embed-meta">Channel: CBC News: The National &middot; Views: 30.1K &middot; Uploaded: November 2024 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3ILInN8xoGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3ILInN8xoGA">Open on YouTube</a></p></div></div></div>
@@ -302,7 +302,7 @@ This is a much more restrained finding than later UFO literature often implies. 
 
 The most striking element in the documentary record involves Kuwait's oil infrastructure.
 
-The embassy cable records information allegedly supplied by a senior Kuwait Oil Company official. According to that account, an unidentified object appeared over northern oil fields and coincided with unusual behaviour in automatic pumping equipment. The equipment reportedly shut itself down and later resumed operation when the object disappeared, despite normally requiring manual restart procedures. The cable notes that this episode was not addressed directly in the published KISR report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+The embassy cable records information allegedly supplied by a senior Kuwait Oil Company official. According to that account, an unidentified object appeared over northern oil fields and coincided with unusual behaviour in automatic pumping equipment. The equipment reportedly shut itself down and later resumed operation when the object disappeared, despite normally requiring manual restart procedures. The cable notes that this episode was not addressed directly in the published KISR report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 This claim became one of the most frequently repeated elements of the Kuwait UFO story because it connects the sightings to a tangible industrial system rather than a purely visual observation.
 
@@ -314,7 +314,7 @@ However, several limitations remain:
 * The public record comes through diplomatic reporting rather than a released engineering analysis.
 * No publicly available technical documentation has surfaced showing the malfunction.
 * No independent engineering review has verified the event.
-* The KISR report, as described in surviving records, apparently did not provide a detailed explanation of the equipment incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+* The KISR report, as described in surviving records, apparently did not provide a detailed explanation of the equipment incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 </div>
 
@@ -328,7 +328,7 @@ Several themes emerge from the cable:
 
 ### Air Defence Anxiety
 
-The cable indicates that some officials were concerned less about extraterrestrials than about unidentified intrusions into Kuwaiti airspace. The report mentions speculation involving helicopters, hovercraft, or movements connected to the instability then unfolding in Iran during the period surrounding the Iranian Revolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+The cable indicates that some officials were concerned less about extraterrestrials than about unidentified intrusions into Kuwaiti airspace. The report mentions speculation involving helicopters, hovercraft, or movements connected to the instability then unfolding in Iran during the period surrounding the Iranian Revolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 This places the sightings within a broader regional security context. Kuwait's concern was not simply "What are these objects?" but also "Could something be entering our airspace without detection?"
 
@@ -336,11 +336,11 @@ This places the sightings within a broader regional security context. Kuwait's c
 <img src="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Strategic Infrastructure Concerns
 
-The recommendations reportedly emphasised protecting oil resources and national territory. This focus reflects Kuwait's dependence on petroleum infrastructure and helps explain why sightings over oil facilities received disproportionate attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+The recommendations reportedly emphasised protecting oil resources and national territory. This focus reflects Kuwait's dependence on petroleum infrastructure and helps explain why sightings over oil facilities received disproportionate attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 ### Media Amplification
 
-The cable also notes that release of the KISR report coincided with fresh newspaper stories and photographs describing another sighting over Kuwait City. This overlap illustrates how official investigation and media attention reinforced one another, creating a broader public discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+The cable also notes that release of the KISR report coincided with fresh newspaper stories and photographs describing another sighting over Kuwait City. This overlap illustrates how official investigation and media attention reinforced one another, creating a broader public discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 ## The Problem With the Public Record
 
@@ -354,7 +354,7 @@ The declassified cable discusses the KISR committee's work, yet the full committ
 * Embassy summaries.
 * Newspaper accounts.
 * Later reproductions of diplomatic documents.
-* Secondary discussions by UFO researchers and commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+* Secondary discussions by UFO researchers and commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 </div>
 
@@ -375,13 +375,13 @@ Because of that gap, it is often difficult to determine:
 The absence of these materials does not prove a cover-up. It simply means the surviving record is incomplete.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/59SVQqcUZB0" title="SHOCKING Classified UFO Video with White Orb Unearthed at Major UFO Hearing at Congress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=59SVQqcUZB0" target="_blank" rel="noopener noreferrer">SHOCKING Classified UFO Video with White Orb Unearthed at Major UFO Hearing at Congress</a></p><p class="youtube-embed-meta">Channel: GBNews &middot; Views: 156.4K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=59SVQqcUZB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=59SVQqcUZB0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLacjB7hKUE" title="US Congress hearing on UFOs drops bombshell: Witnesses testify about secret footage of a &#x27;white orb&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLacjB7hKUE" target="_blank" rel="noopener noreferrer">US Congress hearing on UFOs drops bombshell: Witnesses testify about secret footage of a &#x27;white orb&#x27;</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 1.6M &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLacjB7hKUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLacjB7hKUE">Open on YouTube</a></p></div></div></div>
 
 ## Where Later Retellings Become Less Reliable
 
 As the Kuwait sightings entered UFO literature, some claims grew more dramatic than the underlying documents support.
 
-For example, later accounts sometimes present the KISR investigation as confirmation of alien visitation or portray the oil-field episode as established fact. Yet the surviving documentary evidence shows a more cautious picture: officials investigated reports, found some aspects unexplained, and expressed concern about airspace security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+For example, later accounts sometimes present the KISR investigation as confirmation of alien visitation or portray the oil-field episode as established fact. Yet the surviving documentary evidence shows a more cautious picture: officials investigated reports, found some aspects unexplained, and expressed concern about airspace security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 Other recurring details—such as precise object dimensions, alleged landings, telecommunications failures, or extensive military involvement—often trace back to witness reports, press stories, or later UFO compilations rather than publicly released government analyses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/ncp/ncp-hall2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Extraterrestrial Psychology</span><span class="citation-popover-snippet">A series of UFO sightings occurred in Kuwait starting on November 9, 1978. As reported by P. G. Jacob, a marine biologist employed by...</span><span class="citation-popover-meta">Published: November 9, 1978</span></span></span>
 
@@ -400,7 +400,7 @@ The surviving documentary trail allows several conclusions with reasonable confi
 * Kuwaiti authorities tasked KISR with examining the reports.
 * The committee reviewed several sightings over a period of weeks.
 * Officials discussed possible implications for airspace and infrastructure security.
-* The subject attracted substantial media attention inside Kuwait. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+* The subject attracted substantial media attention inside Kuwait. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 </div>
 
@@ -411,7 +411,7 @@ The surviving documentary trail allows several conclusions with reasonable confi
 
 * Anomalous behaviour involving oil-field equipment.
 * Photographic evidence published in local newspapers.
-* Additional witness testimony beyond what entered official summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+* Additional witness testimony beyond what entered official summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 </div>
 
@@ -420,94 +420,52 @@ The surviving documentary trail allows several conclusions with reasonable confi
 * Extraterrestrial origin.
 * Physical landing of a craft.
 * Direct interference with military systems.
-* Government possession of hidden evidence demonstrating non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+* Government possession of hidden evidence demonstrating non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
-The lasting significance of the KISR inquiry is therefore not that it resolves Kuwait's UFO mystery. Its value lies in showing that at least one cluster of sightings crossed the threshold from rumour into formal investigation. The declassified cables preserve a rare snapshot of how Kuwaiti scientists, oil officials, diplomats, and security planners reacted when unidentified aerial reports became difficult to dismiss as mere hearsay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
+The lasting significance of the KISR inquiry is therefore not that it resolves Kuwait's UFO mystery. Its value lies in showing that at least one cluster of sightings crossed the threshold from rumour into formal investigation. The declassified cables preserve a rare snapshot of how Kuwaiti scientists, oil officials, diplomats, and security planners reacted when unidentified aerial reports became difficult to dismiss as mere hearsay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1979KUWAIT00486 e</span><span class="citation-popover-snippet">Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kuwait_93295b_official_ufo_records_56a07f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Kuwait&#x27;s UFO Files Can Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Kuwait&#x27;s UFO Files Can Prove, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful comparison for evaluating Kuwait&#x27;s documentary trail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how governments handled unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Directly aligns with discussions of official investigations and archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Centres on documented reports and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -541,75 +499,71 @@ The lasting significance of the KISR inquiry is therefore not that it resolves K
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-80c331-what-kuwait-s-ufo-files-can-prove-kuwait-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -824,25 +778,25 @@ The lasting significance of the KISR inquiry is therefore not that it resolves K
 1. <a id="endnote-1"></a>
    Source: wikileaks.org  
    Title: 1979KUWAIT00486 e  
-   Link: [https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html](https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiLeaksCable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</p></details>
+   Link: <a href="https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/plusd/cables/1979KUWAIT00486_e.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1979KUWAIT00486_eA SERIES OF &quot;UFO&quot;SIGHTINGS ON NOVEMBER 9 CAUSED THE GOK TO APPOINT AN INVESTIGATORY COMMITTEE OF EXPERTS...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: Extraterrestrial Psychology  
-   Link: [https://www.nicap.org/ncp/ncp-hall2.htm](https://www.nicap.org/ncp/ncp-hall2.htm)  
+   Link: <a href="https://www.nicap.org/ncp/ncp-hall2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-hall2.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A series of UFO sightings occurred in Kuwait starting on November 9, 1978. As reported by P. G. Jacob, a marine biologist employed by...</p></details>
    Published: November 9, 1978  
 
 3. <a id="endnote-3"></a>
    Source: ecency.com  
    Title: Wikileaks Deepdives: The Extraterrestrial Issue, Interest By  
-   Link: [https://ecency.com/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence](https://ecency.com/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence)  
+   Link: <a href="https://ecency.com/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence" target="_blank" rel="noopener noreferrer nofollow">https://ecency.com/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&quot; SIGHTING OVER KUWAIT CITY, WHICH INCLUDED PHOTOGRAPHS IN LOCAL NEWSPAPERS. 2. THE KISR COMMITTEE REJECTED THE NOTION THAT THE &quot;UFO&#x27;S...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ecency.com  
-   Link: [https://ecency.com/history/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence](https://ecency.com/history/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence)  
+   Link: <a href="https://ecency.com/history/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence" target="_blank" rel="noopener noreferrer nofollow">https://ecency.com/history/%40an0nkn0wledge/wikileaks-deepdives-the-extraterrestrial-issue-interest-by-world-leaders-and-influential-people-in-an-unknown-presence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikileaks Deepdives: The Extraterrestrial Issue, Interest By...7 Apr 2013 — From this cable we learn that Kuwait had 8 sightings between...</p></details>
 
 ### Additional References
@@ -850,57 +804,57 @@ The lasting significance of the KISR inquiry is therefore not that it resolves K
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: us government network reveals ufo video filmed off kuwait coastkuwait ufo  
-   Link: [https://www.facebook.com/arabtimeskuwait/posts/us-government-network-reveals-ufo-video-filmed-off-kuwait-coastkuwait-ufo/966025678887028/](https://www.facebook.com/arabtimeskuwait/posts/us-government-network-reveals-ufo-video-filmed-off-kuwait-coastkuwait-ufo/966025678887028/)  
+   Link: <a href="https://www.facebook.com/arabtimeskuwait/posts/us-government-network-reveals-ufo-video-filmed-off-kuwait-coastkuwait-ufo/966025678887028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arabtimeskuwait/posts/us-government-network-reveals-ufo-video-filmed-off-kuwait-coastkuwait-ufo/966025678887028/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Government Network Reveals UFO Video Filmed off...UFOs at Kuwait oil fields, 1978 Information obtained in 1979 from U.S. newspaper cl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo hearing live us congress to pull back the curtain on ufos 13253737  
-   Link: [https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737](https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737)  
+   Link: <a href="https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hearing live: Video shows &#x27;white orb&#x27; coming out...13 Nov 2024 — UFO hearing live: Video shows &#x27;white orb&#x27; coming out of ocean off Kuwai...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arynews.tv  
    Title: ufo discussion takes centre stage in the usa with kuwait in focus  
-   Link: [https://arynews.tv/ufo-discussion-takes-centre-stage-in-the-usa-with-kuwait-in-focus](https://arynews.tv/ufo-discussion-takes-centre-stage-in-the-usa-with-kuwait-in-focus)  
+   Link: <a href="https://arynews.tv/ufo-discussion-takes-centre-stage-in-the-usa-with-kuwait-in-focus" target="_blank" rel="noopener noreferrer nofollow">https://arynews.tv/ufo-discussion-takes-centre-stage-in-the-usa-with-kuwait-in-focus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO discussion takes centre stage in the USA, with Kuwait...19 Nov 2024 — 1978: Eyewitnesses reported a UFO landing near the media compl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DPN6OTwCOi5/](https://www.instagram.com/p/DPN6OTwCOi5/)  
+   Link: <a href="https://www.instagram.com/p/DPN6OTwCOi5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPN6OTwCOi5/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For decades, UFO stories were treated like conspiracy theories. The Pentagon has...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Kuwaitofferings/posts/what-would-you-do-if-you-saw-a-humanoid-in-kuwait-city-/1181493930011599/](https://www.facebook.com/Kuwaitofferings/posts/what-would-you-do-if-you-saw-a-humanoid-in-kuwait-city-/1181493930011599/)  
+   Link: <a href="https://www.facebook.com/Kuwaitofferings/posts/what-would-you-do-if-you-saw-a-humanoid-in-kuwait-city-/1181493930011599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kuwaitofferings/posts/what-would-you-do-if-you-saw-a-humanoid-in-kuwait-city-/1181493930011599/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What would you do if you saw a humanoid in Kuwait City?UFOs at Kuwait oil fields, 1978 Information obtained in 1979 from U.S...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: 248am.com  
    Title: the story of the first ufo sighting in kuwait 1978  
-   Link: [https://248am.com/mark/interesting/the-story-of-the-first-ufo-sighting-in-kuwait-1978/](https://248am.com/mark/interesting/the-story-of-the-first-ufo-sighting-in-kuwait-1978/)  
+   Link: <a href="https://248am.com/mark/interesting/the-story-of-the-first-ufo-sighting-in-kuwait-1978/" target="_blank" rel="noopener noreferrer nofollow">https://248am.com/mark/interesting/the-story-of-the-first-ufo-sighting-in-kuwait-1978/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2:48AMThe Story of the First UFO Sighting in Kuwait23 May 2021 — The first UFO sighting in the Arab world was in Kuwait back in 1978 and...</p></details>
    Published: May 2021  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: kuwait ufo incident the northern oil fields ufo  
-   Link: [https://www.reddit.com/r/aliens/comments/14qi3x5/kuwait_ufo_incident_the_northern_oil_fields_ufo/](https://www.reddit.com/r/aliens/comments/14qi3x5/kuwait_ufo_incident_the_northern_oil_fields_ufo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14qi3x5/kuwait_ufo_incident_the_northern_oil_fields_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14qi3x5/kuwait_ufo_incident_the_northern_oil_fields_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Northern Oil Fields UFO Incident of 1978: r/aliensWhy do most UFO/alien incidents seem to come from the US? r/UFOs. • 2mo ago...Rea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
    Title: Ufologie UFOS at close sight: UFOs A to Z: K  
-   Link: [https://ufologie.patrickgross.org/htm/k.htm](https://ufologie.patrickgross.org/htm/k.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/k.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/k.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at close sight: UFOs A to Z: K - Patrick GrossThe mechanism which he discusses mostly is that people claiming they saw UFOs or aliens wou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=59SVQqcUZB0](https://www.youtube.com/watch?v=59SVQqcUZB0)  
+   Link: <a href="https://www.youtube.com/watch?v=59SVQqcUZB0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=59SVQqcUZB0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Congress hearing on UFOs drops bombshell: Witnesses testify about secret footage of a &#x27;white orb&#x27;...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unexplained-mysteries.com  
    Title: 225867 ufo lands on oilfield in kuwait  
-   Link: [https://www.unexplained-mysteries.com/forum/topic/225867-ufo-lands-on-oilfield-in-kuwait/](https://www.unexplained-mysteries.com/forum/topic/225867-ufo-lands-on-oilfield-in-kuwait/)  
+   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/225867-ufo-lands-on-oilfield-in-kuwait/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/225867-ufo-lands-on-oilfield-in-kuwait/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Lands on Oilfield in Kuwait?20 Apr 2012 — THE KISR COMMITTEE REJECTED THE NOTION THAT THE &quot;UFO&#x27;S&#x27; WERE ESPIONAGE DEVICES BUT REMAINED...</p></details>

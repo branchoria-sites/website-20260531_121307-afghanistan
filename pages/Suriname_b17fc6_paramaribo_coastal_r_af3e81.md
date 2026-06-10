@@ -245,7 +245,7 @@ next_link:
   permalink: /suriname-ufo-reporting/
   short_title: Suriname UFO reporting
   heading_title: How Reliable Are Suriname UFO Sources?
-date: '2026-06-09 01:41:47 '
+date: '2026-06-10 02:09:05 '
 header:
   og_image: /assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1-social.jpg
   preview_image: /assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1.webp
@@ -254,15 +254,15 @@ image: /assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1
 
 ## Introduction
 
-Most publicly documented UFO reports from [Suriname]({{ 'what-surinames-ufo-stories-really-show/' | relative_url }}) come from or near Paramaribo rather than from the country's vast rainforest interior. That pattern does not necessarily mean unusual aerial events occur more often around the capital. A more cautious interpretation is that Paramaribo dominates the record because it dominates Suriname’s population, media infrastructure, and reporting networks. The result is a reporting geography rather than a confirmed geography of unexplained phenomena.
+Most publicly documented UFO reports from Suriname come from or near Paramaribo rather than from the country's vast rainforest interior. That pattern does not necessarily mean unusual aerial events occur more often around the capital. A more cautious interpretation is that Paramaribo dominates the record because it dominates Suriname’s population, media infrastructure, and reporting networks. The result is a reporting geography rather than a confirmed geography of unexplained phenomena.
 
 
 <img src="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1-dark.svg" | relative_url }}" alt="Paramaribo illustration 1" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters when reading Suriname’s UFO history. The country's best-known sightings, database entries, newspaper discussions, and organised reporting efforts emerged in the coastal belt where most people live and where witnesses could more easily contact journalists or UFO researchers. Understanding that coastal concentration helps explain both why Paramaribo appears repeatedly in public UFO archives and why the interior remains comparatively silent in the historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
+This distinction matters when reading Suriname’s UFO history. The country's best-known sightings, database entries, newspaper discussions, and organised reporting efforts emerged in the coastal belt where most people live and where witnesses could more easily contact journalists or UFO researchers. Understanding that coastal concentration helps explain both why Paramaribo appears repeatedly in public UFO archives and why the interior remains comparatively silent in the historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname &#124; History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname &#124; History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
 
 ## Why the coastal region dominates the record
 
-Suriname's physical geography creates an immediate reporting imbalance. The country is largely covered by tropical rainforest, with the southern interior sparsely populated compared with the northern coastal zone. Paramaribo serves as the capital, largest city, chief port, and principal communications centre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
+Suriname's physical geography creates an immediate reporting imbalance. The country is largely covered by tropical rainforest, with the southern interior sparsely populated compared with the northern coastal zone. Paramaribo serves as the capital, largest city, chief port, and principal communications centre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname &#124; History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
 
 For UFO reporting, that concentration has several consequences:
 
@@ -284,11 +284,11 @@ This is a common problem in UFO databases worldwide, but it is particularly visi
 
 ## Paramaribo's place in public UFO databases
 
-The limited international databases that contain Suriname cases are heavily weighted toward Paramaribo. The National UFO Reporting Center (NUFORC), one of the most widely cited civilian UFO archives, contains only a small number of Suriname entries, and the best-known examples are linked to the capital area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCUFO Sightings Map | NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
+The limited international databases that contain Suriname cases are heavily weighted toward Paramaribo. The National UFO Reporting Center (NUFORC), one of the most widely cited civilian UFO archives, contains only a small number of Suriname entries, and the best-known examples are linked to the capital area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
 
 One frequently cited report describes a triangular object seen in Paramaribo in January 2003. According to the witness account, the object displayed lights and was observed for less than a minute while the observer was stargazing. The report contains no photographic evidence, radar confirmation, or independent corroboration. As a result, it remains a witness narrative rather than a verified unexplained case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=35709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 35709NUFORC UFO Sighting 35709 · Occurred: 2004-03-08 08:00 Local (08/03/1904) · Reported: 2004-03-20 03:45 Pacific ·...</span><span class="citation-popover-meta">Published: March 8, 2004</span></span></span>
 
-Another database entry from August 2005 describes coloured lights visible from Paramaribo toward the eastern sky. The account claims that many people observed the display over an extended period. However, the database record contains internal inconsistencies regarding the number of observers, reducing its evidential strength. The case illustrates a recurring issue in Suriname's UFO record: reports exist, but supporting documentation is often limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+Another database entry from August 2005 describes coloured lights visible from Paramaribo toward the eastern sky. The account claims that many people observed the display over an extended period. However, the database record contains internal inconsistencies regarding the number of observers, reducing its evidential strength. The case illustrates a recurring issue in Suriname's UFO record: reports exist, but supporting documentation is often limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 These cases are notable less for what they prove and more for where they were reported. The fact that they originated in Paramaribo fits the broader pattern of sightings emerging from the country's most connected urban area.
 
@@ -296,9 +296,9 @@ These cases are notable less for what they prove and more for where they were re
 <img src="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-2-dark.svg" | relative_url }}" alt="Paramaribo illustration 2" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The reporting network formed around the capital
 
-The concentration of UFO reports around Paramaribo became even more pronounced after local enthusiasts established a formal reporting point in the late 2000s. Discussions of Tanya Wijngaarde's research into UFO [belief]({{ 'belief/' | relative_url }}) and culture in Suriname describe how local UFO activity developed into a small but organised network centred on the capital and its surrounding communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">BrillChapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</span></span></span>
+The concentration of UFO reports around Paramaribo became even more pronounced after local enthusiasts established a formal reporting point in the late 2000s. Discussions of Tanya Wijngaarde's research into UFO [belief]({{ 'belief/' | relative_url }}) and culture in Suriname describe how local UFO activity developed into a small but organised network centred on the capital and its surrounding communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</span></span></span>
 
-According to accounts of that research, more than eighty reports were submitted to the Surinamese reporting point between 2009 and 2015. Public lectures, discussions, and film events also took place, creating a visible social space where witnesses could share experiences. The activity remained relatively small, but it gave Paramaribo a role that no other part of the country possessed: it became the place where UFO stories were collected, discussed, and preserved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">BrillChapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</span></span></span>
+According to accounts of that research, more than eighty reports were submitted to the Surinamese reporting point between 2009 and 2015. Public lectures, discussions, and film events also took place, creating a visible social space where witnesses could share experiences. The activity remained relatively small, but it gave Paramaribo a role that no other part of the country possessed: it became the place where UFO stories were collected, discussed, and preserved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</span></span></span>
 
 This creates an important historical effect. Once a reporting centre exists in one city, new reports are more likely to come from that same region because residents know where to send them. The resulting archive can therefore reinforce the appearance that one area experiences more sightings than the rest of the country.
 
@@ -309,7 +309,7 @@ This creates an important historical effect. Once a reporting centre exists in o
 
 One of the most difficult questions in Suriname UFO research is whether the rainforest interior genuinely produces fewer reports or simply fewer recorded reports.
 
-The southern part of the country contains enormous areas of forest with low population density. From a purely observational standpoint, such regions might be expected to offer excellent night-sky visibility because of limited urban lighting. Yet they contribute relatively little to the public UFO archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
+The southern part of the country contains enormous areas of forest with low population density. From a purely observational standpoint, such regions might be expected to offer excellent night-sky visibility because of limited urban lighting. Yet they contribute relatively little to the public UFO archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname &#124; History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
 
 Several explanations are possible:
 
@@ -330,97 +330,55 @@ The available evidence is too thin to determine which explanation is most import
 <img src="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-3-dark.svg" | relative_url }}" alt="Paramaribo illustration 3" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reading the coastal pattern correctly
 
-The strongest lesson from Suriname's UFO history is methodological rather than sensational. Paramaribo dominates the country's UFO record because it dominates the country's public record in general. It is where journalists, researchers, witnesses, and organised reporting networks were concentrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
+The strongest lesson from Suriname's UFO history is methodological rather than sensational. Paramaribo dominates the country's UFO record because it dominates the country's public record in general. It is where journalists, researchers, witnesses, and organised reporting networks were concentrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname &#124; History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
 
 That does not make the capital a proven hotspot of unexplained aerial phenomena. Instead, it makes Paramaribo the place where sightings were most likely to become visible to later researchers. The distinction is important because many UFO databases can unintentionally blur witness concentration with event concentration.
 
-For Suriname, the public archive points to a clear coastal reporting pattern. What remains uncertain is whether that pattern reflects where unusual aerial events actually occurred or simply where people had the greatest ability to report and preserve them. The available evidence supports the second explanation more strongly than the first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">BrillChapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
+For Suriname, the public archive points to a clear coastal reporting pattern. What remains uncertain is whether that pattern reflects where unusual aerial events actually occurred or simply where people had the greatest ability to report and preserve them. The available evidence supports the second explanation more strongly than the first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSuriname &#124; History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8iNYv79gNj0" title="Exploring The Forgotten Capital Of South America 🇸🇷" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8iNYv79gNj0" target="_blank" rel="noopener noreferrer">Exploring The Forgotten Capital Of South America 🇸🇷</a></p><p class="youtube-embed-meta">Channel: Jumps Travel Documentary &middot; Views: 11.5K &middot; Uploaded: January 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8iNYv79gNj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8iNYv79gNj0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Paramaribo Dominates Suriname UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Paramaribo Dominates Suriname UFO Reports, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on witness reports and geographic clustering of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparative context for regional reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Examines how local cultures shape report distributions and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Helps explain how communities build UFO narratives around population centers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,75 +412,71 @@ For Suriname, the public archive points to a clear coastal reporting pattern. Wh
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paramaribo-why-paramaribo-dominates-suriname-ufo-reports-suriname-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -736,163 +690,163 @@ For Suriname, the public archive points to a clear coastal reporting pattern. Wh
 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Suriname](https://www.britannica.com/place/Suriname)  
+   Link: <a href="https://www.britannica.com/place/Suriname" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Suriname</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSuriname | History, Geography, Politics, Culture, Language...Suriname is one of the smallest countries in South A...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Paramaribo](https://www.britannica.com/place/Paramaribo)  
+   Link: <a href="https://www.britannica.com/place/Paramaribo" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Paramaribo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaParamaribo | Suriname, Map, Population, &amp; FactsParamaribo, largest city, capital, and chief port of Suriname. It l...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: brill.com  
-   Link: [https://brill.com/display/book/9789004513877/BP000024.xml?language=en&srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj](https://brill.com/display/book/9789004513877/BP000024.xml?language=en&srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrillChapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</p></details>
+   Link: <a href="https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004513877/BP000024.xml?language=en&amp;srsltid=AfmBOoqtV-g84vFrFqAFjov_vSOUhHXE30C8egConU52zA9H2cbA4qdj</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 16 UFOs over Suriname: The Reception of an...15 Sept 2022 — There was no extra-terrestrial invasion, but it was clear that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCUFO Sightings Map | NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</p></details>
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCDecember 18, 2023 — Worldwide UFO / UAP sightings plotted on an interactive map...</p></details>
    Published: December 18, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=35709](https://nuforc.org/sighting/?id=35709)  
+   Link: <a href="https://nuforc.org/sighting/?id=35709" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=35709</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 35709NUFORC UFO Sighting 35709 · Occurred: 2004-03-08 08:00 Local (08/03/1904) · Reported: 2004-03-20 03:45 Pacific ·...</p></details>
    Published: March 8, 2004  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=cCaribbean](https://nuforc.org/subndx/?id=cCaribbean)  
+   Link: <a href="https://nuforc.org/subndx/?id=cCaribbean" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cCaribbean</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country CaribbeanFile a UFO Report · Donate · About Us · Toggle website search. NUFORC Reports for Country &#x27;Caribbean&#x27;...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120. USA... 2. St. Lucia, 2. Suriname...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/summary/Suriname](https://www.britannica.com/summary/Suriname)  
+   Link: <a href="https://www.britannica.com/summary/Suriname" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Suriname</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summaryPopulation: (2025 est.) 651,700. Capital: Paramaribo. The population includes South Asians, Creoles, Javanese, and smaller groups...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: kids.britannica.com  
-   Link: [https://kids.britannica.com/students/article/Suriname/277970](https://kids.britannica.com/students/article/Suriname/277970)  
+   Link: <a href="https://kids.britannica.com/students/article/Suriname/277970" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Suriname/277970</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Economy. Suriname&#x27;s natural resources are central to its economy. Mining has long been important. Gold, cement...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Suriname/People](https://www.britannica.com/place/Suriname/People)  
+   Link: <a href="https://www.britannica.com/place/Suriname/People" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Suriname/People</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suriname - Multicultural, Indigenous, MaroonSmall settlements of Maroons and Indo-Surinamese make up almost the entire population of the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Suriname/Economy](https://www.britannica.com/place/Suriname/Economy)  
+   Link: <a href="https://www.britannica.com/place/Suriname/Economy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Suriname/Economy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bauxite, Agriculture, MiningLess than 1 percent of Suriname&#x27;s land is arable, and about half of this is cultivated. Most of the farmland...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kids.britannica.com  
-   Link: [https://kids.britannica.com/kids/article/Paramaribo/345990](https://kids.britannica.com/kids/article/Paramaribo/345990)  
+   Link: <a href="https://kids.britannica.com/kids/article/Paramaribo/345990" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Paramaribo/345990</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the capital of Suriname, a small country on the northern coast of South America... More than half the country&#x27;s people live in Parama...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kids.britannica.com  
-   Link: [https://kids.britannica.com/kids/article/Suriname/345792](https://kids.britannica.com/kids/article/Suriname/345792)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kids | Britannica Kids | Homework HelpSuriname is on the northern coast of South America, along the Atlantic Ocean...</p></details>
+   Link: <a href="https://kids.britannica.com/kids/article/Suriname/345792" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Suriname/345792</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britannica Kids | Homework HelpSuriname is on the northern coast of South America, along the Atlantic Ocean...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kids.britannica.com  
-   Link: [https://kids.britannica.com/students/article/Paramaribo/332493](https://kids.britannica.com/students/article/Paramaribo/332493)  
+   Link: <a href="https://kids.britannica.com/students/article/Paramaribo/332493" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Paramaribo/332493</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The city lies on the Suriname River 9 miles (15 kilometers) from the Atlantic Ocean. Suriname was once a...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Suriname](https://en.wikipedia.org/wiki/Suriname)  
+   Link: <a href="https://en.wikipedia.org/wiki/Suriname" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Suriname</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SurinameMost people live along the northern coast, centred on Paramaribo, making Suriname one of the least densely populated countries...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: datacommons.org  
-   Link: [https://datacommons.org/place/country/SUR?category=Demographics](https://datacommons.org/place/country/SUR?category=Demographics)  
+   Link: <a href="https://datacommons.org/place/country/SUR?category=Demographics" target="_blank" rel="noopener noreferrer nofollow">https://datacommons.org/place/country/SUR?category=Demographics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DemographicsPlaces in Suriname: Population (2012); 1. Paramaribo District, 241K; 2. Wanica District, 118K; 3. Sipaliwini District, 37...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: geofactbook.com  
-   Link: [https://geofactbook.com/countries/suriname](https://geofactbook.com/countries/suriname)  
+   Link: <a href="https://geofactbook.com/countries/suriname" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/suriname</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, the smallest country in South America, is situated on the northeastern coast, bordered by the Atlantic Ocean, French...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: globaledge.msu.edu  
-   Link: [https://globaledge.msu.edu/countries/suriname](https://globaledge.msu.edu/countries/suriname)  
+   Link: <a href="https://globaledge.msu.edu/countries/suriname" target="_blank" rel="noopener noreferrer nofollow">https://globaledge.msu.edu/countries/suriname</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>msu.eduSuriname: IntroductionSuriname is a country located in Northern South America bordering the North Atlantic Ocean. Neighboring coun...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: traveljamii.com  
-   Link: [https://www.traveljamii.com/history_details/191](https://www.traveljamii.com/history_details/191)  
+   Link: <a href="https://www.traveljamii.com/history_details/191" target="_blank" rel="noopener noreferrer nofollow">https://www.traveljamii.com/history_details/191</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our History | One JamiiSuriname is one of the smallest countries in South America, yet its population is one of the most ethnically diver...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: discover-suriname.com  
-   Link: [https://www.discover-suriname.com/about-suriname](https://www.discover-suriname.com/about-suriname)  
+   Link: <a href="https://www.discover-suriname.com/about-suriname" target="_blank" rel="noopener noreferrer nofollow">https://www.discover-suriname.com/about-suriname</a>  
 
 24. <a id="endnote-24"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: [https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt](https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt)  
+   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>center appell dhamnagar overshadowed householder oops hippoglossus powhida... ufo ufa splawie ufc northey kemnay stompe tesimond tretyak...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ad-teaching.informatik.uni-freiburg.de  
-   Link: [https://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1213/wikipedia-sentences.vocabulary.txt.WITH_FREQUENCIES](https://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1213/wikipedia-sentences.vocabulary.txt.WITH_FREQUENCIES)  
+   Link: <a href="https://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1213/wikipedia-sentences.vocabulary.txt.WITH_FREQUENCIES" target="_blank" rel="noopener noreferrer nofollow">https://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1213/wikipedia-sentences.vocabulary.txt.WITH_FREQUENCIES</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo 254 undertaken 254 wiener 253 00 253 astrophysicist 253 bulgaria 253 butler 253 cutting 253 encourage 253 ideals 253 initiatives 253...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: science.nasa.gov  
    Title: paramaribo suriname 149922  
-   Link: [https://science.nasa.gov/earth/earth-observatory/paramaribo-suriname-149922/](https://science.nasa.gov/earth/earth-observatory/paramaribo-suriname-149922/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/paramaribo-suriname-149922/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/paramaribo-suriname-149922/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govParamaribo, SurinameJun 27, 2022 — In modern times, Paramaribo has grown to be a city of 240,000 people, half of Suriname&#x27;s popul...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dsss.be  
-   Link: [https://dsss.be/hexwords/EnglishWords.pl](https://dsss.be/hexwords/EnglishWords.pl)  
+   Link: <a href="https://dsss.be/hexwords/EnglishWords.pl" target="_blank" rel="noopener noreferrer nofollow">https://dsss.be/hexwords/EnglishWords.pl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ugaritic ugh ugli uglier ugliest uglification uglify...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: norvig.com  
-   Link: [https://norvig.com/npdict.txt](https://norvig.com/npdict.txt)  
+   Link: <a href="https://norvig.com/npdict.txt" target="_blank" rel="noopener noreferrer nofollow">https://norvig.com/npdict.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NEF UNESCO UNHCR UNICEF UNIDO UNO UNRRA UNRWA...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: albahari.com  
-   Link: [https://www.albahari.com/ispell/allwords.txt](https://www.albahari.com/ispell/allwords.txt)  
+   Link: <a href="https://www.albahari.com/ispell/allwords.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.albahari.com/ispell/allwords.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ic ultramundane ultrared ultrathin...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: boekenportaal.sr  
-   Link: [https://www.boekenportaal.sr/boek/?authortitle=pier-giorgio-murgia%2Faliens-in-the-land-of-the-nuraghes-a-century-of-ufo-sightings-and-encounters-with-extraterrestrial-beings-in-sardinia--9788894791723](https://www.boekenportaal.sr/boek/?authortitle=pier-giorgio-murgia%2Faliens-in-the-land-of-the-nuraghes-a-century-of-ufo-sightings-and-encounters-with-extraterrestrial-beings-in-sardinia--9788894791723)  
+   Link: <a href="https://www.boekenportaal.sr/boek/?authortitle=pier-giorgio-murgia%2Faliens-in-the-land-of-the-nuraghes-a-century-of-ufo-sightings-and-encounters-with-extraterrestrial-beings-in-sardinia--9788894791723" target="_blank" rel="noopener noreferrer nofollow">https://www.boekenportaal.sr/boek/?authortitle=pier-giorgio-murgia%2Faliens-in-the-land-of-the-nuraghes-a-century-of-ufo-sightings-and-encounters-with-extraterrestrial-beings-in-sardinia--9788894791723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Beings in Sardinia.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: webstor.srmist.edu.in  
    Title: list of jstor e books 5168  
-   Link: [https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2019/list-of-jstor-e-books-5168.pdf](https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2019/list-of-jstor-e-books-5168.pdf)  
+   Link: <a href="https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2019/list-of-jstor-e-books-5168.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2019/list-of-jstor-e-books-5168.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF JSTOR PACKAGE E-BOOKS (5168)3393 Pioneers, Settlers, Aliens, Exiles. Fisher, J. L.. 3394 Place of Devotion. Sarbadhikary, Sukanya. 339...</p></details>

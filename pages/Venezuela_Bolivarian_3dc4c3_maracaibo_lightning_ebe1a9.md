@@ -239,7 +239,7 @@ next_link:
   permalink: /petare-case/
   short_title: Petare Case
   heading_title: How Strong Is the Petare Encounter?
-date: '2026-06-09 01:45:01 '
+date: '2026-06-10 02:12:52 '
 header:
   og_image: /assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-1-social.jpg
   preview_image: /assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Ill
 
 ## Introduction
 
-Lake Maracaibo is one of the most important natural explanations in any discussion of UFO reports from Venezuela. The region hosts the famous Catatumbo lightning phenomenon, a concentration of nocturnal thunderstorms so intense that it has been identified as the highest lightning-density hotspot on Earth. Because many UFO reports begin with descriptions of glowing objects, flashing lights, hovering illumination or unusual night-sky activity, any serious assessment of sightings in western Venezuela has to start with meteorology rather than extraterrestrial speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">earths new lightning capital revealed</span><span class="citation-popover-snippet">NASAEarth&#x27;s New Lightning Capital Revealed2 May 2016 — Lake Maracaibo in Venezuela earned the top spot, receiving an average rate of abou...</span><span class="citation-popover-meta">Published: May 2016</span></span></span>
+Lake Maracaibo is one of the most important natural explanations in any discussion of UFO reports from Venezuela. The region hosts the famous Catatumbo lightning phenomenon, a concentration of nocturnal thunderstorms so intense that it has been identified as the highest lightning-density hotspot on Earth. Because many UFO reports begin with descriptions of glowing objects, flashing lights, hovering illumination or unusual night-sky activity, any serious assessment of sightings in western Venezuela has to start with meteorology rather than extraterrestrial speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">earths new lightning capital revealed</span><span class="citation-popover-snippet">Earth&#x27;s New Lightning Capital Revealed2 May 2016 — Lake Maracaibo in Venezuela earned the top spot, receiving an average rate of abou...</span><span class="citation-popover-meta">Published: May 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-1-dark.svg" | relative_url }}" alt="Maracaibo Lightning illustration 1" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ Several characteristics make the phenomenon especially relevant to UFO investiga
 * Lightning can continue for hours, creating the impression of persistent aerial activity.
 * Flashes may appear in rapid succession, sometimes dozens of times per minute.
 * Illumination can be visible at very long distances across the lake and surrounding lowlands.
-* Some storms produce extensive cloud-top lighting effects without obvious rain reaching distant observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryCatatumbo Lightning | SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span> NASA Earth-observation material describes the area as a remarkably consistent lightning hotspot, with storms recurring on most days of the year in roughly the same geographical zone. Historically, the phenomenon was even known as the "Maracaibo Beacon" because sailors could reportedly see the flashes from great distances. NASA Earthdata <span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.com/records/lightning-hotspots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.com">[geology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.com</span><span class="citation-popover-title">Earth&#x27;s Lightning Hotspots</span><span class="citation-popover-snippet">GeologyEarth&#x27;s Lightning Hotspots - Lake MaracaiboThe world&#x27;s top lightning hotspot is over Lake Maracaibo in northwestern Venezuela. Her...</span></span></span> For UFO researchers, this consistency matters. A distant observer may witness repeated flashes, glowing cloud formations or illuminated atmospheric structures without realising they are watching a well-documented meteorological process.
+* Some storms produce extensive cloud-top lighting effects without obvious rain reaching distant observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Catatumbo Lightning &#124; SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span> NASA Earth-observation material describes the area as a remarkably consistent lightning hotspot, with storms recurring on most days of the year in roughly the same geographical zone. Historically, the phenomenon was even known as the "Maracaibo Beacon" because sailors could reportedly see the flashes from great distances. NASA Earthdata <span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.com/records/lightning-hotspots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.com">[geology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.com</span><span class="citation-popover-title">Earth&#x27;s Lightning Hotspots</span><span class="citation-popover-snippet">Earth&#x27;s Lightning Hotspots - Lake MaracaiboThe world&#x27;s top lightning hotspot is over Lake Maracaibo in northwestern Venezuela. Her...</span></span></span> For UFO researchers, this consistency matters. A distant observer may witness repeated flashes, glowing cloud formations or illuminated atmospheric structures without realising they are watching a well-documented meteorological process.
 
 ## How storms complicate sightings
 
@@ -303,7 +303,7 @@ This problem is particularly relevant to retrospective UFO catalogues, where wit
 
 Reports from the Maracaibo region occasionally describe unusual colours rather than simple white flashes. Yet lightning illumination is not always visually uniform.
 
-Atmospheric conditions, moisture content, dust and viewing angle can affect how flashes are perceived. Observers may report blue, orange, red or violet tones during intense storm activity. These changing colours can reinforce an impression of technological or anomalous behaviour even when the source is electrical discharge within storm clouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lightningstrikeltd.co.uk/blog/catatumbo-lightning-the-everlasting-storm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lightningstrikeltd.co.uk">[Lightning Strike]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lightningstrikeltd.co.uk</span><span class="citation-popover-snippet">Lightning StrikeCatatumbo Lightning: The Everlasting Storm | BlogOriginating from a concentrated mass of storm clouds more than 1km high...</span></span></span>
+Atmospheric conditions, moisture content, dust and viewing angle can affect how flashes are perceived. Observers may report blue, orange, red or violet tones during intense storm activity. These changing colours can reinforce an impression of technological or anomalous behaviour even when the source is electrical discharge within storm clouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lightningstrikeltd.co.uk/blog/catatumbo-lightning-the-everlasting-storm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lightningstrikeltd.co.uk">[Lightning Strike]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lightningstrikeltd.co.uk</span><span class="citation-popover-snippet">Lightning StrikeCatatumbo Lightning: The Everlasting Storm &#124; BlogOriginating from a concentrated mass of storm clouds more than 1km high...</span></span></span>
 
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-2-dark.svg" | relative_url }}" alt="Maracaibo Lightning illustration 2" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,7 +337,7 @@ For Venezuelan UFO reports, Catatumbo lightning provides a strong explanation fo
 
 **Persistent flashing lights over the western horizon:** This is perhaps the most straightforward match. The region's storms are capable of producing prolonged displays visible across large distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">maracaibo beacon</span><span class="citation-popover-snippet">NASA EarthdataThe Maracaibo BeaconApr 19, 2021 — The lightning is so consistent—occurring 300 days a year at the same time and in the sam...</span></span></span>
 
-**Large glowing masses inside clouds:** Internal cloud illumination can create luminous forms with poorly defined edges that appear detached from conventional weather systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryCatatumbo Lightning | SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span>
+**Large glowing masses inside clouds:** Internal cloud illumination can create luminous forms with poorly defined edges that appear detached from conventional weather systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Catatumbo Lightning &#124; SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span>
 
 **Repeated reports from the same geographical area:** Because the storms recur in roughly the same region year after year, similar reports may emerge repeatedly without requiring a recurring unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">maracaibo beacon</span><span class="citation-popover-snippet">NASA EarthdataThe Maracaibo BeaconApr 19, 2021 — The lightning is so consistent—occurring 300 days a year at the same time and in the sam...</span></span></span>
 
@@ -349,7 +349,7 @@ In these situations, lightning is often a more parsimonious explanation than an 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-3-dark.svg" | relative_url }}" alt="Maracaibo Lightning illustration 3" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_maracaibo_lightning_ebe1a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What lightning does not explain
 
-The importance of Catatumbo lightning can also be overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryCatatumbo Lightning | SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span>
+The importance of Catatumbo lightning can also be overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Catatumbo Lightning &#124; SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span>
 
 A storm system does not automatically explain reports involving:
 
@@ -365,7 +365,7 @@ A storm system does not automatically explain reports involving:
 
 </div>
 
-For example, some of the aviation-related reports associated with Venezuela's mid-twentieth-century UFO wave involved pilots who described distinct objects crossing flight paths or maintaining apparent positions relative to aircraft. Whether those reports were misinterpretations, errors, folklore or genuinely unexplained incidents is a separate question. Catatumbo lightning cannot simply be invoked as a universal solution. The weather explanation is strongest for distant luminous phenomena and weakest for close observational cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryCatatumbo Lightning | SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span>
+For example, some of the aviation-related reports associated with Venezuela's mid-twentieth-century UFO wave involved pilots who described distinct objects crossing flight paths or maintaining apparent positions relative to aircraft. Whether those reports were misinterpretations, errors, folklore or genuinely unexplained incidents is a separate question. Catatumbo lightning cannot simply be invoked as a universal solution. The weather explanation is strongest for distant luminous phenomena and weakest for close observational cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Catatumbo Lightning &#124; SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</span></span></span>
 
 This distinction is important because sceptical analysis becomes less persuasive when a natural explanation is stretched beyond its evidential reach.
 
@@ -381,86 +381,44 @@ A glowing object reported over a region with ordinary weather patterns might dem
 For that reason, the Maracaibo region occupies a distinctive place in Venezuela's UFO history. It is not primarily a source of compelling extraterrestrial evidence. It is a reminder that one of the world's most spectacular atmospheric phenomena operates in exactly the kind of environment where luminous night-time sightings are most likely to be reported, misjudged and mythologised. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">maracaibo beacon</span><span class="citation-popover-snippet">NASA EarthdataThe Maracaibo BeaconApr 19, 2021 — The lightning is so consistent—occurring 300 days a year at the same time and in the sam...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Lightning Looks Like a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Lightning Looks Like a UFO, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on evaluating observations before extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison cases where unusual lights were investigated seriously.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
-        
-        <p class="fr-book-desc">Explains atmospheric phenomena that can generate unusual lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
-        
-        <p class="fr-book-desc">Helps readers understand lightning, storms and visual atmospheric effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -494,75 +452,71 @@ For that reason, the Maracaibo region occupies a distinctive place in Venezuela'
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maracaibo-lightning-when-lightning-looks-like-a-ufo-venezuela-bolivarian-republic-of-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -777,81 +731,81 @@ For that reason, the Maracaibo region occupies a distinctive place in Venezuela'
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: earths new lightning capital revealed  
-   Link: [https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/](https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAEarth&#x27;s New Lightning Capital Revealed2 May 2016 — Lake Maracaibo in Venezuela earned the top spot, receiving an average rate of abou...</p></details>
+   Link: <a href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth&#x27;s New Lightning Capital Revealed2 May 2016 — Lake Maracaibo in Venezuela earned the top spot, receiving an average rate of abou...</p></details>
    Published: May 2016  
 
 2. <a id="endnote-2"></a>
    Source: earthdata.nasa.gov  
    Title: maracaibo beacon  
-   Link: [https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon](https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon)  
+   Link: <a href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataThe Maracaibo BeaconApr 19, 2021 — The lightning is so consistent—occurring 300 days a year at the same time and in the sam...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Catatumbo lightning  
-   Link: [https://en.wikipedia.org/wiki/Catatumbo_lightning](https://en.wikipedia.org/wiki/Catatumbo_lightning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Catatumbo_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Catatumbo_lightning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 26, 2026 — It originates from a mass of storm clouds at an altitude of more than 1 km (0.6 mi), and occurs for 140 to 160 nights a...</p></details>
    Published: March 26, 2026  
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/catatumbo-lightning](https://skybrary.aero/articles/catatumbo-lightning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryCatatumbo Lightning | SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</p></details>
+   Link: <a href="https://skybrary.aero/articles/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/catatumbo-lightning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Catatumbo Lightning | SKYbrary Aviation SafetyIt originates from a mass of storm clouds over nearby mountains, and occurs during...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: geology.com  
    Title: Earth's Lightning Hotspots  
-   Link: [https://geology.com/records/lightning-hotspots/](https://geology.com/records/lightning-hotspots/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeologyEarth&#x27;s Lightning Hotspots - Lake MaracaiboThe world&#x27;s top lightning hotspot is over Lake Maracaibo in northwestern Venezuela. Her...</p></details>
+   Link: <a href="https://geology.com/records/lightning-hotspots/" target="_blank" rel="noopener noreferrer nofollow">https://geology.com/records/lightning-hotspots/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth&#x27;s Lightning Hotspots - Lake MaracaiboThe world&#x27;s top lightning hotspot is over Lake Maracaibo in northwestern Venezuela. Her...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: [https://svs.gsfc.nasa.gov/31243/](https://svs.gsfc.nasa.gov/31243/)  
+   Link: <a href="https://svs.gsfc.nasa.gov/31243/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/31243/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Look at Earth&#x27;s Lightning23 Sept 2024 — Map of lightning frequency showing Lake Maracaibo in northern Venezuela and Lake Kivu between...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: earthdata.nasa.gov  
    Title: The Maracaibo Beacon  
-   Link: [https://www.earthdata.nasa.gov/s3fs-public/2025-02/TheMaracaiboBeacon.pdf?VersionId=kBxqhBDRibgrLHI13SVRIU85RDFVgDa](https://www.earthdata.nasa.gov/s3fs-public/2025-02/TheMaracaiboBeacon.pdf?VersionId=kBxqhBDRibgrLHI13SVRIU85RDFVgDa)  
+   Link: <a href="https://www.earthdata.nasa.gov/s3fs-public/2025-02/TheMaracaiboBeacon.pdf?VersionId=kBxqhBDRibgrLHI13SVRIU85RDFVgDa" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/s3fs-public/2025-02/TheMaracaiboBeacon.pdf?VersionId=kBxqhBDRibgrLHI13SVRIU85RDFVgDa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maracaibo beaconA quarter of Venezuela&#x27;s popula- tion lives in the highest concentration of light- ning on Earth, 250 flashes per square...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lake](https://en.wikipedia.org/wiki/Lake)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the Unit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.ametsoc.org  
-   Link: [https://journals.ametsoc.org/view/journals/bams/97/11/bams-d-14-00193.1.xml](https://journals.ametsoc.org/view/journals/bams/97/11/bams-d-14-00193.1.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/bams/97/11/bams-d-14-00193.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/bams/97/11/bams-d-14-00193.1.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in - AMS Journalsby RI Albrecht · 2016 · Cited by 494 — This analysis reveals that Earth&#x27;s principal lightning hotspot occurs over Lake M...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lightningstrikeltd.co.uk  
-   Link: [https://www.lightningstrikeltd.co.uk/blog/catatumbo-lightning-the-everlasting-storm/](https://www.lightningstrikeltd.co.uk/blog/catatumbo-lightning-the-everlasting-storm/)  
+   Link: <a href="https://www.lightningstrikeltd.co.uk/blog/catatumbo-lightning-the-everlasting-storm/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightningstrikeltd.co.uk/blog/catatumbo-lightning-the-everlasting-storm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lightning StrikeCatatumbo Lightning: The Everlasting Storm | BlogOriginating from a concentrated mass of storm clouds more than 1km high...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: drishtiias.com  
    Title: catatumbo lightning  
-   Link: [https://www.drishtiias.com/daily-updates/daily-news-analysis/catatumbo-lightning](https://www.drishtiias.com/daily-updates/daily-news-analysis/catatumbo-lightning)  
+   Link: <a href="https://www.drishtiias.com/daily-updates/daily-news-analysis/catatumbo-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.drishtiias.com/daily-updates/daily-news-analysis/catatumbo-lightning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 May 2024 — Catatumbo lightning is a natural phenomenon that occurs over the Catatumbo River in Venezuela, where lightning strikes almo...</p></details>
    Published: May 2024  
 
 14. <a id="endnote-14"></a>
    Source: vajiramandravi.com  
    Title: Catatumbo lightning  
-   Link: [https://vajiramandravi.com/current-affairs/catatumbo-lightning/](https://vajiramandravi.com/current-affairs/catatumbo-lightning/)  
+   Link: <a href="https://vajiramandravi.com/current-affairs/catatumbo-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://vajiramandravi.com/current-affairs/catatumbo-lightning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2024 — Catatumbo lightning is distinguished by its frequency and duration: the strikes occur for up to 160 nights in a year, with...</p></details>
    Published: May 6, 2024  
 
@@ -859,53 +813,53 @@ For that reason, the Maracaibo region occupies a distinctive place in Venezuela'
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/caribbeandelightsca/posts/presented-by-duncan-edwardsthe-lightning-never-stopswould-you-like-to-live-nearb/1347486024076567/](https://www.facebook.com/caribbeandelightsca/posts/presented-by-duncan-edwardsthe-lightning-never-stopswould-you-like-to-live-nearb/1347486024076567/)  
+   Link: <a href="https://www.facebook.com/caribbeandelightsca/posts/presented-by-duncan-edwardsthe-lightning-never-stopswould-you-like-to-live-nearb/1347486024076567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caribbeandelightsca/posts/presented-by-duncan-edwardsthe-lightning-never-stopswould-you-like-to-live-nearb/1347486024076567/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean DelightsLake Maracaibo in Venezuela holds a fascinating and electrifying world record it has the highest concentration of light...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmfias.com  
-   Link: [https://www.pmfias.com/catatumbo-lightning/](https://www.pmfias.com/catatumbo-lightning/)  
+   Link: <a href="https://www.pmfias.com/catatumbo-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://www.pmfias.com/catatumbo-lightning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catatumbo LightningCatatumbo lightning is a natural phenomenon that occurs over the Catatumbo River in Venezuela, where lightning strikes...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lpsfr.com  
-   Link: [https://lpsfr.com/en/catatumbo-lightning-a-dazzling-natural-phenomenon/](https://lpsfr.com/en/catatumbo-lightning-a-dazzling-natural-phenomenon/)  
+   Link: <a href="https://lpsfr.com/en/catatumbo-lightning-a-dazzling-natural-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://lpsfr.com/en/catatumbo-lightning-a-dazzling-natural-phenomenon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LPS FranceThe Catatumbo Lightning: A Dazzling Natural PhenomenonThis meteorological phenomenon is characterized by a high frequency of li...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: atlasobscura.com  
-   Link: [https://www.atlasobscura.com/videos/see-venezuela-s-everlasting-lightning-storm](https://www.atlasobscura.com/videos/see-venezuela-s-everlasting-lightning-storm)  
+   Link: <a href="https://www.atlasobscura.com/videos/see-venezuela-s-everlasting-lightning-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/videos/see-venezuela-s-everlasting-lightning-storm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See Venezuela&#x27;s Everlasting Lightning StormA lightning storm rages in a small part of Venezuela. Known as Relámpago del Catatumbo, the st...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/earths-most-show-stopping-electrical-storm-sees-280-lightning-bolts-an-hour-80216](https://www.iflscience.com/earths-most-show-stopping-electrical-storm-sees-280-lightning-bolts-an-hour-80216)  
+   Link: <a href="https://www.iflscience.com/earths-most-show-stopping-electrical-storm-sees-280-lightning-bolts-an-hour-80216" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/earths-most-show-stopping-electrical-storm-sees-280-lightning-bolts-an-hour-80216</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth&#x27;s Most Show-Stopping Electrical Storm Sees 280...30 July 2025 — Lasting as long as nine hours per night, the Catatumbo lightning r...</p></details>
    Published: July 2025  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/nasa](https://www.youtube.com/nasa)  
+   Link: <a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
 
 21. <a id="endnote-21"></a>
    Source: cultureroadtravel.com  
    Title: catatumbo lightning the magnificent natural phenomenon in venezuela  
-   Link: [https://cultureroadtravel.com/catatumbo-lightning-the-magnificent-natural-phenomenon-in-venezuela/](https://cultureroadtravel.com/catatumbo-lightning-the-magnificent-natural-phenomenon-in-venezuela/)  
+   Link: <a href="https://cultureroadtravel.com/catatumbo-lightning-the-magnificent-natural-phenomenon-in-venezuela/" target="_blank" rel="noopener noreferrer nofollow">https://cultureroadtravel.com/catatumbo-lightning-the-magnificent-natural-phenomenon-in-venezuela/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catatumbo Lightning: A Magnificent Natural Phenomenon...3 May 2023 — Catatumbo Lightning is a rare natural phenomenon in which there is...</p></details>
    Published: May 2023  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/NatureIsFuckingLit/comments/esu6cm/this_persistent_lightning_storm_at_the_mouth_of/](https://www.reddit.com/r/NatureIsFuckingLit/comments/esu6cm/this_persistent_lightning_storm_at_the_mouth_of/)  
+   Link: <a href="https://www.reddit.com/r/NatureIsFuckingLit/comments/esu6cm/this_persistent_lightning_storm_at_the_mouth_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NatureIsFuckingLit/comments/esu6cm/this_persistent_lightning_storm_at_the_mouth_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>during 140 to 160 nights a year, 10 hours per day and up to 280 times per...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1534361817358553/posts/1634937700634297/](https://www.facebook.com/groups/1534361817358553/posts/1634937700634297/)  
+   Link: <a href="https://www.facebook.com/groups/1534361817358553/posts/1634937700634297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1534361817358553/posts/1634937700634297/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trikes in the world, with an average of 233 flashes per square kilometer...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: Here's a place of seemingly never ending lightning!  
-   Link: [https://www.facebook.com/Craig.Moeller.2/posts/heres-a-place-of-seemingly-never-ending-lightning-its-the-lightning-capital-of-t/1400043298232931/](https://www.facebook.com/Craig.Moeller.2/posts/heres-a-place-of-seemingly-never-ending-lightning-its-the-lightning-capital-of-t/1400043298232931/)  
+   Link: <a href="https://www.facebook.com/Craig.Moeller.2/posts/heres-a-place-of-seemingly-never-ending-lightning-its-the-lightning-capital-of-t/1400043298232931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Craig.Moeller.2/posts/heres-a-place-of-seemingly-never-ending-lightning-its-the-lightning-capital-of-t/1400043298232931/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the...🌩️ Lake Maracaibo, Venezuela, holds the record for the world&#x27;s highest lightning concentration, with 233 flashes per square k...</p></details>

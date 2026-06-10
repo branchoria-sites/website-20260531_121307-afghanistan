@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /india-967ce3-index/
 description: Focused pages that expand on What Do India's UFO Reports Really Show?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: India_967ce3
 parent_title: What Do India's UFO Reports Really Show?

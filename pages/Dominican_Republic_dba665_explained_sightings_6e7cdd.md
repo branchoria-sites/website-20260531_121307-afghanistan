@@ -239,7 +239,7 @@ next_link:
   permalink: /la-romana/
   short_title: La Romana
   heading_title: What Happened Over La Romana in 1992?
-date: '2026-06-09 01:25:59 '
+date: '2026-06-10 01:50:37 '
 header:
   og_image: /assets/images/Dominican_Republic_dba665_explained_sightings_6e7cdd-Illustration-1-social.jpg
   preview_image: /assets/images/Dominican_Republic_dba665_explained_sightings_6e7cdd-Illustration-1.webp
@@ -278,7 +278,7 @@ These descriptions sound extraordinary in isolation, but sceptical investigators
 
 * Commercial aircraft approaching from unusual angles
 * Venus or Jupiter appearing unusually bright
-* Starlink satellite trains <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[hangar1publishing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">ufo hotspots in the us</span><span class="citation-popover-snippet">Hangar1publishingTop UFO Hotspots in the USApril 30, 2025 — AARO assessed that this sighting of flashing lights correlated with a Starlin...</span><span class="citation-popover-meta">Published: April 30, 2025</span></span></span>
+* Starlink satellite trains <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[hangar1publishing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">ufo hotspots in the us</span><span class="citation-popover-snippet">Top UFO Hotspots in the USApril 30, 2025 — AARO assessed that this sighting of flashing lights correlated with a Starlin...</span><span class="citation-popover-meta">Published: April 30, 2025</span></span></span>
 * Weather balloons or illuminated advertising balloons
 * Rocket launches visible from Florida
 * Drones near resort zones
@@ -312,7 +312,7 @@ This method matters because many reports become less mysterious after even basic
 
 ## Starlink and the New Wave of Caribbean UFO Reports
 
-One of the biggest changes in recent years has been the rise of Starlink satellite sightings. Long chains of evenly spaced lights crossing the night sky have repeatedly triggered UFO reports across the Caribbean, including the Dominican Republic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">ufo hotspots in the us</span><span class="citation-popover-snippet">Hangar1publishingTop UFO Hotspots in the USApril 30, 2025 — AARO assessed that this sighting of flashing lights correlated with a Starlin...</span><span class="citation-popover-meta">Published: April 30, 2025</span></span></span>
+One of the biggest changes in recent years has been the rise of Starlink satellite sightings. Long chains of evenly spaced lights crossing the night sky have repeatedly triggered UFO reports across the Caribbean, including the Dominican Republic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">ufo hotspots in the us</span><span class="citation-popover-snippet">Top UFO Hotspots in the USApril 30, 2025 — AARO assessed that this sighting of flashing lights correlated with a Starlin...</span><span class="citation-popover-meta">Published: April 30, 2025</span></span></span>
 
 To observers unfamiliar with satellite constellations, these formations can appear highly unusual because they:
 
@@ -353,13 +353,13 @@ These events commonly produce:
 
 To casual observers, the phenomenon can appear completely alien. Yet rocket launches are one of the most frequently misidentified modern aerial events worldwide. Exhaust plumes illuminated by sunlight after sunset can create spectacular visual effects visible hundreds of kilometres away.
 
-Several recent Dominican reports in UFO databases were later tentatively tagged as possible rocket-related observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
+Several recent Dominican reports in UFO databases were later tentatively tagged as possible rocket-related observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 
 
 <img src="{{ "/assets/images/Dominican_Republic_dba665_explained_sightings_6e7cdd-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Dominican_Republic_dba665_explained_sightings_6e7cdd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dominican_Republic_dba665_explained_sightings_6e7cdd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balloons, Drones, and Misjudged Motion
 
-High-altitude balloons became a major topic globally after the 2023 balloon incidents over North America. Since then, sceptical analysts have paid closer attention to balloon-like explanations for UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.17103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv UFOs: Just Hot Air or Something Meteor?</span><span class="citation-popover-snippet">arXivUFOs: Just Hot Air or Something Meteor?March 30, 2023...</span><span class="citation-popover-meta">Published: March 30, 2023</span></span></span>
+High-altitude balloons became a major topic globally after the 2023 balloon incidents over North America. Since then, sceptical analysts have paid closer attention to balloon-like explanations for UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.17103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv UFOs: Just Hot Air or Something Meteor?</span><span class="citation-popover-snippet">UFOs: Just Hot Air or Something Meteor?March 30, 2023...</span><span class="citation-popover-meta">Published: March 30, 2023</span></span></span>
 
 In the Dominican context, balloons can create convincing illusions because they may:
 
@@ -468,86 +468,44 @@ Even investigators open to the possibility of unknown phenomena generally agree 
 The result is that Dominican UFO reports occupy a mixed landscape. Some are almost certainly explainable through satellites, balloons, aircraft, rockets, or visual perception effects. Others remain unresolved mainly because too little reliable information exists to identify them confidently. That unresolved status alone, however, is not evidence of alien visitation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Dominican UFOs Turn Out Not Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Dominican UFOs Turn Out Not Alien, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses how sightings are evaluated, classified, and often explained through conventional causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
-        <p class="fr-book-desc">Explores competing interpretations of UFO reports rather than assuming alien origins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a balanced evidence-focused framework for assessing unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains skepticism, perception errors, and critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -581,75 +539,71 @@ The result is that Dominican UFO reports occupy a mixed landscape. Some are almo
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-t-shirt-gerry-anderson-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-t-shirt-gerry-anderson-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-ee1a8d-when-dominican-ufos-turn-out-not-alien-dominican-republic-ufo-poster-book-books-series-television-ge&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -864,133 +818,133 @@ The result is that Dominican UFO reports occupy a mixed landscape. Some are almo
 1. <a id="endnote-1"></a>
    Source: hangar1publishing.com  
    Title: ufo hotspots in the us  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar1publishingTop UFO Hotspots in the USApril 30, 2025 — AARO assessed that this sighting of flashing lights correlated with a Starlin...</p></details>
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us?srsltid=AfmBOoq8ak-L1lXX1ou2AXeMT2c7LRyEMRHJMDdrgO0rShecMRvOX25x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top UFO Hotspots in the USApril 30, 2025 — AARO assessed that this sighting of flashing lights correlated with a Starlin...</p></details>
    Published: April 30, 2025  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Dominican Republic  
-   Link: [https://nuforc.org/subndx/?id=cDominican_Republic](https://nuforc.org/subndx/?id=cDominican_Republic)  
+   Link: <a href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cDominican_Republic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country Dominican RepublicAugust 20, 2023 — NUFORC Reports for Country &#x27;Dominican Republic&#x27;; Open, 12/28/2023 00:23...</p></details>
    Published: August 20, 2023  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv UFOs: Just Hot Air or Something Meteor?  
-   Link: [https://arxiv.org/abs/2303.17103](https://arxiv.org/abs/2303.17103)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUFOs: Just Hot Air or Something Meteor?March 30, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2303.17103" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.17103</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Just Hot Air or Something Meteor?March 30, 2023...</p></details>
    Published: March 30, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: diariolibre.com  
    Title: la sociedad astronomica con postura esceptica sobre los ovnis  
-   Link: [https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976](https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976)  
+   Link: <a href="https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diario LibreLa Sociedad Astronómica con postura “escéptica” sobre...12 Feb 2024 — La Sociedad Astronómica Dominicana no niega la existen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: diariolibre.com  
-   Link: [https://www.diariolibre.com/tags/sociedad-astronomica-dominicana/7017](https://www.diariolibre.com/tags/sociedad-astronomica-dominicana/7017)  
+   Link: <a href="https://www.diariolibre.com/tags/sociedad-astronomica-dominicana/7017" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/tags/sociedad-astronomica-dominicana/7017</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociedad Astronómica DominicanaLa Sociedad Astronómica Dominicana con postura &quot;escéptica&quot; sobre el avistamiento de ovnis · Expertos advie...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: diariolibre.com  
-   Link: [https://www.diariolibre.com/tags/astrodom/14544](https://www.diariolibre.com/tags/astrodom/14544)  
+   Link: <a href="https://www.diariolibre.com/tags/astrodom/14544" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/tags/astrodom/14544</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrodom... República Dominicana. El eclipse cruzará la zona continental... La Sociedad Astronómica Dominicana con postura &quot;escéptica&quot; s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s whyAugust 7, 2024 — 7 Aug 2024 — Saucer-shaped lenticular clouds, birds in flight, thermal fluctuations in the atmosphere and othe...</p></details>
    Published: August 7, 2024  
 
 10. <a id="endnote-10"></a>
    Source: diariolibre.com  
-   Link: [https://www.diariolibre.com/actualidad/video-dominicanos-reportan-avistamiento-de-extrano-objeto-en-el-cielo-FD21118148](https://www.diariolibre.com/actualidad/video-dominicanos-reportan-avistamiento-de-extrano-objeto-en-el-cielo-FD21118148)  
+   Link: <a href="https://www.diariolibre.com/actualidad/video-dominicanos-reportan-avistamiento-de-extrano-objeto-en-el-cielo-FD21118148" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/actualidad/video-dominicanos-reportan-avistamiento-de-extrano-objeto-en-el-cielo-FD21118148</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diario LibreVideo | Dominicanos reportan avistamiento de extraño objeto...VIDEO | Video | Dominicanos reportan avistamiento de extraño o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: diariolibre.com  
-   Link: [https://www.diariolibre.com/tags/ovnis/72512](https://www.diariolibre.com/tags/ovnis/72512)  
+   Link: <a href="https://www.diariolibre.com/tags/ovnis/72512" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/tags/ovnis/72512</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OvnisLa Sociedad Astronómica Dominicana con postura &quot;escéptica&quot; sobre el avistamiento de ovnis... Desde un mapache hasta ovnis en RD: la...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: diariolibre.com  
-   Link: [https://www.diariolibre.com/tags/extraterrestres/38416](https://www.diariolibre.com/tags/extraterrestres/38416)  
+   Link: <a href="https://www.diariolibre.com/tags/extraterrestres/38416" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/tags/extraterrestres/38416</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15, 2023 | 08:22 a. m.. Videos · Una vida...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: diariolibre.com  
    Title: el dia mundial de los ovnis realidad o ficcion  
-   Link: [https://www.diariolibre.com/planeta/ciencia/2024/07/02/el-dia-mundial-de-los-ovnis-realidad-o-ficcion/2773058](https://www.diariolibre.com/planeta/ciencia/2024/07/02/el-dia-mundial-de-los-ovnis-realidad-o-ficcion/2773058)  
+   Link: <a href="https://www.diariolibre.com/planeta/ciencia/2024/07/02/el-dia-mundial-de-los-ovnis-realidad-o-ficcion/2773058" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/planeta/ciencia/2024/07/02/el-dia-mundial-de-los-ovnis-realidad-o-ficcion/2773058</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>¿Qué tanto sabes sobre el Día Mundial de los Ovnis?2 Jul 2024 — La Sociedad Astronómica Dominicana con postura “escéptica” sobre el avist...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: x.com  
-   Link: [https://x.com/DiarioLibre/status/1757128766545866971](https://x.com/DiarioLibre/status/1757128766545866971)  
+   Link: <a href="https://x.com/DiarioLibre/status/1757128766545866971" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DiarioLibre/status/1757128766545866971</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🌎 |#PlanetaDL| La Sociedad Astronómica Dominicana con...12 Feb 2024 — #PlanetaDL| La Sociedad Astronómica Dominicana con postura &quot;escépt...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/](https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/)  
+   Link: <a href="https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBUNKED: This &quot;Ufo&quot; Is A Hollywood Balloon #...DEBUNKED: This &quot;Ufo&quot; Is A Hollywood Balloon #UFO #UAP #Debunked #FactCheck; Alex Sen. W...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/8809614512394175/](https://www.facebook.com/groups/2365809903441367/posts/8809614512394175/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8809614512394175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8809614512394175/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Sightings and ObservationsHow many of you have seen the satellite 🛰️ … my kids, their dad &amp; I have lol it freaked us o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/mystery-of-odd-flashes-documented-in-sky-before-first-ever-satellite-was-launched-gets-even-odder-83021](https://www.iflscience.com/mystery-of-odd-flashes-documented-in-sky-before-first-ever-satellite-was-launched-gets-even-odder-83021)  
+   Link: <a href="https://www.iflscience.com/mystery-of-odd-flashes-documented-in-sky-before-first-ever-satellite-was-launched-gets-even-odder-83021" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/mystery-of-odd-flashes-documented-in-sky-before-first-ever-satellite-was-launched-gets-even-odder-83021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Of Odd Flashes In Pre-Satellite Sky Gets Odder...31 Mar 2026 — Flashes on a plate do not mean aliens were visiting us during nuc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DiarioLibre/videos/visitan-los-ovnis-a-la-rd-esto-fue-lo-que-respondi%C3%B3-abinader/406537138522712/](https://www.facebook.com/DiarioLibre/videos/visitan-los-ovnis-a-la-rd-esto-fue-lo-que-respondi%C3%B3-abinader/406537138522712/)  
+   Link: <a href="https://www.facebook.com/DiarioLibre/videos/visitan-los-ovnis-a-la-rd-esto-fue-lo-que-respondi%C3%B3-abinader/406537138522712/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiarioLibre/videos/visitan-los-ovnis-a-la-rd-esto-fue-lo-que-respondi%C3%B3-abinader/406537138522712/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>📰 |#ActualidadDL|Este lunes en LA Semanal, una pregunta...Un joven comunicador de La Vega,inquirió al presidente sobre si los ovnis (obj...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/xdl2eKen_BA](https://www.youtube.com/shorts/xdl2eKen_BA)  
+   Link: <a href="https://www.youtube.com/shorts/xdl2eKen_BA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/xdl2eKen_BA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Explained: Starlink Satellites or Something...I believe they&#x27;re starlink satellites but every once in a while you&#x27;ll see a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYfMHIJlfWc/](https://www.instagram.com/p/DYfMHIJlfWc/)  
+   Link: <a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>number of sightings in the Caribbean with 39 reports, followed...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/C3P22uuP63T/](https://www.instagram.com/p/C3P22uuP63T/)  
+   Link: <a href="https://www.instagram.com/p/C3P22uuP63T/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C3P22uuP63T/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identificado) que le hizo un periodista al presidente Abinader...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/](https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/)  
+   Link: <a href="https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be a bird, they do fly that high. Full vid has, on screen, all the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: danialdaily.com  
    Title: UF Os, Spy Balloons, or Something Else?  
-   Link: [https://danialdaily.com/2026/05/27/ufos-spy-balloons-or-something-else-the-truth-behind-americas-biggest-mystery/](https://danialdaily.com/2026/05/27/ufos-spy-balloons-or-something-else-the-truth-behind-americas-biggest-mystery/)  
+   Link: <a href="https://danialdaily.com/2026/05/27/ufos-spy-balloons-or-something-else-the-truth-behind-americas-biggest-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://danialdaily.com/2026/05/27/ufos-spy-balloons-or-something-else-the-truth-behind-americas-biggest-mystery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind...1 day ago — When people hear “UFO,” they immediately think “aliens.” But if you map major UFO sightings throughout hi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en](https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is currently no verified official confirmation that this was...</p></details>

@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-9e0ad8/
   short_title: Explanations
   heading_title: What Else Could Colombian UFOs Be?
-date: '2026-06-09 01:24:19 '
+date: '2026-06-10 01:48:51 '
 header:
   og_image: /assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1-social.jpg
   preview_image: /assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1-social.j
 
 ## Introduction
 
-The **Esfera de Buga**, often called the *Buga Sphere*, has become one of the most visible physical artefacts associated with UFO discourse in **[Colombia]({{ 'what-is-really-known-about-colombias-ufo/' | relative_url }})**. After being **reported as a metallic orb seen flying over Buga, Valle del Cauca in March 2025**, it was recovered and subsequently presented by proponents as carrying unusual physical characteristics—internal structures, surface inscriptions, and alleged dynamic behaviour that some say defies conventional explanation. However, the **extraordinary claims about its physical evidence and supposed anomalous properties remain deeply contested**, with critics pointing to insufficient verification, misinterpretation of tests, and the absence of transparent, independent analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://es.wikipedia.org/wiki/Esfera_de_Buga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Esfera de Buga</span><span class="citation-popover-snippet">Esfera de Buga</span></span></span>
+The **Esfera de Buga**, often called the *Buga Sphere*, has become one of the most visible physical artefacts associated with UFO discourse in **Colombia**. After being **reported as a metallic orb seen flying over Buga, Valle del Cauca in March 2025**, it was recovered and subsequently presented by proponents as carrying unusual physical characteristics—internal structures, surface inscriptions, and alleged dynamic behaviour that some say defies conventional explanation. However, the **extraordinary claims about its physical evidence and supposed anomalous properties remain deeply contested**, with critics pointing to insufficient verification, misinterpretation of tests, and the absence of transparent, independent analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://es.wikipedia.org/wiki/Esfera_de_Buga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Esfera de Buga</span><span class="citation-popover-snippet">Esfera de Buga</span></span></span>
 
 
 <img src="{{ "/assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1-dark.svg" | relative_url }}" alt="Buga Sphere illustration 1" data-theme-src-dark="{{ "/assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -257,7 +257,7 @@ The **Esfera de Buga**, often called the *Buga Sphere*, has become one of the mo
 Advocates and some media reports describe a suite of **physical features and analytical findings** that have driven speculation:
 
 * **Seamless metallic construction:** X‑ray and non‑destructive imaging have been cited to show a sphere without obvious welds or seams, appearing as if manufactured from a single piece of metal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://es.wikipedia.org/wiki/Esfera_de_Buga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Esfera de Buga</span><span class="citation-popover-snippet">Esfera de Buga</span></span></span>
-* **Internal structure:** Reportedly, scans revealed multiple **internal layers and “microspheres”**—at least nine nested elements within the orb—that enthusiasts interpret as engineered rather than hollow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation | The Jerusalem PostMay 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
+* **Internal structure:** Reportedly, scans revealed multiple **internal layers and “microspheres”**—at least nine nested elements within the orb—that enthusiasts interpret as engineered rather than hollow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation &#124; The Jerusalem PostMay 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
 * **Surface inscriptions:** Photographs and attributed accounts reference enigmatic symbols or glyphs on the exterior, said by promoters to be ancient or non‑human in character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://es.wikipedia.org/wiki/Esfera_de_Buga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Esfera de Buga</span><span class="citation-popover-snippet">Esfera de Buga</span></span></span>
 * **Apparent mass change and reactions:** Viral videos have shown claims of the sphere gaining weight over time and reacting to external stimuli such as sound or recited mantras—a point amplified in some international coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/etimes/trending/viral-video-claims-alien-origin-buga-metallic-sphere-reacts-to-sanskrit-mantras-gains-weight-and-has-mysterious-etchings-in-an-unknown-script-truth-or-hoax/articleshow/130477721.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">According to the video, the sphere notably reacts to Sanskrit mantras, reportedly gaining weight upon their recital. Observers have claim...</span></span></span>
 * **Material claims and dating:** Some fringe reports attribute ancient carbon‑14 ages to organic residues allegedly associated with the orb and claim exotic alloys, though critical sources note **no high‑confidence peer‑reviewed documentation** of these results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/environment/buga-sphere-information-07ac4d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Buga sphere</span><span class="citation-popover-snippet">Please verify important informatio...</span></span></span>
@@ -271,10 +271,10 @@ Taken together, these elements form the bulk of the **physical evidence claims**
 
 Despite the extensive online buzz, **none of the central physical‑analysis claims have been documented in transparent, peer‑reviewed scientific literature**, nor has there been wide release of verified laboratory data from accredited materials laboratories. Independent scientists and fact‑check outlets have repeatedly emphasised these gaps:
 
-* **Chain of custody uncertainties:** Critical reports note that the provenance of the object—from sighting to recovery and lab access—is not clearly documented in mainstream sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analyses-xrf-sem-ms-results-ae2a9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">What forensic or material-analytical tests (XRF, SEM,</span><span class="citation-popover-snippet">FactuallyWhat forensic or material-analytical tests (XRF, SEM...</span></span></span>
-* **Unverified tests:** While X‑ray imaging, portable spectrometer scans, and microscopy have been shown in various presentations, there is **no published corpus of X‑ray fluorescence (XRF), scanning electron microscopy (SEM) imagery, compositional spectra, or mass‑spectrometry data** from independent laboratories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/buga-sphere-existence-dating-materials-cfbefe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">The Buga Sphere</span><span class="citation-popover-snippet">FactuallyThe Buga Sphere - does this object exist? - has it of...November 17, 2025...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
-* **Radiocarbon dating limits:** Claims that organic material related to the sphere is thousands of years old are **methodologically questionable** since radiocarbon analysis applies only to once‑living organic matter—not metals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ciencia1.com/2025/09/la-bugaesfera-objeto-de-tecnologia-extraterrestre-o-fraude/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciencia1.com">[Ciencia1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciencia1.com</span><span class="citation-popover-title">La Bugaesfera ¿objeto de tecnología extraterrestre o fraude? | Ciencia1.com</span><span class="citation-popover-snippet">September 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
-* **Lack of peer review:** Scientists with mainstream credentials have cautioned against drawing conclusions without **transparent methods, replication, and proper laboratory protocols**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation | The Jerusalem PostMay 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
+* **Chain of custody uncertainties:** Critical reports note that the provenance of the object—from sighting to recovery and lab access—is not clearly documented in mainstream sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analyses-xrf-sem-ms-results-ae2a9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">What forensic or material-analytical tests (XRF, SEM,</span><span class="citation-popover-snippet">What forensic or material-analytical tests (XRF, SEM...</span></span></span>
+* **Unverified tests:** While X‑ray imaging, portable spectrometer scans, and microscopy have been shown in various presentations, there is **no published corpus of X‑ray fluorescence (XRF), scanning electron microscopy (SEM) imagery, compositional spectra, or mass‑spectrometry data** from independent laboratories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/buga-sphere-existence-dating-materials-cfbefe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">The Buga Sphere</span><span class="citation-popover-snippet">The Buga Sphere - does this object exist? - has it of...November 17, 2025...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
+* **Radiocarbon dating limits:** Claims that organic material related to the sphere is thousands of years old are **methodologically questionable** since radiocarbon analysis applies only to once‑living organic matter—not metals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ciencia1.com/2025/09/la-bugaesfera-objeto-de-tecnologia-extraterrestre-o-fraude/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciencia1.com">[Ciencia1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciencia1.com</span><span class="citation-popover-title">La Bugaesfera ¿objeto de tecnología extraterrestre o fraude? &#124; Ciencia1.com</span><span class="citation-popover-snippet">September 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+* **Lack of peer review:** Scientists with mainstream credentials have cautioned against drawing conclusions without **transparent methods, replication, and proper laboratory protocols**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation &#124; The Jerusalem PostMay 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
 
 In summary, much of what has been presented as physical evidence has **not undergone the rigorous verification processes** typical of meaningful scientific claims.
 
@@ -284,9 +284,9 @@ In summary, much of what has been presented as physical evidence has **not under
 
 The controversy around the Buga Sphere extends beyond conflicting interpretations of data into debates about credibility, methodology, and motive:
 
-* **Sceptical analysis:** Fact‑checking and sceptical journalism highlight that many of the dramatic demonstrations—such as alleged response to chants or dramatic mass changes—are **unsourced, poorly controlled, or demonstrably misinterpreted** in viral content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-mass-spectrometry-63fd07" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">What forensic or material-analytical tests (XRF, SEM,</span><span class="citation-popover-snippet">FactuallyWhat forensic or material-analytical tests (XRF, SEM...</span></span></span>
-* **Caution from scientists:** Some scientists who have been quoted in international media express caution, noting that the object “looks human made” and could be an **artwork or terrestrial artefact**, urging more rigorous investigation before invoking exotic [explanations]({{ 'explanations-9e0ad8/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation | The Jerusalem PostMay 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
-* **Online debate and criticism:** Within UFO and broader online communities, reactions range from enthusiasm to outright dismissal. Some emphasise the association with controversial promoters known for sensational claims, arguing that this **erodes confidence in the object’s significance**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AliensRHere/comments/1sv5v24/the_buga_sphere/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Buga Sphere!</span><span class="citation-popover-snippet">RedditThe Buga Sphere!April 25, 2026...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+* **Sceptical analysis:** Fact‑checking and sceptical journalism highlight that many of the dramatic demonstrations—such as alleged response to chants or dramatic mass changes—are **unsourced, poorly controlled, or demonstrably misinterpreted** in viral content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-mass-spectrometry-63fd07" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">What forensic or material-analytical tests (XRF, SEM,</span><span class="citation-popover-snippet">What forensic or material-analytical tests (XRF, SEM...</span></span></span>
+* **Caution from scientists:** Some scientists who have been quoted in international media express caution, noting that the object “looks human made” and could be an **artwork or terrestrial artefact**, urging more rigorous investigation before invoking exotic [explanations]({{ 'explanations-9e0ad8/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpost.com">[Jerusalem Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpost.com</span><span class="citation-popover-snippet">Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation &#124; The Jerusalem PostMay 27, 2025...</span><span class="citation-popover-meta">Published: May 27, 2025</span></span></span>
+* **Online debate and criticism:** Within UFO and broader online communities, reactions range from enthusiasm to outright dismissal. Some emphasise the association with controversial promoters known for sensational claims, arguing that this **erodes confidence in the object’s significance**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AliensRHere/comments/1sv5v24/the_buga_sphere/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Buga Sphere!</span><span class="citation-popover-snippet">The Buga Sphere!April 25, 2026...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/soiyUqx60Wk" title="A New Scan of Buga Sphere Reveals Something Unexpected" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=soiyUqx60Wk" target="_blank" rel="noopener noreferrer">A New Scan of Buga Sphere Reveals Something Unexpected</a></p><p class="youtube-embed-meta">Channel: The Epoch Enigma &middot; Views: 3.6K &middot; Uploaded: May 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=soiyUqx60Wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=soiyUqx60Wk">Open on YouTube</a></p></div></div></div>
@@ -313,86 +313,44 @@ Within the wider context of UFO phenomena in Colombia, the Buga Sphere stands ou
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Is the Buga Sphere Evidence or Hype?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Is the Buga Sphere Evidence or Hype?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines credibility, testimony, and standards of evidence relevant to claims surrounding alleged artefacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on evaluating UFO reports and evidence rather than accepting extraordinary claims at face value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader context for how unusual objects and extraordinary claims become embedded in UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explores classification, analysis, and interpretation of UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -426,75 +384,71 @@ Within the wider context of UFO phenomena in Colombia, the Buga Sphere stands ou
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson"><img src="{{ '/assets/images/marketplace-covers/47eef372351acefdf0fb.jpg' | relative_url }}" alt="Listing image for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buga-sphere-is-the-buga-sphere-evidence-or-hype-colombia-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -709,106 +663,106 @@ Within the wider context of UFO phenomena in Colombia, the Buga Sphere stands ou
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Esfera de Buga  
-   Link: [https://es.wikipedia.org/wiki/Esfera_de_Buga](https://es.wikipedia.org/wiki/Esfera_de_Buga)  
+   Link: <a href="https://es.wikipedia.org/wiki/Esfera_de_Buga" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Esfera_de_Buga</a>  
 
 2. <a id="endnote-2"></a>
    Source: factually.co  
    Title: Buga sphere  
-   Link: [https://factually.co/fact-checks/environment/buga-sphere-information-07ac4d](https://factually.co/fact-checks/environment/buga-sphere-information-07ac4d)  
+   Link: <a href="https://factually.co/fact-checks/environment/buga-sphere-information-07ac4d" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/environment/buga-sphere-information-07ac4d</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Please verify important informatio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: factually.co  
    Title: What forensic or material-analytical tests (XRF, SEM,  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-forensic-material-analyses-xrf-sem-ms-results-ae2a9e](https://factually.co/fact-checks/science/buga-sphere-forensic-material-analyses-xrf-sem-ms-results-ae2a9e)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FactuallyWhat forensic or material-analytical tests (XRF, SEM...</p></details>
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analyses-xrf-sem-ms-results-ae2a9e" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-forensic-material-analyses-xrf-sem-ms-results-ae2a9e</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What forensic or material-analytical tests (XRF, SEM...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: factually.co  
    Title: The Buga Sphere  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-existence-dating-materials-cfbefe](https://factually.co/fact-checks/science/buga-sphere-existence-dating-materials-cfbefe)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FactuallyThe Buga Sphere - does this object exist? - has it of...November 17, 2025...</p></details>
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-existence-dating-materials-cfbefe" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-existence-dating-materials-cfbefe</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Buga Sphere - does this object exist? - has it of...November 17, 2025...</p></details>
    Published: November 17, 2025  
 
 5. <a id="endnote-5"></a>
    Source: factually.co  
    Title: What forensic or material-analytical tests (XRF, SEM,  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-mass-spectrometry-63fd07](https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-mass-spectrometry-63fd07)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FactuallyWhat forensic or material-analytical tests (XRF, SEM...</p></details>
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-mass-spectrometry-63fd07" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-mass-spectrometry-63fd07</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What forensic or material-analytical tests (XRF, SEM...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ciencia1.com  
    Title: La Bugaesfera ¿objeto de tecnología extraterrestre o fraude? | Ciencia1.com  
-   Link: [https://www.ciencia1.com/2025/09/la-bugaesfera-objeto-de-tecnologia-extraterrestre-o-fraude/](https://www.ciencia1.com/2025/09/la-bugaesfera-objeto-de-tecnologia-extraterrestre-o-fraude/)  
+   Link: <a href="https://www.ciencia1.com/2025/09/la-bugaesfera-objeto-de-tecnologia-extraterrestre-o-fraude/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciencia1.com/2025/09/la-bugaesfera-objeto-de-tecnologia-extraterrestre-o-fraude/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 22, 2025...</p></details>
    Published: September 22, 2025  
 
 7. <a id="endnote-7"></a>
    Source: factually.co  
    Title: Which Buga Sphere Videos Have Been Debunked and By Who  
-   Link: [https://factually.co/fact-checks/media/buga-sphere-debunked-videos-who-debunked-them-64dc40](https://factually.co/fact-checks/media/buga-sphere-debunked-videos-who-debunked-them-64dc40)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FactuallyWhich Buga Sphere Videos Have Been Debunked and By WhoMay 8, 2026...</p></details>
+   Link: <a href="https://factually.co/fact-checks/media/buga-sphere-debunked-videos-who-debunked-them-64dc40" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/media/buga-sphere-debunked-videos-who-debunked-them-64dc40</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Which Buga Sphere Videos Have Been Debunked and By WhoMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: The Buga Sphere!  
-   Link: [https://www.reddit.com/r/AliensRHere/comments/1sv5v24/the_buga_sphere/](https://www.reddit.com/r/AliensRHere/comments/1sv5v24/the_buga_sphere/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Buga Sphere!April 25, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AliensRHere/comments/1sv5v24/the_buga_sphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AliensRHere/comments/1sv5v24/the_buga_sphere/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Buga Sphere!April 25, 2026...</p></details>
    Published: April 25, 2026  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kw1it7/there_are_no_fiber_optics_in_the_buga_sphere_they/](https://www.reddit.com/r/UFOs/comments/1kw1it7/there_are_no_fiber_optics_in_the_buga_sphere_they/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThere are no &quot;fiber optics&quot; in the &quot;Buga Sphere&quot;. They are reflections from the Magnifier&#x27;s LED illuminator. Another scam Jaime Mau...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kw1it7/there_are_no_fiber_optics_in_the_buga_sphere_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kw1it7/there_are_no_fiber_optics_in_the_buga_sphere_they/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>There are no &quot;fiber optics&quot; in the &quot;Buga Sphere&quot;. They are reflections from the Magnifier&#x27;s LED illuminator. Another scam Jaime Mau...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: factually.co  
    Title: What Is the Buga Sphere and When Was It First Discover  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-discovery-what-is-when-was-first-discovered-1e59d6](https://factually.co/fact-checks/science/buga-sphere-discovery-what-is-when-was-first-discovered-1e59d6)  
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-discovery-what-is-when-was-first-discovered-1e59d6" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-discovery-what-is-when-was-first-discovered-1e59d6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researched on May 8, 2026 Science Buga Sphere University of Georgia Colombia Peru [Button: more] Disclaimer: Factually can make mi...</p></details>
    Published: May 8, 2026  
 
 11. <a id="endnote-11"></a>
    Source: factually.co  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-ms-findings-a41691](https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-ms-findings-a41691)  
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-ms-findings-a41691" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-forensic-material-analysis-xrf-sem-ms-findings-a41691</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researched on April 20, 2026 Science Disclaimer: Factually can make mistakes. Please verify important information or bre...</p></details>
    Published: April 20, 2026  
 
 12. <a id="endnote-12"></a>
    Source: factually.co  
    Title: What is the provenance and discovery history of the Bu  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-provenance-discovery-history-585270](https://factually.co/fact-checks/science/buga-sphere-provenance-discovery-history-585270)  
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-provenance-discovery-history-585270" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-provenance-discovery-history-585270</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researched on January 13, 2026 Science Disclaimer: Factually can make mistakes. Please verify important information or breaking new...</p></details>
    Published: January 13, 2026  
 
 13. <a id="endnote-13"></a>
    Source: factually.co  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-material-composition-tests-c2acdf](https://factually.co/fact-checks/science/buga-sphere-material-composition-tests-c2acdf)  
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-material-composition-tests-c2acdf" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-material-composition-tests-c2acdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What laboratories or institutions performed material c...December 13, 2025 — WHAT LABORATORIES OR INSTITUTIONS PERFORMED MATERIAL COMPOSI...</p></details>
    Published: December 13, 2025  
 
 14. <a id="endnote-14"></a>
    Source: factually.co  
-   Link: [https://factually.co/fact-checks/science/buga-sphere-sightings-photographs-locations-386032](https://factually.co/fact-checks/science/buga-sphere-sightings-photographs-locations-386032)  
+   Link: <a href="https://factually.co/fact-checks/science/buga-sphere-sightings-photographs-locations-386032" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/buga-sphere-sightings-photographs-locations-386032</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researched on December 7, 2025 Science Disclaimer: Factually can make mistakes. Please verify important...</p></details>
    Published: December 7, 2025  
 
 15. <a id="endnote-15"></a>
    Source: factually.co  
-   Link: [https://factually.co/fact-checks/other/documented-sightings-photographs-buga-sphere-locations-443a9d](https://factually.co/fact-checks/other/documented-sightings-photographs-buga-sphere-locations-443a9d)  
+   Link: <a href="https://factually.co/fact-checks/other/documented-sightings-photographs-buga-sphere-locations-443a9d" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/other/documented-sightings-photographs-buga-sphere-locations-443a9d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Checked on November 18, 2025 Other Jaime Maussan Fox News Mexico Orbital TodayTHE WELLSVILLE SUNMyst...</p></details>
    Published: November 18, 2025  
 
 16. <a id="endnote-16"></a>
    Source: jpost.com  
-   Link: [https://www.jpost.com/science/science-around-the-world/article-855587](https://www.jpost.com/science/science-around-the-world/article-855587)  
+   Link: <a href="https://www.jpost.com/science/science-around-the-world/article-855587" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/science/science-around-the-world/article-855587</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jerusalem PostMysterious &#x27;Buga Sphere&#x27; found in Colombia sparks UFO speculation | The Jerusalem PostMay 27, 2025...</p></details>
    Published: May 27, 2025  
 
 17. <a id="endnote-17"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/etimes/trending/viral-video-claims-alien-origin-buga-metallic-sphere-reacts-to-sanskrit-mantras-gains-weight-and-has-mysterious-etchings-in-an-unknown-script-truth-or-hoax/articleshow/130477721.cms](https://timesofindia.indiatimes.com/etimes/trending/viral-video-claims-alien-origin-buga-metallic-sphere-reacts-to-sanskrit-mantras-gains-weight-and-has-mysterious-etchings-in-an-unknown-script-truth-or-hoax/articleshow/130477721.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/etimes/trending/viral-video-claims-alien-origin-buga-metallic-sphere-reacts-to-sanskrit-mantras-gains-weight-and-has-mysterious-etchings-in-an-unknown-script-truth-or-hoax/articleshow/130477721.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/trending/viral-video-claims-alien-origin-buga-metallic-sphere-reacts-to-sanskrit-mantras-gains-weight-and-has-mysterious-etchings-in-an-unknown-script-truth-or-hoax/articleshow/130477721.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the video, the sphere notably reacts to Sanskrit mantras, reportedly gaining weight upon their recital. Observers have claim...</p></details>
 
 ### Additional References
@@ -816,61 +770,61 @@ Within the wider context of UFO phenomena in Colombia, the Buga Sphere stands ou
 18. <a id="endnote-18"></a>
    Source: ibtimes.sg  
    Title: The Ball From Nowhere: The Buga Sphere Is Back in Headlines, But Evidence Isn't  
-   Link: [https://www.ibtimes.sg/article?a_id=84562&slug=ball-nowhere-buga-sphere-back-headlines-evidence-isnt-](https://www.ibtimes.sg/article?a_id=84562&slug=ball-nowhere-buga-sphere-back-headlines-evidence-isnt-)  
+   Link: <a href="https://www.ibtimes.sg/article?a_id=84562&amp;slug=ball-nowhere-buga-sphere-back-headlines-evidence-isnt-" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.sg/article?a_id=84562&amp;slug=ball-nowhere-buga-sphere-back-headlines-evidence-isnt-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2026 — THE BALL FROM NOWHERE: THE BUGA SPHERE IS BACK IN HEADLINES, BUT EVIDENCE ISN&#x27;T * By Nirmal Narayanan March 19, 2026 22...</p></details>
    Published: March 19, 2026  
 
 19. <a id="endnote-19"></a>
    Source: watchthestars.co.uk  
    Title: The Buga Sphere: Colombia's Mysterious UFO Object | Watch The Stars  
-   Link: [https://watchthestars.co.uk/blog/_posts/2026-03-buga-sphere-colombia/](https://watchthestars.co.uk/blog/_posts/2026-03-buga-sphere-colombia/)  
+   Link: <a href="https://watchthestars.co.uk/blog/_posts/2026-03-buga-sphere-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://watchthestars.co.uk/blog/_posts/2026-03-buga-sphere-colombia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Buga Sphere: Colombia&#x27;s Mysterious UFO Object | WatchTheStarsMarch 6, 2026 — THE BUGA SPHERE: COLOMBIA&#x27;S MYSTERIOUS UFO OBJECT 6 Marc...</p></details>
    Published: March 6, 2026  
 
 20. <a id="endnote-20"></a>
    Source: higgypop.com  
    Title: What Do We Really Know About Colombia's Mysterious Buga Sphere?  
-   Link: [https://www.higgypop.com/news/what-we-know-about-the-buga-sphere/](https://www.higgypop.com/news/what-we-know-about-the-buga-sphere/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| HiggypopJuly 3, 2025 — WHAT DO WE REALLY KNOW ABOUT COLOMBIA&#x27;S MYSTERIOUS BUGA SPHERE? A strange metallic sphere that fell from the sky...</p></details>
+   Link: <a href="https://www.higgypop.com/news/what-we-know-about-the-buga-sphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/what-we-know-about-the-buga-sphere/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HiggypopJuly 3, 2025 — WHAT DO WE REALLY KNOW ABOUT COLOMBIA&#x27;S MYSTERIOUS BUGA SPHERE? A strange metallic sphere that fell from the sky...</p></details>
    Published: July 3, 2025  
 
 21. <a id="endnote-21"></a>
    Source: highvisionsystems.com  
    Title: BUGA SPHERE: EVIDENCE OF ALIEN INTELLIGENCE? / Intelligence  
-   Link: [https://www.highvisionsystems.com/buga-sphere-alien-intelligence/](https://www.highvisionsystems.com/buga-sphere-alien-intelligence/)  
+   Link: <a href="https://www.highvisionsystems.com/buga-sphere-alien-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.highvisionsystems.com/buga-sphere-alien-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere: Evidence of Alien Intelligence?July 31, 2025 — Image: An alien-like metallic sphere landmarks and defies explanation, repres...</p></details>
    Published: July 31, 2025  
 
 22. <a id="endnote-22"></a>
    Source: skycr.org  
    Title: ¿Extraterrestres en Colombia?  
-   Link: [https://skycr.org/2025/06/18/extraterrestres-en-colombia-la-verdad-detras-de-la-famosa-esfera-de-buga/](https://skycr.org/2025/06/18/extraterrestres-en-colombia-la-verdad-detras-de-la-famosa-esfera-de-buga/)  
+   Link: <a href="https://skycr.org/2025/06/18/extraterrestres-en-colombia-la-verdad-detras-de-la-famosa-esfera-de-buga/" target="_blank" rel="noopener noreferrer nofollow">https://skycr.org/2025/06/18/extraterrestres-en-colombia-la-verdad-detras-de-la-famosa-esfera-de-buga/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La verdad detrás de la famosa esfera de Buga - SKYCR.ORGJune 18, 2025 — ¿EXTRATERRESTRES EN COLOMBIA? LA VERDAD DETRÁS DE LA FAMOSA ESFER...</p></details>
    Published: June 18, 2025  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sZsDIq24CcA](https://www.youtube.com/watch?v=sZsDIq24CcA)  
+   Link: <a href="https://www.youtube.com/watch?v=sZsDIq24CcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sZsDIq24CcA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Just Cracked the Buga Sphere — And It&#x27;s Worse Than We Thought...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: A New Scan of Buga Sphere Reveals Something Unexpected  
-   Link: [https://www.youtube.com/watch?v=soiyUqx60Wk](https://www.youtube.com/watch?v=soiyUqx60Wk)  
+   Link: <a href="https://www.youtube.com/watch?v=soiyUqx60Wk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=soiyUqx60Wk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Before I Die, Please Listen” — Bob Lazar Finally Admits the Truth About the Buga Sphere...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Bob Lazar Just Cracked the Buga Sphere — And It's Worse Than We Thought  
-   Link: [https://www.youtube.com/watch?v=E7Gk3KiREv4](https://www.youtube.com/watch?v=E7Gk3KiREv4)  
+   Link: <a href="https://www.youtube.com/watch?v=E7Gk3KiREv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E7Gk3KiREv4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Scan of Buga Sphere Reveals Something Unexpected...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=A1cyCzOWaDw](https://www.youtube.com/watch?v=A1cyCzOWaDw)  
+   Link: <a href="https://www.youtube.com/watch?v=A1cyCzOWaDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A1cyCzOWaDw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What IS “The Buga Sphere?”...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: vigilia.com.br  
    Title: Sai análise de raios-x do misterioso OVNI 'Esfera de Buga'  
-   Link: [https://vigilia.com.br/sai-analise-de-raios-x-do-misterioso-ovni-esfera-de-buga-mas-especialista-aponta-problemas/](https://vigilia.com.br/sai-analise-de-raios-x-do-misterioso-ovni-esfera-de-buga-mas-especialista-aponta-problemas/)  
+   Link: <a href="https://vigilia.com.br/sai-analise-de-raios-x-do-misterioso-ovni-esfera-de-buga-mas-especialista-aponta-problemas/" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/sai-analise-de-raios-x-do-misterioso-ovni-esfera-de-buga-mas-especialista-aponta-problemas/</a>  

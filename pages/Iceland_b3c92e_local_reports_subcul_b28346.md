@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-explanations-fc2dd2/
   short_title: Sky Explanations
   heading_title: When Iceland's Weird Lights Are Not UFOs
-date: '2026-06-09 01:29:37 '
+date: '2026-06-10 01:54:59 '
 header:
   og_image: /assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-1-social.jpg
   preview_image: /assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-1-
 
 ## Introduction
 
-[Iceland]({{ 'does-iceland-have-a-real-ufo-record/' | relative_url }}) may lack the large-scale UFO waves seen in media-rich countries like the United States or Brazil, but the country has its own modest yet persistent **local UFO reports and a small UFO‑interested subculture**. Icelanders have sporadically reported unexplained aerial phenomena in newspapers, social media and informal UFO collections, and a handful of enthusiasts have tried to organise sightings and debate credibility. Amid this, sightings blur into folklore‑tinged interpretations, occasional misidentifications and genuine public curiosity about the skies above Reykjavík, Snæfellsnes and other corners of the island. The local narrative is shaped as much by Iceland’s long nights and dramatic landscapes as by the sparse population and limited official investigation structures, leaving a patchwork record of claims, community discourse and credibility debates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icelandreview.com/news/170-ufo-sightings-iceland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icelandreview.com">[Iceland Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icelandreview.com</span><span class="citation-popover-title">Iceland Review170 UFO Sightings in Iceland</span><span class="citation-popover-snippet">April 23, 2013...</span><span class="citation-popover-meta">Published: April 23, 2013</span></span></span>
+Iceland may lack the large-scale UFO waves seen in media-rich countries like the United States or Brazil, but the country has its own modest yet persistent **local UFO reports and a small UFO‑interested subculture**. Icelanders have sporadically reported unexplained aerial phenomena in newspapers, social media and informal UFO collections, and a handful of enthusiasts have tried to organise sightings and debate credibility. Amid this, sightings blur into folklore‑tinged interpretations, occasional misidentifications and genuine public curiosity about the skies above Reykjavík, Snæfellsnes and other corners of the island. The local narrative is shaped as much by Iceland’s long nights and dramatic landscapes as by the sparse population and limited official investigation structures, leaving a patchwork record of claims, community discourse and credibility debates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icelandreview.com/news/170-ufo-sightings-iceland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icelandreview.com">[Iceland Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icelandreview.com</span><span class="citation-popover-title">Iceland Review170 UFO Sightings in Iceland</span><span class="citation-popover-snippet">April 23, 2013...</span><span class="citation-popover-meta">Published: April 23, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-1-dark.svg" | relative_url }}" alt="Local Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,7 +273,7 @@ Open‑access sighting databases curated outside Iceland also include recent ind
 
 At the organisational level, moments of local UFO subculture have revolved around small groups of enthusiasts and hobbyists rather than formal institutions. Iceland has seen attempts to organise UFO fans and collect sightings, sometimes under names translated as an **Association of UFO Enthusiasts in Iceland**, linked to long‑running local interest in psychical phenomena. The group’s then‑chairman, Magnús Skarphéðinsson, became a public face for local UFO collecting, speaking to national radio about accumulated cases and urging follow‑up interviews to separate mundane misidentifications from more puzzling material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robertedunn.com/blog/iceland-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robertedunn.com">[ROBERT E DUNN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robertedunn.com</span><span class="citation-popover-title">ROBERT E DUNNIceland UAPs</span><span class="citation-popover-snippet">ROBERT E DUNN8 Apr 2026 — Yes, there have been numerous UAP/UFO sightings in Iceland, with the UFO Association in Iceland noting at least...</span></span></span>
 
-This informal UFO subculture extends to social media and online fora, where Icelanders share sightings, personal stories and debates about what does — and does not — constitute credible evidence. Threads on international discussion platforms and local sites show visitors and residents alike recounting sightings over Askja or Snæfellsnes, sometimes with playful acknowledgment that such stories are treated with scepticism by the wider public. These discussions rarely coalesce into formal events or annual gatherings but serve as a grassroots means of sharing observed phenomena and theories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/VisitingIceland/comments/1sb6gxw/the_sn%C3%A6fellsnes_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Snæfellsnes UFO？</span><span class="citation-popover-snippet">RedditThe Snæfellsnes UFO？April 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+This informal UFO subculture extends to social media and online fora, where Icelanders share sightings, personal stories and debates about what does — and does not — constitute credible evidence. Threads on international discussion platforms and local sites show visitors and residents alike recounting sightings over Askja or Snæfellsnes, sometimes with playful acknowledgment that such stories are treated with scepticism by the wider public. These discussions rarely coalesce into formal events or annual gatherings but serve as a grassroots means of sharing observed phenomena and theories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/VisitingIceland/comments/1sb6gxw/the_sn%C3%A6fellsnes_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Snæfellsnes UFO？</span><span class="citation-popover-snippet">The Snæfellsnes UFO？April 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-2-dark.svg" | relative_url }}" alt="Local Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -301,86 +301,44 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
 <img src="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-3-dark.svg" | relative_url }}" alt="Local Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e_local_reports_subcul_b28346-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Iceland Told Its Own UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Iceland Told Its Own UFO Stories, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses classification and assessment of witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for how witness reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Relevant to Icelandic folklore influences on local sighting stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
-        
-        <p class="fr-book-desc">Illustrates how public UFO narratives spread through media and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -414,75 +372,71 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-t-shirt-gerry-anderson-series-television-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-reports-how-iceland-told-its-own-ufo-stories-iceland-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -697,158 +651,158 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
 1. <a id="endnote-1"></a>
    Source: grapevine.is  
    Title: nearly 170 reported ufo sightings  
-   Link: [https://grapevine.is/news/2013/04/24/nearly-170-reported-ufo-sightings/](https://grapevine.is/news/2013/04/24/nearly-170-reported-ufo-sightings/)  
+   Link: <a href="https://grapevine.is/news/2013/04/24/nearly-170-reported-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://grapevine.is/news/2013/04/24/nearly-170-reported-ufo-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reykjavík GrapevineApril 24, 2013 — NEARLY 170 REPORTED UFO SIGHTINGS Apr 24, 2013 / News Words by Rex Beckett The chairman of the FF...</p></details>
    Published: April 24, 2013  
 
 2. <a id="endnote-2"></a>
    Source: mbl.is  
    Title: UF O over Iceland?  
-   Link: [https://www.mbl.is/english/news/2014/11/04/ufo_over_iceland/](https://www.mbl.is/english/news/2014/11/04/ufo_over_iceland/)  
+   Link: <a href="https://www.mbl.is/english/news/2014/11/04/ufo_over_iceland/" target="_blank" rel="noopener noreferrer nofollow">https://www.mbl.is/english/news/2014/11/04/ufo_over_iceland/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Iceland?November 4, 2014 — 4 Nov 2014 — A UFO sighting has been reported by residents of Reyðarfjörður, the longest and widest o...</p></details>
    Published: November 4, 2014  
 
 3. <a id="endnote-3"></a>
    Source: robertedunn.com  
    Title: ROBERT E DUNNIceland UAPs  
-   Link: [https://www.robertedunn.com/blog/iceland-uaps](https://www.robertedunn.com/blog/iceland-uaps)  
+   Link: <a href="https://www.robertedunn.com/blog/iceland-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.robertedunn.com/blog/iceland-uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROBERT E DUNN8 Apr 2026 — Yes, there have been numerous UAP/UFO sightings in Iceland, with the UFO Association in Iceland noting at least...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: The Snæfellsnes UFO？  
-   Link: [https://www.reddit.com/r/VisitingIceland/comments/1sb6gxw/the_sn%C3%A6fellsnes_ufo/](https://www.reddit.com/r/VisitingIceland/comments/1sb6gxw/the_sn%C3%A6fellsnes_ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Snæfellsnes UFO？April 3, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/VisitingIceland/comments/1sb6gxw/the_sn%C3%A6fellsnes_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/VisitingIceland/comments/1sb6gxw/the_sn%C3%A6fellsnes_ufo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Snæfellsnes UFO？April 3, 2026...</p></details>
    Published: April 3, 2026  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Icelandic Elf School  
-   Link: [https://en.wikipedia.org/wiki/Icelandic_Elf_School](https://en.wikipedia.org/wiki/Icelandic_Elf_School)  
+   Link: <a href="https://en.wikipedia.org/wiki/Icelandic_Elf_School" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Icelandic_Elf_School</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 16, 2004 — The Icelandic Elf School (Icelandic: Álfaskólinn) is an organization located in Reykjavík, Iceland, that teaches visi...</p></details>
    Published: November 16, 2004  
 
 6. <a id="endnote-6"></a>
    Source: icelandmonitor.mbl.is  
    Title: Iceland Monitor Mysterious object over Hafnarfjörður was Starlink satellites  
-   Link: [https://icelandmonitor.mbl.is/news/news/2025/09/14/mysterious_object_over_hafnarfjordur_was_starlink_s](https://icelandmonitor.mbl.is/news/news/2025/09/14/mysterious_object_over_hafnarfjordur_was_starlink_s)  
+   Link: <a href="https://icelandmonitor.mbl.is/news/news/2025/09/14/mysterious_object_over_hafnarfjordur_was_starlink_s" target="_blank" rel="noopener noreferrer nofollow">https://icelandmonitor.mbl.is/news/news/2025/09/14/mysterious_object_over_hafnarfjordur_was_starlink_s</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iceland MonitorMysterious object over Hafnarfjörður was Starlink satellites - Iceland MonitorSeptember 14, 2025...</p></details>
    Published: September 14, 2025  
 
 7. <a id="endnote-7"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Iceland  
-   Link: [https://www.ufo-hunters.com/sightings/country/ISL/Iceland](https://www.ufo-hunters.com/sightings/country/ISL/Iceland)  
+   Link: <a href="https://www.ufo-hunters.com/sightings/country/ISL/Iceland" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/ISL/Iceland</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Iceland - UFO Hunters...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: grapevine.is  
    Title: In this episode we visit the wild and majestic Snæfellsnes peninsula to talk ab  
-   Link: [https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/](https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/)  
+   Link: <a href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural Iceland: UFOsApril 5, 2022 — SUPERNATURAL ICELAND: UFOS Words by The Reykjavík Grapevine Photo by Art Bicnick Welcome to Sup...</p></details>
    Published: April 5, 2022  
 
 9. <a id="endnote-9"></a>
    Source: icelandmonitor.mbl.is  
    Title: is Mysterious colourful UFO in the night sky  
-   Link: [https://icelandmonitor.mbl.is/news/news/2015/01/21/mysterious_colourful_ufo_in_the_night_sky/](https://icelandmonitor.mbl.is/news/news/2015/01/21/mysterious_colourful_ufo_in_the_night_sky/)  
+   Link: <a href="https://icelandmonitor.mbl.is/news/news/2015/01/21/mysterious_colourful_ufo_in_the_night_sky/" target="_blank" rel="noopener noreferrer nofollow">https://icelandmonitor.mbl.is/news/news/2015/01/21/mysterious_colourful_ufo_in_the_night_sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>colourful UFO in the night sky - Iceland MonitorJanuary 21, 2015 — Image: mbl.is News | Iceland Monitor | Wed 21 Jan 2015 | 15.19 GMT | M...</p></details>
    Published: January 21, 2015  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/yourfriendinreykjavik/posts/1893626020822682/](https://www.facebook.com/yourfriendinreykjavik/posts/1893626020822682/)  
+   Link: <a href="https://www.facebook.com/yourfriendinreykjavik/posts/1893626020822682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yourfriendinreykjavik/posts/1893626020822682/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Previously locked episode) by Lockdown Universe (A UFO, ALIEN, BIGFOOT, GOVERNMENT CONSPIRACY AND PARANORMAL...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/yourfriendinreykjavik/videos/a-chat-with-the-headmaster-of-the-icelandic-elfschool-livestream-highlight/329295779250471/](https://www.facebook.com/yourfriendinreykjavik/videos/a-chat-with-the-headmaster-of-the-icelandic-elfschool-livestream-highlight/329295779250471/)  
+   Link: <a href="https://www.facebook.com/yourfriendinreykjavik/videos/a-chat-with-the-headmaster-of-the-icelandic-elfschool-livestream-highlight/329295779250471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yourfriendinreykjavik/videos/a-chat-with-the-headmaster-of-the-icelandic-elfschool-livestream-highlight/329295779250471/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>land so we&#x27;re going to have a chat about elves in iceland...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uap.is  
-   Link: [https://www.uap.is/](https://www.uap.is/)  
+   Link: <a href="https://www.uap.is/" target="_blank" rel="noopener noreferrer nofollow">https://www.uap.is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial PhenomenaUAP.IS Fréttir um flygildi, geimverur, sálfarir og vitund mannsins Engar fréttir skráðar ennþá UM VEFSÍÐUNA...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: grapevine.is  
-   Link: [https://grapevine.is/tag/ufo/](https://grapevine.is/tag/ufo/)  
+   Link: <a href="https://grapevine.is/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://grapevine.is/tag/ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO * #### Life by Erik Pomrenke 13:25 LOST IN GOOGLE TRANSLATION: T...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Supernatural Iceland: UFOs  
-   Link: [https://www.youtube.com/watch?v=S0T0Lg3_Xsc](https://www.youtube.com/watch?v=S0T0Lg3_Xsc)  
+   Link: <a href="https://www.youtube.com/watch?v=S0T0Lg3_Xsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T0Lg3_Xsc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reykjavík Grapevine...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: icelandreview.com  
    Title: Iceland Review170 UFO Sightings in Iceland  
-   Link: [https://www.icelandreview.com/news/170-ufo-sightings-iceland/](https://www.icelandreview.com/news/170-ufo-sightings-iceland/)  
+   Link: <a href="https://www.icelandreview.com/news/170-ufo-sightings-iceland/" target="_blank" rel="noopener noreferrer nofollow">https://www.icelandreview.com/news/170-ufo-sightings-iceland/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 23, 2013...</p></details>
    Published: April 23, 2013  
 
 16. <a id="endnote-16"></a>
    Source: thephenomenon.app  
-   Link: [https://thephenomenon.app/iceland/](https://thephenomenon.app/iceland/)  
+   Link: <a href="https://thephenomenon.app/iceland/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/iceland/</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/](https://www.euroufo.net/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EuroUFO | The Virtual Community of Scientifically Oriented European UFO ResearchersMarch 20, 2026 — A CATALOGUE OF EUROPEAN UFO SIGHTINGS...</p></details>
+   Link: <a href="https://www.euroufo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Virtual Community of Scientifically Oriented European UFO ResearchersMarch 20, 2026 — A CATALOGUE OF EUROPEAN UFO SIGHTINGS...</p></details>
    Published: March 20, 2026  
 
 19. <a id="endnote-19"></a>
    Source: ibtimes.com  
-   Link: [https://www.ibtimes.com/ufo-sighting-news-egg-shaped-spaceship-seen-hovering-over-iceland-2850816](https://www.ibtimes.com/ufo-sighting-news-egg-shaped-spaceship-seen-hovering-over-iceland-2850816)  
+   Link: <a href="https://www.ibtimes.com/ufo-sighting-news-egg-shaped-spaceship-seen-hovering-over-iceland-2850816" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com/ufo-sighting-news-egg-shaped-spaceship-seen-hovering-over-iceland-2850816</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting News: Egg-Shaped Spaceship Seen Hovering Over Iceland | IBTimesOctober 1, 2025 — UFO SIGHTING NEWS: EGG-SHAPED SPACESHIP SEE...</p></details>
    Published: October 1, 2025  
 
 20. <a id="endnote-20"></a>
    Source: ufoinsight.com  
    Title: The Snaefellsjokull Incident And “The Little Grey People” Of Iceland  
-   Link: [https://www.ufoinsight.com/supernatural/folklore/snaefellsjokull-incident-little-grey-people-iceland](https://www.ufoinsight.com/supernatural/folklore/snaefellsjokull-incident-little-grey-people-iceland)  
+   Link: <a href="https://www.ufoinsight.com/supernatural/folklore/snaefellsjokull-incident-little-grey-people-iceland" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/supernatural/folklore/snaefellsjokull-incident-little-grey-people-iceland</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 20, 2017 — THE SNAEFELLSJOKULL INCIDENT AND “THE LITTLE GREY PEOPLE” OF ICELAND By Marcus Lowth Image: Published Date Jun...</p></details>
    Published: June 20, 2017  
 
 21. <a id="endnote-21"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Iceland UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/iceland-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/iceland-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/iceland-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/iceland-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — ICELAND UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT ICELAND UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date: Locati...</p></details>
    Published: March 22, 2025  
 
 22. <a id="endnote-22"></a>
    Source: mysteriesoficeland.com  
-   Link: [https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid](https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid)  
+   Link: <a href="https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid" target="_blank" rel="noopener noreferrer nofollow">https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Miklabraut Abduction - Mysteries of IcelandAs in most places in the world, UFOs, Unidentified Flying Objects, are a well-known phenom...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P41ILWTDnkQ](https://www.youtube.com/watch?v=P41ILWTDnkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=P41ILWTDnkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P41ILWTDnkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out There | History...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medievalists.net  
    Title: ufos icelandic sagas  
-   Link: [https://www.medievalists.net/2022/09/ufos-icelandic-sagas/](https://www.medievalists.net/2022/09/ufos-icelandic-sagas/)  
+   Link: <a href="https://www.medievalists.net/2022/09/ufos-icelandic-sagas/" target="_blank" rel="noopener noreferrer nofollow">https://www.medievalists.net/2022/09/ufos-icelandic-sagas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Icelandic Sagas1 Sept 2022 — UFOs in the Icelandic Sagas · Alien abduction in Eyrbyggja saga · UFO sightings and temporal dis...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mysteriesoficeland.com  
    Title: Most people know so  
-   Link: [https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid.html](https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid.html)  
+   Link: <a href="https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid.html" target="_blank" rel="noopener noreferrer nofollow">https://mysteriesoficeland.com/greinar/miklubrautarbrottnamid.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Miklabraut Abduction - Mysteries of IcelandTHE MIKLABRAUT ABDUCTION Gatnamót Miklu- og Háaleitisbrautar, Reykjavík As in most places...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Strange UFO Flying Over Iceland Fagradalsfjall Geldingadalir Volcano  
-   Link: [https://www.youtube.com/watch?v=xZ2sP7xxxAA](https://www.youtube.com/watch?v=xZ2sP7xxxAA)  
+   Link: <a href="https://www.youtube.com/watch?v=xZ2sP7xxxAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZ2sP7xxxAA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: EXPLOSIVE VOLCANOES BRING MYSTERIOUS UFOS (Season 2) | History...</p></details>

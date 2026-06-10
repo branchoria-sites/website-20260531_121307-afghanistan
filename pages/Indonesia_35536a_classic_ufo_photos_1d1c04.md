@@ -239,7 +239,7 @@ prev_link:
   permalink: /salatun/
   short_title: Salatun
   heading_title: Was Indonesia Ever Officially Studying UFOs?
-date: '2026-06-09 01:29:53 '
+date: '2026-06-10 01:55:16 '
 header:
   og_image: /assets/images/Indonesia_35536a_classic_ufo_photos_1d1c04-Illustration-1-social.jpg
   preview_image: /assets/images/Indonesia_35536a_classic_ufo_photos_1d1c04-Illustration-1.webp
@@ -248,7 +248,7 @@ image: /assets/images/Indonesia_35536a_classic_ufo_photos_1d1c04-Illustration-1-
 
 ## Introduction
 
-[Indonesia]({{ 'what-indonesias-ufo-record-really-shows/' | relative_url }})’s best-known UFO photographs occupy a strange place in the country’s UFO history. They are among the most frequently reproduced pieces of visual evidence in Indonesian UFO culture, yet they remain difficult to verify in ways that would satisfy modern photographic analysis. The two images most often discussed are the 1973 Mount Agung photograph from Bali and the 1975 Cilamaya offshore photograph from West Java. Both survive largely through later retellings, enthusiast archives, and reproduced copies rather than through well-documented original negatives or complete investigative records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.balidiscovery.com/ufos-and-flying-saucers-visiting-bali/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: balidiscovery.com">[Bali Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">balidiscovery.com</span><span class="citation-popover-title">Bali Discovery UFOs and Flying Saucers Visiting Bali?</span><span class="citation-popover-snippet">The... The UFO, which hovered for four minutes before a group of Japanese tourists and...Read more...</span></span></span>
+Indonesia’s best-known UFO photographs occupy a strange place in the country’s UFO history. They are among the most frequently reproduced pieces of visual evidence in Indonesian UFO culture, yet they remain difficult to verify in ways that would satisfy modern photographic analysis. The two images most often discussed are the 1973 Mount Agung photograph from Bali and the 1975 Cilamaya offshore photograph from West Java. Both survive largely through later retellings, enthusiast archives, and reproduced copies rather than through well-documented original negatives or complete investigative records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.balidiscovery.com/ufos-and-flying-saucers-visiting-bali/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: balidiscovery.com">[Bali Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">balidiscovery.com</span><span class="citation-popover-title">Bali Discovery UFOs and Flying Saucers Visiting Bali?</span><span class="citation-popover-snippet">The... The UFO, which hovered for four minutes before a group of Japanese tourists and...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Indonesia_35536a_classic_ufo_photos_1d1c04-Illustration-1-dark.svg" | relative_url }}" alt="UFO Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a_classic_ufo_photos_1d1c04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a_classic_ufo_photos_1d1c04-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -281,9 +281,9 @@ This distinction matters. A photograph can be culturally important without being
 
 ## Cilamaya's offshore image
 
-The second major case is the so-called Cilamaya photograph, associated with the offshore Arjuna oil field off the coast of West Java. Later accounts identify the photographer as engineer Tony Hartono Rusman and place the event on 22 September 1975. According to the narrative, he observed an unusual elongated dark-red object approaching from the horizon while he was at an offshore drilling installation approximately 83 kilometres from the coast. A photograph was reportedly taken showing the object over the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: candradityaa.blogspot.com">[Candradityaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">candradityaa.blogspot.com</span><span class="citation-popover-title">penampakan ufo di indonesia</span><span class="citation-popover-snippet">CandradityaaPenampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</span></span></span>
+The second major case is the so-called Cilamaya photograph, associated with the offshore Arjuna oil field off the coast of West Java. Later accounts identify the photographer as engineer Tony Hartono Rusman and place the event on 22 September 1975. According to the narrative, he observed an unusual elongated dark-red object approaching from the horizon while he was at an offshore drilling installation approximately 83 kilometres from the coast. A photograph was reportedly taken showing the object over the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: candradityaa.blogspot.com">[Candradityaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">candradityaa.blogspot.com</span><span class="citation-popover-title">penampakan ufo di indonesia</span><span class="citation-popover-snippet">Penampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</span></span></span>
 
-At first glance, the Cilamaya case appears stronger than many ordinary UFO photographs because it allegedly occurred in an industrial setting rather than during casual tourism. Offshore platforms involve trained personnel, known locations, and potentially additional witnesses. Those features create the impression of a more controlled observation environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: candradityaa.blogspot.com">[Candradityaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">candradityaa.blogspot.com</span><span class="citation-popover-title">penampakan ufo di indonesia</span><span class="citation-popover-snippet">CandradityaaPenampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</span></span></span>
+At first glance, the Cilamaya case appears stronger than many ordinary UFO photographs because it allegedly occurred in an industrial setting rather than during casual tourism. Offshore platforms involve trained personnel, known locations, and potentially additional witnesses. Those features create the impression of a more controlled observation environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: candradityaa.blogspot.com">[Candradityaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">candradityaa.blogspot.com</span><span class="citation-popover-title">penampakan ufo di indonesia</span><span class="citation-popover-snippet">Penampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</span></span></span>
 
 Yet the same evidential problems reappear:
 
@@ -294,7 +294,7 @@ Yet the same evidential problems reappear:
 * Original negatives and associated documentation are not widely available.
 * There is little publicly accessible information about whether multiple photographs were taken in sequence.
 * No comprehensive technical report appears to have survived in public circulation.
-* Independent confirmation from platform records, aviation logs, or radar data has not emerged publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: candradityaa.blogspot.com">[Candradityaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">candradityaa.blogspot.com</span><span class="citation-popover-title">penampakan ufo di indonesia</span><span class="citation-popover-snippet">CandradityaaPenampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</span></span></span>
+* Independent confirmation from platform records, aviation logs, or radar data has not emerged publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: candradityaa.blogspot.com">[Candradityaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">candradityaa.blogspot.com</span><span class="citation-popover-title">penampakan ufo di indonesia</span><span class="citation-popover-snippet">Penampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</span></span></span>
 
 </div>
 
@@ -369,86 +369,44 @@ Their continuing importance therefore lies in two different domains. As historic
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can Indonesia&#x27;s Classic UFO Photos Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can Indonesia&#x27;s Classic UFO Photos Hold Up?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides investigative frameworks useful when evaluating famous UFO photographs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
-        
-        <p class="fr-book-desc">Focuses on documented evidence categories including photographs and physical traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
-        
-        <p class="fr-book-desc">Addresses how evidence should be assessed in unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Includes discussion of evidence evaluation and photographic cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -482,75 +440,71 @@ Their continuing importance therefore lies in two different domains. As historic
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-photos-can-indonesia-s-classic-ufo-photos-hold-up-indonesia-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -764,111 +718,111 @@ Their continuing importance therefore lies in two different domains. As historic
 
 1. <a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html](https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html)  
+   Link: <a href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indonesian UFO Contact Cases Database (Version 0.9...BU INDONESIA, &quot;Japanese Tourists Photograph UFO Sightings on Mount Agung, Bali 197...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mount Agung  
-   Link: [https://en.wikipedia.org/wiki/Mount_Agung](https://en.wikipedia.org/wiki/Mount_Agung)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mount_Agung" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mount_Agung</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO waveThe Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to Ap...</p></details>
    Published: November 1989  
 
 4. <a id="endnote-4"></a>
    Source: balidiscovery.com  
    Title: Bali Discovery UFOs and Flying Saucers Visiting Bali?  
-   Link: [https://www.balidiscovery.com/ufos-and-flying-saucers-visiting-bali/](https://www.balidiscovery.com/ufos-and-flying-saucers-visiting-bali/)  
+   Link: <a href="https://www.balidiscovery.com/ufos-and-flying-saucers-visiting-bali/" target="_blank" rel="noopener noreferrer nofollow">https://www.balidiscovery.com/ufos-and-flying-saucers-visiting-bali/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The... The UFO, which hovered for four minutes before a group of Japanese tourists and...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen](https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen)  
+   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWhat really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diam...</p></details>
    Published: August 1990  
 
 6. <a id="endnote-6"></a>
    Source: scmp.com  
    Title: ufo fans indonesia why extraterrestrial life should be taken seriously  
-   Link: [https://www.scmp.com/lifestyle/article/3050459/ufo-fans-indonesia-why-extraterrestrial-life-should-be-taken-seriously](https://www.scmp.com/lifestyle/article/3050459/ufo-fans-indonesia-why-extraterrestrial-life-should-be-taken-seriously)  
+   Link: <a href="https://www.scmp.com/lifestyle/article/3050459/ufo-fans-indonesia-why-extraterrestrial-life-should-be-taken-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/lifestyle/article/3050459/ufo-fans-indonesia-why-extraterrestrial-life-should-be-taken-seriously</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Members report mysterious sightings in the night sky and...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thejakartapost.com  
    Title: not a cult ris biggest ufo community beta ufo weighs in on cia report  
-   Link: [https://www.thejakartapost.com/paper/2021/06/08/not-a-cult-ris-biggest-ufo-community-beta-ufo-weighs-in-on-cia-report.html](https://www.thejakartapost.com/paper/2021/06/08/not-a-cult-ris-biggest-ufo-community-beta-ufo-weighs-in-on-cia-report.html)  
+   Link: <a href="https://www.thejakartapost.com/paper/2021/06/08/not-a-cult-ris-biggest-ufo-community-beta-ufo-weighs-in-on-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thejakartapost.com/paper/2021/06/08/not-a-cult-ris-biggest-ufo-community-beta-ufo-weighs-in-on-cia-report.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a cult: RI&#x27;s biggest UFO-community BETA-UFO weighs...8 Jun 2021 — N ur Agustinus, cofounder of Indonesia&#x27;s largest UFO-centric commu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: candradityaa.blogspot.com  
    Title: penampakan ufo di indonesia  
-   Link: [https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html](https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CandradityaaPenampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</p></details>
+   Link: <a href="https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html" target="_blank" rel="noopener noreferrer nofollow">https://candradityaa.blogspot.com/2014/02/penampakan-ufo-di-indonesia.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Penampakan UFO di Indonesia25 Feb 2014 — 3.UFO Cimalaya, dipotret di lepas pantai Cimalaya oleh Ir. Tony Hartono (Alm) pada 2...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: shutterstock.com  
    Title: mount agung  
-   Link: [https://www.shutterstock.com/search/mount-agung](https://www.shutterstock.com/search/mount-agung)  
+   Link: <a href="https://www.shutterstock.com/search/mount-agung" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/mount-agung</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>royalty-free imagesFind 7114 Mount Agung stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations an...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/the-competitiveness-of-global-port-cities_g1g37699/9789264205277-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/the-competitiveness-of-global-port-cities_g1g37699/9789264205277-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/the-competitiveness-of-global-port-cities_g1g37699/9789264205277-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/the-competitiveness-of-global-port-cities_g1g37699/9789264205277-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>introduction of harmful or alien species to a particular part of the marine environment.” The...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNQQeL7ufQe/?hl=en](https://www.instagram.com/reel/DNQQeL7ufQe/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNQQeL7ufQe/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNQQeL7ufQe/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFOs sitting in the sky in Bali. Weirdest thing I&#x27;ve ever...UFO. WIDE AS A WHOLE FOOTBALL FIELD. IT HOVERED. THEN LANDED IN THE JU...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: old.archaeology.nsc.ru  
-   Link: [https://old.archaeology.nsc.ru/en/publish/journal/doc/2024/523.pdf](https://old.archaeology.nsc.ru/en/publish/journal/doc/2024/523.pdf)  
+   Link: <a href="https://old.archaeology.nsc.ru/en/publish/journal/doc/2024/523.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.archaeology.nsc.ru/en/publish/journal/doc/2024/523.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nsc.ruARCHAEOLOGY, ETHNOLOGY &amp; ANTHROPOLOGY OF...Photograph and drawing of pottery (1–4), graphic reconstruction of vessel (5). 1... of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
    Title: Agung in Bali, which is one of the highest at-risk volcanoes in Indonesia  
-   Link: [https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.619587/full](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.619587/full)  
+   Link: <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.619587/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.619587/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Imaging the Subsurface Structure of Mount Agung in Bali...by A Ardianto · 2021 · Cited by 19 — In this study, we investigate the subsurf...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: ufo polaroid from 1975 with date on the back  
-   Link: [https://www.reddit.com/r/UFOs/comments/14dp8lc/ufo_polaroid_from_1975_with_date_on_the_back/](https://www.reddit.com/r/UFOs/comments/14dp8lc/ufo_polaroid_from_1975_with_date_on_the_back/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/14dp8lc/ufo_polaroid_from_1975_with_date_on_the_back/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14dp8lc/ufo_polaroid_from_1975_with_date_on_the_back/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Polaroid from 1975, with date on the back. Thoughts...&quot;If aliens exist and are visiting Earth, Why aren&#x27;t there clear photos of UFOs...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pure.uva.nl  
    Title: nl Close to the stone, far from the throne  
-   Link: [https://pure.uva.nl/ws/files/3520067/48110_Thesis.pdf](https://pure.uva.nl/ws/files/3520067/48110_Thesis.pdf)  
+   Link: <a href="https://pure.uva.nl/ws/files/3520067/48110_Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/3520067/48110_Thesis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to the stone, far from the throne - Research Explorerby PSH Yuwono · Cited by 6 — coastlinee for a rendezvous with an alien ship to take...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: Previously owned by Colonel Wendelle Stevens.Read more  
-   Link: [https://www.facebook.com/groups/1601349336799929/posts/3151109265157254/](https://www.facebook.com/groups/1601349336799929/posts/3151109265157254/)  
+   Link: <a href="https://www.facebook.com/groups/1601349336799929/posts/3151109265157254/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1601349336799929/posts/3151109265157254/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I own this rare photograph taken by Ryo Terumoto at Mount...I own this rare photograph taken by Ryo Terumoto at Mount Agung in Bali, Ind...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ash.harvard.edu  
    Title: asia public policy forum 2014 paper  
-   Link: [https://ash.harvard.edu/wp-content/uploads/2024/02/asia_public_policy_forum_2014_paper.pdf](https://ash.harvard.edu/wp-content/uploads/2024/02/asia_public_policy_forum_2014_paper.pdf)  
+   Link: <a href="https://ash.harvard.edu/wp-content/uploads/2024/02/asia_public_policy_forum_2014_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ash.harvard.edu/wp-content/uploads/2024/02/asia_public_policy_forum_2014_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theme Parks, shopping malls and restaurants are developed following the current popular style of...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=z4BGD2SsbFo](https://www.youtube.com/watch?v=z4BGD2SsbFo)  
+   Link: <a href="https://www.youtube.com/watch?v=z4BGD2SsbFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z4BGD2SsbFo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TJP Documentaries: Indonesia&#x27;s UFO Believers Never Stop Looking...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Mengenal Venzha Christ, Inisiator Indonesia UFO Network #i News Pagi 07/10  
-   Link: [https://www.youtube.com/watch?v=za_yhxW_G8Y](https://www.youtube.com/watch?v=za_yhxW_G8Y)  
+   Link: <a href="https://www.youtube.com/watch?v=za_yhxW_G8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=za_yhxW_G8Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADA UFO DI INDONESIA? Cerita Misterius Di Pulau Alor | Cerita Api Unggun...</p></details>

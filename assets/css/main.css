@@ -15759,6 +15759,27 @@ a.fr-book-fit:focus-visible {
 }
 
 /* Premium world map polish */
+.home-map-panel {
+  width: min(var(--layout-max-width), 100%);
+  margin: clamp(1.2rem, 3vw, 2.5rem) auto clamp(1.4rem, 3.2vw, 2.8rem);
+}
+
+.home-map-panel-note {
+  margin: clamp(0.75rem, 1.6vw, 1.1rem) auto 0;
+  max-width: min(58rem, 92vw);
+  color: var(--muted);
+  font-family: var(--font-body-stack);
+  font-size: clamp(1rem, 1.6vw, 1.12rem);
+  line-height: 1.65;
+  text-align: center;
+}
+
+.home-map-panel-actions {
+  display: flex;
+  justify-content: center;
+  margin: 0.9rem 0 0;
+}
+
 @keyframes interactive-map-radar-sweep {
   from {
     transform: rotate(0deg);
@@ -15770,6 +15791,10 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell) {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(17rem, 0.34fr);
+  align-items: stretch;
   isolation: isolate;
   gap: clamp(0.85rem, 1.2vw, 1.15rem);
   padding: clamp(0.75rem, 1.5vw, 1.05rem);
@@ -15793,6 +15818,8 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  position: relative;
+  overflow: hidden;
   touch-action: pan-y;
   min-height: clamp(19rem, 54vh, 35rem);
   border: 1px solid rgba(255, 255, 255, 0.58);
@@ -16063,6 +16090,10 @@ a.fr-book-fit:focus-visible {
 }
 
 @media (max-width: 860px) {
+  :where(.interactive-map-shell, .uap-world-map-shell) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
   :where(.interactive-map-preview, .uap-world-map-preview) {
     min-height: 0;
   }

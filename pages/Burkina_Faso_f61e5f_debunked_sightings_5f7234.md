@@ -245,7 +245,7 @@ next_link:
   permalink: /meteorite-events/
   short_title: Meteorite Events
   heading_title: Gao–Guenie Meteorite and Other Astronomical Events
-date: '2026-06-09 01:22:33 '
+date: '2026-06-10 01:47:04 '
 header:
   og_image: /assets/images/Burkina_Faso_f61e5f_debunked_sightings_5f7234-Illustration-1-social.jpg
   preview_image: /assets/images/Burkina_Faso_f61e5f_debunked_sightings_5f7234-Illustration-1.webp
@@ -298,14 +298,14 @@ The case illustrates how rapidly ordinary aviation events can mutate online. The
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A known military aircraft type <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramRecent claims that a Nigerian military aircraft was involved...Recent claims that a Nigerian military aircraft was involved in...</span></span></span>
+* A known military aircraft type <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Recent claims that a Nigerian military aircraft was involved...Recent claims that a Nigerian military aircraft was involved in...</span></span></span>
 * An emergency or precautionary landing
 * Existing regional tensions over airspace
 * Incomplete early reporting
 
 </div>
 
-By the time the story spread across Facebook, X, and messaging apps, some versions described espionage missions or mysterious unidentified craft. Officials and later fact-check style reporting rejected those claims as unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramRecent claims that a Nigerian military aircraft was involved...Recent claims that a Nigerian military aircraft was involved in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanguardngr.com/2025/12/fg-debunks-espionage-claims-over-naf-c-130-aircraft-in-burkina-faso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanguardngr.com">[Vanguard News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanguardngr.com</span><span class="citation-popover-snippet">Vanguard NewsFG debunks espionage claims over NAF C-130 Aircraft in...December 15, 2025 — 15 Dec 2025 — FG debunks espionage claims over...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
+By the time the story spread across Facebook, X, and messaging apps, some versions described espionage missions or mysterious unidentified craft. Officials and later fact-check style reporting rejected those claims as unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Recent claims that a Nigerian military aircraft was involved...Recent claims that a Nigerian military aircraft was involved in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanguardngr.com/2025/12/fg-debunks-espionage-claims-over-naf-c-130-aircraft-in-burkina-faso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanguardngr.com">[Vanguard News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanguardngr.com</span><span class="citation-popover-snippet">Vanguard NewsFG debunks espionage claims over NAF C-130 Aircraft in...December 15, 2025 — 15 Dec 2025 — FG debunks espionage claims over...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
@@ -382,7 +382,7 @@ Organisations and researchers tracking misinformation in West Africa have repeat
 
 </div>
 
-These investigations are not usually framed as UFO debunking specifically, but they frequently overlap with claims about mysterious aircraft or unexplained aerial sightings. Ministerio de Defensa de España <span class="citation-chip-wrap"><a class="citation-chip" href="https://disinfo.africa/coup-claims-and-disinfo-fuel-west-african-tensions-5efc62224252" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.africa">[African Digital Democracy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.africa</span><span class="citation-popover-title">coup claims and disinfo fuel west african tensions 5efc62224252</span><span class="citation-popover-snippet">African Digital Democracy ObservatoryFalse coup claims fuel West African tensions | by ADDO26 May 2025 — Claims of US-backed coups, deepf...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/round-up-top-trending-claims-fact-checked-by-dubawa-this-week/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">round up top trending claims fact checked by dubawa this week</span><span class="citation-popover-snippet">Round-Up: Top trending claims fact-checked by...22 Jun 2025 — As people continue to share mis- and disinformation across all social medi...</span></span></span> A recurring finding is that sensational aerial stories spread fastest when they intersect with existing political tensions. In Burkina Faso, narratives involving foreign intervention, covert military operations, or hidden technologies often gain traction because they align with wider anxieties surrounding security and sovereignty.
+These investigations are not usually framed as UFO debunking specifically, but they frequently overlap with claims about mysterious aircraft or unexplained aerial sightings. Ministerio de Defensa de España <span class="citation-chip-wrap"><a class="citation-chip" href="https://disinfo.africa/coup-claims-and-disinfo-fuel-west-african-tensions-5efc62224252" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.africa">[African Digital Democracy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.africa</span><span class="citation-popover-title">coup claims and disinfo fuel west african tensions 5efc62224252</span><span class="citation-popover-snippet">African Digital Democracy ObservatoryFalse coup claims fuel West African tensions &#124; by ADDO26 May 2025 — Claims of US-backed coups, deepf...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/round-up-top-trending-claims-fact-checked-by-dubawa-this-week/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">round up top trending claims fact checked by dubawa this week</span><span class="citation-popover-snippet">Round-Up: Top trending claims fact-checked by...22 Jun 2025 — As people continue to share mis- and disinformation across all social medi...</span></span></span> A recurring finding is that sensational aerial stories spread fastest when they intersect with existing political tensions. In Burkina Faso, narratives involving foreign intervention, covert military operations, or hidden technologies often gain traction because they align with wider anxieties surrounding security and sovereignty.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gFy6LVlNc6c" title="&quot;Alien&quot; caught on camera in La Junta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gFy6LVlNc6c" target="_blank" rel="noopener noreferrer">&quot;Alien&quot; caught on camera in La Junta</a></p><p class="youtube-embed-meta">Channel: Denver7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gFy6LVlNc6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gFy6LVlNc6c">Open on YouTube</a></p></div></div></div>
@@ -422,86 +422,44 @@ For readers exploring the wider Burkina Faso UFO topic, the most evidence-based 
 <img src="{{ "/assets/images/Burkina_Faso_f61e5f_debunked_sightings_5f7234-Illustration-3-dark.svg" | relative_url }}" alt="Debunked Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Burkina_Faso_f61e5f_debunked_sightings_5f7234-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Burkina_Faso_f61e5f_debunked_sightings_5f7234-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Viral UFO Claims and Misidentifications Explained. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Viral UFO Claims and Misidentifications Explained, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides frameworks for evaluating reports critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
-        
-        <p class="fr-book-desc">Directly covers debunking, misidentifications and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful contrast between stronger and weaker UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains misinformation, extraordinary claims and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -535,75 +493,71 @@ For readers exploring the wider Burkina Faso UFO topic, the most evidence-based 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-sightings-viral-ufo-claims-and-misidentifications-explained-burkina-faso-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -817,86 +771,86 @@ For readers exploring the wider Burkina Faso UFO topic, the most evidence-based 
 
 1. <a id="endnote-1"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSfTBffjVXA/](https://www.instagram.com/p/DSfTBffjVXA/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramRecent claims that a Nigerian military aircraft was involved...Recent claims that a Nigerian military aircraft was involved in...</p></details>
+   Link: <a href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSfTBffjVXA/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent claims that a Nigerian military aircraft was involved...Recent claims that a Nigerian military aircraft was involved in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dubawa.org  
    Title: round up top trending claims fact checked by dubawa this week  
-   Link: [https://dubawa.org/round-up-top-trending-claims-fact-checked-by-dubawa-this-week/](https://dubawa.org/round-up-top-trending-claims-fact-checked-by-dubawa-this-week/)  
+   Link: <a href="https://dubawa.org/round-up-top-trending-claims-fact-checked-by-dubawa-this-week/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/round-up-top-trending-claims-fact-checked-by-dubawa-this-week/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Round-Up: Top trending claims fact-checked by...22 Jun 2025 — As people continue to share mis- and disinformation across all social medi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
    Title: Is this a UFO or a balloon?  
-   Link: [https://www.facebook.com/KJovian/posts/is-this-a-ufo-or-a-balloon-i-ran-the-recent-government-humanoid-ufo-footage-thro/1551823526308917/](https://www.facebook.com/KJovian/posts/is-this-a-ufo-or-a-balloon-i-ran-the-recent-government-humanoid-ufo-footage-thro/1551823526308917/)  
+   Link: <a href="https://www.facebook.com/KJovian/posts/is-this-a-ufo-or-a-balloon-i-ran-the-recent-government-humanoid-ufo-footage-thro/1551823526308917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KJovian/posts/is-this-a-ufo-or-a-balloon-i-ran-the-recent-government-humanoid-ufo-footage-thro/1551823526308917/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I ran the recent government &quot;...This photo seems to capture an alien inside a UFO; if genuine, it&#x27;s an incredible find - but could it be...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/](https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/)  
+   Link: <a href="https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBUNKED: This &quot;Ufo&quot; Is A Hollywood Balloon #...... claims of alien spaceships have no such facts to back up the claims.... UFO of Inte...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/](https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/)  
+   Link: <a href="https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents of Paga in the Upper East Region are alarmed...In 1987, a UFO was seen over Ghana according to these intelligence documents...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100093593627871/posts/sky-news-caught-in-burkina-faso-liesthe-mask-has-fallen-off-and-the-world-is-see/851521071311006/](https://www.facebook.com/100093593627871/posts/sky-news-caught-in-burkina-faso-liesthe-mask-has-fallen-off-and-the-world-is-see/851521071311006/)  
+   Link: <a href="https://www.facebook.com/100093593627871/posts/sky-news-caught-in-burkina-faso-liesthe-mask-has-fallen-off-and-the-world-is-see/851521071311006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100093593627871/posts/sky-news-caught-in-burkina-faso-liesthe-mask-has-fallen-off-and-the-world-is-see/851521071311006/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY NEWS CAUGHT IN BURKINA FASO LIES🚨🚨🚨 The...SKY NEWS CAUGHT IN BURKINA FASO LIES The mask has fallen off and the world is seeing the t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/dbstv/posts/a-mysterious-unmarked-military-aircraft-touching-down-at-hewanorra-international/1327932026043236/](https://www.facebook.com/dbstv/posts/a-mysterious-unmarked-military-aircraft-touching-down-at-hewanorra-international/1327932026043236/)  
+   Link: <a href="https://www.facebook.com/dbstv/posts/a-mysterious-unmarked-military-aircraft-touching-down-at-hewanorra-international/1327932026043236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dbstv/posts/a-mysterious-unmarked-military-aircraft-touching-down-at-hewanorra-international/1327932026043236/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>with the misinformation and misleading. 23w · 16 likes.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: The Alliance of Sahel States (AES) — comprised of Burkina  
-   Link: [https://www.facebook.com/eyegambia/posts/the-alliance-of-sahel-states-aes-comprised-of-burkina-faso-mali-and-niger-announ/1326162999550577/](https://www.facebook.com/eyegambia/posts/the-alliance-of-sahel-states-aes-comprised-of-burkina-faso-mali-and-niger-announ/1326162999550577/)  
+   Link: <a href="https://www.facebook.com/eyegambia/posts/the-alliance-of-sahel-states-aes-comprised-of-burkina-faso-mali-and-niger-announ/1326162999550577/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyegambia/posts/the-alliance-of-sahel-states-aes-comprised-of-burkina-faso-mali-and-niger-announ/1326162999550577/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien defense of the confederal space has been placed on high alert.... Hmmmm, if Nigerian Government doesn&#x27;t act fast enough it will b...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/453294082861052/posts/1436793844511066/](https://www.facebook.com/groups/453294082861052/posts/1436793844511066/)  
+   Link: <a href="https://www.facebook.com/groups/453294082861052/posts/1436793844511066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/453294082861052/posts/1436793844511066/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>burkina faso airspaceI read reports claiming the aircraft was allegedly equipped with sophisticated French technology to scan or X-ray Bu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fpri.org  
    Title: burkina faso the worlds disinformation lab is an international security disaster  
-   Link: [https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/](https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/)  
+   Link: <a href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Burkina Faso: The World&#x27;s Disinformation Lab is an International Security Disaster. Raphael Parens; June 25, 2025; Eurasia Program.Read more...</p></details>
    Published: June 25, 2025  
 
 11. <a id="endnote-11"></a>
    Source: defensa.gob.es  
    Title: la obsesion rusa 2025 dieeea42 eng  
-   Link: [https://www.defensa.gob.es/documents/2073105/2595202/la_obsesion_rusa_2025_dieeea42_eng.pdf](https://www.defensa.gob.es/documents/2073105/2595202/la_obsesion_rusa_2025_dieeea42_eng.pdf)  
+   Link: <a href="https://www.defensa.gob.es/documents/2073105/2595202/la_obsesion_rusa_2025_dieeea42_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defensa.gob.es/documents/2073105/2595202/la_obsesion_rusa_2025_dieeea42_eng.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministerio de Defensa de EspañaDisinformation and Propaganda in the Sahel4 Jun 2025 — Abstract: This document analyzes Russia&#x27;s growing i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: disinfo.africa  
    Title: coup claims and disinfo fuel west african tensions 5efc62224252  
-   Link: [https://disinfo.africa/coup-claims-and-disinfo-fuel-west-african-tensions-5efc62224252](https://disinfo.africa/coup-claims-and-disinfo-fuel-west-african-tensions-5efc62224252)  
+   Link: <a href="https://disinfo.africa/coup-claims-and-disinfo-fuel-west-african-tensions-5efc62224252" target="_blank" rel="noopener noreferrer nofollow">https://disinfo.africa/coup-claims-and-disinfo-fuel-west-african-tensions-5efc62224252</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>African Digital Democracy ObservatoryFalse coup claims fuel West African tensions | by ADDO26 May 2025 — Claims of US-backed coups, deepf...</p></details>
    Published: May 2025  
 
 13. <a id="endnote-13"></a>
    Source: vanguardngr.com  
-   Link: [https://www.vanguardngr.com/2025/12/fg-debunks-espionage-claims-over-naf-c-130-aircraft-in-burkina-faso/](https://www.vanguardngr.com/2025/12/fg-debunks-espionage-claims-over-naf-c-130-aircraft-in-burkina-faso/)  
+   Link: <a href="https://www.vanguardngr.com/2025/12/fg-debunks-espionage-claims-over-naf-c-130-aircraft-in-burkina-faso/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2025/12/fg-debunks-espionage-claims-over-naf-c-130-aircraft-in-burkina-faso/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanguard NewsFG debunks espionage claims over NAF C-130 Aircraft in...December 15, 2025 — 15 Dec 2025 — FG debunks espionage claims over...</p></details>
    Published: December 15, 2025  
 
 14. <a id="endnote-14"></a>
    Source: aa.com.tr  
-   Link: [https://www.aa.com.tr/en/africa/nigerian-aircraft-landed-in-burkina-faso-due-to-technical-issues-crew-cordially-welcomed-air-force-spokesperson/3766053](https://www.aa.com.tr/en/africa/nigerian-aircraft-landed-in-burkina-faso-due-to-technical-issues-crew-cordially-welcomed-air-force-spokesperson/3766053)  
+   Link: <a href="https://www.aa.com.tr/en/africa/nigerian-aircraft-landed-in-burkina-faso-due-to-technical-issues-crew-cordially-welcomed-air-force-spokesperson/3766053" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/africa/nigerian-aircraft-landed-in-burkina-faso-due-to-technical-issues-crew-cordially-welcomed-air-force-spokesperson/3766053</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıNigerian aircraft landed in Burkina Faso due to technical...9 Dec 2025 — Sahel states previously condemned &#x27;unfriendly act...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: disinfo.africa  
-   Link: [https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714](https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714)  
+   Link: <a href="https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714" target="_blank" rel="noopener noreferrer nofollow">https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>African Digital Democracy ObservatoryDeepfakes and propaganda used to glorify Burkina Faso&#x27;s...September 11, 2025 — 26 Aug 2025 — Deepfa...</p></details>
    Published: September 11, 2025  
 
@@ -905,57 +859,57 @@ For readers exploring the wider Burkina Faso UFO topic, the most evidence-based 
 16. <a id="endnote-16"></a>
    Source: amnestyusa.org  
    Title: The State of the Worlds Human Rights April 2026  
-   Link: [https://www.amnestyusa.org/wp-content/uploads/2026/04/The-State-of-the-Worlds-Human-Rights-April-2026.pdf](https://www.amnestyusa.org/wp-content/uploads/2026/04/The-State-of-the-Worlds-Human-Rights-April-2026.pdf)  
+   Link: <a href="https://www.amnestyusa.org/wp-content/uploads/2026/04/The-State-of-the-Worlds-Human-Rights-April-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnestyusa.org/wp-content/uploads/2026/04/The-State-of-the-Worlds-Human-Rights-April-2026.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The State of the World&#x27;s Human Rights3 Apr 2026 —... Burkina Faso 112. Burundi 115. Cambodia 117. Cameroon 120. Canada... Alien Law Lit...</p></details>
    Published: April 2026  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gssc6c/for_the_skepticsgeneral_discussion_why_would_all/](https://www.reddit.com/r/UFOs/comments/1gssc6c/for_the_skepticsgeneral_discussion_why_would_all/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gssc6c/for_the_skepticsgeneral_discussion_why_would_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gssc6c/for_the_skepticsgeneral_discussion_why_would_all/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Any truth to this? Six people connected to the same U.S....Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: newsweek.com  
    Title: ufo video congress drone strike uap 2127452  
-   Link: [https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452](https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452)  
+   Link: <a href="https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Video Shows US Trying to Shoot Down UFO10 Sept 2025 — Declassified Video Shows US Trying to Shoot Down UFO. Published. Sep 1...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/12l1l7c/thats_not_some_kind_of_balloon_or_drone_or_an/](https://www.reddit.com/r/HighStrangeness/comments/12l1l7c/thats_not_some_kind_of_balloon_or_drone_or_an/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/12l1l7c/thats_not_some_kind_of_balloon_or_drone_or_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12l1l7c/thats_not_some_kind_of_balloon_or_drone_or_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;That&#x27;s Not Some Kind of Balloon, or Drone, or an Object...r/aliens - Best UFO Footage of All Time Goes Viral and Raises Hypotheses...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theweek.com  
    Title: [burkina fasos](&#123;&#123; 'burkina-faso/' | relative_url &#125;&#125;) misinformation war  
-   Link: [https://theweek.com/politics/burkina-fasos-misinformation-war](https://theweek.com/politics/burkina-fasos-misinformation-war)  
+   Link: <a href="https://theweek.com/politics/burkina-fasos-misinformation-war" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/politics/burkina-fasos-misinformation-war</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Burkina Faso&#x27;s misinformation war8 Sept 2025 — Since March 2024, Russia conducted at least 19 &quot;distinct disinformation campaigns&quot; across...</p></details>
    Published: March 2024  
 
 21. <a id="endnote-21"></a>
    Source: adf-magazine.com  
    Title: russias influence machine  
-   Link: [https://adf-magazine.com/2024/10/russias-influence-machine/](https://adf-magazine.com/2024/10/russias-influence-machine/)  
+   Link: <a href="https://adf-magazine.com/2024/10/russias-influence-machine/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2024/10/russias-influence-machine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia&#x27;s Influence Machine21 Oct 2024 — Russia&#x27;s influence machine across the Sahel, disinformation operations prop up repressive regimes...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: allafrica.com  
-   Link: [https://allafrica.com/stories/202512160132.html](https://allafrica.com/stories/202512160132.html)  
+   Link: <a href="https://allafrica.com/stories/202512160132.html" target="_blank" rel="noopener noreferrer nofollow">https://allafrica.com/stories/202512160132.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria: NAF Debunks Detained Military Aircraft Engaged...16 Dec 2025 — The Nigerian Air Force, NAF, has debunked as false claims and in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://arxiv.org/abs/2502.06794](https://arxiv.org/abs/2502.06794)  
+   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
 24. <a id="endnote-24"></a>
    Source: lowyinstitute.org  
    Title: how burkina faso s strongman became indo pacific s unlikely hero other tales  
-   Link: [https://www.lowyinstitute.org/the-interpreter/how-burkina-faso-s-strongman-became-indo-pacific-s-unlikely-hero-other-tales](https://www.lowyinstitute.org/the-interpreter/how-burkina-faso-s-strongman-became-indo-pacific-s-unlikely-hero-other-tales)  
+   Link: <a href="https://www.lowyinstitute.org/the-interpreter/how-burkina-faso-s-strongman-became-indo-pacific-s-unlikely-hero-other-tales" target="_blank" rel="noopener noreferrer nofollow">https://www.lowyinstitute.org/the-interpreter/how-burkina-faso-s-strongman-became-indo-pacific-s-unlikely-hero-other-tales</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa is...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Why UFO videos are often misidentified  
-   Link: [https://www.youtube.com/watch?v=yP5P06qJp3g](https://www.youtube.com/watch?v=yP5P06qJp3g)  
+   Link: <a href="https://www.youtube.com/watch?v=yP5P06qJp3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yP5P06qJp3g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing aerial phenomena: How to spot common camera illusions...</p></details>

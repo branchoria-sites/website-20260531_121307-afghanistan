@@ -239,7 +239,7 @@ prev_link:
   permalink: /local-reports/
   short_title: Local Reports
   heading_title: How Iceland Told Its Own UFO Stories
-date: '2026-06-09 01:29:39 '
+date: '2026-06-10 01:55:00 '
 header:
   og_image: /assets/images/Iceland_b3c92e_natural_sky_explanat_3c52a7-Illustration-1-social.jpg
   preview_image: /assets/images/Iceland_b3c92e_natural_sky_explanat_3c52a7-Illustration-1.webp
@@ -248,17 +248,17 @@ image: /assets/images/Iceland_b3c92e_natural_sky_explanat_3c52a7-Illustration-1-
 
 ## Introduction
 
-[Iceland]({{ 'does-iceland-have-a-real-ufo-record/' | relative_url }})’s skies are unusually dramatic even before any UFO claim enters the picture. The country sits under the auroral zone, experiences long winter darkness, and has wide-open coastal and highland views with very little light pollution. Meteors, ice halos, volcanic haze, bright planets, aircraft reflections and rapidly changing weather can all appear startling against that backdrop. In practice, many Icelandic UFO reports begin with a real event in the sky rather than a fabricated story. The difficult question is whether the witness saw something genuinely unexplained or misinterpreted a natural phenomenon.
+Iceland’s skies are unusually dramatic even before any UFO claim enters the picture. The country sits under the auroral zone, experiences long winter darkness, and has wide-open coastal and highland views with very little light pollution. Meteors, ice halos, volcanic haze, bright planets, aircraft reflections and rapidly changing weather can all appear startling against that backdrop. In practice, many Icelandic UFO reports begin with a real event in the sky rather than a fabricated story. The difficult question is whether the witness saw something genuinely unexplained or misinterpreted a natural phenomenon.
 
 
 <img src="{{ "/assets/images/Iceland_b3c92e_natural_sky_explanat_3c52a7-Illustration-1-dark.svg" | relative_url }}" alt="Sky Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e_natural_sky_explanat_3c52a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e_natural_sky_explanat_3c52a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because Iceland’s UFO history contains both categories. Some cases remain unresolved due to incomplete evidence or unusual witness testimony. Others fit known atmospheric or astronomical causes remarkably well once conditions are reconstructed. In Iceland especially, aurora displays and fireball meteors are among the strongest natural explanations for sightings that initially sound extraordinary. Halo <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/weather/articles/nr/2549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[Icelandic Meteorological office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-snippet">Icelandic Meteorological officeAurora and the Earth&#x27;s magnetic field | Articles12 Oct 2012 — The aurora is caused by variations in the ma...</span></span></span>
+That distinction matters because Iceland’s UFO history contains both categories. Some cases remain unresolved due to incomplete evidence or unusual witness testimony. Others fit known atmospheric or astronomical causes remarkably well once conditions are reconstructed. In Iceland especially, aurora displays and fireball meteors are among the strongest natural explanations for sightings that initially sound extraordinary. Halo <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/weather/articles/nr/2549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[Icelandic Meteorological office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-snippet">Icelandic Meteorological officeAurora and the Earth&#x27;s magnetic field &#124; Articles12 Oct 2012 — The aurora is caused by variations in the ma...</span></span></span>
 
 ## Aurora and changing sky conditions
 
 The northern lights are one of the most obvious reasons Iceland produces vivid aerial reports. Aurora displays can appear as glowing curtains, silent moving arcs, pulsating patches or sudden flashes across large sections of sky. To someone unfamiliar with them, especially during strong geomagnetic activity, they can look artificial or intelligent.
 
-The Icelandic Meteorological Office explains that aurora activity is caused by charged solar particles interacting with Earth’s magnetosphere. Activity is measured with the Kp index, which tracks magnetic disturbance on a scale from 0 to 9. During stronger events, the auroral oval expands southward and intensifies over Iceland. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/weather/articles/nr/2549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[Icelandic Meteorological office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-snippet">Icelandic Meteorological officeAurora and the Earth&#x27;s magnetic field | Articles12 Oct 2012 — The aurora is caused by variations in the ma...</span></span></span>
+The Icelandic Meteorological Office explains that aurora activity is caused by charged solar particles interacting with Earth’s magnetosphere. Activity is measured with the Kp index, which tracks magnetic disturbance on a scale from 0 to 9. During stronger events, the auroral oval expands southward and intensifies over Iceland. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/weather/articles/nr/2549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[Icelandic Meteorological office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-snippet">Icelandic Meteorological officeAurora and the Earth&#x27;s magnetic field &#124; Articles12 Oct 2012 — The aurora is caused by variations in the ma...</span></span></span>
 
 That scientific description sounds orderly, but real-world viewing conditions are often chaotic. Aurora can:
 
@@ -300,7 +300,7 @@ If aurora explains slowly changing lights, meteors explain many of the sudden, d
 
 Iceland experiences frequent visible meteors because of its dark skies and relatively low light pollution. Large meteors, often called fireballs, can be spectacularly bright. Some leave glowing trails, fragment into multiple pieces or illuminate entire landscapes for several seconds.
 
-One of the best documented Icelandic examples occurred on 1 August 1976. A technical review of the event notes that a spectacular fireball crossed Iceland under unusually clear skies and was widely observed across the country. Because many people were travelling during the holiday period, reports arrived from multiple regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halo.internet.is">[Halo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halo.internet.is</span><span class="citation-popover-snippet">HaloFireballs over Iceland er IcelandMay 23, 2012 — Late in the evening of 1976 August 1, a spectacular fireball appeared over Iceland...</span><span class="citation-popover-meta">Published: May 23, 2012</span></span></span>
+One of the best documented Icelandic examples occurred on 1 August 1976. A technical review of the event notes that a spectacular fireball crossed Iceland under unusually clear skies and was widely observed across the country. Because many people were travelling during the holiday period, reports arrived from multiple regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halo.internet.is">[Halo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halo.internet.is</span><span class="citation-popover-snippet">Fireballs over Iceland er IcelandMay 23, 2012 — Late in the evening of 1976 August 1, a spectacular fireball appeared over Iceland...</span><span class="citation-popover-meta">Published: May 23, 2012</span></span></span>
 
 The descriptions associated with such events often resemble classic UFO narratives:
 
@@ -326,7 +326,7 @@ Human observers consistently underestimate the altitude of meteors. A bright fir
 
 In Iceland, where mountains and coastlines interrupt the horizon, perspective errors become even stronger. A meteor crossing behind a ridge may appear to descend toward the ground. Reflection from snow, water or cloud layers can amplify brightness and create the illusion of hovering or manoeuvring.
 
-The 1976 Icelandic fireball became memorable precisely because it was so visually overwhelming. Witnesses across large areas saw the same event from different angles, producing descriptions that initially sounded inconsistent until researchers reconstructed the trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halo.internet.is">[Halo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halo.internet.is</span><span class="citation-popover-snippet">HaloFireballs over Iceland er IcelandMay 23, 2012 — Late in the evening of 1976 August 1, a spectacular fireball appeared over Iceland...</span><span class="citation-popover-meta">Published: May 23, 2012</span></span></span>
+The 1976 Icelandic fireball became memorable precisely because it was so visually overwhelming. Witnesses across large areas saw the same event from different angles, producing descriptions that initially sounded inconsistent until researchers reconstructed the trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halo.internet.is">[Halo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halo.internet.is</span><span class="citation-popover-snippet">Fireballs over Iceland er IcelandMay 23, 2012 — Late in the evening of 1976 August 1, a spectacular fireball appeared over Iceland...</span><span class="citation-popover-meta">Published: May 23, 2012</span></span></span>
 
 Modern examples continue to show the same pattern. Bright meteors observed during aurora displays over Iceland in recent years generated waves of online speculation before being identified as fireballs entering the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=GHHitRCagcE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Fireball Above IcelandOn 2023 September 13, near the northern most point of Iceland, the night sky exploded with the northern ligh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://guidetoiceland.is/connect-with-locals/nanna/fireball-meteor-and-northern-lights-over-iceland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guidetoiceland.is">[Guide to Iceland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guidetoiceland.is</span><span class="citation-popover-title">fireball meteor and northern lights over iceland</span><span class="citation-popover-snippet">Right at the same time as the Northern Lights were dancing across the sky.Read more...</span></span></span>
 
@@ -351,7 +351,7 @@ Several environmental conditions reinforce one another:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * prolonged winter darkness;
-* rapidly changing cloud cover; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/about-imo/news/nr/2590" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[en.vedur.is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-title">Icelandic Meteorological office Aurora forecasts | News</span><span class="citation-popover-snippet">Icelandic Meteorological officeAurora forecasts | News - Icelandic Meteorological office - Vedur11 Dec 2012 — IMO now provides combined i...</span></span></span>
+* rapidly changing cloud cover; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/about-imo/news/nr/2590" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[en.vedur.is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-title">Icelandic Meteorological office Aurora forecasts &#124; News</span><span class="citation-popover-snippet">Icelandic Meteorological officeAurora forecasts &#124; News - Icelandic Meteorological office - Vedur11 Dec 2012 — IMO now provides combined i...</span></span></span>
 * low-angle moonlight;
 * snow reflection;
 * sparse population and lighting;
@@ -363,7 +363,7 @@ Several environmental conditions reinforce one another:
 
 Many people reporting strange lights are observing conditions unfamiliar to them. Tourists who have never seen aurora, Arctic twilight or major meteor showers may interpret normal phenomena as extraordinary.
 
-Even experienced observers can make errors under these conditions. Project Blue Book investigations repeatedly concluded that many UFO reports worldwide were linked to natural phenomena, astronomical objects or atmospheric conditions rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; FactsSeptember 26, 2024 — 16 May 2026 — The majority of s...</span><span class="citation-popover-meta">Published: September 26, 2024</span></span></span> [2U.S. Air Force]
+Even experienced observers can make errors under these conditions. Project Blue Book investigations repeatedly concluded that many UFO reports worldwide were linked to natural phenomena, astronomical objects or atmospheric conditions rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book &#124; Definition, History, Aliens, UFOs, &amp; FactsSeptember 26, 2024 — 16 May 2026 — The majority of s...</span><span class="citation-popover-meta">Published: September 26, 2024</span></span></span> [2U.S. Air Force]
 
 That broader conclusion fits Iceland particularly well because the country naturally produces visually extreme sky events.
 
@@ -396,86 +396,44 @@ Aurora displays can transform entire horizons within minutes. Fireballs can turn
 Understanding those mechanisms does not make Iceland’s sky less mysterious. If anything, it explains why the country continues to generate compelling UFO stories even when no extraterrestrial explanation is required.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Iceland&#x27;s Weird Lights Are Not UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Iceland&#x27;s Weird Lights Are Not UFOs, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Addresses how unexplained sightings are separated from natural phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers understand astronomical objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Provides context for planets, meteors, and sky objects commonly misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explores critical thinking and extraordinary-claim evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,75 +467,71 @@ Understanding those mechanisms does not make Iceland’s sky less mysterious. If
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-explanations-fc2dd2-when-iceland-s-weird-lights-are-not-ufos-iceland-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -792,139 +746,139 @@ Understanding those mechanisms does not make Iceland’s sky less mysterious. If
 1. <a id="endnote-1"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GHHitRCagcE](https://www.youtube.com/watch?v=GHHitRCagcE)  
+   Link: <a href="https://www.youtube.com/watch?v=GHHitRCagcE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GHHitRCagcE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Above IcelandOn 2023 September 13, near the northern most point of Iceland, the night sky exploded with the northern ligh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zPf1kT6pSlU](https://www.youtube.com/watch?v=zPf1kT6pSlU)  
+   Link: <a href="https://www.youtube.com/watch?v=zPf1kT6pSlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zPf1kT6pSlU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 September 16 - Fireball over IcelandIn today&#x27;s image, we see a fireball visible in the sky over Iceland, near the Arctic Circle. A f...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; FactsSeptember 26, 2024 — 16 May 2026 — The majority of s...</p></details>
    Published: September 26, 2024  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Written in the Sky: Aurora Borealis Explained  
-   Link: [https://www.youtube.com/watch?v=4PXu2SnG4pk](https://www.youtube.com/watch?v=4PXu2SnG4pk)  
+   Link: <a href="https://www.youtube.com/watch?v=4PXu2SnG4pk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4PXu2SnG4pk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Northern Lights? | Aurora Borealis Explained...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: What are the Northern Lights? | Aurora Borealis Explained  
-   Link: [https://www.youtube.com/watch?v=HmZ9TmfqI_Y](https://www.youtube.com/watch?v=HmZ9TmfqI_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=HmZ9TmfqI_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HmZ9TmfqI_Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science behind the formation of auroras...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Science behind the formation of auroras  
-   Link: [https://www.youtube.com/watch?v=OZ5idaNCIgA](https://www.youtube.com/watch?v=OZ5idaNCIgA)  
+   Link: <a href="https://www.youtube.com/watch?v=OZ5idaNCIgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OZ5idaNCIgA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New technology is uncovering more about the northern lights...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: New technology is uncovering more about the northern lights  
-   Link: [https://www.youtube.com/watch?v=zY0DVqXY9Fg](https://www.youtube.com/watch?v=zY0DVqXY9Fg)  
+   Link: <a href="https://www.youtube.com/watch?v=zY0DVqXY9Fg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zY0DVqXY9Fg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Meteoroids, Meteorites, Fireballs  
-   Link: [https://www.youtube.com/watch?v=B75xmeeKH0c](https://www.youtube.com/watch?v=B75xmeeKH0c)  
+   Link: <a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B75xmeeKH0c</a>  
 
 10. <a id="endnote-10"></a>
    Source: en.vedur.is  
-   Link: [https://en.vedur.is/weather/articles/nr/2549](https://en.vedur.is/weather/articles/nr/2549)  
+   Link: <a href="https://en.vedur.is/weather/articles/nr/2549" target="_blank" rel="noopener noreferrer nofollow">https://en.vedur.is/weather/articles/nr/2549</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Icelandic Meteorological officeAurora and the Earth&#x27;s magnetic field | Articles12 Oct 2012 — The aurora is caused by variations in the ma...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.vedur.is  
    Title: Icelandic Meteorological office Aurora forecasts | News  
-   Link: [https://en.vedur.is/about-imo/news/nr/2590](https://en.vedur.is/about-imo/news/nr/2590)  
+   Link: <a href="https://en.vedur.is/about-imo/news/nr/2590" target="_blank" rel="noopener noreferrer nofollow">https://en.vedur.is/about-imo/news/nr/2590</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Icelandic Meteorological officeAurora forecasts | News - Icelandic Meteorological office - Vedur11 Dec 2012 — IMO now provides combined i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: newquayweather.com  
-   Link: [https://www.newquayweather.com/wxicelandvolcano.php](https://www.newquayweather.com/wxicelandvolcano.php)  
+   Link: <a href="https://www.newquayweather.com/wxicelandvolcano.php" target="_blank" rel="noopener noreferrer nofollow">https://www.newquayweather.com/wxicelandvolcano.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newquay WeatherIceland volcano&#x27;sThe Icelandic Meteorological Office forecasts gas pollution in South and West Iceland over the coming day...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: guidetoiceland.is  
    Title: fireball meteor and northern lights over iceland  
-   Link: [https://guidetoiceland.is/connect-with-locals/nanna/fireball-meteor-and-northern-lights-over-iceland](https://guidetoiceland.is/connect-with-locals/nanna/fireball-meteor-and-northern-lights-over-iceland)  
+   Link: <a href="https://guidetoiceland.is/connect-with-locals/nanna/fireball-meteor-and-northern-lights-over-iceland" target="_blank" rel="noopener noreferrer nofollow">https://guidetoiceland.is/connect-with-locals/nanna/fireball-meteor-and-northern-lights-over-iceland</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Right at the same time as the Northern Lights were dancing across the sky.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/](https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/)  
+   Link: <a href="https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/videos/northern-lights-chances-tonight/963032278448273/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>here&#x27;s still a good chance of aurora sightings, especially across the northern half of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: almanak.hi.is  
-   Link: [https://www.almanak.hi.is/fireballs.html](https://www.almanak.hi.is/fireballs.html)  
+   Link: <a href="https://www.almanak.hi.is/fireballs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.almanak.hi.is/fireballs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledSeen from Mánárbakki (in NE-Iceland) to Papey (E-Icel.) White, slightly greenish or bluish, Passed from SE to NE. Disappeared 100...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/space-weather/auroras](https://weather.metoffice.gov.uk/learn-about/space-weather/auroras)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/space-weather/auroras" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/space-weather/auroras</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.ukAurorasPre-check 1. Check the Met Office Space Weather forecast that will tell you where and when you are likely to obser...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: emeteornews.net  
-   Link: [https://www.emeteornews.net/2024/04/20/news-from-the-meteor-library-fireball-of-november-24-1970-as-the-most-probable-source-of-the-ischgl-meteorite/](https://www.emeteornews.net/2024/04/20/news-from-the-meteor-library-fireball-of-november-24-1970-as-the-most-probable-source-of-the-ischgl-meteorite/)  
+   Link: <a href="https://www.emeteornews.net/2024/04/20/news-from-the-meteor-library-fireball-of-november-24-1970-as-the-most-probable-source-of-the-ischgl-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2024/04/20/news-from-the-meteor-library-fireball-of-november-24-1970-as-the-most-probable-source-of-the-ischgl-meteorite/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News from the Meteor Library: Fireball of November 24...20 Apr 2024 — The discovery of the Ischgl meteorite unfolded in a captivating ma...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencefocus.com  
    Title: the ufos that scientists think are real but cant explain  
-   Link: [https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain](https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain)  
+   Link: <a href="https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs that scientists think are real, but can&#x27;t explain27 Jun 2025 — The final report stated: “It&#x27;s increasingly clear that the majori...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/CxImMEkLfpp/](https://www.instagram.com/reel/CxImMEkLfpp/)  
+   Link: <a href="https://www.instagram.com/reel/CxImMEkLfpp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxImMEkLfpp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d at an altitude of 60-90 km above us, becoming as bright as the full moon for a moment...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: halo.internet.is  
-   Link: [https://halo.internet.is/fireballs.pdf](https://halo.internet.is/fireballs.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HaloFireballs over Iceland er IcelandMay 23, 2012 — Late in the evening of 1976 August 1, a spectacular fireball appeared over Iceland...</p></details>
+   Link: <a href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://halo.internet.is/fireballs.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs over Iceland er IcelandMay 23, 2012 — Late in the evening of 1976 August 1, a spectacular fireball appeared over Iceland...</p></details>
    Published: May 23, 2012  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/492548942452002/posts/1508531960853690/](https://www.facebook.com/groups/492548942452002/posts/1508531960853690/)  
+   Link: <a href="https://www.facebook.com/groups/492548942452002/posts/1508531960853690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/492548942452002/posts/1508531960853690/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A better explanation of NLCs can be found at the Met Office&#x27;s website...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: blog.fold3.com  
-   Link: [https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/](https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/)  
+   Link: <a href="https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1963: UFO Reports in Project Blue Book1 Aug 2013 — In August 1963, there were forty-four investigations into UFO sightings...</p></details>
    Published: August 1963  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UTV/posts/fireball-travelling-through-evening-sky-in-co-down-confirmed-as-meteor/790142459808688/](https://www.facebook.com/UTV/posts/fireball-travelling-through-evening-sky-in-co-down-confirmed-as-meteor/790142459808688/)  
+   Link: <a href="https://www.facebook.com/UTV/posts/fireball-travelling-through-evening-sky-in-co-down-confirmed-as-meteor/790142459808688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UTV/posts/fireball-travelling-through-evening-sky-in-co-down-confirmed-as-meteor/790142459808688/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>om cameras, among other things, and Islanders noticed a...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.govUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The program is conducted in three phases. The first phase include...</p></details>

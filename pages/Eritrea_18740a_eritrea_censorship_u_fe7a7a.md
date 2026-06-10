@@ -245,7 +245,7 @@ next_link:
   permalink: /ordinary-explanations/
   short_title: Ordinary Explanations
   heading_title: Natural and Human Causes Behind Eritrean UFO Sightings
-date: '2026-06-09 01:29:09 '
+date: '2026-06-10 01:54:28 '
 header:
   og_image: /assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-1-social.jpg
   preview_image: /assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-1-
 
 ## Introduction
 
-[Eritrea]({{ 'what-ufos-have-been-reported-in/' | relative_url }})’s UFO record is unusually sparse not simply because fewer unexplained aerial events occur there, but because the country’s information system makes reliable public reporting extremely difficult. Since the Eritrean government shut down all independent media in 2001, nearly every pathway that normally turns a strange sighting into a documented public case has been weakened or eliminated: local journalism, independent investigators, open internet discussion, archival reporting, and external verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersEritrea | RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://freedomhouse.org/country/eritrea/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freedomhouse.org">[Freedom House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freedomhouse.org</span><span class="citation-popover-title">freedom world</span><span class="citation-popover-snippet">However, members of the diaspora are also subject to government surveillance and harassment.Read more...</span></span></span>
+Eritrea’s UFO record is unusually sparse not simply because fewer unexplained aerial events occur there, but because the country’s information system makes reliable public reporting extremely difficult. Since the Eritrean government shut down all independent media in 2001, nearly every pathway that normally turns a strange sighting into a documented public case has been weakened or eliminated: local journalism, independent investigators, open internet discussion, archival reporting, and external verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersEritrea &#124; RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://freedomhouse.org/country/eritrea/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freedomhouse.org">[Freedom House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freedomhouse.org</span><span class="citation-popover-title">freedom world</span><span class="citation-popover-snippet">However, members of the diaspora are also subject to government surveillance and harassment.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-1-dark.svg" | relative_url }}" alt="Information Environment illustration 1" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,7 +262,7 @@ That matters for understanding Eritrea within the wider UFO and UAP research lan
 
 ## How Eritrea’s Media System Restricts UFO Documentation
 
-The central fact shaping Eritrea’s UFO reporting environment is the near-total absence of independent domestic journalism. Multiple press freedom organisations describe Eritrea as one of the world’s most tightly controlled media environments. Reporters Without Borders states that independent journalism is effectively banned and that all domestic media are controlled by the Ministry of Information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersEritrea | RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</span></span></span> The Committee to Protect Journalists and Human Rights Watch similarly trace the collapse of independent reporting to the September 2001 crackdown that closed private newspapers and imprisoned journalists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpj.org">[Committee to Protect Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpj.org</span><span class="citation-popover-snippet">Committee to Protect Journalists10 Most Censored CountriesSep 10, 2019 — How censorship works: The government shut down all independent m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpj.org">[Committee to Protect Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpj.org</span><span class="citation-popover-snippet">Committee to Protect Journalists10 Most Censored CountriesSep 10, 2019 — How censorship works: The government shut down all independent m...</span></span></span>
+The central fact shaping Eritrea’s UFO reporting environment is the near-total absence of independent domestic journalism. Multiple press freedom organisations describe Eritrea as one of the world’s most tightly controlled media environments. Reporters Without Borders states that independent journalism is effectively banned and that all domestic media are controlled by the Ministry of Information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersEritrea &#124; RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</span></span></span> The Committee to Protect Journalists and Human Rights Watch similarly trace the collapse of independent reporting to the September 2001 crackdown that closed private newspapers and imprisoned journalists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpj.org">[Committee to Protect Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpj.org</span><span class="citation-popover-snippet">Committee to Protect Journalists10 Most Censored CountriesSep 10, 2019 — How censorship works: The government shut down all independent m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpj.org">[Committee to Protect Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpj.org</span><span class="citation-popover-snippet">Committee to Protect Journalists10 Most Censored CountriesSep 10, 2019 — How censorship works: The government shut down all independent m...</span></span></span>
 
 For UFO reporting, this creates several specific problems.
 
@@ -278,7 +278,7 @@ This means an unusual light, explosion, aircraft, or atmospheric phenomenon may 
 
 Countries with significant UFO histories often accumulated records unintentionally through ordinary bureaucracy: local newspapers, radio stations, aviation bulletins, military logs, and public archives. Eritrea lacks much of this open institutional record.
 
-RSF notes that Eritrea’s remaining legal media outlets operate under direct state supervision and primarily relay official messaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersEritrea | RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</span></span></span> There is little evidence of investigative reporting into unexplained events, civilian aviation anomalies, or disputed witness accounts.
+RSF notes that Eritrea’s remaining legal media outlets operate under direct state supervision and primarily relay official messaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Reporters Without BordersEritrea &#124; RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</span></span></span> There is little evidence of investigative reporting into unexplained events, civilian aviation anomalies, or disputed witness accounts.
 
 As a result, Eritrea has almost no publicly accessible equivalent to the UFO archives seen in the United States, United Kingdom, France, or Brazil, where decades of government and media documentation later became available to researchers.
 
@@ -338,7 +338,7 @@ In more open societies, later researchers could often consult archived newspaper
 <img src="{{ "/assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-2-dark.svg" | relative_url }}" alt="Information Environment illustration 2" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_eritrea_censorship_u_fe7a7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social media amplification without verification
 
-The same pattern appears in later Eritrea-linked UFO claims circulated online, including the 2015 Bisha mine story that spread mainly through Facebook reposts and paranormal-sharing pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/photo.php?fbid=353794511479816&amp;id=100064651746858&amp;set=a.643281327836920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookA disc-shaped Unidentified Flying Object (UFO) has been...THE TALK OF BISHA 01/04/2015, Asmara - A disc-shaped Unidentified Flyi...</span></span></span>
+The same pattern appears in later Eritrea-linked UFO claims circulated online, including the 2015 Bisha mine story that spread mainly through Facebook reposts and paranormal-sharing pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/photo.php?fbid=353794511479816&amp;id=100064651746858&amp;set=a.643281327836920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A disc-shaped Unidentified Flying Object (UFO) has been...THE TALK OF BISHA 01/04/2015, Asmara - A disc-shaped Unidentified Flyi...</span></span></span>
 
 The problem is not merely that the evidence is weak. Weak evidence exists in every country’s UFO culture. The deeper issue is that Eritrea’s media environment prevents the normal corrective process from operating. There are few independent reporters on the ground, almost no open investigative follow-up, and little accessible local commentary separating misidentifications from genuinely unresolved events.
 
@@ -414,86 +414,44 @@ In highly open societies, UFO culture generates enormous quantities of material,
 This makes Eritrea less useful for proving or disproving UFO phenomena directly, but highly important as a case study in evidential absence. The country demonstrates that political censorship, fear, poor connectivity, and restricted journalism can erase or distort the public trace of unusual events long before investigators ever attempt to analyse them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Eritrea&#x27;s Media Control Shapes UFO Records. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Eritrea&#x27;s Media Control Shapes UFO Records, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Shows how public narratives emerge when evidence is scarce.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Manufacturing Consent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kv_-bvCqgrEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Manufacturing Consent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
-        </h4>
-        <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
-        
-        <p class="fr-book-desc">Provides context for understanding information control and reporting limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Examines how communities interpret mysterious claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
-        
-        <p class="fr-book-desc">Explains how documentation and verification depend on media systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Manufacturing+Consent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Manufacturing Consent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -527,75 +485,71 @@ This makes Eritrea less useful for proving or disproving UFO phenomena directly,
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=information-environment-how-eritrea-s-media-control-shapes-ufo-records-eritrea-ufo-poster-book-books-series-television-g&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -809,221 +763,221 @@ This makes Eritrea less useful for proving or disproving UFO phenomena directly,
 
 1. <a id="endnote-1"></a>
    Source: rsf.org  
-   Link: [https://rsf.org/en/country/eritrea](https://rsf.org/en/country/eritrea)  
+   Link: <a href="https://rsf.org/en/country/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/eritrea</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersEritrea | RSFFreedom of the press is guaranteed by the constitution but has never been enforced. Independent jou...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rsf.org  
    Title: analyse regionale  
-   Link: [https://rsf.org/en/analyse_regionale/612](https://rsf.org/en/analyse_regionale/612)  
+   Link: <a href="https://rsf.org/en/analyse_regionale/612" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/analyse_regionale/612</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersErythrée 2022 - EN | RSFAll independent media have been banned since the transition to a dictatorship in Septemb...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rsf.org  
    Title: eritrea 1  
-   Link: [https://rsf.org/en/eritrea-1](https://rsf.org/en/eritrea-1)  
+   Link: <a href="https://rsf.org/en/eritrea-1" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/eritrea-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersEritreaMar 12, 2010 — Its independent press was wiped off the map in 2001. The state-controlled media do little...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: win1040.org  
    Title: eritreas ongoing internet blackout  
-   Link: [https://www.win1040.org/eritreas-ongoing-internet-blackout/](https://www.win1040.org/eritreas-ongoing-internet-blackout/)  
+   Link: <a href="https://www.win1040.org/eritreas-ongoing-internet-blackout/" target="_blank" rel="noopener noreferrer nofollow">https://www.win1040.org/eritreas-ongoing-internet-blackout/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eritrea&#x27;s Ongoing Internet Blackout12 Aug 2025 — In 2025, the government continues to block mobile internet access for its citizens. Peop...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/photo.php?fbid=353794511479816&id=100064651746858&set=a.643281327836920](https://www.facebook.com/photo.php?fbid=353794511479816&id=100064651746858&set=a.643281327836920)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookA disc-shaped Unidentified Flying Object (UFO) has been...THE TALK OF BISHA 01/04/2015, Asmara - A disc-shaped Unidentified Flyi...</p></details>
+   Link: <a href="https://www.facebook.com/photo.php?fbid=353794511479816&amp;id=100064651746858&amp;set=a.643281327836920" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=353794511479816&amp;id=100064651746858&amp;set=a.643281327836920</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A disc-shaped Unidentified Flying Object (UFO) has been...THE TALK OF BISHA 01/04/2015, Asmara - A disc-shaped Unidentified Flyi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Alien encounters by Eritreans, why are we afraid to speak out  
-   Link: [https://www.reddit.com/r/Eritrea/comments/17lyidh/alien_encounters_by_eritreans_why_are_we_afraid/](https://www.reddit.com/r/Eritrea/comments/17lyidh/alien_encounters_by_eritreans_why_are_we_afraid/)  
+   Link: <a href="https://www.reddit.com/r/Eritrea/comments/17lyidh/alien_encounters_by_eritreans_why_are_we_afraid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Eritrea/comments/17lyidh/alien_encounters_by_eritreans_why_are_we_afraid/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens. • 3y ago. are aliens scared to show themselves? 0. 16. Am I the only Eritrean who mourns...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1k8ak4m/did_you_know_that_most_sightings_discussed_in_the/](https://www.reddit.com/r/aliens/comments/1k8ak4m/did_you_know_that_most_sightings_discussed_in_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1k8ak4m/did_you_know_that_most_sightings_discussed_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1k8ak4m/did_you_know_that_most_sightings_discussed_in_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>articularly in our Arab countries...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: 8000th day the silence of the eritrean authorities on the fate of the journalis  
-   Link: [https://www.facebook.com/Reporterssansfrontieres/posts/-8000th-day-the-silence-of-the-eritrean-authorities-on-the-fate-of-the-journalis/687350310103529/](https://www.facebook.com/Reporterssansfrontieres/posts/-8000th-day-the-silence-of-the-eritrean-authorities-on-the-fate-of-the-journalis/687350310103529/)  
+   Link: <a href="https://www.facebook.com/Reporterssansfrontieres/posts/-8000th-day-the-silence-of-the-eritrean-authorities-on-the-fate-of-the-journalis/687350310103529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reporterssansfrontieres/posts/-8000th-day-the-silence-of-the-eritrean-authorities-on-the-fate-of-the-journalis/687350310103529/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The silence of the Eritrean authorities on the fate of the...August 18, 2023 — 2001 he closed all independent media and arrested many jo...</p></details>
    Published: August 18, 2023  
 
 9. <a id="endnote-9"></a>
    Source: rsf.org  
    Title: The survivors, Dawit Isaak, Seyoum Tsehaye  
-   Link: [https://rsf.org/en/eritrea-ended-media-freedom-15-years-ago-month](https://rsf.org/en/eritrea-ended-media-freedom-15-years-ago-month)  
+   Link: <a href="https://rsf.org/en/eritrea-ended-media-freedom-15-years-ago-month" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/eritrea-ended-media-freedom-15-years-ago-month</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eritrea ended media freedom 15 years ago this month - RSFSeptember 22, 2016 — Of the 11 journalists arrested in September 2001, seven are...</p></details>
    Published: September 22, 2016  
 
 10. <a id="endnote-10"></a>
    Source: rsf.org  
-   Link: [https://rsf.org/en/country/ethiopia](https://rsf.org/en/country/ethiopia)  
+   Link: <a href="https://rsf.org/en/country/ethiopia" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/ethiopia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EthiopiaDo you believe there can be no freedom of conscience without freedom of the press? Do you want to help free and independent journ...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: rsf.org  
    Title: what really happened asmara s ministry disinformation  
-   Link: [https://rsf.org/en/what-really-happened-asmara-s-ministry-disinformation](https://rsf.org/en/what-really-happened-asmara-s-ministry-disinformation)  
+   Link: <a href="https://rsf.org/en/what-really-happened-asmara-s-ministry-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/what-really-happened-asmara-s-ministry-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in which privately-owned media have been banned since 2001 and no foreign press correspondents have been permitted since 2010. This Horn...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: rsf.org  
    Title: unveils shadow report press freedom eritrea  
-   Link: [https://rsf.org/en/rsf-unveils-shadow-report-press-freedom-eritrea](https://rsf.org/en/rsf-unveils-shadow-report-press-freedom-eritrea)  
+   Link: <a href="https://rsf.org/en/rsf-unveils-shadow-report-press-freedom-eritrea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/rsf-unveils-shadow-report-press-freedom-eritrea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RSF unveils “shadow report” on press freedom in EritreaApr 27, 2018 — Seventeen years after Eritrea shut down all independent media outle...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rsf.org  
-   Link: [https://rsf.org/en/rsf-recounts-eritrea-s-press-freedom-failings-african-human-rights-body](https://rsf.org/en/rsf-recounts-eritrea-s-press-freedom-failings-african-human-rights-body)  
+   Link: <a href="https://rsf.org/en/rsf-recounts-eritrea-s-press-freedom-failings-african-human-rights-body" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/rsf-recounts-eritrea-s-press-freedom-failings-african-human-rights-body</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RSF recounts Eritrea&#x27;s press freedom failings to African...Nov 6, 2023 — His report also made no mention of the fact that all independen...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rsf.org  
    Title: two years without independent press  
-   Link: [https://rsf.org/en/two-years-without-independent-press](https://rsf.org/en/two-years-without-independent-press)  
+   Link: <a href="https://rsf.org/en/two-years-without-independent-press" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/two-years-without-independent-press</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two years without an independent pressSep 17, 2003 — Reporters Without Borders today made a new appeal to the Eritrean government to free...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rsf.org  
    Title: reporters without borders provides un report disastrous situation eritrea  
-   Link: [https://rsf.org/en/reporters-without-borders-provides-un-report-disastrous-situation-eritrea](https://rsf.org/en/reporters-without-borders-provides-un-report-disastrous-situation-eritrea)  
+   Link: <a href="https://rsf.org/en/reporters-without-borders-provides-un-report-disastrous-situation-eritrea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/reporters-without-borders-provides-un-report-disastrous-situation-eritrea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without Borders provides UN with...Jun 25, 2013 — The report condemns the government&#x27;s total control of news and information s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: 🌍 What's the state of internet freedom in Africa?  
-   Link: [https://www.facebook.com/FreedomHouseDC/posts/-whats-the-state-of-internet-freedom-in-africathough-internet-access-and-connect/965757415587414/](https://www.facebook.com/FreedomHouseDC/posts/-whats-the-state-of-internet-freedom-in-africathough-internet-access-and-connect/965757415587414/)  
+   Link: <a href="https://www.facebook.com/FreedomHouseDC/posts/-whats-the-state-of-internet-freedom-in-africathough-internet-access-and-connect/965757415587414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FreedomHouseDC/posts/-whats-the-state-of-internet-freedom-in-africathough-internet-access-and-connect/965757415587414/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Though...&quot;According to Freedom House, many countries are increasing service restrictions or shutdowns of their networks to block “a grow...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: freedomhouse.org  
    Title: freedom world  
-   Link: [https://freedomhouse.org/country/eritrea/freedom-world/2024](https://freedomhouse.org/country/eritrea/freedom-world/2024)  
+   Link: <a href="https://freedomhouse.org/country/eritrea/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea/freedom-world/2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, members of the diaspora are also subject to government surveillance and harassment.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cpj.org  
    Title: attacks on the press 2001 eritrea  
-   Link: [https://cpj.org/2002/03/attacks-on-the-press-2001-eritrea/](https://cpj.org/2002/03/attacks-on-the-press-2001-eritrea/)  
+   Link: <a href="https://cpj.org/2002/03/attacks-on-the-press-2001-eritrea/" target="_blank" rel="noopener noreferrer nofollow">https://cpj.org/2002/03/attacks-on-the-press-2001-eritrea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Committee to Protect JournalistsAttacks on the Press 2001: Eritrea - Committee to Protect JournalistsThe Eritrean government banned the e...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cpj.org  
-   Link: [https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/](https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/)  
+   Link: <a href="https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/" target="_blank" rel="noopener noreferrer nofollow">https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Committee to Protect Journalists10 Most Censored CountriesSep 10, 2019 — How censorship works: The government shut down all independent m...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hrw.org  
-   Link: [https://www.hrw.org/world-report/2025/country-chapters/eritrea](https://www.hrw.org/world-report/2025/country-chapters/eritrea)  
+   Link: <a href="https://www.hrw.org/world-report/2025/country-chapters/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2025/country-chapters/eritrea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchWorld Report 2025: EritreaThe government controls the domestic media. Independent media have been banned since Septembe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: freedomhouse.org  
    Title: freedom world  
-   Link: [https://freedomhouse.org/country/eritrea/freedom-world/2023](https://freedomhouse.org/country/eritrea/freedom-world/2023)  
+   Link: <a href="https://freedomhouse.org/country/eritrea/freedom-world/2023" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea/freedom-world/2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, members of the diaspora are also subject to government surveillance and harassment.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pulse.internetsociety.org  
    Title: Internet Society Pulse Shutdown  
-   Link: [https://pulse.internetsociety.org/en/shutdowns/shutdown-131/](https://pulse.internetsociety.org/en/shutdowns/shutdown-131/)  
+   Link: <a href="https://pulse.internetsociety.org/en/shutdowns/shutdown-131/" target="_blank" rel="noopener noreferrer nofollow">https://pulse.internetsociety.org/en/shutdowns/shutdown-131/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Society PulseShutdown - Eritrea... Eritrea: Internet access reportedly blocked as of May 15. Shutdown history. 1 shutdown since...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: freedomhouse.org  
-   Link: [https://freedomhouse.org/country/eritrea/freedom-world/2025](https://freedomhouse.org/country/eritrea/freedom-world/2025)  
+   Link: <a href="https://freedomhouse.org/country/eritrea/freedom-world/2025" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea/freedom-world/2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom HouseEritrea: Freedom in the World 2025 Country ReportEritrea is a militarized authoritarian state that has not held a national e...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: freedomhouse.org  
    Title: freedom world  
-   Link: [https://freedomhouse.org/country/eritrea/freedom-world/2022](https://freedomhouse.org/country/eritrea/freedom-world/2022)  
+   Link: <a href="https://freedomhouse.org/country/eritrea/freedom-world/2022" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea/freedom-world/2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eritrea: Freedom in the World 2022 Country ReportEritrea is a militarized authoritarian state that has not held a national election since...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: freedomhouse.org  
-   Link: [https://freedomhouse.org/country/eritrea](https://freedomhouse.org/country/eritrea)  
+   Link: <a href="https://freedomhouse.org/country/eritrea" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea</a>  
 
 26. <a id="endnote-26"></a>
    Source: freedomhouse.org  
    Title: freedom world  
-   Link: [https://freedomhouse.org/country/eritrea/freedom-world/2020](https://freedomhouse.org/country/eritrea/freedom-world/2020)  
+   Link: <a href="https://freedomhouse.org/country/eritrea/freedom-world/2020" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea/freedom-world/2020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eritrea: Freedom in the World 2020 Country ReportThe authorities regularly block access to social media platforms and shutter internet ca...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: freedomhouse.org  
    Title: fotn 2024 africa release  
-   Link: [https://freedomhouse.org/article/fotn-2024-africa-release](https://freedomhouse.org/article/fotn-2024-africa-release)  
+   Link: <a href="https://freedomhouse.org/article/fotn-2024-africa-release" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/article/fotn-2024-africa-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Freedom in Africa Improved in 2024Oct 16, 2024 — Internet shutdowns amid such fighting plunged civilians into information vacuum...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: freedomhouse.org  
-   Link: [https://freedomhouse.org/country/eritrea/freedom-world/2018](https://freedomhouse.org/country/eritrea/freedom-world/2018)  
+   Link: <a href="https://freedomhouse.org/country/eritrea/freedom-world/2018" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/eritrea/freedom-world/2018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eritrea: Freedom in the World 2018 Country ReportThe government shut down all independent media outlets in 2001, leaving only state-contr...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: verite.org  
-   Link: [https://verite.org/initiative/africa/countries/eritrea/](https://verite.org/initiative/africa/countries/eritrea/)  
+   Link: <a href="https://verite.org/initiative/africa/countries/eritrea/" target="_blank" rel="noopener noreferrer nofollow">https://verite.org/initiative/africa/countries/eritrea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EritreaFreedom House describes Eritrea as a “militarized authoritarian state... restricted by the government, which controls broadcast m...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/eritrea-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Eritrea UFO Sightings &amp; ReportsWe are working as quickly as possible to add all received Eritrea UFO and alien contact exper...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thainewsroom.com  
-   Link: [https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/](https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/)  
+   Link: <a href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings stir excitement in Chiang Mai · NASA launches study of UFOs despite &#x27;reputational risk&#x27; · They&#x27;re not...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: hrw.org  
    Title: Ten Long Years: A Briefing on Eritrea's Missing Political Prisoners  
-   Link: [https://www.hrw.org/report/2011/09/22/ten-long-years/briefing-eritreas-missing-political-prisoners](https://www.hrw.org/report/2011/09/22/ten-long-years/briefing-eritreas-missing-political-prisoners)  
+   Link: <a href="https://www.hrw.org/report/2011/09/22/ten-long-years/briefing-eritreas-missing-political-prisoners" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/report/2011/09/22/ten-long-years/briefing-eritreas-missing-political-prisoners</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 22, 2011 — In September 2001, President Isaias Afewerki of Eritrea ordered the detention of 21 senior government members and jo...</p></details>
    Published: September 22, 2011  
 
 33. <a id="endnote-33"></a>
    Source: amnesty.org  
    Title: Eritrea: Release journalists and politicians arrested 20 years ago  
-   Link: [https://www.amnesty.org/en/latest/news/2021/09/eritrea-release-journalists-and-politicians-arrested-20-years-ago/](https://www.amnesty.org/en/latest/news/2021/09/eritrea-release-journalists-and-politicians-arrested-20-years-ago/)  
+   Link: <a href="https://www.amnesty.org/en/latest/news/2021/09/eritrea-release-journalists-and-politicians-arrested-20-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/news/2021/09/eritrea-release-journalists-and-politicians-arrested-20-years-ago/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 17, 2021 — The Eritrean authorities must immediately and unconditionally release 21 journalists and politicians who were arrest...</p></details>
    Published: September 17, 2021  
 
 34. <a id="endnote-34"></a>
    Source: aljazeera.com  
    Title: eritrea tops cpj list of worst countries for press censorship  
-   Link: [https://www.aljazeera.com/news/2019/9/10/eritrea-tops-cpj-list-of-worst-countries-for-press-censorship](https://www.aljazeera.com/news/2019/9/10/eritrea-tops-cpj-list-of-worst-countries-for-press-censorship)  
+   Link: <a href="https://www.aljazeera.com/news/2019/9/10/eritrea-tops-cpj-list-of-worst-countries-for-press-censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2019/9/10/eritrea-tops-cpj-list-of-worst-countries-for-press-censorship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 10, 2019 — Eritrea is the world&#x27;s most censored country, according to a new report by a media watchdog which also cites extreme measu...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: turkiyetoday.com  
    Title: african country with no wifi a nation where time seems to stand still 3205079  
-   Link: [https://www.turkiyetoday.com/culture/african-country-with-no-wifi-a-nation-where-time-seems-to-stand-still-3205079](https://www.turkiyetoday.com/culture/african-country-with-no-wifi-a-nation-where-time-seems-to-stand-still-3205079)  
+   Link: <a href="https://www.turkiyetoday.com/culture/african-country-with-no-wifi-a-nation-where-time-seems-to-stand-still-3205079" target="_blank" rel="noopener noreferrer nofollow">https://www.turkiyetoday.com/culture/african-country-with-no-wifi-a-nation-where-time-seems-to-stand-still-3205079</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The limited availability of internet services in Eritrea, confined mostly to internet cafes and select...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: theguardian.com  
    Title: Eritrea's forgotten journalists, still jailed after 14 years  
-   Link: [https://www.theguardian.com/world/2015/aug/19/eritrea-forgotten-journalists-jailed-pen-international-press-freedom](https://www.theguardian.com/world/2015/aug/19/eritrea-forgotten-journalists-jailed-pen-international-press-freedom)  
+   Link: <a href="https://www.theguardian.com/world/2015/aug/19/eritrea-forgotten-journalists-jailed-pen-international-press-freedom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2015/aug/19/eritrea-forgotten-journalists-jailed-pen-international-press-freedom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAugust 19, 2015 — Asrat was arrested at his home on the morning of 23 September 2001, when the editors of all the country&#x27;s p...</p></details>
    Published: August 19, 2015  
 
 37. <a id="endnote-37"></a>
    Source: monitor.civicus.org  
    Title: calls release journalists 20th anniversary media crackdown  
-   Link: [https://monitor.civicus.org/explore/calls-release-journalists-20th-anniversary-media-crackdown/](https://monitor.civicus.org/explore/calls-release-journalists-20th-anniversary-media-crackdown/)  
+   Link: <a href="https://monitor.civicus.org/explore/calls-release-journalists-20th-anniversary-media-crackdown/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/calls-release-journalists-20th-anniversary-media-crackdown/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to release journalists on 20th anniversary of media...On 19th August 2021, United Nations rights experts requested the Eritrean governme...</p></details>
    Published: August 2021  
 
 38. <a id="endnote-38"></a>
    Source: monitor.civicus.org  
-   Link: [https://monitor.civicus.org/explore/eritrea-retains-lowest-ranking-globally-on-press-freedom-index-un-mandate-renewed/](https://monitor.civicus.org/explore/eritrea-retains-lowest-ranking-globally-on-press-freedom-index-un-mandate-renewed/)  
+   Link: <a href="https://monitor.civicus.org/explore/eritrea-retains-lowest-ranking-globally-on-press-freedom-index-un-mandate-renewed/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/eritrea-retains-lowest-ranking-globally-on-press-freedom-index-un-mandate-renewed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>retains lowest ranking globally on press freedom...Oct 27, 2025 — The government maintains strict control over information, offering lit...</p></details>

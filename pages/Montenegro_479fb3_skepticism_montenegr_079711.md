@@ -245,7 +245,7 @@ next_link:
   permalink: /viral-clips/
   short_title: Viral Clips
   heading_title: Montenegro UFO Footage on Social Media
-date: '2026-06-09 01:34:43 '
+date: '2026-06-10 02:01:10 '
 header:
   og_image: /assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-1-social.jpg
   preview_image: /assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-1.webp
@@ -254,13 +254,13 @@ image: /assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration
 
 ## Introduction
 
-In the context of *Unidentified Aerial Phenomena (UAP)* reporting in **[Montenegro]({{ 'are-ufos-really-seen-over-montenegro/' | relative_url }})**, there is a pronounced gap between anecdotal civilian accounts and scientifically validated evidence. Across the region, many claimed sightings have circulated in local media, amateur databases, and social networks, yet there is **no formal national scientific UAP programme or authoritative evaluation body** equivalent to those in countries like the United States or France. This section reviews how scepticism and evidence assessment apply specifically to Montenegrin and former Yugoslavian reports, summarising why most local sightings are regarded as misidentifications of known phenomena, perceptual errors, or lacking verifiable data.
+In the context of *Unidentified Aerial Phenomena (UAP)* reporting in **Montenegro**, there is a pronounced gap between anecdotal civilian accounts and scientifically validated evidence. Across the region, many claimed sightings have circulated in local media, amateur databases, and social networks, yet there is **no formal national scientific UAP programme or authoritative evaluation body** equivalent to those in countries like the United States or France. This section reviews how scepticism and evidence assessment apply specifically to Montenegrin and former Yugoslavian reports, summarising why most local sightings are regarded as misidentifications of known phenomena, perceptual errors, or lacking verifiable data.
 
 
 <img src="{{ "/assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-1-dark.svg" | relative_url }}" alt="Skeptical Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Scientific Scepticism Matters for Montenegrin Sightings
 
-Scientific scepticism does not dismiss sightings out of hand; rather, it insists on **rigorous evidence standards and identifiable mechanisms** before extraordinary claims are accepted. In fields such as astronomy and atmospheric science, sceptical analysis focuses on whether reported phenomena withstand systematic scrutiny — using calibrated instruments, multiple independent observers, and data cross‑checks — rather than anecdote alone. In most documented cases globally, an overwhelming majority of UAP reports are eventually tied to **understood natural or human‑made sources** once adequate information is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanExperts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021...</span><span class="citation-popover-meta">Published: June 8, 2021</span></span></span>
+Scientific scepticism does not dismiss sightings out of hand; rather, it insists on **rigorous evidence standards and identifiable mechanisms** before extraordinary claims are accepted. In fields such as astronomy and atmospheric science, sceptical analysis focuses on whether reported phenomena withstand systematic scrutiny — using calibrated instruments, multiple independent observers, and data cross‑checks — rather than anecdote alone. In most documented cases globally, an overwhelming majority of UAP reports are eventually tied to **understood natural or human‑made sources** once adequate information is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanExperts Weigh In on Pentagon UFO Report &#124; Scientific AmericanJune 8, 2021...</span><span class="citation-popover-meta">Published: June 8, 2021</span></span></span>
 
 For Montenegro, the absence of official investigative infrastructure means that many sightings remain in the realm of **uncorroborated testimony**. Local reports often enter popular circulation without independent verification by scientific instruments (e.g. radar, calibrated imaging, spectroscopy), which are essential for distinguishing genuine anomalies from mundane but unfamiliar phenomena.
 
@@ -272,7 +272,7 @@ For Montenegro, the absence of official investigative infrastructure means that 
 Insights from broader regional analysis — particularly from coverage of former Yugoslavian sightings — illustrate why sceptical evaluation often reclassifies purported UAPs as known phenomena:
 
 * **Meteorological and Astronomical Confusions:** Academic commentators note that over half of lay UFO reports actually reflect **meteorological or astronomical phenomena**, such as meteor showers, unusual cloud formations, auroral activity, or bright planets like Venus. These can appear mysterious to untrained observers, especially in low light or unfamiliar sky conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiobijelopolje.me">[Radio Bijelopolje]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiobijelopolje.me</span><span class="citation-popover-snippet">Radio BijelopoljeUFOs, Yugoslavia and science: When atmospheric...13 Aug 2021 — In this project, UFO sightings are explained by the subj...</span></span></span>
-* **Perceptual and Psychological Factors:** Studies of UFO identification stress that witness testimony — especially from untrained observers — is prone to **error, misinterpretation, and perceptual illusion**. Apparent motion, speed and structure of aerial lights can be influenced by atmospheric refraction, optical illusions, and cognitive biases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFO Identification Process | Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer UFO Identification Process | Skeptical Inquirer</span></span></span>
+* **Perceptual and Psychological Factors:** Studies of UFO identification stress that witness testimony — especially from untrained observers — is prone to **error, misinterpretation, and perceptual illusion**. Apparent motion, speed and structure of aerial lights can be influenced by atmospheric refraction, optical illusions, and cognitive biases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFO Identification Process &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer UFO Identification Process &#124; Skeptical Inquirer</span></span></span>
 * **Cultural and Narrative Influence:** Published accounts from Montenegro’s media sometimes frame sightings in sensationalist terms before independent assessment can occur, amplifying speculative interpretations rather than providing rigorous explanation. This reflects a broader pattern where local fascination intersects with insufficient analytical follow‑up.
 
 Given these tendencies, *“sighting”* in a civilian context typically denotes an **unidentified observation** rather than an identified, unexplained *phenomenon* in the scientific sense. In science, the term *unidentified* simply marks the absence of enough data to classify the event, not evidence of extraordinary origins.
@@ -307,7 +307,7 @@ In contrast, many Montenegrin sightings lack these components, making them **ane
 <img src="{{ "/assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-3-dark.svg" | relative_url }}" alt="Skeptical Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_skepticism_montenegr_079711-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Remains Unresolved and Why
 
-A small minority of cases both locally and worldwide cannot currently be explained fully, often due to **data gaps rather than proven anomalies**. Scientific discourse distinguishes between *unexplained due to insufficient information* and *inexplicable in principle with current science*. Many unresolved reports, including in Montenegro’s case, fall into the former: they lack the clear, precise evidence needed to rule out mundane explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanExperts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021...</span><span class="citation-popover-meta">Published: June 8, 2021</span></span></span>
+A small minority of cases both locally and worldwide cannot currently be explained fully, often due to **data gaps rather than proven anomalies**. Scientific discourse distinguishes between *unexplained due to insufficient information* and *inexplicable in principle with current science*. Many unresolved reports, including in Montenegro’s case, fall into the former: they lack the clear, precise evidence needed to rule out mundane explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanExperts Weigh In on Pentagon UFO Report &#124; Scientific AmericanJune 8, 2021...</span><span class="citation-popover-meta">Published: June 8, 2021</span></span></span>
 
 Identifying truly anomalous phenomena would require upgrading observational infrastructure and establishing **systematic data collection**, something that currently does not exist in Montenegro. Until that threshold is met, sceptical evaluation remains the most grounded framework for interpreting reported sightings: one that favours provisional identification with known mechanisms and treats unexplained reports as invitations for better evidence rather than confirmations of extraordinary claims.
 
@@ -316,86 +316,44 @@ Identifying truly anomalous phenomena would require upgrading observational infr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Skepticism and Evidence Review of Montenegrin UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Skepticism and Evidence Review of Montenegrin UFOs, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Strong focus on classification, evidence standards, and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful comparison point for assessing witness credibility and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
-        
-        <p class="fr-book-desc">Examines misidentifications, myths, and cultural drivers behind UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Introduces scientific scepticism and evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -429,75 +387,71 @@ Identifying truly anomalous phenomena would require upgrading observational infr
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-t-shirt-gerry-anderson-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-t-shirt-gerry-anderson-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptical-analysis-skepticism-and-evidence-review-of-montenegrin-ufos-montenegro-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -711,46 +665,46 @@ Identifying truly anomalous phenomena would require upgrading observational infr
 
 1. <a id="endnote-1"></a>
    Source: en.vijesti.me  
-   Link: [https://en.vijesti.me/bbc/561998/nlo-Yugoslavia-and-science-when-atmospheric-and-astronomical-phenomena-resemble-flying-saucers](https://en.vijesti.me/bbc/561998/nlo-Yugoslavia-and-science-when-atmospheric-and-astronomical-phenomena-resemble-flying-saucers)  
+   Link: <a href="https://en.vijesti.me/bbc/561998/nlo-Yugoslavia-and-science-when-atmospheric-and-astronomical-phenomena-resemble-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/bbc/561998/nlo-Yugoslavia-and-science-when-atmospheric-and-astronomical-phenomena-resemble-flying-saucers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>vijesti.meUFOs, Yugoslavia and science: When atmospheric and astronomical phenomena resemble flying saucersAugust 12, 2021 — UFOS, YUGOSL...</p></details>
    Published: August 12, 2021  
 
 2. <a id="endnote-2"></a>
    Source: vijesti.me  
-   Link: [https://www.vijesti.me/bbc/561998/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire](https://www.vijesti.me/bbc/561998/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire)  
+   Link: <a href="https://www.vijesti.me/bbc/561998/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire" target="_blank" rel="noopener noreferrer nofollow">https://www.vijesti.me/bbc/561998/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO, Jugoslavija i nauka: Kada atmosferske i astronomske pojave zaliče na leteće tanjireAugust 12, 2021...</p></details>
    Published: August 12, 2021  
 
 3. <a id="endnote-3"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/](https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/)  
+   Link: <a href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanExperts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021...</p></details>
    Published: June 8, 2021  
 
 4. <a id="endnote-4"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
 
 5. <a id="endnote-5"></a>
    Source: radiobijelopolje.me  
-   Link: [https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire](https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire)  
+   Link: <a href="https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire" target="_blank" rel="noopener noreferrer nofollow">https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio BijelopoljeUFOs, Yugoslavia and science: When atmospheric...13 Aug 2021 — In this project, UFO sightings are explained by the subj...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFO Identification Process | Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
 
 7. <a id="endnote-7"></a>
    Source: scientificamerican.com  
    Title: NAS A's UFO Study Isn't Really Looking for Space Aliens | Scientific American  
-   Link: [https://www.scientificamerican.com/article/nasa-rsquo-s-ufo-study-isn-rsquo-t-really-looking-for-space-aliens/](https://www.scientificamerican.com/article/nasa-rsquo-s-ufo-study-isn-rsquo-t-really-looking-for-space-aliens/)  
+   Link: <a href="https://www.scientificamerican.com/article/nasa-rsquo-s-ufo-study-isn-rsquo-t-really-looking-for-space-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/nasa-rsquo-s-ufo-study-isn-rsquo-t-really-looking-for-space-aliens/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UFO Study Isn&#x27;t Really Looking for Space Aliens | Scientific AmericanAugust 15, 2022 — But no official responses or endorsements a...</p></details>
    Published: August 15, 2022  
 
 8. <a id="endnote-8"></a>
    Source: radiobijelopolje.me  
-   Link: [https://radiobijelopolje.me/index.php/zanimljivosti/36327-nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire](https://radiobijelopolje.me/index.php/zanimljivosti/36327-nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire)  
+   Link: <a href="https://radiobijelopolje.me/index.php/zanimljivosti/36327-nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire" target="_blank" rel="noopener noreferrer nofollow">https://radiobijelopolje.me/index.php/zanimljivosti/36327-nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO, Jugoslavija i nauka: Kada atmosferske i astronomske pojave zaliče na leteće tanjireAugust 13, 2021 — 12 September 2025 Najnovije vij...</p></details>
    Published: August 13, 2021  
 
@@ -759,60 +713,60 @@ Identifying truly anomalous phenomena would require upgrading observational infr
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: This is expected as there are always efforts to discredit scientific endea  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potential - PMCDecember 14, 2023 — HISTORY OF UAP SIGHTING RESEARCH AND ENVIR...</p></details>
    Published: December 14, 2023  
 
 10. <a id="endnote-10"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/minishlab/potion-base-8M/resolve/main/vocab.txt?download=true](https://huggingface.co/minishlab/potion-base-8M/resolve/main/vocab.txt?download=true)  
+   Link: <a href="https://huggingface.co/minishlab/potion-base-8M/resolve/main/vocab.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/minishlab/potion-base-8M/resolve/main/vocab.txt?download=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>220 kB... seen class story always become sure research almost director council la ##2... ufo ##say ##foil interfering leaking palo ##met...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html](https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2013 — PHOTOJOURNALIST CAPTURES UFO ACROSS THE SKIES OF MONTENEGRO ON CAMERA May 16, 2013 LUFOS Europe, UFO videos 1 Advertisemen...</p></details>
    Published: May 16, 2013  
 
 12. <a id="endnote-12"></a>
    Source: ndl.ethernet.edu.et  
-   Link: [https://www.ndl.ethernet.edu.et/bitstream/123456789/61731/1/R.N.%20Gibson_2009.pdf](https://www.ndl.ethernet.edu.et/bitstream/123456789/61731/1/R.N.%20Gibson_2009.pdf)  
+   Link: <a href="https://www.ndl.ethernet.edu.et/bitstream/123456789/61731/1/R.N.%20Gibson_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ndl.ethernet.edu.et/bitstream/123456789/61731/1/R.N.%20Gibson_2009.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and MARINE BIOLOGY... Aliens 17, 20–21. Nejstgaard, J.C., Tang, K.W., Steinke, M., Dutz, J., Koski, M., Antajan, E. &amp; Long, J.D. 2007. zo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: danas.rs  
    Title: 09:56 Image: NLO, Jugoslavija i nauka: Kada atmosferske i astronomske pojave  
-   Link: [https://www.danas.rs/bbc-news-serbian/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/](https://www.danas.rs/bbc-news-serbian/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/)  
+   Link: <a href="https://www.danas.rs/bbc-news-serbian/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/" target="_blank" rel="noopener noreferrer nofollow">https://www.danas.rs/bbc-news-serbian/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO, Jugoslavija i nauka: Kada atmosferske i astronomske pojave zaliče na leteće tanjire - BBC News na srpskom - Dnevni list DanasAugust...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
    Title: The new science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0376042125000235](https://www.sciencedirect.com/science/article/pii/S0376042125000235)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101097 THE NEW SCIENCE OF UNIDENTIFIED AEROSPACE-UNDE...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000235" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000235</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101097 THE NEW SCIENCE OF UNIDENTIFIED AEROSPACE-UNDE...</p></details>
    Published: June 1, 2025  
 
 15. <a id="endnote-15"></a>
    Source: 021.rs  
    Title: 09:51 > 10:00 Dva značajna pominjanja neidentifikovanih leteći  
-   Link: [https://www.021.rs/bbc/bbc/281884/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire](https://www.021.rs/bbc/bbc/281884/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire)  
+   Link: <a href="https://www.021.rs/bbc/bbc/281884/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire" target="_blank" rel="noopener noreferrer nofollow">https://www.021.rs/bbc/bbc/281884/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO, Jugoslavija i nauka: Kada atmosferske i astronomske pojave zaliče na leteće tanjire | Novosadski informativni portal 021August 12, 2...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: juznevesti.com  
-   Link: [https://www.juznevesti.com/bbc-news-na-srpskom/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/](https://www.juznevesti.com/bbc-news-na-srpskom/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/)  
+   Link: <a href="https://www.juznevesti.com/bbc-news-na-srpskom/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/" target="_blank" rel="noopener noreferrer nofollow">https://www.juznevesti.com/bbc-news-na-srpskom/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zalice-na-letece-tanjire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8. 2021. Image: NLO, Jugoslavija i nauka: Kada atmosferske i astronomske pojave zaliče na leteće...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: telegraf.rs  
    Title: CRNOGORC E POSETILI VANZEMALJCI: NLO iznad Podgorice?  
-   Link: [https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice](https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice)  
+   Link: <a href="https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/vesti/694563-crnogorce-posetili-vanzemaljci-nlo-iznad-podgorice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2013 — CRNOGORCE POSETILI VANZEMALJCI: NLO IZNAD PODGORICE? 11/05/13 | 19:41 * 11 * * * * * * Iznad Podgorice, nedavno, je uočena...</p></details>
    Published: May 11, 2013  
 
 18. <a id="endnote-18"></a>
    Source: revlox.com  
    Title: How to Evaluate UFO Videos Without Jumping to Aliens  
-   Link: [https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/](https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/)  
+   Link: <a href="https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2026 — Image: How to Evaluate UFO Videos How to Evaluate UFO Videos Weird World 13 Apr 2026 HOW TO EVALUATE UFO VIDEOS WITHOUT...</p></details>
    Published: April 13, 2026  

@@ -245,7 +245,7 @@ next_link:
   permalink: /hoia-baciu/
   short_title: Hoia Baciu
   heading_title: Why Hoia Baciu Became Romania's UFO Forest
-date: '2026-06-09 01:38:08 '
+date: '2026-06-10 02:04:52 '
 header:
   og_image: /assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-1-social.jpg
   preview_image: /assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-1-so
 
 ## Introduction
 
-[Romania]({{ 'what-romanias-ufo-record-really-shows/' | relative_url }})’s most discussed UFO cases are not usually the forest legends or single-witness stories that dominate popular culture. The reports that continue to attract attention from researchers involve aircraft crews, military pilots, radar operators, airport personnel and, in a few cases, onboard recording systems. These incidents matter because they offer more context than a typical sighting: flight paths are known, witnesses are trained observers, and the events can sometimes be compared against radar data, maintenance records or aviation procedures.
+Romania’s most discussed UFO cases are not usually the forest legends or single-witness stories that dominate popular culture. The reports that continue to attract attention from researchers involve aircraft crews, military pilots, radar operators, airport personnel and, in a few cases, onboard recording systems. These incidents matter because they offer more context than a typical sighting: flight paths are known, witnesses are trained observers, and the events can sometimes be compared against radar data, maintenance records or aviation procedures.
 
 
 <img src="{{ "/assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -313,11 +313,11 @@ That context cuts both ways. Supporters argue that multiple reports suggest a ge
 
 ## The Gherla MiG-21 damage case
 
-Among Romanian aviation UFO reports, the most unusual may be the 2007 MiG-21 LanceR incident near Gherla in Cluj County. Unlike the older cases, this event involved physical aircraft damage and onboard video footage rather than only witness testimony. It is also one of the few Romanian incidents acknowledged by military authorities and reported internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UPIUFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
+Among Romanian aviation UFO reports, the most unusual may be the 2007 MiG-21 LanceR incident near Gherla in Cluj County. Unlike the older cases, this event involved physical aircraft damage and onboard video footage rather than only witness testimony. It is also one of the few Romanian incidents acknowledged by military authorities and reported internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
 
-During a training flight, Lieutenant Commander Marin Mitrica was flying a MiG-21 LanceR at high altitude when the aircraft canopy suddenly shattered. Despite facial injuries and the violent decompression effect, he maintained control and landed safely at Câmpia Turzii. Subsequent examination reportedly found evidence that several fast-moving objects had struck the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1l8bgqo/the_romanian_military_released_ufo_footage_taken/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Romanian Military released UFO footage taken</span><span class="citation-popover-snippet">RedditThe Romanian Military released UFO footage taken...June 10, 2025 — The Romanian Military released UFO footage taken onboard a MiG...</span><span class="citation-popover-meta">Published: June 10, 2025</span></span></span>
+During a training flight, Lieutenant Commander Marin Mitrica was flying a MiG-21 LanceR at high altitude when the aircraft canopy suddenly shattered. Despite facial injuries and the violent decompression effect, he maintained control and landed safely at Câmpia Turzii. Subsequent examination reportedly found evidence that several fast-moving objects had struck the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1l8bgqo/the_romanian_military_released_ufo_footage_taken/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Romanian Military released UFO footage taken</span><span class="citation-popover-snippet">The Romanian Military released UFO footage taken...June 10, 2025 — The Romanian Military released UFO footage taken onboard a MiG...</span><span class="citation-popover-meta">Published: June 10, 2025</span></span></span>
 
-The case became famous because an onboard camera appeared to record small objects approaching the fighter shortly before the damage occurred. Romanian military investigators reportedly reviewed the footage and attempted to identify the cause. Public reports quoted investigators arguing that common explanations such as birds, ice and conventional aircraft debris did not adequately fit the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UPIUFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
+The case became famous because an onboard camera appeared to record small objects approaching the fighter shortly before the damage occurred. Romanian military investigators reportedly reviewed the footage and attempted to identify the cause. Public reports quoted investigators arguing that common explanations such as birds, ice and conventional aircraft debris did not adequately fit the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-2-dark.svg" | relative_url }}" alt="Aviation Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897_aviation_ufo_cases_9c64d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -339,7 +339,7 @@ The released clips are brief and difficult to interpret. Viewers can see fast-mo
 
 This uncertainty has produced sharply different interpretations. UFO researchers point to the physical damage and the inability of investigators to identify a cause. Skeptics argue that the video quality is insufficient to determine what was actually recorded and that unusual debris, atmospheric effects or camera artefacts cannot be excluded with confidence.
 
-The most defensible conclusion is narrower than either side prefers. The aircraft experienced a genuine in-flight incident, the canopy was damaged, and onboard imagery captured unidentified objects or features near the aircraft. What remains unresolved is whether those objects represented an extraordinary aerospace phenomenon or a more mundane but ultimately unproven cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UPIUFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
+The most defensible conclusion is narrower than either side prefers. The aircraft experienced a genuine in-flight incident, the canopy was damaged, and onboard imagery captured unidentified objects or features near the aircraft. What remains unresolved is whether those objects represented an extraordinary aerospace phenomenon or a more mundane but ultimately unproven cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/418NWvdh-C4" title="Pilots Witness UFO Flying Over During Landing | What was it?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer">Pilots Witness UFO Flying Over During Landing | What was it?</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 13.8K &middot; Uploaded: April 2026 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=418NWvdh-C4">Open on YouTube</a></p></div></div></div>
@@ -350,7 +350,7 @@ The Gherla incident illustrates a recurring problem in Romanian UFO research: pa
 
 Public discussion references military analyses, technical examinations and intelligence reviews, yet the complete investigative record has never entered the public domain. Without access to all data, outside researchers cannot independently verify the chain of reasoning behind official statements.
 
-As a result, the case remains one of Romania's strongest aviation mysteries but not one of its strongest proven UFO events. Its significance comes from the unusual combination of pilot testimony, aircraft damage and video evidence rather than from a definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UPIUFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
+As a result, the case remains one of Romania's strongest aviation mysteries but not one of its strongest proven UFO events. Its significance comes from the unusual combination of pilot testimony, aircraft damage and video evidence rather than from a definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</span></span></span>
 
 ## Otopeni airport reports and the problem of radar ambiguity
 
@@ -395,86 +395,44 @@ That is why Romanian aviation UFO history remains interesting decades later. The
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Romanian Pilots Reported the Unidentified. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Romanian Pilots Reported the Unidentified, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Pilot reports, radar cases, and military sightings closely match the page topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides analytical tools for evaluating aviation encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Examines radar and pilot cases similar in structure to Romanian reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful comparison source for aviation-related UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -508,75 +466,71 @@ That is why Romanian aviation UFO history remains interesting decades later. The
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-cases-when-romanian-pilots-reported-the-unidentified-romania-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -791,32 +745,32 @@ That is why Romanian aviation UFO history remains interesting decades later. The
 1. <a id="endnote-1"></a>
    Source: asfanufo.ro  
    Title: romanian cases  
-   Link: [https://asfanufo.ro/index.php/romanian-cases](https://asfanufo.ro/index.php/romanian-cases)  
+   Link: <a href="https://asfanufo.ro/index.php/romanian-cases" target="_blank" rel="noopener noreferrer nofollow">https://asfanufo.ro/index.php/romanian-cases</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASFANRomanian casesA Romanian airliner meets a UFO in 1968. Detalii: Accesări: 3909. On August 17, 1968, a Romanian IL-18 airliner, of th...</p></details>
    Published: August 17, 1968  
 
 2. <a id="endnote-2"></a>
    Source: upi.com  
    Title: UFOs hit Romanian plane  
-   Link: [https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/](https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPIUFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</p></details>
+   Link: <a href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs hit Romanian plane - UPI.com6 Jun 2008 — The ministry said the MIG 21 Lancer fighter plane was struck by the objects during an Oc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aero-news.net  
-   Link: [https://www.aero-news.net/index.cfm?do=main.textpost&id=8ac98021-1591-42b1-9d05-28c69533ec3f](https://www.aero-news.net/index.cfm?do=main.textpost&id=8ac98021-1591-42b1-9d05-28c69533ec3f)  
+   Link: <a href="https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8ac98021-1591-42b1-9d05-28c69533ec3f" target="_blank" rel="noopener noreferrer nofollow">https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8ac98021-1591-42b1-9d05-28c69533ec3f</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian MiG-21 Struck By &#x27;UFOs&#x27;17 Jun 2008 — At least four UFOs allegedly struck the MiG-21 Lancer during an October 31 check-out flight...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: The Romanian Military released UFO footage taken  
-   Link: [https://www.reddit.com/r/UFOs/comments/1l8bgqo/the_romanian_military_released_ufo_footage_taken/](https://www.reddit.com/r/UFOs/comments/1l8bgqo/the_romanian_military_released_ufo_footage_taken/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Romanian Military released UFO footage taken...June 10, 2025 — The Romanian Military released UFO footage taken onboard a MiG...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1l8bgqo/the_romanian_military_released_ufo_footage_taken/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l8bgqo/the_romanian_military_released_ufo_footage_taken/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Romanian Military released UFO footage taken...June 10, 2025 — The Romanian Military released UFO footage taken onboard a MiG...</p></details>
    Published: June 10, 2025  
 
 5. <a id="endnote-5"></a>
    Source: asfanufo.ro  
    Title: 196 a romanian airliner meets a ufo in 1968  
-   Link: [https://www.asfanufo.ro/index.php/romanian-cases/196-a-romanian-airliner-meets-a-ufo-in-1968](https://www.asfanufo.ro/index.php/romanian-cases/196-a-romanian-airliner-meets-a-ufo-in-1968)  
+   Link: <a href="https://www.asfanufo.ro/index.php/romanian-cases/196-a-romanian-airliner-meets-a-ufo-in-1968" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/romanian-cases/196-a-romanian-airliner-meets-a-ufo-in-1968</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASFANA Romanian airliner meets a UFO in 1968A Romanian airliner meets a UFO in 1968. Detalii: Accesări: 3908. On August 17, 1968, a Roman...</p></details>
    Published: August 17, 1968  
 
@@ -824,56 +778,56 @@ That is why Romanian aviation UFO history remains interesting decades later. The
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/](https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/)  
+   Link: <a href="https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Romanian Air Force MiG-21 LanceR were scrambled...The Romanian Air Force MiG-21 LanceR were scrambled to investigate a &quot;suspicious&quot;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theaviationist.com  
    Title: mig 21 jets scrambled after weather balloon is detected in romanias airspace  
-   Link: [https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/](https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/)  
+   Link: <a href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets were scrambled...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Q2aEPSBshzE](https://www.youtube.com/watch?v=Q2aEPSBshzE)  
+   Link: <a href="https://www.youtube.com/watch?v=Q2aEPSBshzE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q2aEPSBshzE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MiG-21 Lancer vs CF-18 Hornet: air exercises in RomaniaResilient Resolve is a military exercise with CF-18 Hornets from the Royal Canadia...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/276105](https://aviation-safety.net/wikibase/276105)  
+   Link: <a href="https://aviation-safety.net/wikibase/276105" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/276105</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accident Mikojan-Gurevič MiG-21MF LanceR C 5913...2 Mar 2022 — About 10 minute after take off, the aircraft went missing from radar screen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: shephardmedia.com  
    Title: romanian air defences weakened by groundings after  
-   Link: [https://www.shephardmedia.com/news/air-warfare/romanian-air-defences-weakened-by-groundings-after/](https://www.shephardmedia.com/news/air-warfare/romanian-air-defences-weakened-by-groundings-after/)  
+   Link: <a href="https://www.shephardmedia.com/news/air-warfare/romanian-air-defences-weakened-by-groundings-after/" target="_blank" rel="noopener noreferrer nofollow">https://www.shephardmedia.com/news/air-warfare/romanian-air-defences-weakened-by-groundings-after/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian air defence weakened by groundings after...3 Mar 2022 — Almost 60% of the Romanian fixed-wing combat aircraft fleet is grounded...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.wikinews.org  
    Title: Romanian fighter jet hit by UFOs  
-   Link: [https://en.wikinews.org/wiki/Romanian_fighter_jet_hit_by_UFOs](https://en.wikinews.org/wiki/Romanian_fighter_jet_hit_by_UFOs)  
+   Link: <a href="https://en.wikinews.org/wiki/Romanian_fighter_jet_hit_by_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Romanian_fighter_jet_hit_by_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet hit by UFOs12 Jun 2008 — Officials from the Romanian Defense Military confirmed that one of their MiG-21 Lancer fighter plane...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ainonline.com  
-   Link: [https://www.ainonline.com/aviation-news/defense/2022-04-18/romania-grounds-mig-21-lancer-fighter-fleet](https://www.ainonline.com/aviation-news/defense/2022-04-18/romania-grounds-mig-21-lancer-fighter-fleet)  
+   Link: <a href="https://www.ainonline.com/aviation-news/defense/2022-04-18/romania-grounds-mig-21-lancer-fighter-fleet" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/defense/2022-04-18/romania-grounds-mig-21-lancer-fighter-fleet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania Grounds MiG-21 LanceR Fighter Fleet18 Apr 2022 — The most recent airframe loss occurred on March 2, when a LanceR and its pilot w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Conferință OZN, București, România  
-   Link: [https://www.youtube.com/watch?v=7UYQc3PqvCg](https://www.youtube.com/watch?v=7UYQc3PqvCg)  
+   Link: <a href="https://www.youtube.com/watch?v=7UYQc3PqvCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7UYQc3PqvCg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Romania: Investigations with Alexandru Mironov and Dan D Farcas...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How UFO Encounters Defeated Advanced US Fighter Jet Sensors  
-   Link: [https://www.youtube.com/watch?v=XdAwIJbNeQE](https://www.youtube.com/watch?v=XdAwIJbNeQE)  
+   Link: <a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XdAwIJbNeQE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conferință OZN, București, România - Sesiunea 1...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Pilots Witness UFO Flying Over During Landing  
-   Link: [https://www.youtube.com/watch?v=418NWvdh-C4](https://www.youtube.com/watch?v=418NWvdh-C4)  
+   Link: <a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=418NWvdh-C4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Encounters Defeated Advanced US Fighter Jet Sensors...</p></details>

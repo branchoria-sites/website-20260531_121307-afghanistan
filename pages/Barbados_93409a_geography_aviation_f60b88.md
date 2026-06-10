@@ -237,7 +237,7 @@ prev_link:
   permalink: /civilian-reports/
   short_title: Civilian Reports
   heading_title: Post 1987 Civilian UFO Sightings in Barbados
-date: '2026-06-09 01:16:58 '
+date: '2026-06-10 01:42:13 '
 header:
   og_image: /assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1-social.jpg
   preview_image: /assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1.webp
@@ -246,7 +246,7 @@ image: /assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1-s
 
 ## Introduction
 
-[Barbados]({{ 'what-really-happened-in-barbados-skies/' | relative_url }})’s unique **geography and aviation environment shape how sightings of unidentified aerial phenomena (UAP)** over the island are observed, interpreted and reported. As a small, flat Atlantic island with expansive coastal horizons and a single, busy international airport serving diverse flight traffic, ordinary lights and motions in the sky are more likely to be misinterpreted as unusual or unexplained sightings. Understanding these environmental and aviation influences helps explain why many reported “UFOs” in Barbados turn out to be meteors, aircraft, satellites, or atmospheric effects rather than truly anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Barbados" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">April 21, 2001 — Barbados is an island nation in the Caribbean located in the Atlantic Ocean. It is part of the Lesser Antilles of the We...</span><span class="citation-popover-meta">Published: April 21, 2001</span></span></span>
+Barbados’s unique **geography and aviation environment shape how sightings of unidentified aerial phenomena (UAP)** over the island are observed, interpreted and reported. As a small, flat Atlantic island with expansive coastal horizons and a single, busy international airport serving diverse flight traffic, ordinary lights and motions in the sky are more likely to be misinterpreted as unusual or unexplained sightings. Understanding these environmental and aviation influences helps explain why many reported “UFOs” in Barbados turn out to be meteors, aircraft, satellites, or atmospheric effects rather than truly anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Barbados" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">April 21, 2001 — Barbados is an island nation in the Caribbean located in the Atlantic Ocean. It is part of the Lesser Antilles of the We...</span><span class="citation-popover-meta">Published: April 21, 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1-dark.svg" | relative_url }}" alt="Geography &amp; Aviation illustration 1" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -255,8 +255,8 @@ image: /assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-1-s
 Barbados’s **location in the Atlantic Ocean** — roughly 34 km across and rising gently from sea level to modest highlands — creates very wide, unobstructed vistas over both sea and sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Grantley Adams International Airport</span><span class="citation-popover-snippet">Grantley Adams International Airport</span></span></span>
 
 * **Wide coastal horizons:** On clear evenings, observers can see lights nearly to the horizon. Without nearby landmarks for depth cues, bright objects like stars, planets or satellites appear to be moving while they are stationary or following predictable paths. This kind of misperception is common in night‑sky reports globally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
-* **Light refraction over water:** Over the ocean, temperature gradients and humidity can bend light rays, causing luminous objects to appear distorted, elongated or in unusual positions relative to the horizon. Such optical effects can make routine aircraft lights or celestial bodies seem to change direction or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
-* **Atmospheric turbulence:** Slight atmospheric motions — particularly near coastal air layers — make bright stars seem to “twinkle fiercely” or appear to move erratically, a phenomenon often mistaken for craft manoeuvring in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
+* **Light refraction over water:** Over the ocean, temperature gradients and humidity can bend light rays, causing luminous objects to appear distorted, elongated or in unusual positions relative to the horizon. Such optical effects can make routine aircraft lights or celestial bodies seem to change direction or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Is that a UFO?! There&#x27;s probably an explanation &#124; Human World &#124; EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
+* **Atmospheric turbulence:** Slight atmospheric motions — particularly near coastal air layers — make bright stars seem to “twinkle fiercely” or appear to move erratically, a phenomenon often mistaken for craft manoeuvring in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Is that a UFO?! There&#x27;s probably an explanation &#124; Human World &#124; EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
 
 These perceptual challenges are magnified in an island environment where observers often face open seawater and sky, lacking topographic reference points that help gauge altitude and motion.
 
@@ -271,7 +271,7 @@ Barbados’s sole major airport, **Grantley Adams International Airport**, sits 
 * **Low‑altitude approach and departure:** Near the coastline, especially around sunset or night, aircraft can appear surprisingly close and slow to casual observers before they settle onto final approach — again feeding misinterpretations of “strange lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Grantley Adams International Airport</span><span class="citation-popover-snippet">Grantley Adams International Airport</span></span></span>
 * **No radar cross‑checks for civilians:** The airport’s radar information is not publicly available in real time. Thus when witnesses see bright moving lights, they have no easy way to correlate those with scheduled flights, leading to greater uncertainty about what they have observed.
 
-A case from Barbados illustrates this confusion: one NUFORC report described **more than twenty orange‑red lights moving silently** across the sky, prompting the witness to call the control tower — which found no special aircraft activity at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=94652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 94652December 20, 2012...</span><span class="citation-popover-meta">Published: December 20, 2012</span></span></span> This kind of mismatch between perception and known aviation traffic invites speculation, even when the lights may turn out to be aircraft seen from an unexpected angle or at a distance that obscures expected features.
+A case from Barbados illustrates this confusion: one NUFORC report described **more than twenty orange‑red lights moving silently** across the sky, prompting the witness to call the control tower — which found no special aircraft activity at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=94652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 94652December 20, 2012...</span><span class="citation-popover-meta">Published: December 20, 2012</span></span></span> This kind of mismatch between perception and known aviation traffic invites speculation, even when the lights may turn out to be aircraft seen from an unexpected angle or at a distance that obscures expected features.
 
 
 <img src="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-2-dark.svg" | relative_url }}" alt="Geography &amp; Aviation illustration 2" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -280,8 +280,8 @@ A case from Barbados illustrates this confusion: one NUFORC report described **m
 Beyond man‑made aviation activity, Barbados’s open skies expose observers to **common celestial phenomena** that are often misinterpreted:
 
 * **Meteors and fireballs:** Bright meteors entering Earth’s atmosphere can light up the sky visibly across the Caribbean, including Barbados. In September 2023, a dramatic meteor spectacle drew many callers to the local astronomical society before being identified as a meteoric event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-* **Satellites and space debris:** Satellite passes — including Starlink trains or re‑entering space debris — produce linear motion and sometimes bright flares at dusk or night. These can be particularly striking over a flat horizon. Astronomy commentators note satellite flares as a “commonly cited explanation” for many UFO/UAP sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenz.io">[Lenz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenz.io</span><span class="citation-popover-title">Are Satellite Flares Really Behind UFO Sightings? | Lenz</span><span class="citation-popover-snippet">LenzAre Satellite Flares Really Behind UFO Sightings? | LenzMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
-* **Atmospheric optics:** Light haze, humidity and low clouds near coastal areas can create illusions of motion or shape that resemble engineered craft to casual observers. Atmospheric refraction and lensing can make stationary bright objects appear to drift or flicker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
+* **Satellites and space debris:** Satellite passes — including Starlink trains or re‑entering space debris — produce linear motion and sometimes bright flares at dusk or night. These can be particularly striking over a flat horizon. Astronomy commentators note satellite flares as a “commonly cited explanation” for many UFO/UAP sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenz.io">[Lenz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenz.io</span><span class="citation-popover-title">Are Satellite Flares Really Behind UFO Sightings? &#124; Lenz</span><span class="citation-popover-snippet">Are Satellite Flares Really Behind UFO Sightings? &#124; LenzMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+* **Atmospheric optics:** Light haze, humidity and low clouds near coastal areas can create illusions of motion or shape that resemble engineered craft to casual observers. Atmospheric refraction and lensing can make stationary bright objects appear to drift or flicker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Is that a UFO?! There&#x27;s probably an explanation &#124; Human World &#124; EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
 
 In essence, Barbados’s **geographical flatness and clear Atlantic skies** create conditions where a wide variety of ordinary phenomena are more easily visible — but harder for non‑expert observers to contextualise — compared to settings with more varied terrain or inland landmarks.
 
@@ -301,7 +301,7 @@ When assessing reported sightings in Barbados, these geographical and aviation c
 
 </div>
 
-Applying these geographic and aviation lenses tends to push most reported sightings — including the sometime‑cited [1987 Barbados wave]({{ '1987-wave/' | relative_url }}) preserved in declassified documents — back towards explainable phenomena like meteors, aircraft lights or common atmospheric effects rather than genuinely anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000112351.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000112351</span><span class="citation-popover-snippet">BARBADIANS REPORT SEVERAL UFO SIGHTINGSBARBADIANS REPORT SEVERAL UFO SIGHTINGS. FL021725. BRIDGETOWN CANA IN ENGLISH 1427 GMT 2 SEP 87. P...</span></span></span>
+Applying these geographic and aviation lenses tends to push most reported sightings — including the sometime‑cited 1987 Barbados wave preserved in declassified documents — back towards explainable phenomena like meteors, aircraft lights or common atmospheric effects rather than genuinely anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000112351.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000112351</span><span class="citation-popover-snippet">BARBADIANS REPORT SEVERAL UFO SIGHTINGSBARBADIANS REPORT SEVERAL UFO SIGHTINGS. FL021725. BRIDGETOWN CANA IN ENGLISH 1427 GMT 2 SEP 87. P...</span></span></span>
 
 
 <img src="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-3-dark.svg" | relative_url }}" alt="Geography &amp; Aviation illustration 3" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_geography_aviation_f60b88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,86 +314,44 @@ For anyone trying to evaluate UAP reports over Barbados, the interplay between o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Barbados Geography Shapes UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Barbados Geography Shapes UFO Sightings, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses observational errors and classification of aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Provides context on advanced aircraft often associated with UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps explain how celestial objects can be misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Useful for understanding night-sky observation errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -427,75 +385,71 @@ For anyone trying to evaluate UAP reports over Barbados, the interplay between o
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-t-shirt-gerry-anderson-series-television-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-t-shirt-gerry-anderson-series-television-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geography-aviation-how-barbados-geography-shapes-ufo-sightings-barbados-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -709,68 +663,68 @@ For anyone trying to evaluate UAP reports over Barbados, the interplay between o
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Barbados](https://en.wikipedia.org/wiki/Barbados)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barbados" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barbados</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 21, 2001 — Barbados is an island nation in the Caribbean located in the Atlantic Ocean. It is part of the Lesser Antilles of the We...</p></details>
    Published: April 21, 2001  
 
 2. <a id="endnote-2"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</p></details>
+   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</p></details>
    Published: December 15, 2020  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Grantley Adams International Airport  
-   Link: [https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport](https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=94652](https://nuforc.org/sighting/?id=94652)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 94652December 20, 2012...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=94652" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=94652</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 94652December 20, 2012...</p></details>
    Published: December 20, 2012  
 
 5. <a id="endnote-5"></a>
    Source: lenz.io  
    Title: Are Satellite Flares Really Behind UFO Sightings? | Lenz  
-   Link: [https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf](https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LenzAre Satellite Flares Really Behind UFO Sightings? | LenzMarch 11, 2026...</p></details>
+   Link: <a href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow">https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Satellite Flares Really Behind UFO Sightings? | LenzMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
    Title: DOC 0000112351  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000112351.pdf](https://www.cia.gov/readingroom/docs/DOC_0000112351.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000112351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000112351.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BARBADIANS REPORT SEVERAL UFO SIGHTINGSBARBADIANS REPORT SEVERAL UFO SIGHTINGS. FL021725. BRIDGETOWN CANA IN ENGLISH 1427 GMT 2 SEP 87. P...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=22105](https://nuforc.org/sighting/?id=22105)  
+   Link: <a href="https://nuforc.org/sighting/?id=22105" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22105</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 22105March 19, 2002 — NUFORC UFO SIGHTING 22105 Occurred: 2002-03-02 14:30 Local Reported: 2002-03-04 17:13 Pacific D...</p></details>
    Published: March 2, 2002  
 
 8. <a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026...</p></details>
    Published: May 11, 2026  
 
 10. <a id="endnote-10"></a>
    Source: cbc.bb  
    Title: Caribbean Broadcasting Corporation Meteor lights up skies across Barbados  
-   Link: [https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/](https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/)  
+   Link: <a href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</p></details>
    Published: September 13, 2023  
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Barbados](https://www.britannica.com/place/Barbados)  
+   Link: <a href="https://www.britannica.com/place/Barbados" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Barbados</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Barbados | History, People, Independence, Map, &amp; Facts20 May 2026 — The geographic position of Barbados has profoundly influenced the isl...</p></details>
    Published: May 2026  
 
@@ -778,56 +732,56 @@ For anyone trying to evaluate UAP reports over Barbados, the interplay between o
 
 12. <a id="endnote-12"></a>
    Source: joidesresolution.org  
-   Link: [https://joidesresolution.org/10-things-i-learned-about-barbados/](https://joidesresolution.org/10-things-i-learned-about-barbados/)  
+   Link: <a href="https://joidesresolution.org/10-things-i-learned-about-barbados/" target="_blank" rel="noopener noreferrer nofollow">https://joidesresolution.org/10-things-i-learned-about-barbados/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 things I learned about BarbadosUnlike most of the other islands in the Eastern Caribbean, Barbados is not volcanic in origin, and is t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/](https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/)  
+   Link: <a href="https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone saw this unidentified object in our skies earlier☄️...UFO? Aliens? There were numerous reports of a strange object in the Texas s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYkHsb2KoyI/](https://www.instagram.com/reel/DYkHsb2KoyI/)  
+   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CVM Television on Instagram: &quot;UFO sightings in the...Bye. OCR. Reflecting on the UFO or the UAP share your opinion, do alien exist Discu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: strangesounds.org  
-   Link: [https://strangesounds.org/man-made-sky-phenomena-explained](https://strangesounds.org/man-made-sky-phenomena-explained)  
+   Link: <a href="https://strangesounds.org/man-made-sky-phenomena-explained" target="_blank" rel="noopener noreferrer nofollow">https://strangesounds.org/man-made-sky-phenomena-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange SoundsMay 18, 2026 — MAN-MADE SKY PHENOMENA EXPLAINED Space &amp; Beyond • Strange Sky Events • Human-Made Atmospheric Phenomena Man...</p></details>
    Published: May 18, 2026  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MrMBB333/posts/strange-object-seen-moving-across-the-sky-over-barbados-a-mysterious-object-was-/1586507496167759/](https://www.facebook.com/MrMBB333/posts/strange-object-seen-moving-across-the-sky-over-barbados-a-mysterious-object-was-/1586507496167759/)  
+   Link: <a href="https://www.facebook.com/MrMBB333/posts/strange-object-seen-moving-across-the-sky-over-barbados-a-mysterious-object-was-/1586507496167759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MrMBB333/posts/strange-object-seen-moving-across-the-sky-over-barbados-a-mysterious-object-was-/1586507496167759/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE OBJECT SEEN MOVING ACROSS THE SKY...... UFO sightings and the possibility that we may not be alone. So what do YOU think was see...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: archyde.com  
-   Link: [https://www.archyde.com/spotting-lights-in-the-night-sky-a-guide-to-identifying-stars-satellites-airplanes-drones-and-more/](https://www.archyde.com/spotting-lights-in-the-night-sky-a-guide-to-identifying-stars-satellites-airplanes-drones-and-more/)  
+   Link: <a href="https://www.archyde.com/spotting-lights-in-the-night-sky-a-guide-to-identifying-stars-satellites-airplanes-drones-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://www.archyde.com/spotting-lights-in-the-night-sky-a-guide-to-identifying-stars-satellites-airplanes-drones-and-more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 23, 2025 — SPOTTING LIGHTS IN THE NIGHT SKY: A GUIDE TO IDENTIFYING STARS, SATELLITES, AIRPLANES, DRONES AND MORE December 23, 2...</p></details>
    Published: December 23, 2025  
 
 18. <a id="endnote-18"></a>
    Source: thenaturenetwork.co.uk  
    Title: Objects in the Night Sky People Always Mistake for UFOs – The Nature Network  
-   Link: [https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/](https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/)  
+   Link: <a href="https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 3, 2025 — OBJECTS IN THE NIGHT SKY PEOPLE ALWAYS MISTAKE FOR UFOS By Nate Sullivan / 3 October 2025 / Natural Wonders &amp; Space THE...</p></details>
    Published: October 3, 2025  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3g8Up0iVNdQ](https://www.youtube.com/watch?v=3g8Up0iVNdQ)  
+   Link: <a href="https://www.youtube.com/watch?v=3g8Up0iVNdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g8Up0iVNdQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Barbados Hidden Geography EXPOSED by a Local BajanThis island hides secrets that even tourists who come here every year never see: hidden...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jnD71lKpNik](https://www.youtube.com/watch?v=jnD71lKpNik)  
+   Link: <a href="https://www.youtube.com/watch?v=jnD71lKpNik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jnD71lKpNik</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Drones, BOHEMIA, and a Day Exploring BARBADOSUFO Drones, BOHEMIA, and a Day Exploring BARBADOS. 116K... Schoolyard witnesses in mass...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dyerbolical.com  
    Title: Real Life Paranormal Mysteries from Barbados Explained – Dyerbolical  
-   Link: [https://dyerbolical.com/real-life-paranormal-mysteries-from-barbados-explained/](https://dyerbolical.com/real-life-paranormal-mysteries-from-barbados-explained/)  
+   Link: <a href="https://dyerbolical.com/real-life-paranormal-mysteries-from-barbados-explained/" target="_blank" rel="noopener noreferrer nofollow">https://dyerbolical.com/real-life-paranormal-mysteries-from-barbados-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 22, 2026 — REAL LIFE PARANORMAL MYSTERIES FROM BARBADOS EXPLAINED Image: paranormal, strange places, weird places, creepy facts...</p></details>
    Published: February 22, 2026  

@@ -239,7 +239,7 @@ prev_link:
   permalink: /record-checks/
   short_title: Record Checks
   heading_title: How Could Seychelles UFO Claims Be Checked?
-date: '2026-06-09 01:39:49 '
+date: '2026-06-10 02:06:51 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1.webp
@@ -248,19 +248,19 @@ image: /assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration
 
 ## Introduction
 
-The March 2020 Mahé sighting is one of the clearest examples in the [Seychelles]({{ 'what-do-seychelles-ufo-reports-really/' | relative_url }}) UFO record of how modern satellite constellations can create dramatic but ultimately explainable reports. Two observers reported multiple moving lights over Mahé for roughly 90 minutes, and the report later appeared in the National UFO Reporting Center (NUFORC) database with the assessment “Starlink satellites”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 154304NUFORC UFO Sighting 154304 · Occurred: 2020-03-21 19:00 Local · Reported: 2020-03-21 10:30 Pacific · Duration...</span><span class="citation-popover-meta">Published: March 21, 2020</span></span></span>
+The March 2020 Mahé sighting is one of the clearest examples in the Seychelles UFO record of how modern satellite constellations can create dramatic but ultimately explainable reports. Two observers reported multiple moving lights over Mahé for roughly 90 minutes, and the report later appeared in the National UFO Reporting Center (NUFORC) database with the assessment “Starlink satellites”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 154304NUFORC UFO Sighting 154304 · Occurred: 2020-03-21 19:00 Local · Reported: 2020-03-21 10:30 Pacific · Duration...</span><span class="citation-popover-meta">Published: March 21, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1-dark.svg" | relative_url }}" alt="Starlink illustration 1" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case important is not that it presents strong evidence for an unidentified craft. Its value is almost the opposite. It shows how the arrival of large satellite constellations changed the visual appearance of the night sky over island regions such as Seychelles, where wide ocean horizons, low light pollution outside urban areas, and unobstructed views can make unusual aerial lights especially noticeable. The Mahé report sits within a wider global wave of Starlink-related UFO claims that surged in 2019 and 2020 as thousands of observers encountered satellite trains for the first time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWhat Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
+What makes the case important is not that it presents strong evidence for an unidentified craft. Its value is almost the opposite. It shows how the arrival of large satellite constellations changed the visual appearance of the night sky over island regions such as Seychelles, where wide ocean horizons, low light pollution outside urban areas, and unobstructed views can make unusual aerial lights especially noticeable. The Mahé report sits within a wider global wave of Starlink-related UFO claims that surged in 2019 and 2020 as thousands of observers encountered satellite trains for the first time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
 
 ## What the 2020 Mahé report describes
 
 The publicly available NUFORC entry records a sighting on 21 March 2020 from Mahé. According to the report, observers initially saw two lights moving from south to north before additional lights appeared. The event reportedly lasted around 90 minutes. The database entry itself includes the note “Starlink satellites”, indicating that the lights were considered consistent with the recently launched satellite constellation rather than an unexplained aerial phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The timing is significant. Only days earlier, SpaceX had launched another batch of 60 Starlink satellites on 18 March 2020. During the period immediately after launch, satellites remain clustered together before gradually spreading out along their orbital path. These newly deployed groups often create the most striking visual displays visible from the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-launches-starlink-5-satellites-misses-rocket-landing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceSpaceX launches 60 Starlink satellites into orbit, misses...SpaceX successfully launched a new batch of 60 Starlink satellites into...</span></span></span>
+The timing is significant. Only days earlier, SpaceX had launched another batch of 60 Starlink satellites on 18 March 2020. During the period immediately after launch, satellites remain clustered together before gradually spreading out along their orbital path. These newly deployed groups often create the most striking visual displays visible from the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-launches-starlink-5-satellites-misses-rocket-landing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX launches 60 Starlink satellites into orbit, misses...SpaceX successfully launched a new batch of 60 Starlink satellites into...</span></span></span>
 
-In practical terms, a person standing on Mahé and seeing multiple bright lights moving steadily across the sky in formation could easily interpret the sight as unusual. Prior to the Starlink era, most people occasionally noticed a single satellite. A line or train of dozens of lights moving together was unfamiliar enough to trigger reports of UFOs around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWhat Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
+In practical terms, a person standing on Mahé and seeing multiple bright lights moving steadily across the sky in formation could easily interpret the sight as unusual. Prior to the Starlink era, most people occasionally noticed a single satellite. A line or train of dozens of lights moving together was unfamiliar enough to trigger reports of UFOs around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/599SVL_-Sv8" title="Watch live: SpaceX launches 21 Starlink satellites from Cape Canaveral on Falcon 9 rocket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=599SVL_-Sv8" target="_blank" rel="noopener noreferrer">Watch live: SpaceX launches 21 Starlink satellites from Cape Canaveral on Falcon 9 rocket</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now &middot; Views: 131.1K &middot; Uploaded: March 2025 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=599SVL_-Sv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=599SVL_-Sv8">Open on YouTube</a></p></div></div></div>
@@ -275,7 +275,7 @@ Several features make them easy to mistake for something extraordinary:
 * **Silent motion:** Like conventional satellites, Starlink vehicles move silently across the sky, which can make them seem unlike aircraft.
 * **Brightness changes:** Reflections from solar panels and satellite surfaces can cause sudden brightening or fading.
 * **Uniform spacing:** The satellites may appear arranged with unusual precision, creating the impression of an organised formation.
-* **Long visibility windows:** Depending on orbital geometry and illumination conditions, multiple passes can occur during the same evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWhat Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verasatglobal.com">[Verasatglobal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verasatglobal.com</span><span class="citation-popover-snippet">How to see Starlink satellites in the night skyOne of the most fascinating aspects of Starlink satellites is that they can be seen with t...</span></span></span>
+* **Long visibility windows:** Depending on orbital geometry and illumination conditions, multiple passes can occur during the same evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verasatglobal.com">[Verasatglobal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verasatglobal.com</span><span class="citation-popover-snippet">How to see Starlink satellites in the night skyOne of the most fascinating aspects of Starlink satellites is that they can be seen with t...</span></span></span>
 
 The confusion is amplified in places such as Seychelles. Much of the country is surrounded by open ocean rather than dense urban skylines. A moving line of lights can remain visible for a considerable distance without being obscured by terrain or buildings. This creates an observational environment where unusual celestial or orbital events stand out sharply against the horizon.
 
@@ -288,7 +288,7 @@ The Mahé case was not isolated. Around the world, 2020 saw a noticeable rise in
 
 The broader context matters because it helps explain why the Seychelles report fits a recognisable pattern rather than standing apart as a unique mystery.
 
-Researchers studying satellite constellations note that the earliest generations of Starlink satellites were bright enough to be visible to the naked eye under favourable conditions. Scientific analyses found many satellites reaching magnitudes that ordinary observers could detect, particularly shortly after launch and during twilight conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Researchers studying satellite constellations note that the earliest generations of Starlink satellites were bright enough to be visible to the naked eye under favourable conditions. Scientific analyses found many satellites reaching magnitudes that ordinary observers could detect, particularly shortly after launch and during twilight conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 As thousands of additional satellites entered low Earth orbit, sightings that would once have seemed extraordinary became increasingly common. The visual appearance of the night sky changed faster than public awareness did. In many places, including island communities, people encountered these lights before they understood what they were seeing.
 
@@ -319,86 +319,44 @@ Useful checks include:
 1. **Look for a line or train formation.** Multiple evenly spaced lights strongly suggest recently launched satellites.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Satellites Look Like UFOs Over Seychelles. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Satellites Look Like UFOs Over Seychelles, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for understanding recurring sky-report mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Emphasizes identifying ordinary explanations before extraordinary ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses contemporary reporting in the satellite era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for distinguishing strong cases from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -432,75 +390,71 @@ Useful checks include:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-over-seychelles-seychelles-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -733,183 +687,183 @@ In a country with relatively few documented UFO reports, the Mahé incident serv
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=154304](https://nuforc.org/sighting/?id=154304)  
+   Link: <a href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154304</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 154304NUFORC UFO Sighting 154304 · Occurred: 2020-03-21 19:00 Local · Reported: 2020-03-21 10:30 Pacific · Duration...</p></details>
    Published: March 21, 2020  
 
 2. <a id="endnote-2"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/](https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesWhat Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
+   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-launches-starlink-5-satellites-misses-rocket-landing.html](https://www.space.com/spacex-launches-starlink-5-satellites-misses-rocket-landing.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceSpaceX launches 60 Starlink satellites into orbit, misses...SpaceX successfully launched a new batch of 60 Starlink satellites into...</p></details>
+   Link: <a href="https://www.space.com/spacex-launches-starlink-5-satellites-misses-rocket-landing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-launches-starlink-5-satellites-misses-rocket-landing.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches 60 Starlink satellites into orbit, misses...SpaceX successfully launched a new batch of 60 Starlink satellites into...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of Starlink and Starshield launches  
-   Link: [https://en.wikipedia.org/wiki/List_of_Starlink_and_Starshield_launches](https://en.wikipedia.org/wiki/List_of_Starlink_and_Starshield_launches)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_Starlink_and_Starshield_launches" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Starlink_and_Starshield_launches</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 March 2020, 12:16:39, Kennedy, LC-39A, 550 km (340 mi), 53.0°, 60, 54... &quot;After SpaceX Starlink Launch, a Fear of Satellites That Out...</p></details>
    Published: March 2020  
 
 5. <a id="endnote-5"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</p></details>
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: verasatglobal.com  
-   Link: [https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/](https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/)  
+   Link: <a href="https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.verasatglobal.com/en/how-to-see-starlink-satellites-in-the-night-sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to see Starlink satellites in the night skyOne of the most fascinating aspects of Starlink satellites is that they can be seen with t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2208.03226](https://arxiv.org/abs/2208.03226)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPhotometric Characterization and Trajectory Accuracy of Starlink Satellites: Implications for Ground-Based Astronomical SurveysAugus...</p></details>
+   Link: <a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photometric Characterization and Trajectory Accuracy of Starlink Satellites: Implications for Ground-Based Astronomical SurveysAugus...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.07446](https://arxiv.org/abs/2003.07446)  
+   Link: <a href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07446</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 11. <a id="endnote-11"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/SelectLocation.aspx](https://www.heavens-above.com/SelectLocation.aspx)  
+   Link: <a href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/SelectLocation.aspx</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=164134](https://nuforc.org/sighting/?id=164134)  
+   Link: <a href="https://nuforc.org/sighting/?id=164134" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164134</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 164134NUFORC UFO Sighting 164134. Occurred: 2021-05-05 02:15 Local Reported: 2021-07-22 16:07 Pacific Duration: 2 min...</p></details>
    Published: May 5, 2021  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193613](https://nuforc.org/sighting/?id=193613)  
+   Link: <a href="https://nuforc.org/sighting/?id=193613" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193613</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19361329 Oct 2025 — NUFORC UFO Sighting 193613. Occurred: 2025-08-20 03:53 Local Reported: 2025-10-28 09:03 Pacific D...</p></details>
    Published: August 20, 2025  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/post230409/](https://nuforc.org/post230409/)  
+   Link: <a href="https://nuforc.org/post230409/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/post230409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>333 New Reports Posted9 Apr 2023 — The NUFORC website has been updated as of Sunday, April 09, 2023, with the posting of 333 new reports...</p></details>
    Published: April 9, 2023  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ot UFOs, so please do not report them. The lights...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: space.com  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night sky5 May 2026 — During this time, they often appear as a bright, fast-movi...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: space.com  
    Title: x starlink launch rocket landing  
-   Link: [https://www.space.com/spacex-starlink-launch-rocket-landing.html](https://www.space.com/spacex-starlink-launch-rocket-landing.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches 57 more Starlink satellites, lands rocket...6 Aug 2020 — A two-stage Falcon 9 rocket carrying 57 SpaceX Starlink satelli...</p></details>
+   Link: <a href="https://www.space.com/spacex-starlink-launch-rocket-landing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-launch-rocket-landing.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>X launches 57 more Starlink satellites, lands rocket...6 Aug 2020 — A two-stage Falcon 9 rocket carrying 57 SpaceX Starlink satelli...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Starlink](https://en.wikipedia.org/wiki/Starlink)  
+   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink constitutes 65% of all active satellites. Nearly 12,000 satellites are planned, with a possible later extension to 34...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: news.sky.com  
    Title: starlink satellites leads to ufo reports 12297446  
-   Link: [https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446](https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446)  
+   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites leads to UFO reports | World NewsThe string of lights were determined to be Starlink satellites launched by SpaceX... Starlin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Starlink satellites, the string of lights in the night sky  
-   Link: [https://www.youtube.com/watch?v=GhLXCJ1Gyyc](https://www.youtube.com/watch?v=GhLXCJ1Gyyc)  
+   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX to Launch Starlink Satellites with &#x27;Visors&#x27; to Reduce Brightness...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Space X to Launch Starlink Satellites with 'Visors' to Reduce Brightness  
-   Link: [https://www.youtube.com/watch?v=vj0GCuxJGuM](https://www.youtube.com/watch?v=vj0GCuxJGuM)  
+   Link: <a href="https://www.youtube.com/watch?v=vj0GCuxJGuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vj0GCuxJGuM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Over Seychelles Relaxing 4K Nature Film...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aWpeN3cU17Q](https://www.youtube.com/watch?v=aWpeN3cU17Q)  
+   Link: <a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aWpeN3cU17Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight...The geometry behind satellite flare and how you can see sunlight and ref...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: spaceweatherarchive.com  
-   Link: [https://spaceweatherarchive.com/2025/02/19/unprecedented-starlink-reentries/](https://spaceweatherarchive.com/2025/02/19/unprecedented-starlink-reentries/)  
+   Link: <a href="https://spaceweatherarchive.com/2025/02/19/unprecedented-starlink-reentries/" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2025/02/19/unprecedented-starlink-reentries/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unprecedented Starlink Reentries - Spaceweather.com19 Feb 2025 — In January alone, more than 120 Starlinks deorbited, creating a shower o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: tbsnews.net  
-   Link: [https://www.tbsnews.net/science/spacex-launches-third-batch-starlink-satellites](https://www.tbsnews.net/science/spacex-launches-third-batch-starlink-satellites)  
+   Link: <a href="https://www.tbsnews.net/science/spacex-launches-third-batch-starlink-satellites" target="_blank" rel="noopener noreferrer nofollow">https://www.tbsnews.net/science/spacex-launches-third-batch-starlink-satellites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches third batch of Starlink satellitesSpaceX on Monday launched its third batch of 60 mini-satellites into orbit, part of its...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/7501076249914681/](https://www.facebook.com/groups/2365809903441367/posts/7501076249914681/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7501076249914681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7501076249914681/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ireland/comments/1sckpkj/what_are_those_lights_in_the_sky/](https://www.reddit.com/r/ireland/comments/1sckpkj/what_are_those_lights_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/ireland/comments/1sckpkj/what_are_those_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ireland/comments/1sckpkj/what_are_those_lights_in_the_sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are those lights in the Sky??: r/irelandIt&#x27;s probably starlink I&#x27;ve just never seen it before and it looks mental. There&#x27;s like 100...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406](https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406)  
+   Link: <a href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>github.comnuforc_reports.csv · GitHubUFO&#x27;s Might be Observing Elon Musk&#x27;s StarLink satellites!,Merrilville,IN... UFO sightings in the Pa...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: blog.stackademic.com  
-   Link: [https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47](https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47)  
+   Link: <a href="https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47" target="_blank" rel="noopener noreferrer nofollow">https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The...27 Mar 2026 — NUFORC has catalogued almost 170,000 reported UFO sightings over its history, most of which were in the United State...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: newsweek.com  
-   Link: [https://www.newsweek.com/what-were-lights-sky-spacex-starlink-satellites-strange-line-1589131](https://www.newsweek.com/what-were-lights-sky-spacex-starlink-satellites-strange-line-1589131)  
+   Link: <a href="https://www.newsweek.com/what-were-lights-sky-spacex-starlink-satellites-strange-line-1589131" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/what-were-lights-sky-spacex-starlink-satellites-strange-line-1589131</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QV5rCP7uiaU](https://www.youtube.com/watch?v=QV5rCP7uiaU)  
+   Link: <a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QV5rCP7uiaU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites light up night sky over MassachusettsA string of satellites that Elon Musk Starling company started launching back in...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/0FCL7iaLyQ8](https://www.youtube.com/shorts/0FCL7iaLyQ8)  
+   Link: <a href="https://www.youtube.com/shorts/0FCL7iaLyQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/0FCL7iaLyQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in Night Sky? It was SpaceX Starlink, not UFOsWhat you saw was likely a SpaceX Starlink satellite train which appears as a...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=obmBcb0kQ3Y](https://www.youtube.com/watch?v=obmBcb0kQ3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in Night Sky? It was SpaceX Starlink, not UFOsWhat you saw was likely a SpaceX Starlink satellite train which appears as a...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JID7_Fir1kY](https://www.youtube.com/watch?v=JID7_Fir1kY)  
+   Link: <a href="https://www.youtube.com/watch?v=JID7_Fir1kY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JID7_Fir1kY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch live: SpaceX launches 21 Starlink satellites from Cape...Watch live coverage as SpaceX launches a Falcon 9 rocket with 21 satellit...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=599SVL_-Sv8](https://www.youtube.com/watch?v=599SVL_-Sv8)  
+   Link: <a href="https://www.youtube.com/watch?v=599SVL_-Sv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=599SVL_-Sv8</a>  

@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-47ce4a/
   short_title: Timeline
   heading_title: Which Honduras UFO Reports Matter Most?
-date: '2026-06-09 01:29:21 '
+date: '2026-06-10 01:54:41 '
 header:
   og_image: /assets/images/Honduras_5aa588_palmerola_soto_cano_267df8-Illustration-1-social.jpg
   preview_image: /assets/images/Honduras_5aa588_palmerola_soto_cano_267df8-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Honduras_5aa588_palmerola_soto_cano_267df8-Illustration-1-
 
 ## Introduction
 
-The UFO stories linked to Palmerola Air Base, later renamed Soto Cano Air Base, occupy a special place in [Honduras]({{ 'what-do-honduras-ufo-reports-really-show/' | relative_url }})’ fragmented UFO history because they combine two powerful ingredients: a military setting and a Cold War atmosphere. The core reports are not supported by released radar tracks, photographs, or declassified investigations. Instead, they survive mainly through later witness testimony, especially a pair of reports associated with March 1985 at Palmerola. Even so, the stories continue to attract attention because the base itself was one of the most strategically important military locations in Central America during the 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Honduras</span><span class="citation-popover-snippet">Open, 06/01/1980 22:00, Honduras, Honduras, Other. Open, 12/24/1974 23:50, Tegucigalpa (Honduras)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-89-107br.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 89 107br</span><span class="citation-popover-snippet">GAOHONDURAS US Military Presence at Soto Cano Air Base21 Mar 1989 — In response to your request, we reviewed operations of the U.S. milit...</span></span></span>
+The UFO stories linked to Palmerola Air Base, later renamed Soto Cano Air Base, occupy a special place in Honduras’ fragmented UFO history because they combine two powerful ingredients: a military setting and a Cold War atmosphere. The core reports are not supported by released radar tracks, photographs, or declassified investigations. Instead, they survive mainly through later witness testimony, especially a pair of reports associated with March 1985 at Palmerola. Even so, the stories continue to attract attention because the base itself was one of the most strategically important military locations in Central America during the 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Honduras</span><span class="citation-popover-snippet">Open, 06/01/1980 22:00, Honduras, Honduras, Other. Open, 12/24/1974 23:50, Tegucigalpa (Honduras)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-89-107br.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 89 107br</span><span class="citation-popover-snippet">HONDURAS US Military Presence at Soto Cano Air Base21 Mar 1989 — In response to your request, we reviewed operations of the U.S. milit...</span></span></span>
 
 
 <img src="{{ "/assets/images/Honduras_5aa588_palmerola_soto_cano_267df8-Illustration-1-dark.svg" | relative_url }}" alt="Palmerola illustration 1" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588_palmerola_soto_cano_267df8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588_palmerola_soto_cano_267df8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,7 +280,7 @@ The later renaming of the installation to Soto Cano Air Base in 1988 also compli
 
 ## The 1985 Orb Reports in Context
 
-The best-known Honduras military UFO story comes from a report catalogued decades later by the National UFO Reporting Center (NUFORC). The entry describes an event allegedly witnessed in March 1985 by a US Army medic temporarily stationed at Palmerola Air Base. According to the testimony, the witness observed a bright orb-like light over the Comayagua Valley performing rapid movements, abrupt stops, and arcing manoeuvres inconsistent with ordinary aircraft behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+The best-known Honduras military UFO story comes from a report catalogued decades later by the National UFO Reporting Center (NUFORC). The entry describes an event allegedly witnessed in March 1985 by a US Army medic temporarily stationed at Palmerola Air Base. According to the testimony, the witness observed a bright orb-like light over the Comayagua Valley performing rapid movements, abrupt stops, and arcing manoeuvres inconsistent with ordinary aircraft behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 A second Palmerola entry in the same database summarises the incident more briefly as an “anomalous entity” crossing the night sky at unusual speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsOrb. Open, 05/12/2026 19:05, Palm Beach, Queensland, Australia, Orb. Open, 05/12/2026 18:20, Tuscaloosa, AL, USA, Disk...</span></span></span>
 
@@ -428,7 +428,7 @@ The Palmerola stories remain unresolved mainly because too little primary eviden
 
 * Contemporaneous witness statements from multiple personnel.
 * Air traffic control logs.
-* Honduran Air Force documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jtfb.southcom.mil/Portals/14/documents/A%20History%20of%20JTF-Bravo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jtfb.southcom.mil">[jtfb.southcom.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jtfb.southcom.mil</span><span class="citation-popover-title">A History of JTF Bravo</span><span class="citation-popover-snippet">JTFBA History of Joint Task Force-Bravo16 Feb 1984 — after takeoff from Palmerola AB. • October – Palmerola AB renamed Soto Cano AB in ho...</span></span></span>
+* Honduran Air Force documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jtfb.southcom.mil/Portals/14/documents/A%20History%20of%20JTF-Bravo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jtfb.southcom.mil">[jtfb.southcom.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jtfb.southcom.mil</span><span class="citation-popover-title">A History of JTF Bravo</span><span class="citation-popover-snippet">A History of Joint Task Force-Bravo16 Feb 1984 — after takeoff from Palmerola AB. • October – Palmerola AB renamed Soto Cano AB in ho...</span></span></span>
 * Radar or tracking records.
 * Newspaper reporting from 1985.
 * Declassified US military communications mentioning unusual aerial activity.
@@ -447,86 +447,44 @@ At present, the Palmerola and Soto Cano UFO stories remain historically interest
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Palmerola Became Honduras&#x27; UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Palmerola Became Honduras&#x27; UFO Hotspot, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820708-M.jpg" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Government information, Government policy, Conspiracies, Unidentified flying objects, Sightings and encou...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how military UFO cases are assessed and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on military and aviation witnesses similar to Palmerola claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Good</p>
-        
-        <p class="fr-book-desc">Compiles international military and government UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -560,75 +518,71 @@ At present, the Palmerola and Soto Cano UFO stories remain historically interest
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/7636d1adb60b399752bf.jpg' | relative_url }}" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-t-shirt-gerry-anderson-series-television-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-t-shirt-gerry-anderson-series-television-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=palmerola-why-palmerola-became-honduras-ufo-hotspot-honduras-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -843,134 +797,134 @@ At present, the Palmerola and Soto Cano UFO stories remain historically interest
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Honduras  
-   Link: [https://nuforc.org/subndx/?id=cHonduras](https://nuforc.org/subndx/?id=cHonduras)  
+   Link: <a href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cHonduras</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open, 06/01/1980 22:00, Honduras, Honduras, Other. Open, 12/24/1974 23:50, Tegucigalpa (Honduras)...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gao.gov  
    Title: nsiad 89 107br  
-   Link: [https://www.gao.gov/assets/nsiad-89-107br.pdf](https://www.gao.gov/assets/nsiad-89-107br.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GAOHONDURAS US Military Presence at Soto Cano Air Base21 Mar 1989 — In response to your request, we reviewed operations of the U.S. milit...</p></details>
+   Link: <a href="https://www.gao.gov/assets/nsiad-89-107br.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-89-107br.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HONDURAS US Military Presence at Soto Cano Air Base21 Mar 1989 — In response to your request, we reviewed operations of the U.S. milit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Soto Cano Air Base  
-   Link: [https://en.wikipedia.org/wiki/Soto_Cano_Air_Base](https://en.wikipedia.org/wiki/Soto_Cano_Air_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Soto_Cano_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soto_Cano_Air_Base</a>  
 
 4. <a id="endnote-4"></a>
    Source: jtfb.southcom.mil  
-   Link: [https://www.jtfb.southcom.mil/](https://www.jtfb.southcom.mil/)  
+   Link: <a href="https://www.jtfb.southcom.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.jtfb.southcom.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Task Force-BravoSoto Cano Air Base Tour. Click here to view! next. 1. Featured Information. Welcome Guide. JTF-Bravo Welcome Guide · Hist...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/products/nsiad-95-39](https://www.gao.gov/products/nsiad-95-39)  
+   Link: <a href="https://www.gao.gov/products/nsiad-95-39" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-39</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continuing U.S. Military Presence at Soto Cano Base Is...GAO reviewed whether the US military presence at Soto Cano Air Base in Honduras...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsOrb. Open, 05/12/2026 19:05, Palm Beach, Queensland, Australia, Orb. Open, 05/12/2026 18:20, Tuscaloosa, AL, USA, Disk...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=179528](https://nuforc.org/sighting/?id=179528)  
+   Link: <a href="https://nuforc.org/sighting/?id=179528" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=179528</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 179528I went out back with my phone and watched the sky in the area they said and one orb showed up turned to 4 orbs...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=101246](https://nuforc.org/sighting/?id=101246)  
+   Link: <a href="https://nuforc.org/sighting/?id=101246" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101246</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 101246We saw as SEVERAL, LIKE MAYBE 7-10 lights in orb shapes mover up (no gas trail/light trail? and were in a forma...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e201708](https://nuforc.org/subndx/?id=e201708)  
+   Link: <a href="https://nuforc.org/subndx/?id=e201708" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e201708</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 201708Orb, We saw a bright orange, silent orb travelling quickly N. It went about a quarter mi. then disappeared...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsHarrison Township, MI, USA, Orb. Open! 06/14/2025 15:30, Meridian, ID, USA, Disk. Open! 06/06/2025 18:00, CA...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/Photos/igphoto/2001127791/](https://www.war.gov/Multimedia/Photos/igphoto/2001127791/)  
+   Link: <a href="https://www.war.gov/Multimedia/Photos/igphoto/2001127791/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2001127791/</a>  
 
 13. <a id="endnote-13"></a>
    Source: irp.fas.org  
    Title: Intelligence Resource Program GAO  
-   Link: [https://irp.fas.org/gao/nsi95039.htm](https://irp.fas.org/gao/nsi95039.htm)  
+   Link: <a href="https://irp.fas.org/gao/nsi95039.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/gao/nsi95039.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Presence at Soto...8 Feb 1995 — Since 1983, the United States has maintained a semipermanent military presence at Honduras&#x27; Sot...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/440321/soto-cano-air-base-honduras](https://www.dvidshub.net/video/440321/soto-cano-air-base-honduras)  
+   Link: <a href="https://www.dvidshub.net/video/440321/soto-cano-air-base-honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/440321/soto-cano-air-base-honduras</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soto Cano Air Base, HondurasSoto Cano Air Base, Honduras &amp;middot; COMAYAGUA, HONDURAS &amp;middot; 12.02.2015 &amp;middot; Video by Sgt. Sean-Dav...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sentientorbs.com  
    Title: NUFORC 73622  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-73622](https://sentientorbs.com/explore/sightings/NUFORC-73622)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-73622" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-73622</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego CA Marine Air Base Ball of Light | Sentient OrbsSentient Orbs — Anomaly Intelligence System for tracking UAP, NHI, and unclassi...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: jtfb.southcom.mil  
-   Link: [https://www.jtfb.southcom.mil/Media/Photos/igphoto/2002124797/](https://www.jtfb.southcom.mil/Media/Photos/igphoto/2002124797/)  
+   Link: <a href="https://www.jtfb.southcom.mil/Media/Photos/igphoto/2002124797/" target="_blank" rel="noopener noreferrer nofollow">https://www.jtfb.southcom.mil/Media/Photos/igphoto/2002124797/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>leadership visits Soto CanoMore than 30 representatives and senior leaders from different military and civilian Honduran organizations vi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 18. <a id="endnote-18"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/news/479461/joint-task-force-bravos-41-year-old-legacy-reminisced-soto-cano-air-bases-employees](https://www.dvidshub.net/news/479461/joint-task-force-bravos-41-year-old-legacy-reminisced-soto-cano-air-bases-employees)  
+   Link: <a href="https://www.dvidshub.net/news/479461/joint-task-force-bravos-41-year-old-legacy-reminisced-soto-cano-air-bases-employees" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/479461/joint-task-force-bravos-41-year-old-legacy-reminisced-soto-cano-air-bases-employees</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Task Force-Bravo&#x27;s 41-year-old legacy reminisced by...20 Dec 2024 — At Palmerola, the former name of Soto Cano Air Base, over $280...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=28hqcXEJEVE](https://www.youtube.com/watch?v=28hqcXEJEVE)  
+   Link: <a href="https://www.youtube.com/watch?v=28hqcXEJEVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=28hqcXEJEVE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Soldier Soto Cano lifeNewcomers de Soto Cano Air Base may not experience the lifestyle of the rich and famous but living conditions a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: afsouth.af.mil  
    Title: 70th anniversary of the united states and honduras partnership  
-   Link: [https://www.afsouth.af.mil/News/Article-Display/Article/3782858/70th-anniversary-of-the-united-states-and-honduras-partnership/](https://www.afsouth.af.mil/News/Article-Display/Article/3782858/70th-anniversary-of-the-united-states-and-honduras-partnership/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFSOUTH70th Anniversary of the United States and Honduras&#x27;...20 May 2024 — This Annex started the pathway for Soto Cano Air Base, the fo...</p></details>
+   Link: <a href="https://www.afsouth.af.mil/News/Article-Display/Article/3782858/70th-anniversary-of-the-united-states-and-honduras-partnership/" target="_blank" rel="noopener noreferrer nofollow">https://www.afsouth.af.mil/News/Article-Display/Article/3782858/70th-anniversary-of-the-united-states-and-honduras-partnership/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>70th Anniversary of the United States and Honduras&#x27;...20 May 2024 — This Annex started the pathway for Soto Cano Air Base, the fo...</p></details>
    Published: May 2024  
 
 21. <a id="endnote-21"></a>
    Source: acc.af.mil  
    Title: flying iguanas jump in honduras  
-   Link: [https://www.acc.af.mil/News/Article-Display/Article/202142/flying-iguanas-jump-in-honduras/](https://www.acc.af.mil/News/Article-Display/Article/202142/flying-iguanas-jump-in-honduras/)  
+   Link: <a href="https://www.acc.af.mil/News/Article-Display/Article/202142/flying-iguanas-jump-in-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://www.acc.af.mil/News/Article-Display/Article/202142/flying-iguanas-jump-in-honduras/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>af.mil&quot;Flying Iguanas&quot; jump in Honduras28 Apr 2008 — 138 paratroopers from 17 countries descended from clear blue skies to the ground at...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VLGX1nkrBa4](https://www.youtube.com/watch?v=VLGX1nkrBa4)  
+   Link: <a href="https://www.youtube.com/watch?v=VLGX1nkrBa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VLGX1nkrBa4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Taxista asegura haber tenido varios encuentros con ovnis en Honduras  
-   Link: [https://www.youtube.com/watch?v=9OXaBBhpDoY](https://www.youtube.com/watch?v=9OXaBBhpDoY)  
+   Link: <a href="https://www.youtube.com/watch?v=9OXaBBhpDoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9OXaBBhpDoY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taxista hondureño que vio un OVNI sorprende a pasajeros con historias paranormales en Tegucigalpa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jtfb.southcom.mil  
    Title: A History of JTF Bravo  
-   Link: [https://www.jtfb.southcom.mil/Portals/14/documents/A%20History%20of%20JTF-Bravo.pdf](https://www.jtfb.southcom.mil/Portals/14/documents/A%20History%20of%20JTF-Bravo.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JTFBA History of Joint Task Force-Bravo16 Feb 1984 — after takeoff from Palmerola AB. • October – Palmerola AB renamed Soto Cano AB in ho...</p></details>
+   Link: <a href="https://www.jtfb.southcom.mil/Portals/14/documents/A%20History%20of%20JTF-Bravo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jtfb.southcom.mil/Portals/14/documents/A%20History%20of%20JTF-Bravo.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Joint Task Force-Bravo16 Feb 1984 — after takeoff from Palmerola AB. • October – Palmerola AB renamed Soto Cano AB in ho...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: [https://www.youtube.com/watch?v=0FqCRPpg57c](https://www.youtube.com/watch?v=0FqCRPpg57c)  
+   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>

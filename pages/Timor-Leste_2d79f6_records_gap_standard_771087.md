@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-checks-bb2477/
   short_title: Sky Checks
   heading_title: What Else Could Timor Leste Witnesses See?
-date: '2026-06-09 01:42:33 '
+date: '2026-06-10 02:10:01 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1.webp
@@ -258,19 +258,19 @@ Timor-Leste does not have a known public UFO archive, a dedicated civilian repor
 
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Timor-Leste, the central issue is therefore not hidden proof of extraordinary objects. It is the lack of structured documentation. The few publicly visible reports are scattered across private UFO databases, social-media uploads, and anecdotal accounts, leaving investigators with little ability to test explanations against flight records, weather conditions, radar coverage, satellite data, or independent witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+For Timor-Leste, the central issue is therefore not hidden proof of extraordinary objects. It is the lack of structured documentation. The few publicly visible reports are scattered across private UFO databases, social-media uploads, and anecdotal accounts, leaving investigators with little ability to test explanations against flight records, weather conditions, radar coverage, satellite data, or independent witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 ## Why Timor-Leste UFO Records Stay Thin
 
 The country's limited public UFO record reflects several practical realities rather than a single cause.
 
-First, Timor-Leste is a relatively young state whose institutions spent years prioritising reconstruction, security, infrastructure, public administration, and economic development after independence. Large-scale public archiving of unusual aerial observations was never a visible national priority. In the years around the 2000 Ainaro sighting, major resources were being directed towards rebuilding electricity networks and basic services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/indonesia/east-timor-update-april-2000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">east timor update april 2000</span><span class="citation-popover-snippet">ReliefWebEast Timor Update, April 2000 - Indonesia30 Apr 2000 — About US$ 7.5 million will go towards projects for the re-establishment o...</span><span class="citation-popover-meta">Published: april 2000</span></span></span>
+First, Timor-Leste is a relatively young state whose institutions spent years prioritising reconstruction, security, infrastructure, public administration, and economic development after independence. Large-scale public archiving of unusual aerial observations was never a visible national priority. In the years around the 2000 Ainaro sighting, major resources were being directed towards rebuilding electricity networks and basic services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/indonesia/east-timor-update-april-2000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">east timor update april 2000</span><span class="citation-popover-snippet">East Timor Update, April 2000 - Indonesia30 Apr 2000 — About US$ 7.5 million will go towards projects for the re-establishment o...</span><span class="citation-popover-meta">Published: april 2000</span></span></span>
 
-Second, the country has a small aviation sector compared with larger regional states. Fewer airports, fewer flights, and lower air-traffic density naturally generate fewer opportunities for documented pilot sightings and fewer publicly available aviation records. Timor-Leste joined the International Civil Aviation Organization (ICAO) in 2005 and has gradually expanded its aviation oversight structures, but publicly searchable incident material remains limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2880440/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAviation safety and ICAO18 Mar 2026 — of aircraft, accident/incident investigation, and transportation of dangerous...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">03000200 final report</span><span class="citation-popover-snippet">ICAOControlled Flight into Terrain31 Jan 2003 — This report includes a number of recommendations made by the ATSB with the intention of e...</span></span></span>
+Second, the country has a small aviation sector compared with larger regional states. Fewer airports, fewer flights, and lower air-traffic density naturally generate fewer opportunities for documented pilot sightings and fewer publicly available aviation records. Timor-Leste joined the International Civil Aviation Organization (ICAO) in 2005 and has gradually expanded its aviation oversight structures, but publicly searchable incident material remains limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2880440/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAviation safety and ICAO18 Mar 2026 — of aircraft, accident/incident investigation, and transportation of dangerous...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">03000200 final report</span><span class="citation-popover-snippet">Controlled Flight into Terrain31 Jan 2003 — This report includes a number of recommendations made by the ATSB with the intention of e...</span></span></span>
 
 Third, unusual-light reports in small communities often remain informal. A fisherman, driver, farmer, harbour worker, or village resident may tell neighbours about a strange sighting without filing a formal statement. Once that happens, details that investigators need—exact time, direction, weather conditions, duration, and witness position—begin to disappear.
 
-The result is visible in the public record itself. The Ainaro case from April 2000 remains one of the only Timor-Leste sightings with a reasonably detailed narrative. By contrast, many later Dili-related claims survive mainly as reposted videos, captions, or social-media discussions that lack original metadata or independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO Over Dili Timor Leste</span><span class="citation-popover-snippet">FacebookUFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA... Copyright 2026 National UFO Reporting Center, Daven...</span></span></span>
+The result is visible in the public record itself. The Ainaro case from April 2000 remains one of the only Timor-Leste sightings with a reasonably detailed narrative. By contrast, many later Dili-related claims survive mainly as reposted videos, captions, or social-media discussions that lack original metadata or independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO Over Dili Timor Leste</span><span class="citation-popover-snippet">UFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA... Copyright 2026 National UFO Reporting Center, Daven...</span></span></span>
 
 ## What Official Silence Does Not Prove
 
@@ -278,7 +278,7 @@ A common mistake in UFO debates is treating the absence of government files as e
 
 Official silence does not prove that significant incidents occurred and were concealed. Equally, it does not prove that all reported observations were trivial or misidentified.
 
-In Timor-Leste, several more mundane explanations exist for the lack of records: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preventionweb.net">[preventionweb.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preventionweb.net</span><span class="citation-popover-snippet">PreventionWebTIMOR-LESTEPolice Timor-Leste Police development programs a means to professionalize Timorese forces and to build familiarit...</span></span></span>
+In Timor-Leste, several more mundane explanations exist for the lack of records: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preventionweb.net">[preventionweb.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preventionweb.net</span><span class="citation-popover-snippet">TIMOR-LESTEPolice Timor-Leste Police development programs a means to professionalize Timorese forces and to build familiarit...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -358,7 +358,7 @@ Even when officers cannot explain an observation, a basic incident record preser
 
 </div>
 
-Timor-Leste's security and emergency institutions already document many categories of unusual public incidents. Aerial-observation reporting could be integrated into existing systems rather than requiring a separate UFO office. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preventionweb.net">[PreventionWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preventionweb.net</span><span class="citation-popover-snippet">PreventionWebTIMOR-LESTEPolice Timor-Leste Police development programs a means to professionalize Timorese forces and to build familiarit...</span></span></span>
+Timor-Leste's security and emergency institutions already document many categories of unusual public incidents. Aerial-observation reporting could be integrated into existing systems rather than requiring a separate UFO office. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preventionweb.net">[PreventionWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preventionweb.net</span><span class="citation-popover-snippet">TIMOR-LESTEPolice Timor-Leste Police development programs a means to professionalize Timorese forces and to build familiarit...</span></span></span>
 
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-2-dark.svg" | relative_url }}" alt="Records Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -463,89 +463,47 @@ A well-documented case can be sorted into clearer categories:
 * Insufficient information.
 * Genuinely unresolved observation.
 
-Many international reviews of UAP reporting have found that improved data collection frequently converts apparent mysteries into identifiable aircraft, balloons, drones, atmospheric effects, or other ordinary causes. At the same time, a small number of cases remain unresolved because the available information is incomplete rather than because an extraordinary explanation has been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-snippet">7NEWSPentagon received hundreds of new UAP reports, but says...15 Nov 2024 — The report cites 21 particularly curious cases of unidentif...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[Verdict For Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">03000200 final report</span><span class="citation-popover-snippet">ICAOControlled Flight into Terrain31 Jan 2003 — This report includes a number of recommendations made by the ATSB with the intention of e...</span></span></span>, that distinction is especially important. The country's UFO debate is constrained less by an abundance of unexplained events than by a shortage of reliable records. Better witness documentation, aviation cross-checking, and routine preservation of observational data would do more to improve understanding than any expansion of speculation. The most significant future development would not be a sensational claim but the creation of a consistent evidential trail that allows unusual reports to be evaluated, challenged, and, when necessary, left honestly unresolved.
+Many international reviews of UAP reporting have found that improved data collection frequently converts apparent mysteries into identifiable aircraft, balloons, drones, atmospheric effects, or other ordinary causes. At the same time, a small number of cases remain unresolved because the available information is incomplete rather than because an extraordinary explanation has been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 7news.com.au">[NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">7news.com.au</span><span class="citation-popover-snippet">Pentagon received hundreds of new UAP reports, but says...15 Nov 2024 — The report cites 21 particularly curious cases of unidentif...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[Verdict For Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">03000200 final report</span><span class="citation-popover-snippet">Controlled Flight into Terrain31 Jan 2003 — This report includes a number of recommendations made by the ATSB with the intention of e...</span></span></span>, that distinction is especially important. The country's UFO debate is constrained less by an abundance of unexplained events than by a shortage of reliable records. Better witness documentation, aviation cross-checking, and routine preservation of observational data would do more to improve understanding than any expansion of speculation. The most significant future development would not be a sensational claim but the creation of a consistent evidential trail that allows unusual reports to be evaluated, challenged, and, when necessary, left honestly unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Timor Leste UFO Records Stay Thin. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Timor Leste UFO Records Stay Thin, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to questions about archives, reporting systems, and documentation gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how evidence limitations shape conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
-        
-        <p class="fr-book-desc">Illustrates how government case files influence UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on credible records and official-source reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -579,75 +537,71 @@ Many international reviews of UAP reporting have found that improved data collec
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-c054ea-why-timor-leste-ufo-records-stay-thin-timor-leste-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -862,153 +816,153 @@ Many international reviews of UAP reporting have found that improved data collec
 1. <a id="endnote-1"></a>
    Source: icao.int  
    Title: 03000200 final report  
-   Link: [https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf](https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAOControlled Flight into Terrain31 Jan 2003 — This report includes a number of recommendations made by the ATSB with the intention of e...</p></details>
+   Link: <a href="https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/03000200_final_report.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Controlled Flight into Terrain31 Jan 2003 — This report includes a number of recommendations made by the ATSB with the intention of e...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 5. <a id="endnote-5"></a>
    Source: reliefweb.int  
    Title: east timor update april 2000  
-   Link: [https://reliefweb.int/report/indonesia/east-timor-update-april-2000](https://reliefweb.int/report/indonesia/east-timor-update-april-2000)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReliefWebEast Timor Update, April 2000 - Indonesia30 Apr 2000 — About US$ 7.5 million will go towards projects for the re-establishment o...</p></details>
+   Link: <a href="https://reliefweb.int/report/indonesia/east-timor-update-april-2000" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/indonesia/east-timor-update-april-2000</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>East Timor Update, April 2000 - Indonesia30 Apr 2000 — About US$ 7.5 million will go towards projects for the re-establishment o...</p></details>
    Published: april 2000  
 
 6. <a id="endnote-6"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AP%20AA%20WG%205/1-Report/Appendices-A-K-to-the-Report.pdf](https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AP%20AA%20WG%205/1-Report/Appendices-A-K-to-the-Report.pdf)  
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AP%20AA%20WG%205/1-Report/Appendices-A-K-to-the-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2023/2023%20AP%20AA%20WG%205/1-Report/Appendices-A-K-to-the-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. SA. Afghanistan. OAHR. Herat. Herat Intl. UNK. 2. SA. Afghanistan. OAKB...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Title: UFO Over Dili [Timor Leste](&#123;&#123; 'what-do-timor-leste-ufo-reports-really/' | relative_url &#125;&#125;)  
-   Link: [https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/](https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookUFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019...</p></details>
+   Title: UFO Over Dili Timor Leste  
+   Link: <a href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: dili timor leste ufo sighting triggers conversation on the possibility of alien  
-   Link: [https://www.facebook.com/100090074054321/posts/dili-timor-leste-ufo-sighting-triggers-conversation-on-the-possibility-of-alien-/245548078097571/](https://www.facebook.com/100090074054321/posts/dili-timor-leste-ufo-sighting-triggers-conversation-on-the-possibility-of-alien-/245548078097571/)  
+   Link: <a href="https://www.facebook.com/100090074054321/posts/dili-timor-leste-ufo-sighting-triggers-conversation-on-the-possibility-of-alien-/245548078097571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090074054321/posts/dili-timor-leste-ufo-sighting-triggers-conversation-on-the-possibility-of-alien-/245548078097571/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dili, Timor Leste UFO Sighting Triggers Conversation on...31 May 2023 — Dili, Timor Leste UFO Sighting Triggers Conversation on the Poss...</p></details>
    Published: May 2023  
 
 9. <a id="endnote-9"></a>
    Source: preventionweb.net  
-   Link: [https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf](https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PreventionWebTIMOR-LESTEPolice Timor-Leste Police development programs a means to professionalize Timorese forces and to build familiarit...</p></details>
+   Link: <a href="https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/files/70657_70657disastermgmtrefhdbktimorleste2.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIMOR-LESTEPolice Timor-Leste Police development programs a means to professionalize Timorese forces and to build familiarit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ph5wdZzCD48](https://www.youtube.com/watch?v=Ph5wdZzCD48)  
+   Link: <a href="https://www.youtube.com/watch?v=Ph5wdZzCD48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ph5wdZzCD48</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Dili Timor Leste Latest UFO Sightings 2019 1alien ship A UFO was filmed by a resident of Sweden. An unidentified object was near...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
    Title: UF O sighting in the Port of Dili, East Timor (  
-   Link: [https://www.instagram.com/reel/DXUunPDDhVa/](https://www.instagram.com/reel/DXUunPDDhVa/)  
+   Link: <a href="https://www.instagram.com/reel/DXUunPDDhVa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXUunPDDhVa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in the Port of Dili, East Timor (April 17, 2026)19 Apr 2026 — CLASSIC DISC-SHAPED UFO SPOTTED OVER THE HORIZON ⚠️ Footage ca...</p></details>
    Published: April 17, 2026  
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
    Title: UF O sighting in Dili Harbor, East Timor🇹🇱 (  
-   Link: [https://www.instagram.com/reel/DXW0EodkbVS/](https://www.instagram.com/reel/DXW0EodkbVS/)  
+   Link: <a href="https://www.instagram.com/reel/DXW0EodkbVS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXW0EodkbVS/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Dili Harbor, East Timor🇹🇱 (April 19, 2026)...Many people filmed phenomenon! #ufo #ufohunters #ovnis #ovni #osni ufomagaz...</p></details>
    Published: April 19, 2026  
 
 13. <a id="endnote-13"></a>
    Source: 7news.com.au  
-   Link: [https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693](https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7NEWSPentagon received hundreds of new UAP reports, but says...15 Nov 2024 — The report cites 21 particularly curious cases of unidentif...</p></details>
+   Link: <a href="https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon received hundreds of new UAP reports, but says...15 Nov 2024 — The report cites 21 particularly curious cases of unidentif...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://arxiv.org/abs/2502.06794](https://arxiv.org/abs/2502.06794)  
+   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA... Copyright 2026 National UFO Reporting Center, Daven...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: eng tetthe guardian newspaper of april 8 2026 explicitly statesthe joint investi  
-   Link: [https://www.facebook.com/OPRTL/posts/eng-tetthe-guardian-newspaper-of-april-8-2026-explicitly-statesthe-joint-investi/955359377418811/](https://www.facebook.com/OPRTL/posts/eng-tetthe-guardian-newspaper-of-april-8-2026-explicitly-statesthe-joint-investi/955359377418811/)  
+   Link: <a href="https://www.facebook.com/OPRTL/posts/eng-tetthe-guardian-newspaper-of-april-8-2026-explicitly-statesthe-joint-investi/955359377418811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OPRTL/posts/eng-tetthe-guardian-newspaper-of-april-8-2026-explicitly-statesthe-joint-investi/955359377418811/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lin has done nothing wrong in Timor-Leste. It is the...Miller, National Coordinator East Timor... East Timor, May 20, 2002. In April 20...</p></details>
    Published: May 20, 2002  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/atsbgovau/posts/a-continued-unstable-approach-into-darwin-by-an-embraer-e190-has-resulted-in-all/1204502045048748/](https://www.facebook.com/atsbgovau/posts/a-continued-unstable-approach-into-darwin-by-an-embraer-e190-has-resulted-in-all/1204502045048748/)  
+   Link: <a href="https://www.facebook.com/atsbgovau/posts/a-continued-unstable-approach-into-darwin-by-an-embraer-e190-has-resulted-in-all/1204502045048748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atsbgovau/posts/a-continued-unstable-approach-into-darwin-by-an-embraer-e190-has-resulted-in-all/1204502045048748/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de during a non-precision instrument approach involving Airbus...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=QUHe5tUDaSM](http://www.youtube.com/watch?v=QUHe5tUDaSM)  
+   Link: <a href="http://www.youtube.com/watch?v=QUHe5tUDaSM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QUHe5tUDaSM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Graves: Recent pilot UAP sightings point to aviation reporting challenges. Who’s to blame?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=wjFHqzrnUhA](http://www.youtube.com/watch?v=wjFHqzrnUhA)  
+   Link: <a href="http://www.youtube.com/watch?v=wjFHqzrnUhA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wjFHqzrnUhA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: [http://www.youtube.com/watch?v=TQcqOW39ksk](http://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="http://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Fighter Pilots on UFOs: Ryan Graves Reveals the Truth About UAPs | Lehto Files...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=zBjgALm1R8Y](http://www.youtube.com/watch?v=zBjgALm1R8Y)  
+   Link: <a href="http://www.youtube.com/watch?v=zBjgALm1R8Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zBjgALm1R8Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Graves calls for clarity on UAP classification guidelines | CUOMO...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Graves calls for clarity on UAP classification guidelines | CUOMO  
-   Link: [http://www.youtube.com/watch?v=NUDI3i99i7w](http://www.youtube.com/watch?v=NUDI3i99i7w)  
+   Link: <a href="http://www.youtube.com/watch?v=NUDI3i99i7w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NUDI3i99i7w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Graves Aviation Safety UAP reporting standards Ex-Fighter Pilots on UFOs: Ryan Graves Reveals the Truth About UAPs | Lehto Files Leh...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: [https://scholarlypublications.universiteitleiden.nl/access/item%3A2880440/view](https://scholarlypublications.universiteitleiden.nl/access/item%3A2880440/view)  
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2880440/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A2880440/view</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsAviation safety and ICAO18 Mar 2026 — of aircraft, accident/incident investigation, and transportation of dangerous...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: verdict.co.uk  
    Title: ufo sightings increase  
-   Link: [https://www.verdict.co.uk/comment/ufo-sightings-increase/](https://www.verdict.co.uk/comment/ufo-sightings-increase/)  
+   Link: <a href="https://www.verdict.co.uk/comment/ufo-sightings-increase/" target="_blank" rel="noopener noreferrer nofollow">https://www.verdict.co.uk/comment/ufo-sightings-increase/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The number of UFO sightings has sky-rocketed, and here&#x27;s why30 Jan 2023 — Of the 366 new sightings in the most recent UAP report, 26 were...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aviation-accidents.net  
    Title: Timor Leste  
-   Link: [https://www.aviation-accidents.net/tag/timor-leste/](https://www.aviation-accidents.net/tag/timor-leste/)  
+   Link: <a href="https://www.aviation-accidents.net/tag/timor-leste/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation-accidents.net/tag/timor-leste/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Accident DatabaseOn 31 January 2003, at 0621 UTC (1521 local time), an Ilyushin 76TD (IL-76TD) aircraft, registered RDPL-34141...</p></details>
    Published: January 2003  
 
@@ -1016,54 +970,54 @@ Many international reviews of UAP reporting have found that improved data collec
 
 28. <a id="endnote-28"></a>
    Source: baai.gov.mt  
-   Link: [https://baai.gov.mt/to-help-the-public-and-media-better-understand-the-scope-and-substance-of-icao/](https://baai.gov.mt/to-help-the-public-and-media-better-understand-the-scope-and-substance-of-icao/)  
+   Link: <a href="https://baai.gov.mt/to-help-the-public-and-media-better-understand-the-scope-and-substance-of-icao/" target="_blank" rel="noopener noreferrer nofollow">https://baai.gov.mt/to-help-the-public-and-media-better-understand-the-scope-and-substance-of-icao/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help the Public and Media Better Understand the Scope...To help the public and media better understand the scope and substance of ICAO&#x27;s...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nautilus.org  
-   Link: [https://nautilus.org/publications/books/australian-forces-abroad/east-timor/defence-imagery-and-geospatial-organisation-timor-leste/](https://nautilus.org/publications/books/australian-forces-abroad/east-timor/defence-imagery-and-geospatial-organisation-timor-leste/)  
+   Link: <a href="https://nautilus.org/publications/books/australian-forces-abroad/east-timor/defence-imagery-and-geospatial-organisation-timor-leste/" target="_blank" rel="noopener noreferrer nofollow">https://nautilus.org/publications/books/australian-forces-abroad/east-timor/defence-imagery-and-geospatial-organisation-timor-leste/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Imagery and Geospatial Organisation: Timor-LesteDIGO is responsible for geospatial intelligence and producing maps for the ADF, s...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/4438.pdf](https://skybrary.aero/sites/default/files/bookshelf/4438.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/4438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4438.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insert document titleThe flight crew were conducting a long-distance flight to a remote island at night. At the time the flight was plann...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/country/timor-leste](https://www.baaa-acro.com/country/timor-leste)  
+   Link: <a href="https://www.baaa-acro.com/country/timor-leste" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/country/timor-leste</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Timor LesteWhile on a reconnaissance mission over Timor Leste, the twin engine airplane was attacked by the pilot of a Japanese Mitsubish...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: flightsafety.org  
-   Link: [https://flightsafety.org/wp-content/uploads/2017/03/GSIP-Year-One-Report-APPROVED-for-release.pdf](https://flightsafety.org/wp-content/uploads/2017/03/GSIP-Year-One-Report-APPROVED-for-release.pdf)  
+   Link: <a href="https://flightsafety.org/wp-content/uploads/2017/03/GSIP-Year-One-Report-APPROVED-for-release.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2017/03/GSIP-Year-One-Report-APPROVED-for-release.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Year One ReportOur research was focused on the Pan. America and Asia and Pacific regions of the world, as defined by the International Ci...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-academic/dark-networks-the-2003-timor-leste-il-76-crash-and-the-global-air-cargo-shadow-industry-4e67ab377760](https://medium.com/the-academic/dark-networks-the-2003-timor-leste-il-76-crash-and-the-global-air-cargo-shadow-industry-4e67ab377760)  
+   Link: <a href="https://medium.com/the-academic/dark-networks-the-2003-timor-leste-il-76-crash-and-the-global-air-cargo-shadow-industry-4e67ab377760" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/dark-networks-the-2003-timor-leste-il-76-crash-and-the-global-air-cargo-shadow-industry-4e67ab377760</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Networks: The 2003 Timor-Leste Il-76 crash and...On the 31st of January 2003, a huge four-engine Ilyushin Il-76 cargo plane crashed...</p></details>
    Published: January 2003  
 
 34. <a id="endnote-34"></a>
    Source: press-files.anu.edu.au  
    Title: anu.edu.au12.East Timorese refugees in West Timor  
-   Link: [https://press-files.anu.edu.au/downloads/press/p68261/pdf/c12.pdf](https://press-files.anu.edu.au/downloads/press/p68261/pdf/c12.pdf)  
+   Link: <a href="https://press-files.anu.edu.au/downloads/press/p68261/pdf/c12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://press-files.anu.edu.au/downloads/press/p68261/pdf/c12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ANU PressDespite these open threats from the militia, by the end of January 2000, there were no reports that any Australians or Caucasian...</p></details>
    Published: January 2000  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseA clear linear trend of sightings increased from 1995 - 2005. Then it peaks and st...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: ralphbuncheinstitute.org  
    Title: preliminary assessmentunidentified aerial phenomena  
-   Link: [https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/](https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/)  
+   Link: <a href="https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOoqz5om6EjAdJ5PIvAdww6fIyfVMxZ_EoVYA6rcSB535ALYt9nLF](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOoqz5om6EjAdJ5PIvAdww6fIyfVMxZ_EoVYA6rcSB535ALYt9nLF)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOoqz5om6EjAdJ5PIvAdww6fIyfVMxZ_EoVYA6rcSB535ALYt9nLF" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOoqz5om6EjAdJ5PIvAdww6fIyfVMxZ_EoVYA6rcSB535ALYt9nLF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oceanic UFO Sightings: The Underwater TruthHome / UFOs and Aliens / Oceanic UFO Sightings: The Underwater Truth...</p></details>

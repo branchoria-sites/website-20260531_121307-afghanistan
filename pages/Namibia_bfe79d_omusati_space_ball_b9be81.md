@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-be32cb/
   short_title: Timeline
   heading_title: Which Namibia UFO Cases Hold Up Best?
-date: '2026-06-09 01:43:53 '
+date: '2026-06-10 02:11:34 '
 header:
   og_image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-social.jpg
   preview_image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-so
 
 ## Introduction
 
-The Omusati “space ball” is the strongest piece of physical UFO-related evidence ever recovered in [Namibia]({{ 'what-is-really-behind-namibias-ufo/' | relative_url }}), yet it ultimately became one of the clearest examples of a mysterious object being explained through ordinary aerospace technology rather than extraterrestrial activity. Found near Onamatunga village in the Omusati Region in late 2011, the metal sphere initially attracted international attention because it appeared to have fallen from the sky, created an impact site, and could not immediately be identified. For a short period, its origin was genuinely unknown.
+The Omusati “space ball” is the strongest piece of physical UFO-related evidence ever recovered in Namibia, yet it ultimately became one of the clearest examples of a mysterious object being explained through ordinary aerospace technology rather than extraterrestrial activity. Found near Onamatunga village in the Omusati Region in late 2011, the metal sphere initially attracted international attention because it appeared to have fallen from the sky, created an impact site, and could not immediately be identified. For a short period, its origin was genuinely unknown.
 
 
 <img src="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-dark.svg" | relative_url }}" alt="Space Ball illustration 1" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ What makes the case important is not that it remained unexplained, but that inve
 
 In December 2011, Namibian authorities confirmed that a metallic sphere had been discovered near Onamatunga in the Omusati Region of northern Namibia. According to reports from the National Forensic Science Institute, the object weighed slightly more than six kilograms and had a circumference of roughly 1.1 metres. Investigators described it as a hollow metal sphere consisting of two halves welded together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-12-space-ball-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 12 space ball namibia</span><span class="citation-popover-snippet">Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</span></span></span>
 
-The object was reportedly found after local residents heard loud explosive sounds in the area between 15 and 20 November. A farmer later discovered the sphere and alerted police. Investigators documented an impact site and found the object some distance away from the crater it apparently created when it struck the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> Several aspects of the discovery immediately stood out:
+The object was reportedly found after local residents heard loud explosive sounds in the area between 15 and 20 November. A farmer later discovered the sphere and alerted police. Investigators documented an impact site and found the object some distance away from the crater it apparently created when it struck the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> Several aspects of the discovery immediately stood out:
 
 * The sphere appeared manufactured rather than natural.
 * Its welded construction suggested industrial engineering.
@@ -285,11 +285,11 @@ Several characteristics pointed investigators towards aerospace hardware:
 * The sphere was hollow rather than solid.
 * It was engineered with welded hemispheres.
 * Its dimensions matched components used in space systems.
-* Similar spheres had reportedly been recovered elsewhere in the world after re-entry events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span>
+* Similar spheres had reportedly been recovered elsewhere in the world after re-entry events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span>
 
 Because of these features, Namibian authorities contacted both NASA and the European Space Agency to determine whether the object could be linked to known spacecraft or launch systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-12-space-ball-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 12 space ball namibia</span><span class="citation-popover-snippet">Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</span></span></span>
 
-At the time, neither agency immediately identified the exact source. However, the broad conclusion emerging from aerospace experts was that the sphere closely resembled pressure vessels used on rockets and satellites. Such tanks are designed to withstand extreme internal pressure and can survive atmospheric re-entry better than many other spacecraft components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
+At the time, neither agency immediately identified the exact source. However, the broad conclusion emerging from aerospace experts was that the sphere closely resembled pressure vessels used on rockets and satellites. Such tanks are designed to withstand extreme internal pressure and can survive atmospheric re-entry better than many other spacecraft components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-2-dark.svg" | relative_url }}" alt="Space Ball illustration 2" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -297,7 +297,7 @@ At the time, neither agency immediately identified the exact source. However, th
 
 The leading explanation is that the object was a component from a launch vehicle or spacecraft, most likely a spherical pressure tank used to store gas or fluids.
 
-Pressure vessels occupy a special place in re-entry investigations. Many spacecraft structures are thin and burn up completely during atmospheric descent. Spherical tanks, by contrast, are compact, mechanically strong, and often manufactured from heat-resistant alloys. As a result, they are among the components most likely to reach the ground intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
+Pressure vessels occupy a special place in re-entry investigations. Many spacecraft structures are thin and burn up completely during atmospheric descent. Spherical tanks, by contrast, are compact, mechanically strong, and often manufactured from heat-resistant alloys. As a result, they are among the components most likely to reach the ground intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
 
 The Omusati sphere matched several characteristics commonly associated with recovered aerospace pressure vessels:
 
@@ -353,89 +353,47 @@ Within Namibia's broader catalogue of unusual aerial reports, the Omusati space 
 
 Many Namibian UFO accounts involve distant lights, fireballs, or observations made under exceptionally dark desert skies. Those events often leave little evidence beyond witness testimony. The Omusati incident generated a recoverable artefact and a documented investigation. For that reason, it occupies a central place in any assessment of Namibia's UFO history.
 
-Yet the lesson of the case is not that Namibia recovered alien hardware. The strongest available evidence points in the opposite direction. The object appears to have been a human-made component that survived re-entry from orbit and landed in northern Namibia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 9news.com.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">9news.com.au</span><span class="citation-popover-snippet">9NewsNamibian &#x27;space ball&#x27; identified26 Dec 2011 — The hollow ball, which weighed six-kilograms and had a diameter of 35-centimetres, was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span>, the Omusati space ball stands as one of Namibia's best-documented UFO-adjacent incidents and one of its most persuasive demonstrations of how a genuine mystery can move from “unidentified” to “largely explained” once physical evidence becomes available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span>
+Yet the lesson of the case is not that Namibia recovered alien hardware. The strongest available evidence points in the opposite direction. The object appears to have been a human-made component that survived re-entry from orbit and landed in northern Namibia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 9news.com.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">9news.com.au</span><span class="citation-popover-snippet">Namibian &#x27;space ball&#x27; identified26 Dec 2011 — The hollow ball, which weighed six-kilograms and had a diameter of 35-centimetres, was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span>, the Omusati space ball stands as one of Namibia's best-documented UFO-adjacent incidents and one of its most persuasive demonstrations of how a genuine mystery can move from “unidentified” to “largely explained” once physical evidence becomes available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was Namibia&#x27;s Space Ball Really From Space?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was Namibia&#x27;s Space Ball Really From Space?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Debris and Other Threats from Outer Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=keFHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Space Debris and Other Threats from Outer Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Debris and Other Threats from Outer Space">Space Debris and Other Threats from Outer Space</a>
-        </h4>
-        <p class="fr-book-author">By Joseph N. Pelton</p>
-        
-        <p class="fr-book-desc">Directly addresses re-entry debris and aerospace hazards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for assessing physical-evidence UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for comparing evidence-based cases with speculative interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
-        
-        <p class="fr-book-desc">Introduces readers to practical realities of space technology and hardware.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space Debris and Other Threats from Outer Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -469,75 +427,71 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-t-shirt-gerry-anderson-series-television-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-ball-was-namibia-s-space-ball-really-from-space-namibia-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -752,51 +706,51 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: 14028 namibia space ball orbital debris  
-   Link: [https://www.space.com/14028-namibia-space-ball-orbital-debris.html](https://www.space.com/14028-namibia-space-ball-orbital-debris.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</p></details>
+   Link: <a href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14028-namibia-space-ball-orbital-debris.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: phys.org  
    Title: 2011 12 space ball namibia  
-   Link: [https://phys.org/news/2011-12-space-ball-namibia.html](https://phys.org/news/2011-12-space-ball-namibia.html)  
+   Link: <a href="https://phys.org/news/2011-12-space-ball-namibia.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2011-12-space-ball-namibia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: azertag.az  
    Title: AZƏRTACStrange metal ball drops from space in Namibia  
-   Link: [https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984](https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984)  
+   Link: <a href="https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984" target="_blank" rel="noopener noreferrer nofollow">https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AZERTAC27 Dec 2011 — Daily Mail reports the impact of the ball left a crater 12 inches deep and 13 ft wide, but it rebounded on impact an...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Space debris  
-   Link: [https://en.wikipedia.org/wiki/Space_debris](https://en.wikipedia.org/wiki/Space_debris)  
+   Link: <a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Namibia](https://en.wikipedia.org/wiki/Namibia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Namibia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Namibia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NamibiaWith a population of 3.1 million people, Namibia is one of the most sparsely populated countries in the world. Since the end of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: namibian.com.na  
-   Link: [https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/](https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/)  
+   Link: <a href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: koreatimes.co.kr  
-   Link: [https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report](https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report)  
+   Link: <a href="https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;space ball&#x27; crashes in Namibia: reportThe hollow ball with a circumference of 1.1 meters (43 inches) was found near a village...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: christianpost.com  
    Title: mysterious space ball falls in namibia  
-   Link: [https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html](https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html)  
+   Link: <a href="https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Dec 2011 — Authorities have been investigating a large metallic sphere that fell out of the sky onto remote grasslands in Namibia in N...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: universetoday.com  
    Title: spherical object drops from the sky in namibia  
-   Link: [https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia](https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia)  
+   Link: <a href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</p></details>
    Published: November 2011  
 
@@ -805,53 +759,53 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
 10. <a id="endnote-10"></a>
    Source: keranews.org  
    Title: cue the scary music space ball crashes in namibia  
-   Link: [https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia](https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia)  
+   Link: <a href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dailyedge.ie  
-   Link: [https://www.dailyedge.ie/mysterious-space-ball-drops-from-the-sky-in-namibia-312919-Dec2011/](https://www.dailyedge.ie/mysterious-space-ball-drops-from-the-sky-in-namibia-312919-Dec2011/)  
+   Link: <a href="https://www.dailyedge.ie/mysterious-space-ball-drops-from-the-sky-in-namibia-312919-Dec2011/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyedge.ie/mysterious-space-ball-drops-from-the-sky-in-namibia-312919-Dec2011/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;space ball&#x27; drops from the sky in NamibiaThe 14″ orb, weighting around 6kg, apparently fell from space last month – and nobod...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kalenjinsonline/posts/a-metallic-object-fell-from-the-sky-in-kapsabet-alarming-the-residents-of-st-mar/1060154986209199/](https://www.facebook.com/kalenjinsonline/posts/a-metallic-object-fell-from-the-sky-in-kapsabet-alarming-the-residents-of-st-mar/1060154986209199/)  
+   Link: <a href="https://www.facebook.com/kalenjinsonline/posts/a-metallic-object-fell-from-the-sky-in-kapsabet-alarming-the-residents-of-st-mar/1060154986209199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kalenjinsonline/posts/a-metallic-object-fell-from-the-sky-in-kapsabet-alarming-the-residents-of-st-mar/1060154986209199/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t. Mary&#x27;s area. Described as &quot;weird&quot; and partially damaged...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: lonelyplanet.com  
    Title: Namibia travel  
-   Link: [https://www.lonelyplanet.com/destinations/namibia](https://www.lonelyplanet.com/destinations/namibia)  
+   Link: <a href="https://www.lonelyplanet.com/destinations/namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.lonelyplanet.com/destinations/namibia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AfricaExplore towering sand dunes, Etosha National Park and more top attractions in our Namibia travel guide. Plan safaris and outdoor ad...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rhinoafrica.com  
-   Link: [https://www.rhinoafrica.com/en/destinations/namibia/2516](https://www.rhinoafrica.com/en/destinations/namibia/2516)  
+   Link: <a href="https://www.rhinoafrica.com/en/destinations/namibia/2516" target="_blank" rel="noopener noreferrer nofollow">https://www.rhinoafrica.com/en/destinations/namibia/2516</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vel tips, the best time to visit, and more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thecommonwealth.org  
-   Link: [https://thecommonwealth.org/our-member-countries/namibia](https://thecommonwealth.org/our-member-countries/namibia)  
+   Link: <a href="https://thecommonwealth.org/our-member-countries/namibia" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/namibia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CommonwealthNamibia is a country on the south-west coast of Africa. It is one of the driest and most sparsely populated countries on eart...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theworld.org  
    Title: alien space ball drops namibian grassland nasa alerted video  
-   Link: [https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video](https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video)  
+   Link: <a href="https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Space Agency after a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: 9news.com.au  
-   Link: [https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f](https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9NewsNamibian &#x27;space ball&#x27; identified26 Dec 2011 — The hollow ball, which weighed six-kilograms and had a diameter of 35-centimetres, was...</p></details>
+   Link: <a href="https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f" target="_blank" rel="noopener noreferrer nofollow">https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Namibian &#x27;space ball&#x27; identified26 Dec 2011 — The hollow ball, which weighed six-kilograms and had a diameter of 35-centimetres, was...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: atlasobscura.com  
    Title: namibia s space ball  
-   Link: [https://www.atlasobscura.com/places/namibia-s-space-ball](https://www.atlasobscura.com/places/namibia-s-space-ball)  
+   Link: <a href="https://www.atlasobscura.com/places/namibia-s-space-ball" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/namibia-s-space-ball</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Namibia&#x27;s Space Ball in Windhoek25 Dec 2011 — Amid reports of explosions just north of Windhoek in mid-November, Namibian authorities dis...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gondwana.collection.namibia/posts/locals-and-officers-of-a-nearby-police-station-and-villagers-in-the-area-heard-s/2893606833998620/](https://www.facebook.com/gondwana.collection.namibia/posts/locals-and-officers-of-a-nearby-police-station-and-villagers-in-the-area-heard-s/2893606833998620/)  
+   Link: <a href="https://www.facebook.com/gondwana.collection.namibia/posts/locals-and-officers-of-a-nearby-police-station-and-villagers-in-the-area-heard-s/2893606833998620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gondwana.collection.namibia/posts/locals-and-officers-of-a-nearby-police-station-and-villagers-in-the-area-heard-s/2893606833998620/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gondwana Collection NamibiaThe sphere, which weighs just over 6 kg and has a circumference of 110 centimetres, landed near Onamatunga som...</p></details>

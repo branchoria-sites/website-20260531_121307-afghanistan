@@ -245,7 +245,7 @@ next_link:
   permalink: /official-records-80c331/
   short_title: Official Records
   heading_title: What Kuwait's UFO Files Can Prove
-date: '2026-06-09 01:31:07 '
+date: '2026-06-10 01:56:45 '
 header:
   og_image: /assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-1-social.jpg
   preview_image: /assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-1.webp
@@ -254,24 +254,24 @@ image: /assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-1-soc
 
 ## Introduction
 
-In recent years, **modern claims of unidentified aerial or orbital objects linked to [Kuwait]({{ 'what-really-happened-in-kuwaits-ufo/' | relative_url }})** have circulated widely online, especially through social media video posts and sensational headlines. These range from assertions that U.S. congressional briefings referenced video footage of mysterious “orbs” off Kuwait’s coast to **social clips purportedly showing strange craft or “spaceships” on land**. However, careful analysis and fact‑checking reveal that many of the most viral video claims are **AI‑generated simulations or misattributed clips**, underscoring how synthetic media now shapes public perception of unusual aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">MisbarThis Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
+In recent years, **modern claims of unidentified aerial or orbital objects linked to Kuwait** have circulated widely online, especially through social media video posts and sensational headlines. These range from assertions that U.S. congressional briefings referenced video footage of mysterious “orbs” off Kuwait’s coast to **social clips purportedly showing strange craft or “spaceships” on land**. However, careful analysis and fact‑checking reveal that many of the most viral video claims are **AI‑generated simulations or misattributed clips**, underscoring how synthetic media now shapes public perception of unusual aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-1-dark.svg" | relative_url }}" alt="Modern Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Alleged Kuwait Orb Video and Congressional Mentions
 
-In late 2024, a **high‑definition clip** described as showing a “white orb” emerging from the sea off the coast of Kuwait was discussed during a U.S. congressional hearing on unidentified anomalous phenomena (UAPs). According to journalist testimony made before the House of Representatives, the 13‑minute clip was reportedly found on a **secure U.S. Department of Defense network** and filmed from a helicopter about 20 miles offshore. One account described **a second orb briefly entering the frame** before rapidly departing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2579279/middle-east" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-snippet">Arab NewsVideo shows ‘white orb’ UFO off Kuwait coast, US congressional hearing told | Arab NewsNovember 14, 2024...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
+In late 2024, a **high‑definition clip** described as showing a “white orb” emerging from the sea off the coast of Kuwait was discussed during a U.S. congressional hearing on unidentified anomalous phenomena (UAPs). According to journalist testimony made before the House of Representatives, the 13‑minute clip was reportedly found on a **secure U.S. Department of Defense network** and filmed from a helicopter about 20 miles offshore. One account described **a second orb briefly entering the frame** before rapidly departing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2579279/middle-east" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-snippet">Arab NewsVideo shows ‘white orb’ UFO off Kuwait coast, US congressional hearing told &#124; Arab NewsNovember 14, 2024...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
 
-Despite media coverage and online reposts of these claims, **the underlying video has not been publicly released or independently authenticated**. Coverage describes what was said in the hearing and interim reporting by journalists but lacks verifiable open‑source footage that can be examined by independent analysts. As a result, while the discussion in Congress has stimulated interest, it remains a **second‑hand narrative rather than demonstrable evidence of an anomalous object**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2579279/middle-east" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-snippet">Arab NewsVideo shows ‘white orb’ UFO off Kuwait coast, US congressional hearing told | Arab NewsNovember 14, 2024...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
+Despite media coverage and online reposts of these claims, **the underlying video has not been publicly released or independently authenticated**. Coverage describes what was said in the hearing and interim reporting by journalists but lacks verifiable open‑source footage that can be examined by independent analysts. As a result, while the discussion in Congress has stimulated interest, it remains a **second‑hand narrative rather than demonstrable evidence of an anomalous object**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2579279/middle-east" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-snippet">Arab NewsVideo shows ‘white orb’ UFO off Kuwait coast, US congressional hearing told &#124; Arab NewsNovember 14, 2024...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/59SVQqcUZB0" title="SHOCKING Classified UFO Video with White Orb Unearthed at Major UFO Hearing at Congress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=59SVQqcUZB0" target="_blank" rel="noopener noreferrer">SHOCKING Classified UFO Video with White Orb Unearthed at Major UFO Hearing at Congress</a></p><p class="youtube-embed-meta">Channel: GBNews &middot; Views: 156.4K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=59SVQqcUZB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=59SVQqcUZB0">Open on YouTube</a></p></div></div></div>
 
 ## Viral AI‑Generated Videos Misleading Audiences
 
-Alongside the congressional narrative, **social media platforms hosted multiple clips claiming to show UFOs in and around Kuwait — many of which are now debunked as AI creations**. A notable example is a video widely shared as “a spaceship found in Kuwait” that actually **originated as an AI‑generated clip** similar to another simulation first captioned as a UFO crash in Arizona. Fact‑checkers found that the footage **had visual cues of synthetic generation** and carried creator tags indicating algorithms like “aigenerated” and references to AI tools such as “Sora AI.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">MisbarThis Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
+Alongside the congressional narrative, **social media platforms hosted multiple clips claiming to show UFOs in and around Kuwait — many of which are now debunked as AI creations**. A notable example is a video widely shared as “a spaceship found in Kuwait” that actually **originated as an AI‑generated clip** similar to another simulation first captioned as a UFO crash in Arizona. Fact‑checkers found that the footage **had visual cues of synthetic generation** and carried creator tags indicating algorithms like “aigenerated” and references to AI tools such as “Sora AI.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
 
-These types of fabrications demonstrate how easily advanced generative models can produce lifelike visuals that **spread rapidly without reliable context or verification**. While technically impressive, they pose challenges for discerning authentic witness footage from algorithmically fabricated imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span></span></span>
+These types of fabrications demonstrate how easily advanced generative models can produce lifelike visuals that **spread rapidly without reliable context or verification**. While technically impressive, they pose challenges for discerning authentic witness footage from algorithmically fabricated imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UCx_E4g5sCs" title="UFO Hearing LIVE: Ex-Pentagon Official Says &#x27;We Are Not Alone in The Cosmos&#x27; Congress Hearing | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UCx_E4g5sCs" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE: Ex-Pentagon Official Says &#x27;We Are Not Alone in The Cosmos&#x27; Congress Hearing | N18G</a></p><p class="youtube-embed-meta">Channel: CNBC-TV18 &middot; Views: 424.5K &middot; Uploaded: November 2024 &middot; Length: 11 hours 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UCx_E4g5sCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UCx_E4g5sCs">Open on YouTube</a></p></div></div></div>
@@ -280,7 +280,7 @@ These types of fabrications demonstrate how easily advanced generative models ca
 
 One core reason such videos spread is that they **tap into existing narratives about official secrecy and unidentified aerial phenomena**. When clips are associated — however tenuously — with authoritative settings like congressional hearings or military networks, they gain **credibility in popular discourse** even without objective validation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained.co/news/kuwait-white-orb-ocean-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.co">[The Unexplained Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.co</span><span class="citation-popover-snippet">The Unexplained CompanyThe Kuwait White Orb Ocean UFO: Why the Clip Will Not Stay BuriedApril 20, 2026...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span>
 
-Additionally, AI‑generated content often **blends familiar visual tropes** (spherical orbs, cinematic perspectives, hazmat‑suit investigators) that align with long‑standing UFO folklore. Without expert analysis or source tracing, casual viewers can mistake **synthetic or miscaptioned visuals** for documentary evidence. This confusion is compounded when social posts lack clear provenance, or when hashtags and captions deliberately echo official‑sounding claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span></span></span>
+Additionally, AI‑generated content often **blends familiar visual tropes** (spherical orbs, cinematic perspectives, hazmat‑suit investigators) that align with long‑standing UFO folklore. Without expert analysis or source tracing, casual viewers can mistake **synthetic or miscaptioned visuals** for documentary evidence. This confusion is compounded when social posts lack clear provenance, or when hashtags and captions deliberately echo official‑sounding claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span></span></span>
 
 
 <img src="{{ "/assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-2-dark.svg" | relative_url }}" alt="Modern Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kuwait_93295b_modern_orb_debunks_a2247d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -288,9 +288,9 @@ Additionally, AI‑generated content often **blends familiar visual tropes** (sp
 
 The proliferation of debunked videos tied to UFO narratives — whether labelled explicitly as AI creations by their authors or later identified as such by fact‑checkers — highlights several key lessons:
 
-* **Visual realism is no guarantee of authenticity:** Even highly convincing clips may be entirely synthetic or repurposed from unrelated sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span></span></span>
-* **Context matters:** Debunked videos often lack independent confirmation from reputable news outlets, official releases, or corroborating eyewitness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">MisbarThis Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
-* **Misattribution spreads quickly:** A clip originating in one setting (e.g. an Arizona‑captioned AI video) can be retagged and redistributed as something linked to Kuwait, amplifying misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba</span></span></span>
+* **Visual realism is no guarantee of authenticity:** Even highly convincing clips may be entirely synthetic or repurposed from unrelated sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span></span></span>
+* **Context matters:** Debunked videos often lack independent confirmation from reputable news outlets, official releases, or corroborating eyewitness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
+* **Misattribution spreads quickly:** A clip originating in one setting (e.g. an Arizona‑captioned AI video) can be retagged and redistributed as something linked to Kuwait, amplifying misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albawaba.com">[Al Bawaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albawaba.com</span><span class="citation-popover-title">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span><span class="citation-popover-snippet">Al Bawaba Video: Did a spaceship land in Kuwait? &#124; Al Bawaba</span></span></span>
 
 These patterns illustrate how modern orbit‑style UFO claims can be shaped more by technological novelty and social media dynamics than by verifiable phenomena.
 
@@ -300,7 +300,7 @@ These patterns illustrate how modern orbit‑style UFO claims can be shaped more
 
 Within the broader landscape of UFO reports tied to Kuwait, recent modern claims differ from historical [anecdotes]({{ 'anecdotes/' | relative_url }}) in one key way: **they are primarily digital and mediated, rather than grounded in independently authenticated observational records**. Unlike older sightings documented in archives or diplomatic cables, the viral clips in question lack direct source transparency and rely heavily on **third‑party descriptions or generative media**.
 
-Researchers and sceptics stress that **without access to raw, verifiable footage or independent corroboration from multiple reliable observers**, such stories remain in the domain of online speculation rather than evidence‑based reporting. This does not categorically dismiss all aerial reports in the region, but it does underline that **viral videos alone — especially those amenable to AI fabrication — should not be taken as definitive proof of anomalous objects**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">MisbarThis Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
+Researchers and sceptics stress that **without access to raw, verifiable footage or independent corroboration from multiple reliable observers**, such stories remain in the domain of online speculation rather than evidence‑based reporting. This does not categorically dismiss all aerial reports in the region, but it does underline that **viral videos alone — especially those amenable to AI fabrication — should not be taken as definitive proof of anomalous objects**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misbar.com">[Misbar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misbar.com</span><span class="citation-popover-title">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait</span><span class="citation-popover-snippet">This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</span><span class="citation-popover-meta">Published: January 5, 2025</span></span></span>
 
 In summary, modern orb claims associated with Kuwait illustrate both the **appeal and pitfalls** of current media environments: compelling visuals and high‑profile references can fuel belief, yet many purported sightings ultimately trace back to AI‑generated content or unverified narratives rather than independently substantiated phenomena.
 
@@ -309,86 +309,44 @@ In summary, modern orb claims associated with Kuwait illustrate both the **appea
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Kuwait UFO Videos Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Kuwait UFO Videos Go Viral, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful framework for distinguishing evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides contrast between documented reports and weak viral claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
-        
-        <p class="fr-book-desc">Directly addresses misinterpretation, online misinformation, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
-        <p class="fr-book-desc">Helps readers evaluate manipulated videos and unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -422,75 +380,71 @@ In summary, modern orb claims associated with Kuwait illustrate both the **appea
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-claims-when-kuwait-ufo-videos-go-viral-kuwait-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -705,30 +659,30 @@ In summary, modern orb claims associated with Kuwait illustrate both the **appea
 1. <a id="endnote-1"></a>
    Source: misbar.com  
    Title: This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in Kuwait  
-   Link: [https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait](https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MisbarThis Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</p></details>
+   Link: <a href="https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait" target="_blank" rel="noopener noreferrer nofollow">https://www.misbar.com/en/factcheck/2025/01/05/this-video-is-ai-generated-and-does-not-show-a-spacecraft-spotted-in-kuwait</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Video Is AI-Generated and Does Not Show a Spacecraft Spotted in KuwaitJanuary 5, 2025...</p></details>
    Published: January 5, 2025  
 
 2. <a id="endnote-2"></a>
    Source: unexplained.co  
-   Link: [https://www.unexplained.co/news/kuwait-white-orb-ocean-ufo/](https://www.unexplained.co/news/kuwait-white-orb-ocean-ufo/)  
+   Link: <a href="https://www.unexplained.co/news/kuwait-white-orb-ocean-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/kuwait-white-orb-ocean-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained CompanyThe Kuwait White Orb Ocean UFO: Why the Clip Will Not Stay BuriedApril 20, 2026...</p></details>
    Published: April 20, 2026  
 
 3. <a id="endnote-3"></a>
    Source: albawaba.com  
    Title: Al Bawaba Video: Did a spaceship land in Kuwait? | Al Bawaba  
-   Link: [https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750](https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750)  
+   Link: <a href="https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750" target="_blank" rel="noopener noreferrer nofollow">https://www.albawaba.com/node/video-did-spaceship-land-kuwait-1597750</a>  
 
 4. <a id="endnote-4"></a>
    Source: arabnews.com  
-   Link: [https://www.arabnews.com/node/2579279/middle-east](https://www.arabnews.com/node/2579279/middle-east)  
+   Link: <a href="https://www.arabnews.com/node/2579279/middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2579279/middle-east</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arab NewsVideo shows ‘white orb’ UFO off Kuwait coast, US congressional hearing told | Arab NewsNovember 14, 2024...</p></details>
    Published: November 14, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arabnews.com  
-   Link: [https://www.arabnews.com/node/2579279/amp](https://www.arabnews.com/node/2579279/amp)  
+   Link: <a href="https://www.arabnews.com/node/2579279/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2579279/amp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 14, 2024 — VIDEO SHOWS ‘WHITE ORB’ UFO OFF KUWAIT COAST, US CONGRESSIONAL HEARING TOLD Arab News 14 November 2024 Above, a video...</p></details>
    Published: November 14, 2024  
 
@@ -736,61 +690,61 @@ In summary, modern orb claims associated with Kuwait illustrate both the **appea
 
 6. <a id="endnote-6"></a>
    Source: bytefeed.ai  
-   Link: [https://bytefeed.ai/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/](https://bytefeed.ai/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bytefeed - News Powered by AIDecember 3, 2024 — Image: An AI-generated video is falsely shared as real footage of a UFO that crashed on a...</p></details>
+   Link: <a href="https://bytefeed.ai/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/" target="_blank" rel="noopener noreferrer nofollow">https://bytefeed.ai/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>News Powered by AIDecember 3, 2024 — Image: An AI-generated video is falsely shared as real footage of a UFO that crashed on a...</p></details>
    Published: December 3, 2024  
 
 7. <a id="endnote-7"></a>
    Source: factly.in  
-   Link: [https://factly.in/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/](https://factly.in/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FACTLYDecember 3, 2024 — AN AI-GENERATED VIDEO IS FALSELY SHARED AS REAL FOOTAGE OF A UFO THAT CRASHED ON A FARMER’S FIELD. By Varun Boru...</p></details>
+   Link: <a href="https://factly.in/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/" target="_blank" rel="noopener noreferrer nofollow">https://factly.in/an-ai-generated-video-is-falsely-shared-as-real-footage-of-a-ufo-that-crashed-on-a-farmers-field/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2024 — AN AI-GENERATED VIDEO IS FALSELY SHARED AS REAL FOOTAGE OF A UFO THAT CRASHED ON A FARMER’S FIELD. By Varun Boru...</p></details>
    Published: December 3, 2024  
 
 8. <a id="endnote-8"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/kw](https://enigmalabs.io/explore/kw)  
+   Link: <a href="https://enigmalabs.io/explore/kw" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/kw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | UFO Sightings in KuwaitMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Image: DOWNLOAD THE APP UF...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2017/02/kuwait-two-ufos-appear-five-videos-taken-different-people-different-positions.html](https://www.latest-ufo-sightings.net/2017/02/kuwait-two-ufos-appear-five-videos-taken-different-people-different-positions.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2017/02/kuwait-two-ufos-appear-five-videos-taken-different-people-different-positions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2017/02/kuwait-two-ufos-appear-five-videos-taken-different-people-different-positions.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2017 — KUWAIT: THE SAME TWO UFOS APPEAR IN FIVE VIDEOS TAKEN BY DIFFERENT PEOPLE IN DIFFERENT POSITIONS February 21, 2017 LU...</p></details>
    Published: February 21, 2017  
 
 10. <a id="endnote-10"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/ufo-hearing-live-video-shows-white-orb-coming-out-of-ocean-off-kuwait-coast-us-congress-told-13253737](https://news.sky.com/story/ufo-hearing-live-video-shows-white-orb-coming-out-of-ocean-off-kuwait-coast-us-congress-told-13253737)  
+   Link: <a href="https://news.sky.com/story/ufo-hearing-live-video-shows-white-orb-coming-out-of-ocean-off-kuwait-coast-us-congress-told-13253737" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-hearing-live-video-shows-white-orb-coming-out-of-ocean-off-kuwait-coast-us-congress-told-13253737</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hearing live: Video shows &#x27;white orb&#x27; coming out of ocean off Kuwait coast, US Congress told | US News | Sky NewsNovember 13, 2024 — UFO...</p></details>
    Published: November 13, 2024  
 
 11. <a id="endnote-11"></a>
    Source: unexplained-mysteries.com  
-   Link: [https://www.unexplained-mysteries.com/news/382488/classified-video-shows-white-orb-emerging-from-the-sea-hearing-told](https://www.unexplained-mysteries.com/news/382488/classified-video-shows-white-orb-emerging-from-the-sea-hearing-told)  
+   Link: <a href="https://www.unexplained-mysteries.com/news/382488/classified-video-shows-white-orb-emerging-from-the-sea-hearing-told" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/382488/classified-video-shows-white-orb-emerging-from-the-sea-hearing-told</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Randall November 15, 2024 · 90 comments Image: UFO hearing Michael Shellenberger testifying at the hearing. Image Cred...</p></details>
    Published: November 15, 2024  
 
 12. <a id="endnote-12"></a>
    Source: sportskeeda.com  
    Title: Is the UFO crash in Arizona video real or fake?  
-   Link: [https://www.sportskeeda.com/pop-culture/news-is-ufo-crash-arizona-video-real-fake-viral-video-debunked](https://www.sportskeeda.com/pop-culture/news-is-ufo-crash-arizona-video-real-fake-viral-video-debunked)  
+   Link: <a href="https://www.sportskeeda.com/pop-culture/news-is-ufo-crash-arizona-video-real-fake-viral-video-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.sportskeeda.com/pop-culture/news-is-ufo-crash-arizona-video-real-fake-viral-video-debunked</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral video debunkedJanuary 6, 2025 — IS THE UFO CRASH IN ARIZONA VIDEO REAL OR FAKE? VIRAL VIDEO DEBUNKED By Bias Sinha Published Jan 06...</p></details>
    Published: January 6, 2025  
 
 13. <a id="endnote-13"></a>
    Source: uk.news.yahoo.com  
    Title: video shows white orb coming 202000144  
-   Link: [https://uk.news.yahoo.com/video-shows-white-orb-coming-202000144.html](https://uk.news.yahoo.com/video-shows-white-orb-coming-202000144.html)  
+   Link: <a href="https://uk.news.yahoo.com/video-shows-white-orb-coming-202000144.html" target="_blank" rel="noopener noreferrer nofollow">https://uk.news.yahoo.com/video-shows-white-orb-coming-202000144.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shows white orb coming out of ocean off Kuwait coast, major UFO hearing in US Congress told - Yahoo News UKNovember 13, 2024 — VIDEO SHOW...</p></details>
    Published: November 13, 2024  
 
 14. <a id="endnote-14"></a>
    Source: thaipbs.or.th  
    Title: Video of giant UFO discovery in U.S  
-   Link: [https://www.thaipbs.or.th/verify/en/content/12637](https://www.thaipbs.or.th/verify/en/content/12637)  
+   Link: <a href="https://www.thaipbs.or.th/verify/en/content/12637" target="_blank" rel="noopener noreferrer nofollow">https://www.thaipbs.or.th/verify/en/content/12637</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is AI‑generated - Thai PBS VerifyMay 14, 2026 — VIDEO OF GIANT UFO DISCOVERY IN U.S. IS AI‑GENERATED Fake image May 14, 2026 11:23|Around...</p></details>
    Published: May 14, 2026  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=59SVQqcUZB0](https://www.youtube.com/watch?v=59SVQqcUZB0)  
+   Link: <a href="https://www.youtube.com/watch?v=59SVQqcUZB0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=59SVQqcUZB0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;White Orb Off Kuwait Coast&#x27;; Witnesses Expose Pentagon Cover-Up I Details...</p></details>

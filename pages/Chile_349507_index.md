@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /chile-349507-index/
 description: Focused pages that expand on How Chile Investigates UFOs and Aerial....
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Chile_349507
 parent_title: How Chile Investigates UFOs and Aerial...

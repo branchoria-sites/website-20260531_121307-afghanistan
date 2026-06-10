@@ -1185,7 +1185,7 @@ next_link:
   title: Germany UFOs
   permalink: /what-germanys-ufo-record-really-shows/
   short_title: Germany UFOs
-date: '2026-06-09 01:27:33 '
+date: '2026-06-10 01:52:19 '
 header:
   og_image: /assets/images/Georgia_9113c6-overview-social.jpg
   preview_image: /assets/images/Georgia_9113c6-overview.webp
@@ -1194,7 +1194,7 @@ image: /assets/images/Georgia_9113c6-overview-social.jpg
 
 ## Historical Cases and Official Reports
 
-Throughout the latter half of the 20th century, several sightings in Georgia entered wider notice, sometimes intersecting with official investigation archives. One of the most cited historical cases involves future U.S. President Jimmy Carter, who reported seeing an unidentified object in the skies over Leary, Georgia, in October 1973 while he was Governor of the state. Carter formalised this sighting by filing a report with the International UFO Bureau, and related documents are held in archival collections such as the National Archives and the Jimmy Carter Presidential Library. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs? | National ArchivesJuly 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
+Throughout the latter half of the 20th century, several sightings in Georgia entered wider notice, sometimes intersecting with official investigation archives. One of the most cited historical cases involves future U.S. President Jimmy Carter, who reported seeing an unidentified object in the skies over Leary, Georgia, in October 1973 while he was Governor of the state. Carter formalised this sighting by filing a report with the International UFO Bureau, and related documents are held in archival collections such as the National Archives and the Jimmy Carter Presidential Library. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs? &#124; National ArchivesJuly 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Georgia_9113c6-overview.webp" | relative_url }}" alt="Overview image for What Georgia&#x27;s UFO Reports Reveal About..." loading="eager" decoding="sync" fetchpriority="high">
@@ -1211,9 +1211,9 @@ Beyond isolated historical cases, contemporary and ongoing observations in Georg
 
 For example, recent entries in Georgia include reports of vibrant, colour‑changing lights and linear formations of lights observed at night. The UFOIndex lists multiple sightings from 2025 and early 2026, with descriptions submitted directly by witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/georgia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Georgia UFO Reports</span><span class="citation-popover-snippet">Georgia UFO Reports</span></span></span>
 
-Other databases, such as UFO Finder, catalogue historical sightings in specific communities like Rockmart, where multiple reports describe sphere‑, triangle‑, or cigar‑shaped objects and lights performing atypical movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/states/ga/rockmart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder UFO Sightings in Rockmart, Georgia | UFO Finder | UFO Finder</span><span class="citation-popover-snippet">UFO Finder UFO Sightings in Rockmart, Georgia | UFO Finder | UFO Finder</span></span></span>
+Other databases, such as UFO Finder, catalogue historical sightings in specific communities like Rockmart, where multiple reports describe sphere‑, triangle‑, or cigar‑shaped objects and lights performing atypical movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/states/ga/rockmart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder UFO Sightings in Rockmart, Georgia &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder UFO Sightings in Rockmart, Georgia &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
-Civilian databases also show patterns where more populous counties around Atlanta record higher numbers of sightings per capita compared to rural areas, mirroring broader national patterns in reporting frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Mapped: UFO sightings in Georgia</span><span class="citation-popover-snippet">AxiosMapped: UFO sightings in Georgia - Axios AtlantaFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
+Civilian databases also show patterns where more populous counties around Atlanta record higher numbers of sightings per capita compared to rural areas, mirroring broader national patterns in reporting frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Mapped: UFO sightings in Georgia</span><span class="citation-popover-snippet">Mapped: UFO sightings in Georgia - Axios AtlantaFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Georgia_9113c6-Illustration-1-dark.svg" | relative_url }}" alt="What Georgia&#x27;s UFO Reports Reveal About... illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1228,7 +1228,7 @@ These investigations often include follow‑ups on specific cases logged by nati
 
 ## Interpreting Reports: Natural or Unidentified?
 
-Not all unusual aerial events in Georgia remain classified as truly “unidentified.” Many sightings that generate initial intrigue are later attributed to mundane causes — including astronomical events, atmospheric phenomena, or artificial objects. For instance, a widely observed “fireball” in the skies over metro Atlanta in June 2025 was attributed by local meteorological sources to a possible meteor or re‑entering space debris, following video and eyewitness reports and official confirmation from the National Weather Service. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gpb.org/news/2025/06/26/meteor-georgians-report-sightings-of-mysterious-fireball-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpb.org">[Georgia Public Broadcasting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpb.org</span><span class="citation-popover-snippet">Georgia Public BroadcastingA meteor? Georgians report sightings of mysterious fireball in the sky | Georgia Public BroadcastingJune 26, 2025...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
+Not all unusual aerial events in Georgia remain classified as truly “unidentified.” Many sightings that generate initial intrigue are later attributed to mundane causes — including astronomical events, atmospheric phenomena, or artificial objects. For instance, a widely observed “fireball” in the skies over metro Atlanta in June 2025 was attributed by local meteorological sources to a possible meteor or re‑entering space debris, following video and eyewitness reports and official confirmation from the National Weather Service. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gpb.org/news/2025/06/26/meteor-georgians-report-sightings-of-mysterious-fireball-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpb.org">[Georgia Public Broadcasting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpb.org</span><span class="citation-popover-snippet">Georgia Public BroadcastingA meteor? Georgians report sightings of mysterious fireball in the sky &#124; Georgia Public BroadcastingJune 26, 2025...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
 
 This pattern — where initial unexplained observations are later correlated with identifiable natural or human‑made phenomena — is common across UFO reporting worldwide and underscores the importance of systematic data collection and critical analysis when assessing individual cases.
 
@@ -1236,9 +1236,9 @@ This pattern — where initial unexplained observations are later correlated wit
 <img src="{{ "/assets/images/Georgia_9113c6-Illustration-2-dark.svg" | relative_url }}" alt="What Georgia&#x27;s UFO Reports Reveal About... illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence Quality and Ongoing Inquiry
 
-The spectrum of evidence from Georgia ranges widely: from casual witness reports submitted to civilian databases, to archived formal reports like Carter’s sighting, to historical case files in *Project Blue Book*. While these sources reflect genuine human observations of anomalous aerial sightings, they typically lack direct physical evidence that would substantiate extraterrestrial origin. As with the national trend in UFO/UAP research, many Georgian reports remain unresolved due to limited corroborative instrumentation data or comprehensive investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs? | National ArchivesJuly 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
+The spectrum of evidence from Georgia ranges widely: from casual witness reports submitted to civilian databases, to archived formal reports like Carter’s sighting, to historical case files in *Project Blue Book*. While these sources reflect genuine human observations of anomalous aerial sightings, they typically lack direct physical evidence that would substantiate extraterrestrial origin. As with the national trend in UFO/UAP research, many Georgian reports remain unresolved due to limited corroborative instrumentation data or comprehensive investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs? &#124; National ArchivesJuly 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
 
-Moreover, contextual interpretation benefits from understanding how reporting has evolved. The increased visibility of UAP phenomena in government discourse — such as the Pentagon’s establishment of offices like the All‑domain Anomaly Resolution Office (AARO) — has encouraged more public reporting but has also clarified that unidentified does not equate to alien. Official analyses often conclude phenomena are balloons, drones, or atmospheric clutter when sufficient data allows analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Mapped: UFO sightings in Georgia</span><span class="citation-popover-snippet">AxiosMapped: UFO sightings in Georgia - Axios AtlantaFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
+Moreover, contextual interpretation benefits from understanding how reporting has evolved. The increased visibility of UAP phenomena in government discourse — such as the Pentagon’s establishment of offices like the All‑domain Anomaly Resolution Office (AARO) — has encouraged more public reporting but has also clarified that unidentified does not equate to alien. Official analyses often conclude phenomena are balloons, drones, or atmospheric clutter when sufficient data allows analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Mapped: UFO sightings in Georgia</span><span class="citation-popover-snippet">Mapped: UFO sightings in Georgia - Axios AtlantaFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSISgAgdyH0" title="Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer">Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 66.7K &middot; Uploaded: September 2016 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSISgAgdyH0">Open on YouTube</a></p></div></div></div>
@@ -1253,86 +1253,44 @@ Overall, the available evidence suggests that while Georgia has a rich catalogue
 <img src="{{ "/assets/images/Georgia_9113c6-Illustration-3-dark.svg" | relative_url }}" alt="What Georgia&#x27;s UFO Reports Reveal About... illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Georgia&#x27;s UFO Reports Reveal About Unexplained Skies. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Georgia&#x27;s UFO Reports Reveal About Unexplained Skies, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Relevant to government-file and case-history discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for many historical American sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Adds broader historical and cultural interpretation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Strong match for a page covering documented reports and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1366,75 +1324,71 @@ Overall, the available evidence suggests that while Georgia has a rich catalogue
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-georgias-ufo-reports-reveal-about-what-georgia-s-ufo-reports-reveal-about-unexplained-skies-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1649,61 +1603,61 @@ Overall, the available evidence suggests that while Georgia has a rich catalogue
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs? | National ArchivesJuly 24, 2023...</p></details>
    Published: July 24, 2023  
 
 2. <a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons Category:UFO sightings in Georgia, USA  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Georgia%2C_USA](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Georgia%2C_USA)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Georgia%2C_USA" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Georgia%2C_USA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsCategory:UFO sightings in Georgia, USA - Wikimedia CommonsJune 10, 2023...</p></details>
    Published: June 10, 2023  
 
 3. <a id="endnote-3"></a>
    Source: ufoindex.com  
    Title: Georgia UFO Reports  
-   Link: [https://www.ufoindex.com/georgia](https://www.ufoindex.com/georgia)  
+   Link: <a href="https://www.ufoindex.com/georgia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/georgia</a>  
 
 4. <a id="endnote-4"></a>
    Source: axios.com  
    Title: Mapped: UFO sightings in Georgia  
-   Link: [https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings](https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AxiosMapped: UFO sightings in Georgia - Axios AtlantaFebruary 26, 2024...</p></details>
+   Link: <a href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapped: UFO sightings in Georgia - Axios AtlantaFebruary 26, 2024...</p></details>
    Published: February 26, 2024  
 
 5. <a id="endnote-5"></a>
    Source: mufongeorgia.org  
    Title: georgia aerial phenomenon  
-   Link: [https://mufongeorgia.org/georgia-aerial-phenomenon/](https://mufongeorgia.org/georgia-aerial-phenomenon/)  
+   Link: <a href="https://mufongeorgia.org/georgia-aerial-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/georgia-aerial-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia MUFONGeorgia&#x27;s Aerial Phenomenon from 1947-1987 - Georgia MUFON...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: ¿Registros muestran prueba de ovnis?  
-   Link: [https://www.archives.gov/espanol/ovnis](https://www.archives.gov/espanol/ovnis)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesFebruary 9, 2018 — DownloadPrint President Jimmy Carter, saw a UFO over the skies of Leary, Georgia, and filed this re...</p></details>
+   Link: <a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesFebruary 9, 2018 — DownloadPrint President Jimmy Carter, saw a UFO over the skies of Leary, Georgia, and filed this re...</p></details>
    Published: February 9, 2018  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=61559](https://nuforc.org/sighting/?id=61559)  
+   Link: <a href="https://nuforc.org/sighting/?id=61559" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61559</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 61559March 4, 2008 — NUFORC UFO SIGHTING 61559 Occurred: 2006-11-29 16:00 Local Reported: 2008-02-12 00:36 Pacific Du...</p></details>
    Published: November 29, 2006  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=32497](https://nuforc.org/sighting/?id=32497)  
+   Link: <a href="https://nuforc.org/sighting/?id=32497" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=32497</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 seconds No of observers: 3 Location: Greenville, GA, USA Shape: Other Characteristics...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufofinder.com  
    Title: UFO Finder UFO Sightings in Rockmart, Georgia | UFO Finder | UFO Finder  
-   Link: [https://ufofinder.com/states/ga/rockmart/](https://ufofinder.com/states/ga/rockmart/)  
+   Link: <a href="https://ufofinder.com/states/ga/rockmart/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/states/ga/rockmart/</a>  
 
 10. <a id="endnote-10"></a>
    Source: gpb.org  
-   Link: [https://www.gpb.org/news/2025/06/26/meteor-georgians-report-sightings-of-mysterious-fireball-in-the-sky](https://www.gpb.org/news/2025/06/26/meteor-georgians-report-sightings-of-mysterious-fireball-in-the-sky)  
+   Link: <a href="https://www.gpb.org/news/2025/06/26/meteor-georgians-report-sightings-of-mysterious-fireball-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.gpb.org/news/2025/06/26/meteor-georgians-report-sightings-of-mysterious-fireball-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia Public BroadcastingA meteor? Georgians report sightings of mysterious fireball in the sky | Georgia Public BroadcastingJune 26, 2025...</p></details>
    Published: June 26, 2025  
 
@@ -1711,59 +1665,59 @@ Overall, the available evidence suggests that while Georgia has a rich catalogue
 
 11. <a id="endnote-11"></a>
    Source: gpb.org  
-   Link: [https://www.gpb.org/news/2021/06/04/how-ufo-sightings-went-conspiracy-theory-serious-government-inquiry](https://www.gpb.org/news/2021/06/04/how-ufo-sightings-went-conspiracy-theory-serious-government-inquiry)  
+   Link: <a href="https://www.gpb.org/news/2021/06/04/how-ufo-sightings-went-conspiracy-theory-serious-government-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gpb.org/news/2021/06/04/how-ufo-sightings-went-conspiracy-theory-serious-government-inquiry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 4, 2021 — HOW UFO SIGHTINGS WENT FROM CONSPIRACY THEORY TO A SERIOUS GOVERNMENT INQUIRY June 4, 2021 5:40 PM By: * Bill Chappell Ima...</p></details>
    Published: June 4, 2021  
 
 12. <a id="endnote-12"></a>
    Source: gpb.org  
-   Link: [https://www.gpb.org/news/articles/ufos](https://www.gpb.org/news/articles/ufos)  
+   Link: <a href="https://www.gpb.org/news/articles/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.gpb.org/news/articles/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News Articles | Georgia Public BroadcastingNEWS ARTICLES: UFOS * National PENTAGON FINDS &#x27;NO EVIDENCE&#x27; OF ALIEN TECHNOLOGY IN NEW UFO REP...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gpb.org  
-   Link: [https://www.gpb.org/news/articles/unidentified-aerial-phenomena](https://www.gpb.org/news/articles/unidentified-aerial-phenomena)  
+   Link: <a href="https://www.gpb.org/news/articles/unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.gpb.org/news/articles/unidentified-aerial-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IS RUNNING SECRET UAP PROGRAMS A similar hearing last year brought extraordinary moments, inc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tass.com  
    Title: Unidentified flying object seen over Georgia  
-   Link: [https://tass.com/archive/676917](https://tass.com/archive/676917)  
+   Link: <a href="https://tass.com/archive/676917" target="_blank" rel="noopener noreferrer nofollow">https://tass.com/archive/676917</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archive - TASSUNIDENTIFIED FLYING OBJECT SEEN OVER GEORGIA Similar UFOs were also seen in neighboring Armenia and Azerbaijan, as well as...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President  
-   Link: [https://www.youtube.com/watch?v=aSISgAgdyH0](https://www.youtube.com/watch?v=aSISgAgdyH0)  
+   Link: <a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSISgAgdyH0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalist recalls Jimmy Carter&#x27;s &#x27;openness&#x27; when talking about UFOs | NewsNation Prime...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ufodatalive.com  
    Title: UF O Data Live | U.S  
-   Link: [https://www.ufodatalive.com/](https://www.ufodatalive.com/)  
+   Link: <a href="https://www.ufodatalive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Database, UAP Tracker &amp; Disclosure TimelineImage: UFO craft over desert landscape at dusk 37.2431° N 115.7930° W ALT: UNKNO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: washingtonpost.com  
    Title: UF O Over Georgia?  
-   Link: [https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/](https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/)  
+   Link: <a href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Logged One - The Washington PostApril 29, 1977 — UFO OVER GEORGIA? JIMMY LOGGED ONE April 29, 1977 More than 49 years ago Make us p...</p></details>
    Published: April 29, 1977  
 
 18. <a id="endnote-18"></a>
    Source: ufo-hunters.com  
    Title: UF O Sightings map in Georgia  
-   Link: [https://www.ufo-hunters.com/sightings/country/GEO/Georgia](https://www.ufo-hunters.com/sightings/country/GEO/Georgia)  
+   Link: <a href="https://www.ufo-hunters.com/sightings/country/GEO/Georgia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/GEO/Georgia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and growing LATEST SIGHTINGS IN GEORGIA LATEST UFO SIGHTINGS IN GEORGIA: Location | Sighted on | Shape | Duration...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a3upjYAi1tw](https://www.youtube.com/watch?v=a3upjYAi1tw)  
+   Link: <a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a3upjYAi1tw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reported UFO sightings in US and Georgia...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: patch.com  
    Title: Amanda Lumpk  
-   Link: [https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies](https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies)  
+   Link: <a href="https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As World UFO Day Arrives, See What&#x27;s Been Spotted In GA Skies | Atlanta, GA PatchJuly 1, 2025 — AS WORLD UFO DAY ARRIVES, SEE WHAT’S BEEN...</p></details>
    Published: July 1, 2025  

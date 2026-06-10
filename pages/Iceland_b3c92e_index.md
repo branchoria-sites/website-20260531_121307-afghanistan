@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /iceland-b3c92e-index/
 description: Focused pages that expand on Does Iceland Have a Real UFO Record?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Iceland_b3c92e
 parent_title: Does Iceland Have a Real UFO Record?

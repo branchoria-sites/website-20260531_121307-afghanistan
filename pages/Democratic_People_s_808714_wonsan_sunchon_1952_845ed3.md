@@ -239,7 +239,7 @@ prev_link:
   permalink: /iron-triangle-1951/
   short_title: Iron Triangle 1951
   heading_title: Did Ground Forces Encounter Strange Objects in the Iron Triangle?
-date: '2026-06-09 01:25:24 '
+date: '2026-06-10 01:50:00 '
 header:
   og_image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-social.jpg
   preview_image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1.webp
@@ -282,7 +282,7 @@ Within the context of Project Blue Book’s early case lists, the Wonsan–Sunch
 
 ## Evaluation and Interpretive Challenges
 
-Air Force theoreticians of the era—when evaluating similar reports—suggested that such bright, rapidly manoeuvring lights might represent “propelled objects,” drawing loose parallels to previously reported “foo fighters,” mysterious fireball‑like lights observed by Allied aircrews in Europe and the Pacific during **1944–45**. These comparative assessments emphasised the difficulty in distinguishing between natural atmospheric luminescence, optical illusions at high altitude, emergent military technologies, or genuinely unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1952-04-07-have-we-had-visitors-from-outer-space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies&#x27;Have we visitors from Space?&#x27; | Time magazine</span><span class="citation-popover-snippet">April 7, 1952...</span><span class="citation-popover-meta">Published: April 7, 1952</span></span></span>
+Air Force theoreticians of the era—when evaluating similar reports—suggested that such bright, rapidly manoeuvring lights might represent “propelled objects,” drawing loose parallels to previously reported “foo fighters,” mysterious fireball‑like lights observed by Allied aircrews in Europe and the Pacific during **1944–45**. These comparative assessments emphasised the difficulty in distinguishing between natural atmospheric luminescence, optical illusions at high altitude, emergent military technologies, or genuinely unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1952-04-07-have-we-had-visitors-from-outer-space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies&#x27;Have we visitors from Space?&#x27; &#124; Time magazine</span><span class="citation-popover-snippet">April 7, 1952...</span><span class="citation-popover-meta">Published: April 7, 1952</span></span></span>
 
 Crucially, no physical evidence (such as radar tracks, instrumentation data, or recovered debris) from the Korea sightings appears to have survived in publicly accessible U.S. Air Force records, limiting any comprehensive post‑hoc technical evaluation. The reports’ reliance on human observation alone makes them notable as **contested historical accounts** rather than definitive evidence of anomalous aerial craft. Even within early Blue Book documentation, many cases were later categorised as misidentifications once fuller context or mundane explanations (e.g., stars, aircraft, atmospheric effects) were applied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -299,86 +299,44 @@ Within the specific domain of *Democratic People’s Republic of Korea* UFO hist
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Did US Bombers Witness UFOs Over Northern Korea in 1952?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Did US Bombers Witness UFOs Over Northern Korea in 1952?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains investigative treatment of military sightings and aerial anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Matches the 1952 military-reporting period central to the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Provides Cold War archival context for official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Centers on trained observer testimony similar to bomber crew reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -412,59 +370,71 @@ Within the specific domain of *Democratic People’s Republic of Korea* UFO hist
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing B29 Model"><img src="https://i.ebayimg.com/images/g/hjoAAeSwcSxqHxNN/s-l225.jpg" alt="Listing image for Boeing B29 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer">Boeing B29 Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-29 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-29 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stunning Boeing B-29 â€˜Super-fortressâ€™ WW2 Bomber - In Original Packaging - Xmas"><img src="https://i.ebayimg.com/images/g/6I0AAeSwX0dpMDbm/s-l225.jpg" alt="Listing image for Stunning Boeing B-29 â€˜Super-fortressâ€™ WW2 Bomber - In Original Packaging - Xmas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer">Stunning Boeing B-29 â€˜Super-fortressâ€™ WW2 Bomber - In Original Packaging - Xmas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-29 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-29 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy 12528 B-29A &quot;Enola Gay&quot; &amp; &quot;Bockscar&quot; 1:72 Model Kit"><img src="https://i.ebayimg.com/images/g/T~sAAeSwFCdqEJdK/s-l225.jpg" alt="Listing image for Academy 12528 B-29A &quot;Enola Gay&quot; &amp; &quot;Bockscar&quot; 1:72 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer">Academy 12528 B-29A &quot;Enola Gay&quot; &amp; &quot;Bockscar&quot; 1:72 Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-29 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-29 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
+      </div>
+    </article>
+
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-29+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-29 model" data-ebay-reference="how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-b-29-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonsan-sunchon-1952-how-did-us-bombers-witness-ufos-over-northern-korea-in-1952-democratic-peopl-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -679,141 +649,141 @@ Within the specific domain of *Democratic People’s Republic of Korea* UFO hist
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Wonsan-Sunchon UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident](https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/korea52a.htm](https://www.project1947.com/fig/korea52a.htm)  
+   Link: <a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS 1952 - Korea - Wonsan SunchonFebruary 19, 1952...</p></details>
    Published: February 19, 1952  
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: isgp-studies.com  
    Title: ISGP Studies'Have we visitors from Space?' | Time magazine  
-   Link: [https://www.isgp-studies.com/misc/UFOs/press-reports/1952-04-07-have-we-had-visitors-from-outer-space](https://www.isgp-studies.com/misc/UFOs/press-reports/1952-04-07-have-we-had-visitors-from-outer-space)  
+   Link: <a href="https://www.isgp-studies.com/misc/UFOs/press-reports/1952-04-07-have-we-had-visitors-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/1952-04-07-have-we-had-visitors-from-outer-space</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 1952...</p></details>
    Published: April 7, 1952  
 
 5. <a id="endnote-5"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: [https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/](https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/)  
+   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, UFOs outran U.S. Air Force jets over Washington, D.C. Was this the moment aliens first made contact? 3:38m watch PROJECT BLUE BO...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/topics/folklore/project-blue-book](https://www.history.com/topics/folklore/project-blue-book)  
+   Link: <a href="https://www.history.com/topics/folklore/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files | HISTORYFebruary 22, 2010 — By: HISTORY.com Editors Mysteries &amp; Folklore PROJECT BLUE BOOK HISTORY.com Editors...</p></details>
    Published: February 22, 2010  
 
 7. <a id="endnote-7"></a>
    Source: project1947.com  
    Title: The bomber's speed was slightly under 200 miles p  
-   Link: [https://project1947.com/fig/1952a.htm](https://project1947.com/fig/1952a.htm)  
+   Link: <a href="https://project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow">https://project1947.com/fig/1952a.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 - UFO REPORTS 1952On January 29th, one of our B-29 bombers performing a solitary mission in Korea was flying at somewhat mor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: content.time.com  
    Title: 0,33009,890289 1,00  
-   Link: [https://content.time.com/time/subscriber/article/0%2C33009%2C890289-1%2C00.html](https://content.time.com/time/subscriber/article/0%2C33009%2C890289-1%2C00.html)  
+   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C890289-1%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C890289-1%2C00.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>03, 1952 People who believe in flying saucers got encouragement last week from the skeptical U.S. Air Force. On Jan. 29, an Air Force spo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: declassified.ca  
-   Link: [https://declassified.ca/two-sightings-of-globular-or-disk-shaped-objects-are-corroborated-by-two-crew-members-each-of-two-separate-planes-over-wonsan-and-sunchon-korea/](https://declassified.ca/two-sightings-of-globular-or-disk-shaped-objects-are-corroborated-by-two-crew-members-each-of-two-separate-planes-over-wonsan-and-sunchon-korea/)  
+   Link: <a href="https://declassified.ca/two-sightings-of-globular-or-disk-shaped-objects-are-corroborated-by-two-crew-members-each-of-two-separate-planes-over-wonsan-and-sunchon-korea/" target="_blank" rel="noopener noreferrer nofollow">https://declassified.ca/two-sightings-of-globular-or-disk-shaped-objects-are-corroborated-by-two-crew-members-each-of-two-separate-planes-over-wonsan-and-sunchon-korea/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Korea - DECLASSIFIEDJanuary 29, 1952 — TWO SIGHTINGS OF GLOBULAR OR DISK-SHAPED OBJECTS ARE CORROBORATED BY TWO CREW MEMBERS EACH OF TW...</p></details>
    Published: January 29, 1952  
 
 10. <a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/korea29jan52.htm](https://ufologie.patrickgross.org/htm/korea29jan52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/korea29jan52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/korea29jan52.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: US military UFO reports, Korea, January 29, 1952...</p></details>
    Published: January 29, 1952  
 
 11. <a id="endnote-11"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/press/nytkorea19feb52.htm](https://ufologie.patrickgross.org/press/nytkorea19feb52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/press/nytkorea19feb52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/nytkorea19feb52.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: the newspapers, The New York Times, January 29, 1952February 19, 1952 — UFOS IN THE DAILY PRESS: THE NEW YORK TIMES...</p></details>
    Published: January 29, 1952  
 
 12. <a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/lifemag52.htm](https://ufologie.patrickgross.org/htm/lifemag52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/lifemag52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/lifemag52.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: the famous LIFE Magazine article, April 7, 1952April 7, 1952...</p></details>
    Published: April 7, 1952  
 
 13. <a id="endnote-13"></a>
    Source: pararational.com  
-   Link: [https://www.pararational.com/encyclopedia/project-blue-book/](https://www.pararational.com/encyclopedia/project-blue-book/)  
+   Link: <a href="https://www.pararational.com/encyclopedia/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book was the United States Air Force’s official program for investigating UFO sightings, running from March 1952 u...</p></details>
    Published: March 1952  
 
 14. <a id="endnote-14"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/projectbluebook.html](https://www.ufocasebook.com/projectbluebook.html)  
+   Link: <a href="https://www.ufocasebook.com/projectbluebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/projectbluebook.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, A HistoryPROJECT BLUE BOOK, A HISTORY In the features Project Sign, and Project Grudge,we saw that, after General Hoyt...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/520129sunchon_dir.htm](https://www.nicap.org/520129sunchon_dir.htm)  
+   Link: <a href="https://www.nicap.org/520129sunchon_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520129sunchon_dir.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportCategory 11 Case Directory SIGHTINGS FROM AIRCRAFT Preliminary Rating: 5 | | Image AVCAT is a special project being conducted b...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/Project_Blue_Book/](https://everything.explained.today/Project_Blue_Book/)  
+   Link: <a href="https://everything.explained.today/Project_Blue_Book/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Project_Blue_Book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book ExplainedPROJECT BLUE BOOK EXPLAINED Project Blue Book was the code name for the systematic study of unidentified flying object...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: grunge.com  
    Title: Things About The Korean War That Don't Make Sense  
-   Link: [https://www.grunge.com/1717404/things-korean-war-dont-make-sense/](https://www.grunge.com/1717404/things-korean-war-dont-make-sense/)  
+   Link: <a href="https://www.grunge.com/1717404/things-korean-war-dont-make-sense/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1717404/things-korean-war-dont-make-sense/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 15, 2024 — THE KOREAN WAR HAD SOME BIZARRE CLAIMS OF UFO SIGHTINGS Image: Fingers pointing at a pair of UFOs N Universe/Shutters...</p></details>
    Published: December 15, 2024  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=v9wUHdXmgQU](http://www.youtube.com/watch?v=v9wUHdXmgQU)  
+   Link: <a href="http://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: alienhub.com  
    Title: UF O Reports during the Korean War  
-   Link: [https://www.alienhub.com/threads/ufo-reports-during-the-korean-war.22922/](https://www.alienhub.com/threads/ufo-reports-during-the-korean-war.22922/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Alien HubMarch 1, 2010 — KARL 12 RESEARCHER * Mar 2, 2010 * #6 Pilot Report: &gt; Jan. 29, Wonsan, Korea (BBU) &gt; 11:00 pm. 30 miles SW of...</p></details>
+   Link: <a href="https://www.alienhub.com/threads/ufo-reports-during-the-korean-war.22922/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/threads/ufo-reports-during-the-korean-war.22922/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien HubMarch 1, 2010 — KARL 12 RESEARCHER * Mar 2, 2010 * #6 Pilot Report: &gt; Jan. 29, Wonsan, Korea (BBU) &gt; 11:00 pm. 30 miles SW of...</p></details>
    Published: March 1, 2010  
 
 21. <a id="endnote-21"></a>
    Source: ufoinsight.com  
    Title: UF O Encounters Of The Korean War  
-   Link: [https://www.ufoinsight.com/ufos/close-encounters/ufo-encounters-korean-war](https://www.ufoinsight.com/ufos/close-encounters/ufo-encounters-korean-war)  
+   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/ufo-encounters-korean-war" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/ufo-encounters-korean-war</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters Of The Korean War - UFO InsightJune 30, 2018 — UFO ENCOUNTERS OF THE KOREAN WAR By Marcus Lowth Image: Published Date June...</p></details>
    Published: June 30, 2018  
 
 22. <a id="endnote-22"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/1952jj.htm](https://www.nicap.org/1952jj.htm)  
+   Link: <a href="https://www.nicap.org/1952jj.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/1952jj.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook 1952 January To JuneUFO CASEBOOK: 1952, JAN-JUN This selection of &quot;UFO CASEBOOK&quot; contains the Blue Book &quot;Unknowns&quot; and will...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=dc6Ptr1XxTA](http://www.youtube.com/watch?v=dc6Ptr1XxTA)  
+   Link: <a href="http://www.youtube.com/watch?v=dc6Ptr1XxTA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dc6Ptr1XxTA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: US Soldiers Attacked By Aliens In North Korea  
-   Link: [http://www.youtube.com/watch?v=E85-tQ2lO_I](http://www.youtube.com/watch?v=E85-tQ2lO_I)  
+   Link: <a href="http://www.youtube.com/watch?v=E85-tQ2lO_I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=E85-tQ2lO_I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Korean War UFO sightings 1952 Episode 1 Korean War Vet UFO sighting 1952. Veteran Ufologist Bernard Hall Adrian Bernard...</p></details>

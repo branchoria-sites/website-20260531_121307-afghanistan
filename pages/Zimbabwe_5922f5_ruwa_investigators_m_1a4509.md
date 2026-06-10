@@ -239,7 +239,7 @@ prev_link:
   permalink: /evidence-gaps-5a3de4/
   short_title: Evidence Gaps
   heading_title: Why Zimbabwe's UFO Record Is So Hard to Verify
-date: '2026-06-09 01:45:55 '
+date: '2026-06-10 02:14:07 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_ruwa_investigators_m_1a4509-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_ruwa_investigators_m_1a4509-Illustration-1.webp
@@ -256,7 +256,7 @@ The result is an unusual historical problem. The Ariel case is not only a story 
 
 ## Why Cynthia Hind Became the Case's First Gatekeeper
 
-When reports from Ariel School began circulating after the sighting, the first major investigator to arrive was Cynthia Hind, a well-known [Zimbabwe]({{ 'what-really-happened-in-zimbabwes-ufo/' | relative_url }})-based UFO researcher and editor of *UFO Afrinews*. She was already tracking reports connected to a wave of unusual sky sightings in southern Africa during the same period, including accounts that followed the widely observed re-entry of a rocket booster that many witnesses interpreted as a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/UFO-Sichtung_bei_Ruwa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO-Sichtung bei Ruwa</span><span class="citation-popover-snippet">UFO-Sichtung bei Ruwa</span></span></span>
+When reports from Ariel School began circulating after the sighting, the first major investigator to arrive was Cynthia Hind, a well-known Zimbabwe-based UFO researcher and editor of *UFO Afrinews*. She was already tracking reports connected to a wave of unusual sky sightings in southern Africa during the same period, including accounts that followed the widely observed re-entry of a rocket booster that many witnesses interpreted as a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/UFO-Sichtung_bei_Ruwa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO-Sichtung bei Ruwa</span><span class="citation-popover-snippet">UFO-Sichtung bei Ruwa</span></span></span>
 
 Hind's importance lies less in proving the case than in preserving it. She collected children's drawings, conducted interviews and organised the material that later investigators would use. Without her intervention, much of the earliest testimony might have disappeared. Many of the images and descriptions that continue to circulate today originate from the archive she assembled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_E._Mack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John E. Mack</span><span class="citation-popover-snippet">John E. Mack</span></span></span>
 
@@ -273,7 +273,7 @@ Three days after the reported sighting, BBC correspondent Tim Leach visited Arie
 
 For believers, the recordings remain compelling because many children appear emotionally engaged, confident and unrehearsed. The footage also shows variation rather than perfect agreement. Different pupils described different numbers of objects, different positions and different details, which supporters argue is what genuine eyewitness testimony should look like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_E._Mack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John E. Mack</span><span class="citation-popover-snippet">John E. Mack</span></span></span>
 
-For sceptics, the same footage raises different questions. Children can become excited by shared experiences, rumours and playground discussion. The fact that the interviews occurred after the children had already spent time discussing the event among themselves means the recordings cannot be treated as untouched first impressions. The BBC material demonstrates what the children believed or remembered shortly after the event, but it cannot by itself establish what physically occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-ariel-school-zimbabwe-ufo-sighting-has-it-ever-been-debunked.5389/page-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">The Ariel School, Zimbabwe UFO sighting</span><span class="citation-popover-snippet">MetabunkThe Ariel School, Zimbabwe UFO sighting - has it ever...24 Dec 2014 — Or details like why no children reported any message from...</span></span></span>
+For sceptics, the same footage raises different questions. Children can become excited by shared experiences, rumours and playground discussion. The fact that the interviews occurred after the children had already spent time discussing the event among themselves means the recordings cannot be treated as untouched first impressions. The BBC material demonstrates what the children believed or remembered shortly after the event, but it cannot by itself establish what physically occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-ariel-school-zimbabwe-ufo-sighting-has-it-ever-been-debunked.5389/page-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">The Ariel School, Zimbabwe UFO sighting</span><span class="citation-popover-snippet">The Ariel School, Zimbabwe UFO sighting - has it ever...24 Dec 2014 — Or details like why no children reported any message from...</span></span></span>
 
 Leach himself became part of the mythology surrounding the case. His frequently quoted remark that he could handle war zones but found this story difficult to process has often been presented as evidence that the testimony impressed an experienced journalist. Yet it was still a journalist's reaction rather than an independent verification of the claims. Over time, that distinction has sometimes disappeared in retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_E._Mack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John E. Mack</span><span class="citation-popover-snippet">John E. Mack</span></span></span>
 
@@ -289,7 +289,7 @@ Mack's interviews are famous because they introduced one of the most debated ele
 
 The controversy is straightforward. Critics note that the environmental message is largely absent from the earliest reporting associated with the case and became prominent after Mack's involvement. Sceptical writers have argued that Mack's questioning style may have encouraged children to frame their experiences in ways consistent with themes he already found meaningful in his wider research. Some critics specifically argue that the environmental interpretation appears more strongly in Mack's material than in the earliest accounts gathered immediately after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_E._Mack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John E. Mack</span><span class="citation-popover-snippet">John E. Mack</span></span></span>
 
-Supporters reject the idea that Mack implanted the narrative. They point out that several children independently described similar impressions of ecological danger and technological anxiety, and they argue that Mack was documenting rather than creating those themes. His defenders also emphasise that he approached the children seriously and believed their experiences deserved investigation rather than ridicule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">WHYYDocumentary explores the UFO sighting that changed...23 Oct 2023 — Through a series of interviews, John Mack pieced together a narra...</span></span></span>
+Supporters reject the idea that Mack implanted the narrative. They point out that several children independently described similar impressions of ecological danger and technological anxiety, and they argue that Mack was documenting rather than creating those themes. His defenders also emphasise that he approached the children seriously and believed their experiences deserved investigation rather than ridicule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">Documentary explores the UFO sighting that changed...23 Oct 2023 — Through a series of interviews, John Mack pieced together a narra...</span></span></span>
 
 The dispute matters because it changes how the case is interpreted. If the environmental warning emerged primarily through later interviews, it may reveal how witness narratives evolve under questioning. If it genuinely existed from the beginning, it becomes one of the most unusual aspects of the Ariel testimony. Either way, the debate demonstrates how difficult it is to separate original memory from later interpretation.
 
@@ -314,7 +314,7 @@ The Ariel case increasingly functions as a study in memory rather than a simple 
 
 Researchers who study eyewitness memory generally note that recollections are not static recordings. Memories can become reinforced, simplified or reorganised over time. In highly publicised cases, witnesses may absorb details from other witnesses, media reports or later interpretations without consciously realising it. The fact that Ariel has been revisited repeatedly for three decades makes it difficult to separate original perception from accumulated narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revue.comitepara.be/wp-content/uploads/2024/10/Scepticisme_Scientifique_12_2024_SI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revue.comitepara.be">[revue.comitepara.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revue.comitepara.be</span><span class="citation-popover-snippet">could have been that exist in the children&#x27;s testimony - something prosaic, if unusual...Read more...</span></span></span>
 
-At the same time, memory-based criticisms do not automatically invalidate every witness. Some former pupils continue to describe remarkably similar core experiences despite long periods of separation and despite receiving little apparent benefit from maintaining the story. That persistence is one reason the case remains influential even among researchers who are cautious about extraterrestrial explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">WHYYDocumentary explores the UFO sighting that changed...23 Oct 2023 — Through a series of interviews, John Mack pieced together a narra...</span></span></span>
+At the same time, memory-based criticisms do not automatically invalidate every witness. Some former pupils continue to describe remarkably similar core experiences despite long periods of separation and despite receiving little apparent benefit from maintaining the story. That persistence is one reason the case remains influential even among researchers who are cautious about extraterrestrial explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">Documentary explores the UFO sighting that changed...23 Oct 2023 — Through a series of interviews, John Mack pieced together a narra...</span></span></span>
 
 The most historically defensible position is therefore narrower than either extreme. The investigators and journalists who recorded the Ariel story preserved valuable testimony that would otherwise have been lost. Yet those same investigators inevitably influenced how the event was framed, interpreted and remembered. In the Ruwa case, the archive and the argument are inseparable. The people who documented the story became part of the story itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revue.comitepara.be/wp-content/uploads/2024/10/Scepticisme_Scientifique_12_2024_SI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revue.comitepara.be">[2revue.comitepara.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revue.comitepara.be</span><span class="citation-popover-snippet">could have been that exist in the children&#x27;s testimony - something prosaic, if unusual...Read more...</span></span></span>
 
@@ -323,86 +323,44 @@ The most historically defensible position is therefore narrower than either extr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Who Shaped the Ariel School Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Who Shaped the Ariel School Story?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
-        
-        <p class="fr-book-desc">Examines Mack&#x27;s role, reputation, and influence on cases such as Ariel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a contrasting evidence-focused approach to UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208300-M.jpg" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack</p>
-        
-        <p class="fr-book-desc">First published 1994. Subjects: Alien abduction, Unidentified flying objects, Sightings and encounters, Objetos voladores no identificado...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Random+House+Illustrated+Encyclopedia+of+American+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Random House Illustrated Encyclopedia of American Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Random+House+Illustrated+Encyclopedia+of+American+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Random House Illustrated Encyclopedia of American Folklore">Random House Illustrated Encyclopedia of American Folklore</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explains Mack&#x27;s thinking, methods, and interpretation of witness experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Random+House+Illustrated+Encyclopedia+of+American+Folklore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -436,75 +394,71 @@ The most historically defensible position is therefore narrower than either extr
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 73999 UFO&#x27;s Are Real Movie 1979 Documentary Wall Decor Print Poster"><img src="{{ '/assets/images/marketplace-covers/8120256ff2a3f8df6df1.jpg' | relative_url }}" alt="Listing image for 73999 UFO&#x27;s Are Real Movie 1979 Documentary Wall Decor Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">73999 UFO&#x27;s Are Real Movie 1979 Documentary Wall Decor Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Farmer Poster â€“ Vintage UFO Encounter Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/4effbb9dbce99f0636b0.jpg' | relative_url }}" alt="Listing image for Alien Farmer Poster â€“ Vintage UFO Encounter Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Farmer Poster â€“ Vintage UFO Encounter Farm Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster â€“ Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster â€“ Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster â€“ Midnight UFO Encounter Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo documentary poster -book -books" data-ebay-reference="investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigators-4bec57-who-shaped-the-ariel-school-story-zimbabwe-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -719,49 +673,49 @@ The most historically defensible position is therefore narrower than either extr
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: whyy.org  
-   Link: [https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/](https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHYYDocumentary explores the UFO sighting that changed...23 Oct 2023 — Through a series of interviews, John Mack pieced together a narra...</p></details>
+   Link: <a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary explores the UFO sighting that changed...23 Oct 2023 — Through a series of interviews, John Mack pieced together a narra...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO-Sichtung bei Ruwa  
-   Link: [https://de.wikipedia.org/wiki/UFO-Sichtung_bei_Ruwa](https://de.wikipedia.org/wiki/UFO-Sichtung_bei_Ruwa)  
+   Link: <a href="https://de.wikipedia.org/wiki/UFO-Sichtung_bei_Ruwa" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/UFO-Sichtung_bei_Ruwa</a>  
 
 4. <a id="endnote-4"></a>
    Source: revue.comitepara.be  
-   Link: [https://revue.comitepara.be/wp-content/uploads/2024/10/Scepticisme_Scientifique_12_2024_SI.pdf](https://revue.comitepara.be/wp-content/uploads/2024/10/Scepticisme_Scientifique_12_2024_SI.pdf)  
+   Link: <a href="https://revue.comitepara.be/wp-content/uploads/2024/10/Scepticisme_Scientifique_12_2024_SI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://revue.comitepara.be/wp-content/uploads/2024/10/Scepticisme_Scientifique_12_2024_SI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>could have been that exist in the children&#x27;s testimony - something prosaic, if unusual...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: The Ariel School, Zimbabwe UFO sighting  
-   Link: [https://www.metabunk.org/threads/the-ariel-school-zimbabwe-ufo-sighting-has-it-ever-been-debunked.5389/page-5](https://www.metabunk.org/threads/the-ariel-school-zimbabwe-ufo-sighting-has-it-ever-been-debunked.5389/page-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkThe Ariel School, Zimbabwe UFO sighting - has it ever...24 Dec 2014 — Or details like why no children reported any message from...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/the-ariel-school-zimbabwe-ufo-sighting-has-it-ever-been-debunked.5389/page-5" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-ariel-school-zimbabwe-ufo-sighting-has-it-ever-been-debunked.5389/page-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School, Zimbabwe UFO sighting - has it ever...24 Dec 2014 — Or details like why no children reported any message from...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt20216382/](https://www.imdb.com/title/tt20216382/)  
+   Link: <a href="https://www.imdb.com/title/tt20216382/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt20216382/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon (2022)Explores an African extraterrestrial encounter witnessed by over sixty schoolchildren in 1994. As a Harvard profes...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: John E. Mack  
-   Link: [https://en.wikipedia.org/wiki/John_E._Mack](https://en.wikipedia.org/wiki/John_E._Mack)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_E._Mack" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_E._Mack</a>  
 
 8. <a id="endnote-8"></a>
    Source: gazettenet.com  
    Title: Daily Hampshire Gazette What did the children see?  
-   Link: [https://gazettenet.com/2022/10/07/whately-filmmaker-investigates-mysterious-ufo-story-from-africa-in-ariel-phenomenon-48213733/](https://gazettenet.com/2022/10/07/whately-filmmaker-investigates-mysterious-ufo-story-from-africa-in-ariel-phenomenon-48213733/)  
+   Link: <a href="https://gazettenet.com/2022/10/07/whately-filmmaker-investigates-mysterious-ufo-story-from-africa-in-ariel-phenomenon-48213733/" target="_blank" rel="noopener noreferrer nofollow">https://gazettenet.com/2022/10/07/whately-filmmaker-investigates-mysterious-ufo-story-from-africa-in-ariel-phenomenon-48213733/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whately filmmaker&#x27;s...7 Oct 2022 — “Ariel Phenomenon” draws on archival TV footage from the 1994 event, including interviews with studen...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: victorstiff.com  
    Title: Victor Stiff Reviews Ariel Phenomenon Review: Why Can't We Admit What We  
-   Link: [https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/](https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/)  
+   Link: <a href="https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/" target="_blank" rel="noopener noreferrer nofollow">https://victorstiff.com/ariel-phenomenon-review-why-cant-we-admit-what-we-dont-know/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Victor Stiff ReviewsAriel Phenomenon Review: Why Can&#x27;t We Admit What We...May 21, 2022 — 21 May 2022 — The film becomes a fascinating ca...</p></details>
    Published: May 21, 2022  
 
@@ -769,54 +723,54 @@ The most historically defensible position is therefore narrower than either extr
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/](https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Journalist Allegedly Threatened by CIA Over Ariel...The case involved 62 students from Ariel School in Ruwa, who reported seeing a d...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: in 1994 a bbc reporter named tim leach was assigned to cover a peculiar story un  
-   Link: [https://www.facebook.com/61565745632743/posts/in-1994-a-bbc-reporter-named-tim-leach-was-assigned-to-cover-a-peculiar-story-un/122162461736524854/](https://www.facebook.com/61565745632743/posts/in-1994-a-bbc-reporter-named-tim-leach-was-assigned-to-cover-a-peculiar-story-un/122162461736524854/)  
+   Link: <a href="https://www.facebook.com/61565745632743/posts/in-1994-a-bbc-reporter-named-tim-leach-was-assigned-to-cover-a-peculiar-story-un/122162461736524854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61565745632743/posts/in-1994-a-bbc-reporter-named-tim-leach-was-assigned-to-cover-a-peculiar-story-un/122162461736524854/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1994, a BBC reporter named Tim Leach was assigned...John Mack traveled to Ariel School in Ruwa, Zimbabwe in 1994 to interview 60+ sch...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tassilosieben/posts/on-16-september-1994-there-was-a-ufo-sighting-outside-ruwa-zimbabwe-62-pupils-at/686389283487895/](https://www.facebook.com/tassilosieben/posts/on-16-september-1994-there-was-a-ufo-sighting-outside-ruwa-zimbabwe-62-pupils-at/686389283487895/)  
+   Link: <a href="https://www.facebook.com/tassilosieben/posts/on-16-september-1994-there-was-a-ufo-sighting-outside-ruwa-zimbabwe-62-pupils-at/686389283487895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/on-16-september-1994-there-was-a-ufo-sighting-outside-ruwa-zimbabwe-62-pupils-at/686389283487895/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On 16 September 1994, there was a UFO sighting outside...Researcher Cynthia Hind interviewed several of the students after the event, an...</p></details>
    Published: september 1994  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JUNO7qqSJ9o](https://www.youtube.com/watch?v=JUNO7qqSJ9o)  
+   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw AliensA school of children witnessed a silver craft descend from the sky where it then lan...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: x.com  
-   Link: [https://x.com/janemarielynch/status/1692896479466184949](https://x.com/janemarielynch/status/1692896479466184949)  
+   Link: <a href="https://x.com/janemarielynch/status/1692896479466184949" target="_blank" rel="noopener noreferrer nofollow">https://x.com/janemarielynch/status/1692896479466184949</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the children as they describe the beings/craft that they saw...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/103o5ee/childrens_witness_accounts_on_the_ariel_school/](https://www.reddit.com/r/UFOs/comments/103o5ee/childrens_witness_accounts_on_the_ariel_school/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/103o5ee/childrens_witness_accounts_on_the_ariel_school/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/103o5ee/childrens_witness_accounts_on_the_ariel_school/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children&#x27;s witness accounts on the Ariel School UFO incidentOn September 16, 1994, there was a UFO mass sighting outside Ruwa, Zimbabwe...</p></details>
    Published: September 16, 1994  
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DMvZdUzRcN4/](https://www.instagram.com/reel/DMvZdUzRcN4/)  
+   Link: <a href="https://www.instagram.com/reel/DMvZdUzRcN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMvZdUzRcN4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1994, 62 children at Ariel School in Zimbabwe reported...Harvard psychiatrist Doctor John Mack arrives to investigate...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1158518799655198/](https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1158518799655198/)  
+   Link: <a href="https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1158518799655198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/one-of-the-most-interesting-ufo-witness-cases-that-exists-within-the-lore-of-the/1158518799655198/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e in 1994 to interview 60+ schoolchildren who gave highly...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: on september 16th 1994 62 children at ariel  
-   Link: [https://www.reddit.com/r/aliens/comments/1axk078/on_september_16th_1994_62_children_at_ariel/](https://www.reddit.com/r/aliens/comments/1axk078/on_september_16th_1994_62_children_at_ariel/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1axk078/on_september_16th_1994_62_children_at_ariel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1axk078/on_september_16th_1994_62_children_at_ariel/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On September 16th 1994, 62 children at Ariel school in...62 children at Ariel school in Ruwa, Zimbabwe said they saw a UFO and had a tel...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DDnP3dSRJ3_/?hl=en](https://www.instagram.com/reel/DDnP3dSRJ3_/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DDnP3dSRJ3_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDnP3dSRJ3_/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence of lies or coaching. The children drew...Read more...</p></details>

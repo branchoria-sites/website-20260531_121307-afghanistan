@@ -245,7 +245,7 @@ next_link:
   permalink: /campeche-video/
   short_title: Campeche Video
   heading_title: Was the Campeche UFO Video Just Flares?
-date: '2026-06-09 01:33:38 '
+date: '2026-06-10 01:59:15 '
 header:
   og_image: /assets/images/Mexico_41937b_mexican_ufo_archives_cd799b-Illustration-1-social.jpg
   preview_image: /assets/images/Mexico_41937b_mexican_ufo_archives_cd799b-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Mexico_41937b_mexican_ufo_archives_cd799b-Illustration-1-s
 
 ## Introduction
 
-Government records and public transparency systems in **[Mexico]({{ 'what-really-happened-in-mexicos-ufo/' | relative_url }})** do contain documentation related to unidentified aerial phenomena — often labelled “UFOs” or **unidentified anomalous phenomena (UAPs)** — but these archives are best understood as repositories of **reports, agency correspondence and public requests for information**, rather than proof of extraterrestrial presence. The availability of such materials reflects modern transparency laws and archival practices in Mexico, which give researchers, journalists and citizens the legal right to request government records and consult historical files, even when the material is partial or inconclusive.
+Government records and public transparency systems in **Mexico** do contain documentation related to unidentified aerial phenomena — often labelled “UFOs” or **unidentified anomalous phenomena (UAPs)** — but these archives are best understood as repositories of **reports, agency correspondence and public requests for information**, rather than proof of extraterrestrial presence. The availability of such materials reflects modern transparency laws and archival practices in Mexico, which give researchers, journalists and citizens the legal right to request government records and consult historical files, even when the material is partial or inconclusive.
 
 
 <img src="{{ "/assets/images/Mexico_41937b_mexican_ufo_archives_cd799b-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Mexico_41937b_mexican_ufo_archives_cd799b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mexico_41937b_mexican_ufo_archives_cd799b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -321,86 +321,44 @@ However, institutional responses consistently position these archives as **recor
 In summary, Mexico’s archives and transparency records offer a structured window into how unexplained aerial reports are recorded, stored and released by government institutions. They provide valuable historical and procedural context for researchers, while remaining anchored in **legally accessible documentation** that emphasises **public accountability, not proof of extraterrestrial contact**.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Do Mexico&#x27;s UFO Records Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Do Mexico&#x27;s UFO Records Actually Show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explores how government UFO reports were documented and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps readers understand report classification and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Matches the theme of official archives and public records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides broader interpretive context for accumulated reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -434,75 +392,71 @@ In summary, Mexico’s archives and transparency records offer a structured wind
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-t-shirt-gerry-anderson-series-television-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-t-shirt-gerry-anderson-series-television-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-c4cfaa-what-do-mexico-s-ufo-records-actually-show-mexico-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -721,170 +675,170 @@ In summary, Mexico’s archives and transparency records offer a structured wind
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Archivo General de la Nación (México)  
-   Link: [https://es.wikipedia.org/wiki/Archivo_General_de_la_Naci%C3%B3n_%28M%C3%A9xico%29](https://es.wikipedia.org/wiki/Archivo_General_de_la_Naci%C3%B3n_%28M%C3%A9xico%29)  
+   Link: <a href="https://es.wikipedia.org/wiki/Archivo_General_de_la_Naci%C3%B3n_%28M%C3%A9xico%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Archivo_General_de_la_Naci%C3%B3n_%28M%C3%A9xico%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Dirección Federal de Seguridad  
-   Link: [https://es.wikipedia.org/wiki/Direcci%C3%B3n_Federal_de_Seguridad](https://es.wikipedia.org/wiki/Direcci%C3%B3n_Federal_de_Seguridad)  
+   Link: <a href="https://es.wikipedia.org/wiki/Direcci%C3%B3n_Federal_de_Seguridad" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Direcci%C3%B3n_Federal_de_Seguridad</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dirección Federal de SeguridadLa Dirección Federal de Seguridad (DFS), conocida comúnmente como &quot;La Policía Secreta&quot; en México, fue la...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...February 15, 2024 — 24 Apr 2025 — NARA has records related...</p></details>
    Published: February 15, 2024  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: ¿Registros muestran prueba de ovnis?  
-   Link: [https://www.archives.gov/espanol/ovnis](https://www.archives.gov/espanol/ovnis)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesFebruary 9, 2018 — Toda la documentación del Proyecto Libro Azul está disponible en 94 rollos de microfilm (T1206) con...</p></details>
+   Link: <a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesFebruary 9, 2018 — Toda la documentación del Proyecto Libro Azul está disponible en 94 rollos de microfilm (T1206) con...</p></details>
    Published: February 9, 2018  
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: Presidential Unsealing and Reporting System for UAP  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters. GOD BLESS...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Mysterious UFOs Filmed Over Mexico | Mexico Contact Point | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=LDA3JQyG3c0](https://www.youtube.com/watch?v=LDA3JQyG3c0)  
+   Link: <a href="https://www.youtube.com/watch?v=LDA3JQyG3c0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LDA3JQyG3c0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican UFO...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Mexican UFO  
-   Link: [https://www.youtube.com/watch?v=xWYQRJmx1fs](https://www.youtube.com/watch?v=xWYQRJmx1fs)  
+   Link: <a href="https://www.youtube.com/watch?v=xWYQRJmx1fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWYQRJmx1fs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human being&#x27; remains? Mexico holds first public Congressional hearing on UFOs | ANC...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archivos.gob.mx  
    Title: Archivos El archivo de la Dirección Federal de Seguridad: una fuente  
-   Link: [https://archivos.gob.mx/Legajos/pdf/Legajos15/06Elarchivo.pdf](https://archivos.gob.mx/Legajos/pdf/Legajos15/06Elarchivo.pdf)  
+   Link: <a href="https://archivos.gob.mx/Legajos/pdf/Legajos15/06Elarchivo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archivos.gob.mx/Legajos/pdf/Legajos15/06Elarchivo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seguridad (DFS) no es solo el archivo de la Guerra Sucia. Se trata de una fuente imprescindible para reconstruir.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archivos.gob.mx  
    Title: Archivos Acceso a la información  
-   Link: [https://www.archivos.gob.mx/transparencia/AccesoInfo.html](https://www.archivos.gob.mx/transparencia/AccesoInfo.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ArchivosAcceso a la información - Archivo General de la Nación - GOB.mx...</p></details>
+   Link: <a href="https://www.archivos.gob.mx/transparencia/AccesoInfo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivos.gob.mx/transparencia/AccesoInfo.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acceso a la información - Archivo General de la Nación - GOB.mx...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cespe.gob.mx  
-   Link: [https://www.cespe.gob.mx/public/plataforma-nacional-de-transparencia](https://www.cespe.gob.mx/public/plataforma-nacional-de-transparencia)  
+   Link: <a href="https://www.cespe.gob.mx/public/plataforma-nacional-de-transparencia" target="_blank" rel="noopener noreferrer nofollow">https://www.cespe.gob.mx/public/plataforma-nacional-de-transparencia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plataforma Nacional de Transparencia | CESPE | Comisión Estatal de Servicios Públicos de EnsenadaPLATAFORMA NACIONAL DE TRANSPARENCIA Ima...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: corrientealterna.unam.mx  
-   Link: [https://corrientealterna.unam.mx/cultura/ovnis-plataforma-nacional-de-transparencia/](https://corrientealterna.unam.mx/cultura/ovnis-plataforma-nacional-de-transparencia/)  
+   Link: <a href="https://corrientealterna.unam.mx/cultura/ovnis-plataforma-nacional-de-transparencia/" target="_blank" rel="noopener noreferrer nofollow">https://corrientealterna.unam.mx/cultura/ovnis-plataforma-nacional-de-transparencia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Corriente AlternaOvnis y otros fenómenos en la Plataforma Nacional de TransparenciaJuly 3, 2022...</p></details>
    Published: July 3, 2022  
 
 14. <a id="endnote-14"></a>
    Source: ine.mx  
    Title: Orden del  
-   Link: [https://ine.mx/transparencia](https://ine.mx/transparencia)  
+   Link: <a href="https://ine.mx/transparencia" target="_blank" rel="noopener noreferrer nofollow">https://ine.mx/transparencia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparencia - Instituto Nacional ElectoralJune 11, 2025 — COMITÉ DE TRANSPARENCIA Image: Obligaciones de La ley Federal de Transparenci...</p></details>
    Published: June 11, 2025  
 
 15. <a id="endnote-15"></a>
    Source: archivos.gob.mx  
-   Link: [https://www.archivos.gob.mx/transparencia/DatAbiertos.html](https://www.archivos.gob.mx/transparencia/DatAbiertos.html)  
+   Link: <a href="https://www.archivos.gob.mx/transparencia/DatAbiertos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivos.gob.mx/transparencia/DatAbiertos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Son los datos digitales de carácter público y accesibles en línea para que puedan ser usados, reutilizados y redistribuidos por cualquier...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archivos.gob.mx  
-   Link: [https://www.archivos.gob.mx/GuiaGeneral/GuiaGeneral.html](https://www.archivos.gob.mx/GuiaGeneral/GuiaGeneral.html)  
+   Link: <a href="https://www.archivos.gob.mx/GuiaGeneral/GuiaGeneral.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivos.gob.mx/GuiaGeneral/GuiaGeneral.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guía General de Fondos - Archivo General de la Nación - GOB.mxImage: Guía General GUÍA GENERAL DE FONDOS Esta Guía, elaborada en 1990, of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: archivos.gob.mx  
    Title: Información de Interés Público  
-   Link: [https://archivos.gob.mx/transparencia/InfInteresPub.html](https://archivos.gob.mx/transparencia/InfInteresPub.html)  
+   Link: <a href="https://archivos.gob.mx/transparencia/InfInteresPub.html" target="_blank" rel="noopener noreferrer nofollow">https://archivos.gob.mx/transparencia/InfInteresPub.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: archivos.gob.mx  
-   Link: [https://archivos.gob.mx/transparencia/transparencia.html](https://archivos.gob.mx/transparencia/transparencia.html)  
+   Link: <a href="https://archivos.gob.mx/transparencia/transparencia.html" target="_blank" rel="noopener noreferrer nofollow">https://archivos.gob.mx/transparencia/transparencia.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>En esta sección ponemos a tu disposición información que contrib...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gob.mx  
-   Link: [https://www.gob.mx/agn](https://www.gob.mx/agn)  
+   Link: <a href="https://www.gob.mx/agn" target="_blank" rel="noopener noreferrer nofollow">https://www.gob.mx/agn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General de la Nación | Gobierno | gob.mxSITIO DE ARCHIVO GENERAL DE LA NACIÓN * Blog * Prensa * Acciones y programas * Documentos * Direc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ArchivoGeneraldelaNacion/photos/la-direcci%C3%B3n-federal-de-seguridad-dfs-polic%C3%ADa-pol%C3%ADtica-del-r%C3%A9gimen-espi%C3%B3-infiltr/1155991646556363/](https://www.facebook.com/ArchivoGeneraldelaNacion/photos/la-direcci%C3%B3n-federal-de-seguridad-dfs-polic%C3%ADa-pol%C3%ADtica-del-r%C3%A9gimen-espi%C3%B3-infiltr/1155991646556363/)  
+   Link: <a href="https://www.facebook.com/ArchivoGeneraldelaNacion/photos/la-direcci%C3%B3n-federal-de-seguridad-dfs-polic%C3%ADa-pol%C3%ADtica-del-r%C3%A9gimen-espi%C3%B3-infiltr/1155991646556363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArchivoGeneraldelaNacion/photos/la-direcci%C3%B3n-federal-de-seguridad-dfs-polic%C3%ADa-pol%C3%ADtica-del-r%C3%A9gimen-espi%C3%B3-infiltr/1155991646556363/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La Dirección Federal de Seguridad...La Dirección Federal de Seguridad (DFS), policía política del régimen, espió, infiltró y reprimió a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: meh.org.mx  
    Title: 20230815 Informe tecnico CNI MEH  
-   Link: [https://www.meh.org.mx/wp-content/uploads/2023/08/20230815-Informe-tecnico-CNI-MEH.pdf](https://www.meh.org.mx/wp-content/uploads/2023/08/20230815-Informe-tecnico-CNI-MEH.pdf)  
+   Link: <a href="https://www.meh.org.mx/wp-content/uploads/2023/08/20230815-Informe-tecnico-CNI-MEH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.meh.org.mx/wp-content/uploads/2023/08/20230815-Informe-tecnico-CNI-MEH.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>archivos de la Dirección Federal de Seguridad (DFS), de la Dirección General de Investigación y Seguridad Nacional (DGISEN), y del Centro...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cndh.org.mx  
-   Link: [https://www.cndh.org.mx/transparencia/plataforma-nacional/](https://www.cndh.org.mx/transparencia/plataforma-nacional/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNDH | Comisión Nacional de los Derechos HumanosInicio / Plataforma Nacional de Transparencia TRANSPARENCIA Inicio Unidad de Transparenci...</p></details>
+   Link: <a href="https://www.cndh.org.mx/transparencia/plataforma-nacional/" target="_blank" rel="noopener noreferrer nofollow">https://www.cndh.org.mx/transparencia/plataforma-nacional/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comisión Nacional de los Derechos HumanosInicio / Plataforma Nacional de Transparencia TRANSPARENCIA Inicio Unidad de Transparenci...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/international/files/mx](https://ufotransparency.com/international/files/mx)  
+   Link: <a href="https://ufotransparency.com/international/files/mx" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/mx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico files · 02 International Disclosure · UFO TransparencyDI02 · INTERNATIONAL DISCLOSURE 550 FILES·LAST 8D AGO 550 Files·276 Intl·159...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: inegi.org.mx  
-   Link: [https://www.inegi.org.mx/transparencia/](https://www.inegi.org.mx/transparencia/)  
+   Link: <a href="https://www.inegi.org.mx/transparencia/" target="_blank" rel="noopener noreferrer nofollow">https://www.inegi.org.mx/transparencia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Portal de TransparenciaIMAGE PORTAL DE TRANSPARENCIA OBLIGACIONES DE TRANSPARENCIA DEL INEGI INFORMACIÓN SOBRE LA GESTIÓN DEL INEGI Image...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: violenciaypaz.colmex.mx  
-   Link: [https://violenciaypaz.colmex.mx/catalogo-dfs](https://violenciaypaz.colmex.mx/catalogo-dfs)  
+   Link: <a href="https://violenciaypaz.colmex.mx/catalogo-dfs" target="_blank" rel="noopener noreferrer nofollow">https://violenciaypaz.colmex.mx/catalogo-dfs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General de la Nación / Catálogo DFSEl Archivo General de la Nación (AGN) acaba de liberar la consulta directa a los expedientes de la Dir...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: transparencia.ine.mx  
-   Link: [https://transparencia.ine.mx/](https://transparencia.ine.mx/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Instituto Nacional ElectoralTRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES * Obligaciones * Pregúntale al INE * Comités de Transparenci...</p></details>
+   Link: <a href="https://transparencia.ine.mx/" target="_blank" rel="noopener noreferrer nofollow">https://transparencia.ine.mx/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instituto Nacional ElectoralTRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES * Obligaciones * Pregúntale al INE * Comités de Transparenci...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: gob.mx  
-   Link: [https://www.gob.mx/agn/prensa/repositorio-documental-digital-del-archivo-general-de-la-nacion?idiom=es](https://www.gob.mx/agn/prensa/repositorio-documental-digital-del-archivo-general-de-la-nacion?idiom=es)  
+   Link: <a href="https://www.gob.mx/agn/prensa/repositorio-documental-digital-del-archivo-general-de-la-nacion?idiom=es" target="_blank" rel="noopener noreferrer nofollow">https://www.gob.mx/agn/prensa/repositorio-documental-digital-del-archivo-general-de-la-nacion?idiom=es</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Documental Digital del Archivo General de la Nación | Archivo General de la Nación | Gobierno | gob.mxMarch 5, 2024 — REPOSITORIO DOCUMEN...</p></details>
    Published: March 5, 2024  
 
 30. <a id="endnote-30"></a>
    Source: memoricamexico.gob.mx  
-   Link: [https://memoricamexico.gob.mx/es/memorica/Temas?cId=Mzk1ODI4ODEtOGRiNC00OTE3LTgxMDMtMGNjNmZiNzEwZjg2&cd=false&ctId=7d88a1e7-5937-4990-98ea-691fae0362f6](https://memoricamexico.gob.mx/es/memorica/Temas?cId=Mzk1ODI4ODEtOGRiNC00OTE3LTgxMDMtMGNjNmZiNzEwZjg2&cd=false&ctId=7d88a1e7-5937-4990-98ea-691fae0362f6)  
+   Link: <a href="https://memoricamexico.gob.mx/es/memorica/Temas?cId=Mzk1ODI4ODEtOGRiNC00OTE3LTgxMDMtMGNjNmZiNzEwZjg2&amp;cd=false&amp;ctId=7d88a1e7-5937-4990-98ea-691fae0362f6" target="_blank" rel="noopener noreferrer nofollow">https://memoricamexico.gob.mx/es/memorica/Temas?cId=Mzk1ODI4ODEtOGRiNC00OTE3LTgxMDMtMGNjNmZiNzEwZjg2&amp;cd=false&amp;ctId=7d88a1e7-5937-4990-98ea-691fae0362f6</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VAiG1qmVZqg](https://www.youtube.com/watch?v=VAiG1qmVZqg)  
+   Link: <a href="https://www.youtube.com/watch?v=VAiG1qmVZqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VAiG1qmVZqg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing Live: What&#x27;s the truth about alien bodies...A stunning Revelation alleged alien bodies unveiled presented during a congressi...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: aljazeera.com  
    Title: mexico legislators hold hearing on existence of ufos shown alien bodies  
-   Link: [https://www.aljazeera.com/news/2023/9/14/mexico-legislators-hold-hearing-on-existence-of-ufos-shown-alien-bodies](https://www.aljazeera.com/news/2023/9/14/mexico-legislators-hold-hearing-on-existence-of-ufos-shown-alien-bodies)  
+   Link: <a href="https://www.aljazeera.com/news/2023/9/14/mexico-legislators-hold-hearing-on-existence-of-ufos-shown-alien-bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2023/9/14/mexico-legislators-hold-hearing-on-existence-of-ufos-shown-alien-bodies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexico legislators hold hearing on existence of UFOs...14 Sept 2023 — Mexican congressman Sergio Gutierrez said he hoped the hearing on...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/futurism/ufo-hearing-in-mexico-a-landmark-event-for-transparency](https://vocal.media/futurism/ufo-hearing-in-mexico-a-landmark-event-for-transparency)  
+   Link: <a href="https://vocal.media/futurism/ufo-hearing-in-mexico-a-landmark-event-for-transparency" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/ufo-hearing-in-mexico-a-landmark-event-for-transparency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo by Олег Мороз... national security. Background of UFO Investigations. Interest in UFOs...Read more...</p></details>

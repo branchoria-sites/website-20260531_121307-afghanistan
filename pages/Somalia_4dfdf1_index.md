@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /somalia-4dfdf1-index/
 description: Focused pages that expand on What Do Somalia's UFO Reports Really Show?.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Somalia_4dfdf1
 parent_title: What Do Somalia's UFO Reports Really Show?

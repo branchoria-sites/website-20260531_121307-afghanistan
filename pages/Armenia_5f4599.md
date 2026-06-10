@@ -1185,7 +1185,7 @@ next_link:
   title: Bulgaria UFOs
   permalink: /what-really-explains-bulgarias-ufo/
   short_title: Bulgaria UFOs
-date: '2026-06-09 01:13:03 '
+date: '2026-06-10 01:38:31 '
 header:
   og_image: /assets/images/Armenia_5f4599-overview-social.jpg
   preview_image: /assets/images/Armenia_5f4599-overview.webp
@@ -1223,7 +1223,7 @@ The quality and reliability of such community or enthusiast reporting vary widel
 
 ## Cultural and Institutional Context
 
-Armenia’s scientific infrastructure includes institutions like the **Byurakan Astrophysical Observatory**, historically significant for astronomical research and sky observation. While not dedicated to UFO investigation, facilities such as Byurakan contribute to atmospheric and space observation capabilities and sometimes provide context for distinguishing celestial phenomena from misidentified artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armenia-spirit.com">[armenia-spirit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armenia-spirit.com</span><span class="citation-popover-title">Byurakan Observatory: stargazing on Aragats | armenia-spirit.com</span><span class="citation-popover-snippet">May 16, 2026...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
+Armenia’s scientific infrastructure includes institutions like the **Byurakan Astrophysical Observatory**, historically significant for astronomical research and sky observation. While not dedicated to UFO investigation, facilities such as Byurakan contribute to atmospheric and space observation capabilities and sometimes provide context for distinguishing celestial phenomena from misidentified artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armenia-spirit.com">[armenia-spirit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armenia-spirit.com</span><span class="citation-popover-title">Byurakan Observatory: stargazing on Aragats &#124; armenia-spirit.com</span><span class="citation-popover-snippet">May 16, 2026...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
 At present, Armenia does not have a **centralised official body focused exclusively on UAP research**, and investigative efforts into reported “UFOs” tend to be ad hoc, relying on emergency services, local astronomers, or regional experts when unusual sightings occur.
 
@@ -1249,7 +1249,7 @@ Most well‑documented cases in Armenia fall into the first category once proper
 
 ## Regional Comparisons
 
-Influential sightings in neighbouring regions—such as Georgia and other South Caucasus countries—sometimes share similar explanations involving missile tests or natural phenomena. For example, reports of luminescent objects over Georgia in the same period as the 2012 Armenian sightings were attributed by regional scientists to rare but conventional high‑altitude visual effects, bolstering the interpretation that such events are not unique to Armenia or indicative of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tass.com/archive/676917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tass.com">[TASS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tass.com</span><span class="citation-popover-title">Unidentified flying object seen over Georgia</span><span class="citation-popover-snippet">TASSUnidentified flying object seen over Georgia - Archive - TASS...</span></span></span>
+Influential sightings in neighbouring regions—such as Georgia and other South Caucasus countries—sometimes share similar explanations involving missile tests or natural phenomena. For example, reports of luminescent objects over Georgia in the same period as the 2012 Armenian sightings were attributed by regional scientists to rare but conventional high‑altitude visual effects, bolstering the interpretation that such events are not unique to Armenia or indicative of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tass.com/archive/676917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tass.com">[TASS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tass.com</span><span class="citation-popover-title">Unidentified flying object seen over Georgia</span><span class="citation-popover-snippet">Unidentified flying object seen over Georgia - Archive - TASS...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2mUXBqJbQKg" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2mUXBqJbQKg">Open on YouTube</a></p></div></div></div>
@@ -1262,86 +1262,44 @@ In Armenia, **UFO reports are mainly sporadic, localised eyewitness accounts**, 
 <img src="{{ "/assets/images/Armenia_5f4599-Illustration-3-dark.svg" | relative_url }}" alt="What Really Explains Armenia&#x27;s UFO Reports? illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Really Explains Armenia&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Really Explains Armenia&#x27;s UFO Reports?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Places regional sightings within the broader UAP discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a balanced framework for assessing reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Useful for understanding how UFO stories develop across cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Matches the article&#x27;s emphasis on conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1375,75 +1333,71 @@ In Armenia, **UFO reports are mainly sporadic, localised eyewitness accounts**, 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-t-shirt-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-t-shirt-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-armenias-ufo-what-really-explains-armenia-s-ufo-reports-armenia-ufo-poster-book-books-series-televi&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1658,120 +1612,120 @@ In Armenia, **UFO reports are mainly sporadic, localised eyewitness accounts**, 
 1. <a id="endnote-1"></a>
    Source: armenia-spirit.com  
    Title: Byurakan Observatory: stargazing on Aragats | armenia-spirit.com  
-   Link: [https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/](https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/)  
+   Link: <a href="https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenia-spirit.com/guides/byurakan-observatory-stargazing-armenia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2026...</p></details>
    Published: May 16, 2026  
 
 2. <a id="endnote-2"></a>
    Source: tass.com  
    Title: Unidentified flying object seen over Georgia  
-   Link: [https://tass.com/archive/676917](https://tass.com/archive/676917)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TASSUnidentified flying object seen over Georgia - Archive - TASS...</p></details>
+   Link: <a href="https://tass.com/archive/676917" target="_blank" rel="noopener noreferrer nofollow">https://tass.com/archive/676917</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object seen over Georgia - Archive - TASS...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news.am  
    Title: Armenia News UFO observed in sky in Armenia (PHOTO)  
-   Link: [https://news.am/eng/news/108637.html%3D](https://news.am/eng/news/108637.html%3D)  
+   Link: <a href="https://news.am/eng/news/108637.html%3D" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.html%3D</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</p></details>
    Published: June 7, 2012  
 
 4. <a id="endnote-4"></a>
    Source: armenianclub.com  
-   Link: [https://www.armenianclub.com/2012/06/09/was-it-a-ballistic-missile-or-a-ufo-in-the-sky-noticed-from-yerevan/](https://www.armenianclub.com/2012/06/09/was-it-a-ballistic-missile-or-a-ufo-in-the-sky-noticed-from-yerevan/)  
+   Link: <a href="https://www.armenianclub.com/2012/06/09/was-it-a-ballistic-missile-or-a-ufo-in-the-sky-noticed-from-yerevan/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenianclub.com/2012/06/09/was-it-a-ballistic-missile-or-a-ufo-in-the-sky-noticed-from-yerevan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenian ClubWas It A Ballistic Missile Or A UFO In The Sky Noticed From Yerevan? – Armenian Directory &amp; NewsJune 9, 2012...</p></details>
    Published: June 9, 2012  
 
 5. <a id="endnote-5"></a>
    Source: armenianclub.com  
-   Link: [https://www.armenianclub.com/2012/06/13/byurakan-observatory-calls-ufos-seen-in-armenia-optical-reflections/](https://www.armenianclub.com/2012/06/13/byurakan-observatory-calls-ufos-seen-in-armenia-optical-reflections/)  
+   Link: <a href="https://www.armenianclub.com/2012/06/13/byurakan-observatory-calls-ufos-seen-in-armenia-optical-reflections/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenianclub.com/2012/06/13/byurakan-observatory-calls-ufos-seen-in-armenia-optical-reflections/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenian ClubByurakan Observatory Calls Ufos Seen In Armenia ‘Optical Reflections – Armenian Directory &amp; NewsJune 13, 2012...</p></details>
    Published: June 13, 2012  
 
 6. <a id="endnote-6"></a>
    Source: armenianclub.com  
-   Link: [https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/](https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/)  
+   Link: <a href="https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.armenianclub.com/2012/06/10/unidentified-shining-objects-speed-was-too-slow-for-meteor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenian ClubUnidentified shining object’s speed was too slow for meteor – Armenian Directory &amp; NewsJune 10, 2012...</p></details>
    Published: June 10, 2012  
 
 7. <a id="endnote-7"></a>
    Source: usufocenter.com  
    Title: UFO Information Center Global UFOs: Armenia UFO Sightings & Reports  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Armenia UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
    Published: March 22, 2025  
 
 8. <a id="endnote-8"></a>
    Source: news.am  
    Title: UF O observed in sky in Armenia (PHOTO)  
-   Link: [https://news.am/eng/news/108637.htmlSee](https://news.am/eng/news/108637.htmlSee)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>– In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of...</p></details>
+   Link: <a href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.htmlSee</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: news.am  
    Title: UF O observed in sky in Armenia (PHOTO)  
-   Link: [https://news.am/eng/news/108637.html](https://news.am/eng/news/108637.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>– In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of...</p></details>
+   Link: <a href="https://news.am/eng/news/108637.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: panarmenian.net  
    Title: Mysterious 'UFO' above Armenia turns out to be a Russian missile  
-   Link: [https://www.panarmenian.net/eng/news/246967/](https://www.panarmenian.net/eng/news/246967/)  
+   Link: <a href="https://www.panarmenian.net/eng/news/246967/" target="_blank" rel="noopener noreferrer nofollow">https://www.panarmenian.net/eng/news/246967/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2017 — MYSTERIOUS &#x27;UFO&#x27; ABOVE ARMENIA TURNS OUT TO BE A RUSSIAN MISSILE Image: Mysterious &#x27;UFO&#x27; above Armenia turns out to be a Russi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: armenianpress.com  
    Title: "Mysterious UFO Sighting in Armenia Leaves Residents Bewildered  
-   Link: [https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/](https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/)  
+   Link: <a href="https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities Launch Investigation&quot; - Armenian PressJuly 29, 2024 — “MYSTERIOUS UFO SIGHTING IN ARMENIA LEAVES RESIDENTS BEWILDERED – AUTHO...</p></details>
    Published: July 29, 2024  
 
 12. <a id="endnote-12"></a>
    Source: en.hayadan.org.il  
    Title: hayadan.org.il A Russian missile caused a flood of UFO reports  
-   Link: [https://en.hayadan.org.il/russian-missile-cause-ufo-reorts-080612](https://en.hayadan.org.il/russian-missile-cause-ufo-reorts-080612)  
+   Link: <a href="https://en.hayadan.org.il/russian-missile-cause-ufo-reorts-080612" target="_blank" rel="noopener noreferrer nofollow">https://en.hayadan.org.il/russian-missile-cause-ufo-reorts-080612</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian missile caused a flood of UFO reports - the scientist - HayadanJune 8, 2012 — A RUSSIAN MISSILE CAUSED A FLOOD OF UFO REPORTS * A...</p></details>
    Published: June 8, 2012  
 
 13. <a id="endnote-13"></a>
    Source: farflungplaces.net  
    Title: The end of the Soviet Search for Extra Terrestrial life  
-   Link: [https://www.farflungplaces.net/2025/06/the-end-of-ussr-search-for.html](https://www.farflungplaces.net/2025/06/the-end-of-ussr-search-for.html)  
+   Link: <a href="https://www.farflungplaces.net/2025/06/the-end-of-ussr-search-for.html" target="_blank" rel="noopener noreferrer nofollow">https://www.farflungplaces.net/2025/06/the-end-of-ussr-search-for.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abandoned ROT 54 Observatory - Far Flung PlacesJune 20, 2025 — June 20, 2025 THE END OF THE SOVIET SEARCH FOR EXTRA TERRESTRIAL LIFE...</p></details>
    Published: June 20, 2025  
 
 14. <a id="endnote-14"></a>
    Source: rt.com  
    Title: Meteorite or rocket?  
-   Link: [https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/](https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/)  
+   Link: <a href="https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia baffled by large celestial body initially mistaken for FIREWORKS (VIDEO) — RT World NewsMETEORITE OR ROCKET? ARMENIA BAFFLED BY L...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=189133](https://nuforc.org/sighting/?id=189133)  
+   Link: <a href="https://nuforc.org/sighting/?id=189133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189133</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189133April 24, 2025 — NUFORC UFO SIGHTING 189133 Occurred: 2000-04-01 17:30 Local - Approximate Reported: 2025-04-23...</p></details>
    Published: April 1, 2000  
 
 16. <a id="endnote-16"></a>
    Source: azatutyun.am  
-   Link: [https://www.azatutyun.am/amp/24608507.html](https://www.azatutyun.am/amp/24608507.html)  
+   Link: <a href="https://www.azatutyun.am/amp/24608507.html" target="_blank" rel="noopener noreferrer nofollow">https://www.azatutyun.am/amp/24608507.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 8, 2012...</p></details>
    Published: June 8, 2012  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Spiral UFO Phenomenon Explained  
-   Link: [https://www.youtube.com/watch?v=X00hP7aB19c](https://www.youtube.com/watch?v=X00hP7aB19c)  
+   Link: <a href="https://www.youtube.com/watch?v=X00hP7aB19c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X00hP7aB19c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Atmospheric Missile Trails...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Understanding Atmospheric Missile Trails  
-   Link: [https://www.youtube.com/watch?v=x7Pj4pI3yW0](https://www.youtube.com/watch?v=x7Pj4pI3yW0)  
+   Link: <a href="https://www.youtube.com/watch?v=x7Pj4pI3yW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7Pj4pI3yW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Analysis of Sky Anomalies...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qzXI_nWa_lg](https://www.youtube.com/watch?v=qzXI_nWa_lg)  
+   Link: <a href="https://www.youtube.com/watch?v=qzXI_nWa_lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qzXI_nWa_lg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East UFO Missile Explanation...</p></details>

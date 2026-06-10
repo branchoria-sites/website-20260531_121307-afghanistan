@@ -1185,7 +1185,7 @@ next_link:
   title: Japan UFOs
   permalink: /what-makes-japans-ufo-record-so-unusual/
   short_title: Japan UFOs
-date: '2026-06-09 01:33:39 '
+date: '2026-06-10 01:59:16 '
 header:
   og_image: /assets/images/Italy_ad79ef-overview-social.jpg
   preview_image: /assets/images/Italy_ad79ef-overview.webp
@@ -1214,9 +1214,9 @@ The 2025 summary shows the other side of the process. Four sightings were forwar
 <img src="{{ "/assets/images/Italy_ad79ef-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Italy’s UFO Record Unique and... illustration 1" data-theme-src-dark="{{ "/assets/images/Italy_ad79ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Italy_ad79ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civilian Archives Fill the Gaps the State Record Leaves
 
-Italy has a particularly active civilian UFO research culture. The Italian Centre for UFO Studies, CISU, describes its archives as a systematic collection of Italian UFO documentation: investigation reports, press cuttings, articles, books, periodicals, audio, video and popular-culture material. It says more than 15,000 Italian UFO or identified flying object case histories have been filed, supported by tens of thousands of sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/2011/12/24/cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-title">Euro UFO</span><span class="citation-popover-snippet">CISU | EuroUFO...</span></span></span>
+Italy has a particularly active civilian UFO research culture. The Italian Centre for UFO Studies, CISU, describes its archives as a systematic collection of Italian UFO documentation: investigation reports, press cuttings, articles, books, periodicals, audio, video and popular-culture material. It says more than 15,000 Italian UFO or identified flying object case histories have been filed, supported by tens of thousands of sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/2011/12/24/cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-title">Euro UFO</span><span class="citation-popover-snippet">CISU &#124; EuroUFO...</span></span></span>
 
-That civilian layer matters because state files tend to be sparse. Official annual entries may log date, place, appearance and evaluation result, but they rarely contain the full social life of a case: press escalation, witness networks, local rumours, later identifications and sceptical counter-analysis. CISU and similar archives are therefore important for reconstructing the Italian chronology, especially for older waves such as 1954 and 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/2011/12/24/cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-title">Euro UFO</span><span class="citation-popover-snippet">CISU | EuroUFO...</span></span></span>
+That civilian layer matters because state files tend to be sparse. Official annual entries may log date, place, appearance and evaluation result, but they rarely contain the full social life of a case: press escalation, witness networks, local rumours, later identifications and sceptical counter-analysis. CISU and similar archives are therefore important for reconstructing the Italian chronology, especially for older waves such as 1954 and 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euroufo.net/2011/12/24/cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euroufo.net">[EuroUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euroufo.net</span><span class="citation-popover-title">Euro UFO</span><span class="citation-popover-snippet">CISU &#124; EuroUFO...</span></span></span>
 
 There is also a methodological split inside Italian ufology. The Centro Ufologico Nazionale, associated with Roberto Pinotti, has tended to preserve and promote some of the country’s more dramatic historical claims. CISU has often taken a more archival and critical stance, including sceptical treatment of the alleged fascist-era UFO files. This split is important for readers: “Italian ufology” is not one voice, and the strongest accounts usually have to be checked against internal criticism, not only outside scepticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> - Centro Italiano Studi Ufologici
 
@@ -1286,86 +1286,44 @@ Italy’s UFO record is valuable because it shows the full ecology of the subjec
 The strongest conclusion is that Italy has many documented UFO reports and a unusually visible state reporting mechanism, but no publicly available case proves extraterrestrial technology. The interesting work lies in sorting the archive: which reports stayed unidentified after reasonable checks, which were shaped by media and memory, which were later explained, and which became national myths because they connected the sky to deeper Italian concerns about secrecy, authority, war, religion and modern technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Makes Italyâ€™s UFO Record Unique and Contested?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Makes Italy’s UFO Record Unique and Contested?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Useful for understanding why Italy&#x27;s UFO record became culturally significant.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Helps frame how unexplained cases are categorized and studied.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits discussions of official reporting structures and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Provides context for official and civilian UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1399,75 +1357,71 @@ The strongest conclusion is that Italy has many documented UFO reports and a unu
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-art-print-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-art-print-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -ðŸ‡¬ðŸ‡§ UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-t-shirt-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-t-shirt-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1682,190 +1636,190 @@ The strongest conclusion is that Italy has many documented UFO reports and a unu
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Zanfretta UFO Incident  
-   Link: [https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident](https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: euroufo.net  
    Title: Euro UFO  
-   Link: [https://www.euroufo.net/2011/12/24/cisu/](https://www.euroufo.net/2011/12/24/cisu/)  
+   Link: <a href="https://www.euroufo.net/2011/12/24/cisu/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/2011/12/24/cisu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISU | EuroUFO...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cisu.org  
-   Link: [https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/](https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/)  
+   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cisu.org  
    Title: Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!  
-   Link: [https://www.cisu.org/fascist-ufo-files-no-thank-you/](https://www.cisu.org/fascist-ufo-files-no-thank-you/)  
+   Link: <a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Angel hair (folklore)  
-   Link: [https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29](https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 7. <a id="endnote-7"></a>
    Source: newsweek.com  
-   Link: [https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908](https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908)  
+   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: newsweek.com  
    Title: Fact Check: Does Video Show UFO Flying Over Italy?  
-   Link: [https://www.newsweek.com/fact-check-does-video-show-ufo-flying-italy-1864422](https://www.newsweek.com/fact-check-does-video-show-ufo-flying-italy-1864422)  
+   Link: <a href="https://www.newsweek.com/fact-check-does-video-show-ufo-flying-italy-1864422" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/fact-check-does-video-show-ufo-flying-italy-1864422</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Italy](https://en.wikipedia.org/wiki/UFO_sightings_in_Italy)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Centro ufologico nazionale  
-   Link: [https://it.wikipedia.org/wiki/Centro_ufologico_nazionale](https://it.wikipedia.org/wiki/Centro_ufologico_nazionale)  
+   Link: <a href="https://it.wikipedia.org/wiki/Centro_ufologico_nazionale" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Centro_ufologico_nazionale</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Falcon Lake Incident  
-   Link: [https://en.wikipedia.org/wiki/Falcon_Lake_Incident](https://en.wikipedia.org/wiki/Falcon_Lake_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://it.wikipedia.org/wiki/UFO](https://it.wikipedia.org/wiki/UFO)  
+   Link: <a href="https://it.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO</a>  
 
 15. <a id="endnote-15"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/tag/italy/](https://www.euroufo.net/tag/italy/)  
+   Link: <a href="https://www.euroufo.net/tag/italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/italy/</a>  
 
 16. <a id="endnote-16"></a>
    Source: euroufo.net  
-   Link: [https://www.euroufo.net/2018/05/15/project1978/](https://www.euroufo.net/2018/05/15/project1978/)  
+   Link: <a href="https://www.euroufo.net/2018/05/15/project1978/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/2018/05/15/project1978/</a>  
 
 17. <a id="endnote-17"></a>
    Source: cisu.org  
    Title: ufology in the 1970s  
-   Link: [https://www.cisu.org/ufology-in-the-1970s/](https://www.cisu.org/ufology-in-the-1970s/)  
+   Link: <a href="https://www.cisu.org/ufology-in-the-1970s/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/ufology-in-the-1970s/</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
    Title: UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: youtube 7MTRqq8w008  
-   Link: [https://archive.org/details/youtube-7MTRqq8w008](https://archive.org/details/youtube-7MTRqq8w008)  
+   Link: <a href="https://archive.org/details/youtube-7MTRqq8w008" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/youtube-7MTRqq8w008</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QuesA4_J5fQ](https://www.youtube.com/watch?v=QuesA4_J5fQ)  
+   Link: <a href="https://www.youtube.com/watch?v=QuesA4_J5fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QuesA4_J5fQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Zanfretta Case - Part One...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Zanfretta Case  
-   Link: [https://www.youtube.com/watch?v=4ruBcWS0vLE](https://www.youtube.com/watch?v=4ruBcWS0vLE)  
+   Link: <a href="https://www.youtube.com/watch?v=4ruBcWS0vLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ruBcWS0vLE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most famous UFO case in Italy (which even involved the State)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: aeronautica.difesa.it  
    Title: Aeronautica Militare OVNI  
-   Link: [https://www.aeronautica.difesa.it/ovni/](https://www.aeronautica.difesa.it/ovni/)  
+   Link: <a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
 
 23. <a id="endnote-23"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2024 ovni avvistamenti 2024  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024](https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2024-ovni-avvistamenti-2024</a>  
 
 24. <a id="endnote-24"></a>
    Source: ufotransparency.com  
    Title: intl it am annual 2025 ovni avvistamenti 2025  
-   Link: [https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025](https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-annual-2025-ovni-avvistamenti-2025</a>  
 
 25. <a id="endnote-25"></a>
    Source: theflorentine.net  
    Title: ufos 1954  
-   Link: [https://www.theflorentine.net/2025/10/22/ufos-1954/](https://www.theflorentine.net/2025/10/22/ufos-1954/)  
+   Link: <a href="https://www.theflorentine.net/2025/10/22/ufos-1954/" target="_blank" rel="noopener noreferrer nofollow">https://www.theflorentine.net/2025/10/22/ufos-1954/</a>  
 
 26. <a id="endnote-26"></a>
    Source: theblackvault.com  
    Title: the ufo case of maresciallo cecconi june 18 1979  
-   Link: [https://www.theblackvault.com/casefiles/the-ufo-case-of-maresciallo-cecconi-june-18-1979/](https://www.theblackvault.com/casefiles/the-ufo-case-of-maresciallo-cecconi-june-18-1979/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-case-of-maresciallo-cecconi-june-18-1979/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-case-of-maresciallo-cecconi-june-18-1979/</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufotransparency.com  
    Title: intl it am dossier 1991 2000 archivio ovni 1991 2000  
-   Link: [https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000](https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000)  
+   Link: <a href="https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-it-am-dossier-1991-2000-archivio-ovni-1991-2000</a>  
 
 28. <a id="endnote-28"></a>
    Source: aeronautica.difesa.it  
-   Link: [https://www.aeronautica.difesa.it/en/category/ovni/](https://www.aeronautica.difesa.it/en/category/ovni/)  
+   Link: <a href="https://www.aeronautica.difesa.it/en/category/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/en/category/ovni/</a>  
 
 29. <a id="endnote-29"></a>
    Source: uapcheck.com  
-   Link: [https://www.uapcheck.com/news/tag/Italian/](https://www.uapcheck.com/news/tag/Italian/)  
+   Link: <a href="https://www.uapcheck.com/news/tag/Italian/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/tag/Italian/</a>  
 
 30. <a id="endnote-30"></a>
    Source: recfiles.com  
    Title: Aeronautica Militare Italiana  
-   Link: [https://www.recfiles.com/archivio/aeronautica-militare-italiana](https://www.recfiles.com/archivio/aeronautica-militare-italiana)  
+   Link: <a href="https://www.recfiles.com/archivio/aeronautica-militare-italiana" target="_blank" rel="noopener noreferrer nofollow">https://www.recfiles.com/archivio/aeronautica-militare-italiana</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2023/3668-odni-releases-annual-report-on-unidentified-aerial-phenomena</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFO Hunters II: Tales From the Universe | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=MviwroNeBfk](https://www.youtube.com/watch?v=MviwroNeBfk)  
+   Link: <a href="https://www.youtube.com/watch?v=MviwroNeBfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MviwroNeBfk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters In Europe | Never-Seen-Before Evidence...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO Encounters In Europe | Never-Seen-Before Evidence!  
-   Link: [https://www.youtube.com/watch?v=n7FS9BXBa8E](https://www.youtube.com/watch?v=n7FS9BXBa8E)  
+   Link: <a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n7FS9BXBa8E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did a Fighter Jet Really Chase a UFO in 1979?...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DAX1uhZuDJG/](https://www.instagram.com/p/DAX1uhZuDJG/)  
+   Link: <a href="https://www.instagram.com/p/DAX1uhZuDJG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DAX1uhZuDJG/</a>  
 
 35. <a id="endnote-35"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript](https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/leiene/posts/in-italia-sono-stati-identificati-140-ufo-in-18-anni-lo-sostiene-laeronautica-mi/10158281322030530/](https://www.facebook.com/leiene/posts/in-italia-sono-stati-identificati-140-ufo-in-18-anni-lo-sostiene-laeronautica-mi/10158281322030530/)  
+   Link: <a href="https://www.facebook.com/leiene/posts/in-italia-sono-stati-identificati-140-ufo-in-18-anni-lo-sostiene-laeronautica-mi/10158281322030530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/leiene/posts/in-italia-sono-stati-identificati-140-ufo-in-18-anni-lo-sostiene-laeronautica-mi/10158281322030530/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/instituteofmetaphysics/posts/italian-air-force-pilot-giancarlo-ceccino-captures-26-ft-cylindrical-ufo-in-phot/1254930479696489/](https://www.facebook.com/instituteofmetaphysics/posts/italian-air-force-pilot-giancarlo-ceccino-captures-26-ft-cylindrical-ufo-in-phot/1254930479696489/)  
+   Link: <a href="https://www.facebook.com/instituteofmetaphysics/posts/italian-air-force-pilot-giancarlo-ceccino-captures-26-ft-cylindrical-ufo-in-phot/1254930479696489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/italian-air-force-pilot-giancarlo-ceccino-captures-26-ft-cylindrical-ufo-in-phot/1254930479696489/</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/](https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
 
 39. <a id="endnote-39"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1301659750215310/posts/2429279940786613/](https://www.facebook.com/groups/1301659750215310/posts/2429279940786613/)  
+   Link: <a href="https://www.facebook.com/groups/1301659750215310/posts/2429279940786613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1301659750215310/posts/2429279940786613/</a>  

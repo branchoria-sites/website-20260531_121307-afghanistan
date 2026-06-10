@@ -239,7 +239,7 @@ prev_link:
   permalink: /kampot-case/
   short_title: Kampot Case
   heading_title: Did the Kampot Explosion Really Involve a UFO?
-date: '2026-06-09 01:23:37 '
+date: '2026-06-10 01:48:07 '
 header:
   og_image: /assets/images/Cambodia_314ccd_cambodia_witness_rep_a148db-Illustration-1-social.jpg
   preview_image: /assets/images/Cambodia_314ccd_cambodia_witness_rep_a148db-Illustration-1.webp
@@ -248,15 +248,15 @@ image: /assets/images/Cambodia_314ccd_cambodia_witness_rep_a148db-Illustration-1
 
 ## Introduction
 
-[Cambodia]({{ 'what-really-happened-in-cambodias-ufo/' | relative_url }})’s UFO record is dominated less by heavily documented incidents than by scattered eyewitness stories, late-filed testimony, and isolated local reports that were never formally investigated. That makes the country unusual within Southeast Asian UFO research: there are claims, memories, and occasional bursts of media attention, but very little institutional follow-up. Most Cambodian sightings survive as anecdotes rather than case files.
+Cambodia’s UFO record is dominated less by heavily documented incidents than by scattered eyewitness stories, late-filed testimony, and isolated local reports that were never formally investigated. That makes the country unusual within Southeast Asian UFO research: there are claims, memories, and occasional bursts of media attention, but very little institutional follow-up. Most Cambodian sightings survive as anecdotes rather than case files.
 
 
 <img src="{{ "/assets/images/Cambodia_314ccd_cambodia_witness_rep_a148db-Illustration-1-dark.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_cambodia_witness_rep_a148db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_cambodia_witness_rep_a148db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The practical question is therefore not whether Cambodia has “real UFO cases”, but how reliable its witness stories actually are. In most instances, the available evidence is thin. Reports often appear years after the event, lack photographs or radar data, and depend entirely on personal recollection. Even the better-known Cambodian-linked incidents, such as the 2008 Kampot–Phu Quoc explosion story, remain unresolved largely because authorities never produced a clear public technical explanation rather than because strong extraordinary evidence emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">The Mail &amp; Guardian Vietnam reports &#x27;UFO&#x27; explosion off Cambodia coast</span><span class="citation-popover-snippet">By Staff Reporter... Kampot, found shards of grey metal, including one 1,5m long.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">vietnam reports ufo explosion idUSBKK88829</span><span class="citation-popover-snippet">ReutersVietnam reports &quot;UFO&quot; explosion28 May 2008 —... UFO explodes over Phu Quoc Island.&quot; Soldiers were sent out to look for wreckage a...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+The practical question is therefore not whether Cambodia has “real UFO cases”, but how reliable its witness stories actually are. In most instances, the available evidence is thin. Reports often appear years after the event, lack photographs or radar data, and depend entirely on personal recollection. Even the better-known Cambodian-linked incidents, such as the 2008 Kampot–Phu Quoc explosion story, remain unresolved largely because authorities never produced a clear public technical explanation rather than because strong extraordinary evidence emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">The Mail &amp; Guardian Vietnam reports &#x27;UFO&#x27; explosion off Cambodia coast</span><span class="citation-popover-snippet">By Staff Reporter... Kampot, found shards of grey metal, including one 1,5m long.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">vietnam reports ufo explosion idUSBKK88829</span><span class="citation-popover-snippet">Vietnam reports &quot;UFO&quot; explosion28 May 2008 —... UFO explodes over Phu Quoc Island.&quot; Soldiers were sent out to look for wreckage a...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 ## NUFORC Reports from Cambodia
 
-The largest publicly accessible collection of Cambodian UFO witness testimony comes from the National UFO Reporting Center (NUFORC), a United States-based civilian reporting archive. Cambodia has only a small number of entries in the database, which immediately limits broad conclusions about national patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+The largest publicly accessible collection of Cambodian UFO witness testimony comes from the National UFO Reporting Center (NUFORC), a United States-based civilian reporting archive. Cambodia has only a small number of entries in the database, which immediately limits broad conclusions about national patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 What makes these reports interesting is not their quantity but their structure. Many resemble classic global UFO narratives:
 
@@ -271,7 +271,7 @@ What makes these reports interesting is not their quantity but their structure. 
 
 </div>
 
-One frequently cited Cambodia-related NUFORC case concerns a March 2003 sighting in Siem Reap. The witness claimed that both he and his wife observed a disc-shaped object with lights at close range for roughly one minute. However, the report was not submitted until 2011, around eight years after the claimed incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+One frequently cited Cambodia-related NUFORC case concerns a March 2003 sighting in Siem Reap. The witness claimed that both he and his wife observed a disc-shaped object with lights at close range for roughly one minute. However, the report was not submitted until 2011, around eight years after the claimed incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 That delay is important. Late-filed reports are common in UFO [archives]({{ 'archives-513076/' | relative_url }}) worldwide, but they create major reliability problems:
 
@@ -287,7 +287,7 @@ That delay is important. Late-filed reports are common in UFO [archives]({{ 'arc
 
 In the Cambodia context, those weaknesses are magnified because local investigative infrastructure was almost nonexistent. Unlike countries with long-running civilian UFO societies or declassified military reporting systems, Cambodia produced few public attempts to interview witnesses systematically or preserve evidence chains.
 
-As a result, Cambodian NUFORC entries are best understood as personal testimony archives rather than verified investigative records. Even NUFORC itself states that reports are often published substantially as submitted and are not automatically validated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</span><span class="citation-popover-meta">Published: March 15, 2003</span></span></span>
+As a result, Cambodian NUFORC entries are best understood as personal testimony archives rather than verified investigative records. Even NUFORC itself states that reports are often published substantially as submitted and are not automatically validated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</span><span class="citation-popover-meta">Published: March 15, 2003</span></span></span>
 
 ## Why Cambodian Witness Accounts Are Difficult to Verify
 
@@ -349,7 +349,7 @@ Several characteristics of the case explain why it spread internationally despit
 
 </div>
 
-Over time, internet retellings often stripped away that nuance. Later reposts and blog summaries increasingly framed the incident as a possible spacecraft explosion despite the absence of supporting technical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://khmerization.blogspot.com/2008/05/ufo-explodes-over-phu-quoc-island.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khmerization.blogspot.com">[Khmerization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khmerization.blogspot.com</span><span class="citation-popover-title">ufo explodes over phu quoc island</span><span class="citation-popover-snippet">KhmerizationUFO explodes over Phu Quoc Island29 May 2008 — Thursday, 29 May 2008. UFO explodes over Phu Quoc Island. A Cambodian policema...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khmernz.blogspot.com">[Khmer NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khmernz.blogspot.com</span><span class="citation-popover-title">vietnam reports ufo explosion off 29</span><span class="citation-popover-snippet">Khmer NZ.: Vietnam Reports `UFO` Explosion off Cambodia Coast29 May 2008 — Vietnam Reports `UFO` Explosion off Cambodia Coast. Anonymous...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+Over time, internet retellings often stripped away that nuance. Later reposts and blog summaries increasingly framed the incident as a possible spacecraft explosion despite the absence of supporting technical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://khmerization.blogspot.com/2008/05/ufo-explodes-over-phu-quoc-island.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khmerization.blogspot.com">[Khmerization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khmerization.blogspot.com</span><span class="citation-popover-title">ufo explodes over phu quoc island</span><span class="citation-popover-snippet">UFO explodes over Phu Quoc Island29 May 2008 — Thursday, 29 May 2008. UFO explodes over Phu Quoc Island. A Cambodian policema...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khmernz.blogspot.com">[Khmer NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khmernz.blogspot.com</span><span class="citation-popover-title">vietnam reports ufo explosion off 29</span><span class="citation-popover-snippet">Khmer NZ.: Vietnam Reports `UFO` Explosion off Cambodia Coast29 May 2008 — Vietnam Reports `UFO` Explosion off Cambodia Coast. Anonymous...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 The incident therefore demonstrates how Cambodian UFO narratives frequently evolve:
 
@@ -413,7 +413,7 @@ However, these are also the hardest cases to verify objectively because apparent
 
 ### Tourism centres and foreign witnesses
 
-Several Cambodia-related reports involve foreign visitors rather than long-term local documentation. Siem Reap, home to Angkor tourism, appears in some sighting archives partly because it attracts international travellers who are more likely to file English-language reports online afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span>
+Several Cambodia-related reports involve foreign visitors rather than long-term local documentation. Siem Reap, home to Angkor tourism, appears in some sighting archives partly because it attracts international travellers who are more likely to file English-language reports online afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span>
 
 This creates a subtle reporting bias. Cambodia may not necessarily experience more unusual aerial events in those regions; instead, sightings there are simply more likely to enter international databases.
 
@@ -432,86 +432,44 @@ The most defensible conclusions are relatively modest:
 That does not make the subject worthless. Cambodia is actually useful as a case study in how UFO folklore develops under conditions of limited documentation. The country’s sightings show how rumours, incomplete official statements, translation gaps, and isolated witness memories can create enduring mystery narratives even when the underlying evidence remains fragmentary.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Cambodia&#x27;s UFO Witness Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Reliable Are Cambodia&#x27;s UFO Witness Stories?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses witness testimony and report classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights stronger witness cases and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses witness evidence and credibility questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explores memory, perception, and evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -545,75 +503,71 @@ That does not make the subject worthless. Cambodia is actually useful as a case 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-how-reliable-are-cambodia-s-ufo-witness-stories-cambodia-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -828,74 +782,74 @@ That does not make the subject worthless. Cambodia is actually useful as a case 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: vietnam reports ufo explosion idUSBKK88829  
-   Link: [https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/](https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersVietnam reports &quot;UFO&quot; explosion28 May 2008 —... UFO explodes over Phu Quoc Island.&quot; Soldiers were sent out to look for wreckage a...</p></details>
+   Link: <a href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnam reports &quot;UFO&quot; explosion28 May 2008 —... UFO explodes over Phu Quoc Island.&quot; Soldiers were sent out to look for wreckage a...</p></details>
    Published: May 2008  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=85009](https://nuforc.org/sighting/?id=85009)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85009</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85009August 20, 2023 — NUFORC UFO Sighting 85009. Occurred: 2003-03-15 19:30 Local (03/--/2003) - Approximate R...</p></details>
    Published: March 15, 2003  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2003 — Shapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported shapes in UFO...</p></details>
    Published: November 22, 2003  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/video/watch/idRW321106022026RP1/](https://www.reuters.com/video/watch/idRW321106022026RP1/)  
+   Link: <a href="https://www.reuters.com/video/watch/idRW321106022026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW321106022026RP1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ers one of the clearest windows yet into the industrial-scale...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: the kingdom of cambodia  
-   Link: [https://www.reuters.com/company/the-kingdom-of-cambodia/](https://www.reuters.com/company/the-kingdom-of-cambodia/)  
+   Link: <a href="https://www.reuters.com/company/the-kingdom-of-cambodia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/company/the-kingdom-of-cambodia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jan 2026 — The latest international The Kingdom of Cambodia news and views from Reuters - one of the world&#x27;s largest news agencies...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mg.co.za  
    Title: The Mail & Guardian Vietnam reports 'UFO' explosion off Cambodia coast  
-   Link: [https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/](https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/)  
+   Link: <a href="https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2008-05-28-vietnam-reports-ufo-explosion-off-cambodia-coast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Staff Reporter... Kampot, found shards of grey metal, including one 1,5m long.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: english.cambodiadaily.com  
-   Link: [https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/](https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/)  
+   Link: <a href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials29 May 2008 — Debris was found scattered from Phu Quoc Island...</p></details>
    Published: May 2008  
 
 11. <a id="endnote-11"></a>
    Source: khmerization.blogspot.com  
    Title: ufo explodes over phu quoc island  
-   Link: [https://khmerization.blogspot.com/2008/05/ufo-explodes-over-phu-quoc-island.html](https://khmerization.blogspot.com/2008/05/ufo-explodes-over-phu-quoc-island.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KhmerizationUFO explodes over Phu Quoc Island29 May 2008 — Thursday, 29 May 2008. UFO explodes over Phu Quoc Island. A Cambodian policema...</p></details>
+   Link: <a href="https://khmerization.blogspot.com/2008/05/ufo-explodes-over-phu-quoc-island.html" target="_blank" rel="noopener noreferrer nofollow">https://khmerization.blogspot.com/2008/05/ufo-explodes-over-phu-quoc-island.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO explodes over Phu Quoc Island29 May 2008 — Thursday, 29 May 2008. UFO explodes over Phu Quoc Island. A Cambodian policema...</p></details>
    Published: May 2008  
 
 12. <a id="endnote-12"></a>
    Source: khmernz.blogspot.com  
    Title: vietnam reports ufo explosion off 29  
-   Link: [https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html](https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html)  
+   Link: <a href="https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html" target="_blank" rel="noopener noreferrer nofollow">https://khmernz.blogspot.com/2008/05/vietnam-reports-ufo-explosion-off_29.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Khmer NZ.: Vietnam Reports `UFO` Explosion off Cambodia Coast29 May 2008 — Vietnam Reports `UFO` Explosion off Cambodia Coast. Anonymous...</p></details>
    Published: May 2008  
 
@@ -904,60 +858,60 @@ That does not make the subject worthless. Cambodia is actually useful as a case 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: a viral image displays a world map of ufo sightings from 1906 to 2014 crafted by  
-   Link: [https://www.facebook.com/upsocltheenigma/posts/a-viral-image-displays-a-world-map-of-ufo-sightings-from-1906-to-2014-crafted-by/1249818310519148/](https://www.facebook.com/upsocltheenigma/posts/a-viral-image-displays-a-world-map-of-ufo-sightings-from-1906-to-2014-crafted-by/1249818310519148/)  
+   Link: <a href="https://www.facebook.com/upsocltheenigma/posts/a-viral-image-displays-a-world-map-of-ufo-sightings-from-1906-to-2014-crafted-by/1249818310519148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/upsocltheenigma/posts/a-viral-image-displays-a-world-map-of-ufo-sightings-from-1906-to-2014-crafted-by/1249818310519148/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A viral image displays a world map of UFO sightings from...A viral image displays a world map of UFO sightings from 1906 to 2014, crafte...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: artangel.org.uk  
-   Link: [https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/](https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/)  
+   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As an eyewitness, shepherd Trantos Karatranjos told me, suddenly the troubled UFO lost altitude...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/](https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/)  
+   Link: <a href="https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ngs in the Vietnam War - Conexão UFO. Nedi Rocha and 118...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: telegraph.co.uk  
    Title: UFO blamed for mystery explosion in Vietnam  
-   Link: [https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html](https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html)  
+   Link: <a href="https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2047779/UFO-blamed-for-mystery-explosion-in-Vietnam.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 May 2008 — UFO blamed for mystery explosion in Vietnam · Islanders on Phu Quoc, close to the coast of Cambodia, heard a loud bang and...</p></details>
    Published: May 2008  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: sự cố ufo phát nổ tại phú quốc năm 2008  
-   Link: [https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en)  
+   Link: <a href="https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TroChuyenLinhTinh/comments/1kefdhx/s%E1%BB%B1_c%E1%BB%91_ufo_ph%C3%A1t_n%E1%BB%95_t%E1%BA%A1i_ph%C3%BA_qu%E1%BB%91c_n%C4%83m_2008/?tl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;UFO&quot; incident that exploded in Phu Quoc in 2008In May 2008, an unidentified flying object, or UFO, exploded and crashed in the sky a...</p></details>
    Published: May 2008  
 
 18. <a id="endnote-18"></a>
    Source: ki-media.blogspot.com  
    Title: pieces of ufo exploded in mid air over  
-   Link: [https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html](https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html)  
+   Link: <a href="https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html" target="_blank" rel="noopener noreferrer nofollow">https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of the UFO exploded in mid-air over Kampot28 May 2008 — Wednesday, May 28, 2008. Pieces of the UFO exploded in mid-air over Kampot...</p></details>
    Published: May 28, 2008  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: The Day Students Saw a UFO  
-   Link: [https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/](https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnBelievable with Dan...NUFORC UFO Sighting 197622 Occurred: 2026-05-10 00:12 Local... This is one of the most fascinating mass eye...</p></details>
    Published: May 10, 2026  
 
 20. <a id="endnote-20"></a>
    Source: ufologie.patrickgross.org  
    Title: 1978 cambodia kranglvea  
-   Link: [https://www.ufologie.patrickgross.org/ce3/1978-cambodia-kranglvea.htm](https://www.ufologie.patrickgross.org/ce3/1978-cambodia-kranglvea.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/ce3/1978-cambodia-kranglvea.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/ce3/1978-cambodia-kranglvea.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>patrickgross.orgURECAT-000171 - 1978, Kranglvea, Cambodia, someoneURECAT is a formal catalog of UFO related entities sightings reports wi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/wheregoodtastegoestodie/posts/1614664139583896/](https://www.facebook.com/groups/wheregoodtastegoestodie/posts/1614664139583896/)  
+   Link: <a href="https://www.facebook.com/groups/wheregoodtastegoestodie/posts/1614664139583896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wheregoodtastegoestodie/posts/1614664139583896/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phu Quoc UFO sighting in 2008Are we witnessing the return of an ancient alien intelligence? Worldside Stories ▻ UFO, Aliens, Other Planet...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: usufocenter.com  
    Title: cambodia ufo sightings  
-   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/cambodia-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/cambodia-ufo-sightings.html)  
+   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/cambodia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/cambodia-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Cambodia UFO Sightings &amp; Reports22 Mar 2025 — The US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to dissemin...</p></details>

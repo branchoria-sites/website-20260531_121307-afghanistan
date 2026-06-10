@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-standards/
   short_title: Evidence Standards
   heading_title: What Would Count as a Credible Mauritanian UFO Case?
-date: '2026-06-09 01:33:27 '
+date: '2026-06-10 01:59:03 '
 header:
   og_image: /assets/images/Mauritania_85fa35_cold_war_west_africa_140497-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritania_85fa35_cold_war_west_africa_140497-Illustration-1.webp
@@ -248,11 +248,11 @@ image: /assets/images/Mauritania_85fa35_cold_war_west_africa_140497-Illustration
 
 ## Introduction
 
-The short answer is that Cold War intelligence files contain references to unusual aerial observations in parts of French West Africa and neighbouring North African territories, but they do not provide a substantial body of documented UFO cases from [Mauritania]({{ 'why-are-mauritanias-ufo-records-so/' | relative_url }}) itself. The historical record is notable less for dramatic Mauritanian incidents than for scattered regional reports collected during a period of rapid military aviation development, colonial administration, and heightened intelligence monitoring.
+The short answer is that Cold War intelligence files contain references to unusual aerial observations in parts of French West Africa and neighbouring North African territories, but they do not provide a substantial body of documented UFO cases from Mauritania itself. The historical record is notable less for dramatic Mauritanian incidents than for scattered regional reports collected during a period of rapid military aviation development, colonial administration, and heightened intelligence monitoring.
 
 
 <img src="{{ "/assets/images/Mauritania_85fa35_cold_war_west_africa_140497-Illustration-1-dark.svg" | relative_url }}" alt="Cold War Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35_cold_war_west_africa_140497-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35_cold_war_west_africa_140497-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers examining Mauritania within a wider West African UFO history, the key question is not whether large numbers of cases were recorded there, but why declassified archives occasionally mention surrounding regions while leaving Mauritania largely absent from detailed reporting. The surviving documents reveal a patchwork of aviation observations, press accounts, intelligence summaries, and military inquiries rather than a coherent national case history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAUNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...France-Afrique Dakar weekly reports the statement of an eyewitness who claims to have...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAUNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA...</span></span></span>
+For researchers examining Mauritania within a wider West African UFO history, the key question is not whether large numbers of cases were recorded there, but why declassified archives occasionally mention surrounding regions while leaving Mauritania largely absent from detailed reporting. The surviving documents reveal a patchwork of aviation observations, press accounts, intelligence summaries, and military inquiries rather than a coherent national case history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...France-Afrique Dakar weekly reports the statement of an eyewitness who claims to have...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA...</span></span></span>
 
 ## West African Intelligence Summaries
 
@@ -285,9 +285,9 @@ The strongest Cold War-era reports from the wider region generally came from obs
 
 In North and West Africa, intelligence files occasionally preserved reports from pilots, military personnel, airfield observers, or government officials who described unusual lights or aerial objects. The emphasis on these witnesses reflected Cold War priorities. Military authorities were concerned about aircraft identification, airspace security, and the possibility of foreign surveillance platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</span></span></span>
 
-A useful comparison comes from Morocco, where later Cold War records show how seriously authorities could treat unexplained sightings. In September 1976, Moroccan security officials collected reports from multiple locations describing a luminous object moving across the sky. The matter reached senior levels of government, and Moroccan authorities sought information from the United States. Subsequent analyses suggested the phenomenon was likely related to space debris rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">WikiLeaksCable: 1976RABAT05209_b... UNIDENTIFIED FLYING OBJECTS (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BE...</span></span></span>
+A useful comparison comes from Morocco, where later Cold War records show how seriously authorities could treat unexplained sightings. In September 1976, Moroccan security officials collected reports from multiple locations describing a luminous object moving across the sky. The matter reached senior levels of government, and Moroccan authorities sought information from the United States. Subsequent analyses suggested the phenomenon was likely related to space debris rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">Cable: 1976RABAT05209_b... UNIDENTIFIED FLYING OBJECTS (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BE...</span></span></span>
 
-This Moroccan example matters because it illustrates the type of documentation researchers would expect if a significant Mauritanian incident had entered official channels. Reports would likely include witness statements, geographic tracking, military correspondence, or diplomatic communication. No equivalent body of evidence has surfaced for Mauritania in currently available Cold War archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">WikiLeaksCable: 1976RABAT05209_b... UNIDENTIFIED FLYING OBJECTS (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BE...</span></span></span>
+This Moroccan example matters because it illustrates the type of documentation researchers would expect if a significant Mauritanian incident had entered official channels. Reports would likely include witness statements, geographic tracking, military correspondence, or diplomatic communication. No equivalent body of evidence has surfaced for Mauritania in currently available Cold War archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1976RABAT05209 b</span><span class="citation-popover-snippet">Cable: 1976RABAT05209_b... UNIDENTIFIED FLYING OBJECTS (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BE...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8tLX00F5LgQ" title="Garrett M. Graff — UFO - with David Ignatius" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8tLX00F5LgQ" target="_blank" rel="noopener noreferrer">Garrett M. Graff — UFO - with David Ignatius</a></p><p class="youtube-embed-meta">Channel: Politics and Prose &middot; Views: 7.1K &middot; Uploaded: December 2023 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8tLX00F5LgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8tLX00F5LgQ">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ Researchers can identify several categories of surviving evidence:
 
 </div>
 
-What remains missing are detailed Mauritanian case files, sustained investigative records, radar documentation, or multi-source incident reconstructions comparable to those available for some European or North American cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAUNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...France-Afrique Dakar weekly reports the statement of an eyewitness who claims to have...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAUNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA...</span></span></span>
+What remains missing are detailed Mauritanian case files, sustained investigative records, radar documentation, or multi-source incident reconstructions comparable to those available for some European or North American cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...France-Afrique Dakar weekly reports the statement of an eyewitness who claims to have...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA...</span></span></span>
 
 This absence has shaped modern discussions of Mauritania's place in UFO history. Rather than standing as a major Cold War hotspot, Mauritania appears mainly as part of a wider West African geographical backdrop in which occasional unexplained aerial reports circulated through intelligence and colonial communication networks. The surviving evidence suggests regional monitoring and scattered observations, but not a documented Mauritanian UFO archive of comparable depth to better-known Cold War cases elsewhere. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[2cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. EYEWITNESS REPORTS SAUCER OVER DAKAR - Conakry, La Guinee...Read more...</span></span></span>
 
@@ -329,86 +329,44 @@ This absence has shaped modern discussions of Mauritania's place in UFO history.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Do Cold War Files Contain Mauritanian UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Do Cold War Files Contain Mauritanian UFO Cases?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on evidence evaluation and official case analysis during the Cold War period.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Provides firsthand context on Cold War-era military UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Strong coverage of Cold War intelligence, military files, and official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
-        
-        <p class="fr-book-desc">Directly examines official files and the historical record surrounding UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -442,75 +400,71 @@ This absence has shaped modern discussions of Mauritania's place in UFO history.
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien art print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">flying saucer model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-reports-do-cold-war-files-contain-mauritanian-ufo-cases-mauritania-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -724,121 +678,121 @@ This absence has shaped modern discussions of Mauritania's place in UFO history.
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAUNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...France-Afrique Dakar weekly reports the statement of an eyewitness who claims to have...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015466.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...France-Afrique Dakar weekly reports the statement of an eyewitness who claims to have...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0000015466](https://www.cia.gov/readingroom/document/0000015466)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAUNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/0000015466" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0000015466</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
    Title: ufos fact or fiction  
-   Link: [https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction](https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Fact or Fiction?Most of the documents concern CIA cables reporting unsubstantiated UFO... study-of-ufos-1947-1990/). The article i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cufon.org  
    Title: cia 52 2  
-   Link: [https://www.cufon.org/cufon/cia-52-2.htm](https://www.cufon.org/cufon/cia-52-2.htm)  
+   Link: <a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. EYEWITNESS REPORTS SAUCER OVER DAKAR - Conakry, La Guinee...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ouakam Airfield  
-   Link: [https://en.wikipedia.org/wiki/Ouakam_Airfield](https://en.wikipedia.org/wiki/Ouakam_Airfield)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ouakam_Airfield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ouakam_Airfield</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: French colonial aviation in Africa  
-   Link: [https://en.wikipedia.org/wiki/French_colonial_aviation_in_Africa](https://en.wikipedia.org/wiki/French_colonial_aviation_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/French_colonial_aviation_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/French_colonial_aviation_in_Africa</a>  
 
 8. <a id="endnote-8"></a>
    Source: wikileaks.org  
    Title: 1976RABAT05209 b  
-   Link: [https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html](https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiLeaksCable: 1976RABAT05209_b... UNIDENTIFIED FLYING OBJECTS (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BE...</p></details>
+   Link: <a href="https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wikileaks.org/plusd/cables/1976RABAT05209_b.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1976RABAT05209_b... UNIDENTIFIED FLYING OBJECTS (UFO&#x27;S) OVER MOROCCO ON THE NIGHT OF 18-19 SEPTEMBER. ACCORDING TO COL BE...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: [https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago](https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago)  
+   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold...17 Dec 2014 — General Nathan Twining fired off a memo in late-1947 describing t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005516149](https://www.cia.gov/readingroom/document/0005516149)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005516149" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516149</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND FRENCH WEST AFRICA. Document Type: FOIA. Keywords: UFO SPECIAL...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaReferences · Marcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/](https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...Viral CIA file about aliens attacking soldiers takes off with UFO intrigue - The fi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/engineeringexploration/posts/the-historical-intersection-of-global-tension-and-unidentified-aerial-phenomena-/1019390780634503/](https://www.facebook.com/engineeringexploration/posts/the-historical-intersection-of-global-tension-and-unidentified-aerial-phenomena-/1019390780634503/)  
+   Link: <a href="https://www.facebook.com/engineeringexploration/posts/the-historical-intersection-of-global-tension-and-unidentified-aerial-phenomena-/1019390780634503/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/the-historical-intersection-of-global-tension-and-unidentified-aerial-phenomena-/1019390780634503/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering FactsDeclassified reports often detail unusual sightings that occurred during periods of heightened military surveillance and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims](https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims)  
+   Link: <a href="https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Five Shocking UFO Space Secrets &amp; Cover-up ClaimsFormer US Air Force intelligence officer David Grusch testified about mysterious alien l...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/landings-in-north-africa.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/landings-in-north-africa.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/landings-in-north-africa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/landings-in-north-africa.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Landings in North AfricaA powerful American force equipped with adequate weapons of modern warfare and under American command is today la...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/14072](https://bluebookfiles.org/doc/14072)  
+   Link: <a href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/14072</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED FLYING OBJECTS OVER MOROCCO AND...Declassified unknown UFO document from CIAUFO - UNIDENTIFIED FLYING OBJECTS OVER MOROCCO...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=52yKJtXumA0](http://www.youtube.com/watch?v=52yKJtXumA0)  
+   Link: <a href="http://www.youtube.com/watch?v=52yKJtXumA0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=52yKJtXumA0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This history documentary provides critical chronological context for how the 1950s Cold War landscape fueled intelligence gathering on un...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Ministry of Defence acronyms and abbreviations  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf](https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Refuelling Boom. AARMAC. Air-to-Air Macro. AART. Ab-initio Airborne Radar... Aviation Bird Unit. ABW. Abbey Wood. AC. Acceptance...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1954 03 6780601 Nouasseur, Morocco  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/7/72/Project_Blue_Book_report_-_1954-03-6780601-Nouasseur%2C_Morocco.pdf](https://upload.wikimedia.org/wikipedia/commons/7/72/Project_Blue_Book_report_-_1954-03-6780601-Nouasseur%2C_Morocco.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/7/72/Project_Blue_Book_report_-_1954-03-6780601-Nouasseur%2C_Morocco.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/72/Project_Blue_Book_report_-_1954-03-6780601-Nouasseur%2C_Morocco.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots of KC-97, C-47 and C-54 reported. UFO making passes at them at various times. One radar site displayed stationary target...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: foreignpolicy.com  
    Title: wikileaked the soviet space junk that became a moroccan ufo  
-   Link: [https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/](https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/)  
+   Link: <a href="https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Soviet space junk that became a Moroccan UFO11 Apr 2013 — An unidentified flying object spotted along the Moroccan coast in the early...</p></details>
